@@ -4,6 +4,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 
 import requests
 
+
 def fetch_epg_data(start_date, num_days):
     epg_data = {}
     for i in range(num_days - 1):
@@ -16,9 +17,16 @@ def fetch_epg_data(start_date, num_days):
         epg_data[date.strftime('%Y-%m-%d')] = data['result']
     return epg_data
 
-def convert_to_xmltv(epg_data, channel_name):
+
+def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
     tv = Element("tv", source_info_url="https://raibz.rai.it", source_info_name="RAI.bz",
                  generator_info_name="XMLTV", generator_info_url="http://www.xmltv.org/")
+
+    # Add channel information
+    channel = SubElement(tv, "channel", id="channel_id_here")
+    display_name = SubElement(channel, "display-name", lang=lang)
+    display_name.text = channel_name
+    SubElement(channel, "icon", src=icon_url)
 
     for date, programs in epg_data.items():
         for program in programs:
@@ -40,12 +48,14 @@ def convert_to_xmltv(epg_data, channel_name):
 
     return tostring(tv, encoding="utf-8")
 
+
 def main():
     start_date = datetime.now().date()
     num_days = 10
     channel_name = "Rai Südtirol"
+    icon_url = "https://i.imgur.com/GSsMRxE.png"
     epg_data = fetch_epg_data(start_date, num_days)
-    xmltv_data = convert_to_xmltv(epg_data, channel_name)
+    xmltv_data = convert_to_xmltv(epg_data, channel_name, icon_url)
 
     # Parse the XML string into a DOM object
     dom = xml.dom.minidom.parseString(xmltv_data)
@@ -56,6 +66,7 @@ def main():
     # Write the XMLTV data to a file
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(pretty_xmltv_data)
+
 
 if __name__ == "__main__":
     main()
