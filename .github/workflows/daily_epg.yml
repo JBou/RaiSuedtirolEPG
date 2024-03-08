@@ -32,8 +32,13 @@ jobs:
       - name: Run EPG Generation Script
         run: python epg_scraper.py
 
-      - name: Switch to epg branch
-        run: git checkout --track origin/epg && git pull --rebase --autostash
+      - name: Checkout epg branch
+        uses: actions/checkout@v2
+        with:
+          ref: epg
+
+      - name: Rebase epg branch
+        run: git pull --rebase --autostash
 
       - name: Commit XML file
         run: |
