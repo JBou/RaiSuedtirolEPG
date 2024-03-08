@@ -4,7 +4,7 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240309180000 +0100" stop="20240312050000 +0100" channel="Rai Südtirol">
+  <programme start="20240309180000 +0100" stop="20240309185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
     <desc>Weben made in Südtirol: die Brunecker Manufaktur Ulbrich, die Gadertaler Familie Nagler und der Designer Michael Klammsteiner. Anschließend erkunden wir das winterliche Watlesgebiet.
@@ -14,17 +14,17 @@ Freude in jeder Faser findet auch Designer Michael Klammsteiner, der Stoffe in G
 Seit 1857 widmet sich die Gadertaler Familie Nagler der Weberei. Mittlerweile kümmert sich die sechste Generation um alle Produktionsphasen, vom Design bis zum fertigen Artikel. 
 Anschließend führt uns Theo Hendrich gemeinsam mit Wanderführerin Tiziana Scisci in den Westen des Landes. Die beiden erwandern das Watlesgebiet oberhalb von Burgeis. Ziel ist die gleichnamige Spitze auf 2555 m. Ein winterliches Wandererlebnis für die ganze Familie mit sportlichen, kulinarischen aber auch kulturellen Höhepunkten im oberen Vinschgau.</desc>
   </programme>
-  <programme start="20240309200000 +0100" stop="20240310160000 +0100" channel="Rai Südtirol">
+  <programme start="20240309200000 +0100" stop="20240309202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240309202100 +0100" stop="20240310002100 +0100" channel="Rai Südtirol">
+  <programme start="20240309202100 +0100" stop="20240309202500 +0100" channel="Rai Südtirol">
     <title>Nachgedacht mit Jakob Declara</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240309202500 +0100" stop="20240311015500 +0100" channel="Rai Südtirol">
+  <programme start="20240309202500 +0100" stop="20240309205430 +0100" channel="Rai Südtirol">
     <title>Beziehungsweise</title>
     <sub-title>Einfach. Ethisch. Leben</sub-title>
     <desc>Mehr Wertschätzung für die Jugend, ein Theaterstück über Obdachlosigkeit, die Pfarrerin der lutherisch-evangelischen Gemeinde Bozen und die Autobiografie des Gastwirts Roman Perfler.
@@ -34,17 +34,17 @@ Auch im Theater sind sozialkritische Themen mittlerweile fest verankert. So feie
 Annette Herrmann-Winter kam im vergangenen Herbst als Interims-Pfarrerin nach Bozen. Erstmals ist es eine Frau, die die evangelisch-lutherische Gemeinde leitet. 
 Gastwirt Roman Perfler hat vor einem Jahr im Selbstverlag seine Autobiographie veröffentlicht. Sie trägt den Titel &quot;Lichtsuche - ein Lebensweg&quot;. Er beschreibt darin, wie er immer wieder vom Schicksal gebeutelt wurde. Er schreibt über den Mut weiterzugehen, das innere Licht zu suchen, loszulassen und neu zu beginnen. Für die Philosophische Rubrik antwortet er auf die Frage: Wie kann Neues beginnen?</desc>
   </programme>
-  <programme start="20240309221000 +0100" stop="20240310181000 +0100" channel="Rai Südtirol">
+  <programme start="20240309221000 +0100" stop="20240309223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240310200000 +0100" stop="20240311160000 +0100" channel="Rai Südtirol">
+  <programme start="20240310200000 +0100" stop="20240310202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240310202100 +0100" stop="20240311212100 +0100" channel="Rai Südtirol">
+  <programme start="20240310202100 +0100" stop="20240310204600 +0100" channel="Rai Südtirol">
     <title>Rasen im Antholzertal</title>
     <sub-title>Land und Leute</sub-title>
     <desc>Historische Ruinen, eine der schönsten Renaissancestuben, Südtirols größtes Feuchtgebiet, aber auch besondere Menschen prägen das Dorfbild von Rasen im Oberpustertal.
@@ -53,29 +53,29 @@ Rasen ist Teil des Naturparks Rieserferner-Ahrn. Das Biotop Rasner Möser in Obe
 Der Ansitz Heufler - ein 1580 erbauter Edelsitz - wurde erst kürzlich renoviert und ist derzeit ein Gastbetrieb. Besonders sehenswert ist die &quot;Hearnstube&quot; mit einer der schönsten Renaissancetäfelungen Südtirols, auf die die neue Pächterin Carmen Sartori besonders stolz ist. 
 Durch die Sendung &quot;Land und Leute&quot; begleiten uns außerdem Tamara Seyr, eine junge Künstlerin und Kräuterliebhaberin und der Bürgermeister von Rasen, Thomas Schuster.</desc>
   </programme>
-  <programme start="20240310204600 +0100" stop="20240311004600 +0100" channel="Rai Südtirol">
+  <programme start="20240310204600 +0100" stop="20240310205000 +0100" channel="Rai Südtirol">
     <title>Nachgedacht mit Jakob Declara</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240310221000 +0100" stop="20240311181000 +0100" channel="Rai Südtirol">
+  <programme start="20240310221000 +0100" stop="20240310223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240311180000 +0100" stop="20240312083000 +0100" channel="Rai Südtirol">
+  <programme start="20240311180000 +0100" stop="20240311181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
     <desc>Gleich zwei Burggräfler Derby finden am 22. Spieltag in der Fußball-Oberliga statt: Schlusslicht Lana empfängt Naturns - und Partschins hat Obermais zu Gast. In beiden Duellen geht es um wichtige Punkte im Kampf um den Klassenerhalt. 
 In der Landesliga steigt das Top-Match der 19. Runde in St. Johann, wo Gastgeber Ahrntal auf die Überraschungsmannschaft Latsch trifft.</desc>
   </programme>
-  <programme start="20240311181400 +0100" stop="20240312084400 +0100" channel="Rai Südtirol">
+  <programme start="20240311181400 +0100" stop="20240311182830 +0100" channel="Rai Südtirol">
     <title>Zipp</title>
     <sub-title>Katzen</sub-title>
     <desc>Pfote-Moderator Stefan trifft Katzenliebhaberin Patrizia aus Brixen. Bei ihr zuhause gibt es süßen wuscheligen Nachwuchs. Patrizia haben es besonders Kätzchen der Rasse Ragdoll angetan, denn sie sind sehr sanftmütig, haben ein langes, weiches, weißes Fell und ihre Augen leuchten wunderschön hellblau. Mit einigen ihrer Samtpfoten hat Patrizia schon internationale Preise gewonnen. Und da ihre Lieblinge so sanftmütig sind, kommen auch Kinder zu ihr, um sich beim Spielen mit den Kätzchen vom Alltagsstress zu erholen.
 Anschließend stellt Magdalena stellt ihr Lieblingsbuch vor: &quot;Club der Heldinnen&quot;.</desc>
   </programme>
-  <programme start="20240311182900 +0100" stop="20240312235900 +0100" channel="Rai Südtirol">
+  <programme start="20240311182900 +0100" stop="20240311185830 +0100" channel="Rai Südtirol">
     <title>Beziehungsweise</title>
     <sub-title>einfach.ethisch.leben</sub-title>
     <desc>Mehr Wertschätzung für die Jugend, ein Theaterstück über Obdachlosigkeit, die Pfarrerin der lutherisch-evangelischen Gemeinde Bozen und die Autobiografie des Gastwirts Roman Perfler.
@@ -84,12 +84,12 @@ Auch im Theater sind sozialkritische Themen mittlerweile fest verankert. So feie
 Annette Herrmann-Winter kam im vergangenen Herbst als Interims-Pfarrerin nach Bozen. Erstmals ist es eine Frau, die die evangelisch-lutherische Gemeinde leitet. 
 Gastwirt Roman Perfler hat vor einem Jahr im Selbstverlag seine Autobiographie veröffentlicht. Sie trägt den Titel &quot;Lichtsuche - ein Lebensweg&quot;. Er beschreibt darin, wie er immer wieder vom Schicksal gebeutelt wurde. Er schreibt über den Mut weiterzugehen, das innere Licht zu suchen, loszulassen und neu zu beginnen. Für die Philosophische Rubrik antwortet er auf die Frage: Wie kann Neues beginnen?</desc>
   </programme>
-  <programme start="20240311200000 +0100" stop="20240312160000 +0100" channel="Rai Südtirol">
+  <programme start="20240311200000 +0100" stop="20240311202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240311202100 +0100" stop="20240313162500 +0100" channel="Rai Südtirol">
+  <programme start="20240311202100 +0100" stop="20240311210504 +0100" channel="Rai Südtirol">
     <title>Grüne und andere Spinner</title>
     <sub-title>Die Ökobewegung in Südtirol</sub-title>
     <desc>Umwelt- und Naturschutz - diese Begriffe prägten die aufkeimende Ökobewegung der 1980iger Jahre. Auch in Südtirol. Die Filmdoku zeigt Erfolge und Niederlagen im Kampf um eine lebenswerte Zukunft.
@@ -99,52 +99,52 @@ Die Bewegung erhielt viel Zulauf. Neben den großen Verbänden entstanden ständ
 Man war trotz begrenzter technischer und finanzieller Mittel gut vernetzt und stand auch in ständigem, meist konfliktreichem Austausch mit der Landespolitik. 
 In der Doku kommen Pionier:innen der Südtiroler Umweltbewegung aller drei Sprachgruppen zu Wort. Sie bedauern, dass die damaligen Entscheidungsträger die Zeichen der Zeit nicht erkennen wollten und so die heutige Situation mit zu verantworten haben.</desc>
   </programme>
-  <programme start="20240311210500 +0100" stop="20240313003200 +0100" channel="Rai Südtirol">
+  <programme start="20240311210500 +0100" stop="20240311213227 +0100" channel="Rai Südtirol">
     <title>dF</title>
     <sub-title>Das Frauenmagazin</sub-title>
     <desc>Eine Kampagne für mehr Frauen in der Wissenschaft, Wittfrieda Mitterer vom Kuratorium für technische Kulturgüter im Porträt, drei geschützte Räume für Frauen, die Gewaltdelikte anzeigen. Im Studium haben die Frauen die Männer überholt. Es ist Zeit, dass sie auch auf dem Weg an die Spitze aus dem Schatten treten. Eine Kampagne der Freien Universität Bozen spornt Frauen zu einer Karriere in der Wissenschaft an. Forscherin Petra Cazzanelli hat in den USA gerade ihren PhD gemacht, Isabel Schäufele-Elbers ist Assistenzprofessorin an der Wirtschaftsfakultät der unibz. Welcher Weg führt zur Professur? Was ist Freiheit wert? Wie werden Frauen gefördert? 
 Wittfrida Mitterer wirft einen anderen Blick auf Südtirol und sieht Kulturschätze, die den wenigsten auffallen. Nachhaltiges Bauen und Technikgeschichte sind ihre Schwerpunkte. Sie lehrt an den Universitäten Innsbruck und Rom, leitet Architekturprojekte für die EU und ist seit 1990 die Geschäftsführerin des regionalen Kuratoriums für die Erhaltung technischer Kulturgüter. 
 In df Info geht es um die Initiative &quot;Ein Raum allein für sich&quot;. Damit hat die Vereinigung Soroptimist nun auch in Südtirol insgesamt drei geschützte Räume in der Bozner Quästur, sowie in Carabinieri-Stationen in Meran und Bruneck für Frauen geschaffen, die Gewaltdelikte anzeigen. Außerdem geht es um finanzielle Anreize für Unternehmen, die die Geschlechtergleichstellung im eigenen Betrieb umsetzen und zertifizieren lassen.</desc>
   </programme>
-  <programme start="20240311213200 +0100" stop="20240313005600 +0100" channel="Rai Südtirol">
+  <programme start="20240311213200 +0100" stop="20240311215924 +0100" channel="Rai Südtirol">
     <title>Leo Gurschler und der Beginn des Skitourismus</title>
     <sub-title/>
     <desc>Der Südtiroler Gletscherbahnpionier Leo Gurschler wurde nur 36 Jahre alt und doch prägte er den Sommerschilauf in Südtirol wie kein anderer. Ein Film von Gerd Staffler und Klaus Romen.
 Er legte persönlich mit Hand an, um 1975 im Schnalstal seinen Traum von der höchsten Seilbahn Südtirols zu verwirklichen. Das Ergebnis war die Schnalstaler Gletscherbahn mit ihrer Bergstation auf 3212 Metern Meereshöhe. Der dadurch möglich gewordene Sommerskibetrieb verhalf dem Schnalstal zu enormem Aufschwung. Die Zahl der Übernachtungen stieg von 11.000 im Jahr 1974 auf 255.000 im Jahr 1981. Familienpensionen wurden aufgestockt, Bauernhäuser ausgebaut, Keller in Hallenbäder umgewandelt, neue Hotels errichtet.
 Doch als der leidenschaftliche Hubschrauberpilot Gurschler ein Großhotel und über 160 Apartments bauen ließ, ging es mit dem ungekrönten &quot;König&quot; von Schnals unaufhaltsam bergab. Finanzhaie trieben ihn in den Konkurs. Im Oktober 1983 nahm sich Gurschler das Leben.</desc>
   </programme>
-  <programme start="20240311221000 +0100" stop="20240312181000 +0100" channel="Rai Südtirol">
+  <programme start="20240311221000 +0100" stop="20240311223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240312200000 +0100" stop="20240313160000 +0100" channel="Rai Südtirol">
+  <programme start="20240312200000 +0100" stop="20240312202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240312202000 +0100" stop="20240313105000 +0100" channel="Rai Südtirol">
+  <programme start="20240312202000 +0100" stop="20240312203430 +0100" channel="Rai Südtirol">
     <title>Im Fokus</title>
     <sub-title>Talksendung mit Hannes Senfter</sub-title>
     <desc/>
   </programme>
-  <programme start="20240312203500 +0100" stop="20240313110500 +0100" channel="Rai Südtirol">
+  <programme start="20240312203500 +0100" stop="20240312204930 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
     <desc>Gleich zwei Burggräfler Derby finden am 22. Spieltag in der Fußball-Oberliga statt: Schlusslicht Lana empfängt Naturns - und Partschins hat Obermais zu Gast. In beiden Duellen geht es um wichtige Punkte im Kampf um den Klassenerhalt. 
 In der Landesliga steigt das Top-Match der 19. Runde in St. Johann, wo Gastgeber Ahrntal auf die Überraschungsmannschaft Latsch trifft.</desc>
   </programme>
-  <programme start="20240312221000 +0100" stop="20240313181000 +0100" channel="Rai Südtirol">
+  <programme start="20240312221000 +0100" stop="20240312223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240313200000 +0100" stop="20240314160000 +0100" channel="Rai Südtirol">
+  <programme start="20240313200000 +0100" stop="20240313202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240313202000 +0100" stop="20240315015000 +0100" channel="Rai Südtirol">
+  <programme start="20240313202000 +0100" stop="20240313204930 +0100" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
     <desc>Stromlieferantenwechsel im Sommer, Obacht bei Influencer-Marketing, Gründe für Proteste gegen grüne Großprojekte und ein Blick auf die Marktgemeinde Schlanders. Moderation Markus Frings.
@@ -153,17 +153,17 @@ Influencer-Marketing im Fokus: Bekannte Persönlichkeiten präsentieren Produkte
 Erneuerbare Energien im Aufwind: Laut einer Studie von ASTAT und Eurac befürworten knapp drei Viertel der Südtiroler Bevölkerung den Ausbau erneuerbarer Energien. Doch trotz der Unterstützung kommt es bei der Planung von grünen Großprojekten immer wieder zu Widerstand und Protesten. Wir beleuchten die Hintergründe.
 Mit rund 6000 Einwohnern ist Schlanders der pulsierende Hauptort im Vinschgau. Wir erleben das bunte Treiben im malerischen Ortskern.</desc>
   </programme>
-  <programme start="20240313221000 +0100" stop="20240314181000 +0100" channel="Rai Südtirol">
+  <programme start="20240313221000 +0100" stop="20240313223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240314200000 +0100" stop="20240315160000 +0100" channel="Rai Südtirol">
+  <programme start="20240314200000 +0100" stop="20240314202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240314202000 +0100" stop="20240316015000 +0100" channel="Rai Südtirol">
+  <programme start="20240314202000 +0100" stop="20240314204930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
     <desc>Passion oder eben Leidenschaft setzt ungeahnte Kräfte frei und führt häufig zum Erfolg. Wofür brennen Menschen in Südtirol? Es moderiert Karin Gschnitzer.
@@ -172,17 +172,17 @@ Mit Leidenschaft einer Sache nachgehen, sein ganzes Herzblut in ein Projekt, in 
 Zu Gast im Gespräch ist DJane ENA, die erste hauptberufliche DJane Südtirols. 
 In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die sportlichen Erfolge von Gustav Thöni.</desc>
   </programme>
-  <programme start="20240314213000 +0100" stop="20240316030000 +0100" channel="Rai Südtirol">
+  <programme start="20240314213000 +0100" stop="20240314215930 +0100" channel="Rai Südtirol">
     <title>SportArena</title>
     <sub-title/>
     <desc>Im Biathlonzentrum Ridnaun wurden am Wochenende die neuen Jugend-Italienmeister im Einzel und in der Staffel gekürt. Die Snowboarder und die Alpinen Skifahrer der Altersklassse U16 ermittelten hingegen ihre Slalom-Landesmeister in Schnals und in Gröden.</desc>
   </programme>
-  <programme start="20240314221000 +0100" stop="20240315181000 +0100" channel="Rai Südtirol">
+  <programme start="20240314221000 +0100" stop="20240314223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240315180000 +0100" stop="20240316233000 +0100" channel="Rai Südtirol">
+  <programme start="20240315180000 +0100" stop="20240315182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
     <desc>Passion oder eben Leidenschaft setzt ungeahnte Kräfte frei und führt häufig zum Erfolg. Wofür brennen Menschen in Südtirol? Es moderiert Karin Gschnitzer.
@@ -190,17 +190,17 @@ Mit Leidenschaft einer Sache nachgehen, sein ganzes Herzblut in ein Projekt, in 
 Zu Gast im Gespräch ist DJane ENA, die erste hauptberufliche DJane Südtirols. 
 In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die sportlichen Erfolge von Gustav Thöni.</desc>
   </programme>
-  <programme start="20240315183000 +0100" stop="20240317000000 +0100" channel="Rai Südtirol">
+  <programme start="20240315183000 +0100" stop="20240315185930 +0100" channel="Rai Südtirol">
     <title>SportArena</title>
     <sub-title/>
     <desc>Im Biathlonzentrum Ridnaun wurden am Wochenende die neuen Jugend-Italienmeister im Einzel und in der Staffel gekürt. Die Snowboarder und die Alpinen Skifahrer der Altersklassse U16 ermittelten hingegen ihre Slalom-Landesmeister in Schnals und in Gröden.</desc>
   </programme>
-  <programme start="20240315200000 +0100" stop="20240316160000 +0100" channel="Rai Südtirol">
+  <programme start="20240315200000 +0100" stop="20240315202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240315202000 +0100" stop="20240318014600 +0100" channel="Rai Südtirol">
+  <programme start="20240315202000 +0100" stop="20240315211326 +0100" channel="Rai Südtirol">
     <title>Die Brennerautobahn</title>
     <sub-title>Die Geschichte eines visionären Projektes</sub-title>
     <desc>Dieser Film dokumentiert die Entstehungsgeschichte dieser wichtigen Nord-Süd-Achse von der ersten Idee, über politische Machtspiele, bis hin zu visionären Plänen für den Bau dieser 314 Kilometer.
@@ -210,7 +210,7 @@ Dieses Bauwerk gilt auch heute noch als Meisterwerk des 20. Jahrhunderts.
 Filmemacher Wolfgang Moser zeigt auch die ambitionierten Zukunftspläne der Brennerautobahn AG, denn diese haben es wahrlich in sich: vom autonomen Fahren, zum Truck Platooning, bis zur sog. Intermodalität. Das bedeutet, den Verkehr von der Straße auf die Schiene zu bringen.
 Wir erfahren, wie wichtig es ist, die Brennerautobahn für die Zukunft aufzurüsten.</desc>
   </programme>
-  <programme start="20240315211300 +0100" stop="20240317194700 +0100" channel="Rai Südtirol">
+  <programme start="20240315211300 +0100" stop="20240315215934 +0100" channel="Rai Südtirol">
     <title>Kriegsbahnen und ihre Geschichte</title>
     <sub-title>Mit der Eisenbahn durchs Tal</sub-title>
     <desc>Die Grödner Bahn, die Fleimstalbahn und die Dolomitenbahn wurden erbaut, um die Front mit
@@ -218,18 +218,18 @@ Nachschub zu versorgen. Nach dem Krieg wurden sie für den zivilen Verkehr genut
 Als im Ersten Weltkrieg an der Dolomitenfront teils heftige Kämpfe tobten, begann das Militär
 damit, sogenannte Kriegsbahnen zu bauen, um die Front mit Nachschub versorgen zu können. Nach dem Krieg wurden diese Bahnen von neuen Betreibern um- und ausgebaut und für den zivilen Verkehr genutzt, was insbesondere für den aufstrebenden Tourismus von Vorteil war. Die Blütezeit der Bahnen währte aber nur kurz. Die Eigentümer investierten aufgrund der hohen Kosten und angesichts schwindender Rentabiliät immer weniger. Das Aus war nur mehr eine Frage der Zeit. Filmemacherin Claudia Bosch und Kameramann Christian Gasser beschäftigen sich in ihrer Dokumentation mit der Geschichte dreier Kriegsbahnen: mit der Grödner Bahn, der Fleimstalbahn und der Dolomitenbahn.</desc>
   </programme>
-  <programme start="20240315221000 +0100" stop="20240316181000 +0100" channel="Rai Südtirol">
+  <programme start="20240315221000 +0100" stop="20240315223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240316180000 +0100" stop="20240317233000 +0100" channel="Rai Südtirol">
+  <programme start="20240316180000 +0100" stop="20240316182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
     <desc>Ob es um &quot;female empowerment&quot;, Frauen in der Wirtschaft oder um weibliches Unternehmertum geht, Trend hat sich bei Südtiroler Vereinen, Institutionen und Verbänden umgeschaut.
 Welche Initiativen wollen die Präsenz von Frauen in Führungspositionen der Wirtschaft fördern? Was ist &quot;Mentoring&quot; und was bringt es jungen Unternehmerinnen? Wer engagiert sich noch alles, um Frauen in ihrer beruflichen Karriere zu unterstützen? Mehr Frauen in Beschäftigung und auch auf den Führungsebenen machen auch Südtirols Wirtschaft resilienter und tragen einen Teil dazu bei, den Personal- und Fachkräftemangel zu beheben.</desc>
   </programme>
-  <programme start="20240316182900 +0100" stop="20240317235900 +0100" channel="Rai Südtirol">
+  <programme start="20240316182900 +0100" stop="20240316185830 +0100" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
     <desc>Stromlieferantenwechsel im Sommer, Obacht bei Influencer-Marketing, Gründe für Proteste gegen grüne Großprojekte und ein Blick auf die Marktgemeinde Schlanders. Moderation Markus Frings.
@@ -238,24 +238,24 @@ Influencer-Marketing im Fokus: Bekannte Persönlichkeiten präsentieren Produkte
 Erneuerbare Energien im Aufwind: Laut einer Studie von ASTAT und Eurac befürworten knapp drei Viertel der Südtiroler Bevölkerung den Ausbau erneuerbarer Energien. Doch trotz der Unterstützung kommt es bei der Planung von grünen Großprojekten immer wieder zu Widerstand und Protesten. Wir beleuchten die Hintergründe.
 Mit rund 6000 Einwohnern ist Schlanders der pulsierende Hauptort im Vinschgau. Wir erleben das bunte Treiben im malerischen Ortskern.</desc>
   </programme>
-  <programme start="20240316200000 +0100" stop="20240317160000 +0100" channel="Rai Südtirol">
+  <programme start="20240316200000 +0100" stop="20240316202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240316202100 +0100" stop="20240317002100 +0100" channel="Rai Südtirol">
+  <programme start="20240316202100 +0100" stop="20240316202500 +0100" channel="Rai Südtirol">
     <title>Nachgedacht mit Annette Herrmann-Winter</title>
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240316202500 +0100" stop="20240317205500 +0100" channel="Rai Südtirol">
+  <programme start="20240316202500 +0100" stop="20240316204930 +0100" channel="Rai Südtirol">
     <title>Alpen Donau Adria</title>
     <sub-title>Bilder aus Mitteleuropa</sub-title>
     <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
 
 &quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
   </programme>
-  <programme start="20240316221000 +0100" stop="20240317181000 +0100" channel="Rai Südtirol">
+  <programme start="20240316221000 +0100" stop="20240316223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
