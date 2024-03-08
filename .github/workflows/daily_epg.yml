@@ -6,6 +6,9 @@ on:
   push:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate_epg:
     runs-on: ubuntu-latest
@@ -24,11 +27,21 @@ jobs:
       - name: Run EPG Generation Script
         run: python epg_scraper.py
 
+      - name: Ensure epg branch exists
+        run: git show-ref --verify --quiet refs/heads/epg || git checkout --orphan epg
+
+      - name: Switch to epg branch
+        run: git checkout epg
+
       - name: Commit XML file
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
-          git checkout -b epg
           git add epg.xml
           git commit -m "Auto-generated EPG for $(date +"%Y-%m-%d")"
-          git push origin HEAD:${{ github.run_id }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: epg
