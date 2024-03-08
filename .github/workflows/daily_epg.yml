@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
+          git config --global pull.rebase true # Set pull.rebase to true
 
       - name: Run EPG Generation Script
         run: python epg_scraper.py
