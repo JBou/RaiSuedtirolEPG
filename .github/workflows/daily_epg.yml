@@ -26,7 +26,7 @@ jobs:
 
       - name: Ensure epg branch exists
         run: |
-          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && touch epg.xml && |
+          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && touch epg.xml && \
           git add -f epg.xml && git commit --allow-empty -m "Initial commit for epg branch" epg.xml)
 
       - name: Run EPG Generation Script
