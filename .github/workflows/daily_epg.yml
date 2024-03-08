@@ -34,7 +34,7 @@ jobs:
 
       - name: Rebase epg branch
         run: |
-          git fetch origin && git add -f epg.xml && git stash save "EPG" && git checkout -b epg origin/epg && \
+          git fetch origin && git add -f epg.xml && git stash save "EPG" && git checkout -b epg origin/epg
           git stash apply && git checkout --theirs -- epg.xml
         
 
