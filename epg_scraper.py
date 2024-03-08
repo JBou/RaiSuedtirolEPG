@@ -33,7 +33,7 @@ def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
         for program in programs:
             start_time = datetime.strptime(date + " " + program['ora'], "%Y-%m-%d %H:%M").replace(tzinfo=ZoneInfo("Europe/Rome"))
             duration_minutes = int(program['durata'])
-            stop_time = start_time + timedelta(minutes=duration_minutes)
+            stop_time = start_time + timedelta(seconds=duration_minutes)
 
             programme = SubElement(tv, "programme", start=start_time.strftime("%Y%m%d%H%M%S %z"),
                                    stop=stop_time.strftime("%Y%m%d%H%M%S %z"), channel=channel_name)
