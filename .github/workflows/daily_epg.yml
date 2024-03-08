@@ -38,7 +38,7 @@ jobs:
         run: python epg_scraper.py
 
       - name: Switch to epg branch
-        run: git rebase epg && git checkout epg
+        run: git checkout epg && git pull --rebase --autostash
 
       - name: Commit XML file
         run: |
