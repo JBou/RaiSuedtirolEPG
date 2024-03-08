@@ -33,7 +33,7 @@ jobs:
         run: python epg_scraper.py
 
       - name: Switch to epg branch
-        run: git checkout origin/epg && git pull --rebase --autostash
+        run: git checkout --track origin/epg && git pull --rebase --autostash
 
       - name: Commit XML file
         run: |
