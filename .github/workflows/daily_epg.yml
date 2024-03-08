@@ -33,7 +33,10 @@ jobs:
         run: python epg_scraper.py
 
       - name: Rebase epg branch
-        run: git pull --rebase --autostash origin epg && git checkout origin/epg
+        run: |
+          git pull origin epg && git add -f epg.xml && git stash save "EPG" && git checkout epg && git stash apply && \
+          git checkout --theirs -- epg.xml
+        
 
       - name: Commit XML file
         run: |
