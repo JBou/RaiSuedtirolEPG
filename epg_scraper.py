@@ -1,6 +1,7 @@
 import xml.dom.minidom
 from datetime import datetime, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -30,7 +31,7 @@ def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
 
     for date, programs in epg_data.items():
         for program in programs:
-            start_time = datetime.strptime(date + " " + program['ora'], "%Y-%m-%d %H:%M")
+            start_time = datetime.strptime(date + " " + program['ora'], "%Y-%m-%d %H:%M").replace(tzinfo=ZoneInfo("Europe/Rome"))
             duration_minutes = int(program['durata'])
             stop_time = start_time + timedelta(minutes=duration_minutes)
 
