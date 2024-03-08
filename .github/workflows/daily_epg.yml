@@ -36,6 +36,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: epg
+          clean: false
 
       - name: Rebase epg branch
         run: git pull --rebase --autostash
