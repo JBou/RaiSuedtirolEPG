@@ -27,6 +27,11 @@ jobs:
       - name: Run EPG Generation Script
         run: python epg_scraper.py
 
+      - name: Setup git config
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+
       - name: Ensure epg branch exists
         run: |
           git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && git commit --allow-empty -m "Initial commit for epg branch")
@@ -36,8 +41,6 @@ jobs:
 
       - name: Commit XML file
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@users.noreply.github.com'
           git add epg.xml
           git commit -m "Auto-generated EPG for $(date +"%Y-%m-%d")"
 
