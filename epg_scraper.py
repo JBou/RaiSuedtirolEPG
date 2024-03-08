@@ -12,7 +12,7 @@ def fetch_epg_data(start_date, num_days):
         url = f"https://raibz.rai.it/lib/data_app_palinsesto.php?&tipo=tv&day={date.strftime('%Y-%m-%d')}&struct=sb&lang=de"
         response = requests.get(url)
         if not response.text.strip():
-            break
+            continue
         data = response.json()
         epg_data[date.strftime('%Y-%m-%d')] = data['result']
     return epg_data
@@ -23,7 +23,7 @@ def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
                  generator_info_name="XMLTV", generator_info_url="http://www.xmltv.org/")
 
     # Add channel information
-    channel = SubElement(tv, "channel", id="channel_id_here")
+    channel = SubElement(tv, "channel", id=channel_name)
     display_name = SubElement(channel, "display-name", lang=lang)
     display_name.text = channel_name
     SubElement(channel, "icon", src=icon_url)
