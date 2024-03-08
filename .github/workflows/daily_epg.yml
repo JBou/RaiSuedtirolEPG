@@ -24,6 +24,11 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
+      - name: Ensure epg branch exists
+        run: |
+          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && touch epg.xml && |
+          git add -f epg.xml && git commit --allow-empty -m "Initial commit for epg branch" epg.xml)
+
       - name: Run EPG Generation Script
         run: python epg_scraper.py
 
@@ -31,10 +36,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
-
-      - name: Ensure epg branch exists
-        run: |
-          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && touch epg.xml && git commit --allow-empty -m "Initial commit for epg branch" epg.xml)
 
       - name: Switch to epg branch
         run: git checkout epg
