@@ -30,8 +30,8 @@ def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
 
     for date, programs in epg_data.items():
         for program in programs:
-            start_time = datetime.strptime(program['ora'], "%H:%M")
-            duration_minutes = int(program['durata']) // 60
+            start_time = datetime.strptime(date + " " + program['ora'], "%Y-%m-%d %H:%M")
+            duration_minutes = int(program['durata'])
             stop_time = start_time + timedelta(minutes=duration_minutes)
 
             programme = SubElement(tv, "programme", start=start_time.strftime("%Y%m%d%H%M%S %z"),
@@ -61,7 +61,7 @@ def main():
     dom = xml.dom.minidom.parseString(xmltv_data)
 
     # Pretty print the XML
-    pretty_xmltv_data = dom.toprettyxml(encoding="utf-8").decode('utf-8')
+    pretty_xmltv_data = dom.toprettyxml(encoding="utf-8", indent="  ").decode('utf-8')
 
     # Write the XMLTV data to a file
     with open("epg.xml", "w", encoding="utf-8") as f:
