@@ -34,7 +34,7 @@ jobs:
 
       - name: Ensure epg branch exists
         run: |
-          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && git commit --allow-empty -m "Initial commit for epg branch")
+          git show-ref --verify --quiet refs/heads/epg || (git checkout --orphan epg && touch epg.xml && git commit --allow-empty -m "Initial commit for epg branch" epg.xml)
 
       - name: Switch to epg branch
         run: git checkout epg
