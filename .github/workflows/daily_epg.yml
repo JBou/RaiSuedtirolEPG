@@ -41,7 +41,7 @@ jobs:
 
       - name: Commit XML file
         run: |
-          git add epg.xml
+          git add -f epg.xml
           git commit -m "Auto-generated EPG for $(date +"%Y-%m-%d")"
 
       - name: Push changes
