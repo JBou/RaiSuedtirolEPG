@@ -1,0 +1,34 @@
+name: Daily EPG Generation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  push:
+  workflow_dispatch:
+
+jobs:
+  generate_epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run EPG Generation Script
+        run: python epg_scraper.py
+
+      - name: Commit XML file
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+          git checkout -b epg
+          git add epg.xml
+          git commit -m "Auto-generated EPG for $(date +"%Y-%m-%d")"
+          git push origin HEAD:${{ github.run_id }}
