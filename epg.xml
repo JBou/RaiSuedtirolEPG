@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240309180000 +0100" stop="20240309185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Weben made in Südtirol: die Brunecker Manufaktur Ulbrich, die Gadertaler Familie Nagler und der Designer Michael Klammsteiner. Anschließend erkunden wir das winterliche Watlesgebiet.
-
-Das Weben hat in Südtirol eine lange Tradition. Petra Tschenett besucht die Textil Manufaktur Ulbrich in Bruneck, wo man Tradition mit Weltoffenheit und Kreativität verbindet. Produziert wird vor allem hochwertige Tischwäsche. 
-Freude in jeder Faser findet auch Designer Michael Klammsteiner, der Stoffe in Gefühlshüllen verwandelt. 
-Seit 1857 widmet sich die Gadertaler Familie Nagler der Weberei. Mittlerweile kümmert sich die sechste Generation um alle Produktionsphasen, vom Design bis zum fertigen Artikel. 
-Anschließend führt uns Theo Hendrich gemeinsam mit Wanderführerin Tiziana Scisci in den Westen des Landes. Die beiden erwandern das Watlesgebiet oberhalb von Burgeis. Ziel ist die gleichnamige Spitze auf 2555 m. Ein winterliches Wandererlebnis für die ganze Familie mit sportlichen, kulinarischen aber auch kulturellen Höhepunkten im oberen Vinschgau.</desc>
-  </programme>
-  <programme start="20240309200000 +0100" stop="20240309202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240309202100 +0100" stop="20240309202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240309202500 +0100" stop="20240309205430 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach. Ethisch. Leben</sub-title>
-    <desc>Mehr Wertschätzung für die Jugend, ein Theaterstück über Obdachlosigkeit, die Pfarrerin der lutherisch-evangelischen Gemeinde Bozen und die Autobiografie des Gastwirts Roman Perfler.
-
-Heranwachsende Jugendliche verdienen in unserer Gesellschaft mehr Wertschätzung, mehr Raum und mehr Gehör. Davon ist Thomas Kobler überzeugt. Nach vielen Jahren in der offenen Jugendarbeit und als künstlerischer Leiter des Ost West Clubs in Meran weiß er, wovon er spricht. Seit zwei Jahren begleitet der Schulsozialpädagoge Jugendliche an der FOS Meran.
-Auch im Theater sind sozialkritische Themen mittlerweile fest verankert. So feiert das Theater in der Klemme, das Theater im Hof am Bozner Obstmarkt sein 25jähriges Bestehen mit der Geschichte einer Schauspielerin, die auf der Straße gelandet ist und dort ihre zweite Familie gefunden hat.
-Annette Herrmann-Winter kam im vergangenen Herbst als Interims-Pfarrerin nach Bozen. Erstmals ist es eine Frau, die die evangelisch-lutherische Gemeinde leitet. 
-Gastwirt Roman Perfler hat vor einem Jahr im Selbstverlag seine Autobiographie veröffentlicht. Sie trägt den Titel &quot;Lichtsuche - ein Lebensweg&quot;. Er beschreibt darin, wie er immer wieder vom Schicksal gebeutelt wurde. Er schreibt über den Mut weiterzugehen, das innere Licht zu suchen, loszulassen und neu zu beginnen. Für die Philosophische Rubrik antwortet er auf die Frage: Wie kann Neues beginnen?</desc>
-  </programme>
-  <programme start="20240309221000 +0100" stop="20240309223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240310200000 +0100" stop="20240310202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
