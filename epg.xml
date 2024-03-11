@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240310200000 +0100" stop="20240310202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240310202100 +0100" stop="20240310204600 +0100" channel="Rai Südtirol">
-    <title>Rasen im Antholzertal</title>
-    <sub-title>Land und Leute</sub-title>
-    <desc>Historische Ruinen, eine der schönsten Renaissancestuben, Südtirols größtes Feuchtgebiet, aber auch besondere Menschen prägen das Dorfbild von Rasen im Oberpustertal.
-
-Rasen ist Teil des Naturparks Rieserferner-Ahrn. Das Biotop Rasner Möser in Oberrasen ist mit rund 35 Hektar das größte Moorgebiet Südtirols. Während sich der Sommer in Rasen zum Wandern und Radfahren eignet, spielt das Langlaufen im Winter eine wichtige Rolle - beim Gast, aber vor allem bei den Einheimischen.Kulturinteressierte finden in Rasen gleich zwei historische Ruinen: die Burg Altrasen und die Burg Neurasen.
-Der Ansitz Heufler - ein 1580 erbauter Edelsitz - wurde erst kürzlich renoviert und ist derzeit ein Gastbetrieb. Besonders sehenswert ist die &quot;Hearnstube&quot; mit einer der schönsten Renaissancetäfelungen Südtirols, auf die die neue Pächterin Carmen Sartori besonders stolz ist. 
-Durch die Sendung &quot;Land und Leute&quot; begleiten uns außerdem Tamara Seyr, eine junge Künstlerin und Kräuterliebhaberin und der Bürgermeister von Rasen, Thomas Schuster.</desc>
-  </programme>
-  <programme start="20240310204600 +0100" stop="20240310205000 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240310221000 +0100" stop="20240310223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240311180000 +0100" stop="20240311181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
