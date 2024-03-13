@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240312200000 +0100" stop="20240312202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240312202000 +0100" stop="20240312203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240312203500 +0100" stop="20240312204930 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Gleich zwei Burggräfler Derby finden am 22. Spieltag in der Fußball-Oberliga statt: Schlusslicht Lana empfängt Naturns - und Partschins hat Obermais zu Gast. In beiden Duellen geht es um wichtige Punkte im Kampf um den Klassenerhalt. 
-In der Landesliga steigt das Top-Match der 19. Runde in St. Johann, wo Gastgeber Ahrntal auf die Überraschungsmannschaft Latsch trifft.</desc>
-  </programme>
-  <programme start="20240312221000 +0100" stop="20240312223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240313200000 +0100" stop="20240313202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
