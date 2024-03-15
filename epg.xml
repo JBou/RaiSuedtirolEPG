@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240314200000 +0100" stop="20240314202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240314202000 +0100" stop="20240314204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Passion oder eben Leidenschaft setzt ungeahnte Kräfte frei und führt häufig zum Erfolg. Wofür brennen Menschen in Südtirol? Es moderiert Karin Gschnitzer.
-
-Mit Leidenschaft einer Sache nachgehen, sein ganzes Herzblut in ein Projekt, in eine Idee stecken. Das Südtirol Magazin hat sich umgehört, wofür Menschen in Südtirol sich leidenschaftlich einsetzen. 
-Zu Gast im Gespräch ist DJane ENA, die erste hauptberufliche DJane Südtirols. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die sportlichen Erfolge von Gustav Thöni.</desc>
-  </programme>
-  <programme start="20240314213000 +0100" stop="20240314215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Im Biathlonzentrum Ridnaun wurden am Wochenende die neuen Jugend-Italienmeister im Einzel und in der Staffel gekürt. Die Snowboarder und die Alpinen Skifahrer der Altersklassse U16 ermittelten hingegen ihre Slalom-Landesmeister in Schnals und in Gröden.</desc>
-  </programme>
-  <programme start="20240314221000 +0100" stop="20240314223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240315180000 +0100" stop="20240315182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -127,6 +103,178 @@ In der Sendung privat mit Markus Frings erzählt sie über die Vereinbarkeit von
     <desc/>
   </programme>
   <programme start="20240317221000 +0100" stop="20240317223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240318180000 +0100" stop="20240318181430 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am 8. Oberliga-Spieltag geht es im Südtiroler Derby zwischen dem Bozner FC und Partschins bereits um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga empfängt Leifers den Tabellen-Dritten Latsch, während Weinstraße Süd in Margreid auf Gitschberg Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240318181400 +0100" stop="20240318183400 +0100" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Kochen kinderleicht</sub-title>
+    <desc>Hannah und Kochlehrerin Martina kochen diesmal Fleischbällchen mit Kartoffelpüree. Hauptzutat ist dabei faschiertes Fleisch vom Metzger, das zusammen mit einer alten Semmel, Schalotten und anderen Zutaten zu kleinen Bällchen verarbeitet wird. 
+Bei der Zubereitung des cremigen Kartoffelpürees hat Martina einige Tricks auf Lager hat.
+Anschließend geht's mit Clownfrau Karamela ins Schreibmaschinenmuseum in Partschins.</desc>
+  </programme>
+  <programme start="20240318183400 +0100" stop="20240318185830 +0100" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title>Bilder aus Mitteleuropa</sub-title>
+    <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
+&quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
+  </programme>
+  <programme start="20240318200000 +0100" stop="20240318202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240318202000 +0100" stop="20240318215930 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut: Wege aus der Depression</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Immer mehr Menschen leiden unter Depressionen. Die Zahlen steigen seit 20 Jahren kontinuierlich an. Wie kann man sich mit Traumata und ungesunden Prägungen versöhnen?
+
+Die Restriktionsmaßnahmen und die Schulschließungen in der Corona-Zeit haben besonders der psychischen Gesundheit von Kindern und Jugendlichen zugesetzt. Wie aus den negativen Gedankenspiralen aussteigen? Wie dem psychischen Stress entkommen, den Einsamkeit, Social Media und Ängste hervorrufen und der Depressionen verursachen können? 
+Nach der Doku &quot;Wenn das Leben sinnlos scheint - Wege aus der Depression&quot; von Josefin Bressel erzählen Betroffene und Expert:innen, wie sie im Alltag der Depression vorbeugen, welche Strategien sie entwickelt haben und was ihnen hilft, um den Herausforderungen des Lebens freudvoll und stark entgegenzusehen.</desc>
+  </programme>
+  <programme start="20240318221100 +0100" stop="20240318223100 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240319200000 +0100" stop="20240319202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240319202000 +0100" stop="20240319203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240319203500 +0100" stop="20240319204930 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am 8. Oberliga-Spieltag geht es im Südtiroler Derby zwischen dem Bozner FC und Partschins bereits um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga empfängt Leifers den Tabellen-Dritten Latsch, während Weinstraße Süd in Margreid auf Gitschberg Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240319221000 +0100" stop="20240319223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240320200000 +0100" stop="20240320202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240320202000 +0100" stop="20240320204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die politischen Befugnisse der Deutschsprachigen Gemeinschaft Belgiens, die Situation der Roma in Europa, das chinesische Neujahrsfest in Bozen. Moderation: Christina Khuen.
+
+Die Deutschsprachige Gemeinschaft Belgiens feiert heuer die 50jährige Einsetzung ihres Parlamentes. Nach und nach wurden dessen Befugnisse erweitert, und man hat inzwischen die Verantwortung für die Bereiche Gesundheit, Beschäftigung, Bildung und Forschung übernommen. Ein Lokalaugenschein. 
+Der Internationale Tag der Roma findet seit 1990 jährlich am 8. April statt und soll auf die Situation der Roma, die größte Minderheitengruppe Europas, aufmerksam machen. Minet blickt aus diesem Anlass nach Österreich, wo die Roma vor 30 Jahren als autochthone Volksgruppe anerkannt wurden. 
+Im Februar wurde das chinesische Neujahrsfest gefeiert und damit das neue Jahr 2024 eingeläutet - das Jahr des Drachens. Was das bedeutet und wie es in Bozen gefeiert wird, hat Minet recherchiert.</desc>
+  </programme>
+  <programme start="20240320221000 +0100" stop="20240320223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240321200000 +0100" stop="20240321202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240321202000 +0100" stop="20240321204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Was ist eigentlich Stille? Und wo findet man sie? Im Südtirol Magazin Gespräch gehen wir der Frage nach, ob Lärm krank machen kann. Es moderiert Magdalena Oberstaller. 
+
+Im Alltag wird es immer schwieriger, sich der akustischen Umweltverschmutzung zu entziehen. Überall wummert, fiept und säuselt es. Das Grundrauschen einer Stadt, in dem sich Autolärm, Kindergeschrei, Vogelgezwitscher, Kirchturmglocken und Sirenen vermischen, nehmen wir schon nicht mehr wahr.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240321213000 +0100" stop="20240321215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Das große Finale im Ski-Weltcup findet derzeit in Saalbach-Hinterglemm im Bundesland Salzburg statt, wo 2025 auch die Weltmeisterschaften ausgetragen werden. In dieser Woche standen die technischen Disziplinen auf dem Programm, nächste Woche die Speed-Rennen. In der Ice Hockey League hat am Dienstag das Play-Off-Halbfinale begonnen.</desc>
+  </programme>
+  <programme start="20240321221000 +0100" stop="20240321223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240322180000 +0100" stop="20240322182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Was ist eigentlich Stille? Und wo findet man sie? Im Südtirol Magazin Gespräch gehen wir der Frage nach, ob Lärm krank machen kann. Es moderiert Magdalena Oberstaller. 
+Im Alltag wird es immer schwieriger, sich der akustischen Umweltverschmutzung zu entziehen. Überall wummert, fiept und säuselt es. Das Grundrauschen einer Stadt, in dem sich Autolärm, Kindergeschrei, Vogelgezwitscher, Kirchturmglocken und Sirenen vermischen, nehmen wir schon nicht mehr wahr.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240322183000 +0100" stop="20240322185930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Das große Finale im Ski-Weltcup findet derzeit in Saalbach-Hinterglemm im Bundesland Salzburg statt, wo 2025 auch die Weltmeisterschaften ausgetragen werden. In dieser Woche standen die technischen Disziplinen auf dem Programm, nächste Woche die Speed-Rennen. In der Ice Hockey League hat am Dienstag das Play-Off-Halbfinale begonnen.</desc>
+  </programme>
+  <programme start="20240322200000 +0100" stop="20240322202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240322202100 +0100" stop="20240322211444 +0100" channel="Rai Südtirol">
+    <title>Think Big</title>
+    <sub-title>Resiliente Gastronomie in Südtirol</sub-title>
+    <desc>Wie kann man in Südtirol eine nachhaltigere Gastronomie entwickeln? Dieser Frage geht Koch und Forscher Mattia Baroni nach und macht sie auf die Suche nach fermentierten Lebensmitteln.
+Der Film erzählt den Werdegang von Mattia Baroni, einem Koch und Forscher, der die Rolle der Nahrung in der heutigen Gesellschaft hinterfragt und schließlich die Technik der Fermentierung für sich neu entdeckt. Eine uralte Methode der Lebensmittelverarbeitung, die heute in wissenschaftlichen und kulinarischen Kreisen wieder mehr ins Rampenlicht rückt. Wie hat sich diese Technik in unserem Land entwickelt? Und warum sind fermentierte Lebensmittel so gesund? Auf der Suche nach Antworten trifft Chefkoch Baroni auf ein Team von leidenschaftlichen Gastronomen und Forschern, die sich mit genau diesen Themen befassen. Am Schluss die Frage: Wie können diese Überlegungen auf eine breitere, internationale Ebene gebracht werden? Es liegt an Mattia Baroni, diese letzte Frage zu beantworten.</desc>
+  </programme>
+  <programme start="20240322211500 +0100" stop="20240322215923 +0100" channel="Rai Südtirol">
+    <title>Geschichte erwandern, Natur erleben</title>
+    <sub-title>Von Brixen nach Franzensfeste</sub-title>
+    <desc>Der Geschichtsparcours von Brixen nach Franzensfeste beginnt beim Heilig-Geist-Spital im Norden des Stadtkerns von Brixen und endet in der Festung Franzensfeste mit Blick auf den Stausee, unter dem der ehemalige Weiler Unterau sprichwörtlich begraben liegt. Es wird immer wieder dort Halt gemacht, wo besondere Fundstücke auf historische Ereignisse verweisen oder auf besondere Naturphänomene.</desc>
+  </programme>
+  <programme start="20240322221000 +0100" stop="20240322223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240323180000 +0100" stop="20240323182930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die politischen Befugnisse der Deutschsprachigen Gemeinschaft Belgiens, die Situation der Roma in Europa, das chinesische Neujahrsfest in Bozen. Moderation: Christina Khuen.
+Die Deutschsprachige Gemeinschaft Belgiens feiert heuer die 50jährige Einsetzung ihres Parlamentes. Nach und nach wurden dessen Befugnisse erweitert, und man hat inzwischen die Verantwortung für die Bereiche Gesundheit, Beschäftigung, Bildung und Forschung übernommen. Ein Lokalaugenschein. 
+Der Internationale Tag der Roma findet seit 1990 jährlich am 8. April statt und soll auf die Situation der Roma, die größte Minderheitengruppe Europas, aufmerksam machen. Minet blickt aus diesem Anlass nach Österreich, wo die Roma vor 30 Jahren als autochthone Volksgruppe anerkannt wurden. 
+Im Februar wurde das chinesische Neujahrsfest gefeiert und damit das neue Jahr 2024 eingeläutet - das Jahr des Drachens. Was das bedeutet und wie es in Bozen gefeiert wird, hat Minet recherchiert.</desc>
+  </programme>
+  <programme start="20240323182900 +0100" stop="20240323185830 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Antonia Egger</sub-title>
+    <desc>Seit 2019 Landesbäuerin engagiert sich Antonia Egger besonders für die Anliegen der Frauen. Auf ihrem Hof konzentriert sie sich auf Gemüseanbau und Direktvermarktung.
+Sie begann ihre berufliche Laufbahn als Grundschullehrerin in St. Georgen bei Bozen. Gemeinsam mit ihrem Ehemann hat sie sehr früh schon beschlossen, sich ganz dem Gemüseanbau und der Direktvermarktung vom Bauernhof zu widmen. 
+Schon früh engagierte sich Antonia Egger ehrenamtlich und richtete dabei den Fokus auf die Frauen im Dorf, unter anderem leitete sie den Frauentreff in Jenesien. 
+2019 übernahm Antonia Egger schließlich die Führung der Südtiroler Bäuerinnenorganisation und wurde zur Südtiroler Landesbäuerin ernannt. 
+In der Sendung privat mit Markus Frings erzählt sie über die Vereinbarkeit von Familie und Beruf als Bäuerin sowie über den Kontakt mit den Menschen, die sie tagtäglich begegnet.</desc>
+  </programme>
+  <programme start="20240323200000 +0100" stop="20240323202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240323202100 +0100" stop="20240323202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240323202500 +0100" stop="20240323205430 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Ein mobiler Hunde- und Katzensalon für ältere Tierhalter:innen, &quot;Reining&quot; - die Königsdisziplin des Westernreitens und Tipps zu artgerechtem Umgang mit Vierbeinern.
+
+Den Hund pflegen, waschen, scheren direkt am Wohnort - der mobile Hundesalon, der erste dieser Art in Südtirol, ist eine Alternative für ältere Hundebesitzer, die nicht mehr so mobil sind oder für Menschen, die ihrem Hund die Strapazen der Anfahrt zum Salon ersparen wollen. Gepflegt werden im mobilen Salon auch Katzen. Regelmäßige Fellpflege ist gerade bei Langhaarkatzen notwendig, um sie vor Parasiten zu schützen. 
+Die Disziplin &quot;Reining&quot; im Westernreiten hat ihren Ursprung in der Arbeit mit dem Rind. In dieser Königsdisziplin des Westernreitens ist ein bewegliches, athletisches und gehorsames Pferd nötig. Wir haben der amtierenden Italienmeisterin beim Training zugeschaut und uns zeigen lassen, was Westernreiten ist. 
+Die Verhaltenstierärztin gibt nützliche Tipps für einen artgerechten Umgang mit unseren Vierbeinern. In der Rubrik &quot;Neues &amp; Interessantes&quot; bringen wir allerlei Wissenswertes aus dem Tierreich und wir stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
+  </programme>
+  <programme start="20240323221000 +0100" stop="20240323223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
