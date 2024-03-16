@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240315180000 +0100" stop="20240315182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Passion oder eben Leidenschaft setzt ungeahnte Kräfte frei und führt häufig zum Erfolg. Wofür brennen Menschen in Südtirol? Es moderiert Karin Gschnitzer.
-Mit Leidenschaft einer Sache nachgehen, sein ganzes Herzblut in ein Projekt, in eine Idee stecken. Das Südtirol Magazin hat sich umgehört, wofür Menschen in Südtirol sich leidenschaftlich einsetzen. 
-Zu Gast im Gespräch ist DJane ENA, die erste hauptberufliche DJane Südtirols. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die sportlichen Erfolge von Gustav Thöni.</desc>
-  </programme>
-  <programme start="20240315183000 +0100" stop="20240315185930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Im Biathlonzentrum Ridnaun wurden am Wochenende die neuen Jugend-Italienmeister im Einzel und in der Staffel gekürt. Die Snowboarder und die Alpinen Skifahrer der Altersklassse U16 ermittelten hingegen ihre Slalom-Landesmeister in Schnals und in Gröden.</desc>
-  </programme>
-  <programme start="20240315200000 +0100" stop="20240315202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240315202000 +0100" stop="20240315211326 +0100" channel="Rai Südtirol">
-    <title>Die Brennerautobahn</title>
-    <sub-title>Die Geschichte eines visionären Projektes</sub-title>
-    <desc>Dieser Film dokumentiert die Entstehungsgeschichte dieser wichtigen Nord-Süd-Achse von der ersten Idee, über politische Machtspiele, bis hin zu visionären Plänen für den Bau dieser 314 Kilometer.
-
-Tagtäglich passieren Zigtausende PKW und LKW die Grenze über den Brenner, um die Alpen zu durchqueren. Es wäre fast undenkbar, wenn es diese Autobahn nicht geben würde. Dabei war der Bau dieser Strecke alles andere als einfach. Das letzte und schwierigste Teilstück wurde am 11.April 1974 - also vor 50 Jahren - fertiggestellt.
-Dieses Bauwerk gilt auch heute noch als Meisterwerk des 20. Jahrhunderts.
-Filmemacher Wolfgang Moser zeigt auch die ambitionierten Zukunftspläne der Brennerautobahn AG, denn diese haben es wahrlich in sich: vom autonomen Fahren, zum Truck Platooning, bis zur sog. Intermodalität. Das bedeutet, den Verkehr von der Straße auf die Schiene zu bringen.
-Wir erfahren, wie wichtig es ist, die Brennerautobahn für die Zukunft aufzurüsten.</desc>
-  </programme>
-  <programme start="20240315211300 +0100" stop="20240315215934 +0100" channel="Rai Südtirol">
-    <title>Kriegsbahnen und ihre Geschichte</title>
-    <sub-title>Mit der Eisenbahn durchs Tal</sub-title>
-    <desc>Die Grödner Bahn, die Fleimstalbahn und die Dolomitenbahn wurden erbaut, um die Front mit
-Nachschub zu versorgen. Nach dem Krieg wurden sie für den zivilen Verkehr genutzt, aber nur für kurze Zeit.
-Als im Ersten Weltkrieg an der Dolomitenfront teils heftige Kämpfe tobten, begann das Militär
-damit, sogenannte Kriegsbahnen zu bauen, um die Front mit Nachschub versorgen zu können. Nach dem Krieg wurden diese Bahnen von neuen Betreibern um- und ausgebaut und für den zivilen Verkehr genutzt, was insbesondere für den aufstrebenden Tourismus von Vorteil war. Die Blütezeit der Bahnen währte aber nur kurz. Die Eigentümer investierten aufgrund der hohen Kosten und angesichts schwindender Rentabiliät immer weniger. Das Aus war nur mehr eine Frage der Zeit. Filmemacherin Claudia Bosch und Kameramann Christian Gasser beschäftigen sich in ihrer Dokumentation mit der Geschichte dreier Kriegsbahnen: mit der Grödner Bahn, der Fleimstalbahn und der Dolomitenbahn.</desc>
-  </programme>
-  <programme start="20240315221000 +0100" stop="20240315223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240316180000 +0100" stop="20240316182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -275,6 +234,30 @@ Die Disziplin &quot;Reining&quot; im Westernreiten hat ihren Ursprung in der Arb
 Die Verhaltenstierärztin gibt nützliche Tipps für einen artgerechten Umgang mit unseren Vierbeinern. In der Rubrik &quot;Neues &amp; Interessantes&quot; bringen wir allerlei Wissenswertes aus dem Tierreich und wir stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
   </programme>
   <programme start="20240323221000 +0100" stop="20240323223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240324200000 +0100" stop="20240324202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240324202100 +0100" stop="20240324205030 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Ötzis Kupferbeil gibt Aufschluss über die Kupferproduktion von einst, Gründe für den CO2-Rückgang in Innsbruck, Schüler:innen einer Zwergschule und ihre Bildungsbiographie.
+
+Die Gletschermumie Ötzi lebte in der Kupferzeit und besaß u. a. ein sehr wertvolles Kupferbeil. Klinge und Schaft sind in ausgezeichnetem Zustand und verraten, wie ein Beil genau aufgebaut war. Einem Forschungsteam der Universität Padua ist es nun in Zusammenarbeit mit dem Südtiroler Archäologiemuseum erstmals gelungen, die verschiedenen Phasen der Kupferproduktion und -verbreitung in Italien zu definieren.  
+Ein weiteres Thema ist die CO2-Konzentration in der Stadt Innsbruck im Fokus. Dort ermitteln Forscher von der Universität am Atmosphärenobservatorium laufend Daten über die Konzentration dieses Treibhausgases in der Luft.  Seit 2018 können die Forscher eine starke Reduktion der Emissionen in der Stadt feststellen. Die Gründe dafür sind vielschichtig und nicht nur auf die Corona-Maßnahmen zurückzuführen. 
+Im dritten Beitrag besuchen wir die Zwergschule in Planeil, in der die Kinder aller Altersstufen in einem Schulraum unterrichtet werden. Die Bildungsbiografien der Schulkinder bilden den Forschungsgegenstand an der Bildungswissenschaftlichen Fakultät in Brixen.</desc>
+  </programme>
+  <programme start="20240324205000 +0100" stop="20240324205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240324221000 +0100" stop="20240324223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
