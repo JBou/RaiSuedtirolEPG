@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240316180000 +0100" stop="20240316182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Ob es um &quot;female empowerment&quot;, Frauen in der Wirtschaft oder um weibliches Unternehmertum geht, Trend hat sich bei Südtiroler Vereinen, Institutionen und Verbänden umgeschaut.
-Welche Initiativen wollen die Präsenz von Frauen in Führungspositionen der Wirtschaft fördern? Was ist &quot;Mentoring&quot; und was bringt es jungen Unternehmerinnen? Wer engagiert sich noch alles, um Frauen in ihrer beruflichen Karriere zu unterstützen? Mehr Frauen in Beschäftigung und auch auf den Führungsebenen machen auch Südtirols Wirtschaft resilienter und tragen einen Teil dazu bei, den Personal- und Fachkräftemangel zu beheben.</desc>
-  </programme>
-  <programme start="20240316182900 +0100" stop="20240316185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Stromlieferantenwechsel im Sommer, Obacht bei Influencer-Marketing, Gründe für Proteste gegen grüne Großprojekte und ein Blick auf die Marktgemeinde Schlanders. Moderation Markus Frings.
-Seien Sie vorbereitet: Im Juli wird der geschützte Strommarkt geöffnet. Nachdem der Gasmarkt bereits zu Jahresbeginn geöffnet wurde und Verbraucher sich nach neuen Angeboten umsehen mussten, steht nun der Strommarkt vor dem gleichen Wandel. Das Pluspunkt Magazin vergleicht Tarife und Anbieter.
-Influencer-Marketing im Fokus: Bekannte Persönlichkeiten präsentieren Produkte in den sozialen Medien. Aber wie transparent ist ihre Vermittlungstätigkeit wirklich? Pluspunkt informiert und gibt wertvolle Tipps zum Umgang mit Influencern.
-Erneuerbare Energien im Aufwind: Laut einer Studie von ASTAT und Eurac befürworten knapp drei Viertel der Südtiroler Bevölkerung den Ausbau erneuerbarer Energien. Doch trotz der Unterstützung kommt es bei der Planung von grünen Großprojekten immer wieder zu Widerstand und Protesten. Wir beleuchten die Hintergründe.
-Mit rund 6000 Einwohnern ist Schlanders der pulsierende Hauptort im Vinschgau. Wir erleben das bunte Treiben im malerischen Ortskern.</desc>
-  </programme>
-  <programme start="20240316200000 +0100" stop="20240316202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240316202100 +0100" stop="20240316202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Annette Herrmann-Winter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240316202500 +0100" stop="20240316204930 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title>Bilder aus Mitteleuropa</sub-title>
-    <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
-
-&quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
-  </programme>
-  <programme start="20240316221000 +0100" stop="20240316223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240317200000 +0100" stop="20240317202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
