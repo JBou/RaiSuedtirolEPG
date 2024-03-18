@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240317200000 +0100" stop="20240317202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240317202100 +0100" stop="20240317205030 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Antonia Egger</sub-title>
-    <desc>Seit 2019 Landesbäuerin engagiert sich Antonia Egger besonders für die Anliegen der Frauen. Auf ihrem Hof konzentriert sie sich auf Gemüseanbau und Direktvermarktung.
-
-Sie begann ihre berufliche Laufbahn als Grundschullehrerin in St. Georgen bei Bozen. Gemeinsam mit ihrem Ehemann hat sie sehr früh schon beschlossen, sich ganz dem Gemüseanbau und der Direktvermarktung vom Bauernhof zu widmen. 
-Schon früh engagierte sich Antonia Egger ehrenamtlich und richtete dabei den Fokus auf die Frauen im Dorf, unter anderem leitete sie den Frauentreff in Jenesien. 
-2019 übernahm Antonia Egger schließlich die Führung der Südtiroler Bäuerinnenorganisation und wurde zur Südtiroler Landesbäuerin ernannt. 
-In der Sendung privat mit Markus Frings erzählt sie über die Vereinbarkeit von Familie und Beruf als Bäuerin sowie über den Kontakt mit den Menschen, die sie tagtäglich begegnet.</desc>
-  </programme>
-  <programme start="20240317205000 +0100" stop="20240317205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Annette Herrmann-Winter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240317221000 +0100" stop="20240317223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240318180000 +0100" stop="20240318181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
