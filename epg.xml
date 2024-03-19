@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240318180000 +0100" stop="20240318181430 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am 8. Oberliga-Spieltag geht es im Südtiroler Derby zwischen dem Bozner FC und Partschins bereits um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga empfängt Leifers den Tabellen-Dritten Latsch, während Weinstraße Süd in Margreid auf Gitschberg Jochtal trifft.</desc>
-  </programme>
-  <programme start="20240318181400 +0100" stop="20240318183400 +0100" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Kochen kinderleicht</sub-title>
-    <desc>Hannah und Kochlehrerin Martina kochen diesmal Fleischbällchen mit Kartoffelpüree. Hauptzutat ist dabei faschiertes Fleisch vom Metzger, das zusammen mit einer alten Semmel, Schalotten und anderen Zutaten zu kleinen Bällchen verarbeitet wird. 
-Bei der Zubereitung des cremigen Kartoffelpürees hat Martina einige Tricks auf Lager hat.
-Anschließend geht's mit Clownfrau Karamela ins Schreibmaschinenmuseum in Partschins.</desc>
-  </programme>
-  <programme start="20240318183400 +0100" stop="20240318185830 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title>Bilder aus Mitteleuropa</sub-title>
-    <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
-&quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
-  </programme>
-  <programme start="20240318200000 +0100" stop="20240318202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240318202000 +0100" stop="20240318215930 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Wege aus der Depression</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Immer mehr Menschen leiden unter Depressionen. Die Zahlen steigen seit 20 Jahren kontinuierlich an. Wie kann man sich mit Traumata und ungesunden Prägungen versöhnen?
-
-Die Restriktionsmaßnahmen und die Schulschließungen in der Corona-Zeit haben besonders der psychischen Gesundheit von Kindern und Jugendlichen zugesetzt. Wie aus den negativen Gedankenspiralen aussteigen? Wie dem psychischen Stress entkommen, den Einsamkeit, Social Media und Ängste hervorrufen und der Depressionen verursachen können? 
-Nach der Doku &quot;Wenn das Leben sinnlos scheint - Wege aus der Depression&quot; von Josefin Bressel erzählen Betroffene und Expert:innen, wie sie im Alltag der Depression vorbeugen, welche Strategien sie entwickelt haben und was ihnen hilft, um den Herausforderungen des Lebens freudvoll und stark entgegenzusehen.</desc>
-  </programme>
-  <programme start="20240318221100 +0100" stop="20240318223100 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240319200000 +0100" stop="20240319202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
