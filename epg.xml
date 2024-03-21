@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240320200000 +0100" stop="20240320202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240320202000 +0100" stop="20240320204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die politischen Befugnisse der Deutschsprachigen Gemeinschaft Belgiens, die Situation der Roma in Europa, das chinesische Neujahrsfest in Bozen. Moderation: Christina Khuen.
-
-Die Deutschsprachige Gemeinschaft Belgiens feiert heuer die 50jährige Einsetzung ihres Parlamentes. Nach und nach wurden dessen Befugnisse erweitert, und man hat inzwischen die Verantwortung für die Bereiche Gesundheit, Beschäftigung, Bildung und Forschung übernommen. Ein Lokalaugenschein. 
-Der Internationale Tag der Roma findet seit 1990 jährlich am 8. April statt und soll auf die Situation der Roma, die größte Minderheitengruppe Europas, aufmerksam machen. Minet blickt aus diesem Anlass nach Österreich, wo die Roma vor 30 Jahren als autochthone Volksgruppe anerkannt wurden. 
-Im Februar wurde das chinesische Neujahrsfest gefeiert und damit das neue Jahr 2024 eingeläutet - das Jahr des Drachens. Was das bedeutet und wie es in Bozen gefeiert wird, hat Minet recherchiert.</desc>
-  </programme>
-  <programme start="20240320221000 +0100" stop="20240320223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240321200000 +0100" stop="20240321202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
