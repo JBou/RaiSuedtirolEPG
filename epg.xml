@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240321200000 +0100" stop="20240321202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240321202000 +0100" stop="20240321204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Was ist eigentlich Stille? Und wo findet man sie? Im Südtirol Magazin Gespräch gehen wir der Frage nach, ob Lärm krank machen kann. Es moderiert Magdalena Oberstaller. 
-
-Im Alltag wird es immer schwieriger, sich der akustischen Umweltverschmutzung zu entziehen. Überall wummert, fiept und säuselt es. Das Grundrauschen einer Stadt, in dem sich Autolärm, Kindergeschrei, Vogelgezwitscher, Kirchturmglocken und Sirenen vermischen, nehmen wir schon nicht mehr wahr.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240321213000 +0100" stop="20240321215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Das große Finale im Ski-Weltcup findet derzeit in Saalbach-Hinterglemm im Bundesland Salzburg statt, wo 2025 auch die Weltmeisterschaften ausgetragen werden. In dieser Woche standen die technischen Disziplinen auf dem Programm, nächste Woche die Speed-Rennen. In der Ice Hockey League hat am Dienstag das Play-Off-Halbfinale begonnen.</desc>
-  </programme>
-  <programme start="20240321221000 +0100" stop="20240321223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240322180000 +0100" stop="20240322182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -121,6 +98,206 @@ Im dritten Beitrag besuchen wir die Zwergschule in Planeil, in der die Kinder al
     <desc/>
   </programme>
   <programme start="20240324221000 +0100" stop="20240324223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240325180000 +0100" stop="20240325181430 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>In der Ober- und Landesliga wird diese Woche nicht gespielt, da die Landesauswahl in Ligurien an der Trophäe der Regionen teilnimmt. In der 1. Amateurliga im Kreis A ist Tabellenführer Gargazon in Bozen beim Haslacher SV zu Gast, Verfolger Tscherms Marling spielt in Plaus. 
+Im Kreis B trifft Titelfavorit Natz zu Hause im Eisacktaler Derby auf Albeins.</desc>
+  </programme>
+  <programme start="20240325181400 +0100" stop="20240325183400 +0100" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Jungfeuerwehrwettbewerb</sub-title>
+    <desc>Regelmäßig finden Landesfeuerwehrleistungsbewerbe statt - auch für die Jugendlichen. Zipp war in Neumarkt dabei. Die neunköpfigen Gruppen mussten eine Laufstrecke mit verschiedenen Hindernissen und einen Stafettenlauf zu absolvieren. Geschicklichkeit, Schnelligkeit und nicht zuletzt Teamgeist waren dabei der Schlüssel für den Erfolg. Fähigkeiten, die auch im Ernstfall wichtig sind. 
+In der Rubrik Kochen kinderleicht backen Kochlehrerin Martina und Hannah ein leckeres Bananen-Hirse-Nuss-Brot.</desc>
+  </programme>
+  <programme start="20240325183400 +0100" stop="20240325185830 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Ein Wintercamp für herzkranke Jugendliche in Pfitsch, Jungunternehmerin Greta Streitberger hilft bei der Glückssuche, die Brixner Berufsfachschule für Informatik im Porträt.
+Auch in diesem Jahr veranstaltet der Verein Kinderherz Südtirol gemeinsam mit der Technischen Uni München unter der Aufsicht von spezialisierten Ärzten und Betreuern ein Wintercamp in Pfitsch für herzkranke Jugendliche. Wir erleben, wie groß der Spaß in der Gruppe auf der Piste und abseits davon ist, und was die jungen Menschen in dieser Woche sonst noch fürs Leben mitnehmen.
+Die junge Greta Streitberger hilft jungen Menschen bei ihrer Selbstfindung und Glückssuche. Über persönliche Beratungen aber auch in Form von Retreats gibt sie Sinnsuchenden Werkzeuge, sich besser kennenzulernen und sich somit ein rundum zufriedenes Leben zu gestalten. Wie sie selbst ihren Weg gefunden hat und was ihre persönliche Glücksformel ist, verrät sie in Klick.
+Und wir haben das Berufsbildungszentrum &quot;Christian Josef Tschuggmall&quot; in Brixen besucht und mit Schüler:innen der Berufsfachschule für Fachinformatik gesprochen.</desc>
+  </programme>
+  <programme start="20240325200000 +0100" stop="20240325202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240325202000 +0100" stop="20240325211930 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>30 Jahre Architekturzentrum aut in Innsbruck, die Stiftung der Südtiroler Architekten, die Franzensfeste wird zur Frauenfestung, Schlagwerkerin Elisabeth Flunger und VBB-Dramaturg Daniel Theuring. 
+
+Das Architekturzentrum aut in Innsbruck feiert sein 30jähriges Bestehen. Kompass hat mit dem Leiter Arno Ritter einen Blick zurückgeworfen und außerdem mit der Stiftung der Südtiroler Architekten darüber gesprochen, ob eine solche Institution auch hierzulande wünschenswert wäre. 
+Die Schlagwerkerin Elisabeth Flunger ist - obwohl eine gebürtige Terlanerin - hierzulande wenig bekannt. Seit 40 Jahren lebt und arbeitet sie in Wien, ihr Metier sind Improvisation und Klangkunst.
+Seit Herbst 2023 ist der Westallgäuer Daniel Theuring Dramaturg bei den Vereinigten Bühnen Bozen. Derzeit betreut er die Theaterfassung des Romans &quot;Ein ganzes Leben&quot; von Robert Seethaler. Ohne Dramaturgen geht beim Theater nichts. Was aber macht ein Dramaturg? Ein Porträt über einen intellektuellen, gesellschaftspolitisch bewanderten Hintergrundarbeiter.
+Im Februar und März ist die Festung Franzensfeste zwar noch geschlossen, aber hinter den Toren arbeiten bereits 18 Künstlerinnen in ihren temporären Ateliers und verwandeln die Festung wieder in eine FRAUENfeste. Wie das aussieht, zeigen wir im Kompass. 
+Gäste von Moderator Alex Lechner sind die Schauspielerin und Regisseurin Magdalena Schwellensattl und Birgit Oberkofler, die der Filmförderung der IDM vorsteht.</desc>
+  </programme>
+  <programme start="20240325212000 +0100" stop="20240325214500 +0100" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Südtirol gilt als reiches Fleckchen Erde, doch auch hier gibt es Armut. Kaum zu glauben in einer Provinz, in der auch der relative Wohlstand ziemlich hoch ist. Jede sechste Person in Südtirol ist von relativer Armut betroffen. Inwiefern ist der vom Großinvestor Warren Buffet vielzitierte &quot;Krieg zwischen Arm und Reich&quot; auch in Südtirol präsent? Wie schaut Armut in Südtirol im Vergleich zu anderen Ländern aus? Angelika König und Simone Mayr sind mit ihrer &quot;Giulia&quot; unterwegs, probieren Tennis aus - einst ein Sport für Reiche - und spannen zum Thema Arm und Reich den Bogen von der großen weiten Welt bis in das Südtirol von heute.</desc>
+  </programme>
+  <programme start="20240325214500 +0100" stop="20240325220000 +0100" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Schloss Velthurns</sub-title>
+    <desc>Schloss Velthurns erinnert zurück an die Zeit der Brixner Fürstbischöfe. Die Anlage aus dem späten 16. Jahrhunderts ist bestens erhalten, ihre Wandmalereien sind besser erhalten als jene der Hofburg. Schloss Velthurns ist eine Perle unter den Südtiroler Baudenkmälern und kann als Museum besichtigt werden</desc>
+  </programme>
+  <programme start="20240325221000 +0100" stop="20240325223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240326200000 +0100" stop="20240326202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240326202000 +0100" stop="20240326203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240326203500 +0100" stop="20240326204930 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>In der Ober- und Landesliga wird diese Woche nicht gespielt, da die Landesauswahl in Ligurien an der Trophäe der Regionen teilnimmt. In der 1. Amateurliga im Kreis A ist Tabellenführer Gargazon in Bozen beim Haslacher SV zu Gast, Verfolger Tscherms Marling spielt in Plaus. 
+Im Kreis B trifft Titelfavorit Natz zu Hause im Eisacktaler Derby auf Albeins.</desc>
+  </programme>
+  <programme start="20240326221000 +0100" stop="20240326223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240327200000 +0100" stop="20240327202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240327202000 +0100" stop="20240327204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Die frischgebackene Bäuerin des Jahres Maria Forcher Tappeiner im Portrait, klimaneutrale Energieversorgung am Hof und 15 Jahre Käsefestival Sand in Taufers.
+
+An Herausforderungen wachsen und mutig eigene Wünsche und Ideen umsetzen, das ist das Motto von Maria Forcher Tappeiner, der Bäuerin des Jahres 2024. Mit ihrer Familie bewirtschaftet sie den Moarhof in Kastelbell, auf dem Obst- und Wein angebaut werden. Daneben hat sie eine Ausbildung zur Apfelbotschafterin gemacht, bietet Hofführungen an, geht an Schulen und wirbt auf Messen und Märkten für den Südtiroler Apfel. Land&amp;Leben hat die vielseitige Bäuerin portraitiert. 
+Weitere Themen sind das Käsefestival in Sand in Taufers, das der Käsevielfalt im Alpenraum seit 15 Jahren eine attraktive Bühne bietet. 
+Und in der Reihe &quot;Landwirtschaft im Klimawandel&quot; zeigen wir Beispiele für klimaneutrale Energieversorgung am Hof und bei der Genossenschaft. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240327221000 +0100" stop="20240327223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240328200000 +0100" stop="20240328202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240328202000 +0100" stop="20240328204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Anlässlich des bevorstehenden Osterfestes gehen wir der Frage nach, ob und woran die Menschen in Südtirol glauben. Welche Bedeutung hat der Glaube in der heutigen Gesellschaft? 
+
+Im Gespräch ist der Religionswissenschaftler Don Paolo Renner zu Gast. Köchin Sieglinde Pircher zeigt uns, wie man einen Osterkranz bäckt. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240328213000 +0100" stop="20240328215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Südtiroler Wintersport-Saison wird mit zwei Italienmeisterschaften abgeschlossen. In Antholz werden die Biathlon-Titel im Massenstart und in der Mixed-Staffel vergeben, in Reinswald werden hingegen die Italienmeisterinnen in der Abfahrt und im SuperG gekürt.</desc>
+  </programme>
+  <programme start="20240328221000 +0100" stop="20240328223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240329180000 +0100" stop="20240329182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Anlässlich des bevorstehenden Osterfestes gehen wir der Frage nach, ob und woran die Menschen in Südtirol glauben. Welche Bedeutung hat der Glaube in der heutigen Gesellschaft? 
+Im Gespräch ist der Religionswissenschaftler Don Paolo Renner zu Gast. Köchin Sieglinde Pircher zeigt uns, wie man einen Osterkranz bäckt. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240329182900 +0100" stop="20240329185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Südtiroler Wintersport-Saison wird mit zwei Italienmeisterschaften abgeschlossen. In Antholz werden die Biathlon-Titel im Massenstart und in der Mixed-Staffel vergeben, in Reinswald werden hingegen die Italienmeisterinnen in der Abfahrt und im SuperG gekürt.</desc>
+  </programme>
+  <programme start="20240329200000 +0100" stop="20240329202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240329202100 +0100" stop="20240329204944 +0100" channel="Rai Südtirol">
+    <title>Die Karwoche</title>
+    <sub-title>Zeit der Besinnung</sub-title>
+    <desc>Vorösterliche Bräuche in Südtirol: Pilgerwanderung zum Kalvarienberg in Schluderns, das Ostergrab in Taisten - eines der ältesten Tirols - und das Palmstangenbinden in Sterzing. 
+
+In Schluderns trifft sich jedes Jahr in der Fastenzeit eine bunt zusammengewürfelte Gruppe von Frauen und Männern um singend und betend zum Kalvarienberg oberhalb des Dorfes zu pilgern.
+Dieses offene Pilgern gibt es seit dem Jahre 2005. Bedeutend länger gibt es schon die Tradition der Ostergräber. In Taisten baut eine Gruppe von Männern vor dem Palmsonntag eines der ältesten datierten Heiliggräbern Tirols. In Sterzing ziehen am Palmsonntag die Palmstangen durch die Stadt. Die geweihten Buschen wurden in der Vergangenheit mit Kräften gegen das Böse verbunden - Welche Bedeutung man ihnen auch beimisst, sie bleiben ein unverzichtbares Symbol der vorösterlichen Zeit.</desc>
+  </programme>
+  <programme start="20240329205000 +0100" stop="20240329214930 +0100" channel="Rai Südtirol">
+    <title>Die Passion</title>
+    <sub-title>Die Sicht der Hauptdarsteller</sub-title>
+    <desc>Die Passion Christi vom Palmsonntag bis zum Tag der Auferstehung ist eine Geschichte voller
+Liebe und Hoffnung, aber sie erzählt auch von menschlichen Ängsten und Abgründen. 
+Die Erzählung bleibt durch die Jahrtausende gleich, doch der Blick darauf ändert sich mit der Zeit.
+Magdalena, Petrus, Judas, der Hohepriester Kaiphas und Pilatus erzählen die Passion in diesem Film aus ihren ganz eigenen Perspektiven.
+Die fünf Protagonisten suchen nach Wahrheit, sie sehnen sich danach. Jeder dieser Charaktere
+findet dabei seine eigene Melodie und seinen eigenen Rhythmus. Nur einer ist nicht da: Jesus
+Christus. Und doch dreht sich alles um ihn.
+Regisseur und Ideengeber Manfred Schweigkofler und sein Team haben ein ursprüngliches Theaterprojekt umgearbeitet und den Film &quot;Passion 21&quot; gestaltet.
+Dafür konnten beliebte und bekannte Schauspieler:innen gewonnen werden, unter anderem sind Michael Grimm, Valentina Schatzer und Sabine Sauer zu sehen.</desc>
+  </programme>
+  <programme start="20240329215000 +0100" stop="20240329220000 +0100" channel="Rai Südtirol">
+    <title>Das Heilige Grab in Albeins</title>
+    <sub-title>Höhepunkt der Osterzeit</sub-title>
+    <desc>Die Heiligen Gräber mit ihren bunten Kugeln erinnern an ein mystisches Schauspiel, das in den
+Passions- und Osterspielen seinen Höhepunkt erreicht.
+Die Pfarrei Albeins bei Brixen, eine der ältesten unseres Landes, besitzt ein spezielles Heiliges
+Grab, das alljährlich in der Margarethenkirche aufgestellt wird. Teile aus der späten Barockzeit
+wurden durch Kulissen des österreichischen Künstlers Josef Kramer ergänzt. 
+Auffallend sind neben seiner Liebe zum Detail die kräftigen Farben. Wir erleben die Liturgie der
+Karwoche, die durch das Heilige Grab besonders feierlich ausfällt. Eine Dokumentation von Ulrich Fistill und Willi Rainer.</desc>
+  </programme>
+  <programme start="20240329221000 +0100" stop="20240329223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240330180000 +0100" stop="20240330185930 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>30 Jahre Architekturzentrum aut in Innsbruck, die Stiftung der Südtiroler Architekten, die Franzensfeste wird zur Frauenfestung, Schlagwerkerin Elisabeth Flunger und VBB-Dramaturg Daniel Theuring. 
+Das Architekturzentrum aut in Innsbruck feiert sein 30jähriges Bestehen. Kompass hat mit dem Leiter Arno Ritter einen Blick zurückgeworfen und außerdem mit der Stiftung der Südtiroler Architekten darüber gesprochen, ob eine solche Institution auch hierzulande wünschenswert wäre. 
+Die Schlagwerkerin Elisabeth Flunger ist - obwohl eine gebürtige Terlanerin - hierzulande wenig bekannt. Seit 40 Jahren lebt und arbeitet sie in Wien, ihr Metier sind Improvisation und Klangkunst.
+Seit Herbst 2023 ist der Westallgäuer Daniel Theuring Dramaturg bei den Vereinigten Bühnen Bozen. Derzeit betreut er die Theaterfassung des Romans &quot;Ein ganzes Leben&quot; von Robert Seethaler. Ohne Dramaturgen geht beim Theater nichts. Was aber macht ein Dramaturg? Ein Porträt über einen intellektuellen, gesellschaftspolitisch bewanderten Hintergrundarbeiter.
+Im Februar und März ist die Festung Franzensfeste zwar noch geschlossen, aber hinter den Toren arbeiten bereits 18 Künstlerinnen in ihren temporären Ateliers und verwandeln die Festung wieder in eine FRAUENfeste. Wie das aussieht, zeigen wir im Kompass. 
+Gäste von Moderator Alex Lechner sind die Schauspielerin und Regisseurin Magdalena Schwellensattl und Birgit Oberkofler, die der Filmförderung der IDM vorsteht.</desc>
+  </programme>
+  <programme start="20240330200000 +0100" stop="20240330202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240330202100 +0100" stop="20240330202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240330202500 +0100" stop="20240330205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Das &quot;Nachhaltigkeitslabel Südtirol&quot; auch für Destinationen, Hotelier und HGV-Funktionär Walter Meister im Porträt, die Bedeutung von Gästekritik in Onlineportalen.
+
+Vor genau einem Jahr wurde das neue &quot;Nachhaltigkeitslabel Südtirol&quot; der Öffentlichkeit vorgestellt, das IDM Südtirol und Tourismusexperten erarbeitet haben. Dieses Nachhaltigkeitslabel wird nicht nur einzelnen Betrieben übergeben, sondern auch Destinationen. Willkommen war dazu in Brixen und auf der Seiser Alm.
+Als Hotelier ist er sein Leben lang schon für den Gast tätig, er hat sich viele Jahre für den Hoteliers- und Gastwirteverband engagiert und die Tourismusentwicklung im Land liegt ihm immer noch am Herzen: Walter Meister - im Portrait. 
+Und bei einem weiteren Thema geht es um die Bedeutung der Onlineportale und deren Bewertungen für einen Betrieb. Was bewirkt Gästekritik? Verschiedene Betriebe teilen mit uns ihre Erfahrungen.</desc>
+  </programme>
+  <programme start="20240330221000 +0100" stop="20240330223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
