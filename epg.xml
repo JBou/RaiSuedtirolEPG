@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240322180000 +0100" stop="20240322182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Was ist eigentlich Stille? Und wo findet man sie? Im Südtirol Magazin Gespräch gehen wir der Frage nach, ob Lärm krank machen kann. Es moderiert Magdalena Oberstaller. 
-Im Alltag wird es immer schwieriger, sich der akustischen Umweltverschmutzung zu entziehen. Überall wummert, fiept und säuselt es. Das Grundrauschen einer Stadt, in dem sich Autolärm, Kindergeschrei, Vogelgezwitscher, Kirchturmglocken und Sirenen vermischen, nehmen wir schon nicht mehr wahr.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240322183000 +0100" stop="20240322185930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Das große Finale im Ski-Weltcup findet derzeit in Saalbach-Hinterglemm im Bundesland Salzburg statt, wo 2025 auch die Weltmeisterschaften ausgetragen werden. In dieser Woche standen die technischen Disziplinen auf dem Programm, nächste Woche die Speed-Rennen. In der Ice Hockey League hat am Dienstag das Play-Off-Halbfinale begonnen.</desc>
-  </programme>
-  <programme start="20240322200000 +0100" stop="20240322202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240322202100 +0100" stop="20240322211444 +0100" channel="Rai Südtirol">
-    <title>Think Big</title>
-    <sub-title>Resiliente Gastronomie in Südtirol</sub-title>
-    <desc>Wie kann man in Südtirol eine nachhaltigere Gastronomie entwickeln? Dieser Frage geht Koch und Forscher Mattia Baroni nach und macht sie auf die Suche nach fermentierten Lebensmitteln.
-Der Film erzählt den Werdegang von Mattia Baroni, einem Koch und Forscher, der die Rolle der Nahrung in der heutigen Gesellschaft hinterfragt und schließlich die Technik der Fermentierung für sich neu entdeckt. Eine uralte Methode der Lebensmittelverarbeitung, die heute in wissenschaftlichen und kulinarischen Kreisen wieder mehr ins Rampenlicht rückt. Wie hat sich diese Technik in unserem Land entwickelt? Und warum sind fermentierte Lebensmittel so gesund? Auf der Suche nach Antworten trifft Chefkoch Baroni auf ein Team von leidenschaftlichen Gastronomen und Forschern, die sich mit genau diesen Themen befassen. Am Schluss die Frage: Wie können diese Überlegungen auf eine breitere, internationale Ebene gebracht werden? Es liegt an Mattia Baroni, diese letzte Frage zu beantworten.</desc>
-  </programme>
-  <programme start="20240322211500 +0100" stop="20240322215923 +0100" channel="Rai Südtirol">
-    <title>Geschichte erwandern, Natur erleben</title>
-    <sub-title>Von Brixen nach Franzensfeste</sub-title>
-    <desc>Der Geschichtsparcours von Brixen nach Franzensfeste beginnt beim Heilig-Geist-Spital im Norden des Stadtkerns von Brixen und endet in der Festung Franzensfeste mit Blick auf den Stausee, unter dem der ehemalige Weiler Unterau sprichwörtlich begraben liegt. Es wird immer wieder dort Halt gemacht, wo besondere Fundstücke auf historische Ereignisse verweisen oder auf besondere Naturphänomene.</desc>
-  </programme>
-  <programme start="20240322221000 +0100" stop="20240322223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240323180000 +0100" stop="20240323182930 +0100" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
@@ -298,6 +265,32 @@ Als Hotelier ist er sein Leben lang schon für den Gast tätig, er hat sich viel
 Und bei einem weiteren Thema geht es um die Bedeutung der Onlineportale und deren Bewertungen für einen Betrieb. Was bewirkt Gästekritik? Verschiedene Betriebe teilen mit uns ihre Erfahrungen.</desc>
   </programme>
   <programme start="20240330221000 +0100" stop="20240330223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240331100000 +0200" stop="20240331113000 +0200" channel="Rai Südtirol">
+    <title>Ostermesse</title>
+    <sub-title>Liveübertragung aus dem Bozner Dom</sub-title>
+    <desc>Der österliche Festgottesdienst mit Bischof Ivo Muser wird live aus dem Dom zu Bozen übertragen. Musikalisch umrahmt wird das Hochamt von Domchor und Domorchester unter der Leitung von Tobias Chizzali. Sie bringen die Messe in G-Dur von Franz Schubert zu Gehör.</desc>
+  </programme>
+  <programme start="20240331200000 +0200" stop="20240331202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240331202100 +0200" stop="20240331210100 +0200" channel="Rai Südtirol">
+    <title>Die Kunst des Vergoldens</title>
+    <sub-title>Ein fast verlorenes Kunsthandwerk</sub-title>
+    <desc>Der edle Rohstoff Gold zieht die Menschen schon seit jeher in den Bann. So bildete sich bereits in der Antike das Handwerk des Vergoldens heraus, mit dem man die unterschiedlichsten Objekte aufzuwerten versuchte, indem man ihnen ein erlesenes Aussehen verschaffte.
+Heute wird diese Kunstfertigkeit nur noch von wenigen Leuten beherrscht, das Wissen darüber geht immer weiter verloren. Im Grödental findet man aber noch ein paar &quot;Meister:innen&quot; dieser Zunft. Filmemacherin Claudia Bosch hat einigen über die Schulter geschaut und beschäftigt sich in ihrer Dokumentation mit vielfältigen Aspekten rund um dieses faszinierende Kunsthandwerk.</desc>
+  </programme>
+  <programme start="20240331210100 +0200" stop="20240331210500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240331221000 +0200" stop="20240331223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
