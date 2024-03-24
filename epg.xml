@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240323180000 +0100" stop="20240323182930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die politischen Befugnisse der Deutschsprachigen Gemeinschaft Belgiens, die Situation der Roma in Europa, das chinesische Neujahrsfest in Bozen. Moderation: Christina Khuen.
-Die Deutschsprachige Gemeinschaft Belgiens feiert heuer die 50jährige Einsetzung ihres Parlamentes. Nach und nach wurden dessen Befugnisse erweitert, und man hat inzwischen die Verantwortung für die Bereiche Gesundheit, Beschäftigung, Bildung und Forschung übernommen. Ein Lokalaugenschein. 
-Der Internationale Tag der Roma findet seit 1990 jährlich am 8. April statt und soll auf die Situation der Roma, die größte Minderheitengruppe Europas, aufmerksam machen. Minet blickt aus diesem Anlass nach Österreich, wo die Roma vor 30 Jahren als autochthone Volksgruppe anerkannt wurden. 
-Im Februar wurde das chinesische Neujahrsfest gefeiert und damit das neue Jahr 2024 eingeläutet - das Jahr des Drachens. Was das bedeutet und wie es in Bozen gefeiert wird, hat Minet recherchiert.</desc>
-  </programme>
-  <programme start="20240323182900 +0100" stop="20240323185830 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Antonia Egger</sub-title>
-    <desc>Seit 2019 Landesbäuerin engagiert sich Antonia Egger besonders für die Anliegen der Frauen. Auf ihrem Hof konzentriert sie sich auf Gemüseanbau und Direktvermarktung.
-Sie begann ihre berufliche Laufbahn als Grundschullehrerin in St. Georgen bei Bozen. Gemeinsam mit ihrem Ehemann hat sie sehr früh schon beschlossen, sich ganz dem Gemüseanbau und der Direktvermarktung vom Bauernhof zu widmen. 
-Schon früh engagierte sich Antonia Egger ehrenamtlich und richtete dabei den Fokus auf die Frauen im Dorf, unter anderem leitete sie den Frauentreff in Jenesien. 
-2019 übernahm Antonia Egger schließlich die Führung der Südtiroler Bäuerinnenorganisation und wurde zur Südtiroler Landesbäuerin ernannt. 
-In der Sendung privat mit Markus Frings erzählt sie über die Vereinbarkeit von Familie und Beruf als Bäuerin sowie über den Kontakt mit den Menschen, die sie tagtäglich begegnet.</desc>
-  </programme>
-  <programme start="20240323200000 +0100" stop="20240323202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240323202100 +0100" stop="20240323202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240323202500 +0100" stop="20240323205430 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Ein mobiler Hunde- und Katzensalon für ältere Tierhalter:innen, &quot;Reining&quot; - die Königsdisziplin des Westernreitens und Tipps zu artgerechtem Umgang mit Vierbeinern.
-
-Den Hund pflegen, waschen, scheren direkt am Wohnort - der mobile Hundesalon, der erste dieser Art in Südtirol, ist eine Alternative für ältere Hundebesitzer, die nicht mehr so mobil sind oder für Menschen, die ihrem Hund die Strapazen der Anfahrt zum Salon ersparen wollen. Gepflegt werden im mobilen Salon auch Katzen. Regelmäßige Fellpflege ist gerade bei Langhaarkatzen notwendig, um sie vor Parasiten zu schützen. 
-Die Disziplin &quot;Reining&quot; im Westernreiten hat ihren Ursprung in der Arbeit mit dem Rind. In dieser Königsdisziplin des Westernreitens ist ein bewegliches, athletisches und gehorsames Pferd nötig. Wir haben der amtierenden Italienmeisterin beim Training zugeschaut und uns zeigen lassen, was Westernreiten ist. 
-Die Verhaltenstierärztin gibt nützliche Tipps für einen artgerechten Umgang mit unseren Vierbeinern. In der Rubrik &quot;Neues &amp; Interessantes&quot; bringen wir allerlei Wissenswertes aus dem Tierreich und wir stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
-  </programme>
-  <programme start="20240323221000 +0100" stop="20240323223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240324200000 +0100" stop="20240324202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
