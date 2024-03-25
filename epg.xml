@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240324200000 +0100" stop="20240324202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240324202100 +0100" stop="20240324205030 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Ötzis Kupferbeil gibt Aufschluss über die Kupferproduktion von einst, Gründe für den CO2-Rückgang in Innsbruck, Schüler:innen einer Zwergschule und ihre Bildungsbiographie.
-
-Die Gletschermumie Ötzi lebte in der Kupferzeit und besaß u. a. ein sehr wertvolles Kupferbeil. Klinge und Schaft sind in ausgezeichnetem Zustand und verraten, wie ein Beil genau aufgebaut war. Einem Forschungsteam der Universität Padua ist es nun in Zusammenarbeit mit dem Südtiroler Archäologiemuseum erstmals gelungen, die verschiedenen Phasen der Kupferproduktion und -verbreitung in Italien zu definieren.  
-Ein weiteres Thema ist die CO2-Konzentration in der Stadt Innsbruck im Fokus. Dort ermitteln Forscher von der Universität am Atmosphärenobservatorium laufend Daten über die Konzentration dieses Treibhausgases in der Luft.  Seit 2018 können die Forscher eine starke Reduktion der Emissionen in der Stadt feststellen. Die Gründe dafür sind vielschichtig und nicht nur auf die Corona-Maßnahmen zurückzuführen. 
-Im dritten Beitrag besuchen wir die Zwergschule in Planeil, in der die Kinder aller Altersstufen in einem Schulraum unterrichtet werden. Die Bildungsbiografien der Schulkinder bilden den Forschungsgegenstand an der Bildungswissenschaftlichen Fakultät in Brixen.</desc>
-  </programme>
-  <programme start="20240324205000 +0100" stop="20240324205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240324221000 +0100" stop="20240324223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240325180000 +0100" stop="20240325181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
