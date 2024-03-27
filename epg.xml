@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240326200000 +0100" stop="20240326202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240326202000 +0100" stop="20240326203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240326203500 +0100" stop="20240326204930 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>In der Ober- und Landesliga wird diese Woche nicht gespielt, da die Landesauswahl in Ligurien an der Trophäe der Regionen teilnimmt. In der 1. Amateurliga im Kreis A ist Tabellenführer Gargazon in Bozen beim Haslacher SV zu Gast, Verfolger Tscherms Marling spielt in Plaus. 
-Im Kreis B trifft Titelfavorit Natz zu Hause im Eisacktaler Derby auf Albeins.</desc>
-  </programme>
-  <programme start="20240326221000 +0100" stop="20240326223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240327200000 +0100" stop="20240327202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
