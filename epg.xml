@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240327200000 +0100" stop="20240327202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240327202000 +0100" stop="20240327204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Die frischgebackene Bäuerin des Jahres Maria Forcher Tappeiner im Portrait, klimaneutrale Energieversorgung am Hof und 15 Jahre Käsefestival Sand in Taufers.
-
-An Herausforderungen wachsen und mutig eigene Wünsche und Ideen umsetzen, das ist das Motto von Maria Forcher Tappeiner, der Bäuerin des Jahres 2024. Mit ihrer Familie bewirtschaftet sie den Moarhof in Kastelbell, auf dem Obst- und Wein angebaut werden. Daneben hat sie eine Ausbildung zur Apfelbotschafterin gemacht, bietet Hofführungen an, geht an Schulen und wirbt auf Messen und Märkten für den Südtiroler Apfel. Land&amp;Leben hat die vielseitige Bäuerin portraitiert. 
-Weitere Themen sind das Käsefestival in Sand in Taufers, das der Käsevielfalt im Alpenraum seit 15 Jahren eine attraktive Bühne bietet. 
-Und in der Reihe &quot;Landwirtschaft im Klimawandel&quot; zeigen wir Beispiele für klimaneutrale Energieversorgung am Hof und bei der Genossenschaft. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240327221000 +0100" stop="20240327223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240328200000 +0100" stop="20240328202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -154,6 +135,141 @@ Heute wird diese Kunstfertigkeit nur noch von wenigen Leuten beherrscht, das Wis
     <desc/>
   </programme>
   <programme start="20240331221000 +0200" stop="20240331223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240401180000 +0200" stop="20240401181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nur ein einziges Südtiroler Derby steht am 24. Spieltag in der Fußball-Oberliga auf dem Programm: Partschins empfängt zu Hause dem Tabellendritten Tramin. In der Landesliga trifft Ahrntal in St. Johann auf Leifers, Milland spielt gegen Weinstraße Süd. Beide Mannschaften kämpfen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20240401181400 +0200" stop="20240401182723 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Urbane Gefühle am Berg</sub-title>
+    <desc>Am Glaningerberg nicht unweit der Landeshauptstadt gibt es einige interessante Kletterrouten. Man hat die Stadt unter sich und fühlt sich doch mitten in der Natur.</desc>
+  </programme>
+  <programme start="20240401182700 +0200" stop="20240401185749 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Die frischgebackene Bäuerin des Jahres Maria Forcher Tappeiner im Portrait, klimaneutrale Energieversorgung am Hof und 15 Jahre Käsefestival Sand in Taufers.
+An Herausforderungen wachsen und mutig eigene Wünsche und Ideen umsetzen, das ist das Motto von Maria Forcher Tappeiner, der Bäuerin des Jahres 2024. Mit ihrer Familie bewirtschaftet sie den Moarhof in Kastelbell, auf dem Obst- und Wein angebaut werden. Daneben hat sie eine Ausbildung zur Apfelbotschafterin gemacht, bietet Hofführungen an, geht an Schulen und wirbt auf Messen und Märkten für den Südtiroler Apfel. Land&amp;Leben hat die vielseitige Bäuerin portraitiert. 
+Weitere Themen sind das Käsefestival in Sand in Taufers, das der Käsevielfalt im Alpenraum seit 15 Jahren eine attraktive Bühne bietet. 
+Und in der Reihe &quot;Landwirtschaft im Klimawandel&quot; zeigen wir Beispiele für klimaneutrale Energieversorgung am Hof und bei der Genossenschaft. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240401200000 +0200" stop="20240401202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240401202000 +0200" stop="20240401205800 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter im Jahreskreis</title>
+    <sub-title>Der Frühling</sub-title>
+    <desc>Durch die verschiedenen Höhenlagen setzt der Frühling bei uns zu unterschiedlichen Zeiten ein. Eine Dokumentation über besondere blühende Bäume und ihre Mythen und Legenden.
+Je nach Höhenlage und Baumart entfaltet der Frühling seine Pracht auf vielfältige Weise: von den samtig-zarten Mandeln und den wärmeliebenden Zürgelbäumen in südlichen Lagen bis hinauf zu den Lärchenweiden am Berg mit ihrem frischen Grün. 
+Seit der Antike gibt es zahlreiche Mythen und Legenden, die von der tiefen Symbolik der Natur im Frühling erzählen, ein Inbegriff von Neuanfang, von Aufbruchstimmung und Hoffnung. Eine Filmreihe von Günther Haller und Margot Schwienbacher.</desc>
+  </programme>
+  <programme start="20240401205800 +0200" stop="20240401214912 +0200" channel="Rai Südtirol">
+    <title>Feiern mit Osterbrot und Festtagsbraten</title>
+    <sub-title>Bräuche und Kulinarik rund ums Osterfest</sub-title>
+    <desc>Rund um das Osterfest gibt es eine Vielzahl an schönen Bräuchen und Traditionen. Wir begeben uns auf Spurensuche in Tirol, im bayerischen Oberfranken, Niederösterreich und der Steiermark. So unterschiedlich die jeweiligen regionalen Bräuche sind, so verschieden sind auch die Speisen, die traditionell zu Ostern auf den Tisch kommen: Während der Karfreitag in der katholischen Tradition ein strenger Fasttag ist, gibt es bei evangelischen Familien in der steirischen Ramsau den Brauch, geselchte Lamm-Ripperln mit Sauerkraut zu servieren. Auch für die traditionellen Osterbrote und Osterstriezel, die in der Karwoche gebacken werden, gibt es je nach Region und Familie unterschiedliche Rezepte. Ein Film von Anita Lackenberger.</desc>
+  </programme>
+  <programme start="20240401215000 +0200" stop="20240401215919 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Luis Zuegg, Vorreiter des Seilbahnwesens</sub-title>
+    <desc>Obwohl in Bozen bereits 1908 die älteste Bergschwebebahn der Welt, die Kohlerer Bahn, in Betrieb genommen wurde und auch Lana seit 1912 eine eigene Seilbahn hatte, kam der richtige Durchbruch für das Seilbahnwesen erst mit dem Ersten Weltkrieg.
+Ingenieur Luis Zuegg aus Lana war für die österreichischen Seilbahnen an der Dolomitenfront zuständig, welche für den Nachschub der Gebirgstruppen dienten. Seine Erfahrungen im Seilbahnbau führten zu zahlreichen Verbesserungen und Erfindungen, die nach dem Krieg für den Bau ziviler Bahnen verwendet wurden.
+Zuegg entwickelte für Seilschwebebahnen das System &quot;Bleichert-Zuegg&quot;, das bei der Seilbahn von Hafling nach Meran erstmals eingesetzt wurde. Er baute nach diesem System weltweit zahlreiche weitere Bahnen, zum Beispiel in Sestriere, in Kapstadt, Garmisch und auf dem Zugspitzgipfel.</desc>
+  </programme>
+  <programme start="20240401221100 +0200" stop="20240401223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240402200000 +0200" stop="20240402202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240402202000 +0200" stop="20240402203451 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Klettersteig: Piz da Peres</sub-title>
+    <desc>Oberhalb von St. Vigil in Enneberg, an der Südwestwand des Piz da Peres, gibt es einen neuen Klettersteig. Vorgestellt wird er von Bergführer Manni Stuffer und Sängerin Sandra Troi.
+
+Die Route führt über mehrere kleine Gipfel und hat eine mittlere Schwierigkeit. Der Grödner Bergführer Manfred Stuffer stellt uns die Tour vor. Mit dabei ist auch die junge Sängerin Sandra Troi aus St. Ulrich, die mit ihrer eigenen Musik und ladinischen Liedern für Unterhaltung sorgt.</desc>
+  </programme>
+  <programme start="20240402203500 +0200" stop="20240402204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nur ein einziges Südtiroler Derby steht am 24. Spieltag in der Fußball-Oberliga auf dem Programm: Partschins empfängt zu Hause dem Tabellendritten Tramin. In der Landesliga trifft Ahrntal in St. Johann auf Leifers, Milland spielt gegen Weinstraße Süd. Beide Mannschaften kämpfen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20240402221000 +0200" stop="20240402223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240403200000 +0200" stop="20240403202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240403202000 +0200" stop="20240403204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wir lernen heimische Unternehmen kennen, in denen die Künstliche Intelligenz derzeit bereits eingesetzt wird und immer mehr Aufgaben übernimmt. Moderation: Christian Pfeifer.
+
+Abseits von den vielen Fantasien, Zukunftsszenarien und Projektionen über die Möglichkeiten und Auswirkungen von Künstlicher Intelligenz auf die Wirtschaft, möchte Trend an ein paar Beispielen zeigen, wo KI heute schon in Südtirols Unternehmen erfolgreich eingesetzt wird - von der Produktion, im Produkt selbst bis zum Verkauf. 
+Dem Hightech-Bereich gegenüber stehen Unternehmen, deren Tätigkeit wohl kaum von einer Künstlichen Intelligenz oder Robotern ersetzt werden kann. KI kann dort allenfalls ein Hilfsmittel in der Verwaltung sein kann, weil der Mensch dort - nach einer vorsichtigen Prognose - nicht ersetzt werden kann.</desc>
+  </programme>
+  <programme start="20240403221000 +0200" stop="20240403223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240404200000 +0200" stop="20240404202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240404202000 +0200" stop="20240404204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>SportlerINNEN sind in den Medien unterrepräsentiert. Sichtbarkeit im Sport ist aber wichtig, um Wertschätzung zu zeigen und um Vorbilder zu schaffen. 
+
+Das Südtirol Magazin hat sich in der Südtiroler Sportwelt umgeschaut und sich umgehört, warum unsere Sportlerinnen weniger im Rampenlicht stehen. Zu Gast ist Carmen Lantschner, Vizepräsidentin und Jugendreferentin im Südtiroler Schachbund.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Kanu-Weltmeisterschaft in Meran. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20240404221000 +0200" stop="20240404223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240405180000 +0200" stop="20240405182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>SportlerINNEN sind in den Medien unterrepräsentiert. Sichtbarkeit im Sport ist aber wichtig, um Wertschätzung zu zeigen und um Vorbilder zu schaffen. 
+Das Südtirol Magazin hat sich in der Südtiroler Sportwelt umgeschaut und sich umgehört, warum unsere Sportlerinnen weniger im Rampenlicht stehen. Zu Gast ist Carmen Lantschner, Vizepräsidentin und Jugendreferentin im Südtiroler Schachbund.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Kanu-Weltmeisterschaft in Meran. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20240405183000 +0200" stop="20240405185917 +0200" channel="Rai Südtirol">
+    <title>Die Reportage</title>
+    <sub-title>Achtung Tiertransport!</sub-title>
+    <desc>Solange wir Fleisch essen, nehmen wir in Kauf, dass Tiere über Europas Straßen rollen. Auch in Südtirol. Die Filmemacher Andreas Niederkofler und Andreas Thaler haben sich an den Schauplatz begeben. In ihrer Reportage dokumentieren sie, wie in Südtirol Tiertransporte kontrolliert werden und was passiert, wenn ein polnischer LKW mit Schweinen der Polizei ins Netz geht.</desc>
+  </programme>
+  <programme start="20240405200000 +0200" stop="20240405202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240405202000 +0200" stop="20240405215930 +0200" channel="Rai Südtirol">
+    <title>WIR und die Sporthilfe Gala</title>
+    <sub-title/>
+    <desc>Der Sendeabend im Zeichen des Südtiroler Sportjahres. Rai Südtirol überträgt die Sportlhilfe Gala der Südtiroler Sporthilfe und die Wahl der Dolomiten Sportler des Jahres. 
+
+Wer wird Sportlerin, Sportler, Mannschaft und Trainer des Jahres 2023? Wer wird den Ossi-Pircherpreis gewinnen, wer für sein Lebenswerk ausgezeichnet? Und wer wird Sportler mit Herz 2023? Aussichtsreiche Kandidat:innen sind unter anderem Dorothea Wierer, Dominik Paris, Dominik Fischnaller, Hannah Auchentaller und natürlich Jannik Sinner.
+Die Sporthilfe Gala 2024: Live aus dem Meraner Kursaal. Moderation Gertrud Prenn.</desc>
+  </programme>
+  <programme start="20240405221000 +0200" stop="20240405223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
