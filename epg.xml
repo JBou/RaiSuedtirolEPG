@@ -4,59 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240329180000 +0100" stop="20240329182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Anlässlich des bevorstehenden Osterfestes gehen wir der Frage nach, ob und woran die Menschen in Südtirol glauben. Welche Bedeutung hat der Glaube in der heutigen Gesellschaft? 
-Im Gespräch ist der Religionswissenschaftler Don Paolo Renner zu Gast. Köchin Sieglinde Pircher zeigt uns, wie man einen Osterkranz bäckt. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20240329182900 +0100" stop="20240329185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Südtiroler Wintersport-Saison wird mit zwei Italienmeisterschaften abgeschlossen. In Antholz werden die Biathlon-Titel im Massenstart und in der Mixed-Staffel vergeben, in Reinswald werden hingegen die Italienmeisterinnen in der Abfahrt und im SuperG gekürt.</desc>
-  </programme>
-  <programme start="20240329200000 +0100" stop="20240329202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240329202100 +0100" stop="20240329204944 +0100" channel="Rai Südtirol">
-    <title>Die Karwoche</title>
-    <sub-title>Zeit der Besinnung</sub-title>
-    <desc>Vorösterliche Bräuche in Südtirol: Pilgerwanderung zum Kalvarienberg in Schluderns, das Ostergrab in Taisten - eines der ältesten Tirols - und das Palmstangenbinden in Sterzing. 
-
-In Schluderns trifft sich jedes Jahr in der Fastenzeit eine bunt zusammengewürfelte Gruppe von Frauen und Männern um singend und betend zum Kalvarienberg oberhalb des Dorfes zu pilgern.
-Dieses offene Pilgern gibt es seit dem Jahre 2005. Bedeutend länger gibt es schon die Tradition der Ostergräber. In Taisten baut eine Gruppe von Männern vor dem Palmsonntag eines der ältesten datierten Heiliggräbern Tirols. In Sterzing ziehen am Palmsonntag die Palmstangen durch die Stadt. Die geweihten Buschen wurden in der Vergangenheit mit Kräften gegen das Böse verbunden - Welche Bedeutung man ihnen auch beimisst, sie bleiben ein unverzichtbares Symbol der vorösterlichen Zeit.</desc>
-  </programme>
-  <programme start="20240329205000 +0100" stop="20240329214930 +0100" channel="Rai Südtirol">
-    <title>Die Passion</title>
-    <sub-title>Die Sicht der Hauptdarsteller</sub-title>
-    <desc>Die Passion Christi vom Palmsonntag bis zum Tag der Auferstehung ist eine Geschichte voller
-Liebe und Hoffnung, aber sie erzählt auch von menschlichen Ängsten und Abgründen. 
-Die Erzählung bleibt durch die Jahrtausende gleich, doch der Blick darauf ändert sich mit der Zeit.
-Magdalena, Petrus, Judas, der Hohepriester Kaiphas und Pilatus erzählen die Passion in diesem Film aus ihren ganz eigenen Perspektiven.
-Die fünf Protagonisten suchen nach Wahrheit, sie sehnen sich danach. Jeder dieser Charaktere
-findet dabei seine eigene Melodie und seinen eigenen Rhythmus. Nur einer ist nicht da: Jesus
-Christus. Und doch dreht sich alles um ihn.
-Regisseur und Ideengeber Manfred Schweigkofler und sein Team haben ein ursprüngliches Theaterprojekt umgearbeitet und den Film &quot;Passion 21&quot; gestaltet.
-Dafür konnten beliebte und bekannte Schauspieler:innen gewonnen werden, unter anderem sind Michael Grimm, Valentina Schatzer und Sabine Sauer zu sehen.</desc>
-  </programme>
-  <programme start="20240329215000 +0100" stop="20240329220000 +0100" channel="Rai Südtirol">
-    <title>Das Heilige Grab in Albeins</title>
-    <sub-title>Höhepunkt der Osterzeit</sub-title>
-    <desc>Die Heiligen Gräber mit ihren bunten Kugeln erinnern an ein mystisches Schauspiel, das in den
-Passions- und Osterspielen seinen Höhepunkt erreicht.
-Die Pfarrei Albeins bei Brixen, eine der ältesten unseres Landes, besitzt ein spezielles Heiliges
-Grab, das alljährlich in der Margarethenkirche aufgestellt wird. Teile aus der späten Barockzeit
-wurden durch Kulissen des österreichischen Künstlers Josef Kramer ergänzt. 
-Auffallend sind neben seiner Liebe zum Detail die kräftigen Farben. Wir erleben die Liturgie der
-Karwoche, die durch das Heilige Grab besonders feierlich ausfällt. Eine Dokumentation von Ulrich Fistill und Willi Rainer.</desc>
-  </programme>
-  <programme start="20240329221000 +0100" stop="20240329223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240330180000 +0100" stop="20240330185930 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -287,6 +234,30 @@ War der Lungentumor früher ein Todesurteil, gibt es heute effiziente Behandlung
 Und dann gibt es auch Wunder: Der Brunecker Thomas Meraner litt an Mukoviszidose. Vor 26 Jahren wurden ihm zwei neue Lungenflügel transplantiert. Nach der Operation sprachen die Ärzte von einer Lebenserwartung von drei Jahren. Der Südtiroler ließ sich von dieser Diagnose nicht aufhalten, studierte und heiratete - und führt heute ein normales Leben mit gewissen Einschränkungen. Weltweit ist Thomas Meraner der einzige Mensch, der 26 Jahre mit einer transplantierten Lunge lebt.</desc>
   </programme>
   <programme start="20240406221000 +0200" stop="20240406223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240407200000 +0200" stop="20240407202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240407202100 +0200" stop="20240407205030 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Das Phänomen der weiblichen Obdachlosigkeit und die Ursachen. Die Sarner Frisörin und Thai-Boxerin Bettina Gruber im Porträt. Die Franzensfeste wird zur FRAUENfeste.
+
+Es scheint auf den ersten Blick ein männliches Phänomen zu sein, aber die Wohnungs- und Obdachlosigkeit betrifft auch Frauen. Die Zahlen sind in den letzten Jahren deutlich angestiegen. Allein bei den Caritas-Einrichtungen des Landes Südtirol meldeten sich 2022 200 Frauen, die auf der Suche nach einer festen Bleibe waren. Inwiefern unterscheidet sich weibliche Wohnungs- oder Obdachlosigkeit von der männlichen und welche Ursachen hat sie? dF schaut genauer hin und berichtet über Frauen, die durch das soziale Netz fallen. 
+Im dF Portrait: Gerade noch rechtzeitig vor einem zweimonatigen Trainingsaufenthalt in Thailand haben wir Bettina Gruber getroffen. Die Sarner Friseurin ist Mitglied des italienischen Nationalkaders im Thai-Boxen, dem sogenannten Muay Thai. Im dF-Porträt zeigen wir eine kämpferische junge Frau, die mit der Friseurschere genauso geschickt ist wie in der fernöstlichen Kampfkunst. 
+In df Info: Die Thrive Comunity setzt sich auch abseits von den Festivalterminen für weibliches Empowerment ein. Und die zweite Auflage der FRAUENfeste: 18 Künstlerinnen stellen ihre in den letzten Wochen entwickelten Arbeiten in der Festung Franzensfeste vor.</desc>
+  </programme>
+  <programme start="20240407205000 +0200" stop="20240407205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240407221000 +0200" stop="20240407223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
