@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240331100000 +0200" stop="20240331113000 +0200" channel="Rai Südtirol">
-    <title>Ostermesse</title>
-    <sub-title>Liveübertragung aus dem Bozner Dom</sub-title>
-    <desc>Der österliche Festgottesdienst mit Bischof Ivo Muser wird live aus dem Dom zu Bozen übertragen. Das Hochamt wird musikalisch mitgestaltet vom Bozner Domchor und Domorchester unter der Leitung von Domkapellmeister Tobias Chizzali. Aufgeführt wird die Missa Sancti Nicolai von Joseph Haydn.</desc>
-  </programme>
-  <programme start="20240331200000 +0200" stop="20240331202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240331202100 +0200" stop="20240331210100 +0200" channel="Rai Südtirol">
-    <title>Die Kunst des Vergoldens</title>
-    <sub-title>Ein fast verlorenes Kunsthandwerk</sub-title>
-    <desc>Der edle Rohstoff Gold zieht die Menschen schon seit jeher in den Bann. So bildete sich bereits in der Antike das Handwerk des Vergoldens heraus, mit dem man die unterschiedlichsten Objekte aufzuwerten versuchte, indem man ihnen ein erlesenes Aussehen verschaffte.
-Heute wird diese Kunstfertigkeit nur noch von wenigen Leuten beherrscht, das Wissen darüber geht immer weiter verloren. Im Grödental findet man aber noch ein paar &quot;Meister:innen&quot; dieser Zunft. Filmemacherin Claudia Bosch hat einigen über die Schulter geschaut und beschäftigt sich in ihrer Dokumentation mit vielfältigen Aspekten rund um dieses faszinierende Kunsthandwerk.</desc>
-  </programme>
-  <programme start="20240331210100 +0200" stop="20240331210500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240331221000 +0200" stop="20240331223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240401180000 +0200" stop="20240401181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
