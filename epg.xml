@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240402200000 +0200" stop="20240402202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240402202000 +0200" stop="20240402203451 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Klettersteig: Piz da Peres</sub-title>
-    <desc>Oberhalb von St. Vigil in Enneberg, an der Südwestwand des Piz da Peres, gibt es einen neuen Klettersteig. Vorgestellt wird er von Bergführer Manni Stuffer und Sängerin Sandra Troi.
-
-Die Route führt über mehrere kleine Gipfel und hat eine mittlere Schwierigkeit. Der Grödner Bergführer Manfred Stuffer stellt uns die Tour vor. Mit dabei ist auch die junge Sängerin Sandra Troi aus St. Ulrich, die mit ihrer eigenen Musik und ladinischen Liedern für Unterhaltung sorgt.</desc>
-  </programme>
-  <programme start="20240402203500 +0200" stop="20240402204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Nur ein einziges Südtiroler Derby steht am 24. Spieltag in der Fußball-Oberliga auf dem Programm: Partschins empfängt zu Hause dem Tabellendritten Tramin. In der Landesliga trifft Ahrntal in St. Johann auf Leifers, Milland spielt gegen Weinstraße Süd. Beide Mannschaften kämpfen um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20240402221000 +0200" stop="20240402223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240403200000 +0200" stop="20240403202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
