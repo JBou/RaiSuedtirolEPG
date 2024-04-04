@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240403200000 +0200" stop="20240403202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240403202000 +0200" stop="20240403204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wir lernen heimische Unternehmen kennen, in denen die Künstliche Intelligenz derzeit bereits eingesetzt wird und immer mehr Aufgaben übernimmt. Moderation: Christian Pfeifer.
-
-Abseits von den vielen Fantasien, Zukunftsszenarien und Projektionen über die Möglichkeiten und Auswirkungen von Künstlicher Intelligenz auf die Wirtschaft, möchte Trend an ein paar Beispielen zeigen, wo KI heute schon in Südtirols Unternehmen erfolgreich eingesetzt wird - von der Produktion, im Produkt selbst bis zum Verkauf. 
-Dem Hightech-Bereich gegenüber stehen Unternehmen, deren Tätigkeit wohl kaum von einer Künstlichen Intelligenz oder Robotern ersetzt werden kann. KI kann dort allenfalls ein Hilfsmittel in der Verwaltung sein kann, weil der Mensch dort - nach einer vorsichtigen Prognose - nicht ersetzt werden kann.</desc>
-  </programme>
-  <programme start="20240403221000 +0200" stop="20240403223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240404200000 +0200" stop="20240404202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
