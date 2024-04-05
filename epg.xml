@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240404200000 +0200" stop="20240404202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240404202000 +0200" stop="20240404204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>SportlerINNEN sind in den Medien unterrepräsentiert. Sichtbarkeit im Sport ist aber wichtig, um Wertschätzung zu zeigen und um Vorbilder zu schaffen. 
-
-Das Südtirol Magazin hat sich in der Südtiroler Sportwelt umgeschaut und sich umgehört, warum unsere Sportlerinnen weniger im Rampenlicht stehen. Zu Gast ist Carmen Lantschner, Vizepräsidentin und Jugendreferentin im Südtiroler Schachbund.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Kanu-Weltmeisterschaft in Meran. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20240404221000 +0200" stop="20240404223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240405180000 +0200" stop="20240405182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -111,6 +93,188 @@ In df Info: Die Thrive Comunity setzt sich auch abseits von den Festivalterminen
     <desc/>
   </programme>
   <programme start="20240407221000 +0200" stop="20240407223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240408180000 +0200" stop="20240408181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Pusterer Derby St. Georgen gegen Stegen ist das Top--Match der 25.Oberliga-Runde. Im zweiten Südtiroler Duell empfängt der Bozner FC auf den Talferwiesen Obermais. 
+In der Landesliga führt der SSV Brixen souverän die Tabelle an. Der Tabellen-Dritte Latsch trifft im Verfolgerduell auf den Zweiten Bruneck.</desc>
+  </programme>
+  <programme start="20240408181400 +0200" stop="20240408183330 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Rittergeschichten aus Karneid</sub-title>
+    <desc>Karamela trifft auf Schloss Karneid Ritter Dagobert, der dort einst in Saus und Braus lebte. Obwohl er von den Bauern den Zehent eintrieb, waren seine Kassen immer leer und so konnte er dem König nicht die vereinbarten Abgaben zahlen. Da machte er einen Pakt mit dem Teufel: Doch bevor dieser Dagoberts Seele holen konnte, hat Karamela die rettende Idee: Lachen anstatt Kämpfen - und kitzelnd und lachend nimmt diese Rittergeschichte ein gutes Ende.</desc>
+  </programme>
+  <programme start="20240408183400 +0200" stop="20240408185830 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Ein mobiler Hunde- und Katzensalon für ältere Tierhalter:innen, &quot;Reining&quot; - die Königsdisziplin des Westernreitens und Tipps zu artgerechtem Umgang mit Vierbeinern.
+Den Hund pflegen, waschen, scheren direkt am Wohnort - der mobile Hundesalon, der erste dieser Art in Südtirol, ist eine Alternative für ältere Hundebesitzer, die nicht mehr so mobil sind oder für Menschen, die ihrem Hund die Strapazen der Anfahrt zum Salon ersparen wollen. Gepflegt werden im mobilen Salon auch Katzen. Regelmäßige Fellpflege ist gerade bei Langhaarkatzen notwendig, um sie vor Parasiten zu schützen. 
+Die Disziplin &quot;Reining&quot; im Westernreiten hat ihren Ursprung in der Arbeit mit dem Rind. In dieser Königsdisziplin des Westernreitens ist ein bewegliches, athletisches und gehorsames Pferd nötig. Wir haben der amtierenden Italienmeisterin beim Training zugeschaut und uns zeigen lassen, was Westernreiten ist. 
+Die Verhaltenstierärztin gibt nützliche Tipps für einen artgerechten Umgang mit unseren Vierbeinern. In der Rubrik &quot;Neues &amp; Interessantes&quot; bringen wir allerlei Wissenswertes aus dem Tierreich und wir stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
+  </programme>
+  <programme start="20240408200000 +0200" stop="20240408202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240408202000 +0200" stop="20240408211800 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Die aktuelle Debatte</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Gesellschaft in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Die Gäste beantworten auch Zuschauer-Fragen, die per E-Mail eintreffen. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20240408211800 +0200" stop="20240408215930 +0200" channel="Rai Südtirol">
+    <title>Drogen</title>
+    <sub-title>Resignation in Südtirol?</sub-title>
+    <desc>Zuviel Drogen sind im Umlauf. Das Schlimme daran ist, dass das Einstiegsalter sinkt. Dabei trifft es nicht nur Jugendliche aus sozial schwachen Verhältnissen. Ein Film von Thomas Vonmetz.
+Der Drogenkonsum in Südtirol hat nach Ansicht der Carabinieri ein besorgniserregendes Niveau erreicht. Jugendliche mit 12 konsumieren Heroin oder Koks. Beim Konsum von solchen und anderen Substanzen entstehen bei Jugendlichen meist irreparable Schäden, nicht nur im Gehirn. Als Einstiegsdrogen gelten nach wie vor Alkohol, Zigaretten und Cannabis.
+In der Doku &quot;Drogen. Resignation in Südtirol?&quot; von Thomas Vonmetz erzählen betroffene Eltern von ihrer Hilflosigkeit, als ihr Kind in die Drogenabhängigkeit gerutscht ist. Wie das eigene Kind den Kontakt abbricht und dabei immer mehr im Drogensumpf versinkt. Über die verzweifelte Suche nach Hilfe.</desc>
+  </programme>
+  <programme start="20240408221000 +0200" stop="20240408223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240409200000 +0200" stop="20240409202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240409202000 +0200" stop="20240409203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240409203500 +0200" stop="20240409204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Pusterer Derby St. Georgen gegen Stegen ist das Top--Match der 25.Oberliga-Runde. Im zweiten Südtiroler Duell empfängt der Bozner FC auf den Talferwiesen Obermais. 
+In der Landesliga führt der SSV Brixen souverän die Tabelle an. Der Tabellen-Dritte Latsch trifft im Verfolgerduell auf den Zweiten Bruneck.</desc>
+  </programme>
+  <programme start="20240409221000 +0200" stop="20240409223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240410200000 +0200" stop="20240410202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240410202000 +0200" stop="20240410204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Forderungen des ASGB bezüglich &quot;Schule am Limit&quot;, das Motorrad fit machen für die Sommersaison und die Herstellung von Südtiroler Speck. Moderiert wird die Sendung von Markus Frings.
+Wir beleuchten die aktuellen Forderungen der Gewerkschaft ASGB an die Politik und geben Einblick in die Diskussionen und Anliegen, die beim jüngsten Kongress des ASGB zum Thema &quot;Schule am Limit&quot; aufgekommen sind. 
+Die Beliebtheit des Motorradfahrens in Südtirol steigt stetig. Wie sollte man das Motorrad nach der Winterpause optimal vorbereiten, um sicher und genussvoll in die Sommersaison zu starten.
+Im Speck-Unternehmen Pfitscher in Burgstall sehen wir, wie handwerkliche Tradition und modernste Technologie Hand in Hand gehen.</desc>
+  </programme>
+  <programme start="20240410221000 +0200" stop="20240410223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240411200000 +0200" stop="20240411202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240411202000 +0200" stop="20240411204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Der Frühling hält Einzug und ist für das Südtirol Magazin Anlass sich über naturnahes Gärtnern, alte Saaten und Botanik in der Küche zu informieren. 
+
+Über eine naturorientierte Stadtentwicklung spricht Klaus Kornprobst, Geschäftsführer von Clima Grün und in der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über den Innsbrucker Alpenzoo. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240411213000 +0200" stop="20240411215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Im Meraner Kursaal bei der Sporthilfe Gala wurden die Sportlerin und der Sportler des Jahres 2024 gekürt. 
+Nach 31 Jahren fanden erstmals in Südtirol auch wieder die Italienmeisterschaften der Alpinen statt: Die Speed-Rennen in Reinswald, die technischen Disziplinen in Schnals.  Entschieden wurden auch die Eishockeymeisterschaften.</desc>
+  </programme>
+  <programme start="20240411221000 +0200" stop="20240411223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240412180000 +0200" stop="20240412182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Der Frühling hält Einzug und ist für das Südtirol Magazin Anlass sich über naturnahes Gärtnern, alte Saaten und Botanik in der Küche zu informieren. 
+Über eine naturorientierte Stadtentwicklung spricht Klaus Kornprobst, Geschäftsführer von Clima Grün und in der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über den Innsbrucker Alpenzoo. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240412183000 +0200" stop="20240412185930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Im Meraner Kursaal bei der Sporthilfe Gala wurden die Sportlerin und der Sportler des Jahres 2024 gekürt. 
+Nach 31 Jahren fanden erstmals in Südtirol auch wieder die Italienmeisterschaften der Alpinen statt: Die Speed-Rennen in Reinswald, die technischen Disziplinen in Schnals.  Entschieden wurden auch die Eishockeymeisterschaften.</desc>
+  </programme>
+  <programme start="20240412200000 +0200" stop="20240412202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240412202000 +0200" stop="20240412211900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Wir sind unterwegs im Unterland auf den Spuren uralter Weinbaugeschichte, zum anderen erfahren wir mehr darüber, wie Fernsehbeiträge, Radioprogramme und Zeitungsartikel entstehen.
+
+Theo Hendrich erwandert den ersten Weinlehrpfad Südtirols von Kurtatsch nach Margreid, zwischen Jahrhunderte alten Natursteinmauern, die eine einmalige Reblandschaft geschaffen haben. Dabei begegnet er einem Südtiroler Olivenbauer und entdeckt in einem historischen Ansitz einen skurril gestalteten Sagen- und Märchengarten aus dem 19. Jahrhundert. 
+Adina Guarnieri hingegen widmet sich den Medien. Fernsehen und Radio gehören für die meisten zum täglichen Leben: ob Musik oder Nachrichten, aktiv mithören oder sich berieseln lassen. Dabei wissen wohl nur die wenigsten, wie eine Nachrichtensendung zustande kommt oder wer die Musik aussucht, die im Radio läuft. Reporterin Adina begleitet zwei Journalistinnen von Rai Südtirol bei ihrer Arbeit und besucht in Bruneck die Redaktion von Radio Holiday und die Pustertaler Zeitung.</desc>
+  </programme>
+  <programme start="20240412211900 +0200" stop="20240412214830 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Das &quot;Nachhaltigkeitslabel Südtirol&quot; auch für Destinationen, Hotelier und HGV-Funktionär Walter Meister im Porträt, die Bedeutung von Gästekritik in Onlineportalen.
+Vor genau einem Jahr wurde das neue &quot;Nachhaltigkeitslabel Südtirol&quot; der Öffentlichkeit vorgestellt, das IDM Südtirol und Tourismusexperten erarbeitet haben. Dieses Nachhaltigkeitslabel wird nicht nur einzelnen Betrieben übergeben, sondern auch Destinationen. Willkommen war dazu in Brixen und auf der Seiser Alm.
+Als Hotelier ist er sein Leben lang schon für den Gast tätig, er hat sich viele Jahre für den Hoteliers- und Gastwirteverband engagiert und die Tourismusentwicklung im Land liegt ihm immer noch am Herzen: Walter Meister - im Portrait. 
+Und bei einem weiteren Thema geht es um die Bedeutung der Onlineportale und deren Bewertungen für einen Betrieb. Was bewirkt Gästekritik? Verschiedene Betriebe teilen mit uns ihre Erfahrungen.</desc>
+  </programme>
+  <programme start="20240412214900 +0200" stop="20240412215902 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Karl Tonner</sub-title>
+    <desc>
+Seit seiner Geburt im Jahr 1928 lebt Karl Tonner in Girlan. Hinausgezogen hat es ihn nicht - weit
+herumgekommen ist er doch.
+Es hat sich herumgesprochen bis nach Frankreich, Deutschland und Ungarn, dass seine
+Kastanienholzpfähle einzigartig sind. Kaum einer beherrscht mehr dieses Handwerk. Seit 1948 stellt er die Sailn her, wie sie hierzulande genannt werden.</desc>
+  </programme>
+  <programme start="20240412221000 +0200" stop="20240412223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240413180000 +0200" stop="20240413185830 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Wir sind unterwegs im Unterland auf den Spuren uralter Weinbaugeschichte, zum anderen erfahren wir mehr darüber, wie Fernsehbeiträge, Radioprogramme und Zeitungsartikel entstehen.
+Theo Hendrich erwandert den ersten Weinlehrpfad Südtirols von Kurtatsch nach Margreid, zwischen Jahrhunderte alten Natursteinmauern, die eine einmalige Reblandschaft geschaffen haben. Dabei begegnet er einem Südtiroler Olivenbauer und entdeckt in einem historischen Ansitz einen skurril gestalteten Sagen- und Märchengarten aus dem 19. Jahrhundert. 
+Adina Guarnieri hingegen widmet sich den Medien. Fernsehen und Radio gehören für die meisten zum täglichen Leben: ob Musik oder Nachrichten, aktiv mithören oder sich berieseln lassen. Dabei wissen wohl nur die wenigsten, wie eine Nachrichtensendung zustande kommt oder wer die Musik aussucht, die im Radio läuft. Reporterin Adina begleitet zwei Journalistinnen von Rai Südtirol bei ihrer Arbeit und besucht in Bruneck die Redaktion von Radio Holiday und die Pustertaler Zeitung.</desc>
+  </programme>
+  <programme start="20240413200000 +0200" stop="20240413202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240413202100 +0200" stop="20240413202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240413202500 +0200" stop="20240413205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach. Ethisch. Leben</sub-title>
+    <desc>Geschwister von chronisch kranken Kindern erzählen, der Arbeitsrehabilitationsdienst Handswork, Musiktherapie in Seniorenheimen und die Stolpersteine gegen das Vergessen.
+
+Wenn ein Kind schwer erkrankt, ändert sich die Lebenssituation in der Familie schlagartig. Alle sind betroffen, auch die Geschwister. Sie leiden mit, müssen auf Vieles verzichten. Daher benötigen auch sie professionelle Begleitung. Zwei Jugendliche sprechen über die Herausforderungen, aber auch die positiven Seiten.
+Seit über 40 Jahren kümmert sich der Verein Hands onlus um Menschen, die in Abhängigkeit geraten sind. An die 1500 Personen werden jährlich betreut. In zwei Arbeitsrehabilitationszentren werden Menschen mit Konsumstörungen bei ihrem Wiedereinstieg in die Arbeitswelt begleitet. Handswork nennen sich diese Werkstätten.
+Schon seit Urzeiten ist bekannt, dass Musik eine heilende, pflegende Wirkung hat. Auch in Altenheimen wird verstärkt auf Musik gesetzt - als Quelle von Harmonie und Wohlbefinden. 
+Die sogenannten Stolpersteine sind im Straßen- oder Gehwegpflaster gut eingebettet. Vor über 30 Jahren, 1992, hat ein deutscher Künstler das Projekt gegen das Vergessen initiiert. Weltweit gibt es 100.000 solcher Messingplatten. Und es gibt sie auch hierzulande. Den Impuls dazu gab vor 9 Jahren der Südtiroler Historiker Hannes Obermair.</desc>
+  </programme>
+  <programme start="20240413221000 +0200" stop="20240413223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
