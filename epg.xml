@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240405180000 +0200" stop="20240405182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>SportlerINNEN sind in den Medien unterrepräsentiert. Sichtbarkeit im Sport ist aber wichtig, um Wertschätzung zu zeigen und um Vorbilder zu schaffen. 
-Das Südtirol Magazin hat sich in der Südtiroler Sportwelt umgeschaut und sich umgehört, warum unsere Sportlerinnen weniger im Rampenlicht stehen. Zu Gast ist Carmen Lantschner, Vizepräsidentin und Jugendreferentin im Südtiroler Schachbund.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Kanu-Weltmeisterschaft in Meran. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20240405183000 +0200" stop="20240405185917 +0200" channel="Rai Südtirol">
-    <title>Die Reportage</title>
-    <sub-title>Achtung Tiertransport!</sub-title>
-    <desc>Solange wir Fleisch essen, nehmen wir in Kauf, dass Tiere über Europas Straßen rollen. Auch in Südtirol. Die Filmemacher Andreas Niederkofler und Andreas Thaler haben sich an den Schauplatz begeben. In ihrer Reportage dokumentieren sie, wie in Südtirol Tiertransporte kontrolliert werden und was passiert, wenn ein polnischer LKW mit Schweinen der Polizei ins Netz geht.</desc>
-  </programme>
-  <programme start="20240405200000 +0200" stop="20240405202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240405202000 +0200" stop="20240405215930 +0200" channel="Rai Südtirol">
-    <title>WIR und die Sporthilfe Gala</title>
-    <sub-title/>
-    <desc>Der Sendeabend im Zeichen des Südtiroler Sportjahres. Rai Südtirol überträgt die Sportlhilfe Gala der Südtiroler Sporthilfe und die Wahl der Dolomiten Sportler des Jahres. 
-
-Wer wird Sportlerin, Sportler, Mannschaft und Trainer des Jahres 2023? Wer wird den Ossi-Pircherpreis gewinnen, wer für sein Lebenswerk ausgezeichnet? Und wer wird Sportler mit Herz 2023? Aussichtsreiche Kandidat:innen sind unter anderem Dorothea Wierer, Dominik Paris, Dominik Fischnaller, Hannah Auchentaller und natürlich Jannik Sinner.
-Die Sporthilfe Gala 2024: Live aus dem Meraner Kursaal. Moderation Gertrud Prenn.</desc>
-  </programme>
-  <programme start="20240405221000 +0200" stop="20240405223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240406180000 +0200" stop="20240406182930 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -275,6 +245,29 @@ Schon seit Urzeiten ist bekannt, dass Musik eine heilende, pflegende Wirkung hat
 Die sogenannten Stolpersteine sind im Straßen- oder Gehwegpflaster gut eingebettet. Vor über 30 Jahren, 1992, hat ein deutscher Künstler das Projekt gegen das Vergessen initiiert. Weltweit gibt es 100.000 solcher Messingplatten. Und es gibt sie auch hierzulande. Den Impuls dazu gab vor 9 Jahren der Südtiroler Historiker Hannes Obermair.</desc>
   </programme>
   <programme start="20240413221000 +0200" stop="20240413223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240414200000 +0200" stop="20240414202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240414202100 +0200" stop="20240414205030 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Rund um den Cevedale</sub-title>
+    <desc>Von Martell aus mit den Tourenskiern ins Cevedale-Gebiet. Reporter Thomas Hainz und seine Begleiter erkunden dabei auch einige Überreste aus dem Ersten Weltkrieg, die heute als Mahnmal dienen.
+
+Der Cevedale ist die dritthöchste Erhebung in der Ortlergruppe und zählt zu den klassischen Skitourenzielen in Südtirol. Von Martell aus bietet sich die etwas anspruchsvollere Überschreitung der Zufall-Spitzen an. Über verschneite Gletscherabbrüche und einen Felsgrat gehts bis auf über 3700 Meter Meereshöhe. 
+Bis heute trifft man hier - entlang der Frontlinie des Ersten Weltkrieges - auf die Überreste der Gebirgsstellungen: etwa die Gipfelbaracke am Cevedale oder die drei Geschütz-Kanonen unterhalb der Casati-Hütte, die hier 1918 zurückgelassen worden sind. Heute sind sie ein Mahnmal für den Frieden und eine der bekanntesten Sehenswürdigkeiten des Martelltales und der benachbarten Valfurva in der Provinz Sondrio.</desc>
+  </programme>
+  <programme start="20240414205000 +0200" stop="20240414205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240414221000 +0200" stop="20240414223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
