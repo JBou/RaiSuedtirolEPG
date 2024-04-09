@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240408180000 +0200" stop="20240408181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Das Pusterer Derby St. Georgen gegen Stegen ist das Top--Match der 25.Oberliga-Runde. Im zweiten Südtiroler Duell empfängt der Bozner FC auf den Talferwiesen Obermais. 
-In der Landesliga führt der SSV Brixen souverän die Tabelle an. Der Tabellen-Dritte Latsch trifft im Verfolgerduell auf den Zweiten Bruneck.</desc>
-  </programme>
-  <programme start="20240408181400 +0200" stop="20240408183330 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Rittergeschichten aus Karneid</sub-title>
-    <desc>Karamela trifft auf Schloss Karneid Ritter Dagobert, der dort einst in Saus und Braus lebte. Obwohl er von den Bauern den Zehent eintrieb, waren seine Kassen immer leer und so konnte er dem König nicht die vereinbarten Abgaben zahlen. Da machte er einen Pakt mit dem Teufel: Doch bevor dieser Dagoberts Seele holen konnte, hat Karamela die rettende Idee: Lachen anstatt Kämpfen - und kitzelnd und lachend nimmt diese Rittergeschichte ein gutes Ende.</desc>
-  </programme>
-  <programme start="20240408183400 +0200" stop="20240408185830 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Ein mobiler Hunde- und Katzensalon für ältere Tierhalter:innen, &quot;Reining&quot; - die Königsdisziplin des Westernreitens und Tipps zu artgerechtem Umgang mit Vierbeinern.
-Den Hund pflegen, waschen, scheren direkt am Wohnort - der mobile Hundesalon, der erste dieser Art in Südtirol, ist eine Alternative für ältere Hundebesitzer, die nicht mehr so mobil sind oder für Menschen, die ihrem Hund die Strapazen der Anfahrt zum Salon ersparen wollen. Gepflegt werden im mobilen Salon auch Katzen. Regelmäßige Fellpflege ist gerade bei Langhaarkatzen notwendig, um sie vor Parasiten zu schützen. 
-Die Disziplin &quot;Reining&quot; im Westernreiten hat ihren Ursprung in der Arbeit mit dem Rind. In dieser Königsdisziplin des Westernreitens ist ein bewegliches, athletisches und gehorsames Pferd nötig. Wir haben der amtierenden Italienmeisterin beim Training zugeschaut und uns zeigen lassen, was Westernreiten ist. 
-Die Verhaltenstierärztin gibt nützliche Tipps für einen artgerechten Umgang mit unseren Vierbeinern. In der Rubrik &quot;Neues &amp; Interessantes&quot; bringen wir allerlei Wissenswertes aus dem Tierreich und wir stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
-  </programme>
-  <programme start="20240408200000 +0200" stop="20240408202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240408202000 +0200" stop="20240408211800 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Die aktuelle Debatte</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Gesellschaft in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Die Gäste beantworten auch Zuschauer-Fragen, die per E-Mail eintreffen. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20240408211800 +0200" stop="20240408215930 +0200" channel="Rai Südtirol">
-    <title>Drogen</title>
-    <sub-title>Resignation in Südtirol?</sub-title>
-    <desc>Zuviel Drogen sind im Umlauf. Das Schlimme daran ist, dass das Einstiegsalter sinkt. Dabei trifft es nicht nur Jugendliche aus sozial schwachen Verhältnissen. Ein Film von Thomas Vonmetz.
-Der Drogenkonsum in Südtirol hat nach Ansicht der Carabinieri ein besorgniserregendes Niveau erreicht. Jugendliche mit 12 konsumieren Heroin oder Koks. Beim Konsum von solchen und anderen Substanzen entstehen bei Jugendlichen meist irreparable Schäden, nicht nur im Gehirn. Als Einstiegsdrogen gelten nach wie vor Alkohol, Zigaretten und Cannabis.
-In der Doku &quot;Drogen. Resignation in Südtirol?&quot; von Thomas Vonmetz erzählen betroffene Eltern von ihrer Hilflosigkeit, als ihr Kind in die Drogenabhängigkeit gerutscht ist. Wie das eigene Kind den Kontakt abbricht und dabei immer mehr im Drogensumpf versinkt. Über die verzweifelte Suche nach Hilfe.</desc>
-  </programme>
-  <programme start="20240408221000 +0200" stop="20240408223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240409200000 +0200" stop="20240409202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
