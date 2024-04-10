@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240409200000 +0200" stop="20240409202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240409202000 +0200" stop="20240409203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240409203500 +0200" stop="20240409204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Das Pusterer Derby St. Georgen gegen Stegen ist das Top--Match der 25.Oberliga-Runde. Im zweiten Südtiroler Duell empfängt der Bozner FC auf den Talferwiesen Obermais. 
-In der Landesliga führt der SSV Brixen souverän die Tabelle an. Der Tabellen-Dritte Latsch trifft im Verfolgerduell auf den Zweiten Bruneck.</desc>
-  </programme>
-  <programme start="20240409221000 +0200" stop="20240409223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240410200000 +0200" stop="20240410202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
