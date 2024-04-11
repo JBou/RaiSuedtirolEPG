@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240410200000 +0200" stop="20240410202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240410202000 +0200" stop="20240410204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Forderungen des ASGB bezüglich &quot;Schule am Limit&quot;, das Motorrad fit machen für die Sommersaison und die Herstellung von Südtiroler Speck. Moderiert wird die Sendung von Markus Frings.
-Wir beleuchten die aktuellen Forderungen der Gewerkschaft ASGB an die Politik und geben Einblick in die Diskussionen und Anliegen, die beim jüngsten Kongress des ASGB zum Thema &quot;Schule am Limit&quot; aufgekommen sind. 
-Die Beliebtheit des Motorradfahrens in Südtirol steigt stetig. Wie sollte man das Motorrad nach der Winterpause optimal vorbereiten, um sicher und genussvoll in die Sommersaison zu starten.
-Im Speck-Unternehmen Pfitscher in Burgstall sehen wir, wie handwerkliche Tradition und modernste Technologie Hand in Hand gehen.</desc>
-  </programme>
-  <programme start="20240410221000 +0200" stop="20240410223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240411200000 +0200" stop="20240411202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
