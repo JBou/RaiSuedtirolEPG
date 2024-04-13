@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240412180000 +0200" stop="20240412182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Der Frühling hält Einzug und ist für das Südtirol Magazin Anlass sich über naturnahes Gärtnern, alte Saaten und Botanik in der Küche zu informieren. 
-Über eine naturorientierte Stadtentwicklung spricht Klaus Kornprobst, Geschäftsführer von Clima Grün und in der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über den Innsbrucker Alpenzoo. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20240412183000 +0200" stop="20240412185930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Im Meraner Kursaal bei der Sporthilfe Gala wurden die Sportlerin und der Sportler des Jahres 2024 gekürt. 
-Nach 31 Jahren fanden erstmals in Südtirol auch wieder die Italienmeisterschaften der Alpinen statt: Die Speed-Rennen in Reinswald, die technischen Disziplinen in Schnals.  Entschieden wurden auch die Eishockeymeisterschaften.</desc>
-  </programme>
-  <programme start="20240412200000 +0200" stop="20240412202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240412202000 +0200" stop="20240412211900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Wir sind unterwegs im Unterland auf den Spuren uralter Weinbaugeschichte, zum anderen erfahren wir mehr darüber, wie Fernsehbeiträge, Radioprogramme und Zeitungsartikel entstehen.
-
-Theo Hendrich erwandert den ersten Weinlehrpfad Südtirols von Kurtatsch nach Margreid, zwischen Jahrhunderte alten Natursteinmauern, die eine einmalige Reblandschaft geschaffen haben. Dabei begegnet er einem Südtiroler Olivenbauer und entdeckt in einem historischen Ansitz einen skurril gestalteten Sagen- und Märchengarten aus dem 19. Jahrhundert. 
-Adina Guarnieri hingegen widmet sich den Medien. Fernsehen und Radio gehören für die meisten zum täglichen Leben: ob Musik oder Nachrichten, aktiv mithören oder sich berieseln lassen. Dabei wissen wohl nur die wenigsten, wie eine Nachrichtensendung zustande kommt oder wer die Musik aussucht, die im Radio läuft. Reporterin Adina begleitet zwei Journalistinnen von Rai Südtirol bei ihrer Arbeit und besucht in Bruneck die Redaktion von Radio Holiday und die Pustertaler Zeitung.</desc>
-  </programme>
-  <programme start="20240412211900 +0200" stop="20240412214830 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Das &quot;Nachhaltigkeitslabel Südtirol&quot; auch für Destinationen, Hotelier und HGV-Funktionär Walter Meister im Porträt, die Bedeutung von Gästekritik in Onlineportalen.
-Vor genau einem Jahr wurde das neue &quot;Nachhaltigkeitslabel Südtirol&quot; der Öffentlichkeit vorgestellt, das IDM Südtirol und Tourismusexperten erarbeitet haben. Dieses Nachhaltigkeitslabel wird nicht nur einzelnen Betrieben übergeben, sondern auch Destinationen. Willkommen war dazu in Brixen und auf der Seiser Alm.
-Als Hotelier ist er sein Leben lang schon für den Gast tätig, er hat sich viele Jahre für den Hoteliers- und Gastwirteverband engagiert und die Tourismusentwicklung im Land liegt ihm immer noch am Herzen: Walter Meister - im Portrait. 
-Und bei einem weiteren Thema geht es um die Bedeutung der Onlineportale und deren Bewertungen für einen Betrieb. Was bewirkt Gästekritik? Verschiedene Betriebe teilen mit uns ihre Erfahrungen.</desc>
-  </programme>
-  <programme start="20240412214900 +0200" stop="20240412215902 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Karl Tonner</sub-title>
-    <desc>
-Seit seiner Geburt im Jahr 1928 lebt Karl Tonner in Girlan. Hinausgezogen hat es ihn nicht - weit
-herumgekommen ist er doch.
-Es hat sich herumgesprochen bis nach Frankreich, Deutschland und Ungarn, dass seine
-Kastanienholzpfähle einzigartig sind. Kaum einer beherrscht mehr dieses Handwerk. Seit 1948 stellt er die Sailn her, wie sie hierzulande genannt werden.</desc>
-  </programme>
-  <programme start="20240412221000 +0200" stop="20240412223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240413180000 +0200" stop="20240413185830 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -102,6 +55,210 @@ Bis heute trifft man hier - entlang der Frontlinie des Ersten Weltkrieges - auf 
     <desc/>
   </programme>
   <programme start="20240414221000 +0200" stop="20240414223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240415180000 +0200" stop="20240415181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Top-Spiel der 26. Oberliga-Runde ist das Südtiroler Derby Stegen gegen Naturns. Beide Mannschaften brauchen im Kampf um den Klassenerhalt unbedingt einen Sieg. Auch Partschins muss zu Hause gegen St. Georgen gewinnen. 
+In der Landesliga findet das Kellerduell des 24. Spieltages in Passeier statt: Der Tabellen-Vorletzte St. Martin Moos trifft auf den Drittletzten Milland.</desc>
+  </programme>
+  <programme start="20240415181400 +0200" stop="20240415182830 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Bananen-Hirse-Nuss-Brot</sub-title>
+    <desc>Vor allem in der kälteren Jahreszeit ist die Banane eine der beliebtesten Früchte in Südtirol. Und mit dieser süßen Frucht wollen Hannah und Martina ein Bananen-Hirse-Nuss-Brot backen. 
+
+Hannah staunt nicht schlecht, wie kinderleicht dieses leckere und gesunde Brot zuzubereiten ist.
+Maurice stellt anschließend sein Lieblingsbuch vor, und im Bobby-Song geht es um einen kleinen Koch aus China.</desc>
+  </programme>
+  <programme start="20240415182900 +0200" stop="20240415185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title/>
+    <desc>Geschwister von chronisch kranken Kindern erzählen, der Arbeitsrehabilitationsdienst Handswork, Musiktherapie in Seniorenheimen und die Stolpersteine gegen das Vergessen.
+Wenn ein Kind schwer erkrankt, ändert sich die Lebenssituation in der Familie schlagartig. Alle sind betroffen, auch die Geschwister. Sie leiden mit, müssen auf Vieles verzichten. Daher benötigen auch sie professionelle Begleitung. Zwei Jugendliche sprechen über die Herausforderungen, aber auch die positiven Seiten.
+Seit über 40 Jahren kümmert sich der Verein Hands onlus um Menschen, die in Abhängigkeit geraten sind. An die 1500 Personen werden jährlich betreut. In zwei Arbeitsrehabilitationszentren werden Menschen mit Konsumstörungen bei ihrem Wiedereinstieg in die Arbeitswelt begleitet. Handswork nennen sich diese Werkstätten.
+Schon seit Urzeiten ist bekannt, dass Musik eine heilende, pflegende Wirkung hat. Auch in Altenheimen wird verstärkt auf Musik gesetzt - als Quelle von Harmonie und Wohlbefinden. 
+Die sogenannten Stolpersteine sind im Straßen- oder Gehwegpflaster gut eingebettet. Vor über 30 Jahren, 1992, hat ein deutscher Künstler das Projekt gegen das Vergessen initiiert. Weltweit gibt es 100.000 solcher Messingplatten. Und es gibt sie auch hierzulande. Den Impuls dazu gab vor 9 Jahren der Südtiroler Historiker Hannes Obermair.</desc>
+  </programme>
+  <programme start="20240415200000 +0200" stop="20240415202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240415202100 +0200" stop="20240415210513 +0200" channel="Rai Südtirol">
+    <title>Das Thema:  Aussteigen - Einsteigen</title>
+    <sub-title>Auf der Suche nach Mehr</sub-title>
+    <desc>Manche von ihnen hat ein Schicksalsschlag bewogen umzusteigen und anders weiterzugehen. Einige sind gar keine Aussteiger, weil sie immer schon anders gedacht haben. 
+
+In dieser Dokumentation von Astrid Kofler und Günther Neumair erzählen sieben Menschen aus Südtirol von ihrer Suche nach Mehr: die ökologisch arbeitende Landfrau Anna Folie aus Mals, der Fotokünstler Heinrich Wegmann aus Bozen, der Bildhauer Markus Delago aus St. Ulrich, der Vinschger Liedermacher Dominik Plangger, der Natur- und Wildnistrainer Elmar Baldauf und der Baubiologe Werner Schönthaler.</desc>
+  </programme>
+  <programme start="20240415210500 +0200" stop="20240415213330 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Das Phänomen der weiblichen Obdachlosigkeit und die Ursachen. Die Sarner Frisörin und Thai-Boxerin Bettina Gruber im Porträt. Die Franzensfeste wird zur FRAUENfeste.
+Es scheint auf den ersten Blick ein männliches Phänomen zu sein, aber die Wohnungs- und Obdachlosigkeit betrifft auch Frauen. Die Zahlen sind in den letzten Jahren deutlich angestiegen. Allein bei den Caritas-Einrichtungen des Landes Südtirol meldeten sich 2022 200 Frauen, die auf der Suche nach einer festen Bleibe waren. Inwiefern unterscheidet sich weibliche Wohnungs- oder Obdachlosigkeit von der männlichen und welche Ursachen hat sie? dF schaut genauer hin und berichtet über Frauen, die durch das soziale Netz fallen. 
+Im dF Portrait: Gerade noch rechtzeitig vor einem zweimonatigen Trainingsaufenthalt in Thailand haben wir Bettina Gruber getroffen. Die Sarner Friseurin ist Mitglied des italienischen Nationalkaders im Thai-Boxen, dem sogenannten Muay Thai. Im dF-Porträt zeigen wir eine kämpferische junge Frau, die mit der Friseurschere genauso geschickt ist wie in der fernöstlichen Kampfkunst. 
+In df Info: Die Thrive Comunity setzt sich auch abseits von den Festivalterminen für weibliches Empowerment ein. Und die zweite Auflage der FRAUENfeste: 18 Künstlerinnen stellen ihre in den letzten Wochen entwickelten Arbeiten in der Festung Franzensfeste vor.</desc>
+  </programme>
+  <programme start="20240415213400 +0200" stop="20240415215737 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Die Unternehmerfamilie Scheidle</sub-title>
+    <desc>Die Geschichte der Familie Scheidle aus Klausen steht weitgehend für die Geschichte des Tiroler
+Lodens. Das Familienunternehmen bestand bis ins Jahr 1987. Bis dahin löste eine Generation
+die nächste ab.
+Als der Hutmacher Anton Scheidle 1885 das Färberhaus am Tinneweg erwarb, fertigte er
+zunächst Trachtenhüte aus der Wollproduktion der umliegenden Bauernhöfe an. 
+Um die Jahrhundertwende erlebte die Lodenherstellung einen ersten Höhepunkt. Der &quot;Tiroler&quot; Loden wurde auch international zu einem Begriff. Ein Teil der Produktion - so die Verarbeitung der Garne - wurde damals von den Bauern in Heimarbeit erledigt, das Walken der Stoffe erfolgte dann in der Fabrik. 
+Erst 1904 wurde die gesamte Produktion zentral in den Betrieb am Tinnebach verlegt. Der Standort war wichtig, weil die Färbereien mit Wasser zu versorgen waren. Mit dem Beginn der maschinellen Produktion konnte man auch Elektrizitätswerke errichten.</desc>
+  </programme>
+  <programme start="20240415221100 +0200" stop="20240415223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240416200000 +0200" stop="20240416202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240416202000 +0200" stop="20240416203430 +0200" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.</desc>
+  </programme>
+  <programme start="20240416203500 +0200" stop="20240416204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Top-Spiel der 26. Oberliga-Runde ist das Südtiroler Derby Stegen gegen Naturns. Beide Mannschaften brauchen im Kampf um den Klassenerhalt unbedingt einen Sieg. Auch Partschins muss zu Hause gegen St. Georgen gewinnen. 
+In der Landesliga findet das Kellerduell des 24. Spieltages in Passeier statt: Der Tabellen-Vorletzte St. Martin Moos trifft auf den Drittletzten Milland.</desc>
+  </programme>
+  <programme start="20240416221000 +0200" stop="20240416223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240417200000 +0200" stop="20240417202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240417202000 +0200" stop="20240417204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Marokko bildet den Schwerpunkt dieser Ausgabe. Minet berichtet über ein Nomaden-Festival in der Wüste und besucht eine Berberfamilie. Moderation. Christina Khuen.
+
+Das Nomaden-Festival in der Wüste Marokkos ist ein einzigartiges kulturelles Ereignis, das jedes Jahr Tausende von Besucher:innen aus der ganzen Welt anzieht. Das Festival bietet einen faszinierenden Einblick in die nomadische Kultur.
+Die marokkanische Bevölkerung besteht heute zu etwa einem Drittel aus Berbern. Unterteilt in etwa 300 Stammesgruppen siedeln sie vor allem in den gebirgigen Regionen des Hohen und Mittleren Atlas. Minet hat eine Berber-Familie besucht. 
+Die Europäische Union hat ihre große kulturelle und sprachliche Vielfalt schon immer als Vorteil angesehen. Deshalb ist die Mehrsprachigkeit in den europäischen Verträgen fest verankert. Dies macht die europäischen Institutionen auch für alle Bürger:innen der Union zugänglicher und transparenter, was für den Erfolg des demokratischen Systems der EU unerlässlich ist. Minet hat recherchiert, welchen Status die Minderheitensprachen im Europäischen Parlament haben.</desc>
+  </programme>
+  <programme start="20240417221000 +0200" stop="20240417223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240418200000 +0200" stop="20240418202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240418202000 +0200" stop="20240418204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
+
+Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240418221000 +0200" stop="20240418223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240419180000 +0200" stop="20240419182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
+Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240419185300 +0200" stop="20240419185805 +0200" channel="Rai Südtirol">
+    <title>Gedankenspuren</title>
+    <sub-title>Das Unbekannte</sub-title>
+    <desc>Fernsehreihe von Karl Mittermaier</desc>
+  </programme>
+  <programme start="20240419200000 +0200" stop="20240419202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240419202000 +0200" stop="20240419215900 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Die Sendung steht diesmal unter dem Motto Ohne Fleiß kein Preis: Singer-Songwriterin Nina Duschek, Interior Designer Kurt Steurer und der Koch und Sozialhistoriker Thomas Ortler sind die Gäste.
+
+Die Meraner Straßenmusikerin Nina Duschek hat endlich ihr erstes Album veröffentlicht. Darin verarbeitet sie Themen, mit denen sie sich seit Jahren auseinander setzt.  
+Er lässt Wohnträume Wirklichkeit werden: Kurt Steurer. Kunden wie die Geissen's oder David Alaba vertrauen dem Pusterer, der schon so manch Skurriles erlebt hat. 
+Der Vinschger Sozialhistoriker hat seine Leidenschaft für das Kochen zum Beruf gemacht. Von seinen Eltern und Großeltern inspiriert, kocht er leidenschaftlich nach den drei Thesen: Kochtraditionen sind wandelbar - angebaut wird, was gedeiht - gekocht wird, was angebaut wurde. Dabei lässt der Kochbuchautor Thomas Ortler nichts anbrennen. Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
+  </programme>
+  <programme start="20240419221000 +0200" stop="20240419223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240420175900 +0200" stop="20240420185830 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Die Sendung steht diesmal unter dem Motto Ohne Fleiß kein Preis: Singer-Songwriterin Nina Duschek, Interior Designer Kurt Steurer und der Koch und Sozialhistoriker Thomas Ortler sind die Gäste.
+Die Meraner Straßenmusikerin Nina Duschek hat endlich ihr erstes Album veröffentlicht. Darin verarbeitet sie Themen, mit denen sie sich seit Jahren auseinander setzt.  
+Er lässt Wohnträume Wirklichkeit werden: Kurt Steurer. Kunden wie die Geissen's oder David Alaba vertrauen dem Pusterer, der schon so manch Skurriles erlebt hat. 
+Der Vinschger Sozialhistoriker hat seine Leidenschaft für das Kochen zum Beruf gemacht. Von seinen Eltern und Großeltern inspiriert, kocht er leidenschaftlich nach den drei Thesen: Kochtraditionen sind wandelbar - angebaut wird, was gedeiht - gekocht wird, was angebaut wurde. Dabei lässt der Kochbuchautor Thomas Ortler nichts anbrennen. Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
+  </programme>
+  <programme start="20240420200000 +0200" stop="20240420202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240420202100 +0200" stop="20240420202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240420202500 +0200" stop="20240420204930 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Eine Kirchenumnutzung, Kulturvermittlung durch Kleidung, ein Triestiner Barockgeiger, ein Uhrmacher in sechster Generation und ein slowenischer Langstreckenradler - Moderation: Sigrid Flenger.
+
+Früher wurde in der Kirche St. Peter und Paul in Regensburg gebetet, heute wird dort unter gotischem Gewölbe wild zu Disco-Musik getanzt. 
+Kulturvermittlung: Die Gadertaler Schneiderin Anita Vittur will die ladinische Sprache über ihre Kleider in die Welt tragen.
+Außerdem in Alpen Donau Adria: Ein Geiger aus Triest schlüpft in die Kleider des Barocks und spielt die Geige nach einer alten Technik. Ein junger Uhrmacher aus Pécs in Ungarn fertigt traditionelle Uhren in sechster Generation. Ein passionierter Radfahrer aus Slowenien hat auf einer 13.000 Kilometer langen Reise elf Länder durchquert.</desc>
+  </programme>
+  <programme start="20240420221000 +0200" stop="20240420223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240421200000 +0200" stop="20240421202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240421202100 +0200" stop="20240421205030 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Heidy Kessler</sub-title>
+    <desc>Sie war die erste Chefredakteurin von RAI Südtirol, hat die Redaktion in sieben Jahren stark verändert und musste vor einigen Monaten krankheitsbedingt in den Ruhestand treten. 
+
+2017 trat Heidy Kessler die Nachfolge von Wolfgang Mayr an. Sieben Jahre lang führte sie die Redaktion mit viel Feingefühl und Weitblick: Sie holte junge, motivierte und gut ausgebildete Redakteur:innen ins Team und baute das digitale Nachrichtenportal des Senders auf. Mit 1. November 2023 trat Heidy Kessler - krankheitsbedingt - in den Ruhestand. 
+In der Sendung privat mit Markus Frings erzählt sie über ihr Leben mit einer seltenen Krankheit und berichtet über ihre neue Rolle als Pensionistin und die Herausforderungen, die auch ein Ruhestand mit sich bringen kann. 
+Gemeinsam blicken sie zurück auf prägende Menschen und Ereignisse in ihrem Leben und sprechen über den beruflichen Werdegang zur Fernsehjournalistin.</desc>
+  </programme>
+  <programme start="20240421205000 +0200" stop="20240421205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240421221000 +0200" stop="20240421223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
