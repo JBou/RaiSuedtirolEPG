@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240413180000 +0200" stop="20240413185830 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Wir sind unterwegs im Unterland auf den Spuren uralter Weinbaugeschichte, zum anderen erfahren wir mehr darüber, wie Fernsehbeiträge, Radioprogramme und Zeitungsartikel entstehen.
-Theo Hendrich erwandert den ersten Weinlehrpfad Südtirols von Kurtatsch nach Margreid, zwischen Jahrhunderte alten Natursteinmauern, die eine einmalige Reblandschaft geschaffen haben. Dabei begegnet er einem Südtiroler Olivenbauer und entdeckt in einem historischen Ansitz einen skurril gestalteten Sagen- und Märchengarten aus dem 19. Jahrhundert. 
-Adina Guarnieri hingegen widmet sich den Medien. Fernsehen und Radio gehören für die meisten zum täglichen Leben: ob Musik oder Nachrichten, aktiv mithören oder sich berieseln lassen. Dabei wissen wohl nur die wenigsten, wie eine Nachrichtensendung zustande kommt oder wer die Musik aussucht, die im Radio läuft. Reporterin Adina begleitet zwei Journalistinnen von Rai Südtirol bei ihrer Arbeit und besucht in Bruneck die Redaktion von Radio Holiday und die Pustertaler Zeitung.</desc>
-  </programme>
-  <programme start="20240413200000 +0200" stop="20240413202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240413202100 +0200" stop="20240413202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240413202500 +0200" stop="20240413205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach. Ethisch. Leben</sub-title>
-    <desc>Geschwister von chronisch kranken Kindern erzählen, der Arbeitsrehabilitationsdienst Handswork, Musiktherapie in Seniorenheimen und die Stolpersteine gegen das Vergessen.
-
-Wenn ein Kind schwer erkrankt, ändert sich die Lebenssituation in der Familie schlagartig. Alle sind betroffen, auch die Geschwister. Sie leiden mit, müssen auf Vieles verzichten. Daher benötigen auch sie professionelle Begleitung. Zwei Jugendliche sprechen über die Herausforderungen, aber auch die positiven Seiten.
-Seit über 40 Jahren kümmert sich der Verein Hands onlus um Menschen, die in Abhängigkeit geraten sind. An die 1500 Personen werden jährlich betreut. In zwei Arbeitsrehabilitationszentren werden Menschen mit Konsumstörungen bei ihrem Wiedereinstieg in die Arbeitswelt begleitet. Handswork nennen sich diese Werkstätten.
-Schon seit Urzeiten ist bekannt, dass Musik eine heilende, pflegende Wirkung hat. Auch in Altenheimen wird verstärkt auf Musik gesetzt - als Quelle von Harmonie und Wohlbefinden. 
-Die sogenannten Stolpersteine sind im Straßen- oder Gehwegpflaster gut eingebettet. Vor über 30 Jahren, 1992, hat ein deutscher Künstler das Projekt gegen das Vergessen initiiert. Weltweit gibt es 100.000 solcher Messingplatten. Und es gibt sie auch hierzulande. Den Impuls dazu gab vor 9 Jahren der Südtiroler Historiker Hannes Obermair.</desc>
-  </programme>
-  <programme start="20240413221000 +0200" stop="20240413223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240414200000 +0200" stop="20240414202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
