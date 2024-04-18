@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240417200000 +0200" stop="20240417202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240417202000 +0200" stop="20240417204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Marokko bildet den Schwerpunkt dieser Ausgabe. Minet berichtet über ein Nomaden-Festival in der Wüste und besucht eine Berberfamilie. Moderation. Christina Khuen.
-
-Das Nomaden-Festival in der Wüste Marokkos ist ein einzigartiges kulturelles Ereignis, das jedes Jahr Tausende von Besucher:innen aus der ganzen Welt anzieht. Das Festival bietet einen faszinierenden Einblick in die nomadische Kultur.
-Die marokkanische Bevölkerung besteht heute zu etwa einem Drittel aus Berbern. Unterteilt in etwa 300 Stammesgruppen siedeln sie vor allem in den gebirgigen Regionen des Hohen und Mittleren Atlas. Minet hat eine Berber-Familie besucht. 
-Die Europäische Union hat ihre große kulturelle und sprachliche Vielfalt schon immer als Vorteil angesehen. Deshalb ist die Mehrsprachigkeit in den europäischen Verträgen fest verankert. Dies macht die europäischen Institutionen auch für alle Bürger:innen der Union zugänglicher und transparenter, was für den Erfolg des demokratischen Systems der EU unerlässlich ist. Minet hat recherchiert, welchen Status die Minderheitensprachen im Europäischen Parlament haben.</desc>
-  </programme>
-  <programme start="20240417221000 +0200" stop="20240417223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240418200000 +0200" stop="20240418202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
