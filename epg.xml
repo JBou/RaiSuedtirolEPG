@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240418200000 +0200" stop="20240418202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240418202000 +0200" stop="20240418204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
-
-Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
-In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240418221000 +0200" stop="20240418223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240419180000 +0200" stop="20240419182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -105,6 +87,181 @@ Gemeinsam blicken sie zurück auf prägende Menschen und Ereignisse in ihrem Leb
     <desc/>
   </programme>
   <programme start="20240421221000 +0200" stop="20240421223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240422180000 +0200" stop="20240422181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Vier Runden sind in der Fußball-Oberliga noch zu spielen, besonders spannend ist der Kampf um den Klassenerhalt. In Naturns kommt es zum direkten Duell zwischen den Hausherren und Partschins, der Bozner FC trifft hingegen auswärts auf den Tabellenfünften Tramin. 
+In der Landesliga empfängt Gitschberg Jochtal in Vals den FC Gröden.</desc>
+  </programme>
+  <programme start="20240422181400 +0200" stop="20240422183330 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Ranggeln</sub-title>
+    <desc>Beim Alpencup in St. Jakob im Ahrntal messen sich große und kleine Ranggler in diesem traditionsreichen Sport. Ranggeln ist ein Zweikampf, wo Mann gegen Mann gegeneinander antreten: Mit Wurf- und Hebetechniken muss der Gegner auf den Boden gebracht werden. Berührt die gegnerische Schulter den Untergrund, ist der Kampf entschieden. Verboten sind dabei Schmerzgriffe, Schlagen, Stoßen und Treten. Die jüngsten Teilnehmer zeigten mit sechs Jahren, was bereits in ihnen steckt. 
+Beim Hundefestival in Dorf Tirol erfährt Moderator Stefan, wie man Vierbeiner für Filmszenen trainiert und dass es sogar eigene Physiotherapeuten für Hunde gibt.</desc>
+  </programme>
+  <programme start="20240422183400 +0200" stop="20240422185830 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Eine Kirchenumnutzung, Kulturvermittlung durch Kleidung, ein Triestiner Barockgeiger, ein Uhrmacher in sechster Generation und ein slowenischer Langstreckenradler - Moderation: Sigrid Flenger. Früher wurde in der Kirche St. Peter und Paul in Regensburg gebetet, heute wird dort unter gotischem Gewölbe wild zu Disco-Musik getanzt. 
+Kulturvermittlung: Die Gadertaler Schneiderin Anita Vittur will die ladinische Sprache über ihre Kleider in die Welt tragen.
+Außerdem in Alpen Donau Adria: Ein Geiger aus Triest schlüpft in die Kleider des Barocks und spielt die Geige nach einer alten Technik. Ein junger Uhrmacher aus Pécs in Ungarn fertigt traditionelle Uhren in sechster Generation. Ein passionierter Radfahrer aus Slowenien hat auf einer 13.000 Kilometer langen Reise elf Länder durchquert.</desc>
+  </programme>
+  <programme start="20240422200000 +0200" stop="20240422202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240422202000 +0200" stop="20240422215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Männlich, weiblich, divers</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag. 
+
+Machtmissbrauch, toxische Männlichkeit, Hate Speech, Catcalling: Warum haben wir Angst vor Menschen, die sein wollen, wie sie sich fühlen? Und was passiert, wenn wir uns alle outen? Weil das neue Gesellschaftsmodell heißt: sein wer ich bin, männlich, weiblich, divers.
+Es diskutieren Schauspielerin Margot Mayrhofer, Körpertherapeut Philipp Hofer, Trans-Aktivist Tobias Stampfer und Katharina Crepaz, Gender- und Diversitätsforscherin an der Eurac. Im Interview: die Filmemacher Karin Duregger und Jochen Unterhofer. Es moderiert Gabriele Crepaz. Live aus dem Teatro Cristallo in Bozen.</desc>
+  </programme>
+  <programme start="20240422221000 +0200" stop="20240422223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240423200000 +0200" stop="20240423202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240423202000 +0200" stop="20240423203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240423203500 +0200" stop="20240423204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Vier Runden sind in der Fußball-Oberliga noch zu spielen, besonders spannend ist der Kampf um den Klassenerhalt. In Naturns kommt es zum direkten Duell zwischen den Hausherren und Partschins, der Bozner FC trifft hingegen auswärts auf den Tabellenfünften Tramin. 
+In der Landesliga empfängt Gitschberg Jochtal in Vals den FC Gröden.</desc>
+  </programme>
+  <programme start="20240423221000 +0200" stop="20240423223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240424200000 +0200" stop="20240424202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240424202000 +0200" stop="20240424204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Warum Wildkräuter, Knospen und Blüten im Frühling gesund sind. Weniger Sprühnebel, weniger Spitzmittel. Wie eine junge Managerin den Alltag auf einem Bergbauernhof meistert.
+
+Gänseblümchen, Bärlauch und Giersch oder die Knospen von Birke und Walnuss - viele im Frühjahr sprießende Pflanzen sind besonders gesund und schmackhaft. Doch Vorsicht, denn nicht überall kann gesammelt werden und manche Pflanzen sind giftig. Land&amp;Leben ist unterwegs mit der Kräuterfachfrau auf der Suche nach Essbarem in der Wildnis. 
+Spritzmittel in der Luft, giftige Stoffe im Boden - die Landwirtschaft steht in der Kritik. Es braucht bessere Lösungen - dabei helfen neue Maschinen und Geräte.
+Ihre Ausbildung als Managerin hilft ihr vielleicht auch weit oben auf dem Bergbauernhof, auf den sie der Liebe wegen gezogen ist. Land&amp;Leben zeigt, wie Martina Stürz ihren Alltag auf dem Oberprischhof in Passeier meistert. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240424221000 +0200" stop="20240424223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240425200000 +0200" stop="20240425202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240425202000 +0200" stop="20240425204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
+
+Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240425221000 +0200" stop="20240425223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240426180000 +0200" stop="20240426182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller. Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240426183000 +0200" stop="20240426185930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Forderungen des ASGB bezüglich &quot;Schule am Limit&quot;, das Motorrad fit machen für die Sommersaison und die Herstellung von Südtiroler Speck. Moderiert wird die Sendung von Markus Frings. Wir beleuchten die aktuellen Forderungen der Gewerkschaft ASGB an die Politik und geben Einblick in die Diskussionen und Anliegen, die beim jüngsten Kongress des ASGB zum Thema &quot;Schule am Limit&quot; aufgekommen sind. 
+Die Beliebtheit des Motorradfahrens in Südtirol steigt stetig. Wie sollte man das Motorrad nach der Winterpause optimal vorbereiten, um sicher und genussvoll in die Sommersaison zu starten.
+Im Speck-Unternehmen Pfitscher in Burgstall sehen wir, wie handwerkliche Tradition und modernste Technologie Hand in Hand gehen.</desc>
+  </programme>
+  <programme start="20240426200000 +0200" stop="20240426202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240426202100 +0200" stop="20240426210600 +0200" channel="Rai Südtirol">
+    <title>Religionen in Südtirol</title>
+    <sub-title/>
+    <desc>In Südtirol gibt es mittlerweile viele verschiedene Religionen. Unter anderem durch Migration kommen Menschen nach Südtirol, die nicht dem Christentum angehören. 
+
+Welche Religionen gibt es Südtirol? Worin unterscheiden sie sich und noch viel wichtiger: wo gibt es Gemeinsamkeiten?
+Der Film von Hannes Penn geht diesen Fragen nach, anhand von sechs zentralen Themen. Vertreter der verschiedenen Religionen berichten über ihre Glaubenspraxis und wie ihre Religion zu den Themen Beten, Solidarität, Jenseits, Fasten und zur Rolle der Frau steht.</desc>
+  </programme>
+  <programme start="20240426210600 +0200" stop="20240426215330 +0200" channel="Rai Südtirol">
+    <title>Ende des Schreckens</title>
+    <sub-title>Die Befreiung Tirols 1945</sub-title>
+    <desc>3. Mai 1945: US-Truppen ziehen in die Tiroler Landeshauptstadt ein. Die Dokumentation &quot;Die Befreiung Tirols 1945&quot; zeichnet die spannenden Tage und Stunden rund um die Befreiung Nord-, Ost- und Südtirols durch die Amerikaner nach.
+
+In zum Teil bisher unveröffentlichten Aufnahmen und Zeitzeugenberichten erzählt der Film von der Landung alliierter Geheimkommandos per Fallschirm, den Kämpfen am Fernpass und bei Scharnitz, dem Jubel in den Straßen Innsbrucks, als die US-Truppen einziehen, und von den gewaltigen Strömen befreiter Zwangsarbeiter:innen in Innsbruck und Bozen.</desc>
+  </programme>
+  <programme start="20240426215300 +0200" stop="20240426215900 +0200" channel="Rai Südtirol">
+    <title>Der Mensch</title>
+    <sub-title>Gedankenspuren von Karl Mittermaier</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240426221000 +0200" stop="20240426223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240427180000 +0200" stop="20240427184730 +0200" channel="Rai Südtirol">
+    <title>Ende des Schreckens</title>
+    <sub-title>Die Befreiung Tirols 1945</sub-title>
+    <desc>3. Mai 1945: US-Truppen ziehen in die Tiroler Landeshauptstadt ein. Die Dokumentation &quot;Die Befreiung Tirols 1945&quot; zeichnet die spannenden Tage und Stunden rund um die Befreiung Nord-, Ost- und Südtirols durch die Amerikaner nach.
+In zum Teil bisher unveröffentlichten Aufnahmen und Zeitzeugenberichten erzählt der Film von der Landung alliierter Geheimkommandos per Fallschirm, den Kämpfen am Fernpass und bei Scharnitz, dem Jubel in den Straßen Innsbrucks, als die US-Truppen einziehen, und von den gewaltigen Strömen befreiter Zwangsarbeiter:innen in Innsbruck und Bozen.</desc>
+  </programme>
+  <programme start="20240427184700 +0200" stop="20240427185650 +0200" channel="Rai Südtirol">
+    <title>Berwelt Spuren</title>
+    <sub-title>Alpinpionier Julius Payer</sub-title>
+    <desc>Er ist einer der herausragenden Alpinpioniere des 19. Jahrhunderts: Julius Ritter von Payer. Die 
+Berge zogen den österreichisch-ungarischen Offizier und späteren Professor auf geradezu magische Weise an. Besonders der Ortler.
+Diesen mächtigen Gipfel und das umliegende Gebiet stellte er als Kartograph erstmals auf einer 
+Landkarte dar und vermerkte dabei exakt die Höhenlinien.
+Insgesamt 30 Erstbesteigungen schaffte Julius Payer - die er allesamt präzise dokumentierte.</desc>
+  </programme>
+  <programme start="20240427200000 +0200" stop="20240427202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240427202100 +0200" stop="20240427202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240427202500 +0200" stop="20240427204930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Haben Sie Lust auf den Frühling auf dem Teller? Wenn Sie Spargeln und Wildkräuter lieben, dann sind Sie bei &quot;Willkommen&quot; im April gerade richtig.
+
+Eine Köchin und ein Koch bitten zu Tisch. Claudia Laner vom Gasthof Waldbichl in Vöran und Alex Thaler vom Sunnegg oberhalb von Brixen zeigen, wie es geht. Mit einfachen Zutaten kreieren die beiden schmackhafte Hausmannskost. Egal ob es Claudias &quot;Rindfleischkrapfln vom hofeigenen Angusrind mit Wildkräuter-Kartoffelsalat&quot; sind oder die &quot;Spargel gratiniert mit Ziegenkäse und Boznersauce&quot;, die Alex in seiner Küche kocht. Die beiden zeigen Tipps und Tricks bei der Zubereitung und bei der Wahl der Zutaten.</desc>
+  </programme>
+  <programme start="20240427221000 +0200" stop="20240427223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
