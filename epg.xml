@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240419180000 +0200" stop="20240419182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
-Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
-In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240419185300 +0200" stop="20240419185805 +0200" channel="Rai Südtirol">
-    <title>Gedankenspuren</title>
-    <sub-title>Das Unbekannte</sub-title>
-    <desc>Fernsehreihe von Karl Mittermaier</desc>
-  </programme>
-  <programme start="20240419200000 +0200" stop="20240419202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240419202000 +0200" stop="20240419215900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Die Sendung steht diesmal unter dem Motto Ohne Fleiß kein Preis: Singer-Songwriterin Nina Duschek, Interior Designer Kurt Steurer und der Koch und Sozialhistoriker Thomas Ortler sind die Gäste.
-
-Die Meraner Straßenmusikerin Nina Duschek hat endlich ihr erstes Album veröffentlicht. Darin verarbeitet sie Themen, mit denen sie sich seit Jahren auseinander setzt.  
-Er lässt Wohnträume Wirklichkeit werden: Kurt Steurer. Kunden wie die Geissen's oder David Alaba vertrauen dem Pusterer, der schon so manch Skurriles erlebt hat. 
-Der Vinschger Sozialhistoriker hat seine Leidenschaft für das Kochen zum Beruf gemacht. Von seinen Eltern und Großeltern inspiriert, kocht er leidenschaftlich nach den drei Thesen: Kochtraditionen sind wandelbar - angebaut wird, was gedeiht - gekocht wird, was angebaut wurde. Dabei lässt der Kochbuchautor Thomas Ortler nichts anbrennen. Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
-  </programme>
-  <programme start="20240419221000 +0200" stop="20240419223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240420175900 +0200" stop="20240420185830 +0200" channel="Rai Südtirol">
     <title>Toms Kellershow</title>
     <sub-title/>
@@ -262,6 +231,28 @@ Insgesamt 30 Erstbesteigungen schaffte Julius Payer - die er allesamt präzise d
 Eine Köchin und ein Koch bitten zu Tisch. Claudia Laner vom Gasthof Waldbichl in Vöran und Alex Thaler vom Sunnegg oberhalb von Brixen zeigen, wie es geht. Mit einfachen Zutaten kreieren die beiden schmackhafte Hausmannskost. Egal ob es Claudias &quot;Rindfleischkrapfln vom hofeigenen Angusrind mit Wildkräuter-Kartoffelsalat&quot; sind oder die &quot;Spargel gratiniert mit Ziegenkäse und Boznersauce&quot;, die Alex in seiner Küche kocht. Die beiden zeigen Tipps und Tricks bei der Zubereitung und bei der Wahl der Zutaten.</desc>
   </programme>
   <programme start="20240427221000 +0200" stop="20240427223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240428200000 +0200" stop="20240428202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240428202100 +0200" stop="20240428205030 +0200" channel="Rai Südtirol">
+    <title>Das Thema</title>
+    <sub-title>Babybusiness</sub-title>
+    <desc>Die Geburt eines kleinen Menschen ist ein natürliches Ereignis, damit werden aber auch Geschäfte gemacht: Babys und ihre Bedürfnisse sind ein Businessmodell. Ein Film von Andreas Niederkofler.
+
+Damit der Start ins Leben gelingt, beginnen die Vorbereitungen schon lange vor dem ersten Schrei des Sprösslings. Während die einen auf Hightech und smarte Helfer setzen, meinen andere, dass Babys eher Dinge und Werte brauchen, die sich nicht kaufen lassen. Dieser Film begleitet Menschen, die auf ganz unterschiedlichste Weise Teil des Südtiroler &quot;Babybusiness&quot; sind.</desc>
+  </programme>
+  <programme start="20240428205000 +0200" stop="20240428205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240428221000 +0200" stop="20240428223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
