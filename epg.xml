@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240420175900 +0200" stop="20240420185830 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Die Sendung steht diesmal unter dem Motto Ohne Fleiß kein Preis: Singer-Songwriterin Nina Duschek, Interior Designer Kurt Steurer und der Koch und Sozialhistoriker Thomas Ortler sind die Gäste.
-Die Meraner Straßenmusikerin Nina Duschek hat endlich ihr erstes Album veröffentlicht. Darin verarbeitet sie Themen, mit denen sie sich seit Jahren auseinander setzt.  
-Er lässt Wohnträume Wirklichkeit werden: Kurt Steurer. Kunden wie die Geissen's oder David Alaba vertrauen dem Pusterer, der schon so manch Skurriles erlebt hat. 
-Der Vinschger Sozialhistoriker hat seine Leidenschaft für das Kochen zum Beruf gemacht. Von seinen Eltern und Großeltern inspiriert, kocht er leidenschaftlich nach den drei Thesen: Kochtraditionen sind wandelbar - angebaut wird, was gedeiht - gekocht wird, was angebaut wurde. Dabei lässt der Kochbuchautor Thomas Ortler nichts anbrennen. Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
-  </programme>
-  <programme start="20240420200000 +0200" stop="20240420202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240420202100 +0200" stop="20240420202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240420202500 +0200" stop="20240420204930 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Eine Kirchenumnutzung, Kulturvermittlung durch Kleidung, ein Triestiner Barockgeiger, ein Uhrmacher in sechster Generation und ein slowenischer Langstreckenradler - Moderation: Sigrid Flenger.
-
-Früher wurde in der Kirche St. Peter und Paul in Regensburg gebetet, heute wird dort unter gotischem Gewölbe wild zu Disco-Musik getanzt. 
-Kulturvermittlung: Die Gadertaler Schneiderin Anita Vittur will die ladinische Sprache über ihre Kleider in die Welt tragen.
-Außerdem in Alpen Donau Adria: Ein Geiger aus Triest schlüpft in die Kleider des Barocks und spielt die Geige nach einer alten Technik. Ein junger Uhrmacher aus Pécs in Ungarn fertigt traditionelle Uhren in sechster Generation. Ein passionierter Radfahrer aus Slowenien hat auf einer 13.000 Kilometer langen Reise elf Länder durchquert.</desc>
-  </programme>
-  <programme start="20240420221000 +0200" stop="20240420223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240421200000 +0200" stop="20240421202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
