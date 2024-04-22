@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240421200000 +0200" stop="20240421202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240421202100 +0200" stop="20240421205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Heidy Kessler</sub-title>
-    <desc>Sie war die erste Chefredakteurin von RAI Südtirol, hat die Redaktion in sieben Jahren stark verändert und musste vor einigen Monaten krankheitsbedingt in den Ruhestand treten. 
-
-2017 trat Heidy Kessler die Nachfolge von Wolfgang Mayr an. Sieben Jahre lang führte sie die Redaktion mit viel Feingefühl und Weitblick: Sie holte junge, motivierte und gut ausgebildete Redakteur:innen ins Team und baute das digitale Nachrichtenportal des Senders auf. Mit 1. November 2023 trat Heidy Kessler - krankheitsbedingt - in den Ruhestand. 
-In der Sendung privat mit Markus Frings erzählt sie über ihr Leben mit einer seltenen Krankheit und berichtet über ihre neue Rolle als Pensionistin und die Herausforderungen, die auch ein Ruhestand mit sich bringen kann. 
-Gemeinsam blicken sie zurück auf prägende Menschen und Ereignisse in ihrem Leben und sprechen über den beruflichen Werdegang zur Fernsehjournalistin.</desc>
-  </programme>
-  <programme start="20240421205000 +0200" stop="20240421205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240421221000 +0200" stop="20240421223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240422180000 +0200" stop="20240422181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
