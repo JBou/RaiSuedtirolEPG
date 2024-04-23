@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240422180000 +0200" stop="20240422181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vier Runden sind in der Fußball-Oberliga noch zu spielen, besonders spannend ist der Kampf um den Klassenerhalt. In Naturns kommt es zum direkten Duell zwischen den Hausherren und Partschins, der Bozner FC trifft hingegen auswärts auf den Tabellenfünften Tramin. 
-In der Landesliga empfängt Gitschberg Jochtal in Vals den FC Gröden.</desc>
-  </programme>
-  <programme start="20240422181400 +0200" stop="20240422183330 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Ranggeln</sub-title>
-    <desc>Beim Alpencup in St. Jakob im Ahrntal messen sich große und kleine Ranggler in diesem traditionsreichen Sport. Ranggeln ist ein Zweikampf, wo Mann gegen Mann gegeneinander antreten: Mit Wurf- und Hebetechniken muss der Gegner auf den Boden gebracht werden. Berührt die gegnerische Schulter den Untergrund, ist der Kampf entschieden. Verboten sind dabei Schmerzgriffe, Schlagen, Stoßen und Treten. Die jüngsten Teilnehmer zeigten mit sechs Jahren, was bereits in ihnen steckt. 
-Beim Hundefestival in Dorf Tirol erfährt Moderator Stefan, wie man Vierbeiner für Filmszenen trainiert und dass es sogar eigene Physiotherapeuten für Hunde gibt.</desc>
-  </programme>
-  <programme start="20240422183400 +0200" stop="20240422185830 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Eine Kirchenumnutzung, Kulturvermittlung durch Kleidung, ein Triestiner Barockgeiger, ein Uhrmacher in sechster Generation und ein slowenischer Langstreckenradler - Moderation: Sigrid Flenger. Früher wurde in der Kirche St. Peter und Paul in Regensburg gebetet, heute wird dort unter gotischem Gewölbe wild zu Disco-Musik getanzt. 
-Kulturvermittlung: Die Gadertaler Schneiderin Anita Vittur will die ladinische Sprache über ihre Kleider in die Welt tragen.
-Außerdem in Alpen Donau Adria: Ein Geiger aus Triest schlüpft in die Kleider des Barocks und spielt die Geige nach einer alten Technik. Ein junger Uhrmacher aus Pécs in Ungarn fertigt traditionelle Uhren in sechster Generation. Ein passionierter Radfahrer aus Slowenien hat auf einer 13.000 Kilometer langen Reise elf Länder durchquert.</desc>
-  </programme>
-  <programme start="20240422200000 +0200" stop="20240422202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240422202000 +0200" stop="20240422215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Männlich, weiblich, divers</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag. 
-
-Machtmissbrauch, toxische Männlichkeit, Hate Speech, Catcalling: Warum haben wir Angst vor Menschen, die sein wollen, wie sie sich fühlen? Und was passiert, wenn wir uns alle outen? Weil das neue Gesellschaftsmodell heißt: sein wer ich bin, männlich, weiblich, divers.
-Es diskutieren Schauspielerin Margot Mayrhofer, Körpertherapeut Philipp Hofer, Trans-Aktivist Tobias Stampfer und Katharina Crepaz, Gender- und Diversitätsforscherin an der Eurac. Im Interview: die Filmemacher Karin Duregger und Jochen Unterhofer. Es moderiert Gabriele Crepaz. Live aus dem Teatro Cristallo in Bozen.</desc>
-  </programme>
-  <programme start="20240422221000 +0200" stop="20240422223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240423200000 +0200" stop="20240423202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
