@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240423200000 +0200" stop="20240423202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240423202000 +0200" stop="20240423203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240423203500 +0200" stop="20240423204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vier Runden sind in der Fußball-Oberliga noch zu spielen, besonders spannend ist der Kampf um den Klassenerhalt. In Naturns kommt es zum direkten Duell zwischen den Hausherren und Partschins, der Bozner FC trifft hingegen auswärts auf den Tabellenfünften Tramin. 
-In der Landesliga empfängt Gitschberg Jochtal in Vals den FC Gröden.</desc>
-  </programme>
-  <programme start="20240423221000 +0200" stop="20240423223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240424200000 +0200" stop="20240424202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -52,9 +31,9 @@ Ihre Ausbildung als Managerin hilft ihr vielleicht auch weit oben auf dem Bergba
   <programme start="20240425202000 +0200" stop="20240425204930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
-    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller.
+    <desc>Was sind gute Manieren? Welche Umgangsformen sind uns heute noch wichtig und wie haben sie sich im Lauf der Zeit verändert? Diesen Fragen das Südtirol Magazin nach. Moderation: Karin Gschnitzer
 
-Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+Auch immer mehr Unternehmen widmen sich den Fragen der Umgangsform. Wir haben Evelyn Kirchmaier von Markas dazu zum Gespräch eingeladen. 
 In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
   </programme>
   <programme start="20240425221000 +0200" stop="20240425223000 +0200" channel="Rai Südtirol">
@@ -65,7 +44,8 @@ In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagess
   <programme start="20240426180000 +0200" stop="20240426182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
-    <desc>Wer geht in Zeiten von Streaming-Diensten noch ins Kino? Und wie schaut es außerhalb der Zentren aus? Das Film Festival Bozen gibt Anlass nachzufragen. Es moderiert Magdalena Oberstaller. Alljährlich im April findet das Film Festival Bozen statt. Rund um den Filmclub in der Bozner Altstadt trifft man auf Leute aus der Filmbranche, aber auch auf Filmliebhaber:innen. Grund für uns nachzufragen, welchen Stellenwert das Kino heute noch hat. 
+    <desc>Was sind gute Manieren? Welche Umgangsformen sind uns heute noch wichtig und wie haben sie sich im Lauf der Zeit verändert? Diesen Fragen das Südtirol Magazin nach. Moderation: Karin Gschnitzer
+Auch immer mehr Unternehmen widmen sich den Fragen der Umgangsform. Wir haben Evelyn Kirchmaier von Markas dazu zum Gespräch eingeladen. 
 In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
   </programme>
   <programme start="20240426183000 +0200" stop="20240426185930 +0200" channel="Rai Südtirol">
