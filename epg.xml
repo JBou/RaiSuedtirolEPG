@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240424200000 +0200" stop="20240424202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240424202000 +0200" stop="20240424204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Warum Wildkräuter, Knospen und Blüten im Frühling gesund sind. Weniger Sprühnebel, weniger Spitzmittel. Wie eine junge Managerin den Alltag auf einem Bergbauernhof meistert.
-
-Gänseblümchen, Bärlauch und Giersch oder die Knospen von Birke und Walnuss - viele im Frühjahr sprießende Pflanzen sind besonders gesund und schmackhaft. Doch Vorsicht, denn nicht überall kann gesammelt werden und manche Pflanzen sind giftig. Land&amp;Leben ist unterwegs mit der Kräuterfachfrau auf der Suche nach Essbarem in der Wildnis. 
-Spritzmittel in der Luft, giftige Stoffe im Boden - die Landwirtschaft steht in der Kritik. Es braucht bessere Lösungen - dabei helfen neue Maschinen und Geräte.
-Ihre Ausbildung als Managerin hilft ihr vielleicht auch weit oben auf dem Bergbauernhof, auf den sie der Liebe wegen gezogen ist. Land&amp;Leben zeigt, wie Martina Stürz ihren Alltag auf dem Oberprischhof in Passeier meistert. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240424221000 +0200" stop="20240424223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240425200000 +0200" stop="20240425202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -140,6 +121,166 @@ Damit der Start ins Leben gelingt, beginnen die Vorbereitungen schon lange vor d
     <desc/>
   </programme>
   <programme start="20240428221000 +0200" stop="20240428223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240429180000 +0200" stop="20240429181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Traditionsderby Obermais gegen St. Georgen, das bereits zum 24. Mal ausgetragen wird, ist das Top-Spiel in der Fußball-Oberliga. In der Landesliga empfängt Tabellenführer Brixen im Jugendhort den Dritten Latsch, der Vierte Salurn hat hingegen den Sechsten Ahrntal zu Gast.</desc>
+  </programme>
+  <programme start="20240429181400 +0200" stop="20240429182830 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Sing in Auer</sub-title>
+    <desc>Zipp Dabei-Reporterin Nadia taucht in Auer in ein mitreißendes Chorkonzert ein, bei dem über 250 begeisterte Kinder und Jugendliche aus ganz Südtirol mitsingen. Zuvor gibt es einen Workshop. Dort komponieren und erarbeiten die jungen Gesangstalente gemeinsam mit einer Jazz-Solistin ihren eigenen Popsong, den sie schließlich öffentlich präsentieren. Ein unvergessliches Erlebnis - wenn der Popsong &quot;Sing in Auer&quot; entsteht.</desc>
+  </programme>
+  <programme start="20240429182900 +0200" stop="20240429185830 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Warum Wildkräuter, Knospen und Blüten im Frühling gesund sind. Weniger Sprühnebel, weniger Spitzmittel. Wie eine junge Managerin den Alltag auf einem Bergbauernhof meistert.
+Gänseblümchen, Bärlauch und Giersch oder die Knospen von Birke und Walnuss - viele im Frühjahr sprießende Pflanzen sind besonders gesund und schmackhaft. Doch Vorsicht, denn nicht überall kann gesammelt werden und manche Pflanzen sind giftig. Land&amp;Leben ist unterwegs mit der Kräuterfachfrau auf der Suche nach Essbarem in der Wildnis. 
+Spritzmittel in der Luft, giftige Stoffe im Boden - die Landwirtschaft steht in der Kritik. Es braucht bessere Lösungen - dabei helfen neue Maschinen und Geräte.
+Ihre Ausbildung als Managerin hilft ihr vielleicht auch weit oben auf dem Bergbauernhof, auf den sie der Liebe wegen gezogen ist. Land&amp;Leben zeigt, wie Martina Stürz ihren Alltag auf dem Oberprischhof in Passeier meistert. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240429200000 +0200" stop="20240429202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240429202000 +0200" stop="20240429211930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Das Kammerspiel &quot;Der große Diktator&quot;, der neue Präsident des Südtiroler Theaterverbandes Rene Mair, 30 Jahre Kühne-Ü-Bühne Eppan, die Neuausrichtung des Südtiroler Künstlerbundes. 
+
+Mit &quot;Der große Diktator&quot; hat es Charlie Chaplin 1940 gewagt, das pure Böse direkt zu verspotten. Die Kammerspiele des Wiener Theaters in der Josefstadt brachten 80 Jahre später den kaum veränderten Text auf die Bühne: umwerfend komisch und zutiefst erschreckend zugleich. Auf Einladung des Südtiroler Kulturinstitutes wird es demnächst in Bozen gezeigt.
+Rene Mair wurde vor kurzem zum neuen Präsidenten des Südtiroler Theaterverbandes gewählt. Er folgt auf Klaus Runer, der 30 Jahre lang dem Verband vorstand. Mair hat öfters bei der Volksbühne Klausen und dem Eisacktaler Volkstheater mitgewirkt. 
+Mit Trallala, Tschuchui und Tschinderassabum feiert die Kühne-Ü-Bühne ihr 30 jähriges Bestehen. Darstellende, Zuschauende und auch die Mitwirkenden der ersten Stunde erzählen.
+Am 20. April beginnt in Venedig die diesjährige Kunstbiennale. Mit dabei die in Bruneck und Berlin lebende Künstlerin Julia Bornefeld. Sie stellt eine ihrer Skulpturen im Nationalen Pavillon von Kamerun aus. 
+Mit SKB ARTES öffnet der Südtiroler Künstlerbund ein neues Kapitel und gleichzeitig neue Ausstellungsräume. 147 Künstlerinnen und Künstler wurden dazu eingeladen, ihr persönliches Schlüsselwerk zu präsentieren.</desc>
+  </programme>
+  <programme start="20240429212000 +0200" stop="20240429214430 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne über Schönheit</sub-title>
+    <desc>Schön sind unsere Berge, die Apfelblüte oder die Alfa Giulia, mit der Simone Mayr und Angelika König unterwegs sind. Was ist aber mit unserer eigenen Schönheit? Und was tun wir dafür?
+
+Schönheitsoperationen sind auch in Südtirol sehr gefragt. Simone Mayr und Angelika König besuchen zwei plastische Chirurgen und erfahren einiges über deren Arbeit. Sie sprechen mit einem Model, das derzeit aus den gefragten Normen gefallen ist, über Schönheitsideale und den Druck, dem man in der Modebranche ausgesetzt ist. Und sie werfen einen Blick auf das Thema Schönheit gemeinsam mit einer Künstlerin, die anerzogene Muster und Werte gerne aufbricht und in Frage stellt.</desc>
+  </programme>
+  <programme start="20240429214400 +0200" stop="20240429215900 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Burg Hocheppan</sub-title>
+    <desc>Hoch über Missian und Unterrain thront die Burg Hocheppan mit ihrem fünfeckigen Bergfried, der
+23 Meter hoch in den Himmel ragt.
+Die Geschichte der Burg reicht weit zurück: Um 1130 wurde sie von Graf Ulrich II erbaut und war
+schon bald eine der bedeutendsten Wehranlagen im Land. Wer die &quot;Knödelesserin&quot;, eines der
+wohl bekanntesten mittelalterlichen Freskos im Land, sehen will, darf die knappe Stunde
+Wanderung zur Burg nicht scheuen und kann sich auch auf weitere typische Malereien in der
+sogenannten &quot;sixtinischen Kapelle der Alpen&quot; erfreuen. 
+Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240429221100 +0200" stop="20240429223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240430200000 +0200" stop="20240430202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240430202000 +0200" stop="20240430203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240430203500 +0200" stop="20240430204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Traditionsderby Obermais gegen St. Georgen, das bereits zum 24. Mal ausgetragen wird, ist das Top-Spiel in der Fußball-Oberliga. In der Landesliga empfängt Tabellenführer Brixen im Jugendhort den Dritten Latsch, der Vierte Salurn hat hingegen den Sechsten Ahrntal zu Gast.</desc>
+  </programme>
+  <programme start="20240430221000 +0200" stop="20240430223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240501200000 +0200" stop="20240501202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240501202000 +0200" stop="20240501204935 +0200" channel="Rai Südtirol">
+    <title>Hausfassaden</title>
+    <sub-title>so unterschiedlich wie ihre Bewohner</sub-title>
+    <desc>Die typische Sgraffitomalerei entstand im 17.Jahrhundert im rätoromanischen Raum. Der Film von Günther Neumair und Helene Dietl Laganda zeigt schöne Beispiele aus dem Obervinschgau. 
+Die Fassade ist jener Teil der Architektur, der unmittelbar mit der Umgebung kommuniziert. Die Gestaltung der Hausfassade ist Sinnbild für den Zeitgeist unterschiedlicher Epochen und für die Individualität der Hausbesitzer. Sie ändert sich im Laufe der Geschichte und behält dennoch historische Elemente bei. In besonderer Weise tut dies die Sgrafittomalerei, die Teil der rätoromanischen Baukultur ist. Im Oberen Vinschgau finden sich noch zahlreiche Beispiele dafür. Diesen sind Günther Neumair und Helene Dietl Laganda in der Dokumentation „Hausfassaden&quot; auf der Spur.&quot;</desc>
+  </programme>
+  <programme start="20240501221000 +0200" stop="20240501223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240502200000 +0200" stop="20240502202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240502202000 +0200" stop="20240502204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>In jeder Gesellschaft gibt es ungeschriebene Gesetze: Dinge, über die man nicht redet, unsichtbare Grenzen, die nicht überschritten werden dürfen. Es moderiert Magdalena Oberstaller.
+
+Was sind die Themen, um die wir lieber ein Geheimnis machen, die wir weder mit der Familie noch mit Freunden teilen möchten? Mit welchen Themen wenden sich Menschen an die Telefonseelsorge? Das Südtirol Magazin hat sich umgehört.  
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240502221000 +0200" stop="20240502223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240503180000 +0200" stop="20240503182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>In jeder Gesellschaft gibt es ungeschriebene Gesetze: Dinge, über die man nicht redet, unsichtbare Grenzen, die nicht überschritten werden dürfen. Es moderiert Magdalena Oberstaller.
+Was sind die Themen, um die wir lieber ein Geheimnis machen, die wir weder mit der Familie noch mit Freunden teilen möchten? Mit welchen Themen wenden sich Menschen an die Telefonseelsorge? Das Südtirol Magazin hat sich umgehört.  
+In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
+  </programme>
+  <programme start="20240503183000 +0200" stop="20240503185930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Marokko bildet den Schwerpunkt dieser Ausgabe. Minet berichtet über ein Nomaden-Festival in
+der Wüste und besucht eine Berberfamilie. Moderation. Christina Khuen. Das Nomaden-Festival in der Wüste Marokkos ist ein einzigartiges kulturelles Ereignis, das jedes Jahr Tausende von Besucher:innen aus der ganzen Welt anzieht. Das Festival bietet einen faszinierenden Einblick in die nomadische Kultur.
+Die marokkanische Bevölkerung besteht heute zu etwa einem Drittel aus Berbern. Unterteilt in
+etwa 300 Stammesgruppen siedeln sie vor allem in den gebirgigen Regionen des Hohen und Mittleren Atlas. Minet hat eine Berber-Familie besucht. 
+Die Europäische Union hat ihre große kulturelle und sprachliche Vielfalt schon immer als Vorteil
+angesehen. Deshalb ist die Mehrsprachigkeit in den europäischen Verträgen fest verankert. Dies macht die europäischen Institutionen auch für alle Bürger:innen der Union zugänglicher und transparenter, was für den Erfolg des demokratischen Systems der EU unerlässlich ist. Minet hat recherchiert, welchen Status die Minderheitensprachen im Europäischen Parlament haben.</desc>
+  </programme>
+  <programme start="20240503200000 +0200" stop="20240503202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240503202100 +0200" stop="20240503212034 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>&quot;Schachmax&quot; kehrt zurück: Liedermacher Max von Milland nimmt die Herausforderung an und wird zum Comedian. Reporterin Karin Duregger ist diesmal auf der Suche nach unbequemen Zeitgeistern.
+
+In einer abenteuerlichen Episode wagt sich Max aus seiner Komfortzone heraus und begibt sich in die Welt des Lachens. Unterstützt wird er von einigen der besten Comedians des Landes: Eva Kuen, Gabriel Mair (Buonomemes) und Thomas Hochkofler geben ihm wertvolle Ratschläge und teilen ihre Geheimnisse des Humors.
+Begleiten Sie Max, wenn er sich auf die Bühne wagt. Werden seine Ideen und sein erlerntes &quot;Lach-Wissen&quot; auch auf der Comedybühne funktionieren? 
+Karin Duregger trifft anschließend drei unbequeme Zeitgeister. Unbequem deshalb, weil das, was sie sagen und tun, mitunter zu Irritation führen kann. Es gilt, sich damit auseinanderzusetzen: Mit Themen wie Heimat gemeinsam mit der Volkskundlerin Elsbeth Wallnöfer, mit Veganismus durch den Jungmediziner Lukas Gatterer und mit Themen wie Gewalt und Care Arbeit durch die künstlerischen Arbeiten von Laura Volgger.</desc>
+  </programme>
+  <programme start="20240503212000 +0200" stop="20240503215128 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Haben Sie Lust auf den Frühling auf dem Teller? Wenn Sie Spargeln und Wildkräuter lieben, dann sind Sie bei &quot;Willkommen&quot; im April gerade richtig.
+Eine Köchin und ein Koch bitten zu Tisch. Claudia Laner vom Gasthof Waldbichl in Vöran und Alex Thaler vom Sunnegg oberhalb von Brixen zeigen, wie es geht. Mit einfachen Zutaten kreieren die beiden schmackhafte Hausmannskost. Egal ob es Claudias &quot;Rindfleischkrapfln vom hofeigenen Angusrind mit Wildkräuter-Kartoffelsalat&quot; sind oder die &quot;Spargel gratiniert mit Ziegenkäse und Boznersauce&quot;, die Alex in seiner Küche kocht. Die beiden zeigen Tipps und Tricks bei der Zubereitung und bei der Wahl der Zutaten.</desc>
+  </programme>
+  <programme start="20240503215200 +0200" stop="20240503215958 +0200" channel="Rai Südtirol">
+    <title>Digital now</title>
+    <sub-title>Das digitale Fenster</sub-title>
+    <desc>Spätestens dann, wenn es darum geht, Kinder in Schulen einzuschreiben, ärztliche Befunde downzuloaden oder Beitragsgesuche online zu tätigen, braucht es eine digitale Identität. 
+Die öffentliche Verwaltung in Südtirol möchte mit der digitalen Entwicklung Schritt halten und unseren Alltag erleichtern. Wie gut das gelingt, wohin sich die elektronische Verwaltung entwickelt und wie sicher unsere Daten sind, erfahren wir in &quot;Digital now&quot;, dem digitalen Fenster auf RAI-Südtirol.</desc>
+  </programme>
+  <programme start="20240503221000 +0200" stop="20240503223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
