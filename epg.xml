@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240426180000 +0200" stop="20240426182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Was sind gute Manieren? Welche Umgangsformen sind uns heute noch wichtig und wie haben sie sich im Lauf der Zeit verändert? Diesen Fragen das Südtirol Magazin nach. Moderation: Karin Gschnitzer
-Auch immer mehr Unternehmen widmen sich den Fragen der Umgangsform. Wir haben Evelyn Kirchmaier von Markas dazu zum Gespräch eingeladen. 
-In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240426183000 +0200" stop="20240426185930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Forderungen des ASGB bezüglich &quot;Schule am Limit&quot;, das Motorrad fit machen für die Sommersaison und die Herstellung von Südtiroler Speck. Moderiert wird die Sendung von Markus Frings. Wir beleuchten die aktuellen Forderungen der Gewerkschaft ASGB an die Politik und geben Einblick in die Diskussionen und Anliegen, die beim jüngsten Kongress des ASGB zum Thema &quot;Schule am Limit&quot; aufgekommen sind. 
-Die Beliebtheit des Motorradfahrens in Südtirol steigt stetig. Wie sollte man das Motorrad nach der Winterpause optimal vorbereiten, um sicher und genussvoll in die Sommersaison zu starten.
-Im Speck-Unternehmen Pfitscher in Burgstall sehen wir, wie handwerkliche Tradition und modernste Technologie Hand in Hand gehen.</desc>
-  </programme>
-  <programme start="20240426200000 +0200" stop="20240426202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240426202100 +0200" stop="20240426210600 +0200" channel="Rai Südtirol">
-    <title>Religionen in Südtirol</title>
-    <sub-title/>
-    <desc>In Südtirol gibt es mittlerweile viele verschiedene Religionen. Unter anderem durch Migration kommen Menschen nach Südtirol, die nicht dem Christentum angehören. 
-
-Welche Religionen gibt es Südtirol? Worin unterscheiden sie sich und noch viel wichtiger: wo gibt es Gemeinsamkeiten?
-Der Film von Hannes Penn geht diesen Fragen nach, anhand von sechs zentralen Themen. Vertreter der verschiedenen Religionen berichten über ihre Glaubenspraxis und wie ihre Religion zu den Themen Beten, Solidarität, Jenseits, Fasten und zur Rolle der Frau steht.</desc>
-  </programme>
-  <programme start="20240426210600 +0200" stop="20240426215330 +0200" channel="Rai Südtirol">
-    <title>Ende des Schreckens</title>
-    <sub-title>Die Befreiung Tirols 1945</sub-title>
-    <desc>3. Mai 1945: US-Truppen ziehen in die Tiroler Landeshauptstadt ein. Die Dokumentation &quot;Die Befreiung Tirols 1945&quot; zeichnet die spannenden Tage und Stunden rund um die Befreiung Nord-, Ost- und Südtirols durch die Amerikaner nach.
-
-In zum Teil bisher unveröffentlichten Aufnahmen und Zeitzeugenberichten erzählt der Film von der Landung alliierter Geheimkommandos per Fallschirm, den Kämpfen am Fernpass und bei Scharnitz, dem Jubel in den Straßen Innsbrucks, als die US-Truppen einziehen, und von den gewaltigen Strömen befreiter Zwangsarbeiter:innen in Innsbruck und Bozen.</desc>
-  </programme>
-  <programme start="20240426215300 +0200" stop="20240426215900 +0200" channel="Rai Südtirol">
-    <title>Der Mensch</title>
-    <sub-title>Gedankenspuren von Karl Mittermaier</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240426221000 +0200" stop="20240426223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240427180000 +0200" stop="20240427184730 +0200" channel="Rai Südtirol">
     <title>Ende des Schreckens</title>
     <sub-title>Die Befreiung Tirols 1945</sub-title>
@@ -295,6 +251,30 @@ Mit SKB ARTES öffnet der Südtiroler Künstlerbund ein neues Kapitel und gleich
 Der Film zeigt nicht nur Finatzers beeindruckende musikalische Karriere, sondern auch seine Leidenschaft für Technik, Natur und Handwerk. Neben seinen Erfolgen als Solist, Dirigent und Komponist taucht &quot;Momentum&quot; in die Welt des Musikers ab, die von Maschinen, Wald und kreativem Werkeln geprägt ist. Doch hinter den Kulissen verbirgt sich auch ein Drama, das Finatzers Leben erschütterte und seine Perspektive veränderte. Mit intimen Interviews, beeindruckenden Filmaufnahmen und musikalischen Höhepunkten lädt &quot;Momentum&quot; das Publikum ein, die inspirierende Reise dieses vielseitigen Künstlers mitzuerleben. Der Film unter der Regie von Thomas Vonmetz ist eine Hommage an Johann Finatzers Lebenswerk und eine Feier der Kraft der Musik sowie der menschlichen Resilienz.</desc>
   </programme>
   <programme start="20240504221000 +0200" stop="20240504223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240505200000 +0200" stop="20240505202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240505202000 +0200" stop="20240505204430 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Ein Aufklärungsvideo über K.O.Tropfen  als Maturaprojekt, DJanes in Südtirol auf dem Vormarsch, ein junger israelischer Musiker in der Basis Vinschgau und sein Blick auf unser Land. 
+Leonie Nischler und Lena Frei, Schülerinnen des Berufsbildungszentrum Luis Zuegg Meran haben an einem Maturaprojekt zum Thema K.O.Tropfen gearbeitet. Entstanden ist ein Aufklärungsvideo. &quot;Klick&quot; hat die jungen Frauen getroffen.
+In den Clubs geben die DJs den Ton an. Doch wie in so vielen Branchen, sind es auch hier vorwiegend Männer, die hinter den Decks stehen. Wir haben junge Frauen getroffen, die das ändern wollen.
+In der Ex-Drusus-Kaserne in Schlanders finden regelmäßig Veranstaltungen statt, auch Jam Sessions, ins Leben gerufen von Dolev Nahoom Sanbira, einem jungen Musiker aus Israel. Das von der &quot;Basis Vinschgau&quot; initiierte Projekt hat vor dem Hintergrund der weltpolitischen Geschehnisse heute mehr denn je Gültigkeit. 
+Wie der junge Israeli das Leben in der Südtiroler Peripherie erlebt und welche Besonderheiten ihm bei den jungen Musikern hierzulande auffallen, haben wir ihn für die Sendung &quot;Klick&quot; gefragt.</desc>
+  </programme>
+  <programme start="20240505204500 +0200" stop="20240505204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240505221000 +0200" stop="20240505223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
