@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240427180000 +0200" stop="20240427184730 +0200" channel="Rai Südtirol">
-    <title>Ende des Schreckens</title>
-    <sub-title>Die Befreiung Tirols 1945</sub-title>
-    <desc>3. Mai 1945: US-Truppen ziehen in die Tiroler Landeshauptstadt ein. Die Dokumentation &quot;Die Befreiung Tirols 1945&quot; zeichnet die spannenden Tage und Stunden rund um die Befreiung Nord-, Ost- und Südtirols durch die Amerikaner nach.
-In zum Teil bisher unveröffentlichten Aufnahmen und Zeitzeugenberichten erzählt der Film von der Landung alliierter Geheimkommandos per Fallschirm, den Kämpfen am Fernpass und bei Scharnitz, dem Jubel in den Straßen Innsbrucks, als die US-Truppen einziehen, und von den gewaltigen Strömen befreiter Zwangsarbeiter:innen in Innsbruck und Bozen.</desc>
-  </programme>
-  <programme start="20240427184700 +0200" stop="20240427185650 +0200" channel="Rai Südtirol">
-    <title>Berwelt Spuren</title>
-    <sub-title>Alpinpionier Julius Payer</sub-title>
-    <desc>Er ist einer der herausragenden Alpinpioniere des 19. Jahrhunderts: Julius Ritter von Payer. Die 
-Berge zogen den österreichisch-ungarischen Offizier und späteren Professor auf geradezu magische Weise an. Besonders der Ortler.
-Diesen mächtigen Gipfel und das umliegende Gebiet stellte er als Kartograph erstmals auf einer 
-Landkarte dar und vermerkte dabei exakt die Höhenlinien.
-Insgesamt 30 Erstbesteigungen schaffte Julius Payer - die er allesamt präzise dokumentierte.</desc>
-  </programme>
-  <programme start="20240427200000 +0200" stop="20240427202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240427202100 +0200" stop="20240427202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240427202500 +0200" stop="20240427204930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Haben Sie Lust auf den Frühling auf dem Teller? Wenn Sie Spargeln und Wildkräuter lieben, dann sind Sie bei &quot;Willkommen&quot; im April gerade richtig.
-
-Eine Köchin und ein Koch bitten zu Tisch. Claudia Laner vom Gasthof Waldbichl in Vöran und Alex Thaler vom Sunnegg oberhalb von Brixen zeigen, wie es geht. Mit einfachen Zutaten kreieren die beiden schmackhafte Hausmannskost. Egal ob es Claudias &quot;Rindfleischkrapfln vom hofeigenen Angusrind mit Wildkräuter-Kartoffelsalat&quot; sind oder die &quot;Spargel gratiniert mit Ziegenkäse und Boznersauce&quot;, die Alex in seiner Küche kocht. Die beiden zeigen Tipps und Tricks bei der Zubereitung und bei der Wahl der Zutaten.</desc>
-  </programme>
-  <programme start="20240427221000 +0200" stop="20240427223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240428200000 +0200" stop="20240428202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
