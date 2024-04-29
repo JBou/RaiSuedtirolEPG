@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240428200000 +0200" stop="20240428202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240428202100 +0200" stop="20240428205030 +0200" channel="Rai Südtirol">
-    <title>Das Thema</title>
-    <sub-title>Babybusiness</sub-title>
-    <desc>Die Geburt eines kleinen Menschen ist ein natürliches Ereignis, damit werden aber auch Geschäfte gemacht: Babys und ihre Bedürfnisse sind ein Businessmodell. Ein Film von Andreas Niederkofler.
-
-Damit der Start ins Leben gelingt, beginnen die Vorbereitungen schon lange vor dem ersten Schrei des Sprösslings. Während die einen auf Hightech und smarte Helfer setzen, meinen andere, dass Babys eher Dinge und Werte brauchen, die sich nicht kaufen lassen. Dieser Film begleitet Menschen, die auf ganz unterschiedlichste Weise Teil des Südtiroler &quot;Babybusiness&quot; sind.</desc>
-  </programme>
-  <programme start="20240428205000 +0200" stop="20240428205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240428221000 +0200" stop="20240428223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240429180000 +0200" stop="20240429181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
