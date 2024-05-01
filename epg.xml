@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240430200000 +0200" stop="20240430202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240430202000 +0200" stop="20240430203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240430203500 +0200" stop="20240430204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Das Traditionsderby Obermais gegen St. Georgen, das bereits zum 24. Mal ausgetragen wird, ist das Top-Spiel in der Fußball-Oberliga. In der Landesliga empfängt Tabellenführer Brixen im Jugendhort den Dritten Latsch, der Vierte Salurn hat hingegen den Sechsten Ahrntal zu Gast.</desc>
-  </programme>
-  <programme start="20240430221000 +0200" stop="20240430223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240501200000 +0200" stop="20240501202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
