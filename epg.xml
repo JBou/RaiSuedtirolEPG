@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240501200000 +0200" stop="20240501202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240501202000 +0200" stop="20240501204935 +0200" channel="Rai Südtirol">
-    <title>Hausfassaden</title>
-    <sub-title>so unterschiedlich wie ihre Bewohner</sub-title>
-    <desc>Die typische Sgraffitomalerei entstand im 17.Jahrhundert im rätoromanischen Raum. Der Film von Günther Neumair und Helene Dietl Laganda zeigt schöne Beispiele aus dem Obervinschgau. 
-Die Fassade ist jener Teil der Architektur, der unmittelbar mit der Umgebung kommuniziert. Die Gestaltung der Hausfassade ist Sinnbild für den Zeitgeist unterschiedlicher Epochen und für die Individualität der Hausbesitzer. Sie ändert sich im Laufe der Geschichte und behält dennoch historische Elemente bei. In besonderer Weise tut dies die Sgrafittomalerei, die Teil der rätoromanischen Baukultur ist. Im Oberen Vinschgau finden sich noch zahlreiche Beispiele dafür. Diesen sind Günther Neumair und Helene Dietl Laganda in der Dokumentation „Hausfassaden&quot; auf der Spur.&quot;</desc>
-  </programme>
-  <programme start="20240501221000 +0200" stop="20240501223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240502200000 +0200" stop="20240502202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
