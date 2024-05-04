@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240503180000 +0200" stop="20240503182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>In jeder Gesellschaft gibt es ungeschriebene Gesetze: Dinge, über die man nicht redet, unsichtbare Grenzen, die nicht überschritten werden dürfen. Es moderiert Magdalena Oberstaller.
-Was sind die Themen, um die wir lieber ein Geheimnis machen, die wir weder mit der Familie noch mit Freunden teilen möchten? Mit welchen Themen wenden sich Menschen an die Telefonseelsorge? Das Südtirol Magazin hat sich umgehört.  
-In der Rubrik &quot;Unser Gedächtnis&quot; werfen wir einen Blick in das Tagesschau Archiv von Rai Südtirol aus dem Jahr 1974.</desc>
-  </programme>
-  <programme start="20240503183000 +0200" stop="20240503185930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Marokko bildet den Schwerpunkt dieser Ausgabe. Minet berichtet über ein Nomaden-Festival in
-der Wüste und besucht eine Berberfamilie. Moderation. Christina Khuen. Das Nomaden-Festival in der Wüste Marokkos ist ein einzigartiges kulturelles Ereignis, das jedes Jahr Tausende von Besucher:innen aus der ganzen Welt anzieht. Das Festival bietet einen faszinierenden Einblick in die nomadische Kultur.
-Die marokkanische Bevölkerung besteht heute zu etwa einem Drittel aus Berbern. Unterteilt in
-etwa 300 Stammesgruppen siedeln sie vor allem in den gebirgigen Regionen des Hohen und Mittleren Atlas. Minet hat eine Berber-Familie besucht. 
-Die Europäische Union hat ihre große kulturelle und sprachliche Vielfalt schon immer als Vorteil
-angesehen. Deshalb ist die Mehrsprachigkeit in den europäischen Verträgen fest verankert. Dies macht die europäischen Institutionen auch für alle Bürger:innen der Union zugänglicher und transparenter, was für den Erfolg des demokratischen Systems der EU unerlässlich ist. Minet hat recherchiert, welchen Status die Minderheitensprachen im Europäischen Parlament haben.</desc>
-  </programme>
-  <programme start="20240503200000 +0200" stop="20240503202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240503202100 +0200" stop="20240503212034 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>&quot;Schachmax&quot; kehrt zurück: Liedermacher Max von Milland nimmt die Herausforderung an und wird zum Comedian. Reporterin Karin Duregger ist diesmal auf der Suche nach unbequemen Zeitgeistern.
-
-In einer abenteuerlichen Episode wagt sich Max aus seiner Komfortzone heraus und begibt sich in die Welt des Lachens. Unterstützt wird er von einigen der besten Comedians des Landes: Eva Kuen, Gabriel Mair (Buonomemes) und Thomas Hochkofler geben ihm wertvolle Ratschläge und teilen ihre Geheimnisse des Humors.
-Begleiten Sie Max, wenn er sich auf die Bühne wagt. Werden seine Ideen und sein erlerntes &quot;Lach-Wissen&quot; auch auf der Comedybühne funktionieren? 
-Karin Duregger trifft anschließend drei unbequeme Zeitgeister. Unbequem deshalb, weil das, was sie sagen und tun, mitunter zu Irritation führen kann. Es gilt, sich damit auseinanderzusetzen: Mit Themen wie Heimat gemeinsam mit der Volkskundlerin Elsbeth Wallnöfer, mit Veganismus durch den Jungmediziner Lukas Gatterer und mit Themen wie Gewalt und Care Arbeit durch die künstlerischen Arbeiten von Laura Volgger.</desc>
-  </programme>
-  <programme start="20240503212000 +0200" stop="20240503215128 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Haben Sie Lust auf den Frühling auf dem Teller? Wenn Sie Spargeln und Wildkräuter lieben, dann sind Sie bei &quot;Willkommen&quot; im April gerade richtig.
-Eine Köchin und ein Koch bitten zu Tisch. Claudia Laner vom Gasthof Waldbichl in Vöran und Alex Thaler vom Sunnegg oberhalb von Brixen zeigen, wie es geht. Mit einfachen Zutaten kreieren die beiden schmackhafte Hausmannskost. Egal ob es Claudias &quot;Rindfleischkrapfln vom hofeigenen Angusrind mit Wildkräuter-Kartoffelsalat&quot; sind oder die &quot;Spargel gratiniert mit Ziegenkäse und Boznersauce&quot;, die Alex in seiner Küche kocht. Die beiden zeigen Tipps und Tricks bei der Zubereitung und bei der Wahl der Zutaten.</desc>
-  </programme>
-  <programme start="20240503215200 +0200" stop="20240503215958 +0200" channel="Rai Südtirol">
-    <title>Digital now</title>
-    <sub-title>Das digitale Fenster</sub-title>
-    <desc>Spätestens dann, wenn es darum geht, Kinder in Schulen einzuschreiben, ärztliche Befunde downzuloaden oder Beitragsgesuche online zu tätigen, braucht es eine digitale Identität. 
-Die öffentliche Verwaltung in Südtirol möchte mit der digitalen Entwicklung Schritt halten und unseren Alltag erleichtern. Wie gut das gelingt, wohin sich die elektronische Verwaltung entwickelt und wie sicher unsere Daten sind, erfahren wir in &quot;Digital now&quot;, dem digitalen Fenster auf RAI-Südtirol.</desc>
-  </programme>
-  <programme start="20240503221000 +0200" stop="20240503223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240504180000 +0200" stop="20240504185930 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -297,6 +249,29 @@ Verena Unterhofer ist nach vielen Ausbildungen in unterschiedlichsten Heilmethod
 2013 wurde in Deutschland die Stiftung &quot;Dein Sternenkind&quot; gegründet, um Eltern beizustehen, deren Kinder im Mutterleib, während oder kurz nach der Geburt verstorben sind. Seit zwei Jahren gibt es auch in Südtirol ehrenamtliche Fotografinnen und Fotografen, die ihren Einsatz anbieten. Sternenkind-Fotografien als Beweis für eine Liebe, die immer da sein wird, und als Zeichen, dass auch ein verstorbenes Kind in der Familie seinen Platz haben darf.</desc>
   </programme>
   <programme start="20240511221000 +0200" stop="20240511223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240512200000 +0200" stop="20240512202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240512202100 +0200" stop="20240512205510 +0200" channel="Rai Südtirol">
+    <title>Das Thema</title>
+    <sub-title>Hinter dem Abzug</sub-title>
+    <desc>Faszination, Hobby oder Gefahr? Schusswaffen sind für einige Menschen ein Ausdruck von Freude, Kunst und Geschichte. Eine Reportage von Andreas Niederkofler und Daniela Thaler.
+
+Wir begegnen Menschen, die das Thema Waffen aus verschiedenen Blickwinkeln sehen: Ein Waffenbauer und Sportschütze schmiedet mit Hingabe seine eigenen Waffen, ein Sammler entführt uns in die Welt seiner seltenen Schätze, eine junge Frau liebt die Präzision und Disziplin des Sportschießens. Die Staatspolizei schließlich gewährt uns einen exklusiven Einblick in ihre spezielle Ausbildung und den Umgang mit Waffen. 
+Wie empfinden diese Menschen das Schießen? Was begeistert sie an Waffen? Und wie bewältigen sie die Herausforderungen und die Verantwortung, die Waffen mit sich bringen? Diese und weitere Fragen werden in dieser Reportage beleuchtet.</desc>
+  </programme>
+  <programme start="20240512205500 +0200" stop="20240512205900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240512221000 +0200" stop="20240512223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
