@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240504180000 +0200" stop="20240504185930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Das Kammerspiel &quot;Der große Diktator&quot;, der neue Präsident des Südtiroler Theaterverbandes Rene Mair, 30 Jahre Kühne-Ü-Bühne Eppan, die Neuausrichtung des Südtiroler Künstlerbundes. 
-Mit &quot;Der große Diktator&quot; hat es Charlie Chaplin 1940 gewagt, das pure Böse direkt zu verspotten. Die Kammerspiele des Wiener Theaters in der Josefstadt brachten 80 Jahre später den kaum veränderten Text auf die Bühne: umwerfend komisch und zutiefst erschreckend zugleich. Auf Einladung des Südtiroler Kulturinstitutes wird es demnächst in Bozen gezeigt.
-Rene Mair wurde vor kurzem zum neuen Präsidenten des Südtiroler Theaterverbandes gewählt. Er folgt auf Klaus Runer, der 30 Jahre lang dem Verband vorstand. Mair hat öfters bei der Volksbühne Klausen und dem Eisacktaler Volkstheater mitgewirkt. 
-Mit Trallala, Tschuchui und Tschinderassabum feiert die Kühne-Ü-Bühne ihr 30 jähriges Bestehen. Darstellende, Zuschauende und auch die Mitwirkenden der ersten Stunde erzählen.
-Am 20. April beginnt in Venedig die diesjährige Kunstbiennale. Mit dabei die in Bruneck und Berlin lebende Künstlerin Julia Bornefeld. Sie stellt eine ihrer Skulpturen im Nationalen Pavillon von Kamerun aus. 
-Mit SKB ARTES öffnet der Südtiroler Künstlerbund ein neues Kapitel und gleichzeitig neue Ausstellungsräume. 147 Künstlerinnen und Künstler wurden dazu eingeladen, ihr persönliches Schlüsselwerk zu präsentieren.</desc>
-  </programme>
-  <programme start="20240504200000 +0200" stop="20240504202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240504202100 +0200" stop="20240504202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240504202500 +0200" stop="20240504210000 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Johann Finatzer</sub-title>
-    <desc>Das Leben schreibt einzigartige Geschichten, und das wird zum Credo der neuen Sendereihe &quot;Momentum&quot;. Den Anfang macht ein Porträt des vielseitigen Musikers Johann Finatzer.
-
-Der Film zeigt nicht nur Finatzers beeindruckende musikalische Karriere, sondern auch seine Leidenschaft für Technik, Natur und Handwerk. Neben seinen Erfolgen als Solist, Dirigent und Komponist taucht &quot;Momentum&quot; in die Welt des Musikers ab, die von Maschinen, Wald und kreativem Werkeln geprägt ist. Doch hinter den Kulissen verbirgt sich auch ein Drama, das Finatzers Leben erschütterte und seine Perspektive veränderte. Mit intimen Interviews, beeindruckenden Filmaufnahmen und musikalischen Höhepunkten lädt &quot;Momentum&quot; das Publikum ein, die inspirierende Reise dieses vielseitigen Künstlers mitzuerleben. Der Film unter der Regie von Thomas Vonmetz ist eine Hommage an Johann Finatzers Lebenswerk und eine Feier der Kraft der Musik sowie der menschlichen Resilienz.</desc>
-  </programme>
-  <programme start="20240504221000 +0200" stop="20240504223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240505200000 +0200" stop="20240505202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
