@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240505200000 +0200" stop="20240505202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240505202000 +0200" stop="20240505204430 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Ein Aufklärungsvideo über K.O.Tropfen  als Maturaprojekt, DJanes in Südtirol auf dem Vormarsch, ein junger israelischer Musiker in der Basis Vinschgau und sein Blick auf unser Land. 
-Leonie Nischler und Lena Frei, Schülerinnen des Berufsbildungszentrum Luis Zuegg Meran haben an einem Maturaprojekt zum Thema K.O.Tropfen gearbeitet. Entstanden ist ein Aufklärungsvideo. &quot;Klick&quot; hat die jungen Frauen getroffen.
-In den Clubs geben die DJs den Ton an. Doch wie in so vielen Branchen, sind es auch hier vorwiegend Männer, die hinter den Decks stehen. Wir haben junge Frauen getroffen, die das ändern wollen.
-In der Ex-Drusus-Kaserne in Schlanders finden regelmäßig Veranstaltungen statt, auch Jam Sessions, ins Leben gerufen von Dolev Nahoom Sanbira, einem jungen Musiker aus Israel. Das von der &quot;Basis Vinschgau&quot; initiierte Projekt hat vor dem Hintergrund der weltpolitischen Geschehnisse heute mehr denn je Gültigkeit. 
-Wie der junge Israeli das Leben in der Südtiroler Peripherie erlebt und welche Besonderheiten ihm bei den jungen Musikern hierzulande auffallen, haben wir ihn für die Sendung &quot;Klick&quot; gefragt.</desc>
-  </programme>
-  <programme start="20240505204500 +0200" stop="20240505204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240505221000 +0200" stop="20240505223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240506180000 +0200" stop="20240506181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
