@@ -4,57 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240506180000 +0200" stop="20240506181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Fußball-Oberliga und bei gleich bei zwei Südtiroler Derbys wird der Abstiegskampf entschieden: Im Heimspiel der Naturnser gegen Obermais und in der Auswärtspartie des Bozner FC in St. Georgen. 
-Auch im Landesliga-Spiel Gitschberg Jochtal gegen Schenna geht es um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20240506181400 +0200" stop="20240506183330 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Gemüse-Tortilla</sub-title>
-    <desc>Eier und viel Gemüse sind die Hauptzutaten der leckeren Gemüse-Tortilla, die unsere Fernsehköchinnen Hannah und Martina in dieser Folge von &quot;Kochen kinderleicht&quot; zubereiten. Gemüse klein aufschneiden, vorkochen, mit Eiermilch aufgießen - und ab in den Ofen. Kinderleicht, aber Köchin Martina weiß einige Tricks, auf die es bei einer richtigen Tortilla ankommt.
-Anschließend besucht Clownfrau Karamela mit einigen Kindern aus Moos in Passeier das Bunker-Museum.</desc>
-  </programme>
-  <programme start="20240506183400 +0200" stop="20240506185830 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Ein Aufklärungsvideo über K.O.Tropfen  als Maturaprojekt, DJanes in Südtirol auf dem Vormarsch, ein junger israelischer Musiker in der Basis Vinschgau und sein Blick auf unser Land. 
-Leonie Nischler und Lena Frei, Schülerinnen des Berufsbildungszentrum Luis Zuegg Meran haben an einem Maturaprojekt zum Thema K.O.Tropfen gearbeitet. Entstanden ist ein Aufklärungsvideo. &quot;Klick&quot; hat die jungen Frauen getroffen.
-In den Clubs geben die DJs den Ton an. Doch wie in so vielen Branchen, sind es auch hier vorwiegend Männer, die hinter den Decks stehen. Wir haben junge Frauen getroffen, die das ändern wollen.
-In der Ex-Drusus-Kaserne in Schlanders finden regelmäßig Veranstaltungen statt, auch Jam Sessions, ins Leben gerufen von Dolev Nahoom Sanbira, einem jungen Musiker aus Israel. Das von der &quot;Basis Vinschgau&quot; initiierte Projekt hat vor dem Hintergrund der weltpolitischen Geschehnisse heute mehr denn je Gültigkeit. 
-Wie der junge Israeli das Leben in der Südtiroler Peripherie erlebt und welche Besonderheiten ihm bei den jungen Musikern hierzulande auffallen, haben wir ihn für die Sendung &quot;Klick&quot; gefragt.</desc>
-  </programme>
-  <programme start="20240506200000 +0200" stop="20240506202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240506202000 +0200" stop="20240506212212 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20240506212200 +0200" stop="20240506215015 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Die Lunge</sub-title>
-    <desc>Die Lungenuntersuchung, Diagnose Lungentumor, Leben mit einer transplantierten Lunge, aber auch Atemtraining als Prävention sind Themen, die Gesundheits-Reporterin Ulli Velano diesmal behandelt.
-Wenn Lungenprobleme auftreten, dann ist die Lebensqualität massiv eingeschränkt. Pneumologe Ivan Tancevski rät, die Lunge zumindest einmal im Rahmen einer Vorsorgeuntersuchung abzuchecken, denn ein möglicher Lungentumor bleibt lange unerkannt und verursacht erst im Endstadium Probleme.
-War der Lungentumor früher ein Todesurteil, gibt es heute effiziente Behandlungsmethoden. An der Innsbrucker Universitätsklinik entfernt Chirurg Florian Augustin 150 Tumore pro Jahr. Nach dem schweren Eingriff sind die Patienten:innen nach wenigen Tagen wieder fit. 
-Und dann gibt es auch Wunder: Der Brunecker Thomas Meraner litt an Mukoviszidose. Vor 26 Jahren wurden ihm zwei neue Lungenflügel transplantiert. Nach der Operation sprachen die Ärzte von einer Lebenserwartung von drei Jahren. Der Südtiroler ließ sich von dieser Diagnose nicht aufhalten, studierte und heiratete - und führt heute ein normales Leben mit gewissen Einschränkungen. Weltweit ist Thomas Meraner der einzige Mensch, der 26 Jahre mit einer transplantierten Lunge lebt.</desc>
-  </programme>
-  <programme start="20240506215000 +0200" stop="20240506215903 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title>KI in der Medizin</sub-title>
-    <desc>Die künstliche Intelligenz wird mittlerweile auch in der Medizin genutzt. Ein Kamerateam hat eine
-Operation mit KI und Robotik in einem Südtiroler Krankenhaus mitverfolgt.
-Wenn es um künstliche Intelligenz, Digitalisierung und Robotik in der Medizin geht, hat man weltweit schon beeindruckende Entwicklungen verfolgen können. Wie aber steht es mit dieser Entwicklung konkret vor unserer Haustür? Dazu sehen Sie drei Beispiele aus Südtirol, was digitale Entwicklung bedeuten kann. Das Team von &quot;Südtirol Digital&quot; war bei einer Operation dabei, bei der Robotik und künstliche Intelligenz zum ersten Mal nun auch in Südtirol zum Einsatz kamen. Moderation: Manuela Reiter.</desc>
-  </programme>
-  <programme start="20240506221000 +0200" stop="20240506223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240507200000 +0200" stop="20240507202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
