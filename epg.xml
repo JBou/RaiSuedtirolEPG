@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240507200000 +0200" stop="20240507202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240507202000 +0200" stop="20240507203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240507203500 +0200" stop="20240507204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Fußball-Oberliga und bei gleich bei zwei Südtiroler Derbys wird der Abstiegskampf entschieden: Im Heimspiel der Naturnser gegen Obermais und in der Auswärtspartie des Bozner FC in St. Georgen. 
-Auch im Landesliga-Spiel Gitschberg Jochtal gegen Schenna geht es um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20240507221000 +0200" stop="20240507223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240508200000 +0200" stop="20240508202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
