@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240512200000 +0200" stop="20240512202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240512202100 +0200" stop="20240512205510 +0200" channel="Rai Südtirol">
-    <title>Das Thema</title>
-    <sub-title>Hinter dem Abzug</sub-title>
-    <desc>Faszination, Hobby oder Gefahr? Schusswaffen sind für einige Menschen ein Ausdruck von Freude, Kunst und Geschichte. Eine Reportage von Andreas Niederkofler und Daniela Thaler.
-
-Wir begegnen Menschen, die das Thema Waffen aus verschiedenen Blickwinkeln sehen: Ein Waffenbauer und Sportschütze schmiedet mit Hingabe seine eigenen Waffen, ein Sammler entführt uns in die Welt seiner seltenen Schätze, eine junge Frau liebt die Präzision und Disziplin des Sportschießens. Die Staatspolizei schließlich gewährt uns einen exklusiven Einblick in ihre spezielle Ausbildung und den Umgang mit Waffen. 
-Wie empfinden diese Menschen das Schießen? Was begeistert sie an Waffen? Und wie bewältigen sie die Herausforderungen und die Verantwortung, die Waffen mit sich bringen? Diese und weitere Fragen werden in dieser Reportage beleuchtet.</desc>
-  </programme>
-  <programme start="20240512205500 +0200" stop="20240512205900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240512221000 +0200" stop="20240512223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240513180000 +0200" stop="20240513181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
