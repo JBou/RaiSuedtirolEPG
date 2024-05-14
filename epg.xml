@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240513180000 +0200" stop="20240513181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am letzten Spieltag in der Fußball-Oberliga geht es noch um den Klassenerhalt: 
-Der Bozner FC empfängt auf den Talferwiesen Naturns, während Partschins zu Hause gegen Schlusslicht Lana spielt. In der Landesliga ist Gitschberg Jochtal in Salurn zu Gast.</desc>
-  </programme>
-  <programme start="20240513181400 +0200" stop="20240513182830 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Bonsai</sub-title>
-    <desc>Die beiden Zipp Reporterinnen Eva und Mira besuchen Manuel Niederkofler in seinem Garten in Sand in Taufers. Er züchtet und gestaltet Bonsaibäumchen. Täglich werden die über 200 Bäumchen gegossen, geschnitten, umgetopft und gedrahtet. Das Resultat seiner Mühen sieht man bei manchen Bäumchen erst in 10 bis 20 Jahren. Aber das ist kein Problem, denn Zeit hat man ja, sagt Manuel. Die beiden Reporterinnen dürfen unter Manuels Anleitung ihr erstes Bäumchen zurechtstutzen.</desc>
-  </programme>
-  <programme start="20240513182900 +0200" stop="20240513185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Gestützte Tierpädagogik, Sternenkind-Fotografie, Südtirols erste Montessori-Lehrerin Maria Martin und die Frage: Wie geschieht Veränderung? Es moderiert Lisa Hintner. Tiergestützte Pädagogik ist hierzulande als Therapieform noch wenig bekannt. In anderen Ländern wird sie schon seit vielen Jahren mit großem Erfolg angewandt. Kinder mit Verhaltensauffälligkeiten können so ihre sozialen, kognitiven und motorischen Fähigkeiten ausbauen. 
-Maria Martin war die erste Montessori-Lehrerin im Lande und hat die Schullandschaft in Südtirol stark mitgeprägt. Die Entwicklung der Kinder war ihr großes Herzensanliegen, ebenso die Integration von Kindern mit Beeinträchtigung. Seit 2017 ist sie in Pension. Für uns ist sie noch einmal zurück an ihre Schule in Bozen.
-Verena Unterhofer ist nach vielen Ausbildungen in unterschiedlichsten Heilmethoden bei Feldenkrais angekommen und ist - je länger sie unterrichtet - immer überzeugter davon. Über sanfte, achtsame, körperliche Übungen lernen Menschen, eingefahrene Muster zu verändern und aus dem Alltagstrott auszubrechen. 
-2013 wurde in Deutschland die Stiftung &quot;Dein Sternenkind&quot; gegründet, um Eltern beizustehen, deren Kinder im Mutterleib, während oder kurz nach der Geburt verstorben sind. Seit zwei Jahren gibt es auch in Südtirol ehrenamtliche Fotografinnen und Fotografen, die ihren Einsatz anbieten. Sternenkind-Fotografien als Beweis für eine Liebe, die immer da sein wird, und als Zeichen, dass auch ein verstorbenes Kind in der Familie seinen Platz haben darf.</desc>
-  </programme>
-  <programme start="20240513200000 +0200" stop="20240513202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240513202000 +0200" stop="20240513215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Mikroplastik</title>
-    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Die Doku &quot;Vom Winde verweht. Mikroplastik bedeckt Südtirol&quot; gibt Einblicke in Forschungsergebnisse, die erschüttern: Plastik ist überall - auf unserer Haut, in der Nahrung, im Wasser, in den Böden.  
-
-Im Dokuabend &quot;Nachgeschaut&quot; fragen wir nach Alternativen, nach neuen Materialien und zukunftsfähigen Handlungsstrategien. Judith Bertagnolli hat Gäste aus Forschung, Verbraucherschutz, Wirtschaft und Umweltschutz eingeladen: zu &quot;Nachgeschaut&quot;, live aus der Müllverbrennungsanlage in Bozen.</desc>
-  </programme>
-  <programme start="20240513221100 +0200" stop="20240513223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240514200000 +0200" stop="20240514202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
