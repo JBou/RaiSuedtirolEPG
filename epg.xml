@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240516200000 +0200" stop="20240516202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240516202000 +0200" stop="20240516204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Heiraten im Wonnemonat Mai - das ist noch immer für viele Paare ein großer Wunsch. Ein blauer Himmel und milde Temperaturen gehören zum schönsten Tag des Lebens dazu.
-
-Wie sieht der perfekte Hochzeitstag für Südtiroler Paare aus? Welche Wünsche und Hoffnungen verknüpfen sie mit dem Gang vor den Altar. Diesen und vielen weiteren Fragen geht die aktuelle Ausgabe des Südtirol Magazins nach. 
-In der Rubrik „Unser Gedächtnis&quot; werfen wir einen Blick in das T&quot;gesschau Archiv von Rai Südtirol aus dem Jahr 1974 und in der Reihe &quot;Und doch sind wir anders&quot; zeigen wir ein Portrait der Poetin Lena Simonetti. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20240516221000 +0200" stop="20240516223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240517180000 +0200" stop="20240517182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
