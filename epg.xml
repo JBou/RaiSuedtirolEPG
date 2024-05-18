@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240517180000 +0200" stop="20240517182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Heiraten im Wonnemonat Mai - das ist noch immer für viele Paare ein großer Wunsch. Ein blauer Himmel und milde Temperaturen gehören zum schönsten Tag des Lebens dazu.
-Wie sieht der perfekte Hochzeitstag für Südtiroler Paare aus? Welche Wünsche und Hoffnungen verknüpfen sie mit dem Gang vor den Altar. Diesen und vielen weiteren Fragen geht die aktuelle Ausgabe des Südtirol Magazins nach. 
-In der Rubrik „Unser Gedächtnis&quot; werfen wir einen Blick in das T&quot;gesschau Archiv von Rai Südtirol aus dem Jahr 1974 und in der Reihe &quot;Und doch sind wir anders&quot; zeigen wir ein Portrait der Poetin Lena Simonetti. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20240517183000 +0200" stop="20240517185930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Es geht um Design, um Möbel, um neue Technologien und nachhaltige Materialien. Alles spielt sich rund um die Mailänder Messe Salone del Mobile ab. Es moderiert Christian Pfeifer.
-Der Designer Harry Thaler kreiert in Zusammenarbeit mit einem auf 3D-Druck spezialisierten Unternehmen neue Objekte aus Holz und präsentiert sie im Rahmen der Milano Design Week. Und zwar in der Villa Bagatti Valsecchi in Varedo, einem kurzzeitig als Ausstellungsgebäude genutzten Schloss aus dem 16. Jahrhundert, mit täglich tausenden Besuchern. 
-Auf der Messe selbst treffen wir den international erfolgreichen Designmöbelhersteller Plank und sprechen am Messestand mit dem wohl renommiertesten deutschen Designer Konstantin Grcic über seine langjährige Arbeitsbeziehung zu dem Südtiroler Unternehmen.
-Parallel zur eigentlichen Messe findet der &quot;Fuori Salone&quot; statt. Tausende Designinteressierte und internationale Messebesucher zieht es deshalb zu kleinen und größeren Events in den Mailänder Stadtteil Brera. Unzählige Markenhersteller, nicht nur aus der Möbelbranche, haben in diesem Designviertel eine Niederlassung. Auch der Südtiroler Designmöbelhersteller Rossin eröffnet dort, just zum Salone, seinen neuen permanenten Showroom in allerbester Lage, während er gleichzeitig seine internationale Präsenz ausweitet.</desc>
-  </programme>
-  <programme start="20240517200000 +0200" stop="20240517202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240517202000 +0200" stop="20240517215100 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Ganz unterschiedliche faszinierende Welten treffen diesmal aufeinander: Bildungswissenschaftlerin Barbara Gross, der Gitarrist Gianni Ghirardini und der Kampfsportler Markus Zadra. 
-
-Gianni Ghirardini, einer der historischen Zeugen der hiesigen Musikszene, feiert dieses Jahr seinen 70. Geburtstag und fünf Jahrzehnte Musikkarriere. Ghirardini ist das Aushängeschild des Blues – made in Südtirol. 
-Markus Zadra ist siebenfacher Kickbox-Weltmeister und nimmt mit seinen 59 Jahren noch immer an Kampfsportwettkämpfen teil. Als Leiter der Taekwondo-Schule in Kurtatsch und Delegierter des italienischen Fachsportverbandes für Taekwondo in Südtirol ist er eine Kampfsportlegende aus Südtirol. 
-Barbara Gross, Erziehungswissenschaftlerin aus dem Sarntal, stellt sich Fragen zur Zweitsprache in Südtirol, insbesondere zum familiären Hintergrund und den Herausforderungen beim Erlernen der jeweils anderen Sprache. Sie erhielt dafür den &quot;Junior Research Award Südtirol/Alto Adige 2023&quot;. 
-Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
-  </programme>
-  <programme start="20240517215100 +0200" stop="20240517215901 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title/>
-    <desc>Jeder hat es, jede nutzt es, das Smartphone mit seinen unzähligen Möglichkeiten. Doch mit
-welchen Nebenwirkungen auf unser Leben? Das ist das Thema in Südtirol Digital, moderiert von
-Manuela Reiter.
-Die übermäßige Nutzung des Handys führt zur Abhängigkeit. Betroffene neigen dazu sich
-auszugrenzen und zu isolieren. Die sogenannten &quot;Social-Media-Zombies&quot; werden laufend mehr. Genauso gilt es das Smartphone unbedingt ausser Reichweite zu legen, wenn man am Steuer sitzt. Drei von vier Verkehrsunfällen sind auf Ablenkung - vor allem durch das Handy - zurückzuführen. Und das Amt für Luft- und Lärm der Landesagentur für Umwelt und Klimaschutz warnt vor elektromagnetischer Belastung, wenn es um die Nutzung von Handys oder Tablets geht.</desc>
-  </programme>
-  <programme start="20240517221000 +0200" stop="20240517223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240518180000 +0200" stop="20240518185900 +0200" channel="Rai Südtirol">
     <title>Toms Kellershow</title>
     <sub-title/>
@@ -97,6 +53,220 @@ Am 27. Juli 2011 wurde Ivo Muser von Papst Benedikt XVI. zum Bischof der Diözes
     <desc/>
   </programme>
   <programme start="20240519221000 +0200" stop="20240519223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240520180000 +0200" stop="20240520181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am vorletzten Spieltag in der Fußball-Landesliga trifft Gitschberg Jochtal in Vals auf die Auswahl Ridnauntal, während Milland den Tabellen-Zweiten Salurn zu Gast hat. Weinstraße Süd empfängt zu Hause den Meister Brixen.</desc>
+  </programme>
+  <programme start="20240520181400 +0200" stop="20240520182851 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Klettersteig: Piz da Peres</sub-title>
+    <desc>Oberhalb von St. Vigil in Enneberg, an der Südwestwand des Piz da Peres, gibt es einen neuen
+Klettersteig. Vorgestellt wird er von Bergführer Manni Stuffer und Sängerin Sandra Troi. Die Route führt über mehrere kleine Gipfel und hat eine mittlere Schwierigkeit. Der Grödner Bergführer Manfred Stuffer stellt uns die Tour vor. Mit dabei ist auch die junge Sängerin Sandra Troi aus St. Ulrich, die mit ihrer eigenen Musik und ladinischen Liedern für Unterhaltung sorgt.</desc>
+  </programme>
+  <programme start="20240520182900 +0200" stop="20240520185830 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Bischof Ivo Muser</sub-title>
+    <desc>Über ein Jahrzehnt ist Ivo Muser Bischof unserer Diözese. Als Südtirols Oberhaupt der Katholischen Kirche ist er fast täglich in der Öffentlichkeit. Doch wie ist unser Bischof als Privatperson? 
+Am 27. Juli 2011 wurde Ivo Muser von Papst Benedikt XVI. zum Bischof der Diözese Bozen-Brixen ernannt. Seitdem sind fast 13 Jahre vergangen, in denen Bischof Muser viel erlebt hat. Doch wie gestaltet sich sein Privatleben neben all seinen öffentlichen Verpflichtungen? Wie findet er Zeit für sich selbst und seine persönlichen Interessen? Welche Motivation gibt ihm sein Glaube? Erfahren Sie mehr über die private Seite von Bischof Ivo Muser, über seine persönlichen Herausforderungen und Freuden - in der Sendung &quot;Privat&quot; mit Moderator Markus Frings.</desc>
+  </programme>
+  <programme start="20240520200000 +0200" stop="20240520202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240520202100 +0200" stop="20240520210944 +0200" channel="Rai Südtirol">
+    <title>Auf Gottes Wegen</title>
+    <sub-title>Klöster.erLeben</sub-title>
+    <desc>Wer geht heute noch in ein Kloster? Und warum? Ist der Glaube aus der Zeit gefallen?
+Eine filmische Reise zu den Ordensgemeinschaften Südtirols. 
+
+Gemeinsam mit Sr. Mirjam Volgger, Ordensreferentin Südtirols, geht diese Dokumentation den Fragen nach dem Jetzt und der Zukunft von Klöstern nach. Mit modernen Gedanken über Gott und die Welt. Wie die Gesellschaft ständig Umbrüchen unterliegt, müssen auch Institutionen, die sich dem Leben und Hüten menschlicher Werte und Traditionen verschrieben haben, sich ständig neu erfinden. 
+Wie die Benediktiner in Marienberg das tun, die Ursulinen in Bruneck, die Klarissen in Brixen, das von einer Südtirolerin geführte Kloster St. Johannes in Münstertal - zeigt dieser Film von Erna Cuesta und Günther Neumair. 
+Denn die Zeit steht weder hinter den Klostermauern still - noch davor.</desc>
+  </programme>
+  <programme start="20240520211000 +0200" stop="20240520215943 +0200" channel="Rai Südtirol">
+    <title>Schwebende Freiheit</title>
+    <sub-title>Flugsportler und ihre Passion</sub-title>
+    <desc>Flugsportarten wie das Paragleiten oder Fallschirmspringen erfreuen sich immer größerer
+Beliebtheit, denn sie geben ein unvergleichliches Gefühl von Freiheit, aber auch Furcht und Faszination. Auch in Südtirol gibt es zahlreiche Menschen, die sich in ihrer Freizeit in luftige Höhen wagen, wobei man eher gemächliche Varianten genauso vorfindet, wie actionreiche und riskante. Ein Flugsport, der bei nur mehr selten betrieben wird, ist hingegen das Drachenfliegen. 
+Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit unterschiedlichsten Flugsportarten und erzählen Geschichten von Faszination und Furcht, Abenteuer und Genuss - losgelöst von allem, hoch über dem Boden.</desc>
+  </programme>
+  <programme start="20240520221000 +0200" stop="20240520223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240521200000 +0200" stop="20240521202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240521202000 +0200" stop="20240521203545 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Die fantastischen Vier</sub-title>
+    <desc>Chiara Costazza war bis vor wenigen Jahren eine herausragende Skirennläuferin des italienischen Nationalteams. Nach dem Ende ihrer Karriere hat sie sich der Kletterei an steilen Wänden gewidmet. Mit der gleichen Hingabe wie damals klettert sie im Fassatal &quot;I Magnifici Quattro&quot;, den schwierigsten Klettersteig der Dolomiten. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
+Die Route befindet sich an den sogenannten &quot;Maerins&quot;, den grauen Felsmonolythen im Nikolaustal südöstlich von Pozza di Fassa. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger.
+Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240521203600 +0200" stop="20240521205030 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am vorletzten Spieltag in der Fußball-Landesliga trifft Gitschberg Jochtal in Vals auf die Auswahl Ridnauntal, während Milland den Tabellen-Zweiten Salurn zu Gast hat. Weinstraße Süd empfängt zu Hause den Meister Brixen.</desc>
+  </programme>
+  <programme start="20240521221000 +0200" stop="20240521223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240522200000 +0200" stop="20240522202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240522202000 +0200" stop="20240522204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Neapolitanische Sprache in Film und Fernsehen, die jüdische Gemeinschaft in Marokko und die peruanische Gemeinschaft in Gröden. Moderation: Christina Khuen.
+
+Vor einigen Jahren hat die UNESCO erklärt, dass Neapolitanisch kein Dialekt, sondern eine Sprache ist. Auch in der Kultur, in Liedern und in der Literatur fand die Sprache ihren Eingang. So ist es auch nicht verwunderlich, dass das Neapolitanische heute in Film und Fernsehen zu hören ist. Ein Lokalaugenschein in Neapel. 
+In Marokko lebte einst eine Viertelmillion Jüdinnen und Juden. Seit der Staatsgründung Israels im Jahr 1948 sind die meisten von ihnen emigriert, geflüchtet vor Armut, Ausgrenzung, Pogromen. Heute zählt die jüdische Gemeinde Casablancas, die größte der arabischen Welt, noch 1500 Mitglieder. Minet hat die jüdische Gemeinschaft in Marokko besucht. 
+Minet berichtet außerdem über die peruanische Gemeinschaft in Gröden, und im Minet-Telegramm gibt es aktuelle Informationen rund ums Thema Minderheiten weltweit.</desc>
+  </programme>
+  <programme start="20240522221000 +0200" stop="20240522223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240523200000 +0200" stop="20240523202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240523202000 +0200" stop="20240523204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Espresso bzw. Filterkaffee...gesund oder doch nicht? Der Kaffee und seine positiven wie negativen Auswirkungen werden auf den Prüfstand gestellt. Es moderiert Karin Gschnitzer. 
+
+Es gibt viele Mythen über den Konsum von Kaffee: Kaffee sei ungesund, Kaffee helfe beim Abnehmen und wirke sich negativ auf den Schlaf aus. Und das sind nur ein paar beispielhafte Geschichten, die sich Menschen über Kaffee erzählen. Nicht alles davon stimmt, oder doch? Das Südtirol Magazin hat sich in Südtirol umgehört und mit Experten über das Thema Kaffee gesprochen. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir historische Bilder aus dem Sarntal - und unser mobiler Reporter Philipp Bologna besucht in der Reihe Dorfgespräch ein Gasthaus in Seis.</desc>
+  </programme>
+  <programme start="20240523221000 +0200" stop="20240523223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240524180000 +0200" stop="20240524182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Espresso bzw. Filterkaffee… gesund oder doch nicht? Der Kaffee und seine positiven wie negativen Auswirkungen werden auf den Prüfstand gestellt. Es moderiert Karin Gschnitzer. 
+Es gibt viele Mythen über den Konsum von Kaffee: Kaffee sei ungesund, Kaffee helfe beim Abnehmen und wirke sich negativ auf den Schlaf aus. Und das sind nur ein paar beispielhafte Geschichten, die sich Menschen über Kaffee erzählen. Nicht alles davon stimmt, oder doch? Das Südtirol Magazin hat sich in Südtirol umgehört und mit Experten über das Thema Kaffee gesprochen. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir historische Bilder aus dem Sarntal - und unser mobiler Reporter Philipp Bologna besucht in der Reihe Dorfgespräch ein Gasthaus in Seis.</desc>
+  </programme>
+  <programme start="20240524183000 +0200" stop="20240524185930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>In dieser Ausgabe geht es um sogenanntes Junkfood, um überarbeitete und reparierte Produkte, um die Auswirkungen des Klimawandels im Wein- und Obstbau und um die Gemeinde Eppan.
+Junkfood - Konsumentenschützer sehen dieses kritisch, da diese Produkte neben einer langen Zutatenliste, die sich für Normalverbraucher oft unverständlich liest, hochkalorisch, aber wenig nahrhaft sind. Erfahren Sie mehr über die Problematik und mögliche Alternativen.
+Bei &quot;refurbished&quot;-Produkten handelt es sich um technische Geräte, denen ein zweites Leben eingehaucht wird. Damit tragen sie zu einer nachhaltigeren Konsumkultur bei.
+Pluspunkt fragt nach, ob auch in Südtirol bereits Auswirkungen des Klimawandels in der Landwirtschaft zu spüren sind. Forscher berichten von ihren Forschungsergebnissen im Wein- und Apfelanbau.
+Eppan an der Weinstraße ist nicht nur für ihre malerische Landschaft und die Weine bekannt, sondern auch für ihre lebendige Einzelhandelsszene und die abwechslungsreichen Veranstaltungen.</desc>
+  </programme>
+  <programme start="20240524200000 +0200" stop="20240524202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240524202000 +0200" stop="20240524210503 +0200" channel="Rai Südtirol">
+    <title>Mythos Porsche</title>
+    <sub-title>Eine Automarke mit Geschichte</sub-title>
+    <desc>Wenn man Automobilfans nach ihrem Traumauto fragt, fällt oft sofort ein Name: Porsche - der Inbegriff eines schnellen Sportwagens, der schon seit Jahrzehnten Fahrer auf der ganzen Welt begeistert. 
+Auch in Südtirol finden sich zahlreiche Porsche-Besitzer, die so einiges über die Kultmarke zu berichten wissen und viele besondere Geschichten und Erlebnisse mit ihren reizvollen Gefährten verbinden.
+Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Südtiroler Porsche-Liebhabern und deren ganz unterschiedlichen Fahrzeugen.</desc>
+  </programme>
+  <programme start="20240524210600 +0200" stop="20240524215050 +0200" channel="Rai Südtirol">
+    <title>Alles bewegt sich</title>
+    <sub-title>Verkehr einst und jetzt</sub-title>
+    <desc>Wien zur Jahrhundertwende: Anhand animierter, historischer Fotos nimmt uns Regisseur Norbert
+Vaughan mit in die beginnende Zeit des motorisierten Individualverkehrs. 
+Das Quietschen der Straßenbahnen und das Brummen der Motoren, die Hupen und Klingeln sind die Klangkulisse in den Großstädten zur Jahrhundertwende. Am Beispiel der alten Kaiserstadt Wien erleben wir Fahrer der neuen Abenteuermaschinen, die Pioniere des motorisierten
+Individualverkehrs.
+Alte Fotos zeigen uns das Leben der Menschen von damals, als der Verkehr an Geschwindigkeit und Dynamik zunimmt. Regisseur Norman Vaughan hat einen Schatz an historischen Fotos gehoben. Computeranimationen hauchen ihnen digital Leben ein und entführen uns ein Jahrhundert und mehr zurück in die Stadtgeschichte.</desc>
+  </programme>
+  <programme start="20240524215000 +0200" stop="20240524215910 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title/>
+    <desc>Wir gehen der Frage nach, wie Robotik und Künstliche Intelligenz die Arbeitswelt verändern 
+werden. Am Beispiel eines 3D-Scanners sehen wir, wie das funktioniert. Dominik Matt, Direktor von Fraunhofer Italia ist überzeugt, dass KI bis 2030 unsere Wirtschaft neu gestalten wird. Ein Beispiel: Ein KI-gestützter 3D-Scanner aus Südtirol, wird von bedeutenden internationalen Konzernen genutzt, um dreidimensionale Bilder von Produkten zu erhalten, um sie für E-Commerce zu verwenden. Rund 30 automatisierte Kameras und eine 
+intelligente Software ersetzen mit dieser Erfindung ein Fotografen-Team.</desc>
+  </programme>
+  <programme start="20240524221000 +0200" stop="20240524223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240525180000 +0200" stop="20240525184400 +0200" channel="Rai Südtirol">
+    <title>Die Lebensretter</title>
+    <sub-title>Forschung im Transplant-Zentrum</sub-title>
+    <desc>Transplantations-Patientinnen und -Patienten gehören zu den Menschen, die ein neues Leben geschenkt bekommen. Oft haben sie nach einer schweren Erkrankung jahrelang auf ein rettendes Spenderorgan warten müssen.
+Transplantationen sind seit 100 Jahren medizinisch möglich. Der Fortschritt in diesem Bereich geht gerade in letzter Zeit mit Riesenschritten voran. Spenderorgane können inzwischen nicht nur über Stunden, sondern über Tage &quot;am Leben&quot; erhalten werden. Nach wie vor ist die Suche nach´geeigneten Organen eine der großen Herausforderungen für die Medizin. In der Forschung wird jetzt erprobt, die Toleranzgrenzen bei Spenderorgangen zu verändern.
+Organe, die früher die Voraussetzungen für eine Spende nicht erfüllt hätten, können heute bereits
+erfolgreich eingesetzt werden. Forscher der Medizinischen Universität in Innsbruck spielen in der obersten Liga dieses Zweiges: Geschädigte Organe werden entnommen, außerhalb des Körpers therapiert und dann dem Patienten wieder eingesetzt. So könnte vielleicht in Zukunft das Dilemma umgangen werden, dass für die meisten Organspenden zunächst ein Mensch gestorben sein muss. Eine Dokumentation von Georg Laich.</desc>
+  </programme>
+  <programme start="20240525184400 +0200" stop="20240525185945 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Die fantastischen Vier</sub-title>
+    <desc>Chiara Costazza war bis vor wenigen Jahren eine herausragende Skirennläuferin des italienischen Nationalteams. Nach dem Ende ihrer Karriere hat sie sich der Kletterei an steilen Wänden gewidmet. Mit der gleichen Hingabe wie damals klettert sie im Fassatal &quot;I Magnifici Quattro&quot;, den schwierigsten Klettersteig der Dolomiten. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
+Die Route befindet sich an den sogenannten &quot;Maerins&quot;, den grauen Felsmonolythen im Nikolaustal südöstlich von Pozza di Fassa. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger.
+Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240525200000 +0200" stop="20240525202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240525202100 +0200" stop="20240525202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240525202500 +0200" stop="20240525205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Der historische Gastbetrieb des Jahres 2024, Nachhaltigkeitssiegel Earthcheck für die Therme Meran, neue Restaurantkonzepte mit regionalen, nachhaltigen und veganen Gerichte in der Sterneküche. 
+Seit 2007 gibt es die Auszeichnung &quot;Historischer Gastbetrieb des Jahres&quot; - inzwischen wurden viele Betriebe in Südtirol ausgezeichnet. Wir lernen den aktuellen Gewinner kennen: den Ansitz Pünthof in Algund.
+Die Therme Meran wurde von EarthCheck als nachhaltige touristische Struktur zertifiziert. Damit ist die Therme Meran die weltweit erste Therme mit dem renommierten Nachhaltigkeitssiegel. Dies bedeutet, dass alle Entscheidungen nach den Kriterien der Nachhaltigkeit auf ihre Auswirkung auf Umwelt, Ressourcen und Investitionen überprüft werden.
+Außerdem geht es in der Tourismussendereihe um die Zukunft der Gastronomie. Spannende Restaurantkonzepte unter anderem aus Deutschland zeigen auf, wie Regionalität, Nachhaltigkeit und Gerichte ganz ohne tierische Produkte in der Hauben- und Sterneküche gekonnt umgesetzt werden.</desc>
+  </programme>
+  <programme start="20240525221000 +0200" stop="20240525223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240526200000 +0200" stop="20240526202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240526202100 +0200" stop="20240526205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Versteinerte Muschelarten, die das größte Massensterben in der Erdgeschichte überlebt haben, Entwicklungspotential für klimaneutrale Landwirtschaft, Kreuz-Züchtungen gegen Apfelschorf. 
+
+Das größte Massensterben in der Erdgeschichte fand vor 250 Millionen Jahren statt. Der Grödner Paläontologe Herwig Prinoth hat mehrere Muschelarten entdeckt, die diese Katastrophe überraschenderweise überstanden haben. 
+Wir kann man in der Landwirtschaft die Vorgaben der EU umsetzen und ab 2030 klimaneutral wirtschaften? Die Freie Universität Bozen hat eine Studie durchgeführt, die das Entwicklungspotential aufzeigt. 
+Der Schorf ist ein Pilz, der Apfelbäume befällt und mit Pflanzenschutzmitteln bekämpft wird. Resistente Apfelsorten gibt es bereits. Das Versuchszentrum Laimburg erhofft sich viel von den eigenen Kreuz-Züchtungen, die erste Erfolge erzielen.</desc>
+  </programme>
+  <programme start="20240526205100 +0200" stop="20240526205500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240526221000 +0200" stop="20240526223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
