@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240518180000 +0200" stop="20240518185900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Ganz unterschiedliche faszinierende Welten treffen diesmal aufeinander: Bildungswissenschaftlerin Barbara Gross, der Gitarrist Gianni Ghirardini und der Kampfsportler Markus Zadra. 
-Gianni Ghirardini, einer der historischen Zeugen der hiesigen Musikszene, feiert dieses Jahr seinen 70. Geburtstag und fünf Jahrzehnte Musikkarriere. Ghirardini ist das Aushängeschild des Blues – made in Südtirol. 
-Markus Zadra ist siebenfacher Kickbox-Weltmeister und nimmt mit seinen 59 Jahren noch immer an Kampfsportwettkämpfen teil. Als Leiter der Taekwondo-Schule in Kurtatsch und Delegierter des italienischen Fachsportverbandes für Taekwondo in Südtirol ist er eine Kampfsportlegende aus Südtirol. 
-Barbara Gross, Erziehungswissenschaftlerin aus dem Sarntal, stellt sich Fragen zur Zweitsprache in Südtirol, insbesondere zum familiären Hintergrund und den Herausforderungen beim Erlernen der jeweils anderen Sprache. Sie erhielt dafür den &quot;Junior Research Award Südtirol/Alto Adige 2023&quot;. 
-Thomas Vonmetz und Sharon Market führen durch den Abend. Mit dabei auch die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Daniel Faranna.</desc>
-  </programme>
-  <programme start="20240518200000 +0200" stop="20240518202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240518202100 +0200" stop="20240518202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240518202500 +0200" stop="20240518204930 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title>Bilder aus Mitteleuropa</sub-title>
-    <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
-
-&quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
-  </programme>
-  <programme start="20240518221000 +0200" stop="20240518223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240519200000 +0200" stop="20240519202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
