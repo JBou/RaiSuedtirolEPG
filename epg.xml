@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240519200000 +0200" stop="20240519202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240519202100 +0200" stop="20240519205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Bischof Ivo Muser</sub-title>
-    <desc>Über ein Jahrzehnt ist Ivo Muser Bischof unserer Diözese. Als Südtirols Oberhaupt der Katholischen Kirche ist er fast täglich in der Öffentlichkeit. Doch wie ist unser Bischof als Privatperson? 
-
-Am 27. Juli 2011 wurde Ivo Muser von Papst Benedikt XVI. zum Bischof der Diözese Bozen-Brixen ernannt. Seitdem sind fast 13 Jahre vergangen, in denen Bischof Muser viel erlebt hat. Doch wie gestaltet sich sein Privatleben neben all seinen öffentlichen Verpflichtungen? Wie findet er Zeit für sich selbst und seine persönlichen Interessen? Welche Motivation gibt ihm sein Glaube? Erfahren Sie mehr über die private Seite von Bischof Ivo Muser, über seine persönlichen Herausforderungen und Freuden - in der Sendung &quot;Privat&quot; mit Moderator Markus Frings.</desc>
-  </programme>
-  <programme start="20240519205100 +0200" stop="20240519205500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240519221000 +0200" stop="20240519223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240520180000 +0200" stop="20240520181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
