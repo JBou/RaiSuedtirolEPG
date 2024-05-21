@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240520180000 +0200" stop="20240520181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am vorletzten Spieltag in der Fußball-Landesliga trifft Gitschberg Jochtal in Vals auf die Auswahl Ridnauntal, während Milland den Tabellen-Zweiten Salurn zu Gast hat. Weinstraße Süd empfängt zu Hause den Meister Brixen.</desc>
-  </programme>
-  <programme start="20240520181400 +0200" stop="20240520182851 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Klettersteig: Piz da Peres</sub-title>
-    <desc>Oberhalb von St. Vigil in Enneberg, an der Südwestwand des Piz da Peres, gibt es einen neuen
-Klettersteig. Vorgestellt wird er von Bergführer Manni Stuffer und Sängerin Sandra Troi. Die Route führt über mehrere kleine Gipfel und hat eine mittlere Schwierigkeit. Der Grödner Bergführer Manfred Stuffer stellt uns die Tour vor. Mit dabei ist auch die junge Sängerin Sandra Troi aus St. Ulrich, die mit ihrer eigenen Musik und ladinischen Liedern für Unterhaltung sorgt.</desc>
-  </programme>
-  <programme start="20240520182900 +0200" stop="20240520185830 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Bischof Ivo Muser</sub-title>
-    <desc>Über ein Jahrzehnt ist Ivo Muser Bischof unserer Diözese. Als Südtirols Oberhaupt der Katholischen Kirche ist er fast täglich in der Öffentlichkeit. Doch wie ist unser Bischof als Privatperson? 
-Am 27. Juli 2011 wurde Ivo Muser von Papst Benedikt XVI. zum Bischof der Diözese Bozen-Brixen ernannt. Seitdem sind fast 13 Jahre vergangen, in denen Bischof Muser viel erlebt hat. Doch wie gestaltet sich sein Privatleben neben all seinen öffentlichen Verpflichtungen? Wie findet er Zeit für sich selbst und seine persönlichen Interessen? Welche Motivation gibt ihm sein Glaube? Erfahren Sie mehr über die private Seite von Bischof Ivo Muser, über seine persönlichen Herausforderungen und Freuden - in der Sendung &quot;Privat&quot; mit Moderator Markus Frings.</desc>
-  </programme>
-  <programme start="20240520200000 +0200" stop="20240520202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240520202100 +0200" stop="20240520210944 +0200" channel="Rai Südtirol">
-    <title>Auf Gottes Wegen</title>
-    <sub-title>Klöster.erLeben</sub-title>
-    <desc>Wer geht heute noch in ein Kloster? Und warum? Ist der Glaube aus der Zeit gefallen?
-Eine filmische Reise zu den Ordensgemeinschaften Südtirols. 
-
-Gemeinsam mit Sr. Mirjam Volgger, Ordensreferentin Südtirols, geht diese Dokumentation den Fragen nach dem Jetzt und der Zukunft von Klöstern nach. Mit modernen Gedanken über Gott und die Welt. Wie die Gesellschaft ständig Umbrüchen unterliegt, müssen auch Institutionen, die sich dem Leben und Hüten menschlicher Werte und Traditionen verschrieben haben, sich ständig neu erfinden. 
-Wie die Benediktiner in Marienberg das tun, die Ursulinen in Bruneck, die Klarissen in Brixen, das von einer Südtirolerin geführte Kloster St. Johannes in Münstertal - zeigt dieser Film von Erna Cuesta und Günther Neumair. 
-Denn die Zeit steht weder hinter den Klostermauern still - noch davor.</desc>
-  </programme>
-  <programme start="20240520211000 +0200" stop="20240520215943 +0200" channel="Rai Südtirol">
-    <title>Schwebende Freiheit</title>
-    <sub-title>Flugsportler und ihre Passion</sub-title>
-    <desc>Flugsportarten wie das Paragleiten oder Fallschirmspringen erfreuen sich immer größerer
-Beliebtheit, denn sie geben ein unvergleichliches Gefühl von Freiheit, aber auch Furcht und Faszination. Auch in Südtirol gibt es zahlreiche Menschen, die sich in ihrer Freizeit in luftige Höhen wagen, wobei man eher gemächliche Varianten genauso vorfindet, wie actionreiche und riskante. Ein Flugsport, der bei nur mehr selten betrieben wird, ist hingegen das Drachenfliegen. 
-Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit unterschiedlichsten Flugsportarten und erzählen Geschichten von Faszination und Furcht, Abenteuer und Genuss - losgelöst von allem, hoch über dem Boden.</desc>
-  </programme>
-  <programme start="20240520221000 +0200" stop="20240520223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240521200000 +0200" stop="20240521202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
