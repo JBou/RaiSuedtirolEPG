@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240521200000 +0200" stop="20240521202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240521202000 +0200" stop="20240521203545 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Die fantastischen Vier</sub-title>
-    <desc>Chiara Costazza war bis vor wenigen Jahren eine herausragende Skirennläuferin des italienischen Nationalteams. Nach dem Ende ihrer Karriere hat sie sich der Kletterei an steilen Wänden gewidmet. Mit der gleichen Hingabe wie damals klettert sie im Fassatal &quot;I Magnifici Quattro&quot;, den schwierigsten Klettersteig der Dolomiten. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
-Die Route befindet sich an den sogenannten &quot;Maerins&quot;, den grauen Felsmonolythen im Nikolaustal südöstlich von Pozza di Fassa. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger.
-Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240521203600 +0200" stop="20240521205030 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am vorletzten Spieltag in der Fußball-Landesliga trifft Gitschberg Jochtal in Vals auf die Auswahl Ridnauntal, während Milland den Tabellen-Zweiten Salurn zu Gast hat. Weinstraße Süd empfängt zu Hause den Meister Brixen.</desc>
-  </programme>
-  <programme start="20240521221000 +0200" stop="20240521223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240522200000 +0200" stop="20240522202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
