@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240523200000 +0200" stop="20240523202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240523202000 +0200" stop="20240523204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Espresso bzw. Filterkaffee...gesund oder doch nicht? Der Kaffee und seine positiven wie negativen Auswirkungen werden auf den Prüfstand gestellt. Es moderiert Karin Gschnitzer. 
-
-Es gibt viele Mythen über den Konsum von Kaffee: Kaffee sei ungesund, Kaffee helfe beim Abnehmen und wirke sich negativ auf den Schlaf aus. Und das sind nur ein paar beispielhafte Geschichten, die sich Menschen über Kaffee erzählen. Nicht alles davon stimmt, oder doch? Das Südtirol Magazin hat sich in Südtirol umgehört und mit Experten über das Thema Kaffee gesprochen. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir historische Bilder aus dem Sarntal - und unser mobiler Reporter Philipp Bologna besucht in der Reihe Dorfgespräch ein Gasthaus in Seis.</desc>
-  </programme>
-  <programme start="20240523221000 +0200" stop="20240523223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240524180000 +0200" stop="20240524182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -270,6 +252,37 @@ Organe, die früher die Voraussetzungen für eine Spende nicht erfüllt hätten,
 erfolgreich eingesetzt werden. Forscher der Medizinischen Universität in Innsbruck spielen in der obersten Liga dieses Zweiges: Geschädigte Organe werden entnommen, außerhalb des Körpers therapiert und dann dem Patienten wieder eingesetzt. So könnte vielleicht in Zukunft das Dilemma umgangen werden, dass für die meisten Organspenden zunächst ein Mensch gestorben sein muss. Eine Dokumentation von Georg Laich.</desc>
   </programme>
   <programme start="20240531221000 +0200" stop="20240531223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240601180000 +0200" stop="20240601185900 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Das Schlern Music Festival, das neue Buch von Kurt Lanthaler, &quot;Das Katzenhaus&quot; im Park der Villa Freischütz und die Komödie &quot;Der Held aus dem Westen&quot; vom Theaterverband Bezirk Burggrafenamt. Der Theaterverband Bezirk Burggrafenamt wagt sich heuer in einer Neufassung von Felix Mitterer an ein Stück, das bei seiner Uraufführung 1907 in Dublin für Skandal sorgte: &quot;Der Held aus dem Westen&quot; von John Millington Synge in der Orchideenwelt Raffeiner.
+Der Theaterverein Praxenknecht widmet sich dem Märchen „Das Katzenhaus“, nach dem Kinderbuch von Samuil Marschak. Unter der Regie von Alexandra Wilke führt das Schauspielensemble in die Welt der adeligen Katze Karolina von Maunzstein, die sich hochmütig weigert, zwei durchfrorene Katzenwaisen bei sich aufzunehmen, bis sie selbst in Not gerät - ein Märchen über Gastfreundschaft und Barmherzigkeit
+Nach Jahren hat Kurt Lanthaler wieder einen Roman veröffentlicht: &quot;Vorabbericht in Sachen Zona Cesarini&quot;. Er handelt von Fußball, Faschismus, Migration und Sprachen. 
+Vor kurzem hat das Café Mitterhofer in Innichen seine Tore geschlossen und mit ihm der Kunstraum, der vor allem Fotokunst ganz nah an die Menschen brachte. Von 177 Ausstellungen und vielen besonderen Begegnungen mit Künstlerinnen und Künstlern und deren Arbeit erzählt Manfred Mitterhofer. 
+Zu Gast im Gespräch sind die Autorin Nadja Rungger und Max von Pretz, Teil des künstlerischen Kuratoren-Teams des Südtirol Jazz Festival.</desc>
+  </programme>
+  <programme start="20240601200000 +0200" stop="20240601202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240601202100 +0200" stop="20240601202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240601202500 +0200" stop="20240601205430 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Wie geht Verhütung heute?</sub-title>
+    <desc>Gesundheitsbefragungen der letzten Jahre haben ergeben, dass der Trend weg von der Pille geht, vor allem unter den jungen Menschen. Trifft das auch in Südtirol zu? Wie wird heute verhütet?
+
+Dieser Frage geht Ursula Oberschmied in der Gesundheitsreportage nach. Sie spricht mit erfahrenen Gynäkologinnen, besucht eine Oberschulklasse beim Sexual-Workshop, spricht mit Müttern und geht auch einigen Irrtümern auf den Grund. Zudem werden die gängisten Methoden der Empfängnisverhütung auf den Prüfstand gestellt.</desc>
+  </programme>
+  <programme start="20240601221000 +0200" stop="20240601223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
