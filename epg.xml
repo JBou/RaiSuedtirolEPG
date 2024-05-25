@@ -4,55 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240524180000 +0200" stop="20240524182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Espresso bzw. Filterkaffee… gesund oder doch nicht? Der Kaffee und seine positiven wie negativen Auswirkungen werden auf den Prüfstand gestellt. Es moderiert Karin Gschnitzer. 
-Es gibt viele Mythen über den Konsum von Kaffee: Kaffee sei ungesund, Kaffee helfe beim Abnehmen und wirke sich negativ auf den Schlaf aus. Und das sind nur ein paar beispielhafte Geschichten, die sich Menschen über Kaffee erzählen. Nicht alles davon stimmt, oder doch? Das Südtirol Magazin hat sich in Südtirol umgehört und mit Experten über das Thema Kaffee gesprochen. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir historische Bilder aus dem Sarntal - und unser mobiler Reporter Philipp Bologna besucht in der Reihe Dorfgespräch ein Gasthaus in Seis.</desc>
-  </programme>
-  <programme start="20240524183000 +0200" stop="20240524185930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>In dieser Ausgabe geht es um sogenanntes Junkfood, um überarbeitete und reparierte Produkte, um die Auswirkungen des Klimawandels im Wein- und Obstbau und um die Gemeinde Eppan.
-Junkfood - Konsumentenschützer sehen dieses kritisch, da diese Produkte neben einer langen Zutatenliste, die sich für Normalverbraucher oft unverständlich liest, hochkalorisch, aber wenig nahrhaft sind. Erfahren Sie mehr über die Problematik und mögliche Alternativen.
-Bei &quot;refurbished&quot;-Produkten handelt es sich um technische Geräte, denen ein zweites Leben eingehaucht wird. Damit tragen sie zu einer nachhaltigeren Konsumkultur bei.
-Pluspunkt fragt nach, ob auch in Südtirol bereits Auswirkungen des Klimawandels in der Landwirtschaft zu spüren sind. Forscher berichten von ihren Forschungsergebnissen im Wein- und Apfelanbau.
-Eppan an der Weinstraße ist nicht nur für ihre malerische Landschaft und die Weine bekannt, sondern auch für ihre lebendige Einzelhandelsszene und die abwechslungsreichen Veranstaltungen.</desc>
-  </programme>
-  <programme start="20240524200000 +0200" stop="20240524202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240524202000 +0200" stop="20240524210503 +0200" channel="Rai Südtirol">
-    <title>Mythos Porsche</title>
-    <sub-title>Eine Automarke mit Geschichte</sub-title>
-    <desc>Wenn man Automobilfans nach ihrem Traumauto fragt, fällt oft sofort ein Name: Porsche - der Inbegriff eines schnellen Sportwagens, der schon seit Jahrzehnten Fahrer auf der ganzen Welt begeistert. 
-Auch in Südtirol finden sich zahlreiche Porsche-Besitzer, die so einiges über die Kultmarke zu berichten wissen und viele besondere Geschichten und Erlebnisse mit ihren reizvollen Gefährten verbinden.
-Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Südtiroler Porsche-Liebhabern und deren ganz unterschiedlichen Fahrzeugen.</desc>
-  </programme>
-  <programme start="20240524210600 +0200" stop="20240524215050 +0200" channel="Rai Südtirol">
-    <title>Alles bewegt sich</title>
-    <sub-title>Verkehr einst und jetzt</sub-title>
-    <desc>Wien zur Jahrhundertwende: Anhand animierter, historischer Fotos nimmt uns Regisseur Norbert
-Vaughan mit in die beginnende Zeit des motorisierten Individualverkehrs. 
-Das Quietschen der Straßenbahnen und das Brummen der Motoren, die Hupen und Klingeln sind die Klangkulisse in den Großstädten zur Jahrhundertwende. Am Beispiel der alten Kaiserstadt Wien erleben wir Fahrer der neuen Abenteuermaschinen, die Pioniere des motorisierten
-Individualverkehrs.
-Alte Fotos zeigen uns das Leben der Menschen von damals, als der Verkehr an Geschwindigkeit und Dynamik zunimmt. Regisseur Norman Vaughan hat einen Schatz an historischen Fotos gehoben. Computeranimationen hauchen ihnen digital Leben ein und entführen uns ein Jahrhundert und mehr zurück in die Stadtgeschichte.</desc>
-  </programme>
-  <programme start="20240524215000 +0200" stop="20240524215910 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title/>
-    <desc>Wir gehen der Frage nach, wie Robotik und Künstliche Intelligenz die Arbeitswelt verändern 
-werden. Am Beispiel eines 3D-Scanners sehen wir, wie das funktioniert. Dominik Matt, Direktor von Fraunhofer Italia ist überzeugt, dass KI bis 2030 unsere Wirtschaft neu gestalten wird. Ein Beispiel: Ein KI-gestützter 3D-Scanner aus Südtirol, wird von bedeutenden internationalen Konzernen genutzt, um dreidimensionale Bilder von Produkten zu erhalten, um sie für E-Commerce zu verwenden. Rund 30 automatisierte Kameras und eine 
-intelligente Software ersetzen mit dieser Erfindung ein Fotografen-Team.</desc>
-  </programme>
-  <programme start="20240524221000 +0200" stop="20240524223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240525180000 +0200" stop="20240525184400 +0200" channel="Rai Südtirol">
     <title>Die Lebensretter</title>
     <sub-title>Forschung im Transplant-Zentrum</sub-title>
@@ -283,6 +234,30 @@ Zu Gast im Gespräch sind die Autorin Nadja Rungger und Max von Pretz, Teil des 
 Dieser Frage geht Ursula Oberschmied in der Gesundheitsreportage nach. Sie spricht mit erfahrenen Gynäkologinnen, besucht eine Oberschulklasse beim Sexual-Workshop, spricht mit Müttern und geht auch einigen Irrtümern auf den Grund. Zudem werden die gängisten Methoden der Empfängnisverhütung auf den Prüfstand gestellt.</desc>
   </programme>
   <programme start="20240601221000 +0200" stop="20240601223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240602200000 +0200" stop="20240602202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240602202000 +0200" stop="20240602204930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Frauenmagazin</sub-title>
+    <desc>Die vielen Aspekte und Möglichkeiten von Teilzeitarbeit - die neue Gleichstellungsrätin Brigitte Hofer im Porträt - neue Publikationen und Kurzfilme. Moderation: Martina Kreuzer.
+
+Beliebte Vereinbarkeitslösung für Mütter und gleichzeitig Karriere- und Pensionsfalle: so wird Teilzeitarbeit gemeinhin gesehen. Doch immer mehr Frauen (und auch Männer) leben vor, dass dieses Arbeitsmodell weit mehr kann - und sich genauso für Führungsaufgaben wie für partnerschaftliche Familienbetreuung eignet. Von Job Sharing bis Family Sharing - in unserem aktuellen Beitrag gibt es neue Inspirationen für eine altbekannte Herausforderung. 
+Im dF Portrait: die neue Gleichstellungsrätin Brigitte Hofer. Die Tangotänzerin und Bergbegeisterte hat viele Ideen für ihre neue Aufgabe. Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. 
+In df Info: &quot;Mama will nicht mehr&quot;, die Publikation mit Texten von Müttern anlässlich der 10. Mutternacht. Vorgestellt wird auch der Kurzfilm &quot;Ein Mann zu sein&quot;, der sexuelle Gewalt thematisiert.</desc>
+  </programme>
+  <programme start="20240602205000 +0200" stop="20240602205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240602221000 +0200" stop="20240602223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
