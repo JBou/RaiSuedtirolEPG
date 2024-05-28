@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240527180000 +0200" stop="20240527181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am letzten Spieltag in der Fußball-Landesliga feiert der SSV Brixen im Heimspiel gegen Bruneck seinen Meistertitel und den Aufstieg in die Oberliga. In der Partie Salurn gegen Latsch geht es um den dritten Tabellenplatz, während Gitschberg Jochtal in Vals auf Ahrntal trifft.</desc>
-  </programme>
-  <programme start="20240527181400 +0200" stop="20240527183319 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Eisstockschießen</sub-title>
-    <desc>In dieser Folge der Sportkids geht es um eine Präzisionssportart, bei der das Ziel, eine Daube aus Gummi, im Team so genau wie möglich getroffen werden muss. Das Eistockschießen ist die ganze Leidenschaft der sportbegeisterten Kids vom SV Lana, mehrmals wöchentlich stehen sie auf dem Eis um zu trainieren, egal bei welcher Witterung. Eisstockschießen ist keine Wintersportart, auch im Sommer wird auf Asphalt oder Beton geschossen.
-Anschließend dreht sich alles ums Lego.</desc>
-  </programme>
-  <programme start="20240527183300 +0200" stop="20240527185811 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title>Bilder aus Mitteleuropa</sub-title>
-    <desc>Moderatorin Sigrid Flenger präsentiert Beiträge aus Südtirol und den Nachbarregionen, aus Bayern, Slowenien und Triest, aus Kroatien und Ungarn.
-&quot;Alpen Donau Adria&quot; ist ein gemeinsames Projekt befreundeter Fernsehsender. Das Magazin porträtiert bemerkenswerte Menschen und Städte, erzählt bewegende Geschichten und beschreibt das bunte Leben in Südtirol und Umgebung.</desc>
-  </programme>
-  <programme start="20240527200000 +0200" stop="20240527202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240527202000 +0200" stop="20240527211900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Das Schlern Music Festival, das neue Buch von Kurt Lanthaler, &quot;Das Katzenhaus&quot; im Park der Villa Freischütz und die Komödie &quot;Der Held aus dem Westen&quot; vom Theaterverband Bezirk Burggrafenamt.
-
-Der Theaterverband Bezirk Burggrafenamt wagt sich heuer in einer Neufassung von Felix Mitterer an ein Stück, das bei seiner Uraufführung 1907 in Dublin für Skandal sorgte: &quot;Der Held aus dem Westen&quot; von John Millington Synge in der Orchideenwelt Raffeiner. 
-Der Theaterverein Praxenknecht widmet sich dem Märchen &quot;Das Katzenhaus&quot;, nach dem Kinderbuch von Samuil Marschak. Unter der Regie von Alexandra Wilke führt das Schauspielensemble in die Welt der adeligen Katze Karolina von Maunzstein, die sich hochmütig weigert, zwei durchfrorene Katzenwaisen bei sich aufzunehmen, bis sie selbst in Not gerät - ein Märchen über Gastfreundschaft und Barmherzigkeit 
-Nach Jahren hat Kurt Lanthaler wieder einen Roman veröffentlicht: &quot;Vorabbericht in Sachen Zona Cesarini&quot;. Er handelt von Fußball, Faschismus, Migration und Sprachen. 
-Vor kurzem hat das Café Mitterhofer in Innichen seine Tore geschlossen und mit ihm der Kunstraum, der vor allem Fotokunst ganz nah an die Menschen brachte. Von 177 Ausstellungen und vielen besonderen Begegnungen mit Künstlerinnen und Künstlern und deren Arbeit erzählt Manfred Mitterhofer. 
-Zu Gast im Gespräch sind die Autorin Nadja Rungger und Max von Pretz, Teil des künstlerischen Kuratoren-Teams des Südtirol Jazz Festival.</desc>
-  </programme>
-  <programme start="20240527211900 +0200" stop="20240527215700 +0200" channel="Rai Südtirol">
-    <title>Franz Kafka</title>
-    <sub-title>&quot;Ich bin Anfang oder Ende&quot;</sub-title>
-    <desc>Franz Kafka - wer war der Schriftsteller, der herausgefallen aus jedem System scheint, und dessen Werke längst zur Weltliteratur zählen. Wir werfen einen Blick auf den Künstler, der nebenbei den Anrufbeantworter erfand, mit Reiseführern reich werden wollte und dessen Komik bis heute unterschätzt wird.</desc>
-  </programme>
-  <programme start="20240527221100 +0200" stop="20240527223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240528200000 +0200" stop="20240528202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
