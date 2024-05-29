@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240528200000 +0200" stop="20240528202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240528202000 +0200" stop="20240528203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240528203500 +0200" stop="20240528204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am letzten Spieltag in der Fußball-Landesliga feiert der SSV Brixen im Heimspiel gegen Bruneck seinen Meistertitel und den Aufstieg in die Oberliga. In der Partie Salurn gegen Latsch geht es um den dritten Tabellenplatz, während Gitschberg Jochtal in Vals auf Ahrntal trifft.</desc>
-  </programme>
-  <programme start="20240528221000 +0200" stop="20240528223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240529200000 +0200" stop="20240529202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
