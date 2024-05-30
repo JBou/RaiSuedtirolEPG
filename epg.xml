@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240529200000 +0200" stop="20240529202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240529202000 +0200" stop="20240529204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wie sich leidenschaftliche Haflingerzüchter auf das Jubiläumsfest vorbereiten - welches Potential nachhaltige Waldbewirtschaftung hat - warum sich Sänger Philipp Burger für Sprinzen stark macht.
- 
-Haflingerpferde begeistern durch ihre Schönheit, ihren feinen Charakter und ihre Kraft. Über Jahrhunderte nutzten sie die Bauern als Zug- und Arbeitstiere, in jüngerer Zeit sind sie vor allem als Freizeit- und Sportpferde beliebt. Der Ur-Haflinger, der vor 150 Jahren im Stall eines Züchters in Schluderns auf die Welt kam, war eine Kreuzung aus einem Araberhengst und einer galizischen Landstute. Seitdem engagieren sich Tausende Züchter in Südtirol und weltweit für die blonde Schönheit aus den Bergen. 
-Land&amp;Leben hat zwei Familien besucht, die seit Generationen für den Haflinger brennen und sich nun auf das große Jubiläumsfest vorbereiten. 
-Außerdem geht Land&amp;Leben der Frage nach, wie die Waldbewirtschaftung und die lokale Holznutzung nachhaltig gestaltet werden kann und ist außerdem zu Besuch bei dem Freiwild-Sänger Philipp Burger, der sich für die alte Tiroler Rinderrasse der Pustertaler Sprinzen stark macht. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240529221000 +0200" stop="20240529223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240530200000 +0200" stop="20240530202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
