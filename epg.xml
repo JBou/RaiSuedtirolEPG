@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240530200000 +0200" stop="20240530202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240530202000 +0200" stop="20240530204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Ende Mai findet in Schluderns das Haflinger Festival statt, ein Jubiläumsfest. Das Südtirol Magazin rückt dieses vielseitige Tier in den Fokus. Es moderiert Magdalena Oberstaller.  
-
-Vor 150 Jahren kam auf einem Hof in Schluderns ein Fohlen auf die Welt, das als Stammvater der Haflinger gilt. Die Haflinger sind nicht nur in Südtirol beliebt. Weltweit werden die umgänglichen, leistungsstarken und charmanten Pferde gezüchtet, da sie ideale Partner für Sport, Freizeit, therapeutisches Reiten oder für die Arbeit sind. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol, und in der Reihe &quot;Und doch sind wir anders&quot; wird Bauer Alex Oberhofer porträtiert.</desc>
-  </programme>
-  <programme start="20240530221000 +0200" stop="20240530223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240531180000 +0200" stop="20240531182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -114,6 +96,186 @@ In df Info: &quot;Mama will nicht mehr&quot;, die Publikation mit Texten von Mü
     <desc/>
   </programme>
   <programme start="20240602221000 +0200" stop="20240602223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240603180000 +0200" stop="20240603181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Landesligist Ahrntal und der 1. Amateurliga-Klub Olympia Meran stehen sich in Brixen im Landespokal-Finale 2024 gegenüber. Der SSV Bruneck bestreitet hingegen im Trentino gegen Arco oder Aquila Trient das Entscheidungsspiel der zweitplatzierten Mannschaften der Landesliga.</desc>
+  </programme>
+  <programme start="20240603181400 +0200" stop="20240603182830 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title/>
+    <desc>Ivans große Leidenschaft sind die Araber Pferde. Mit seinem ersten Araber &quot;Freddy Feuerstein&quot; ritt er viele erfolgreiche Turniere und nach ihm ist auch sein Gestüt &quot;Feuerstein&quot; benannt. Kürzlich ist ein kleines Fohlen auf die Welt gekommen. Pfote-Moderator Stefan entdeckt aber auch noch eine andere große Leidenschaft von Ivan: Er bringt einigen seiner Pferde Zirkuskunststücke bei, die er vor kleinem Publikum vorführt.</desc>
+  </programme>
+  <programme start="20240603182900 +0200" stop="20240603185830 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wie sich leidenschaftliche Haflingerzüchter auf das Jubiläumsfest vorbereiten - welches Potential nachhaltige Waldbewirtschaftung hat - warum sich Sänger Philipp Burger für Sprinzen stark macht.
+Haflingerpferde begeistern durch ihre Schönheit, ihren feinen Charakter und ihre Kraft. Über Jahrhunderte nutzten sie die Bauern als Zug- und Arbeitstiere, in jüngerer Zeit sind sie vor allem als Freizeit- und Sportpferde beliebt. Der Ur-Haflinger, der vor 150 Jahren im Stall eines Züchters in Schluderns auf die Welt kam, war eine Kreuzung aus einem Araberhengst und einer galizischen Landstute. Seitdem engagieren sich Tausende Züchter in Südtirol und weltweit für die blonde Schönheit aus den Bergen. 
+Land&amp;Leben hat zwei Familien besucht, die seit Generationen für den Haflinger brennen und sich nun auf das große Jubiläumsfest vorbereiten. 
+Außerdem geht Land&amp;Leben der Frage nach, wie die Waldbewirtschaftung und die lokale Holznutzung nachhaltig gestaltet werden kann und ist außerdem zu Besuch bei dem Freiwild-Sänger Philipp Burger, der sich für die alte Tiroler Rinderrasse der Pustertaler Sprinzen stark macht. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240603200000 +0200" stop="20240603202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240603202000 +0200" stop="20240603220000 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch Spezial</title>
+    <sub-title>Wen soll ich wählen?</sub-title>
+    <desc>Am 8. und 9. Juni finden die EU-Wahlen statt. Polit-Beobachter sprechen von einer Schicksalswahl: Wie soll die Zukunft der EU aussehen? 
+
+Wir diskutieren mit jungen Südtirolern und den Kandidat:innen darüber. Junge Erstwähler werden den deutschsprachigen EU-Kandidaten gemeinsam mit Moderator Christian Bassani auf den Zahn fühlen. &quot;Am Runden Tisch Spezial&quot; live aus dem Oberschulzentrum Sterzing.</desc>
+  </programme>
+  <programme start="20240603221000 +0200" stop="20240603223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240604200000 +0200" stop="20240604202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240604202000 +0200" stop="20240604203430 +0200" channel="Rai Südtirol">
+    <title>Pro&amp;Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240604203500 +0200" stop="20240604204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Landesligist Ahrntal und der 1. Amateurliga-Klub Olympia Meran stehen sich in Brixen im Landespokal-Finale 2024 gegenüber. Der SSV Bruneck bestreitet hingegen im Trentino gegen Arco oder Aquila Trient das Entscheidungsspiel der zweitplatzierten Mannschaften der Landesliga.</desc>
+  </programme>
+  <programme start="20240604221000 +0200" stop="20240604223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240605200000 +0200" stop="20240605202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240605202000 +0200" stop="20240605204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Diesmal geht es um Innovation speziell im Südtiroler Lebensmittelbereich. Wir erfahren unter anderem, wie alkoholfreier Wein entsteht und wie er beim Publikum ankommt.
+
+Bei Wein und Bier wird üblicherweise mehr auf die Tradition in der Produktion gesetzt. Zumindest wird in der Vermarktung dieser Produkte gerne darauf verwiesen, dass die Produktion noch vor hunderten oder gar tausenden Jahren schon so abgelaufen ist wie heute. Alkoholfreie Biere gibt es schon länger, aber alkoholfreie Weine sind erst sehr kurz auf dem Markt. Trend hat sich umgeschaut und bei Experten nachgefragt, wie solche Weine zustande kommen und welches Potential diesen Produkten zugedacht wird.
+Trend berichtet auch über Innovationen bei anderen handwerklich und industriell erzeugten Lebensmitteln. Moderation: Christian Pfeifer.</desc>
+  </programme>
+  <programme start="20240605221000 +0200" stop="20240605223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240606200000 +0200" stop="20240606202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240606202000 +0200" stop="20240606203000 +0200" channel="Rai Südtirol">
+    <title>EU-Wahl 2024: Belangsendung der Parteien</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240606203000 +0200" stop="20240606205930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Südtirols Jugend ist besser als ihr Ruf! Junge Menschen engagieren sich ehrenamtlich, sind an gesellschaftlichen Themen interessiert und suchen ihren Platz in der Gesellschaft. 
+
+Das negative Bild, das immer wieder von den jungen Heranwachsenden gezeichnet wird, wird also nicht bestätigt. Das belegen auch die Zahlen. 
+Neu im Südtirol Magazin ist die Rubrik &quot;Legenden&quot;, in der wir die Erdpyramiden auf dem Ritten besuchen - und gemeinsam mit unserem mobilen Reporter Philipp Bologna besuchen wir die Gemeinde Terlan. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240606213000 +0200" stop="20240606215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Im isländischen Reykjavík hat der Internationale Skiverband FIS entschieden, wer im Jahr 2029 die alpine Ski-WM austragen wird. Neben Gröden bewarben sich auch Narvik (Norwegen) und Soldeu (Andorra) für diese Titelkämpfe. 
+Entschieden wurde auch das &quot;Brixia Meeting&quot;, eine der wichtigsten europäischen U18-Leichtathletik-Veranstaltungen, wo die Südtiroler Nachwuchssportler glänzten. 
+Im Play-Off-Spiel in der Fußball-Oberliga spielte Tramin gegen den Mailänder Klub Magenta um den Aufstieg in die Serie D.</desc>
+  </programme>
+  <programme start="20240606221000 +0200" stop="20240606223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240607180000 +0200" stop="20240607182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Südtirols Jugend ist besser als ihr Ruf! Junge Menschen engagieren sich ehrenamtlich, sind an gesellschaftlichen Themen interessiert und suchen ihren Platz in der Gesellschaft. 
+Das negative Bild, das immer wieder von den jungen Heranwachsenden gezeichnet wird, wird also nicht bestätigt. Das belegen auch die Zahlen. 
+Neu im Südtirol Magazin ist die Rubrik &quot;Legenden&quot;, in der wir die Erdpyramiden auf dem Ritten besuchen - und gemeinsam mit unserem mobilen Reporter Philipp Bologna besuchen wir die Gemeinde Terlan. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20240607183000 +0200" stop="20240607185930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Im isländischen Reykjavík hat der Internationale Skiverband FIS entschieden, wer im Jahr 2029 die alpine Ski-WM austragen wird. Neben Gröden bewarben sich auch Narvik (Norwegen) und Soldeu (Andorra) für diese Titelkämpfe. 
+Entschieden wurde auch das &quot;Brixia Meeting&quot;, eine der wichtigsten europäischen U18-Leichtathletik-Veranstaltungen, wo die Südtiroler Nachwuchssportler glänzten. 
+Im Play-Off-Spiel in der Fußball-Oberliga spielte Tramin gegen den Mailänder Klub Magenta um den Aufstieg in die Serie D.</desc>
+  </programme>
+  <programme start="20240607200000 +0200" stop="20240607202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240607202100 +0200" stop="20240607212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Diesmal wird an Gartenpforten geklopft und hinter den Gartenzaun geblickt. Wir erfahren auch, wie Türen gebaut werden und wie der Arbeitsalltag eines Wartungstechnikers aussieht.
+
+Adina Guarnieri hat in den letzten Jahren an viele Türen geklopft. Höchste Zeit, sich konkret dem Thema &quot;Tür&quot; zu widmen. Und so waren wir bei einem Südtiroler Unternehmen in Klobenstein zu Gast, wo jährlich an die 1200 Türen produziert werden und haben zwei Wartungstechnikern in Bruneck über die Schulter geschaut, deren Metier Brandschutztüren, Feuerlöscher und Hydranten sind. 
+Außerdem begleiten wir Karin Duregger, die wieder verschiedenste Hobbygärtner:innen aufsucht. Diesmal taucht sie zwischen Bonsai und Staudenbeeten ins Reich der Grün-Oasen-Besitzer.</desc>
+  </programme>
+  <programme start="20240607212000 +0200" stop="20240607214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Der historische Gastbetrieb des Jahres 2024, Nachhaltigkeitssiegel Earthcheck für die Therme Meran, neue Restaurantkonzepte mit regionalen, nachhaltigen und veganen Gerichte in der Sterneküche. Seit 2007 gibt es die Auszeichnung &quot;Historischer Gastbetrieb des Jahres&quot; - inzwischen wurden viele Betriebe in Südtirol ausgezeichnet. Wir lernen den aktuellen Gewinner kennen: den Ansitz Pünthof in Algund.
+Die Therme Meran wurde von EarthCheck als nachhaltige touristische Struktur zertifiziert. Damit ist die Therme Meran die weltweit erste Therme mit dem renommierten Nachhaltigkeitssiegel. Dies bedeutet, dass alle Entscheidungen nach den Kriterien der Nachhaltigkeit auf ihre Auswirkung auf Umwelt, Ressourcen und Investitionen überprüft werden.
+Außerdem geht es in der Tourismussendereihe um die Zukunft der Gastronomie. Spannende Restaurantkonzepte unter anderem aus Deutschland zeigen auf, wie Regionalität, Nachhaltigkeit und Gerichte ganz ohne tierische Produkte in der Hauben- und Sterneküche gekonnt umgesetzt werden.</desc>
+  </programme>
+  <programme start="20240607215000 +0200" stop="20240607215743 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title>Die Verwaltung im Gesundheitswesen</sub-title>
+    <desc>Die Digitalisierung der klinischen Dokumentation oder Patientenakte ist ein wichtiger Meilenstein
+im Südtiroler Gesundheitsbereich. Die Herausforderung ist der Datenschutz. Viele Abläufe und Kommunikationswege laufen inzwischen digital, so können ärztliche Verschreibungen, wie Befunde online abgerufen und weitergeleitet werden. In Zukunft soll dies weiter ausgebaut und verstärkt werden. Mehr über die elektronische Patientenakte erfahren wir im digitalen Fenster auf RAI Südtirol.</desc>
+  </programme>
+  <programme start="20240607221000 +0200" stop="20240607223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240608180000 +0200" stop="20240608185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Diesmal wird an Gartenpforten geklopft und hinter den Gartenzaun geblickt. Wir erfahren auch, wie Türen gebaut werden und wie der Arbeitsalltag eines Wartungstechnikers aussieht.
+Adina Guarnieri hat in den letzten Jahren an viele Türen geklopft. Höchste Zeit, sich konkret dem Thema &quot;Tür&quot; zu widmen. Und so waren wir bei einem Südtiroler Unternehmen in Klobenstein zu Gast, wo jährlich an die 1200 Türen produziert werden und haben zwei Wartungstechnikern in Bruneck über die Schulter geschaut, deren Metier Brandschutztüren, Feuerlöscher und Hydranten sind. 
+Außerdem begleiten wir Karin Duregger, die wieder verschiedenste Hobbygärtner:innen aufsucht. Diesmal taucht sie zwischen Bonsai und Staudenbeeten ins Reich der Grün-Oasen-Besitzer.</desc>
+  </programme>
+  <programme start="20240608200000 +0200" stop="20240608202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240608202100 +0200" stop="20240608202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240608202500 +0200" stop="20240608205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Gelebte Inklusion, die Haiku-Dichterin Helga Maria Gorfer, die Sozialgenossenschaft Renovas und Gedanken zum Thema &quot;Koffer packen für die letzte Reise&quot;. Moderation: Lisa Hintner.
+
+&quot;I kim a&quot; nennt sich ein Projekt der Lebenshilfe Schlerngebiet: An drei Nachmittagen in der Woche steht das Kulturhaus Seis offen für Kinder, die hier ihre Hausaufgaben erledigen, basteln, malen, spielen oder zwischendurch einfach nur gemeinsam chillen.
+Das Projekt ist einzigartig in Südtirol, weil hier Kinder mit und ohne Beeinträchtigung in entspannter Atmosphäre ihre Zeit verbringen.
+Mit dem Kofferpacken haben sich auch Nadia Gluderer und Gerlinde Pazeller, zwei Ehrenamtliche der Caritas-Hospizbewegung, beschäftigt. Die eine ist Bestatterin von Beruf, die andere arbeitet als Kunsthandwerkerin mit recycelten Materialien. In der Marxkirche in Laas haben sie unlängst für mehrere Tage alte, leere Koffer gestapelt unter dem Motto: &quot;Koffer packen für die letzte Reise&quot;.
+Die Sozialgenossenschaft Renovas wurde vor 15 Jahren mit dem Ziel gegründet, Menschen mit Beeinträchtigung und Problematiken im Arbeitsmarkt zu integrieren. &quot;Beziehungsweise&quot; hat einigen von ihnen bei ihrer Tätigkeit in der Landhausbar und im Bildungshaus Schloss Rechtenthal über die Schulter geschaut.</desc>
+  </programme>
+  <programme start="20240608221000 +0200" stop="20240608223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
