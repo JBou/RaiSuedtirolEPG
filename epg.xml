@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240531180000 +0200" stop="20240531182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Ende Mai findet in Schluderns das Haflinger Festival statt, ein Jubiläumsfest. Das Südtirol Magazin rückt dieses vielseitige Tier in den Fokus. Es moderiert Magdalena Oberstaller.  
-Vor 150 Jahren kam auf einem Hof in Schluderns ein Fohlen auf die Welt, das als Stammvater der Haflinger gilt. Die Haflinger sind nicht nur in Südtirol beliebt. Weltweit werden die umgänglichen, leistungsstarken und charmanten Pferde gezüchtet, da sie ideale Partner für Sport, Freizeit, therapeutisches Reiten oder für die Arbeit sind. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol, und in der Reihe &quot;Und doch sind wir anders&quot; wird Bauer Alex Oberhofer porträtiert.</desc>
-  </programme>
-  <programme start="20240531183000 +0200" stop="20240531185930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Minderheitenmagazin</sub-title>
-    <desc>Die Neapolitanische Sprache in Film und Fernsehen, die jüdische Gemeinschaft in Marokko und die peruanische Gemeinschaft in Gröden. Moderation: Christina Khuen.
-Vor einigen Jahren hat die UNESCO erklärt, dass Neapolitanisch kein Dialekt, sondern eine Sprache ist. Auch in der Kultur, in Liedern und in der Literatur fand die Sprache ihren Eingang. So ist es auch nicht verwunderlich, dass das Neapolitanische heute in Film und Fernsehen zu hören ist. Ein Lokalaugenschein in Neapel. 
-In Marokko lebte einst eine Viertelmillion Jüdinnen und Juden. Seit der Staatsgründung Israels im Jahr 1948 sind die meisten von ihnen emigriert, geflüchtet vor Armut, Ausgrenzung, Pogromen. Heute zählt die jüdische Gemeinde Casablancas, die größte der arabischen Welt, noch 1500 Mitglieder. Minet hat die jüdische Gemeinschaft in Marokko besucht. 
-Minet berichtet außerdem über die peruanische Gemeinschaft in Gröden, und im Minet-Telegramm gibt es aktuelle Informationen rund ums Thema Minderheiten weltweit.</desc>
-  </programme>
-  <programme start="20240531200000 +0200" stop="20240531202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240531202100 +0200" stop="20240531211354 +0200" channel="Rai Südtirol">
-    <title>Arbeitsort Zwei-Sternerestaurant</title>
-    <sub-title>Ein Blick in die Spitzengastronomie</sub-title>
-    <desc>Eine Tätigkeit in der Sternegastronomie ist nichts für schwache Nerven, steht man doch permanent unter einem großen Leistungsdruck, denn die Erwartungen von Gästen und Kritikern sind hoch. 
-
-Keine leichte Situation, vor allem in Zwei-Sternebetrieben, schließlich möchte man keinesfalls wieder auf einen Stern zurückfallen oder gar beide verlieren, und gleichzeitig reizt natürlich auch der weitere &quot;Aufstieg&quot; in Form des begehrten, aber selten verliehenen dritten Michelin-Sterns. 
-Für Südtirols Zwei-Sterneköche und ihre Teams ist daher jeder Tag eine neue Herausforderung, die es bestmöglich zu bewältigen gilt. Filmemacherin Claudia Bosch beschäftigt sich in ihrer Dokumentation mit vielfältigen Aspekten rund um den &quot;Arbeitsort Zwei-Sternerestaurant&quot;.</desc>
-  </programme>
-  <programme start="20240531211300 +0200" stop="20240531215628 +0200" channel="Rai Südtirol">
-    <title>Die Lebensretter</title>
-    <sub-title>Forschung im Transplant-Zentrum</sub-title>
-    <desc>Transplantations-Patientinnen und -Patienten gehören zu den Menschen, die ein neues Leben geschenkt bekommen. Oft haben sie nach einer schweren Erkrankung jahrelang auf ein rettendes Spenderorgan warten müssen.
-Transplantationen sind seit 100 Jahren medizinisch möglich. Der Fortschritt in diesem Bereich geht gerade in letzter Zeit mit Riesenschritten voran. Spenderorgane können inzwischen nicht nur über Stunden, sondern über Tage &quot;am Leben&quot; erhalten werden. Nach wie vor ist die Suche nach´geeigneten Organen eine der großen Herausforderungen für die Medizin. In der Forschung wird jetzt erprobt, die Toleranzgrenzen bei Spenderorgangen zu verändern.
-Organe, die früher die Voraussetzungen für eine Spende nicht erfüllt hätten, können heute bereits
-erfolgreich eingesetzt werden. Forscher der Medizinischen Universität in Innsbruck spielen in der obersten Liga dieses Zweiges: Geschädigte Organe werden entnommen, außerhalb des Körpers therapiert und dann dem Patienten wieder eingesetzt. So könnte vielleicht in Zukunft das Dilemma umgangen werden, dass für die meisten Organspenden zunächst ein Mensch gestorben sein muss. Eine Dokumentation von Georg Laich.</desc>
-  </programme>
-  <programme start="20240531221000 +0200" stop="20240531223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240601180000 +0200" stop="20240601185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -276,6 +235,29 @@ Mit dem Kofferpacken haben sich auch Nadia Gluderer und Gerlinde Pazeller, zwei 
 Die Sozialgenossenschaft Renovas wurde vor 15 Jahren mit dem Ziel gegründet, Menschen mit Beeinträchtigung und Problematiken im Arbeitsmarkt zu integrieren. &quot;Beziehungsweise&quot; hat einigen von ihnen bei ihrer Tätigkeit in der Landhausbar und im Bildungshaus Schloss Rechtenthal über die Schulter geschaut.</desc>
   </programme>
   <programme start="20240608221000 +0200" stop="20240608223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240609200000 +0200" stop="20240609202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240609202000 +0200" stop="20240609204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Unser Frau im Schnalstal</sub-title>
+    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. 
+
+Eine bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum, das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. 
+Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
+  </programme>
+  <programme start="20240609204500 +0200" stop="20240609204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240609221000 +0200" stop="20240609223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
