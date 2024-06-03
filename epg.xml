@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240602200000 +0200" stop="20240602202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240602202000 +0200" stop="20240602204930 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Frauenmagazin</sub-title>
-    <desc>Die vielen Aspekte und Möglichkeiten von Teilzeitarbeit - die neue Gleichstellungsrätin Brigitte Hofer im Porträt - neue Publikationen und Kurzfilme. Moderation: Martina Kreuzer.
-
-Beliebte Vereinbarkeitslösung für Mütter und gleichzeitig Karriere- und Pensionsfalle: so wird Teilzeitarbeit gemeinhin gesehen. Doch immer mehr Frauen (und auch Männer) leben vor, dass dieses Arbeitsmodell weit mehr kann - und sich genauso für Führungsaufgaben wie für partnerschaftliche Familienbetreuung eignet. Von Job Sharing bis Family Sharing - in unserem aktuellen Beitrag gibt es neue Inspirationen für eine altbekannte Herausforderung. 
-Im dF Portrait: die neue Gleichstellungsrätin Brigitte Hofer. Die Tangotänzerin und Bergbegeisterte hat viele Ideen für ihre neue Aufgabe. Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. 
-In df Info: &quot;Mama will nicht mehr&quot;, die Publikation mit Texten von Müttern anlässlich der 10. Mutternacht. Vorgestellt wird auch der Kurzfilm &quot;Ein Mann zu sein&quot;, der sexuelle Gewalt thematisiert.</desc>
-  </programme>
-  <programme start="20240602205000 +0200" stop="20240602205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240602221000 +0200" stop="20240602223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240603180000 +0200" stop="20240603181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
