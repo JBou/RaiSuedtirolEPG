@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240603180000 +0200" stop="20240603181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Landesligist Ahrntal und der 1. Amateurliga-Klub Olympia Meran stehen sich in Brixen im Landespokal-Finale 2024 gegenüber. Der SSV Bruneck bestreitet hingegen im Trentino gegen Arco oder Aquila Trient das Entscheidungsspiel der zweitplatzierten Mannschaften der Landesliga.</desc>
-  </programme>
-  <programme start="20240603181400 +0200" stop="20240603182830 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title/>
-    <desc>Ivans große Leidenschaft sind die Araber Pferde. Mit seinem ersten Araber &quot;Freddy Feuerstein&quot; ritt er viele erfolgreiche Turniere und nach ihm ist auch sein Gestüt &quot;Feuerstein&quot; benannt. Kürzlich ist ein kleines Fohlen auf die Welt gekommen. Pfote-Moderator Stefan entdeckt aber auch noch eine andere große Leidenschaft von Ivan: Er bringt einigen seiner Pferde Zirkuskunststücke bei, die er vor kleinem Publikum vorführt.</desc>
-  </programme>
-  <programme start="20240603182900 +0200" stop="20240603185830 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wie sich leidenschaftliche Haflingerzüchter auf das Jubiläumsfest vorbereiten - welches Potential nachhaltige Waldbewirtschaftung hat - warum sich Sänger Philipp Burger für Sprinzen stark macht.
-Haflingerpferde begeistern durch ihre Schönheit, ihren feinen Charakter und ihre Kraft. Über Jahrhunderte nutzten sie die Bauern als Zug- und Arbeitstiere, in jüngerer Zeit sind sie vor allem als Freizeit- und Sportpferde beliebt. Der Ur-Haflinger, der vor 150 Jahren im Stall eines Züchters in Schluderns auf die Welt kam, war eine Kreuzung aus einem Araberhengst und einer galizischen Landstute. Seitdem engagieren sich Tausende Züchter in Südtirol und weltweit für die blonde Schönheit aus den Bergen. 
-Land&amp;Leben hat zwei Familien besucht, die seit Generationen für den Haflinger brennen und sich nun auf das große Jubiläumsfest vorbereiten. 
-Außerdem geht Land&amp;Leben der Frage nach, wie die Waldbewirtschaftung und die lokale Holznutzung nachhaltig gestaltet werden kann und ist außerdem zu Besuch bei dem Freiwild-Sänger Philipp Burger, der sich für die alte Tiroler Rinderrasse der Pustertaler Sprinzen stark macht. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240603200000 +0200" stop="20240603202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240603202000 +0200" stop="20240603220000 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch Spezial</title>
-    <sub-title>Wen soll ich wählen?</sub-title>
-    <desc>Am 8. und 9. Juni finden die EU-Wahlen statt. Polit-Beobachter sprechen von einer Schicksalswahl: Wie soll die Zukunft der EU aussehen? 
-
-Wir diskutieren mit jungen Südtirolern und den Kandidat:innen darüber. Junge Erstwähler werden den deutschsprachigen EU-Kandidaten gemeinsam mit Moderator Christian Bassani auf den Zahn fühlen. &quot;Am Runden Tisch Spezial&quot; live aus dem Oberschulzentrum Sterzing.</desc>
-  </programme>
-  <programme start="20240603221000 +0200" stop="20240603223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240604200000 +0200" stop="20240604202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
