@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240605200000 +0200" stop="20240605202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240605202000 +0200" stop="20240605204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Diesmal geht es um Innovation speziell im Südtiroler Lebensmittelbereich. Wir erfahren unter anderem, wie alkoholfreier Wein entsteht und wie er beim Publikum ankommt.
-
-Bei Wein und Bier wird üblicherweise mehr auf die Tradition in der Produktion gesetzt. Zumindest wird in der Vermarktung dieser Produkte gerne darauf verwiesen, dass die Produktion noch vor hunderten oder gar tausenden Jahren schon so abgelaufen ist wie heute. Alkoholfreie Biere gibt es schon länger, aber alkoholfreie Weine sind erst sehr kurz auf dem Markt. Trend hat sich umgeschaut und bei Experten nachgefragt, wie solche Weine zustande kommen und welches Potential diesen Produkten zugedacht wird.
-Trend berichtet auch über Innovationen bei anderen handwerklich und industriell erzeugten Lebensmitteln. Moderation: Christian Pfeifer.</desc>
-  </programme>
-  <programme start="20240605221000 +0200" stop="20240605223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240606200000 +0200" stop="20240606202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
