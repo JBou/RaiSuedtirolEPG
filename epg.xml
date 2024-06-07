@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240606200000 +0200" stop="20240606202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240606202000 +0200" stop="20240606203000 +0200" channel="Rai Südtirol">
-    <title>EU-Wahl 2024: Belangsendung der Parteien</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240606203000 +0200" stop="20240606205930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Südtirols Jugend ist besser als ihr Ruf! Junge Menschen engagieren sich ehrenamtlich, sind an gesellschaftlichen Themen interessiert und suchen ihren Platz in der Gesellschaft. 
-
-Das negative Bild, das immer wieder von den jungen Heranwachsenden gezeichnet wird, wird also nicht bestätigt. Das belegen auch die Zahlen. 
-Neu im Südtirol Magazin ist die Rubrik &quot;Legenden&quot;, in der wir die Erdpyramiden auf dem Ritten besuchen - und gemeinsam mit unserem mobilen Reporter Philipp Bologna besuchen wir die Gemeinde Terlan. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20240606213000 +0200" stop="20240606215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Im isländischen Reykjavík hat der Internationale Skiverband FIS entschieden, wer im Jahr 2029 die alpine Ski-WM austragen wird. Neben Gröden bewarben sich auch Narvik (Norwegen) und Soldeu (Andorra) für diese Titelkämpfe. 
-Entschieden wurde auch das &quot;Brixia Meeting&quot;, eine der wichtigsten europäischen U18-Leichtathletik-Veranstaltungen, wo die Südtiroler Nachwuchssportler glänzten. 
-Im Play-Off-Spiel in der Fußball-Oberliga spielte Tramin gegen den Mailänder Klub Magenta um den Aufstieg in die Serie D.</desc>
-  </programme>
-  <programme start="20240606221000 +0200" stop="20240606223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240607180000 +0200" stop="20240607182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
