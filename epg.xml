@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240607180000 +0200" stop="20240607182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Südtirols Jugend ist besser als ihr Ruf! Junge Menschen engagieren sich ehrenamtlich, sind an gesellschaftlichen Themen interessiert und suchen ihren Platz in der Gesellschaft. 
-Das negative Bild, das immer wieder von den jungen Heranwachsenden gezeichnet wird, wird also nicht bestätigt. Das belegen auch die Zahlen. 
-Neu im Südtirol Magazin ist die Rubrik &quot;Legenden&quot;, in der wir die Erdpyramiden auf dem Ritten besuchen - und gemeinsam mit unserem mobilen Reporter Philipp Bologna besuchen wir die Gemeinde Terlan. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20240607183000 +0200" stop="20240607185930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Im isländischen Reykjavík hat der Internationale Skiverband FIS entschieden, wer im Jahr 2029 die alpine Ski-WM austragen wird. Neben Gröden bewarben sich auch Narvik (Norwegen) und Soldeu (Andorra) für diese Titelkämpfe. 
-Entschieden wurde auch das &quot;Brixia Meeting&quot;, eine der wichtigsten europäischen U18-Leichtathletik-Veranstaltungen, wo die Südtiroler Nachwuchssportler glänzten. 
-Im Play-Off-Spiel in der Fußball-Oberliga spielte Tramin gegen den Mailänder Klub Magenta um den Aufstieg in die Serie D.</desc>
-  </programme>
-  <programme start="20240607200000 +0200" stop="20240607202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240607202100 +0200" stop="20240607212000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Diesmal wird an Gartenpforten geklopft und hinter den Gartenzaun geblickt. Wir erfahren auch, wie Türen gebaut werden und wie der Arbeitsalltag eines Wartungstechnikers aussieht.
-
-Adina Guarnieri hat in den letzten Jahren an viele Türen geklopft. Höchste Zeit, sich konkret dem Thema &quot;Tür&quot; zu widmen. Und so waren wir bei einem Südtiroler Unternehmen in Klobenstein zu Gast, wo jährlich an die 1200 Türen produziert werden und haben zwei Wartungstechnikern in Bruneck über die Schulter geschaut, deren Metier Brandschutztüren, Feuerlöscher und Hydranten sind. 
-Außerdem begleiten wir Karin Duregger, die wieder verschiedenste Hobbygärtner:innen aufsucht. Diesmal taucht sie zwischen Bonsai und Staudenbeeten ins Reich der Grün-Oasen-Besitzer.</desc>
-  </programme>
-  <programme start="20240607212000 +0200" stop="20240607214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Der historische Gastbetrieb des Jahres 2024, Nachhaltigkeitssiegel Earthcheck für die Therme Meran, neue Restaurantkonzepte mit regionalen, nachhaltigen und veganen Gerichte in der Sterneküche. Seit 2007 gibt es die Auszeichnung &quot;Historischer Gastbetrieb des Jahres&quot; - inzwischen wurden viele Betriebe in Südtirol ausgezeichnet. Wir lernen den aktuellen Gewinner kennen: den Ansitz Pünthof in Algund.
-Die Therme Meran wurde von EarthCheck als nachhaltige touristische Struktur zertifiziert. Damit ist die Therme Meran die weltweit erste Therme mit dem renommierten Nachhaltigkeitssiegel. Dies bedeutet, dass alle Entscheidungen nach den Kriterien der Nachhaltigkeit auf ihre Auswirkung auf Umwelt, Ressourcen und Investitionen überprüft werden.
-Außerdem geht es in der Tourismussendereihe um die Zukunft der Gastronomie. Spannende Restaurantkonzepte unter anderem aus Deutschland zeigen auf, wie Regionalität, Nachhaltigkeit und Gerichte ganz ohne tierische Produkte in der Hauben- und Sterneküche gekonnt umgesetzt werden.</desc>
-  </programme>
-  <programme start="20240607215000 +0200" stop="20240607215743 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title>Die Verwaltung im Gesundheitswesen</sub-title>
-    <desc>Die Digitalisierung der klinischen Dokumentation oder Patientenakte ist ein wichtiger Meilenstein
-im Südtiroler Gesundheitsbereich. Die Herausforderung ist der Datenschutz. Viele Abläufe und Kommunikationswege laufen inzwischen digital, so können ärztliche Verschreibungen, wie Befunde online abgerufen und weitergeleitet werden. In Zukunft soll dies weiter ausgebaut und verstärkt werden. Mehr über die elektronische Patientenakte erfahren wir im digitalen Fenster auf RAI Südtirol.</desc>
-  </programme>
-  <programme start="20240607221000 +0200" stop="20240607223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240608180000 +0200" stop="20240608185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -100,6 +55,221 @@ Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70
     <desc/>
   </programme>
   <programme start="20240609221000 +0200" stop="20240609223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240610180000 +0200" stop="20240610181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Die 50. Oberliga-Saison ist Geschichte. Lavis steht zum ersten Mal als Oberliga-Meister fest, beste Südtiroler Mannschaft ist Tramin auf Platz 2 der Tabelle. Mit Lana und Naturns steigen neben Dro auch zwei Teams aus unserer Provinz in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
+  </programme>
+  <programme start="20240610181400 +0200" stop="20240610182830 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Water Light-Festival</sub-title>
+    <desc>Im Rahmen des Water Light-Festivals haben Brixner Kinder sich Gedanken gemacht zum Thema &quot;Alles was sich im Wasser tummelt&quot; und dazu Bilder gemalt. Darauf sind nicht nur bunte Fische und Pflanzen zu sehen, sondern auch viel Plastikmüll, der sich in den Flüssen, Seen und Meeren sammelt und ein großes Problem für die Tiere dort darstellt. Clownfrau Karamela trifft die Künstlerkinder beim Festival.</desc>
+  </programme>
+  <programme start="20240610182900 +0200" stop="20240610185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Gelebte Inklusion, die Haiku-Dichterin Helga Maria Gorfer, die Sozialgenossenschaft Renovas und Gedanken zum Thema &quot;Koffer packen für die letzte Reise&quot;. Moderation: Lisa Hintner.
+&quot;I kim a&quot; nennt sich ein Projekt der Lebenshilfe Schlerngebiet: An drei Nachmittagen in der Woche steht das Kulturhaus Seis offen für Kinder, die hier ihre Hausaufgaben erledigen, basteln, malen, spielen oder zwischendurch einfach nur gemeinsam chillen.
+Das Projekt ist einzigartig in Südtirol, weil hier Kinder mit und ohne Beeinträchtigung in entspannter Atmosphäre ihre Zeit verbringen.
+Mit dem Kofferpacken haben sich auch Nadia Gluderer und Gerlinde Pazeller, zwei Ehrenamtliche der Caritas-Hospizbewegung, beschäftigt. Die eine ist Bestatterin von Beruf, die andere arbeitet als Kunsthandwerkerin mit recycelten Materialien. In der Marxkirche in Laas haben sie unlängst für mehrere Tage alte, leere Koffer gestapelt unter dem Motto: &quot;Koffer packen für die letzte Reise&quot;.
+Die Sozialgenossenschaft Renovas wurde vor 15 Jahren mit dem Ziel gegründet, Menschen mit Beeinträchtigung und Problematiken im Arbeitsmarkt zu integrieren. &quot;Beziehungsweise&quot; hat einigen von ihnen bei ihrer Tätigkeit in der Landhausbar und im Bildungshaus Schloss Rechtenthal über die Schulter geschaut.</desc>
+  </programme>
+  <programme start="20240610200000 +0200" stop="20240610202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240610202000 +0200" stop="20240610213000 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch: Europawahlen 2024</title>
+    <sub-title>Ergebnisse, Analysen, Kommentare</sub-title>
+    <desc>Die Europawahlen sind entschieden, die Ergebnisse liegen vor, Sieger und Verlierer stehen fest. Was bedeutet der Wahlausgang für Südtirol? Wie geht es jetzt weiter? 
+
+Am Runden Tisch spricht darüber mit Experten, Politikern und hört sich in Rom und Brüssel dazu um. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20240610213000 +0200" stop="20240610215930 +0200" channel="Rai Südtirol">
+    <title>df</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Die vielen Aspekte und Möglichkeiten von Teilzeitarbeit - die neue Gleichstellungsrätin Brigitte Hofer im Porträt - neue Publikationen und Kurzfilme. Moderation: Martina Kreuzer.
+Beliebte Vereinbarkeitslösung für Mütter und gleichzeitig Karriere- und Pensionsfalle: so wird Teilzeitarbeit gemeinhin gesehen. Doch immer mehr Frauen (und auch Männer) leben vor, dass dieses Arbeitsmodell weit mehr kann - und sich genauso für Führungsaufgaben wie für partnerschaftliche Familienbetreuung eignet. Von Job Sharing bis Family Sharing - in unserem aktuellen Beitrag gibt es neue Inspirationen für eine altbekannte Herausforderung. 
+Im dF Portrait: die neue Gleichstellungsrätin Brigitte Hofer. Die Tangotänzerin und Bergbegeisterte hat viele Ideen für ihre neue Aufgabe. Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. 
+In df Info: &quot;Mama will nicht mehr&quot;, die Publikation mit Texten von Müttern anlässlich der 10. Mutternacht. Vorgestellt wird auch der Kurzfilm &quot;Ein Mann zu sein&quot;, der sexuelle Gewalt thematisiert.</desc>
+  </programme>
+  <programme start="20240610221100 +0200" stop="20240610223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240611200000 +0200" stop="20240611202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240611202000 +0200" stop="20240611203430 +0200" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20240611203500 +0200" stop="20240611204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Die 50. Oberliga-Saison ist Geschichte. Lavis steht zum ersten Mal als Oberliga-Meister fest, beste Südtiroler Mannschaft ist Tramin auf Platz 2 der Tabelle. Mit Lana und Naturns steigen neben Dro auch zwei Teams aus unserer Provinz in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
+  </programme>
+  <programme start="20240611221000 +0200" stop="20240611223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240612200000 +0200" stop="20240612202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240612202000 +0200" stop="20240612204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Forderungen der Gewerkschaft an die Politik, um ein &quot;Altern in Würde&quot; zu gewährleisten, der neue Treibstoff HVO und sensor-gesteuerten Scharniere made in Südtirol.
+
+Die Rentnergewerkschaft im ASGB fordert die Politik auf, Maßnahmen für ein &quot;Altern in Würde&quot; zu ergreifen. Zu den zentralen Forderungen gehören bezahlbares Wohnen für Senioren, geregelte Möglichkeiten, weiterhin bestimmte Arbeiten auszuführen, ohne steuerliche Nachteile zu erfahren, und ein leichterer Zugang zum Gesundheitssystem.
+Ein neuer Treibstoff erobert den Markt: HVO, auch bekannt als XTL, stellt eine vielversprechende Alternative zu herkömmlichem Diesel dar. Wie umweltfreundlich ist dieser Treibstoff? Und wie steht es in Südtirol um die Zukunft des Wasserstoffs in der Mobilität?
+Die Innovation von Gronbach: Sensor-gesteuerte Scharniere für Gerätetüren von Backrohr oder Kühlschrank. Dieser Mechanismus revolutioniert Haushaltsgeräte und erlaubt einen grifflosen Öffnungs- und Schließvorgang.</desc>
+  </programme>
+  <programme start="20240612221000 +0200" stop="20240612223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240613200000 +0200" stop="20240613202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240613202000 +0200" stop="20240613204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Endlich Ferien! Auf in den Urlaub! Wie entspannen Sie am besten? Wir haben uns in Südtirol umgehört, was sich die Menschen unter Urlaub vorstellen. Es moderiert Magdalena Oberstaller. 
+ 
+Einige freuen sich auf das Meer, andere bleiben lieber zu Hause und entspannen am Berg oder an einem See. Es gibt ihn also nicht DEN Urlaub. Oder doch? Was sind die Trends und wo zieht es die Menschen im Sommer hin? 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol - außerdem begleiten wir unseren mobilen Reporter Philipp Bologna auf seiner letzten Tour durch Südtirol.</desc>
+  </programme>
+  <programme start="20240613221000 +0200" stop="20240613223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240614180000 +0200" stop="20240614182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Endlich Ferien! Auf in den Urlaub! Wie entspannen Sie am besten? Wir haben uns in Südtirol umgehört, was sich die Menschen unter Urlaub vorstellen. Es moderiert Magdalena Oberstaller.  
+Einige freuen sich auf das Meer, andere bleiben lieber zu Hause und entspannen am Berg oder an einem See. Es gibt ihn also nicht DEN Urlaub. Oder doch? Was sind die Trends und wo zieht es die Menschen im Sommer hin? 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol - außerdem begleiten wir unseren mobilen Reporter Philipp Bologna auf seiner letzten Tour durch Südtirol.</desc>
+  </programme>
+  <programme start="20240614182900 +0200" stop="20240614185238 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Wie geht Verhütung heute?</sub-title>
+    <desc>Gesundheitsbefragungen der letzten Jahre haben ergeben, dass der Trend weg von der Pille geht, vor allem unter den jungen Menschen. Trifft das auch in Südtirol zu? Wie wird heute verhütet?
+Dieser Frage geht Ursula Oberschmied in der Gesundheitsreportage nach. Sie spricht mit erfahrenen Gynäkologinnen, besucht eine Oberschulklasse beim Sexual-Workshop, spricht mit Müttern und geht auch einigen Irrtümern auf den Grund. Zudem werden die gängisten Methoden der Empfängnisverhütung auf den Prüfstand gestellt.</desc>
+  </programme>
+  <programme start="20240614185300 +0200" stop="20240614185819 +0200" channel="Rai Südtirol">
+    <title>Und doch sind wir anders: Ava Hausmann</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240614200000 +0200" stop="20240614202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240614202100 +0200" stop="20240614210537 +0200" channel="Rai Südtirol">
+    <title>Der Landesforstdienst</title>
+    <sub-title>Mehr als nur Waldhüter</sub-title>
+    <desc>Forsträte, Förster und Forstarbeiter sind mehr als nur Waldhüter, denn tagtäglich arbeiten sie für die Erhaltung, nachhaltige Nutzung und Pflege der grünen Lebensräume. Ein Film von Christoph Wieser.
+
+Dabei werden die Mitarbeiter:innen im Landesforstdienst durch Naturereignisse und klimatische Veränderungen ständig aufs Neue gefordert. 
+Ihre Arbeit ist sehr vielfältig: Sie bewältigen über hundert unterschiedliche Arbeiten und Kontrollen - vom Bäumefällen bis zur Verwaltungsstrafe für Pilzklauber.</desc>
+  </programme>
+  <programme start="20240614210500 +0200" stop="20240614214947 +0200" channel="Rai Südtirol">
+    <title>Die Donau</title>
+    <sub-title>Gedächtnis eines Kontinents Teil 1</sub-title>
+    <desc>Von ihrem Weg von Westen nach Osten durchquert die Donau ganz Mitteleuropa. Sie formte Landschaften und schuf einzigartige Naturräume. Sie ist eine Lebensader, die gleichermaßen verbindet wie trennt. Als Handelsroute sorgte sie für regen Austausch, in Kriegszeiten war sie Schauplatz vieler Konflikte.
+Regisseur Bernhard Riener Riener reiste ein Jahr lang zwischen Donauquelle und Donaudelta und zeichnet ein vielschichtiges Bild dieses zweitlängsten europäischen Flusses.</desc>
+  </programme>
+  <programme start="20240614215000 +0200" stop="20240614215700 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title/>
+    <desc>Online-Einschreibungen, Arzttermine und Befunde - diese Dinge gehören mittlerweile zu unserem Alltag. Doch wo landen unsere digitalen Daten und wie sicher sind sie vor Cyberangriffen? 
+Bis Ende 2026 soll ein neues, einheitliches Datenzentrum entstehen, das den höchsten
+Sicherheitsansprüchen entspricht. Insgesamt werden dann 11,2 Petabyte an Daten an einem Ort gesammelt werden. Die Fernsehreihe &quot;Südtirol digital&quot; informiert.</desc>
+  </programme>
+  <programme start="20240614215700 +0200" stop="20240614215929 +0200" channel="Rai Südtirol">
+    <title>Kleine Museen - große Geschichten</title>
+    <sub-title>Holzwege und Schneiderhaggele</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240614221000 +0200" stop="20240614223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240615175900 +0200" stop="20240615182830 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Diesmal geht es um Innovation speziell im Südtiroler Lebensmittelbereich. Wir erfahren unter anderem, wie alkoholfreier Wein entsteht und wie er beim Publikum ankommt.
+Bei Wein und Bier wird üblicherweise mehr auf die Tradition in der Produktion gesetzt. Zumindest wird in der Vermarktung dieser Produkte gerne darauf verwiesen, dass die Produktion noch vor hunderten oder gar tausenden Jahren schon so abgelaufen ist wie heute. Alkoholfreie Biere gibt es schon länger, aber alkoholfreie Weine sind erst sehr kurz auf dem Markt. Trend hat sich umgeschaut und bei Experten nachgefragt, wie solche Weine zustande kommen und welches Potential diesen Produkten zugedacht wird.
+Trend berichtet auch über Innovationen bei anderen handwerklich und industriell erzeugten Lebensmitteln. Moderation: Christian Pfeifer.</desc>
+  </programme>
+  <programme start="20240615182800 +0200" stop="20240615185730 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Versteinerte Muschelarten, die das größte Massensterben in der Erdgeschichte überlebt haben, Entwicklungspotential für klimaneutrale Landwirtschaft, Kreuz-Züchtungen gegen Apfelschorf. 
+Das größte Massensterben in der Erdgeschichte fand vor 250 Millionen Jahren statt. Der Grödner Paläontologe Herwig Prinoth hat mehrere Muschelarten entdeckt, die diese Katastrophe überraschenderweise überstanden haben. 
+Wir kann man in der Landwirtschaft die Vorgaben der EU umsetzen und ab 2030 klimaneutral wirtschaften? Die Freie Universität Bozen hat eine Studie durchgeführt, die das Entwicklungspotential aufzeigt. 
+Der Schorf ist ein Pilz, der Apfelbäume befällt und mit Pflanzenschutzmitteln bekämpft wird. Resistente Apfelsorten gibt es bereits. Das Versuchszentrum Laimburg erhofft sich viel von den eigenen Kreuz-Züchtungen, die erste Erfolge erzielen.</desc>
+  </programme>
+  <programme start="20240615200000 +0200" stop="20240615202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240615202100 +0200" stop="20240615202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240615202500 +0200" stop="20240615204930 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Im Fernsehmagazin Alpen Donau Adria bildet diesmal die  Kunst unter freiem Himmel einen Themenschwerpunkt: Land Art kennt man mittlerweile, aber was ist Out Door-Painting? 
+
+Moderatorin Sigrid Flenger schaut dem Land Art-Künstler Jan Langer in Grissian über die Schulter. Er malt mit Mohnblumen ein Gemälde auf einen Felsen. 
+Eine Bodypainterin aus Trient verwendet Naturfarben aus dem brasilianischen Regenwald für die Körperbemalung. Eine bayerische Out Door-Malerin ist überzeugt, dass die Künstler:innen von heute ihre Arbeitsprozesse dokumentieren und veröffentlichen müssen, um ihre Bilder erfolgreich zu verkaufen.</desc>
+  </programme>
+  <programme start="20240615221000 +0200" stop="20240615223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240616200000 +0200" stop="20240616202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240616202100 +0200" stop="20240616205030 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Evelyn Kirchmaier</sub-title>
+    <desc>Moderator Markus Frings begrüsst diesmal die Eggentalerin Evelyn Kirchmaier, Generaldirektorin der Firma Markas und Chefin von über 12.000 Mitarbeiter:innen. 
+
+Kirchmaier erzählt, warum sie den Journalismus hinter sich gelassen hat, um in den Familienbetrieb einzusteigen, und welche Herausforderungen und Chancen dieser bedeutende Schritt mit sich brachte. Wir erfahren auch von ihr, wie es ist, mit dem eigenen Mann in einer Firma zusammenzuarbeiten und wie die zweifache Mutter Privates und Berufliches erfolgreich voneinander trennt. Zusätzlich zu ihrer Rolle bei Markas ist Evelyn Kirchmaier auch Vizepräsidentin im Unternehmerverband Südtirol und zweifache Mutter.</desc>
+  </programme>
+  <programme start="20240616205000 +0200" stop="20240616205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240616221000 +0200" stop="20240616223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
