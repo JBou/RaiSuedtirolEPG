@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240608180000 +0200" stop="20240608185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Diesmal wird an Gartenpforten geklopft und hinter den Gartenzaun geblickt. Wir erfahren auch, wie Türen gebaut werden und wie der Arbeitsalltag eines Wartungstechnikers aussieht.
-Adina Guarnieri hat in den letzten Jahren an viele Türen geklopft. Höchste Zeit, sich konkret dem Thema &quot;Tür&quot; zu widmen. Und so waren wir bei einem Südtiroler Unternehmen in Klobenstein zu Gast, wo jährlich an die 1200 Türen produziert werden und haben zwei Wartungstechnikern in Bruneck über die Schulter geschaut, deren Metier Brandschutztüren, Feuerlöscher und Hydranten sind. 
-Außerdem begleiten wir Karin Duregger, die wieder verschiedenste Hobbygärtner:innen aufsucht. Diesmal taucht sie zwischen Bonsai und Staudenbeeten ins Reich der Grün-Oasen-Besitzer.</desc>
-  </programme>
-  <programme start="20240608200000 +0200" stop="20240608202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240608202100 +0200" stop="20240608202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240608202500 +0200" stop="20240608205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Gelebte Inklusion, die Haiku-Dichterin Helga Maria Gorfer, die Sozialgenossenschaft Renovas und Gedanken zum Thema &quot;Koffer packen für die letzte Reise&quot;. Moderation: Lisa Hintner.
-
-&quot;I kim a&quot; nennt sich ein Projekt der Lebenshilfe Schlerngebiet: An drei Nachmittagen in der Woche steht das Kulturhaus Seis offen für Kinder, die hier ihre Hausaufgaben erledigen, basteln, malen, spielen oder zwischendurch einfach nur gemeinsam chillen.
-Das Projekt ist einzigartig in Südtirol, weil hier Kinder mit und ohne Beeinträchtigung in entspannter Atmosphäre ihre Zeit verbringen.
-Mit dem Kofferpacken haben sich auch Nadia Gluderer und Gerlinde Pazeller, zwei Ehrenamtliche der Caritas-Hospizbewegung, beschäftigt. Die eine ist Bestatterin von Beruf, die andere arbeitet als Kunsthandwerkerin mit recycelten Materialien. In der Marxkirche in Laas haben sie unlängst für mehrere Tage alte, leere Koffer gestapelt unter dem Motto: &quot;Koffer packen für die letzte Reise&quot;.
-Die Sozialgenossenschaft Renovas wurde vor 15 Jahren mit dem Ziel gegründet, Menschen mit Beeinträchtigung und Problematiken im Arbeitsmarkt zu integrieren. &quot;Beziehungsweise&quot; hat einigen von ihnen bei ihrer Tätigkeit in der Landhausbar und im Bildungshaus Schloss Rechtenthal über die Schulter geschaut.</desc>
-  </programme>
-  <programme start="20240608221000 +0200" stop="20240608223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240609200000 +0200" stop="20240609202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
