@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240609200000 +0200" stop="20240609202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240609202000 +0200" stop="20240609204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Unser Frau im Schnalstal</sub-title>
-    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. 
-
-Eine bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum, das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. 
-Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
-  </programme>
-  <programme start="20240609204500 +0200" stop="20240609204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240609221000 +0200" stop="20240609223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240610180000 +0200" stop="20240610181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
