@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240610180000 +0200" stop="20240610181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Die 50. Oberliga-Saison ist Geschichte. Lavis steht zum ersten Mal als Oberliga-Meister fest, beste Südtiroler Mannschaft ist Tramin auf Platz 2 der Tabelle. Mit Lana und Naturns steigen neben Dro auch zwei Teams aus unserer Provinz in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
-  </programme>
-  <programme start="20240610181400 +0200" stop="20240610182830 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Water Light-Festival</sub-title>
-    <desc>Im Rahmen des Water Light-Festivals haben Brixner Kinder sich Gedanken gemacht zum Thema &quot;Alles was sich im Wasser tummelt&quot; und dazu Bilder gemalt. Darauf sind nicht nur bunte Fische und Pflanzen zu sehen, sondern auch viel Plastikmüll, der sich in den Flüssen, Seen und Meeren sammelt und ein großes Problem für die Tiere dort darstellt. Clownfrau Karamela trifft die Künstlerkinder beim Festival.</desc>
-  </programme>
-  <programme start="20240610182900 +0200" stop="20240610185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Gelebte Inklusion, die Haiku-Dichterin Helga Maria Gorfer, die Sozialgenossenschaft Renovas und Gedanken zum Thema &quot;Koffer packen für die letzte Reise&quot;. Moderation: Lisa Hintner.
-&quot;I kim a&quot; nennt sich ein Projekt der Lebenshilfe Schlerngebiet: An drei Nachmittagen in der Woche steht das Kulturhaus Seis offen für Kinder, die hier ihre Hausaufgaben erledigen, basteln, malen, spielen oder zwischendurch einfach nur gemeinsam chillen.
-Das Projekt ist einzigartig in Südtirol, weil hier Kinder mit und ohne Beeinträchtigung in entspannter Atmosphäre ihre Zeit verbringen.
-Mit dem Kofferpacken haben sich auch Nadia Gluderer und Gerlinde Pazeller, zwei Ehrenamtliche der Caritas-Hospizbewegung, beschäftigt. Die eine ist Bestatterin von Beruf, die andere arbeitet als Kunsthandwerkerin mit recycelten Materialien. In der Marxkirche in Laas haben sie unlängst für mehrere Tage alte, leere Koffer gestapelt unter dem Motto: &quot;Koffer packen für die letzte Reise&quot;.
-Die Sozialgenossenschaft Renovas wurde vor 15 Jahren mit dem Ziel gegründet, Menschen mit Beeinträchtigung und Problematiken im Arbeitsmarkt zu integrieren. &quot;Beziehungsweise&quot; hat einigen von ihnen bei ihrer Tätigkeit in der Landhausbar und im Bildungshaus Schloss Rechtenthal über die Schulter geschaut.</desc>
-  </programme>
-  <programme start="20240610200000 +0200" stop="20240610202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240610202000 +0200" stop="20240610213000 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch: Europawahlen 2024</title>
-    <sub-title>Ergebnisse, Analysen, Kommentare</sub-title>
-    <desc>Die Europawahlen sind entschieden, die Ergebnisse liegen vor, Sieger und Verlierer stehen fest. Was bedeutet der Wahlausgang für Südtirol? Wie geht es jetzt weiter? 
-
-Am Runden Tisch spricht darüber mit Experten, Politikern und hört sich in Rom und Brüssel dazu um. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20240610213000 +0200" stop="20240610215930 +0200" channel="Rai Südtirol">
-    <title>df</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Die vielen Aspekte und Möglichkeiten von Teilzeitarbeit - die neue Gleichstellungsrätin Brigitte Hofer im Porträt - neue Publikationen und Kurzfilme. Moderation: Martina Kreuzer.
-Beliebte Vereinbarkeitslösung für Mütter und gleichzeitig Karriere- und Pensionsfalle: so wird Teilzeitarbeit gemeinhin gesehen. Doch immer mehr Frauen (und auch Männer) leben vor, dass dieses Arbeitsmodell weit mehr kann - und sich genauso für Führungsaufgaben wie für partnerschaftliche Familienbetreuung eignet. Von Job Sharing bis Family Sharing - in unserem aktuellen Beitrag gibt es neue Inspirationen für eine altbekannte Herausforderung. 
-Im dF Portrait: die neue Gleichstellungsrätin Brigitte Hofer. Die Tangotänzerin und Bergbegeisterte hat viele Ideen für ihre neue Aufgabe. Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. 
-In df Info: &quot;Mama will nicht mehr&quot;, die Publikation mit Texten von Müttern anlässlich der 10. Mutternacht. Vorgestellt wird auch der Kurzfilm &quot;Ein Mann zu sein&quot;, der sexuelle Gewalt thematisiert.</desc>
-  </programme>
-  <programme start="20240610221100 +0200" stop="20240610223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240611200000 +0200" stop="20240611202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
