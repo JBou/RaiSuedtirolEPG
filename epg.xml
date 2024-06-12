@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240611200000 +0200" stop="20240611202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240611202000 +0200" stop="20240611203430 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
-  </programme>
-  <programme start="20240611203500 +0200" stop="20240611204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Die 50. Oberliga-Saison ist Geschichte. Lavis steht zum ersten Mal als Oberliga-Meister fest, beste Südtiroler Mannschaft ist Tramin auf Platz 2 der Tabelle. Mit Lana und Naturns steigen neben Dro auch zwei Teams aus unserer Provinz in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
-  </programme>
-  <programme start="20240611221000 +0200" stop="20240611223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240612200000 +0200" stop="20240612202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
