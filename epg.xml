@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240613200000 +0200" stop="20240613202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240613202000 +0200" stop="20240613204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Endlich Ferien! Auf in den Urlaub! Wie entspannen Sie am besten? Wir haben uns in Südtirol umgehört, was sich die Menschen unter Urlaub vorstellen. Es moderiert Magdalena Oberstaller. 
- 
-Einige freuen sich auf das Meer, andere bleiben lieber zu Hause und entspannen am Berg oder an einem See. Es gibt ihn also nicht DEN Urlaub. Oder doch? Was sind die Trends und wo zieht es die Menschen im Sommer hin? 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol - außerdem begleiten wir unseren mobilen Reporter Philipp Bologna auf seiner letzten Tour durch Südtirol.</desc>
-  </programme>
-  <programme start="20240613221000 +0200" stop="20240613223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240614180000 +0200" stop="20240614182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -132,6 +114,180 @@ Kirchmaier erzählt, warum sie den Journalismus hinter sich gelassen hat, um in 
     <desc/>
   </programme>
   <programme start="20240616221000 +0200" stop="20240616223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240617180000 +0200" stop="20240617181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Die zweite Serie-B-Saison des FC Südtirol ist Geschichte. Die Weiß-Roten haben auch heuer eine starke Meisterschaft gespielt und vorzeitig den direkten Klassenerhalt geschafft. Außerdem ist es den Weiß-Roten gelungen, im Lande das Fußball-Fieber zu entfachen. Wir ziehen Bilanz und blicken gleichzeitig nach vorne, auf die ambitionierten Ziele der kommenden Saison.</desc>
+  </programme>
+  <programme start="20240617181400 +0200" stop="20240617182956 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Klettern im Tschamintal</sub-title>
+    <desc>Klettern - Abenteuer oder Breitensport? Die Bewegung in der Vertikalen - sie fasziniert immer mehr Menschen. Aber der Zugang ist sehr unterschiedlich. Thomas Hainz begleitet begleitet zwei Alpinkletterer aus Tiers zu abgelegenen Dolomit-Routen oberhalb der Grasleitenhütte im Tschamintal in Tiers.</desc>
+  </programme>
+  <programme start="20240617183000 +0200" stop="20240617185430 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Im Fernsehmagazin Alpen Donau Adria bildet diesmal die  Kunst unter freiem Himmel einen Themenschwerpunkt: Land Art kennt man mittlerweile, aber was ist Out Door-Painting? 
+Moderatorin Sigrid Flenger schaut dem Land Art-Künstler Jan Langer in Grissian über die Schulter. Er malt mit Mohnblumen ein Gemälde auf einen Felsen. 
+Eine Bodypainterin aus Trient verwendet Naturfarben aus dem brasilianischen Regenwald für die Körperbemalung. Eine bayerische Out Door-Malerin ist überzeugt, dass die Künstler:innen von heute ihre Arbeitsprozesse dokumentieren und veröffentlichen müssen, um ihre Bilder erfolgreich zu verkaufen.</desc>
+  </programme>
+  <programme start="20240617200000 +0200" stop="20240617202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240617202000 +0200" stop="20240617215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Südtirol - Gehen oder Bleiben?</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Jetzt waschen die Jungen uns den Kopf. Im Land der Macher fordern sie: Wir wollen es anders machen - oder wir gehen. &quot;Nachgeschaut&quot; live aus dem Innovationsviertel NOI in Bozen.
+
+Jedes Jahr kehren 1.000 Junge Südtirol den Rücken, und Südtirol dämmert, dass es Teil der mobilen Welt ist. Der Westen beginnt: Vinschgau - Gehen oder Bleiben. Im Film zeigen acht Protagonist:innen, welche Lebensmodelle die Jungen zurückbringen.
+Es ist Zeit loszulassen. Übergeben wir das Land an die nächste Generation. Aber wie machen wir es gut? Und wie bleiben wir mit jenen in Kontakt, die nicht zurückkommen wollen? 
+Es diskutieren Daria Habicher, Koordinatorin des PNRR-Projekts &quot;Stilfs - Resilienz erzählen&quot;, die Steinmetzin Annalena Tappeiner, Monica Devilli, Präsidentin des Coopbund Südtirol, und Südstern-Präsident Hermann Winkler. Im Interview: die Filmemacherin Sarah Trevisiol und Markus Weishaupt, ein Spezialist für Nachfolgeregelung in Unternehmen. 
+Gabriele Crepaz moderiert live aus dem Innovationsviertel NOI in Bozen.</desc>
+  </programme>
+  <programme start="20240617221000 +0200" stop="20240617223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240618200000 +0200" stop="20240618202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240618202000 +0200" stop="20240618203600 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch</sub-title>
+    <desc>Eine neue Talkshow, bei der die Sichtweise des Gegenübers möglichst korrekt wiedergegeben werden soll. Wenn nicht, dann fällt ein nachgebildeter Kuhfladen auf den Tisch. 
+
+Zwei Menschen mit unterschiedlichen Meinungen werden zu aktuellen Streitfragen eingeladen. Im Fokus stehen Konfliktlinien, die Südtirol durchziehen. Den Anfang machen Brigitte Foppa und Sven Knoll. Sie diskutieren über Migration, zweisprachige Schulen und übers Gendern.</desc>
+  </programme>
+  <programme start="20240618203600 +0200" stop="20240618205030 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Die zweite Serie-B-Saison des FC Südtirol ist Geschichte. Die Weiß-Roten haben auch heuer eine starke Meisterschaft gespielt und vorzeitig den direkten Klassenerhalt geschafft. Außerdem ist es den Weiß-Roten gelungen, im Lande das Fußball-Fieber zu entfachen. Wir ziehen Bilanz und blicken gleichzeitig nach vorne, auf die ambitionierten Ziele der kommenden Saison.</desc>
+  </programme>
+  <programme start="20240618221000 +0200" stop="20240618223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240619200000 +0200" stop="20240619202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240619202000 +0200" stop="20240619204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die &quot;Femminielli&quot; , eine jahrhundertealte Form von Transgender in Neapel, die EU-Wahlen aus Minderheitensicht, die Reform des marokkanischen Familienrechts. Moderation: Christina Khuen.
+
+Der bekannte neapolitanische Fotoreporter Luciano Ferrara hat im Lauf seiner Karriere viele Stars und Minderheiten porträtiert. Über mehrere Jahrzehnte auch eine besondere Minderheit seiner Heimatstadt: die &quot;Femminielli&quot;. In Neapel gehören sie zum kulturellen Erbe. Es sind Menschen, die beides sind, Mann wie Frau. Ihre Ursprünge reichen zurück bis in die griechische Mythologie. Minet hat Luciano Ferrara in seinem Wohnungsatelier einen Besuch abgestattet. 
+Marokko reformiert sein Familienrecht, weil es nicht den Anforderungen der progressiven Verfassung entspricht, die das Land sich 2011 gegeben hat. Es diskriminiert verwitwete, geschiedene oder alleinerziehende Frauen und erlaubt - wenn auch unter Bedingungen - Kinderehen und Polygamie. Ein großer Schritt für diesen islamischen Staat. 
+Im Minet-Gespräch ist Verena Wisthaler vom Institut für Minderheitenrecht an der Eurac zu Gast. Mit ihr analysiert Christina Khuen die EU-Wahlen aus Minderheitensicht. 
+Minet feiert außerdem ein kleines Jubiläum: Im Juni 2004 ist die erste Minet-Ausgabe auf Sendung gegangen. Wir blicken zurück auf 20 Jahre Minderheitenberichterstattung und informieren im Minet-Telegramm über aktuelle Themen rund um Minderheiten.</desc>
+  </programme>
+  <programme start="20240619221000 +0200" stop="20240619223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240620200000 +0200" stop="20240620202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240620202000 +0200" stop="20240620205106 +0200" channel="Rai Südtirol">
+    <title>Johann von Nepomuk</title>
+    <sub-title>Brückenheiliger und Wasserpatron</sub-title>
+    <desc>Der aus Böhmen stammende Johann von Nepomuk ist bekannt als Schutzheiliger gegen Wassergefahr. Rund um sein Leben und seinen Märtyrertod im Fluss Moldau ranken sich viele Legenden. 
+
+Im gesamten Habsburgerreich wurde er seit dem 18. Jahrhundert stark verehrt. Auch in Südtirol gibt es ihm zu Ehren viele Kapellen und Kirchen, sowie Statuen an Brücken und Bächen. Am berühmtesten ist die Prozession beim Wanser-Kirchlein in Walten im Passeiertal. Dort wird seit 200 Jahren bei einem volkstümlichen Umzug mit einer lebensgroßen Statue das Leiden des Wasserpatrons nachgestellt und für Wettersegen gebetet.</desc>
+  </programme>
+  <programme start="20240620221000 +0200" stop="20240620223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240621180000 +0200" stop="20240621184437 +0200" channel="Rai Südtirol">
+    <title>Der Landesforstdienst</title>
+    <sub-title>Mehr als nur Waldhüter</sub-title>
+    <desc>Forsträte, Förster und Forstarbeiter sind mehr als nur Waldhüter, denn tagtäglich arbeiten sie für die Erhaltung, nachhaltige Nutzung und Pflege der grünen Lebensräume. Ein Film von Christoph Wieser.
+Dabei werden die Mitarbeiter:innen im Landesforstdienst durch Naturereignisse und klimatische Veränderungen ständig aufs Neue gefordert. 
+Ihre Arbeit ist sehr vielfältig: Sie bewältigen über hundert unterschiedliche Arbeiten und Kontrollen - vom Bäumefällen bis zur Verwaltungsstrafe für Pilzklauber.</desc>
+  </programme>
+  <programme start="20240621184400 +0200" stop="20240621185818 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Der Fennberger Klettersteig</sub-title>
+    <desc>Von Margreid hinauf auf den Fennberg entstand 1976 der erste und einzige talnahe Klettersteig im Unterland. Damals organisiert von der AVS-Ortsstelle Margreid, wo viele Mitglieder ehrenamtlich mitangepackt hatten. Vor einem Jahr musste der Fennerberger Klettersteig saniert werden - mit einer Ausschreibung, einem Bauplan und einem genauen Sicherheitskonzept. Die Erbauer von damals ziehen Vergleiche zwischen früher und heute.</desc>
+  </programme>
+  <programme start="20240621200000 +0200" stop="20240621202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240621202100 +0200" stop="20240621210000 +0200" channel="Rai Südtirol">
+    <title>Das Thema</title>
+    <sub-title>Gesundheitstourismus</sub-title>
+    <desc>Viele Menschen nehmen weite Reisen auf sich, um Heilung und medizinische Versorgung zu erhalten. Filmemacher Andreas Niederkofler hat sich in Ungarn, Albanien, aber auch in Südtirol informiert.
+
+Helmuth Aschbacher aus St. Georgen hat sich darauf spezialisiert, Südtiroler zu einer Zahnklinik am Plattensee in Ungarn zu chauffieren. Wir begleiten ihn auf seiner Reise. 
+Ein weiterer Schauplatz der Reportage ist Tirana, die Hauptstadt Albaniens. Dort fährt der Pustertaler Gynäkologe Bruno Engl einmal im Monat hin, um den Babywunsch vieler einheimischer und ausländischer Paare zu erfüllen. 
+Doch auch Südtirol ist eine begehrte Destination für viele, die medizinische Betreuung in Anspruch nehmen. Im Gesundheitszentrum Adler Balance in St. Ulrich verbinden Besucher:innen ihren Urlaub mit einem umfassenden Gesundheitscheck.  
+Warum nehmen Menschen für ihre Gesundheit weite Reisen in Kauf? Dieser Frage geht unsere Reportage auf den Grund und beleuchtet die verschiedenen Facetten des Gesundheitstourismus.</desc>
+  </programme>
+  <programme start="20240621210000 +0200" stop="20240621214404 +0200" channel="Rai Südtirol">
+    <title>Die Donau</title>
+    <sub-title>Gedächtnis eines Kontinents Teil 2</sub-title>
+    <desc>Von ihrem Weg von Westen nach Osten durchquert die Donau ganz Mitteleuropa. Sie formte Landschaften und schuf einzigartige Naturräume. Sie ist eine Lebensader, die gleichermaßen verbindet wie trennt. Als Handelsroute sorgte sie für regen Austausch, in Kriegszeiten war sie Schauplatz vieler Konflikte. Die große Geschichte Mitteleuropas wird verknüpft mit den persönlichen Schicksalen von Menschen, die mit und an der Donau leben.</desc>
+  </programme>
+  <programme start="20240621214400 +0200" stop="20240621215926 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Klettern im Tschamintal</sub-title>
+    <desc>Klettern - Abenteuer oder Breitensport? Die Bewegung in der Vertikalen - sie fasziniert immer mehr Menschen. Aber der Zugang ist sehr unterschiedlich. Thomas Hainz begleitet begleitet zwei Alpinkletterer aus Tiers zu abgelegenen Dolomit-Routen oberhalb der Grasleitenhütte im Tschamintal in Tiers.</desc>
+  </programme>
+  <programme start="20240621221000 +0200" stop="20240621223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240622175900 +0200" stop="20240622183006 +0200" channel="Rai Südtirol">
+    <title>Johann von Nepomuk</title>
+    <sub-title>Brückenheiliger und Wasserpatron</sub-title>
+    <desc>Der aus Böhmen stammende Johann von Nepomuk ist bekannt als Schutzheiliger gegen Wassergefahr. Rund um sein Leben und seinen Märtyrertod im Fluss Moldau ranken sich viele Legenden. Im gesamten Habsburgerreich wurde er seit dem 18. Jahrhundert stark verehrt. Auch in Südtirol gibt es ihm zu Ehren viele Kapellen und Kirchen, sowie Statuen an Brücken und Bächen. Am berühmtesten ist die Prozession beim Wanser-Kirchlein in Walten im Passeiertal. Dort wird seit 200 Jahren bei einem volkstümlichen Umzug mit einer lebensgroßen Statue das Leiden des Wasserpatrons nachgestellt und für Wettersegen gebetet.</desc>
+  </programme>
+  <programme start="20240622183000 +0200" stop="20240622185930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Evelyn Kirchmaier</sub-title>
+    <desc>Moderator Markus Frings begrüsst diesmal die Eggentalerin Evelyn Kirchmaier, Generaldirektorin der Firma Markas und Chefin von über 12.000 Mitarbeiter:innen. 
+Kirchmaier erzählt, warum sie den Journalismus hinter sich gelassen hat, um in den Familienbetrieb einzusteigen, und welche Herausforderungen und Chancen dieser bedeutende Schritt mit sich brachte. Wir erfahren auch von ihr, wie es ist, mit dem eigenen Mann in einer Firma zusammenzuarbeiten und wie die zweifache Mutter Privates und Berufliches erfolgreich voneinander trennt. Zusätzlich zu ihrer Rolle bei Markas ist Evelyn Kirchmaier auch Vizepräsidentin im Unternehmerverband Südtirol und zweifache Mutter.</desc>
+  </programme>
+  <programme start="20240622200000 +0200" stop="20240622202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240622202100 +0200" stop="20240622202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240622202500 +0200" stop="20240622204930 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Zu Besuch in der Tierwelt Rainguthof oberhalb Tisens, die Intelligenz des Hausschweins, die Kommunikation des Hundes - darüber berichtet Pluto im Juni.
+
+Zu Beginn war es ein kleiner Tierpark, errichtet aus Liebe zu den Tieren. Heute ist  die Tierwelt Rainguthof zu einem Anziehungspunkt für Familien geworden, weil man unterschiedliche Tiere aus nächster Nähe erleben kann. Was es heißt, eine so große Tierfamilie täglich zu versorgen, zeigt uns der Gründer der Tierwelt Rainguthof.
+Das Schwein ist eines der intelligentesten Tiere. Richtig gehalten und erzogen, können Schweine verspielte und anhängliche Haustiere sein. Wir haben auf einem Südtiroler Bauernhof einen genaueren Blick auf das oft gering geschätzte Haustier geworden und wurden überrascht.
+Verhaltenstierärztin Dr. Luisa Demattio spricht über die Kommunikation des Hundes und wie wichtig es für ihn ist, die Notwendigkeit des Kontakts zu anderen Hunden.
+Wir bringen außerdem allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend ein neues Zuhause suchen.</desc>
+  </programme>
+  <programme start="20240622221000 +0200" stop="20240622223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
