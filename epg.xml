@@ -4,60 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240614180000 +0200" stop="20240614182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Endlich Ferien! Auf in den Urlaub! Wie entspannen Sie am besten? Wir haben uns in Südtirol umgehört, was sich die Menschen unter Urlaub vorstellen. Es moderiert Magdalena Oberstaller.  
-Einige freuen sich auf das Meer, andere bleiben lieber zu Hause und entspannen am Berg oder an einem See. Es gibt ihn also nicht DEN Urlaub. Oder doch? Was sind die Trends und wo zieht es die Menschen im Sommer hin? 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol - außerdem begleiten wir unseren mobilen Reporter Philipp Bologna auf seiner letzten Tour durch Südtirol.</desc>
-  </programme>
-  <programme start="20240614182900 +0200" stop="20240614185238 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Wie geht Verhütung heute?</sub-title>
-    <desc>Gesundheitsbefragungen der letzten Jahre haben ergeben, dass der Trend weg von der Pille geht, vor allem unter den jungen Menschen. Trifft das auch in Südtirol zu? Wie wird heute verhütet?
-Dieser Frage geht Ursula Oberschmied in der Gesundheitsreportage nach. Sie spricht mit erfahrenen Gynäkologinnen, besucht eine Oberschulklasse beim Sexual-Workshop, spricht mit Müttern und geht auch einigen Irrtümern auf den Grund. Zudem werden die gängisten Methoden der Empfängnisverhütung auf den Prüfstand gestellt.</desc>
-  </programme>
-  <programme start="20240614185300 +0200" stop="20240614185819 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders: Ava Hausmann</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240614200000 +0200" stop="20240614202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240614202100 +0200" stop="20240614210537 +0200" channel="Rai Südtirol">
-    <title>Der Landesforstdienst</title>
-    <sub-title>Mehr als nur Waldhüter</sub-title>
-    <desc>Forsträte, Förster und Forstarbeiter sind mehr als nur Waldhüter, denn tagtäglich arbeiten sie für die Erhaltung, nachhaltige Nutzung und Pflege der grünen Lebensräume. Ein Film von Christoph Wieser.
-
-Dabei werden die Mitarbeiter:innen im Landesforstdienst durch Naturereignisse und klimatische Veränderungen ständig aufs Neue gefordert. 
-Ihre Arbeit ist sehr vielfältig: Sie bewältigen über hundert unterschiedliche Arbeiten und Kontrollen - vom Bäumefällen bis zur Verwaltungsstrafe für Pilzklauber.</desc>
-  </programme>
-  <programme start="20240614210500 +0200" stop="20240614214947 +0200" channel="Rai Südtirol">
-    <title>Die Donau</title>
-    <sub-title>Gedächtnis eines Kontinents Teil 1</sub-title>
-    <desc>Von ihrem Weg von Westen nach Osten durchquert die Donau ganz Mitteleuropa. Sie formte Landschaften und schuf einzigartige Naturräume. Sie ist eine Lebensader, die gleichermaßen verbindet wie trennt. Als Handelsroute sorgte sie für regen Austausch, in Kriegszeiten war sie Schauplatz vieler Konflikte.
-Regisseur Bernhard Riener Riener reiste ein Jahr lang zwischen Donauquelle und Donaudelta und zeichnet ein vielschichtiges Bild dieses zweitlängsten europäischen Flusses.</desc>
-  </programme>
-  <programme start="20240614215000 +0200" stop="20240614215700 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title/>
-    <desc>Online-Einschreibungen, Arzttermine und Befunde - diese Dinge gehören mittlerweile zu unserem Alltag. Doch wo landen unsere digitalen Daten und wie sicher sind sie vor Cyberangriffen? 
-Bis Ende 2026 soll ein neues, einheitliches Datenzentrum entstehen, das den höchsten
-Sicherheitsansprüchen entspricht. Insgesamt werden dann 11,2 Petabyte an Daten an einem Ort gesammelt werden. Die Fernsehreihe &quot;Südtirol digital&quot; informiert.</desc>
-  </programme>
-  <programme start="20240614215700 +0200" stop="20240614215929 +0200" channel="Rai Südtirol">
-    <title>Kleine Museen - große Geschichten</title>
-    <sub-title>Holzwege und Schneiderhaggele</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240614221000 +0200" stop="20240614223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240615175900 +0200" stop="20240615182830 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -288,6 +234,27 @@ Verhaltenstierärztin Dr. Luisa Demattio spricht über die Kommunikation des Hun
 Wir bringen außerdem allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend ein neues Zuhause suchen.</desc>
   </programme>
   <programme start="20240622221000 +0200" stop="20240622223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240623200000 +0200" stop="20240623202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240623202000 +0200" stop="20240623204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Staben</sub-title>
+    <desc>Seit der Eröffnung der Tunnelumfahrung hat das Vinschger Dorf Staben an Lebensqualität gewonnen, auch die Lage direkt am Vinschger Radweg tragen zum ständigen Wachsen der Fraktion bei. 
+Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquelle 1892 &quot;äußerst heilkräftige&quot; Wirkung zugeschrieben wurde. Im Jahre 2012 wurde die Quellfassung saniert und eine Ruheoase am Quellwasser gestaltet. Das Wasser und der Waal spielen im Vinschgau eine bedeutende Rolle, während der Verein &quot;Freunde der Eisenbahn&quot; besonders stolz auf seinen Landessitz am Bahnhof in Staben ist. Dieser Erlebnisbahnhof wird von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses Bahnhofes während der Donaumonarchie.</desc>
+  </programme>
+  <programme start="20240623204500 +0200" stop="20240623204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240623221000 +0200" stop="20240623223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
