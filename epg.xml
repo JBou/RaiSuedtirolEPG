@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240615175900 +0200" stop="20240615182830 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Diesmal geht es um Innovation speziell im Südtiroler Lebensmittelbereich. Wir erfahren unter anderem, wie alkoholfreier Wein entsteht und wie er beim Publikum ankommt.
-Bei Wein und Bier wird üblicherweise mehr auf die Tradition in der Produktion gesetzt. Zumindest wird in der Vermarktung dieser Produkte gerne darauf verwiesen, dass die Produktion noch vor hunderten oder gar tausenden Jahren schon so abgelaufen ist wie heute. Alkoholfreie Biere gibt es schon länger, aber alkoholfreie Weine sind erst sehr kurz auf dem Markt. Trend hat sich umgeschaut und bei Experten nachgefragt, wie solche Weine zustande kommen und welches Potential diesen Produkten zugedacht wird.
-Trend berichtet auch über Innovationen bei anderen handwerklich und industriell erzeugten Lebensmitteln. Moderation: Christian Pfeifer.</desc>
-  </programme>
-  <programme start="20240615182800 +0200" stop="20240615185730 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Versteinerte Muschelarten, die das größte Massensterben in der Erdgeschichte überlebt haben, Entwicklungspotential für klimaneutrale Landwirtschaft, Kreuz-Züchtungen gegen Apfelschorf. 
-Das größte Massensterben in der Erdgeschichte fand vor 250 Millionen Jahren statt. Der Grödner Paläontologe Herwig Prinoth hat mehrere Muschelarten entdeckt, die diese Katastrophe überraschenderweise überstanden haben. 
-Wir kann man in der Landwirtschaft die Vorgaben der EU umsetzen und ab 2030 klimaneutral wirtschaften? Die Freie Universität Bozen hat eine Studie durchgeführt, die das Entwicklungspotential aufzeigt. 
-Der Schorf ist ein Pilz, der Apfelbäume befällt und mit Pflanzenschutzmitteln bekämpft wird. Resistente Apfelsorten gibt es bereits. Das Versuchszentrum Laimburg erhofft sich viel von den eigenen Kreuz-Züchtungen, die erste Erfolge erzielen.</desc>
-  </programme>
-  <programme start="20240615200000 +0200" stop="20240615202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240615202100 +0200" stop="20240615202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240615202500 +0200" stop="20240615204930 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Im Fernsehmagazin Alpen Donau Adria bildet diesmal die  Kunst unter freiem Himmel einen Themenschwerpunkt: Land Art kennt man mittlerweile, aber was ist Out Door-Painting? 
-
-Moderatorin Sigrid Flenger schaut dem Land Art-Künstler Jan Langer in Grissian über die Schulter. Er malt mit Mohnblumen ein Gemälde auf einen Felsen. 
-Eine Bodypainterin aus Trient verwendet Naturfarben aus dem brasilianischen Regenwald für die Körperbemalung. Eine bayerische Out Door-Malerin ist überzeugt, dass die Künstler:innen von heute ihre Arbeitsprozesse dokumentieren und veröffentlichen müssen, um ihre Bilder erfolgreich zu verkaufen.</desc>
-  </programme>
-  <programme start="20240615221000 +0200" stop="20240615223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240616200000 +0200" stop="20240616202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
