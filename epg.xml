@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240616200000 +0200" stop="20240616202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240616202100 +0200" stop="20240616205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Evelyn Kirchmaier</sub-title>
-    <desc>Moderator Markus Frings begrüsst diesmal die Eggentalerin Evelyn Kirchmaier, Generaldirektorin der Firma Markas und Chefin von über 12.000 Mitarbeiter:innen. 
-
-Kirchmaier erzählt, warum sie den Journalismus hinter sich gelassen hat, um in den Familienbetrieb einzusteigen, und welche Herausforderungen und Chancen dieser bedeutende Schritt mit sich brachte. Wir erfahren auch von ihr, wie es ist, mit dem eigenen Mann in einer Firma zusammenzuarbeiten und wie die zweifache Mutter Privates und Berufliches erfolgreich voneinander trennt. Zusätzlich zu ihrer Rolle bei Markas ist Evelyn Kirchmaier auch Vizepräsidentin im Unternehmerverband Südtirol und zweifache Mutter.</desc>
-  </programme>
-  <programme start="20240616205000 +0200" stop="20240616205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240616221000 +0200" stop="20240616223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240617180000 +0200" stop="20240617181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
