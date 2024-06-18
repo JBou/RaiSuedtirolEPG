@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240617180000 +0200" stop="20240617181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Die zweite Serie-B-Saison des FC Südtirol ist Geschichte. Die Weiß-Roten haben auch heuer eine starke Meisterschaft gespielt und vorzeitig den direkten Klassenerhalt geschafft. Außerdem ist es den Weiß-Roten gelungen, im Lande das Fußball-Fieber zu entfachen. Wir ziehen Bilanz und blicken gleichzeitig nach vorne, auf die ambitionierten Ziele der kommenden Saison.</desc>
-  </programme>
-  <programme start="20240617181400 +0200" stop="20240617182956 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Klettern im Tschamintal</sub-title>
-    <desc>Klettern - Abenteuer oder Breitensport? Die Bewegung in der Vertikalen - sie fasziniert immer mehr Menschen. Aber der Zugang ist sehr unterschiedlich. Thomas Hainz begleitet begleitet zwei Alpinkletterer aus Tiers zu abgelegenen Dolomit-Routen oberhalb der Grasleitenhütte im Tschamintal in Tiers.</desc>
-  </programme>
-  <programme start="20240617183000 +0200" stop="20240617185430 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Im Fernsehmagazin Alpen Donau Adria bildet diesmal die  Kunst unter freiem Himmel einen Themenschwerpunkt: Land Art kennt man mittlerweile, aber was ist Out Door-Painting? 
-Moderatorin Sigrid Flenger schaut dem Land Art-Künstler Jan Langer in Grissian über die Schulter. Er malt mit Mohnblumen ein Gemälde auf einen Felsen. 
-Eine Bodypainterin aus Trient verwendet Naturfarben aus dem brasilianischen Regenwald für die Körperbemalung. Eine bayerische Out Door-Malerin ist überzeugt, dass die Künstler:innen von heute ihre Arbeitsprozesse dokumentieren und veröffentlichen müssen, um ihre Bilder erfolgreich zu verkaufen.</desc>
-  </programme>
-  <programme start="20240617200000 +0200" stop="20240617202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240617202000 +0200" stop="20240617215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Südtirol - Gehen oder Bleiben?</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Jetzt waschen die Jungen uns den Kopf. Im Land der Macher fordern sie: Wir wollen es anders machen - oder wir gehen. &quot;Nachgeschaut&quot; live aus dem Innovationsviertel NOI in Bozen.
-
-Jedes Jahr kehren 1.000 Junge Südtirol den Rücken, und Südtirol dämmert, dass es Teil der mobilen Welt ist. Der Westen beginnt: Vinschgau - Gehen oder Bleiben. Im Film zeigen acht Protagonist:innen, welche Lebensmodelle die Jungen zurückbringen.
-Es ist Zeit loszulassen. Übergeben wir das Land an die nächste Generation. Aber wie machen wir es gut? Und wie bleiben wir mit jenen in Kontakt, die nicht zurückkommen wollen? 
-Es diskutieren Daria Habicher, Koordinatorin des PNRR-Projekts &quot;Stilfs - Resilienz erzählen&quot;, die Steinmetzin Annalena Tappeiner, Monica Devilli, Präsidentin des Coopbund Südtirol, und Südstern-Präsident Hermann Winkler. Im Interview: die Filmemacherin Sarah Trevisiol und Markus Weishaupt, ein Spezialist für Nachfolgeregelung in Unternehmen. 
-Gabriele Crepaz moderiert live aus dem Innovationsviertel NOI in Bozen.</desc>
-  </programme>
-  <programme start="20240617221000 +0200" stop="20240617223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240618200000 +0200" stop="20240618202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
