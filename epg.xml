@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240618200000 +0200" stop="20240618202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240618202000 +0200" stop="20240618203600 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch</sub-title>
-    <desc>Eine neue Talkshow, bei der die Sichtweise des Gegenübers möglichst korrekt wiedergegeben werden soll. Wenn nicht, dann fällt ein nachgebildeter Kuhfladen auf den Tisch. 
-
-Zwei Menschen mit unterschiedlichen Meinungen werden zu aktuellen Streitfragen eingeladen. Im Fokus stehen Konfliktlinien, die Südtirol durchziehen. Den Anfang machen Brigitte Foppa und Sven Knoll. Sie diskutieren über Migration, zweisprachige Schulen und übers Gendern.</desc>
-  </programme>
-  <programme start="20240618203600 +0200" stop="20240618205030 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Die zweite Serie-B-Saison des FC Südtirol ist Geschichte. Die Weiß-Roten haben auch heuer eine starke Meisterschaft gespielt und vorzeitig den direkten Klassenerhalt geschafft. Außerdem ist es den Weiß-Roten gelungen, im Lande das Fußball-Fieber zu entfachen. Wir ziehen Bilanz und blicken gleichzeitig nach vorne, auf die ambitionierten Ziele der kommenden Saison.</desc>
-  </programme>
-  <programme start="20240618221000 +0200" stop="20240618223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240619200000 +0200" stop="20240619202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
