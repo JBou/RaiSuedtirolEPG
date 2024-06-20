@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240619200000 +0200" stop="20240619202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240619202000 +0200" stop="20240619204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die &quot;Femminielli&quot; , eine jahrhundertealte Form von Transgender in Neapel, die EU-Wahlen aus Minderheitensicht, die Reform des marokkanischen Familienrechts. Moderation: Christina Khuen.
-
-Der bekannte neapolitanische Fotoreporter Luciano Ferrara hat im Lauf seiner Karriere viele Stars und Minderheiten porträtiert. Über mehrere Jahrzehnte auch eine besondere Minderheit seiner Heimatstadt: die &quot;Femminielli&quot;. In Neapel gehören sie zum kulturellen Erbe. Es sind Menschen, die beides sind, Mann wie Frau. Ihre Ursprünge reichen zurück bis in die griechische Mythologie. Minet hat Luciano Ferrara in seinem Wohnungsatelier einen Besuch abgestattet. 
-Marokko reformiert sein Familienrecht, weil es nicht den Anforderungen der progressiven Verfassung entspricht, die das Land sich 2011 gegeben hat. Es diskriminiert verwitwete, geschiedene oder alleinerziehende Frauen und erlaubt - wenn auch unter Bedingungen - Kinderehen und Polygamie. Ein großer Schritt für diesen islamischen Staat. 
-Im Minet-Gespräch ist Verena Wisthaler vom Institut für Minderheitenrecht an der Eurac zu Gast. Mit ihr analysiert Christina Khuen die EU-Wahlen aus Minderheitensicht. 
-Minet feiert außerdem ein kleines Jubiläum: Im Juni 2004 ist die erste Minet-Ausgabe auf Sendung gegangen. Wir blicken zurück auf 20 Jahre Minderheitenberichterstattung und informieren im Minet-Telegramm über aktuelle Themen rund um Minderheiten.</desc>
-  </programme>
-  <programme start="20240619221000 +0200" stop="20240619223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240620200000 +0200" stop="20240620202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -136,6 +116,165 @@ Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquel
     <desc/>
   </programme>
   <programme start="20240623221000 +0200" stop="20240623223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240624180000 +0200" stop="20240624183443 +0200" channel="Rai Südtirol">
+    <title>Die Reportage</title>
+    <sub-title>Retter aus Leidenschaft</sub-title>
+    <desc>Sie stellen ihre Freizeit in den Dienst aller und manchmal begeben sie sich selbst in Gefahr, um andere zu retten: die Helfer:innen vom Weißen Kreuz. Wir sind zu Besuch in der Sektion Bruneck.
+&quot;Die Weißen&quot;, wie sie bei uns in Südtirol genannt werden, sind oft die ersten an der Unfallstelle,
+bringen Kranke zur Behandlung ins Spital und sind immer dann zur Stelle, wenn Menschen in Not sind. Filmemacher Andreas Niederkofler hat der Sektion Bruneck einen Besuch abgestattet und wollte wissen, wer die Personen hinter der Uniform sind und was sie so am Rettungsdienst fasziniert. Die Reportage gewährt einen exklusiven Einblick in den vielfältigen Alltag der Lebensretter aus Leidenschaft.</desc>
+  </programme>
+  <programme start="20240624183400 +0200" stop="20240624185830 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Zu Besuch in der Tierwelt Rainguthof oberhalb Tisens, die Intelligenz des Hausschweins, die Kommunikation des Hundes - darüber berichtet Pluto im Juni.
+Zu Beginn war es ein kleiner Tierpark, errichtet aus Liebe zu den Tieren. Heute ist  die Tierwelt Rainguthof zu einem Anziehungspunkt für Familien geworden, weil man unterschiedliche Tiere aus nächster Nähe erleben kann. Was es heißt, eine so große Tierfamilie täglich zu versorgen, zeigt uns der Gründer der Tierwelt Rainguthof.
+Das Schwein ist eines der intelligentesten Tiere. Richtig gehalten und erzogen, können Schweine verspielte und anhängliche Haustiere sein. Wir haben auf einem Südtiroler Bauernhof einen genaueren Blick auf das oft gering geschätzte Haustier geworden und wurden überrascht.
+Verhaltenstierärztin Dr. Luisa Demattio spricht über die Kommunikation des Hundes und wie wichtig es für ihn ist, die Notwendigkeit des Kontakts zu anderen Hunden.
+Wir bringen außerdem allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend ein neues Zuhause suchen.</desc>
+  </programme>
+  <programme start="20240624200000 +0200" stop="20240624202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240624202000 +0200" stop="20240624212055 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der Schauspieler Julian Pichler im Porträt, &quot;Brot&quot; bei den Meraner Festspielen, ein Rückblick auf Asfaltart, die Biennale Gherdëina, ein Nachruf auf den Bildhauer Herbert Meusburger.
+
+Der junge Schauspieler Julian Pichler ist bei den Rittner Sommerspielen groß geworden und nach der Ausbildung in Deutschland nach Südtirol zurückgekehrt. Bei den Freilichtspielen Lana spielt er heuer den Hauptdarsteller in &quot;Shakespeare in Love&quot;.
+Die Meraner Festspiele präsentieren die Uraufführung der Festspielversion des Schauspiels „Brot“. Autor Luis Zagler beleuchtet darin in zeitgenössischer Dramatik den bergbäuerlichen Kampf um Existenz.
+Über 200 Aufführungen, Konzerte und Performances waren diesmal bei Asfaltart zu sehen. Es war bereits die 18. Ausgabe des Straßenkunstfestivals. Für Meran Jahr für Jahr ein besonderes Datum, das die gesamte Stadt in Freude und Gelassenheit taucht.
+Bis zum 1. September stehen bei der Biennale Gherdëina drei Themenbereiche im Mittelpunkt: das Wilde als kreative Dimension, die vielfachen Verwandtschaften zwischen den Arten und der Berg als Ort der Begegnung. 
+Im vergangenen Jahr ist der Vorarlberger Bildhauer Herbert Meusburger verstorben. Seine künstlerischen Anfänge liegen in der Holzschnitzkunst. Das Thema &quot;Trennen und Verbinden&quot; zieht sich wie ein roter Faden durch sein Œuvre. Auch in Südtirol sind Arbeiten von ihm im öffentlichen Raum zu sehen. Ein Nachruf. 
+Zu Gast im Gespräch sind der Schauspieler Georg Kaser und der künstlerische Leiter von Tanz Bozen, Emanuele Masi.</desc>
+  </programme>
+  <programme start="20240624212100 +0200" stop="20240624214318 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Wie gute Autofahrer:innen sind wir hier in Südtirol, warum sind junge Männer die größte Gefahrenquelle auf der Straße und in welchen Situationen ist das Unfallrisiko bei Frauen am höchsten?
+
+Wir meistern unsere Bergstraßen mit Eleganz, schlängeln uns durch den Stadtverkehr und treten oft stark aufs Gaspedal, auch wenn wir es nicht sollten. Ja, sind wir nicht gut am Steuer? Trotzdem gibt es in Italien mehr Verkehrstote als beispielsweise in der Schweiz, in Deutschland oder in Schweden. Simone Mayr und Angelika König gehen der Frage nach, wie gut wir Südtiroler:innen am Steuer sind und geben dabei nicht nur Zwischengas, sondern versuchen auch Vollgas zu geben. Sie besuchen den Safety Park in Pfatten, probieren mit ihrer 48jährigen Alfa Giulia eine brenzlige Fahrsituation aus und begleiten ein &quot;Traktor-Training&quot;.</desc>
+  </programme>
+  <programme start="20240624214300 +0200" stop="20240624215800 +0200" channel="Rai Südtirol">
+    <title>Museum Juval</title>
+    <sub-title>Einblicke in Südtiroler Museen</sub-title>
+    <desc>Das MMM Juval ist in der gleichnamigen Burg von Bergsteigerlegende Reinhold Messner am Eingang ins Schnalstal zu besichtigen.
+Das Museum ist dem Mythos Berg gewidmet. Hier sind Messners umfangreiche Abenteuer-Bibliothek und die Tibetika-Sammlung untergebracht. Eine Bildergalerie zu den heiligen Bergen der Welt und die Maskensammlung aus fünf Kontinenten geben faszinierende Einblicke in fremde Welten. 
+Bergliebhaber sind vor allem vom Expeditionskeller angetan. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240624221100 +0200" stop="20240624223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240625200000 +0200" stop="20240625202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240625202000 +0200" stop="20240625203600 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch 2</sub-title>
+    <desc>Religion und Atheismus - &quot;Nun sag, wie hast du's mit der Religion?&quot; Auch wenn der Einfluss der Kirche schwindet und immer weniger Menschen an Gott glauben, bleibt diese Gretchenfrage hochaktuell. 
+
+In der zweiten Folge von Bullshit! liefern sich der gläubige Katholik und Theologiestudent Benjamin Oester und der überzeugte Atheist Adam Dalpiaz eine hitzige Debatte. Sie sprechen über Glaube, Irrglaube und Unglaube und setzen sich dabei mit einigen kontroversen Fragen auseinander: Sind religiöse Menschen Egoisten? Kann ein Atheist langfristig glücklich sein? Und wer von den beiden hat denn nun mehr Angst vor dem Tod?</desc>
+  </programme>
+  <programme start="20240625203600 +0200" stop="20240625204737 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Die Grauner Wände</sub-title>
+    <desc>An talnahen Porphyrfelsen oberhalb von Kurtatsch kann man schon früh im Jahr klettern. Bergwelt-Moderator Thomas Hainz begleitet Traminer Bergsteiger beim Einrichten neuer Sportkletter-Routen - an den Grauner Wänden - direkt vor der eigenen Haustüre.</desc>
+  </programme>
+  <programme start="20240625221000 +0200" stop="20240625223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240626200000 +0200" stop="20240626202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240626202000 +0200" stop="20240626204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wie sich Landwirtschaft und Tourismus gegenseitig stärken können, wie sich Weinbauern und Kellereien den Klimafragen stellen, wie sich die Goaßl zu einem begehrten Sportgerät entwickelt hat.
+
+Die Zusammenarbeit zwischen Bauern und Gastwirten im hinteren Ahrntal läuft seit Jahren erfolgreich. So beliefert der Biobauer vom Künighof die lokale Gastronomie mit Fleisch aus Mutterkuhhaltung, und die Biobäuerin vom Oberleitenhof produziert Jogurt und Topfen für das nahe Hotel. Solche Beispiele fruchtbarer Zusammenarbeit auf lokaler Ebene zeigt das Projekt &quot;Zu Gast bei Pionieren&quot; auf, das über die IDM-Plattform TourisMut organisiert wird und Interessierte bei Betriebsbesuchen zusammenführt. Für Land&amp;Leben haben wir die Gruppe begleitet. 
+Weitere Themen beschäftigen sich mit umwelt- und ressourcenschonender Weinproduktion und mit dem traditionellen Arbeitsgerät der Hirten, mit der Goaßl, die heute wieder viele Menschen begeistert. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240626221000 +0200" stop="20240626223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240627200000 +0200" stop="20240627202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240627202000 +0200" stop="20240627204930 +0200" channel="Rai Südtirol">
+    <title>Verliebt in Indien</title>
+    <sub-title>In memoriam Martha Lechthaler</sub-title>
+    <desc>Die Pflegedienstleiterin wollte sie sich nur eine berufliche Auszeit nehmen. Doch dann verliebte sich Martha Lechthaler in das Land Indien - und traf dort auch noch die Liebe ihres Lebens. 
+
+Martha Lechthaler, geboren 1953, mietete sich ein Haus in Südindien, botHeilmassagen an und begegnete schließlich ihrem späteren Mann; er ist um 17 Jahre jünger als sie. 
+Im Sommer, wenn in Indien Regenzeit herrscht, kam Martha mit ihrem Mann Ranjeet zur Apfelernte nach Südtirol. Trotz kultureller Unterschiede konnten sie offenbar eine Reihe von Hindernissen und Grenzen überwinden.
+Die Filmemacher Astrid Kofler und Helmut Lechthaler hatten die beiden in ihrer indischen Heimatstadt besucht. 
+Martha Lechthaler starb am 11.Mai Mai im Alter von 71 Jahren.</desc>
+  </programme>
+  <programme start="20240627221000 +0200" stop="20240627223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240628180000 +0200" stop="20240628184723 +0200" channel="Rai Südtirol">
+    <title>Im Herzen die Berge</title>
+    <sub-title>Starke Frauen in den Dolomiten</sub-title>
+    <desc>Die Dolomiten sind Heimat verschiedenster Pionierinnen. Frauen, die sich nicht in Schubladen
+stecken lassen, sondern alles riskieren, um ihr Leben so zu leben, wie sie es selbst wollen. 
+Eine von ihnen ist Tamara Lunger. Die Extrem-Skibergsteigerin und Kletterin weiss, wie schwer
+es auch heute noch ist, sich als Frau einen Namen in der Bergsteiger-Szene zu machen. 
+Die Engländerin Amelia Edwards konnte sich 1872 endlich ihren lang gehegten Traum erfüllen.
+Gemeinsam mit einer Freundin - damals skandalös - erkundete sie in einer mehrwöchigen Reise
+die Region. Sie wurde zum Vorbild für viele junge Frauen. Die Geschichten über Geheimnisse zwischen den kahlen Wänden der Dolomiten haben die
+Schwestern Marlene und Elisabeth Schuen der bekannten Musikgruppe &quot;Ganes&quot; seit der Kindheit
+in ihren Bann gezogen. Und noch heute bringt sie ihre Musik immer wieder zurück in ihre Heimat.
+Auch die Hirtin Michaela Prister auf dem Tierser Alpl lebt im Einklang mit den Dolomiten. Silvia
+Summa, damals erste eingetragene Bergführerin in Südtirol, lässt sich auch als Mutter von drei
+Kindern nicht von den Bergen fernhalten.</desc>
+  </programme>
+  <programme start="20240628184700 +0200" stop="20240628185532 +0200" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Sabina Kasslatter Mur</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240628200000 +0200" stop="20240628202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240628202100 +0200" stop="20240628212944 +0200" channel="Rai Südtirol">
+    <title>Niemandsland</title>
+    <sub-title>Ein Film von Reinhold Messner</sub-title>
+    <desc>In seiner Doku versucht Reinhold Messner zusammen mit Sohn Simon die spektakuläre Erstbesteigung der Marmolada-Südwand am Vorabend des Ersten Weltkrieges nachzuvollziehen. 
+Extrembergsteiger und Filmemacher Reinhold Messner lässt uns die spektakuläre Erstbegehung der Marmolada-Südwand durch die Engländerin Tomasson und die Dolomiten-Bergführer Bettega und Zagonel nacherleben. Trotz Zeitdruck, Sturm, Hagel, Steinschlag und einer vereisten Wand gelang ihre Pioniertat. Messner führt uns vom Niemandsland Berg, wo weder Recht noch Ordnung, weder Nationalität noch Geschlecht zählen, ins Niemandsland der Dolomitenfront, wo
+die Seilschaft der drei, aber auch die Freundschaft und das Vertrauen zwischen Bettega und Zagonel zerbrechen. Am Ende bürdet Zagonel seinem ehemaligen Partner eine schwere Last auf: War Bettega wirklich ein opportunistischer Verräter oder wurde er von den Italienern zur Spionage gezwungen?</desc>
+  </programme>
+  <programme start="20240628213000 +0200" stop="20240628215930 +0200" channel="Rai Südtirol">
+    <title>Verliebt in Indien</title>
+    <sub-title>In memoriam Martha Lechthaler</sub-title>
+    <desc>Die Pflegedienstleiterin wollte sie sich nur eine berufliche Auszeit nehmen. Doch dann verliebte sich Martha Lechthaler in das Land Indien - und traf dort auch noch die Liebe ihres Lebens. 
+Martha Lechthaler, geboren 1953, mietete sich ein Haus in Südindien, bot Heilmassagen an und begegnete schließlich ihrem späteren Mann; er ist um 17 Jahre jünger als sie. 
+Im Sommer, wenn in Indien Regenzeit herrscht, kam Martha mit ihrem Mann Ranjeet zur Apfelernte nach Südtirol. Trotz kultureller Unterschiede konnten sie offenbar eine Reihe von Hindernissen und Grenzen überwinden.
+Die Filmemacher Astrid Kofler und Helmut Lechthaler hatten die beiden in ihrer indischen Heimatstadt besucht. 
+Martha Lechthaler starb am 11. Mai im Alter von 71 Jahren.</desc>
+  </programme>
+  <programme start="20240628221000 +0200" stop="20240628223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
