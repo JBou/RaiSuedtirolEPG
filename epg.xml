@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240622175900 +0200" stop="20240622183006 +0200" channel="Rai Südtirol">
-    <title>Johann von Nepomuk</title>
-    <sub-title>Brückenheiliger und Wasserpatron</sub-title>
-    <desc>Der aus Böhmen stammende Johann von Nepomuk ist bekannt als Schutzheiliger gegen Wassergefahr. Rund um sein Leben und seinen Märtyrertod im Fluss Moldau ranken sich viele Legenden. Im gesamten Habsburgerreich wurde er seit dem 18. Jahrhundert stark verehrt. Auch in Südtirol gibt es ihm zu Ehren viele Kapellen und Kirchen, sowie Statuen an Brücken und Bächen. Am berühmtesten ist die Prozession beim Wanser-Kirchlein in Walten im Passeiertal. Dort wird seit 200 Jahren bei einem volkstümlichen Umzug mit einer lebensgroßen Statue das Leiden des Wasserpatrons nachgestellt und für Wettersegen gebetet.</desc>
-  </programme>
-  <programme start="20240622183000 +0200" stop="20240622185930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Evelyn Kirchmaier</sub-title>
-    <desc>Moderator Markus Frings begrüsst diesmal die Eggentalerin Evelyn Kirchmaier, Generaldirektorin der Firma Markas und Chefin von über 12.000 Mitarbeiter:innen. 
-Kirchmaier erzählt, warum sie den Journalismus hinter sich gelassen hat, um in den Familienbetrieb einzusteigen, und welche Herausforderungen und Chancen dieser bedeutende Schritt mit sich brachte. Wir erfahren auch von ihr, wie es ist, mit dem eigenen Mann in einer Firma zusammenzuarbeiten und wie die zweifache Mutter Privates und Berufliches erfolgreich voneinander trennt. Zusätzlich zu ihrer Rolle bei Markas ist Evelyn Kirchmaier auch Vizepräsidentin im Unternehmerverband Südtirol und zweifache Mutter.</desc>
-  </programme>
-  <programme start="20240622200000 +0200" stop="20240622202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240622202100 +0200" stop="20240622202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240622202500 +0200" stop="20240622204930 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Zu Besuch in der Tierwelt Rainguthof oberhalb Tisens, die Intelligenz des Hausschweins, die Kommunikation des Hundes - darüber berichtet Pluto im Juni.
-
-Zu Beginn war es ein kleiner Tierpark, errichtet aus Liebe zu den Tieren. Heute ist  die Tierwelt Rainguthof zu einem Anziehungspunkt für Familien geworden, weil man unterschiedliche Tiere aus nächster Nähe erleben kann. Was es heißt, eine so große Tierfamilie täglich zu versorgen, zeigt uns der Gründer der Tierwelt Rainguthof.
-Das Schwein ist eines der intelligentesten Tiere. Richtig gehalten und erzogen, können Schweine verspielte und anhängliche Haustiere sein. Wir haben auf einem Südtiroler Bauernhof einen genaueren Blick auf das oft gering geschätzte Haustier geworden und wurden überrascht.
-Verhaltenstierärztin Dr. Luisa Demattio spricht über die Kommunikation des Hundes und wie wichtig es für ihn ist, die Notwendigkeit des Kontakts zu anderen Hunden.
-Wir bringen außerdem allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend ein neues Zuhause suchen.</desc>
-  </programme>
-  <programme start="20240622221000 +0200" stop="20240622223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240623200000 +0200" stop="20240623202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
