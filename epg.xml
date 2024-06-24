@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240623200000 +0200" stop="20240623202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240623202000 +0200" stop="20240623204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Staben</sub-title>
-    <desc>Seit der Eröffnung der Tunnelumfahrung hat das Vinschger Dorf Staben an Lebensqualität gewonnen, auch die Lage direkt am Vinschger Radweg tragen zum ständigen Wachsen der Fraktion bei. 
-Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquelle 1892 &quot;äußerst heilkräftige&quot; Wirkung zugeschrieben wurde. Im Jahre 2012 wurde die Quellfassung saniert und eine Ruheoase am Quellwasser gestaltet. Das Wasser und der Waal spielen im Vinschgau eine bedeutende Rolle, während der Verein &quot;Freunde der Eisenbahn&quot; besonders stolz auf seinen Landessitz am Bahnhof in Staben ist. Dieser Erlebnisbahnhof wird von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses Bahnhofes während der Donaumonarchie.</desc>
-  </programme>
-  <programme start="20240623204500 +0200" stop="20240623204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240623221000 +0200" stop="20240623223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240624180000 +0200" stop="20240624183443 +0200" channel="Rai Südtirol">
     <title>Die Reportage</title>
     <sub-title>Retter aus Leidenschaft</sub-title>
