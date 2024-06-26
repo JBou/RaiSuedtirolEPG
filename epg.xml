@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240625200000 +0200" stop="20240625202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240625202000 +0200" stop="20240625203600 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch 2</sub-title>
-    <desc>Religion und Atheismus - &quot;Nun sag, wie hast du's mit der Religion?&quot; Auch wenn der Einfluss der Kirche schwindet und immer weniger Menschen an Gott glauben, bleibt diese Gretchenfrage hochaktuell. 
-
-In der zweiten Folge von Bullshit! liefern sich der gläubige Katholik und Theologiestudent Benjamin Oester und der überzeugte Atheist Adam Dalpiaz eine hitzige Debatte. Sie sprechen über Glaube, Irrglaube und Unglaube und setzen sich dabei mit einigen kontroversen Fragen auseinander: Sind religiöse Menschen Egoisten? Kann ein Atheist langfristig glücklich sein? Und wer von den beiden hat denn nun mehr Angst vor dem Tod?</desc>
-  </programme>
-  <programme start="20240625203600 +0200" stop="20240625204737 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Die Grauner Wände</sub-title>
-    <desc>An talnahen Porphyrfelsen oberhalb von Kurtatsch kann man schon früh im Jahr klettern. Bergwelt-Moderator Thomas Hainz begleitet Traminer Bergsteiger beim Einrichten neuer Sportkletter-Routen - an den Grauner Wänden - direkt vor der eigenen Haustüre.</desc>
-  </programme>
-  <programme start="20240625221000 +0200" stop="20240625223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240626200000 +0200" stop="20240626202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
