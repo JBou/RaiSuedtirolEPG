@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240626200000 +0200" stop="20240626202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240626202000 +0200" stop="20240626204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wie sich Landwirtschaft und Tourismus gegenseitig stärken können, wie sich Weinbauern und Kellereien den Klimafragen stellen, wie sich die Goaßl zu einem begehrten Sportgerät entwickelt hat.
-
-Die Zusammenarbeit zwischen Bauern und Gastwirten im hinteren Ahrntal läuft seit Jahren erfolgreich. So beliefert der Biobauer vom Künighof die lokale Gastronomie mit Fleisch aus Mutterkuhhaltung, und die Biobäuerin vom Oberleitenhof produziert Jogurt und Topfen für das nahe Hotel. Solche Beispiele fruchtbarer Zusammenarbeit auf lokaler Ebene zeigt das Projekt &quot;Zu Gast bei Pionieren&quot; auf, das über die IDM-Plattform TourisMut organisiert wird und Interessierte bei Betriebsbesuchen zusammenführt. Für Land&amp;Leben haben wir die Gruppe begleitet. 
-Weitere Themen beschäftigen sich mit umwelt- und ressourcenschonender Weinproduktion und mit dem traditionellen Arbeitsgerät der Hirten, mit der Goaßl, die heute wieder viele Menschen begeistert. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240626221000 +0200" stop="20240626223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240627200000 +0200" stop="20240627202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
