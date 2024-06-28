@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240627200000 +0200" stop="20240627202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240627202000 +0200" stop="20240627204930 +0200" channel="Rai Südtirol">
-    <title>Verliebt in Indien</title>
-    <sub-title>In memoriam Martha Lechthaler</sub-title>
-    <desc>Die Pflegedienstleiterin wollte sie sich nur eine berufliche Auszeit nehmen. Doch dann verliebte sich Martha Lechthaler in das Land Indien - und traf dort auch noch die Liebe ihres Lebens. 
-
-Martha Lechthaler, geboren 1953, mietete sich ein Haus in Südindien, botHeilmassagen an und begegnete schließlich ihrem späteren Mann; er ist um 17 Jahre jünger als sie. 
-Im Sommer, wenn in Indien Regenzeit herrscht, kam Martha mit ihrem Mann Ranjeet zur Apfelernte nach Südtirol. Trotz kultureller Unterschiede konnten sie offenbar eine Reihe von Hindernissen und Grenzen überwinden.
-Die Filmemacher Astrid Kofler und Helmut Lechthaler hatten die beiden in ihrer indischen Heimatstadt besucht. 
-Martha Lechthaler starb am 11.Mai Mai im Alter von 71 Jahren.</desc>
-  </programme>
-  <programme start="20240627221000 +0200" stop="20240627223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240628180000 +0200" stop="20240628184723 +0200" channel="Rai Südtirol">
     <title>Im Herzen die Berge</title>
     <sub-title>Starke Frauen in den Dolomiten</sub-title>
@@ -124,6 +104,169 @@ Ein Mann, der aus Teilen einer Sojus-Rakete eine Uhr baut, steht ebenso im Fokus
     <desc/>
   </programme>
   <programme start="20240630221000 +0200" stop="20240630223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240701180000 +0200" stop="20240701182935 +0200" channel="Rai Südtirol">
+    <title>Hausfassaden</title>
+    <sub-title>so unterschiedlich wie ihre Bewohner</sub-title>
+    <desc>Die typische Sgraffitomalerei entstand im 17.Jahrhundert im rätoromanischen Raum. Der Film von Günther Neumair und Helene Dietl Laganda zeigt schöne Beispiele aus dem Obervinschgau. Die Fassade ist jener Teil der Architektur, der unmittelbar mit der Umgebung kommuniziert. Die Gestaltung der Hausfassade ist Sinnbild für den Zeitgeist unterschiedlicher Epochen und für die Individualität der Hausbesitzer. Sie ändert sich im Laufe der Geschichte und behält dennoch historische Elemente bei. In besonderer Weise tut dies die Sgrafittomalerei, die Teil der rätoromanischen Baukultur ist. Im Oberen Vinschgau finden sich noch zahlreiche Beispiele dafür. Diesen sind Günther Neumair und Helene Dietl Laganda in der Dokumentation „Hausfassaden&quot; auf der Spur.&quot;</desc>
+  </programme>
+  <programme start="20240701182900 +0200" stop="20240701185546 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wie sich Landwirtschaft und Tourismus gegenseitig stärken können, wie sich Weinbauern und Kellereien den Klimafragen stellen, wie sich die Goaßl zu einem begehrten Sportgerät entwickelt hat. Die Zusammenarbeit zwischen Bauern und Gastwirten im hinteren Ahrntal läuft seit Jahren erfolgreich. So beliefert der Biobauer vom Künighof die lokale Gastronomie mit Fleisch aus Mutterkuhhaltung, und die Biobäuerin vom Oberleitenhof produziert Jogurt und Topfen für das nahe Hotel. Solche Beispiele fruchtbarer Zusammenarbeit auf lokaler Ebene zeigt das Projekt &quot;Zu Gast bei Pionieren&quot; auf, das über die IDM-Plattform TourisMut organisiert wird und Interessierte bei Betriebsbesuchen zusammenführt. Für Land&amp;Leben haben wir die Gruppe begleitet. 
+Weitere Themen beschäftigen sich mit umwelt- und ressourcenschonender Weinproduktion und mit dem traditionellen Arbeitsgerät der Hirten, mit der Goaßl, die heute wieder viele Menschen begeistert. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240701200000 +0200" stop="20240701202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240701202000 +0200" stop="20240701215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Männlich, weiblich, divers</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag. 
+
+Machtmissbrauch, toxische Männlichkeit, Hate Speech, Catcalling: Warum haben wir Angst vor Menschen, die sein wollen, wie sie sich fühlen? Und was passiert, wenn wir uns alle outen? Weil das neue Gesellschaftsmodell heißt: sein wer ich bin, männlich, weiblich, divers.
+Es diskutieren Schauspielerin Margot Mayrhofer, Körpertherapeut Philipp Hofer, Trans-Aktivist Tobias Stampfer und Katharina Crepaz, Gender- und Diversitätsforscherin an der Eurac. Im Interview: die Filmemacher Karin Duregger und Jochen Unterhofer. Es moderiert Gabriele Crepaz. Live aus dem Teatro Cristallo in Bozen.</desc>
+  </programme>
+  <programme start="20240701221000 +0200" stop="20240701223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240702200000 +0200" stop="20240702202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240702202000 +0200" stop="20240702203550 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch Folge 3</sub-title>
+    <desc>Die heutige Politik ist zweigeteilt. Linke und rechte Lager stehen sich oft unversöhnlich gegenüber. Es diskutieren SVP-Vertreterin Katharina Zeller und Melanie Mair von der Südtiroler Freiheit.
+
+Viele sprechen von einer zunehmenden Polarisierung im politischen Spektrum. Doch was prägt diese beiden Pole eigentlich, und was trennt sie voneinander? In dieser Folge setzen sich zwei Politikerinnen zusammen, um sich diesen Fragen gemeinsam zu stellen. Als Vertreterinnen von Links und Rechts diskutieren die Meraner Vizebürgermeisterin Katharina Zeller (SVP) und Melanie Mair, Jugendsprecherin der Südtiroler Freiheit, über die Grundprinzipien von Politik und räumen dabei mit einigen Missverständnissen und Vorurteilen auf.</desc>
+  </programme>
+  <programme start="20240702203600 +0200" stop="20240702204830 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Unterwegs mit Slackliner Benjamin Kofler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240702221000 +0200" stop="20240702223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240703200000 +0200" stop="20240703202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240703202000 +0200" stop="20240703204930 +0200" channel="Rai Südtirol">
+    <title>Franz Kafka</title>
+    <sub-title>&quot;Ich bin Anfang oder Ende&quot;</sub-title>
+    <desc>Franz Kafka - wer war der Schriftsteller, der herausgefallen aus jedem System scheint, und dessen Werke längst zur Weltliteratur zählen. Wir werfen einen Blick auf den Künstler, der nebenbei den Anrufbeantworter erfand, mit Reiseführern reich werden wollte und dessen Komik bis heute unterschätzt wird.</desc>
+  </programme>
+  <programme start="20240703221000 +0200" stop="20240703223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240704200000 +0200" stop="20240704202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240704202000 +0200" stop="20240704204700 +0200" channel="Rai Südtirol">
+    <title>Burg Taufers</title>
+    <sub-title>Die Festung im Ahrntal</sub-title>
+    <desc>Burg Taufers im Tauferer Ahrntal ist eine der größten Burgen Südtirols. Erbaut auf einem Felssporn ist die Burg von einer Ringmauer umgeben, die sie vor feindlichen Angriffen schützte.
+
+Als die Gründerfamilie - die Herren von Taufers - im Jahr 1340 ausstarb, wechselte die Burg mehrfach den Besitzer und blieb viele Jahrzehnte unbewohnt. Heute lassen sich verschiedene architektonische Stile erkennen: der romanische Teil, der Herren von Taufers, ein gotischer Abschnitt aus der Zeit der Bischöfe von Brixen, während die Zugbrücken und die imposanten Befestigungsanlagen aus dem 16. Jahrhundert stammen.
+Im Jahr 1977 erwarb das Südtiroler Burgeninstitut die Burg, führte umfangreiche
+Restaurierungsarbeiten durch und machte sie der Öffentlichkeit zugänglich. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240704213000 +0200" stop="20240704215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Wochen beginnen die Olympischen Sommerspiele in Paris. Unser Land schickt mit Tennis-Ass Jannik Sinner und Volleyball-Star Simone Giannelli zwei Athleten nach Frankreich, die zu den Top-Favoriten zählen und ganz heiße Medaillenanwärter sind. Der letzte Südtiroler Olympiasieger war vor 16 Jahren Geher Alex Schwazer, er holte in Peking Gold über 50 km.</desc>
+  </programme>
+  <programme start="20240704221000 +0200" stop="20240704223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240705180000 +0200" stop="20240705182930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Forderungen der Gewerkschaft an die Politik, um ein &quot;Altern in Würde&quot; zu gewährleisten, der neue Treibstoff HVO und sensor-gesteuerten Scharniere made in Südtirol.
+Die Rentnergewerkschaft im ASGB fordert die Politik auf, Maßnahmen für ein &quot;Altern in Würde&quot; zu ergreifen. Zu den zentralen Forderungen gehören bezahlbares Wohnen für Senioren, geregelte Möglichkeiten, weiterhin bestimmte Arbeiten auszuführen, ohne steuerliche Nachteile zu erfahren, und ein leichterer Zugang zum Gesundheitssystem.
+Ein neuer Treibstoff erobert den Markt: HVO, auch bekannt als XTL, stellt eine vielversprechende Alternative zu herkömmlichem Diesel dar. Wie umweltfreundlich ist dieser Treibstoff? Und wie steht es in Südtirol um die Zukunft des Wasserstoffs in der Mobilität?
+Die Innovation von Gronbach: Sensor-gesteuerte Scharniere für Gerätetüren von Backrohr oder Kühlschrank. Dieser Mechanismus revolutioniert Haushaltsgeräte und erlaubt einen grifflosen Öffnungs- und Schließvorgang.</desc>
+  </programme>
+  <programme start="20240705182900 +0200" stop="20240705185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Wochen beginnen die Olympischen Sommerspiele in Paris. Unser Land schickt mit Tennis-Ass Jannik Sinner und Volleyball-Star Simone Giannelli zwei Athleten nach Frankreich, die zu den Top-Favoriten zählen und ganz heiße Medaillenanwärter sind. Der letzte Südtiroler Olympiasieger war vor 16 Jahren Geher Alex Schwazer, er holte in Peking Gold über 50 km.</desc>
+  </programme>
+  <programme start="20240705200000 +0200" stop="20240705202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240705202100 +0200" stop="20240705212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebniswandern mit Theo Hendrich am Gereuther Höfeweg oberhalb von Brixen. Jeder Hof hat eine lange Geschichte und bietet Einblicke in die verschiedenen Lebenswelten.
+
+Durch große Anstrengungen machten Bauern von Gereuth die Wälder am Osthang des Radlsee urbar und lebten teils in armen Verhältnissen, immer jedoch im engen Wechselspiel mit der Natur. 
+Der Gereuther Höfeweg bietet Einblicke in das Leben der dortigen Bergbauern:  Eine Stallbesichtigung am Perlungerhof,  Brot backen am Gruber Hof, die &quot;Alte Säge&quot;, welche im Rahmen eines Interreg-Projektes renoviert wurde. Und oberhalb des Wegscheiderhofes steht eine kleine Kapelle, die Wanderern zugänglich ist. Den spektakulärsten Ausblick auf Brixen und die gegenüberliegende Bergkulisse hat man beim Feichterhof. Die Rundwanderung wird begleitet von Moderator Theo Hendrich gemeinsam mit der Wanderführerin Julia Hofer.</desc>
+  </programme>
+  <programme start="20240705212000 +0200" stop="20240705214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Der Tourismusverein Dorf Tirol wir 70, ein Südtiroler Hundehotel gehört zu den führenden Europas und der &quot;Ausbildungsbetrieb des Jahres&quot; - das Hotel Am Sonnenhang in Dorf Tirol. 
+Südtirol entwickelte sich in der zweiten Hälfte des vorigen Jahrhunderts zu einer wahren Tourismusdestination. Ein beliebter Urlaubsort war auch Dorf Tirol. 1954 wurde der Verschönerungsverein gegründet, es folgte das Verkehrsamt und schließlich der Tourismusverein. 70 Jahre Tourismusentwicklung - vom Bauerndorf zu einer erfolgreichen Tourismushochburg. 
+Und weiters blicken wir auf das Hundehotel Mair am Ort. Das 3-Sterne Haus hat sich auf die Fellnasen und deren Frauchen und Herrchen spezialisiert. Mit Erfolg, denn es zählt mittlerweile zu den besten in Europa.
+Im &quot;Ausbildungsbetrieb des Jahres&quot; stehen junge Menschen im Vordergrund. Es geht vor allem darum, ihre Begeisterung im Gastgewerbe zu fördern und sie auf ihrem Ausbildungsweg zu unterstützen. Wir zeigen, wie Chefkoch Thomas Kostner und Kochlehrling Matthias Waibl im Hotel &quot;Am Sonnenhang&quot; in Dorf Tirol diese Herausforderung besonders gut meistern.</desc>
+  </programme>
+  <programme start="20240705215000 +0200" stop="20240705220000 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Baumpfleger Moritz Tirler</sub-title>
+    <desc>Von klein auf liebte er das Klettern – heute ist der gebürtige Kastelruther Moritz Tirler nicht nur ein gefragter Baumpfleger, sondern auch Bergführer und Felskletterer.</desc>
+  </programme>
+  <programme start="20240705221000 +0200" stop="20240705223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240706180000 +0200" stop="20240706185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebniswandern mit Theo Hendrich am Gereuther Höfeweg oberhalb von Brixen. Jeder Hof hat eine lange Geschichte und bietet Einblicke in die verschiedenen Lebenswelten. Durch große Anstrengungen machten Bauern von Gereuth die Wälder am Osthang des Radlsee urbar und lebten teils in armen Verhältnissen, immer jedoch im engen Wechselspiel mit der Natur. 
+Der Gereuther Höfeweg bietet Einblicke in das Leben der dortigen Bergbauern:  Eine Stallbesichtigung am Perlungerhof,  Brot backen am Gruber Hof, die &quot;Alte Säge&quot;, welche im Rahmen eines Interreg-Projektes renoviert wurde. Und oberhalb des Wegscheiderhofes steht eine kleine Kapelle, die Wanderern zugänglich ist. Den spektakulärsten Ausblick auf Brixen und die gegenüberliegende Bergkulisse hat man beim Feichterhof. Die Rundwanderung wird begleitet von Moderator Theo Hendrich gemeinsam mit der Wanderführerin Julia Hofer.</desc>
+  </programme>
+  <programme start="20240706200000 +0200" stop="20240706202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240706202100 +0200" stop="20240706202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240706202500 +0200" stop="20240706205508 +0200" channel="Rai Südtirol">
+    <title>So Schmeckt die Welt</title>
+    <sub-title>Die Domenikanische Republik</sub-title>
+    <desc>Vom Rum über den Karneval bis hin zum Merengue - eine kulinarische und kulturelle Expedition durch die Dominikanische Republik, die Westhälfte der Insel Hispaniola mitten in der Karibik.
+
+Auf seinem Weg nach Amerika streifte Christoph Columbus auch die Dominikanische Republik. Im Mondschein erstrahlte eine Bucht im faszinierenden Silberschimmer. Der Name Puerto Plata - Silberner Hafen - war geboren. 
+Sinnlich, temperamentvoll und natürlich auch schmackhaft präsentiert sich der Karibikstaat. Wir entdecken die unterschiedlichen Menschen und ihre Geschichten - und damit auch ihre Seelen.</desc>
+  </programme>
+  <programme start="20240706221000 +0200" stop="20240706223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
