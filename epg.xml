@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240628180000 +0200" stop="20240628184723 +0200" channel="Rai Südtirol">
-    <title>Im Herzen die Berge</title>
-    <sub-title>Starke Frauen in den Dolomiten</sub-title>
-    <desc>Die Dolomiten sind Heimat verschiedenster Pionierinnen. Frauen, die sich nicht in Schubladen
-stecken lassen, sondern alles riskieren, um ihr Leben so zu leben, wie sie es selbst wollen. 
-Eine von ihnen ist Tamara Lunger. Die Extrem-Skibergsteigerin und Kletterin weiss, wie schwer
-es auch heute noch ist, sich als Frau einen Namen in der Bergsteiger-Szene zu machen. 
-Die Engländerin Amelia Edwards konnte sich 1872 endlich ihren lang gehegten Traum erfüllen.
-Gemeinsam mit einer Freundin - damals skandalös - erkundete sie in einer mehrwöchigen Reise
-die Region. Sie wurde zum Vorbild für viele junge Frauen. Die Geschichten über Geheimnisse zwischen den kahlen Wänden der Dolomiten haben die
-Schwestern Marlene und Elisabeth Schuen der bekannten Musikgruppe &quot;Ganes&quot; seit der Kindheit
-in ihren Bann gezogen. Und noch heute bringt sie ihre Musik immer wieder zurück in ihre Heimat.
-Auch die Hirtin Michaela Prister auf dem Tierser Alpl lebt im Einklang mit den Dolomiten. Silvia
-Summa, damals erste eingetragene Bergführerin in Südtirol, lässt sich auch als Mutter von drei
-Kindern nicht von den Bergen fernhalten.</desc>
-  </programme>
-  <programme start="20240628184700 +0200" stop="20240628185532 +0200" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Sabina Kasslatter Mur</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240628200000 +0200" stop="20240628202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240628202100 +0200" stop="20240628212944 +0200" channel="Rai Südtirol">
-    <title>Niemandsland</title>
-    <sub-title>Ein Film von Reinhold Messner</sub-title>
-    <desc>In seiner Doku versucht Reinhold Messner zusammen mit Sohn Simon die spektakuläre Erstbesteigung der Marmolada-Südwand am Vorabend des Ersten Weltkrieges nachzuvollziehen. 
-Extrembergsteiger und Filmemacher Reinhold Messner lässt uns die spektakuläre Erstbegehung der Marmolada-Südwand durch die Engländerin Tomasson und die Dolomiten-Bergführer Bettega und Zagonel nacherleben. Trotz Zeitdruck, Sturm, Hagel, Steinschlag und einer vereisten Wand gelang ihre Pioniertat. Messner führt uns vom Niemandsland Berg, wo weder Recht noch Ordnung, weder Nationalität noch Geschlecht zählen, ins Niemandsland der Dolomitenfront, wo
-die Seilschaft der drei, aber auch die Freundschaft und das Vertrauen zwischen Bettega und Zagonel zerbrechen. Am Ende bürdet Zagonel seinem ehemaligen Partner eine schwere Last auf: War Bettega wirklich ein opportunistischer Verräter oder wurde er von den Italienern zur Spionage gezwungen?</desc>
-  </programme>
-  <programme start="20240628213000 +0200" stop="20240628215930 +0200" channel="Rai Südtirol">
-    <title>Verliebt in Indien</title>
-    <sub-title>In memoriam Martha Lechthaler</sub-title>
-    <desc>Die Pflegedienstleiterin wollte sie sich nur eine berufliche Auszeit nehmen. Doch dann verliebte sich Martha Lechthaler in das Land Indien - und traf dort auch noch die Liebe ihres Lebens. 
-Martha Lechthaler, geboren 1953, mietete sich ein Haus in Südindien, bot Heilmassagen an und begegnete schließlich ihrem späteren Mann; er ist um 17 Jahre jünger als sie. 
-Im Sommer, wenn in Indien Regenzeit herrscht, kam Martha mit ihrem Mann Ranjeet zur Apfelernte nach Südtirol. Trotz kultureller Unterschiede konnten sie offenbar eine Reihe von Hindernissen und Grenzen überwinden.
-Die Filmemacher Astrid Kofler und Helmut Lechthaler hatten die beiden in ihrer indischen Heimatstadt besucht. 
-Martha Lechthaler starb am 11. Mai im Alter von 71 Jahren.</desc>
-  </programme>
-  <programme start="20240628221000 +0200" stop="20240628223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240629180000 +0200" stop="20240629185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -267,6 +220,30 @@ Auf seinem Weg nach Amerika streifte Christoph Columbus auch die Dominikanische 
 Sinnlich, temperamentvoll und natürlich auch schmackhaft präsentiert sich der Karibikstaat. Wir entdecken die unterschiedlichen Menschen und ihre Geschichten - und damit auch ihre Seelen.</desc>
   </programme>
   <programme start="20240706221000 +0200" stop="20240706223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240707200000 +0200" stop="20240707202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240707202000 +0200" stop="20240707204430 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Der 13jährige Instagram-Koch Konstantin Larcher, die erfolgreiche Sängerin Sophie Tscholl und die Begeisterung für die Tanzform Rio Abierto - das sind die Themen in Klick.
+
+Konstantin Larcher ist 13 Jahre alt und er kocht für sein Leben gern. Warum er seine Leidenschaft auch gerne auf Instagram teilt und weshalb er es südtirolweit bereits zum kleinen Internet-Star geschafft hat, erfahren wir im Jugendmagazin Klick. 
+Außerdem lernen wir eine junge talentierte Sängerin kennen. Sophie Tscholl hat den alljährlichen Wettbewerb rock-net gewonnen und einen eigenen Song geschrieben. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat. 
+Rio Abierto ist eine Tanz- und Bewegungsform, die ursprünglich aus Argentinien kommt und nun auch junge Menschen in Eppan begeistert.</desc>
+  </programme>
+  <programme start="20240707204500 +0200" stop="20240707204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240707221000 +0200" stop="20240707223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
