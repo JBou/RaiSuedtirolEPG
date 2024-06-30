@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240629180000 +0200" stop="20240629185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der Schauspieler Julian Pichler im Porträt, &quot;Brot&quot; bei den Meraner Festspielen, ein Rückblick auf Asfaltart, die Biennale Gherdëina, ein Nachruf auf den Bildhauer Herbert Meusburger.
-Der junge Schauspieler Julian Pichler ist bei den Rittner Sommerspielen groß geworden und nach der Ausbildung in Deutschland nach Südtirol zurückgekehrt. Bei den Freilichtspielen Lana spielt er heuer den Hauptdarsteller in &quot;Shakespeare in Love&quot;.
-Die Meraner Festspiele präsentieren die Uraufführung der Festspielversion des Schauspiels „Brot“. Autor Luis Zagler beleuchtet darin in zeitgenössischer Dramatik den bergbäuerlichen Kampf um Existenz.
-Über 200 Aufführungen, Konzerte und Performances waren diesmal bei Asfaltart zu sehen. Es war bereits die 18. Ausgabe des Straßenkunstfestivals. Für Meran Jahr für Jahr ein besonderes Datum, das die gesamte Stadt in Freude und Gelassenheit taucht.
-Bis zum 1. September stehen bei der Biennale Gherdëina drei Themenbereiche im Mittelpunkt: das Wilde als kreative Dimension, die vielfachen Verwandtschaften zwischen den Arten und der Berg als Ort der Begegnung. 
-Im vergangenen Jahr ist der Vorarlberger Bildhauer Herbert Meusburger verstorben. Seine künstlerischen Anfänge liegen in der Holzschnitzkunst. Das Thema &quot;Trennen und Verbinden&quot; zieht sich wie ein roter Faden durch sein Œuvre. Auch in Südtirol sind Arbeiten von ihm im öffentlichen Raum zu sehen. Ein Nachruf. 
-Zu Gast im Gespräch sind der Schauspieler Georg Kaser und der künstlerische Leiter von Tanz Bozen, Emanuele Masi.</desc>
-  </programme>
-  <programme start="20240629200000 +0200" stop="20240629202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240629202100 +0200" stop="20240629202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240629202500 +0200" stop="20240629205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Der Tourismusverein Dorf Tirol wir 70, ein Südtiroler Hundehotel gehört zu den führenden Europas und der &quot;Ausbildungsbetrieb des Jahres&quot; - das Hotel Am Sonnenhang in Dorf Tirol. 
-
-Südtirol entwickelte sich in der zweiten Hälfte des vorigen Jahrhunderts zu einer wahren Tourismusdestination. Ein beliebter Urlaubsort war auch Dorf Tirol. 1954 wurde der Verschönerungsverein gegründet, es folgte das Verkehrsamt und schließlich der Tourismusverein. 70 Jahre Tourismusentwicklung - vom Bauerndorf zu einer erfolgreichen Tourismushochburg. 
-Und weiters blicken wir auf das Hundehotel Mair am Ort. Das 3-Sterne Haus hat sich auf die Fellnasen und deren Frauchen und Herrchen spezialisiert. Mit Erfolg, denn es zählt mittlerweile zu den besten in Europa.
-Im &quot;Ausbildungsbetrieb des Jahres&quot; stehen junge Menschen im Vordergrund. Es geht vor allem darum, ihre Begeisterung im Gastgewerbe zu fördern und sie auf ihrem Ausbildungsweg zu unterstützen. Wir zeigen, wie Chefkoch Thomas Kostner und Kochlehrling Matthias Waibl im Hotel &quot;Am Sonnenhang&quot; in Dorf Tirol diese Herausforderung besonders gut meistern.</desc>
-  </programme>
-  <programme start="20240629221000 +0200" stop="20240629223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240630200000 +0200" stop="20240630202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
