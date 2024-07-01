@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240630200000 +0200" stop="20240630202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240630202000 +0200" stop="20240630204933 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Zürich</sub-title>
-    <desc>Zürich ist weit mehr als Banken und Business. Wenn man sich genügend Zeit für die Schweizer Metropole nimmt, entdeckt man das wahre Gesicht und die wahre Geschichte der Stadt. 
-
-Ein Mann, der aus Teilen einer Sojus-Rakete eine Uhr baut, steht ebenso im Fokus wie eine Frau, die mit einer einzigartigen Technik Fotografie und Malerei verbindet. Ein Öko-Pionier hat es sich zur Lebensaufgabe gemacht, an jedem freien Platz einen Baum zu pflanzen. Es Menschen mit Kultfaktor in einer faszinierenden wie facettenreichen Stadt.</desc>
-  </programme>
-  <programme start="20240630205000 +0200" stop="20240630205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240630221000 +0200" stop="20240630223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240701180000 +0200" stop="20240701182935 +0200" channel="Rai Südtirol">
     <title>Hausfassaden</title>
     <sub-title>so unterschiedlich wie ihre Bewohner</sub-title>
