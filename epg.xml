@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240701180000 +0200" stop="20240701182935 +0200" channel="Rai Südtirol">
-    <title>Hausfassaden</title>
-    <sub-title>so unterschiedlich wie ihre Bewohner</sub-title>
-    <desc>Die typische Sgraffitomalerei entstand im 17.Jahrhundert im rätoromanischen Raum. Der Film von Günther Neumair und Helene Dietl Laganda zeigt schöne Beispiele aus dem Obervinschgau. Die Fassade ist jener Teil der Architektur, der unmittelbar mit der Umgebung kommuniziert. Die Gestaltung der Hausfassade ist Sinnbild für den Zeitgeist unterschiedlicher Epochen und für die Individualität der Hausbesitzer. Sie ändert sich im Laufe der Geschichte und behält dennoch historische Elemente bei. In besonderer Weise tut dies die Sgrafittomalerei, die Teil der rätoromanischen Baukultur ist. Im Oberen Vinschgau finden sich noch zahlreiche Beispiele dafür. Diesen sind Günther Neumair und Helene Dietl Laganda in der Dokumentation „Hausfassaden&quot; auf der Spur.&quot;</desc>
-  </programme>
-  <programme start="20240701182900 +0200" stop="20240701185546 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wie sich Landwirtschaft und Tourismus gegenseitig stärken können, wie sich Weinbauern und Kellereien den Klimafragen stellen, wie sich die Goaßl zu einem begehrten Sportgerät entwickelt hat. Die Zusammenarbeit zwischen Bauern und Gastwirten im hinteren Ahrntal läuft seit Jahren erfolgreich. So beliefert der Biobauer vom Künighof die lokale Gastronomie mit Fleisch aus Mutterkuhhaltung, und die Biobäuerin vom Oberleitenhof produziert Jogurt und Topfen für das nahe Hotel. Solche Beispiele fruchtbarer Zusammenarbeit auf lokaler Ebene zeigt das Projekt &quot;Zu Gast bei Pionieren&quot; auf, das über die IDM-Plattform TourisMut organisiert wird und Interessierte bei Betriebsbesuchen zusammenführt. Für Land&amp;Leben haben wir die Gruppe begleitet. 
-Weitere Themen beschäftigen sich mit umwelt- und ressourcenschonender Weinproduktion und mit dem traditionellen Arbeitsgerät der Hirten, mit der Goaßl, die heute wieder viele Menschen begeistert. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240701200000 +0200" stop="20240701202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240701202000 +0200" stop="20240701215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Männlich, weiblich, divers</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag. 
-
-Machtmissbrauch, toxische Männlichkeit, Hate Speech, Catcalling: Warum haben wir Angst vor Menschen, die sein wollen, wie sie sich fühlen? Und was passiert, wenn wir uns alle outen? Weil das neue Gesellschaftsmodell heißt: sein wer ich bin, männlich, weiblich, divers.
-Es diskutieren Schauspielerin Margot Mayrhofer, Körpertherapeut Philipp Hofer, Trans-Aktivist Tobias Stampfer und Katharina Crepaz, Gender- und Diversitätsforscherin an der Eurac. Im Interview: die Filmemacher Karin Duregger und Jochen Unterhofer. Es moderiert Gabriele Crepaz. Live aus dem Teatro Cristallo in Bozen.</desc>
-  </programme>
-  <programme start="20240701221000 +0200" stop="20240701223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240702200000 +0200" stop="20240702202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
