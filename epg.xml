@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240702200000 +0200" stop="20240702202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240702202000 +0200" stop="20240702203550 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch Folge 3</sub-title>
-    <desc>Die heutige Politik ist zweigeteilt. Linke und rechte Lager stehen sich oft unversöhnlich gegenüber. Es diskutieren SVP-Vertreterin Katharina Zeller und Melanie Mair von der Südtiroler Freiheit.
-
-Viele sprechen von einer zunehmenden Polarisierung im politischen Spektrum. Doch was prägt diese beiden Pole eigentlich, und was trennt sie voneinander? In dieser Folge setzen sich zwei Politikerinnen zusammen, um sich diesen Fragen gemeinsam zu stellen. Als Vertreterinnen von Links und Rechts diskutieren die Meraner Vizebürgermeisterin Katharina Zeller (SVP) und Melanie Mair, Jugendsprecherin der Südtiroler Freiheit, über die Grundprinzipien von Politik und räumen dabei mit einigen Missverständnissen und Vorurteilen auf.</desc>
-  </programme>
-  <programme start="20240702203600 +0200" stop="20240702204830 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Unterwegs mit Slackliner Benjamin Kofler</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240702221000 +0200" stop="20240702223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240703200000 +0200" stop="20240703202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
