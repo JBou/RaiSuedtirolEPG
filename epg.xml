@@ -4,21 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240703200000 +0200" stop="20240703202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240703202000 +0200" stop="20240703204930 +0200" channel="Rai Südtirol">
-    <title>Franz Kafka</title>
-    <sub-title>&quot;Ich bin Anfang oder Ende&quot;</sub-title>
-    <desc>Franz Kafka - wer war der Schriftsteller, der herausgefallen aus jedem System scheint, und dessen Werke längst zur Weltliteratur zählen. Wir werfen einen Blick auf den Künstler, der nebenbei den Anrufbeantworter erfand, mit Reiseführern reich werden wollte und dessen Komik bis heute unterschätzt wird.</desc>
-  </programme>
-  <programme start="20240703221000 +0200" stop="20240703223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240704200000 +0200" stop="20240704202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
