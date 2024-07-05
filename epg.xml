@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240704200000 +0200" stop="20240704202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240704202000 +0200" stop="20240704204700 +0200" channel="Rai Südtirol">
-    <title>Burg Taufers</title>
-    <sub-title>Die Festung im Ahrntal</sub-title>
-    <desc>Burg Taufers im Tauferer Ahrntal ist eine der größten Burgen Südtirols. Erbaut auf einem Felssporn ist die Burg von einer Ringmauer umgeben, die sie vor feindlichen Angriffen schützte.
-
-Als die Gründerfamilie - die Herren von Taufers - im Jahr 1340 ausstarb, wechselte die Burg mehrfach den Besitzer und blieb viele Jahrzehnte unbewohnt. Heute lassen sich verschiedene architektonische Stile erkennen: der romanische Teil, der Herren von Taufers, ein gotischer Abschnitt aus der Zeit der Bischöfe von Brixen, während die Zugbrücken und die imposanten Befestigungsanlagen aus dem 16. Jahrhundert stammen.
-Im Jahr 1977 erwarb das Südtiroler Burgeninstitut die Burg, führte umfangreiche
-Restaurierungsarbeiten durch und machte sie der Öffentlichkeit zugänglich. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20240704213000 +0200" stop="20240704215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Wochen beginnen die Olympischen Sommerspiele in Paris. Unser Land schickt mit Tennis-Ass Jannik Sinner und Volleyball-Star Simone Giannelli zwei Athleten nach Frankreich, die zu den Top-Favoriten zählen und ganz heiße Medaillenanwärter sind. Der letzte Südtiroler Olympiasieger war vor 16 Jahren Geher Alex Schwazer, er holte in Peking Gold über 50 km.</desc>
-  </programme>
-  <programme start="20240704221000 +0200" stop="20240704223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240705180000 +0200" stop="20240705182930 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -121,6 +97,177 @@ Rio Abierto ist eine Tanz- und Bewegungsform, die ursprünglich aus Argentinien 
     <desc/>
   </programme>
   <programme start="20240707221000 +0200" stop="20240707223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240708180000 +0200" stop="20240708183221 +0200" channel="Rai Südtirol">
+    <title>Geschwindigkeitsrausch</title>
+    <sub-title>Der Rallye-Fahrer Bernd Zanon</sub-title>
+    <desc>Benzin im Blut und immer am Limit - so könnte man Rallye-Fahrer Bernd Zanon kurz charakterisieren. Über 120 Rennen, 40 Klassensiege, 75 Podestplätze, 4 internationale Meisterschaften - das ist die beeindruckende Bilanz des Eggentalers.
+Als sich Bernd Zanon und Florian Zelger im Herbst 2004 zufällig im Gasthaus trafen, konnte niemand ahnen, dass diese Begegnung der Grundstein sein würde für eines der erfolgreichsten Rallyeteams in Südtirol. Florian musste das Rallyefahren berufsbedingt aufgeben, Bernd ist nach wie vor mit seinem orangen Flitzer erfolgreich unterwegs.
+Die Dokumentation von Marco Polo und Thomas Vonmetz gibt Einblick in den spannenden Alltag des Rallye-Fahrers Bernd Zanon und zeigt auf, worauf es bei diesem spektakulären Rennsport im Gelände ankommt.</desc>
+  </programme>
+  <programme start="20240708183200 +0200" stop="20240708185630 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Der 13jährige Instagram-Koch Konstantin Larcher, die erfolgreiche Sängerin Sophie Tscholl und die Begeisterung für die Tanzform Rio Abierto - das sind die Themen in Klick.
+Konstantin Larcher ist 13 Jahre alt und er kocht für sein Leben gern. Warum er seine Leidenschaft auch gerne auf Instagram teilt und weshalb er es südtirolweit bereits zum kleinen Internet-Star geschafft hat, erfahren wir im Jugendmagazin Klick. 
+Außerdem lernen wir eine junge talentierte Sängerin kennen. Sophie Tscholl hat den alljährlichen Wettbewerb rock-net gewonnen und einen eigenen Song geschrieben. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat. 
+Rio Abierto ist eine Tanz- und Bewegungsform, die ursprünglich aus Argentinien kommt und nun auch junge Menschen in Eppan begeistert.</desc>
+  </programme>
+  <programme start="20240708200000 +0200" stop="20240708202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240708202000 +0200" stop="20240708205800 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter</title>
+    <sub-title>Der Sommer</sub-title>
+    <desc>Leuchtend-pralle Holunderbeeren, schattenspendende Linden am Dorfplatz, mächtige Eichen im spätsommerlichen Abendlicht. Der Sommer bringt aber auch Stürme und Gewitter.
+Der Sommer in seiner Fülle und Pracht zeigt uns eines: In der Natur liegen Schönes und Schreckliches, Licht und Schatten oft nah beieinander: Stürme knicken Stämme, schaffen aber auch Platz für neues Leben. Pflanzen stecken voller wertvoller Inhaltsstoffe, aber auch voller Gifte. Neue Arten dringen in alte Waldgemeinschaften ein; sie verändern, schädigen oder bereichern diese Lebensräume. Ein Film von Günther Haller.</desc>
+  </programme>
+  <programme start="20240708205800 +0200" stop="20240708215901 +0200" channel="Rai Südtirol">
+    <title>Die Mitte Südtirols</title>
+    <sub-title>Von Moorbewohnern und abenteuerlichen Geschichten</sub-title>
+    <desc>Die Hochmoore der Villanderer Alm bilden das größte zusammenhängende Moorgebiet im gesamten Alpenraum. Die Bewohner dieses Gebieten kennen noch die alten Geschichten der Gegend.
+Vergleichbare Moore findet man nur an den Westküsten von Irland und Schottland. Über 11.800 Jahre alte Torfschichten wurden hier entdeckt, weshalb hier seltene Pflanzen und Kräuter aus dem Boden sprießen.
+Hier trifft man immer wieder auf Menschen, die diese wundersame Landschaft erkunden: Walter Dorfmann, der ehemalige Journalist, Lehrer und Naturliebhaber. Oder Sepp Kusstatscher, Volkskundler aus Villanders. Sie kennen noch die alten Geschichten und diese Gegend wie ihre eigene Westentasche.
+Auf dem Weg zu Südtirols Mittelpunkt spürt man die Geschichte, die diese Orte zu erzählen haben: im alten Bergwerk oder auf den Steinen des Saubacherkofels. Auch in der 1912 gegründeten Latschenbrennerei in Barbian oder beim Eggerhof in Durnholz erzählen die Menschen alte Geschichten.</desc>
+  </programme>
+  <programme start="20240708221100 +0200" stop="20240708223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240709200000 +0200" stop="20240709202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240709202000 +0200" stop="20240709203632 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch 4</sub-title>
+    <desc>Veganerin Magdalena Gschnitzer und Jäger Daniel Niederkofler treffen aufeinander. In dieser Folge wird getestet, wie viel Bullshit bei Diskussionen zum Thema Veganismus aufgetischt wird.
+Die eine sieht sich als Beschützerin von Tieren, der andere züchtet und schlachtet sie für Geld. In der vierten Bullshit!-Folge treffen zwei gegensätzliche Weltanschauungen aufeinander: Daniel Niederkofler, passionierter Jäger und Liebhaber von Kitzfleisch, trifft auf Magdalena Gschnitzer, überzeugte Tierrechtsaktivistin und Veganerin, der beim Geruch von gebratenem Fleisch übel wird. 
+In ihrem Gespräch diskutieren sie über gesunde Ernährung, die Rolle des Menschen in der Natur und über ihr jeweiliges Verständnis von Tierliebe. Werden die beiden im Laufe der Sendung Verständnis füreinander zeigen oder wird der Buzzer im Minutentakt gedrückt?</desc>
+  </programme>
+  <programme start="20240709203700 +0200" stop="20240709205213 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Gletscherhöhlen</sub-title>
+    <desc>Durch die massive Gletscherschmelze entstehen seit einigen Jahren zum Teil massive Hohlräume am Rand der Ferner. Diese Eishöhlen sind von bizarrer Schönheit und haben zwei Südtiroler Bergsteiger in ihren Bann gezogen. Mit ihnen ist Thomas Hainz unterwegs in der südlichen Ortlergruppe unterhalb der Punta San Matteo.</desc>
+  </programme>
+  <programme start="20240709221000 +0200" stop="20240709223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240710200000 +0200" stop="20240710202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240710202000 +0200" stop="20240710204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Schnäppchenjagd - worauf Sie achten sollten, Reiselust statt Reisefrust - Tipps für stressfreie Urlaubsplanung, Tiefgaragen im Ortskern - Vorteile und Herausforderungen, Welsberg im Fokus.
+Im Laufe des Jahres bieten sich zahlreiche Gelegenheiten, echte Schnäppchen zu ergattern - von Saisonschlussverkäufen über den Black Friday bis hin zu Sonderaktionen in Geschäften und online. Doch welche Pflichten haben Verkäufer:innen und welche Rechte stehen den Kund:innen zu?
+Reiselust statt Reisefrust: Reisen ist heutzutage zu jeder Jahreszeit beliebt, nicht nur im Sommer. Daher sind die Angebote vielfältiger und abwechslungsreicher. Doch was tun, wenn etwas schiefgeht? 
+Tiefgaragen in den Zentren: In Schlanders wird aktuell intensiv über den Bau einer zentrumsnahen Tiefgarage diskutiert. Dabei prallen die Anliegen der Geschäftsleute auf die Bedenken der Gegner. Diese befürchten, dass eine Tiefgarage noch mehr Verkehr ins Dorfzentrum zieht.
+Welsberg im oberen Pustertal bietet alles, was ein attraktives Dorf ausmacht: Es ist optimal erreichbar durch Bahn, Umfahrungsstraße und gut ausgebaute Verkehrswege.</desc>
+  </programme>
+  <programme start="20240710221000 +0200" stop="20240710223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240711200000 +0200" stop="20240711202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240711202000 +0200" stop="20240711204953 +0200" channel="Rai Südtirol">
+    <title>Haarige Geschichten</title>
+    <sub-title>Die Reportage</sub-title>
+    <desc>Mittlerweile muss man in diesem Beruf mehr können als nur den richtigen Umgang mit Schere, Kamm und Föhn. Friseur:innen müssen heute viele zusätzliche Fähigkeiten besitzen.
+Ob glatt, gelockt, mit oder ohne Pony - Haare sind nicht nur eine wärmende Kopfbedeckung, mit der Frisur unterstreicht man die Persönlichkeit, möchte aussehen wie ein Hollywoodstar oder setzt ein Statement. Doch wer sind die Menschen hinter den Haarschnitten, Extensions und Dauerwellen? Sie müssen nicht nur ihr Handwerk beherrschen, sondern auch noch Künstler:in, Psycholog:in und Wellness-Coach sein. Eine Herausforderung, der sich Südtirols Friseur:innen jeden Tag aufs Neue stellen. 
+Von langjährigen Friseur-Spezialist:innen bis hin zu vielfach ausgezeichneten und preisgekrönten Stylist:innen - eines vereint sie alle, die Liebe zu ihrem Beruf.</desc>
+  </programme>
+  <programme start="20240711221000 +0200" stop="20240711223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240712175800 +0200" stop="20240712184953 +0200" channel="Rai Südtirol">
+    <title>Brahmaputra Teil 1</title>
+    <sub-title>Der große Fluss vom Himalaya</sub-title>
+    <desc>Die dreiteilige Reihe &quot;Brahmaputra - Der große Fluss vom Himalaya&quot; erzählt die Geschichte einer turbulenten Affäre zwischen dem größten Gebirge und einem der größten Flüsse der Welt.
+Sein Lauf führt vom eisigen dritten Pol auf dem nahezu menschenleeren Dach der Welt 5000 Höhenmeter herab in die am dichtesten besiedelte Region der Erde und weiter bis zur Mündung in einen tropischen Ozean.
+Die Monsunwolken speisen im Gegenzug das gesamte Flusssystem. Auf dieser Strecke versammelt der Brahmaputra eine unbeschreibliche Vielfalt von Klimazonen, Landschaften, Ökosystemen und Kulturen.</desc>
+  </programme>
+  <programme start="20240712184900 +0200" stop="20240712185750 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Mouflih und Affane</sub-title>
+    <desc>Mouflih und Affane stammen aus Marokko, leben jedoch schon seit einigen Jahren in Girlan, wo sie eine Konditorei mit Eisdiele betreiben. Für sie ist Südtirol die zweite Heimat.</desc>
+  </programme>
+  <programme start="20240712200000 +0200" stop="20240712202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240712202100 +0200" stop="20240712210600 +0200" channel="Rai Südtirol">
+    <title>Herausforderung Bergbäuerinnen Südtirols - Teil 1</title>
+    <sub-title/>
+    <desc>Die facettenreiche Landschaft Südtirols spiegelt sich in den Persönlichkeiten der Bergbäuerinnen wider. Drei Bergbäuerinnen gewähren Einblicke in den Alltag auf ihren Höfen.
+Nadia Ennemoser aus Moos in Passeier, Renate Taschler Steinwandter aus Toblach und Waltraud Thaler Blasinger aus Reinswald bewirtschaften ihre Höfe. Ihre Lebensrealität steht im starken Kontrast zu der oft romantisierten Idylle, die gerne dargestellt wird. Die Herausforderung für den Berufsstand der Bergbäuerinnen besteht darin, zusätzlichen Rückhalt zu finden und eine zukunftsweisende Perspektive zu schaffen. Um diesem Anspruch gerecht zu werden, ist es für Bäuerinnen unerlässlich, sich mit Engagement, Tatkraft und Zeit auf sämtlichen Funktionärsebenen der Südtiroler Bäuerinnenorganisation einzubringen. Ein Film von Hubert und Matthias Schönegger.</desc>
+  </programme>
+  <programme start="20240712210600 +0200" stop="20240712215120 +0200" channel="Rai Südtirol">
+    <title>Bergdörfer</title>
+    <sub-title>Vom Almenland bis in Roseggers Waldheimat</sub-title>
+    <desc>Im Mürztal in der Steiermark gibt es einige traditionelle Bergdörfer mit alteingesessenen Bauernfamilien: In Krieglach auf etwa tausend Metern Meereshöhe bewirtschaftet Hubert Schwaiger einen Hof, in dem vier Generationen unter einem Dach leben. Selbst seine Mutter hilft bei der Bewirtschaftung des Hofs noch mit. Doch schon bald soll die nächste Generation das Ruder übernehmen. 
+In Brandlucken ist Christoph Jantscher Teil einer Bauerngesellschaft, die einander gegenseitig unterstützen. Vor einigen Jahren führte Friedrich Bauernhofer seinen Hof im Nebenerwerb. Mittlerweile ist er Vollerwerbsbauer mit mehr als 60 Kühen. Daneben ist er Obmann der Theatergruppe, wo er selbst auch mitspielt. 
+Regisseur Alfred Ninaus porträtiert auch Ziegenbäuerin Elisabeth Harrer aus Passail und Bäuerin Waltraud Froihofer aus Fischbach.</desc>
+  </programme>
+  <programme start="20240712215200 +0200" stop="20240712215921 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Birgitta Puustinen</sub-title>
+    <desc>Die gebürtige Finnin betreibt seit Jahren eine Vinothek am Bozner Obstplatz, wo sie den persönlichen Kontakt mit ihren Kund:innen besonders liebt.</desc>
+  </programme>
+  <programme start="20240712221000 +0200" stop="20240712223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240713180000 +0200" stop="20240713183800 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter</title>
+    <sub-title>Der Sommer</sub-title>
+    <desc>Leuchtend-pralle Holunderbeeren, schattenspendende Linden am Dorfplatz, mächtige Eichen im spätsommerlichen Abendlicht. Der Sommer bringt aber auch Stürme und Gewitter.
+Der Sommer in seiner Fülle und Pracht zeigt uns eines: In der Natur liegen Schönes und Schreckliches, Licht und Schatten oft nah beieinander: Stürme knicken Stämme, schaffen aber auch Platz für neues Leben. Pflanzen stecken voller wertvoller Inhaltsstoffe, aber auch voller Gifte. Neue Arten dringen in alte Waldgemeinschaften ein; sie verändern, schädigen oder bereichern diese Lebensräume. Ein Film von Günther Haller.</desc>
+  </programme>
+  <programme start="20240713183800 +0200" stop="20240713185710 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Der Penauder Höhenweg</sub-title>
+    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
+  </programme>
+  <programme start="20240713200000 +0200" stop="20240713202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240713202100 +0200" stop="20240713202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240713202500 +0200" stop="20240713205137 +0200" channel="Rai Südtirol">
+    <title>in memoriam: Michael Höllrigl</title>
+    <sub-title/>
+    <desc>Der Laaser Künstler Michael Höllrigl hatte zunächst als Steinmetz gearbeitet, um später die Akademie in München zu besuchen. Einige seiner Arbeiten befinden sich im öffentlichen Raum.
+Nach seinem Studium übernimmt Höllrigl den elterlichen Betrieb, arbeitet parallel dazu aber auch als Künstler. Einer breiteren Öffentlichkeit wird Höllrigl durch seine Skulpturen im öffentlichen Raum bekannt. Seine Arbeiten stehen beispielsweise am Bozner Pfarrplatz, im Atrium der Raiffeisen Landesbank. Er schuf auch die Altäre im Bozner Dom und in der St. Martinskirche in Kastelbell.
+Trotz vieler Widrigkeiten und Zweifel hat er ein Werk geschaffen, dessen Leitthema die Frage nach dem Existentiellen und die Suche nach den eigenen Fundamenten ist.
+Der Künstler starb am 18.Juni im Alter von 88 Jahren.</desc>
+  </programme>
+  <programme start="20240713221000 +0200" stop="20240713223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
