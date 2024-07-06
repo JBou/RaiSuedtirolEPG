@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240705180000 +0200" stop="20240705182930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Forderungen der Gewerkschaft an die Politik, um ein &quot;Altern in Würde&quot; zu gewährleisten, der neue Treibstoff HVO und sensor-gesteuerten Scharniere made in Südtirol.
-Die Rentnergewerkschaft im ASGB fordert die Politik auf, Maßnahmen für ein &quot;Altern in Würde&quot; zu ergreifen. Zu den zentralen Forderungen gehören bezahlbares Wohnen für Senioren, geregelte Möglichkeiten, weiterhin bestimmte Arbeiten auszuführen, ohne steuerliche Nachteile zu erfahren, und ein leichterer Zugang zum Gesundheitssystem.
-Ein neuer Treibstoff erobert den Markt: HVO, auch bekannt als XTL, stellt eine vielversprechende Alternative zu herkömmlichem Diesel dar. Wie umweltfreundlich ist dieser Treibstoff? Und wie steht es in Südtirol um die Zukunft des Wasserstoffs in der Mobilität?
-Die Innovation von Gronbach: Sensor-gesteuerte Scharniere für Gerätetüren von Backrohr oder Kühlschrank. Dieser Mechanismus revolutioniert Haushaltsgeräte und erlaubt einen grifflosen Öffnungs- und Schließvorgang.</desc>
-  </programme>
-  <programme start="20240705182900 +0200" stop="20240705185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Wochen beginnen die Olympischen Sommerspiele in Paris. Unser Land schickt mit Tennis-Ass Jannik Sinner und Volleyball-Star Simone Giannelli zwei Athleten nach Frankreich, die zu den Top-Favoriten zählen und ganz heiße Medaillenanwärter sind. Der letzte Südtiroler Olympiasieger war vor 16 Jahren Geher Alex Schwazer, er holte in Peking Gold über 50 km.</desc>
-  </programme>
-  <programme start="20240705200000 +0200" stop="20240705202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240705202100 +0200" stop="20240705212000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebniswandern mit Theo Hendrich am Gereuther Höfeweg oberhalb von Brixen. Jeder Hof hat eine lange Geschichte und bietet Einblicke in die verschiedenen Lebenswelten.
-
-Durch große Anstrengungen machten Bauern von Gereuth die Wälder am Osthang des Radlsee urbar und lebten teils in armen Verhältnissen, immer jedoch im engen Wechselspiel mit der Natur. 
-Der Gereuther Höfeweg bietet Einblicke in das Leben der dortigen Bergbauern:  Eine Stallbesichtigung am Perlungerhof,  Brot backen am Gruber Hof, die &quot;Alte Säge&quot;, welche im Rahmen eines Interreg-Projektes renoviert wurde. Und oberhalb des Wegscheiderhofes steht eine kleine Kapelle, die Wanderern zugänglich ist. Den spektakulärsten Ausblick auf Brixen und die gegenüberliegende Bergkulisse hat man beim Feichterhof. Die Rundwanderung wird begleitet von Moderator Theo Hendrich gemeinsam mit der Wanderführerin Julia Hofer.</desc>
-  </programme>
-  <programme start="20240705212000 +0200" stop="20240705214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Der Tourismusverein Dorf Tirol wir 70, ein Südtiroler Hundehotel gehört zu den führenden Europas und der &quot;Ausbildungsbetrieb des Jahres&quot; - das Hotel Am Sonnenhang in Dorf Tirol. 
-Südtirol entwickelte sich in der zweiten Hälfte des vorigen Jahrhunderts zu einer wahren Tourismusdestination. Ein beliebter Urlaubsort war auch Dorf Tirol. 1954 wurde der Verschönerungsverein gegründet, es folgte das Verkehrsamt und schließlich der Tourismusverein. 70 Jahre Tourismusentwicklung - vom Bauerndorf zu einer erfolgreichen Tourismushochburg. 
-Und weiters blicken wir auf das Hundehotel Mair am Ort. Das 3-Sterne Haus hat sich auf die Fellnasen und deren Frauchen und Herrchen spezialisiert. Mit Erfolg, denn es zählt mittlerweile zu den besten in Europa.
-Im &quot;Ausbildungsbetrieb des Jahres&quot; stehen junge Menschen im Vordergrund. Es geht vor allem darum, ihre Begeisterung im Gastgewerbe zu fördern und sie auf ihrem Ausbildungsweg zu unterstützen. Wir zeigen, wie Chefkoch Thomas Kostner und Kochlehrling Matthias Waibl im Hotel &quot;Am Sonnenhang&quot; in Dorf Tirol diese Herausforderung besonders gut meistern.</desc>
-  </programme>
-  <programme start="20240705215000 +0200" stop="20240705220000 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Baumpfleger Moritz Tirler</sub-title>
-    <desc>Von klein auf liebte er das Klettern – heute ist der gebürtige Kastelruther Moritz Tirler nicht nur ein gefragter Baumpfleger, sondern auch Bergführer und Felskletterer.</desc>
-  </programme>
-  <programme start="20240705221000 +0200" stop="20240705223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240706180000 +0200" stop="20240706185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -268,6 +224,30 @@ Trotz vieler Widrigkeiten und Zweifel hat er ein Werk geschaffen, dessen Leitthe
 Der Künstler starb am 18.Juni im Alter von 88 Jahren.</desc>
   </programme>
   <programme start="20240713221000 +0200" stop="20240713223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240714200000 +0200" stop="20240714202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240714202000 +0200" stop="20240714204430 +0200" channel="Rai Südtirol">
+    <title>Brenner</title>
+    <sub-title>Land und Leute</sub-title>
+    <desc>Das Dorf Brenner ist ein wichtiger Verkehrsknotenpunkt, der schon seit Jahrhunderten eine bedeutende Handelsroute darstellt. Die Menschen leben von Handel und Dienstleistungen.
+Schon viele bekannte Persönlichkeiten haben den Ort passiert nicht nur Herrscher, sondern auch Künstler und Gelehrte.
+Bekannt war im 20. Jahrhundert auch das Brennerbad, das prominente Persönlichkeiten aus verschiedenen Ländern anzog. Die Thermalquellen wurden für ihre heilenden Eigenschaften geschätzt. Heute ist das Bad nicht mehr in Betrieb, aber seine Geschichte als historischer Kurort bleibt erhalten.
+Derzeit leben im Dorf Brenner 269 Menschen. Es hat im Laufe der Jahre einen deutlichen Bevölkerungsrückgang erlebt, was hauptsächlich auf den Wegzug von Staatsbeamten und Einheimischen zurückzuführen ist. Die Menschen dort leben hauptsächlich vom Grenz- und Durchgangsverkehr. Seit der Eröffnung eines Outlet-Centers im Jahr 2007 hat der Einzelhandel an Bedeutung gewonnen.
+Die Bar Terminus am Brenner ist eine Gaststätte, die von Einheimischen, aber auch von Durchreisenden genutzt wird. Auch namhafte Politiker haben in dieser Bar bereits Halt gemacht.</desc>
+  </programme>
+  <programme start="20240714204500 +0200" stop="20240714204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240714221000 +0200" stop="20240714223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
