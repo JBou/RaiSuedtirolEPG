@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240706180000 +0200" stop="20240706185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebniswandern mit Theo Hendrich am Gereuther Höfeweg oberhalb von Brixen. Jeder Hof hat eine lange Geschichte und bietet Einblicke in die verschiedenen Lebenswelten. Durch große Anstrengungen machten Bauern von Gereuth die Wälder am Osthang des Radlsee urbar und lebten teils in armen Verhältnissen, immer jedoch im engen Wechselspiel mit der Natur. 
-Der Gereuther Höfeweg bietet Einblicke in das Leben der dortigen Bergbauern:  Eine Stallbesichtigung am Perlungerhof,  Brot backen am Gruber Hof, die &quot;Alte Säge&quot;, welche im Rahmen eines Interreg-Projektes renoviert wurde. Und oberhalb des Wegscheiderhofes steht eine kleine Kapelle, die Wanderern zugänglich ist. Den spektakulärsten Ausblick auf Brixen und die gegenüberliegende Bergkulisse hat man beim Feichterhof. Die Rundwanderung wird begleitet von Moderator Theo Hendrich gemeinsam mit der Wanderführerin Julia Hofer.</desc>
-  </programme>
-  <programme start="20240706200000 +0200" stop="20240706202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240706202100 +0200" stop="20240706202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240706202500 +0200" stop="20240706205508 +0200" channel="Rai Südtirol">
-    <title>So Schmeckt die Welt</title>
-    <sub-title>Die Domenikanische Republik</sub-title>
-    <desc>Vom Rum über den Karneval bis hin zum Merengue - eine kulinarische und kulturelle Expedition durch die Dominikanische Republik, die Westhälfte der Insel Hispaniola mitten in der Karibik.
-
-Auf seinem Weg nach Amerika streifte Christoph Columbus auch die Dominikanische Republik. Im Mondschein erstrahlte eine Bucht im faszinierenden Silberschimmer. Der Name Puerto Plata - Silberner Hafen - war geboren. 
-Sinnlich, temperamentvoll und natürlich auch schmackhaft präsentiert sich der Karibikstaat. Wir entdecken die unterschiedlichen Menschen und ihre Geschichten - und damit auch ihre Seelen.</desc>
-  </programme>
-  <programme start="20240706221000 +0200" stop="20240706223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240707200000 +0200" stop="20240707202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
