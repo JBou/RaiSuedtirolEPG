@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240707200000 +0200" stop="20240707202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240707202000 +0200" stop="20240707204430 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der 13jährige Instagram-Koch Konstantin Larcher, die erfolgreiche Sängerin Sophie Tscholl und die Begeisterung für die Tanzform Rio Abierto - das sind die Themen in Klick.
-
-Konstantin Larcher ist 13 Jahre alt und er kocht für sein Leben gern. Warum er seine Leidenschaft auch gerne auf Instagram teilt und weshalb er es südtirolweit bereits zum kleinen Internet-Star geschafft hat, erfahren wir im Jugendmagazin Klick. 
-Außerdem lernen wir eine junge talentierte Sängerin kennen. Sophie Tscholl hat den alljährlichen Wettbewerb rock-net gewonnen und einen eigenen Song geschrieben. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat. 
-Rio Abierto ist eine Tanz- und Bewegungsform, die ursprünglich aus Argentinien kommt und nun auch junge Menschen in Eppan begeistert.</desc>
-  </programme>
-  <programme start="20240707204500 +0200" stop="20240707204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240707221000 +0200" stop="20240707223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240708180000 +0200" stop="20240708183221 +0200" channel="Rai Südtirol">
     <title>Geschwindigkeitsrausch</title>
     <sub-title>Der Rallye-Fahrer Bernd Zanon</sub-title>
