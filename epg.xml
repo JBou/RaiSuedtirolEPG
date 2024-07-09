@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240708180000 +0200" stop="20240708183221 +0200" channel="Rai Südtirol">
-    <title>Geschwindigkeitsrausch</title>
-    <sub-title>Der Rallye-Fahrer Bernd Zanon</sub-title>
-    <desc>Benzin im Blut und immer am Limit - so könnte man Rallye-Fahrer Bernd Zanon kurz charakterisieren. Über 120 Rennen, 40 Klassensiege, 75 Podestplätze, 4 internationale Meisterschaften - das ist die beeindruckende Bilanz des Eggentalers.
-Als sich Bernd Zanon und Florian Zelger im Herbst 2004 zufällig im Gasthaus trafen, konnte niemand ahnen, dass diese Begegnung der Grundstein sein würde für eines der erfolgreichsten Rallyeteams in Südtirol. Florian musste das Rallyefahren berufsbedingt aufgeben, Bernd ist nach wie vor mit seinem orangen Flitzer erfolgreich unterwegs.
-Die Dokumentation von Marco Polo und Thomas Vonmetz gibt Einblick in den spannenden Alltag des Rallye-Fahrers Bernd Zanon und zeigt auf, worauf es bei diesem spektakulären Rennsport im Gelände ankommt.</desc>
-  </programme>
-  <programme start="20240708183200 +0200" stop="20240708185630 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der 13jährige Instagram-Koch Konstantin Larcher, die erfolgreiche Sängerin Sophie Tscholl und die Begeisterung für die Tanzform Rio Abierto - das sind die Themen in Klick.
-Konstantin Larcher ist 13 Jahre alt und er kocht für sein Leben gern. Warum er seine Leidenschaft auch gerne auf Instagram teilt und weshalb er es südtirolweit bereits zum kleinen Internet-Star geschafft hat, erfahren wir im Jugendmagazin Klick. 
-Außerdem lernen wir eine junge talentierte Sängerin kennen. Sophie Tscholl hat den alljährlichen Wettbewerb rock-net gewonnen und einen eigenen Song geschrieben. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat. 
-Rio Abierto ist eine Tanz- und Bewegungsform, die ursprünglich aus Argentinien kommt und nun auch junge Menschen in Eppan begeistert.</desc>
-  </programme>
-  <programme start="20240708200000 +0200" stop="20240708202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240708202000 +0200" stop="20240708205800 +0200" channel="Rai Südtirol">
-    <title>Grüne Begleiter</title>
-    <sub-title>Der Sommer</sub-title>
-    <desc>Leuchtend-pralle Holunderbeeren, schattenspendende Linden am Dorfplatz, mächtige Eichen im spätsommerlichen Abendlicht. Der Sommer bringt aber auch Stürme und Gewitter.
-Der Sommer in seiner Fülle und Pracht zeigt uns eines: In der Natur liegen Schönes und Schreckliches, Licht und Schatten oft nah beieinander: Stürme knicken Stämme, schaffen aber auch Platz für neues Leben. Pflanzen stecken voller wertvoller Inhaltsstoffe, aber auch voller Gifte. Neue Arten dringen in alte Waldgemeinschaften ein; sie verändern, schädigen oder bereichern diese Lebensräume. Ein Film von Günther Haller.</desc>
-  </programme>
-  <programme start="20240708205800 +0200" stop="20240708215901 +0200" channel="Rai Südtirol">
-    <title>Die Mitte Südtirols</title>
-    <sub-title>Von Moorbewohnern und abenteuerlichen Geschichten</sub-title>
-    <desc>Die Hochmoore der Villanderer Alm bilden das größte zusammenhängende Moorgebiet im gesamten Alpenraum. Die Bewohner dieses Gebieten kennen noch die alten Geschichten der Gegend.
-Vergleichbare Moore findet man nur an den Westküsten von Irland und Schottland. Über 11.800 Jahre alte Torfschichten wurden hier entdeckt, weshalb hier seltene Pflanzen und Kräuter aus dem Boden sprießen.
-Hier trifft man immer wieder auf Menschen, die diese wundersame Landschaft erkunden: Walter Dorfmann, der ehemalige Journalist, Lehrer und Naturliebhaber. Oder Sepp Kusstatscher, Volkskundler aus Villanders. Sie kennen noch die alten Geschichten und diese Gegend wie ihre eigene Westentasche.
-Auf dem Weg zu Südtirols Mittelpunkt spürt man die Geschichte, die diese Orte zu erzählen haben: im alten Bergwerk oder auf den Steinen des Saubacherkofels. Auch in der 1912 gegründeten Latschenbrennerei in Barbian oder beim Eggerhof in Durnholz erzählen die Menschen alte Geschichten.</desc>
-  </programme>
-  <programme start="20240708221100 +0200" stop="20240708223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240709200000 +0200" stop="20240709202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
