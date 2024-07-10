@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240709200000 +0200" stop="20240709202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240709202000 +0200" stop="20240709203632 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch 4</sub-title>
-    <desc>Veganerin Magdalena Gschnitzer und Jäger Daniel Niederkofler treffen aufeinander. In dieser Folge wird getestet, wie viel Bullshit bei Diskussionen zum Thema Veganismus aufgetischt wird.
-Die eine sieht sich als Beschützerin von Tieren, der andere züchtet und schlachtet sie für Geld. In der vierten Bullshit!-Folge treffen zwei gegensätzliche Weltanschauungen aufeinander: Daniel Niederkofler, passionierter Jäger und Liebhaber von Kitzfleisch, trifft auf Magdalena Gschnitzer, überzeugte Tierrechtsaktivistin und Veganerin, der beim Geruch von gebratenem Fleisch übel wird. 
-In ihrem Gespräch diskutieren sie über gesunde Ernährung, die Rolle des Menschen in der Natur und über ihr jeweiliges Verständnis von Tierliebe. Werden die beiden im Laufe der Sendung Verständnis füreinander zeigen oder wird der Buzzer im Minutentakt gedrückt?</desc>
-  </programme>
-  <programme start="20240709203700 +0200" stop="20240709205213 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Gletscherhöhlen</sub-title>
-    <desc>Durch die massive Gletscherschmelze entstehen seit einigen Jahren zum Teil massive Hohlräume am Rand der Ferner. Diese Eishöhlen sind von bizarrer Schönheit und haben zwei Südtiroler Bergsteiger in ihren Bann gezogen. Mit ihnen ist Thomas Hainz unterwegs in der südlichen Ortlergruppe unterhalb der Punta San Matteo.</desc>
-  </programme>
-  <programme start="20240709221000 +0200" stop="20240709223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240710200000 +0200" stop="20240710202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
