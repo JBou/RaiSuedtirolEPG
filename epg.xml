@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240711200000 +0200" stop="20240711202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240711202000 +0200" stop="20240711204953 +0200" channel="Rai Südtirol">
-    <title>Haarige Geschichten</title>
-    <sub-title>Die Reportage</sub-title>
-    <desc>Mittlerweile muss man in diesem Beruf mehr können als nur den richtigen Umgang mit Schere, Kamm und Föhn. Friseur:innen müssen heute viele zusätzliche Fähigkeiten besitzen.
-Ob glatt, gelockt, mit oder ohne Pony - Haare sind nicht nur eine wärmende Kopfbedeckung, mit der Frisur unterstreicht man die Persönlichkeit, möchte aussehen wie ein Hollywoodstar oder setzt ein Statement. Doch wer sind die Menschen hinter den Haarschnitten, Extensions und Dauerwellen? Sie müssen nicht nur ihr Handwerk beherrschen, sondern auch noch Künstler:in, Psycholog:in und Wellness-Coach sein. Eine Herausforderung, der sich Südtirols Friseur:innen jeden Tag aufs Neue stellen. 
-Von langjährigen Friseur-Spezialist:innen bis hin zu vielfach ausgezeichneten und preisgekrönten Stylist:innen - eines vereint sie alle, die Liebe zu ihrem Beruf.</desc>
-  </programme>
-  <programme start="20240711221000 +0200" stop="20240711223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240712175800 +0200" stop="20240712184953 +0200" channel="Rai Südtirol">
     <title>Brahmaputra Teil 1</title>
     <sub-title>Der große Fluss vom Himalaya</sub-title>
