@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240712175800 +0200" stop="20240712184953 +0200" channel="Rai Südtirol">
-    <title>Brahmaputra Teil 1</title>
-    <sub-title>Der große Fluss vom Himalaya</sub-title>
-    <desc>Die dreiteilige Reihe &quot;Brahmaputra - Der große Fluss vom Himalaya&quot; erzählt die Geschichte einer turbulenten Affäre zwischen dem größten Gebirge und einem der größten Flüsse der Welt.
-Sein Lauf führt vom eisigen dritten Pol auf dem nahezu menschenleeren Dach der Welt 5000 Höhenmeter herab in die am dichtesten besiedelte Region der Erde und weiter bis zur Mündung in einen tropischen Ozean.
-Die Monsunwolken speisen im Gegenzug das gesamte Flusssystem. Auf dieser Strecke versammelt der Brahmaputra eine unbeschreibliche Vielfalt von Klimazonen, Landschaften, Ökosystemen und Kulturen.</desc>
-  </programme>
-  <programme start="20240712184900 +0200" stop="20240712185750 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Mouflih und Affane</sub-title>
-    <desc>Mouflih und Affane stammen aus Marokko, leben jedoch schon seit einigen Jahren in Girlan, wo sie eine Konditorei mit Eisdiele betreiben. Für sie ist Südtirol die zweite Heimat.</desc>
-  </programme>
-  <programme start="20240712200000 +0200" stop="20240712202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240712202100 +0200" stop="20240712210600 +0200" channel="Rai Südtirol">
-    <title>Herausforderung Bergbäuerinnen Südtirols - Teil 1</title>
-    <sub-title/>
-    <desc>Die facettenreiche Landschaft Südtirols spiegelt sich in den Persönlichkeiten der Bergbäuerinnen wider. Drei Bergbäuerinnen gewähren Einblicke in den Alltag auf ihren Höfen.
-Nadia Ennemoser aus Moos in Passeier, Renate Taschler Steinwandter aus Toblach und Waltraud Thaler Blasinger aus Reinswald bewirtschaften ihre Höfe. Ihre Lebensrealität steht im starken Kontrast zu der oft romantisierten Idylle, die gerne dargestellt wird. Die Herausforderung für den Berufsstand der Bergbäuerinnen besteht darin, zusätzlichen Rückhalt zu finden und eine zukunftsweisende Perspektive zu schaffen. Um diesem Anspruch gerecht zu werden, ist es für Bäuerinnen unerlässlich, sich mit Engagement, Tatkraft und Zeit auf sämtlichen Funktionärsebenen der Südtiroler Bäuerinnenorganisation einzubringen. Ein Film von Hubert und Matthias Schönegger.</desc>
-  </programme>
-  <programme start="20240712210600 +0200" stop="20240712215120 +0200" channel="Rai Südtirol">
-    <title>Bergdörfer</title>
-    <sub-title>Vom Almenland bis in Roseggers Waldheimat</sub-title>
-    <desc>Im Mürztal in der Steiermark gibt es einige traditionelle Bergdörfer mit alteingesessenen Bauernfamilien: In Krieglach auf etwa tausend Metern Meereshöhe bewirtschaftet Hubert Schwaiger einen Hof, in dem vier Generationen unter einem Dach leben. Selbst seine Mutter hilft bei der Bewirtschaftung des Hofs noch mit. Doch schon bald soll die nächste Generation das Ruder übernehmen. 
-In Brandlucken ist Christoph Jantscher Teil einer Bauerngesellschaft, die einander gegenseitig unterstützen. Vor einigen Jahren führte Friedrich Bauernhofer seinen Hof im Nebenerwerb. Mittlerweile ist er Vollerwerbsbauer mit mehr als 60 Kühen. Daneben ist er Obmann der Theatergruppe, wo er selbst auch mitspielt. 
-Regisseur Alfred Ninaus porträtiert auch Ziegenbäuerin Elisabeth Harrer aus Passail und Bäuerin Waltraud Froihofer aus Fischbach.</desc>
-  </programme>
-  <programme start="20240712215200 +0200" stop="20240712215921 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Birgitta Puustinen</sub-title>
-    <desc>Die gebürtige Finnin betreibt seit Jahren eine Vinothek am Bozner Obstplatz, wo sie den persönlichen Kontakt mit ihren Kund:innen besonders liebt.</desc>
-  </programme>
-  <programme start="20240712221000 +0200" stop="20240712223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240713180000 +0200" stop="20240713183800 +0200" channel="Rai Südtirol">
     <title>Grüne Begleiter</title>
     <sub-title>Der Sommer</sub-title>
@@ -98,6 +58,192 @@ Die Bar Terminus am Brenner ist eine Gaststätte, die von Einheimischen, aber au
     <desc/>
   </programme>
   <programme start="20240714221000 +0200" stop="20240714223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240715180000 +0200" stop="20240715185254 +0200" channel="Rai Südtirol">
+    <title>Arbeitsort Zwei-Sternerestaurant</title>
+    <sub-title>Ein Blick in die Spitzengastronomie</sub-title>
+    <desc>Eine Tätigkeit in der Sternegastronomie ist nichts für schwache Nerven, steht man doch permanent unter einem großen Leistungsdruck, denn die Erwartungen von Gästen und Kritikern sind hoch. 
+Keine leichte Situation, vor allem in Zwei-Sternebetrieben, schließlich möchte man keinesfalls wieder auf einen Stern zurückfallen oder gar beide verlieren, und gleichzeitig reizt natürlich auch der weitere ,Aufstieg' in Form des begehrten, aber selten verliehenen dritten Michelin-Sterns. 
+Für Südtirols Zwei-Sterneköche und ihre Teams ist daher jeder Tag eine neue Herausforderung, die es bestmöglich zu bewältigen gilt. Filmemacherin Claudia Bosch beschäftigt sich in ihrer Dokumentation mit vielfältigen Aspekten rund um den ,Arbeitsort Zwei-Sternerestaurant'.</desc>
+  </programme>
+  <programme start="20240715185200 +0200" stop="20240715185743 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Der Vinschger Künstler Michael Fliri</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240715200000 +0200" stop="20240715202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240715202000 +0200" stop="20240715210600 +0200" channel="Rai Südtirol">
+    <title>Climate-Action</title>
+    <sub-title>Das Klima und ich</sub-title>
+    <desc>Der Filmemacher Max Gurschler begibt sich auf die Spuren des Treibhauseffektes und geht der Frage nach, was es mit dem Klimawandel auf sich hat. 
+Max Gurschler begibt sich auf eine spannende Entdeckungsreise, in der er dem Geheimnis des Treibhauseffekts auf die Spur kommt und startet ein faszinierendes Experiment: Mit Marmeladegläsern und selbst produziertem CO² zeigt er, wie sich unsere Atmosphäre durch das Treibhausgas erwärmt. Von verschneiten Bergtälern über mediterrane Promenaden bis hin zu verregneten Städten - Gurschler sucht nach Antworten und trifft dabei auf interessante Menschen und beeindruckende Geschichten. Außerdem geht er der Frage nach, wie übermäßiges CO² unsere Umwelt beeinflusst.</desc>
+  </programme>
+  <programme start="20240715210600 +0200" stop="20240715215927 +0200" channel="Rai Südtirol">
+    <title>Think Big</title>
+    <sub-title>Resiliente Gastronomie in Südtirol</sub-title>
+    <desc>Wie kann man in Südtirol eine nachhaltigere Gastronomie entwickeln? Dieser Frage geht Koch und Forscher Mattia Baroni nach und macht sich auf die Suche nach fermentierten Lebensmitteln. 
+Der Film erzählt den Werdegang von Mattia Baroni, einem Koch und Forscher, der die Rolle der Nahrung in der heutigen Gesellschaft hinterfragt und schließlich die Technik der Fermentierung für sich neu entdeckt. Eine uralte Methode der Lebensmittelverarbeitung, die heute in wissenschaftlichen und kulinarischen Kreisen wieder mehr ins Rampenlicht rückt. Wie hat sich diese Technik in unserem Land entwickelt? Und warum sind fermentierte Lebensmittel so gesund? Auf der Suche nach Antworten trifft Chefkoch Baroni auf ein Team von leidenschaftlichen Gastronomen und Forschern, die sich mit genau diesen Themen befassen. Am Schluss die Frage: Wie können diese Überlegungen auf eine breitere, internationale Ebene gebracht werden? Es liegt an Mattia Baroni, diese letzte Frage zu beantworten.</desc>
+  </programme>
+  <programme start="20240715221000 +0200" stop="20240715223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240716200000 +0200" stop="20240716202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240716202000 +0200" stop="20240716203600 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch Folge 5</sub-title>
+    <desc>In der letzten Folge von &quot;Bullshit!&quot; wird getestet, wie viel Unsinn bei Diskussionen von den Politiker:innen der Wählerschaft aufgetischt wird. 
+Was passiert, wenn Südtirols Spitzenpolitiker:innen auf junge Menschen treffen, die ihre Partei ganz bestimmt nicht wählen? Junge Wähler:innen erklären politischen Vertreter:innen, was sie an der Politik der SVP, der Grünen und des Team K auszusetzen haben. Dabei drehen sich die Diskussionen um eine Vielzahl von Themen wie Jugend, Autonomie oder Lobbyismus. Beide Gesprächspartner:innen haben die Gelegenheit, ihre Position zu verteidigen und unfaire Kritik des Gegenübers richtigzustellen, um im Gespräch bestenfalls auf einen gemeinsamen Nenner zu kommen.</desc>
+  </programme>
+  <programme start="20240716203600 +0200" stop="20240716205113 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Rosengarten - Fensterleturm</sub-title>
+    <desc>Christian Holzknecht, alias &quot;Stl&quot; aus St. Ulrich, ist als Künstler über die Grenzen Südtirols hinaus bekannt. Beim Klettern am Fensterleturm im Rosengarten erzählt er, wie er durch die Kunst glücklich wird. Mit dabei ist der Bergführer Manfred Stuffer, der ihn durch die Ostwand führt. Die Route ist relativ einfach und - unter fachmännischer Begleitung - auch für Anfänger:innen geeignet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240716221000 +0200" stop="20240716223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240717200000 +0200" stop="20240717202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240717202000 +0200" stop="20240717205028 +0200" channel="Rai Südtirol">
+    <title>Das Thema</title>
+    <sub-title>Babybusiness</sub-title>
+    <desc>Die Geburt eines kleinen Menschen ist ein natürliches Ereignis. Damit werden aber auch Geschäfte gemacht: Babys und ihre Bedürfnisse sind ein Businessmodell. Ein Film von Andreas Niederkofler. 
+Damit der Start ins Leben gelingt, beginnen die Vorbereitungen schon lange vor dem ersten Schrei des Sprösslings. Während die einen auf Hightech und smarte Helfer setzen, meinen andere, dass Babys eher Dinge und Werte brauchen, die sich nicht kaufen lassen. Dieser Film begleitet Menschen, die auf unterschiedlichste Weise Teil des Südtiroler &quot;Babybusiness&quot; sind.</desc>
+  </programme>
+  <programme start="20240717221000 +0200" stop="20240717223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240718200000 +0200" stop="20240718202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240718202000 +0200" stop="20240718204930 +0200" channel="Rai Südtirol">
+    <title>8 von 18</title>
+    <sub-title>Die Geschwister Zelger</sub-title>
+    <desc>Die Geschwister Zelger waren früher ein Begriff: Die acht singenden Mädchen der Großfamilie vom Poll-Hof in Deutschnofen wurden 1978 im In- und Ausland bekannt. Ein Blick zurück. 
+Sie waren die ersten Südtiroler Gäste, die vom ZDF eingeladen wurden, bei der bekannten Fernsehsendung &quot;Der große Preis&quot; mit Wim Thoelke in Berlin aufzutreten und musikalische Grüße aus Südtirol zu überbringen.  
+Das Besondere war einerseits, dass sie acht von achtzehn Geschwistern waren und anderseits erregte der Zusammenklang ihrer Stimmen Aufsehen. 
+Entdeckt wurden sie von Hans Simmerle, der seit den 1960er Jahren das musikalische Geschehen in Deutschnofen maßgeblich beeinflusste. 
+Historische Aufnahmen von Fernsehsendungen, vom RAI-Gesangswettbewerb &quot;Unser Lied&quot; und Anekdoten erinnern an diese bewegten Jahre. 
+Der Film von Waltraud Pircher und Konrad Plaickner gewährt auch Einblicke in das heutige Leben der Geschwister Zelger.</desc>
+  </programme>
+  <programme start="20240718221000 +0200" stop="20240718223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240719180000 +0200" stop="20240719185221 +0200" channel="Rai Südtirol">
+    <title>Brahmaputra</title>
+    <sub-title>Der große Fluss vom Himalaya (Folge 2)</sub-title>
+    <desc>Die turbulente Wechselbeziehung zwischen dem größten Gebirge und einem der größten Flüsse der Welt: Der Brahmaputra und das Dach der Welt, das Himalaya-Gebirge. Folge zwei der dreiteiligen Fernsehreihe auf Rai Südtirol.
+Der Lauf des Brahmaputra führt von nahezu menschenleeren Regionen auf 5000 Metern Höhe hinab in die am dichtesten besiedelte Gegend der Erde - bis zur Mündung in den Ozean. Auf dieser Strecke fließt der Brahmaputra durch eine unbeschreibliche Vielfalt von Klimazonen, Landschaften, Ökosystemen und Kulturen. Die immer noch andauernde Kollision zweier einst getrennter Kontinente, Indien und Asien, hat sowohl den Himalaya geboren als auch das Flusssystem geformt. Ohne den Brahmaputra und seine Zuflüsse wäre der Himalaya um ein Mehrfaches höher.
+Durch den Einsatz von Drohnen entstanden Aufnahmen aus einem bisher verbotenen sowie logistisch schwer zugänglichen Land, wie die Welt sie noch nie gesehen hat. Ein Film von Klaus Fichtenberger.</desc>
+  </programme>
+  <programme start="20240719185200 +0200" stop="20240719185733 +0200" channel="Rai Südtirol">
+    <title>Kumar Anil</title>
+    <sub-title>Gesichter mit Geschichten</sub-title>
+    <desc>In der Sendereihe &quot;Gesichter mit Geschichten&quot; porträtieren Astrid Kofler und Helmut Lechthaler verschiedene Personen, die in Südtirol eine neue Heimat gefunden haben. In dieser Folge geht es um den Inder Kumar Anil. Heimat ist ein Gefühl und kann so vieles sein: ein Ort, bestimmte Menschen, eine Sprache, eine Erinnerung. Heimat - das sind Lebenskonzepte, Geschichten der Liebe, der Neugierde, des Suchens, der Hoffnung, der Zuversicht. Es sind Geschichten des Nachdenkens über die Chancen der Vielfalt, über das Zusammenleben und den Respekt.</desc>
+  </programme>
+  <programme start="20240719200000 +0200" stop="20240719202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240719202000 +0200" stop="20240719203207 +0200" channel="Rai Südtirol">
+    <title>Christophorus-Aktion 2024</title>
+    <sub-title>Ein Lastwagen verändert das Leben</sub-title>
+    <desc>Jedes Jahr sammelt die Katholische Männerbewegung Spenden für Fahrzeuge in Missionsstationen auf der ganzen Welt. In der diesjährigen Aktion wurde ein Projekt in Madagaskar unterstützt. 
+Im späten 19. Jahrhundert wurde Madagaskar französische Kolonie und daraufhin wurden alle Rohstoffe nach Europa transportiert. Der Großteil des Landes hat sich durch die flächendeckende Abholzung in eine karge, trostlose Landschaft verwandelt. Trockenheit und Dürre machen die landwirtschaftliche Nutzung schwierig. Außerhalb der Regenzeit ist das Wasser in vielen Teilen des Landes sehr knapp, vor allem im Süden der Insel. Mit dem neuen LKW, den die Hilfsorganisation SOS-Toliara mit Unterstützung der Christophorus-Aktion aus Südtirol kaufen konnte, ist es möglich, sauberes Wasser aus der Stadt Toliara zu einem fairen Preis zu den Menschen zu bringen. Die Hilfsorganisation SOS-Toliara eröffnet den Menschen hier im Süden von Madagaskar eine Zukunft: Der LKW ist ein wichtiges Puzzlestück für ihre Arbeit.</desc>
+  </programme>
+  <programme start="20240719203200 +0200" stop="20240719212311 +0200" channel="Rai Südtirol">
+    <title>Wildes Griechenland</title>
+    <sub-title>Kontrastreiche Natur (Folge 1)</sub-title>
+    <desc>Griechenland ist einzigartig. Nirgendwo sonst liegen unterschiedliche Temperaturzonen, eiszeitliche Seen, dicht bewaldete Urwälder und kahle, wüstenähnliche Regionen so nahe beisammen wie hier.  
+Nirgendwo existiert eine vielfältigere und kontrastreichere Natur mit Tieren, die in Europa sonst kaum noch in freier Wildbahn vorkommen. Kein Zufall, dass sich hier, zwischen dem schneebedeckten Gipfel des Olymp und den blauen Buchten der Ägäis, die erste Hochkultur Europas entwickelt hat. 
+Im Norden mit seinen einsamen und unwegsamen Bergregionen entdecken wir ein nahezu unbekanntes Griechenland. Weite Teile des Festlandes sind von hohen Gebirgen und tiefen Schluchten durchzogen. Diese Regionen sind extrem dünn besiedelt. Es ist ein rauer, ungezähmter Naturraum mit eiszeitlichen Seen, schneebedeckten Gipfeln, dicht bewaldeten Wäldern und unberührten Flussdeltas.</desc>
+  </programme>
+  <programme start="20240719212300 +0200" stop="20240719215915 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Johann Finatzer</sub-title>
+    <desc>Das Leben schreibt einzigartige Geschichten, und das wird zum Credo der neuen Sendereihe &quot;Momentum&quot;. Den Anfang macht ein Porträt des vielseitigen Musikers Johann Finatzer. 
+Der Film zeigt nicht nur Finatzers beeindruckende musikalische Karriere, sondern auch seine Leidenschaft für Technik, Natur und Handwerk. Neben seinen Erfolgen als Solist, Dirigent und Komponist taucht &quot;Momentum&quot; in die Welt des Musikers ab, die von Maschinen, Wald und kreativem Werkeln geprägt ist. Doch hinter den Kulissen verbirgt sich auch ein Drama, das Finatzers Leben erschütterte und seine Perspektive veränderte. Mit intimen Interviews, beeindruckenden Filmaufnahmen und musikalischen Höhepunkten lädt &quot;Momentum&quot; das Publikum ein, die inspirierende Reise dieses vielseitigen Künstlers mitzuerleben. Der Film unter der Regie von Thomas Vonmetz ist eine Hommage an Johann Finatzers Lebenswerk und eine Feier der Kraft der Musik sowie der menschlichen Resilienz.</desc>
+  </programme>
+  <programme start="20240719221000 +0200" stop="20240719223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240720175900 +0200" stop="20240720184403 +0200" channel="Rai Südtirol">
+    <title>Mythos Porsche</title>
+    <sub-title>Eine Automarke mit Geschichte</sub-title>
+    <desc>Wenn man Automobilfans nach ihrem Traumauto fragt, fällt sofort ein Name: Porsche - der Inbegriff eines schnellen Sportwagens, der schon seit Jahrzehnten Fahrer auf der ganzen Welt begeistert.  
+Auch in Südtirol finden sich zahlreiche Porsche-Besitzer, die so einiges über die Kultmarke zu berichten wissen und viele besondere Geschichten und Erlebnisse mit ihren reizvollen Gefährten verbinden. 
+Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Südtiroler Porsche-Liebhabern und deren ganz unterschiedlichen Fahrzeugen.</desc>
+  </programme>
+  <programme start="20240720184500 +0200" stop="20240720185707 +0200" channel="Rai Südtirol">
+    <title>Christophorus-Aktion 2024</title>
+    <sub-title>Ein Lastwagen verändert das Leben</sub-title>
+    <desc>Jedes Jahr sammelt die Katholische Männerbewegung Spenden für Fahrzeuge in Missionsstationen auf der ganzen Welt. In der diesjährigen Aktion wurde ein Projekt in Madagaskar unterstützt. 
+Im späten 19. Jahrhundert wurde Madagaskar französische Kolonie und daraufhin wurden alle Rohstoffe nach Europa transportiert. Der Großteil des Landes hat sich durch die flächendeckende Abholzung in eine karge, trostlose Landschaft verwandelt. Trockenheit und Dürre machen die landwirtschaftliche Nutzung schwierig. Außerhalb der Regenzeit ist das Wasser in vielen Teilen des Landes sehr knapp, vor allem im Süden der Insel. Mit dem neuen LKW, den die Hilfsorganisation SOS-Toliara mit Unterstützung der Christophorus-Aktion aus Südtirol kaufen konnte, ist es möglich, sauberes Wasser aus der Stadt Toliara zu einem fairen Preis zu den Menschen zu bringen. Die Hilfsorganisation SOS-Toliara eröffnet den Menschen hier im Süden von Madagaskar eine Zukunft: Der LKW ist ein wichtiges Puzzlestück für ihre Arbeit.</desc>
+  </programme>
+  <programme start="20240720200000 +0200" stop="20240720202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240720202100 +0200" stop="20240720202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240720202500 +0200" stop="20240720205430 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria spezial</title>
+    <sub-title/>
+    <desc>In München gibt es mehr als 6000 Straßen. Vier davon wollen wir uns genauer ansehen: die Ludwigstraße, die Rosenheimer Straße, die Theatinerstraße und die Dachauer Straße. Die Ludwigstraße - die Prachtstraße, gestaltet von König Ludwig I. und seinen Architekten. Die Theatinerstraße - die Einkaufsmeile mit exklusiven Geschäften. Die Rosenheimer Straße ist die Verlängerung der Salzburger Autobahn in die Münchner Innenstadt hinein. An ihrem Endpunkt steht das Müller'sche Volksbad, ein Jugendstil-Juwel. Und die Dachauer Straße: Münchens längste Straße mit mehr als elf Kilometern, die von ganz weit draußen hineinführt in die Innenstadt.</desc>
+  </programme>
+  <programme start="20240720221000 +0200" stop="20240720223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240721200000 +0200" stop="20240721202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240721202000 +0200" stop="20240721204930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt - eigene Wege gehen</title>
+    <sub-title/>
+    <desc>In dieser Woche blickt das Magazin Bergwelt auf die erste Südtiroler Grönlandexpedition 1967 und ist mit dem Kletterer Simon Messner unterwegs. 
+Er ist ein Aussteiger, Bergsteiger und Bergbauer: Simon Messner hat sich für einen ganz eigenen Alpinismus entschieden: am liebsten in wenig erschlossenem Gelände ohne Anspruch auf Spitzenleistung. Nebenbei bewirtschaftet der studierte Mikrobiologe den Oberortlhof auf Juval. Kein leichtes Erbe aber eine spannende Herausforderung. Danach schauen wir zurück auf die erste Südtiroler Grönland-Expedition von 1967.  In einer Zeit als es kaum Informationen über diese wilden Berg- und Eislandschaften gegeben hat, haben vier damals junge Südtiroler im grönländischen Inlandeis über 30 völlig unbekannte Gipfel erstbesteigen.</desc>
+  </programme>
+  <programme start="20240721205000 +0200" stop="20240721205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240721221000 +0200" stop="20240721223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
