@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240713180000 +0200" stop="20240713183800 +0200" channel="Rai Südtirol">
-    <title>Grüne Begleiter</title>
-    <sub-title>Der Sommer</sub-title>
-    <desc>Leuchtend-pralle Holunderbeeren, schattenspendende Linden am Dorfplatz, mächtige Eichen im spätsommerlichen Abendlicht. Der Sommer bringt aber auch Stürme und Gewitter.
-Der Sommer in seiner Fülle und Pracht zeigt uns eines: In der Natur liegen Schönes und Schreckliches, Licht und Schatten oft nah beieinander: Stürme knicken Stämme, schaffen aber auch Platz für neues Leben. Pflanzen stecken voller wertvoller Inhaltsstoffe, aber auch voller Gifte. Neue Arten dringen in alte Waldgemeinschaften ein; sie verändern, schädigen oder bereichern diese Lebensräume. Ein Film von Günther Haller.</desc>
-  </programme>
-  <programme start="20240713183800 +0200" stop="20240713185710 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Der Penauder Höhenweg</sub-title>
-    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
-  </programme>
-  <programme start="20240713200000 +0200" stop="20240713202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240713202100 +0200" stop="20240713202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240713202500 +0200" stop="20240713205137 +0200" channel="Rai Südtirol">
-    <title>in memoriam: Michael Höllrigl</title>
-    <sub-title/>
-    <desc>Der Laaser Künstler Michael Höllrigl hatte zunächst als Steinmetz gearbeitet, um später die Akademie in München zu besuchen. Einige seiner Arbeiten befinden sich im öffentlichen Raum.
-Nach seinem Studium übernimmt Höllrigl den elterlichen Betrieb, arbeitet parallel dazu aber auch als Künstler. Einer breiteren Öffentlichkeit wird Höllrigl durch seine Skulpturen im öffentlichen Raum bekannt. Seine Arbeiten stehen beispielsweise am Bozner Pfarrplatz, im Atrium der Raiffeisen Landesbank. Er schuf auch die Altäre im Bozner Dom und in der St. Martinskirche in Kastelbell.
-Trotz vieler Widrigkeiten und Zweifel hat er ein Werk geschaffen, dessen Leitthema die Frage nach dem Existentiellen und die Suche nach den eigenen Fundamenten ist.
-Der Künstler starb am 18.Juni im Alter von 88 Jahren.</desc>
-  </programme>
-  <programme start="20240713221000 +0200" stop="20240713223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240714200000 +0200" stop="20240714202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
