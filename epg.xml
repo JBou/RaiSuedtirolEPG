@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240714200000 +0200" stop="20240714202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240714202000 +0200" stop="20240714204430 +0200" channel="Rai Südtirol">
-    <title>Brenner</title>
-    <sub-title>Land und Leute</sub-title>
-    <desc>Das Dorf Brenner ist ein wichtiger Verkehrsknotenpunkt, der schon seit Jahrhunderten eine bedeutende Handelsroute darstellt. Die Menschen leben von Handel und Dienstleistungen.
-Schon viele bekannte Persönlichkeiten haben den Ort passiert nicht nur Herrscher, sondern auch Künstler und Gelehrte.
-Bekannt war im 20. Jahrhundert auch das Brennerbad, das prominente Persönlichkeiten aus verschiedenen Ländern anzog. Die Thermalquellen wurden für ihre heilenden Eigenschaften geschätzt. Heute ist das Bad nicht mehr in Betrieb, aber seine Geschichte als historischer Kurort bleibt erhalten.
-Derzeit leben im Dorf Brenner 269 Menschen. Es hat im Laufe der Jahre einen deutlichen Bevölkerungsrückgang erlebt, was hauptsächlich auf den Wegzug von Staatsbeamten und Einheimischen zurückzuführen ist. Die Menschen dort leben hauptsächlich vom Grenz- und Durchgangsverkehr. Seit der Eröffnung eines Outlet-Centers im Jahr 2007 hat der Einzelhandel an Bedeutung gewonnen.
-Die Bar Terminus am Brenner ist eine Gaststätte, die von Einheimischen, aber auch von Durchreisenden genutzt wird. Auch namhafte Politiker haben in dieser Bar bereits Halt gemacht.</desc>
-  </programme>
-  <programme start="20240714204500 +0200" stop="20240714204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240714221000 +0200" stop="20240714223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240715180000 +0200" stop="20240715185254 +0200" channel="Rai Südtirol">
     <title>Arbeitsort Zwei-Sternerestaurant</title>
     <sub-title>Ein Blick in die Spitzengastronomie</sub-title>
