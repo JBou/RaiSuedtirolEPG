@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240715180000 +0200" stop="20240715185254 +0200" channel="Rai Südtirol">
-    <title>Arbeitsort Zwei-Sternerestaurant</title>
-    <sub-title>Ein Blick in die Spitzengastronomie</sub-title>
-    <desc>Eine Tätigkeit in der Sternegastronomie ist nichts für schwache Nerven, steht man doch permanent unter einem großen Leistungsdruck, denn die Erwartungen von Gästen und Kritikern sind hoch. 
-Keine leichte Situation, vor allem in Zwei-Sternebetrieben, schließlich möchte man keinesfalls wieder auf einen Stern zurückfallen oder gar beide verlieren, und gleichzeitig reizt natürlich auch der weitere ,Aufstieg' in Form des begehrten, aber selten verliehenen dritten Michelin-Sterns. 
-Für Südtirols Zwei-Sterneköche und ihre Teams ist daher jeder Tag eine neue Herausforderung, die es bestmöglich zu bewältigen gilt. Filmemacherin Claudia Bosch beschäftigt sich in ihrer Dokumentation mit vielfältigen Aspekten rund um den ,Arbeitsort Zwei-Sternerestaurant'.</desc>
-  </programme>
-  <programme start="20240715185200 +0200" stop="20240715185743 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Der Vinschger Künstler Michael Fliri</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240715200000 +0200" stop="20240715202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240715202000 +0200" stop="20240715210600 +0200" channel="Rai Südtirol">
-    <title>Climate-Action</title>
-    <sub-title>Das Klima und ich</sub-title>
-    <desc>Der Filmemacher Max Gurschler begibt sich auf die Spuren des Treibhauseffektes und geht der Frage nach, was es mit dem Klimawandel auf sich hat. 
-Max Gurschler begibt sich auf eine spannende Entdeckungsreise, in der er dem Geheimnis des Treibhauseffekts auf die Spur kommt und startet ein faszinierendes Experiment: Mit Marmeladegläsern und selbst produziertem CO² zeigt er, wie sich unsere Atmosphäre durch das Treibhausgas erwärmt. Von verschneiten Bergtälern über mediterrane Promenaden bis hin zu verregneten Städten - Gurschler sucht nach Antworten und trifft dabei auf interessante Menschen und beeindruckende Geschichten. Außerdem geht er der Frage nach, wie übermäßiges CO² unsere Umwelt beeinflusst.</desc>
-  </programme>
-  <programme start="20240715210600 +0200" stop="20240715215927 +0200" channel="Rai Südtirol">
-    <title>Think Big</title>
-    <sub-title>Resiliente Gastronomie in Südtirol</sub-title>
-    <desc>Wie kann man in Südtirol eine nachhaltigere Gastronomie entwickeln? Dieser Frage geht Koch und Forscher Mattia Baroni nach und macht sich auf die Suche nach fermentierten Lebensmitteln. 
-Der Film erzählt den Werdegang von Mattia Baroni, einem Koch und Forscher, der die Rolle der Nahrung in der heutigen Gesellschaft hinterfragt und schließlich die Technik der Fermentierung für sich neu entdeckt. Eine uralte Methode der Lebensmittelverarbeitung, die heute in wissenschaftlichen und kulinarischen Kreisen wieder mehr ins Rampenlicht rückt. Wie hat sich diese Technik in unserem Land entwickelt? Und warum sind fermentierte Lebensmittel so gesund? Auf der Suche nach Antworten trifft Chefkoch Baroni auf ein Team von leidenschaftlichen Gastronomen und Forschern, die sich mit genau diesen Themen befassen. Am Schluss die Frage: Wie können diese Überlegungen auf eine breitere, internationale Ebene gebracht werden? Es liegt an Mattia Baroni, diese letzte Frage zu beantworten.</desc>
-  </programme>
-  <programme start="20240715221000 +0200" stop="20240715223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240716200000 +0200" stop="20240716202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
