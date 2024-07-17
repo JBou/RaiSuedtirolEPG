@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240716200000 +0200" stop="20240716202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240716202000 +0200" stop="20240716203600 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch Folge 5</sub-title>
-    <desc>In der letzten Folge von &quot;Bullshit!&quot; wird getestet, wie viel Unsinn bei Diskussionen von den Politiker:innen der Wählerschaft aufgetischt wird. 
-Was passiert, wenn Südtirols Spitzenpolitiker:innen auf junge Menschen treffen, die ihre Partei ganz bestimmt nicht wählen? Junge Wähler:innen erklären politischen Vertreter:innen, was sie an der Politik der SVP, der Grünen und des Team K auszusetzen haben. Dabei drehen sich die Diskussionen um eine Vielzahl von Themen wie Jugend, Autonomie oder Lobbyismus. Beide Gesprächspartner:innen haben die Gelegenheit, ihre Position zu verteidigen und unfaire Kritik des Gegenübers richtigzustellen, um im Gespräch bestenfalls auf einen gemeinsamen Nenner zu kommen.</desc>
-  </programme>
-  <programme start="20240716203600 +0200" stop="20240716205113 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Rosengarten - Fensterleturm</sub-title>
-    <desc>Christian Holzknecht, alias &quot;Stl&quot; aus St. Ulrich, ist als Künstler über die Grenzen Südtirols hinaus bekannt. Beim Klettern am Fensterleturm im Rosengarten erzählt er, wie er durch die Kunst glücklich wird. Mit dabei ist der Bergführer Manfred Stuffer, der ihn durch die Ostwand führt. Die Route ist relativ einfach und - unter fachmännischer Begleitung - auch für Anfänger:innen geeignet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240716221000 +0200" stop="20240716223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240717200000 +0200" stop="20240717202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
