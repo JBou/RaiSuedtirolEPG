@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240717200000 +0200" stop="20240717202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240717202000 +0200" stop="20240717205028 +0200" channel="Rai Südtirol">
-    <title>Das Thema</title>
-    <sub-title>Babybusiness</sub-title>
-    <desc>Die Geburt eines kleinen Menschen ist ein natürliches Ereignis. Damit werden aber auch Geschäfte gemacht: Babys und ihre Bedürfnisse sind ein Businessmodell. Ein Film von Andreas Niederkofler. 
-Damit der Start ins Leben gelingt, beginnen die Vorbereitungen schon lange vor dem ersten Schrei des Sprösslings. Während die einen auf Hightech und smarte Helfer setzen, meinen andere, dass Babys eher Dinge und Werte brauchen, die sich nicht kaufen lassen. Dieser Film begleitet Menschen, die auf unterschiedlichste Weise Teil des Südtiroler &quot;Babybusiness&quot; sind.</desc>
-  </programme>
-  <programme start="20240717221000 +0200" stop="20240717223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240718200000 +0200" stop="20240718202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -131,6 +115,152 @@ Er ist ein Aussteiger, Bergsteiger und Bergbauer: Simon Messner hat sich für ei
     <desc/>
   </programme>
   <programme start="20240721221000 +0200" stop="20240721223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240722175900 +0200" stop="20240722181454 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch</sub-title>
+    <desc>Eine neue Talkshow, bei der die Sichtweise des Gegenübers möglichst korrekt wiedergegeben werden soll. Wenn nicht, dann fällt ein nachgebildeter Kuhfladen auf den Tisch. 
+Zwei Menschen mit unterschiedlichen Meinungen werden zu aktuellen Streitfragen eingeladen. Im Fokus stehen Konfliktlinien, die Südtirol durchziehen. Den Anfang machen Brigitte Foppa und Sven Knoll. Sie diskutieren über Migration, zweisprachige Schulen und übers Gendern.</desc>
+  </programme>
+  <programme start="20240722181400 +0200" stop="20240722185804 +0200" channel="Rai Südtirol">
+    <title>Grüne und andere Spinner</title>
+    <sub-title>Die Ökobewegung in Südtirol</sub-title>
+    <desc>Umwelt- und Naturschutz - diese Begriffe prägten die aufkeimende Ökobewegung der 1980iger
+Jahre. Auch in Südtirol. Die Filmdoku zeigt Erfolge und Niederlagen im Kampf um eine lebenswerte Zukunft. Die 1980iger Jahre waren europaweit geprägt durch große gesellschaftliche Umbrüche. Die Zivilgesellschaft begehrte auf und organisierte sich in der Friedensbewegung, in der Anti-Atomkraftbewegung und schließlich in einer großen Ökobewegung. In Südtirol entstanden die ersten Umweltgruppen. Es ging um den Erhalt von Naturräumen und Ökosystemen, um die Themen Konsum, Müllvermeidung, Gewässerschutz und um den damals schon ausufernden Individual- und Transitverkehr. Die Bewegung erhielt viel Zulauf. Neben den großen Verbänden entstanden ständig neue, kleine Umweltgruppen und Bürgerinitiativen. Man war trotz begrenzter technischer und finanzieller Mittel gut vernetzt und stand auch in ständigem, meist konfliktreichem Austausch mit der Landespolitik. In der Doku kommen Pionier:innen der Südtiroler Umweltbewegung aller drei Sprachgruppen zu Wort. Sie bedauern, dass die damaligen Entscheidungsträger die Zeichen der Zeit nicht erkennen wollten und so die heutige Situation mit zu verantworten haben.</desc>
+  </programme>
+  <programme start="20240722200000 +0200" stop="20240722202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240722202100 +0200" stop="20240722210124 +0200" channel="Rai Südtirol">
+    <title>Im Anflug</title>
+    <sub-title>Hubschrauber über Südtirol</sub-title>
+    <desc>Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Einsatzmöglichkeiten von Hubschraubern.
+
+Wirft man einen Blick in den Himmel, dann lassen sich heutzutage fast schon selbstverständlich in einer gewissen Regelmäßigkeit Hubschrauber ausmachen. Es sind schwebende Transporter, die eine lange Entwicklungsgeschichte hinter sich haben. 
+Gerade in einem alpinen Gebiet wie Südtirol werden diese effizienten Transportmittel in vielen Bereichen eingesetzt - es gibt aber durchaus auch kritische Stimmen.</desc>
+  </programme>
+  <programme start="20240722210100 +0200" stop="20240722214354 +0200" channel="Rai Südtirol">
+    <title>Die Machla</title>
+    <sub-title>Altes Handwerk erhalten, ein Stück Zeitgeschichte bewahren</sub-title>
+    <desc>Alte Handwerkskunst - hier wird mit den Händen Bleibendes geschaffen: ein Steintrog nach altem
+Muster ausgehöhlt, Dachbretter aus Lärchenholz gekloben, ein festlicher Kuhkranz gestickt.
+Erinnerungen an die früheren Wasserstellen sind heute noch vielerorts zu sehen. Mit diesen
+Zeugen der Vergangenheit verbunden ist ein altes Handwerk: das Herstellen von Steintrögen.
+Steinmetz Michl Oberhollenzer zeigt, wie ein &quot;Stuatrög&quot; nach altem Muster ausgehöhlt wird.
+Zur Herstellung von Dachbrettern wird stets Lärchenholz verwendet, weil dieses wetterresistenter ist. Bergbauer Peter Steger sucht den Bretterbaum aus, spaltet und putzt die Bretter - &quot;Dochbretto kliebn&quot; - , ehe er die Holzdächer eindeckt. &quot;Küihkronz aurichtn&quot; sagt man, wenn die Kranzkuh beim Almabtrieb einen festlichen Kopfschmuck erhält. Er besteht aus aufwändigen Stickarbeiten mit Perlen und Farbblech. Diese alten Handfertigkeiten haben in Südtirols Berggebieten heute noch Bestand, ja sie lebenwieder neu auf.</desc>
+  </programme>
+  <programme start="20240722214400 +0200" stop="20240722215913 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Gletscherhöhlen</sub-title>
+    <desc>Durch die massive Gletscherschmelze entstehen seit einigen Jahren zum Teil massive Hohlräume am Rand der Ferner. Diese Eishöhlen sind von bizarrer Schönheit und haben zwei Südtiroler Bergsteiger in ihren Bann gezogen. Mit ihnen ist Thomas Hainz unterwegs in der südlichen Ortlergruppe unterhalb der Punta San Matteo.</desc>
+  </programme>
+  <programme start="20240722221100 +0200" stop="20240722223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240723200000 +0200" stop="20240723202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240723202000 +0200" stop="20240723204446 +0200" channel="Rai Südtirol">
+    <title>Abenteuer Rucksack</title>
+    <sub-title>Vinschger Höhenweg (Folge I)</sub-title>
+    <desc>Abenteuer Rucksack am Vinschger Höhenweg von der Etschquelle am Reschen bis nach Staben im unteren Vinschgau. Die 108 Kilometer lange Strecke verläuft auf zum Teil malerischen Fuß- und Waalwegen. Filmemacherin Karin Duregger erlebt auf ihrer Wanderung die vielfältige Vegetation aus Steppengräsern und Kräutern und genießt den weiten Blick auf die höchsten Berge Südtirols -und ins fruchtbare Tal. In der ersten Folge der Reihe &quot;Abenteuer Rucksack&quot; wird unsere Wanderreporterin vom Suldner Bergführer Olaf Reinstadler begleitet. Er erzählt von seiner Leidenschaft für die Berge, seine Heimat Sulden und darüber, wie es ist, die deutsche Bundeskanzlerin Angela Merkel zu begleiten. Unser Team kommt am Weiler Plawenn und später an der Ortschaft Planeil vorbei, wo es in den achtziger Jahren gleich zweimal gebrannt hat: Beinahe das ganze Dorf wurde damals zerstört,
+nur die Kirche blieb verschont.</desc>
+  </programme>
+  <programme start="20240723204500 +0200" stop="20240723205111 +0200" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Kaninchen</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240723221000 +0200" stop="20240723223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240724200000 +0200" stop="20240724202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240724202000 +0200" stop="20240724204253 +0200" channel="Rai Südtirol">
+    <title>Abenteuer Rucksack</title>
+    <sub-title>Vinschger Höhenweg (Folge II)</sub-title>
+    <desc>Der Vinschger Höhenweg, von der Etschquelle am Reschen im Obervinschgau bis Staben im Untervinschgau - er vereint verschiedene Etappen. Die 108 kilometerlange Strecke verläuft auf teils bestehenden als auch neuen Fußwegen, auf Waalwegen oder Verbindungswegen zwischen Bauernhöfen und Weilern. Filmemacherin Karin Duregger kommt vorbei an einer vielfältigen Vegetation aus Steppengräsern und Kräutern und erhält spannende Aussichten auf die höchsten Berge Südtirols und in das fruchtbare Tal. In der zweiten Folge wandert der Karikaturist Peppi Tischler auf einer Etappe mit. Es geht vorbei an einem herrlich naturnahen Waal, dem Gschneierwaal oberhalb der Churburg bei Schluderns. Peppi Tischler und Karin Duregger unterhalten sich unterwegs über Tischlers Anfänge als Karikaturist und wo sich der bekannte Schnauzer heute umtreibt, nachdem er quasi &quot;umgesiedelt&quot; ist.</desc>
+  </programme>
+  <programme start="20240724204300 +0200" stop="20240724204954 +0200" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Wildtierzüchter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240724221000 +0200" stop="20240724223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240725200000 +0200" stop="20240725202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240725202000 +0200" stop="20240725204146 +0200" channel="Rai Südtirol">
+    <title>Abenteuer Rucksack</title>
+    <sub-title>Vinschger Höhenweg (Folge III)</sub-title>
+    <desc>Unterwegs am Vinschger Höhenweg werden die Zuschauer mit einer musikalischen Kostprobe
+von Patrick Strobel, Mitglied der Folkrockband Mainfelt, überrascht. Patrick und Reporterin Karin Duregger wandern am Sonnenberg entlang, vorbei an steilen und verlassenen Höfen in Richtung St. Martin im Kofel. Der Musiker erzählt in seiner lockeren Art über sein Leben und seine Auftritte in Deutschland. Ziel der letzten Etappe sind Staben und Schloss Juval. Dort plaudert Magdalena Messner über ihre Leidenschaft für das historische Gemäuer, wo ihre Eltern im Sommer wohnen.</desc>
+  </programme>
+  <programme start="20240725204100 +0200" stop="20240725204824 +0200" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Kuh-Frisör</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240725221000 +0200" stop="20240725223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240726175900 +0200" stop="20240726185103 +0200" channel="Rai Südtirol">
+    <title>Brahmaputra</title>
+    <sub-title>Der große Fluss vom Himalaya (Folge III)</sub-title>
+    <desc>In der dritten und letzten Episode des Mehrteilers &quot;Brahmaputra&quot; strebt der große Strom, der seine Reise in den eisigen Höhen des Himalaya begonnen hat, seinem Ende zu. Im Tiefland von Bangladesch von den Wassern zweier weiterer riesiger Ströme gespeist, von Ganges und Meghna, schafft er hier das größte Küstendelta der Erde - und den artenreichsten Mangrovenwald der Welt. Hatten auf der Nordseite des Himalaya vor allem Gletscherflüsse den Brahmaputra im Laufe des Frühjahrs anschwellen lassen, so sind es auf der Südseite die gewaltigen Wassermassen des Sommermonsuns.</desc>
+  </programme>
+  <programme start="20240726185100 +0200" stop="20240726185909 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Rosalyn D'Mello</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240726200000 +0200" stop="20240726202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240726202000 +0200" stop="20240726205900 +0200" channel="Rai Südtirol">
+    <title>Tagebuch auf hoher See</title>
+    <sub-title> Fabian Seyr</sub-title>
+    <desc>Der Bozner Fabian Seyr auf seinem größten Abenteuer: Er segelte mit einem Rennboot drei Monate lang von England bis Australien und hat sich damit einen Traum verwirklicht.
+
+Im Rahmen des &quot;CRTW-Race&quot; segelte der Bozner Fabian Seyr letztes Jahr um die halbe Welt. Mit seiner Kamera nimmt er uns mit auf eine beeindruckende Reise: Von den Vorbereitungen im englischen Portsmouth über das Leben an Bord eines Rennboots bis hin zu seiner Ankunft in Australien. Drei Monate auf hoher See, geprägt von tosendem Wind und stürmischen Wellen. Der Film berichtet über ein aufregendes Rennen über die Weltmeere und über die Leidenschaft und den Mut eines Mannes, der seinen Traum verwirklicht hat.</desc>
+  </programme>
+  <programme start="20240726205900 +0200" stop="20240726215014 +0200" channel="Rai Südtirol">
+    <title>Wildes Griechenland (Teil 2)</title>
+    <sub-title>Die geheimnisvollen Inseln</sub-title>
+    <desc>Viele Griechenland-Fans glauben, die griechischen Küsten und Inseln zu kennen. Aber der Eindruck täuscht: weite Abschnitte der insgesamt rund 15.000 km langen griechischen Küste sind völlig unberührt. Und von den über 3.000 Inseln ist nur ein kleiner Teil ganzjährig bewohnt. Da bleibt viel Platz für unberührte Natur.
+Diese einsamen Orte am und unter dem Meeresspiegel sind Rückzugsgebiete für eine faszinierende Flora und Fauna, die kein Urlauber je zu sehen bekommt.
+Die beiden Filmemacher Johannes Berger und Stephan Krasser sind mehrere Jahre lang mit ihrer Kamera kreuz und quer durch Griechenland gereist.</desc>
+  </programme>
+  <programme start="20240726215000 +0200" stop="20240726215831 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Stephen Lloyd</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240726221000 +0200" stop="20240726223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
