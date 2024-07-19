@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240718200000 +0200" stop="20240718202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240718202000 +0200" stop="20240718204930 +0200" channel="Rai Südtirol">
-    <title>8 von 18</title>
-    <sub-title>Die Geschwister Zelger</sub-title>
-    <desc>Die Geschwister Zelger waren früher ein Begriff: Die acht singenden Mädchen der Großfamilie vom Poll-Hof in Deutschnofen wurden 1978 im In- und Ausland bekannt. Ein Blick zurück. 
-Sie waren die ersten Südtiroler Gäste, die vom ZDF eingeladen wurden, bei der bekannten Fernsehsendung &quot;Der große Preis&quot; mit Wim Thoelke in Berlin aufzutreten und musikalische Grüße aus Südtirol zu überbringen.  
-Das Besondere war einerseits, dass sie acht von achtzehn Geschwistern waren und anderseits erregte der Zusammenklang ihrer Stimmen Aufsehen. 
-Entdeckt wurden sie von Hans Simmerle, der seit den 1960er Jahren das musikalische Geschehen in Deutschnofen maßgeblich beeinflusste. 
-Historische Aufnahmen von Fernsehsendungen, vom RAI-Gesangswettbewerb &quot;Unser Lied&quot; und Anekdoten erinnern an diese bewegten Jahre. 
-Der Film von Waltraud Pircher und Konrad Plaickner gewährt auch Einblicke in das heutige Leben der Geschwister Zelger.</desc>
-  </programme>
-  <programme start="20240718221000 +0200" stop="20240718223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240719180000 +0200" stop="20240719185221 +0200" channel="Rai Südtirol">
     <title>Brahmaputra</title>
     <sub-title>Der große Fluss vom Himalaya (Folge 2)</sub-title>
@@ -261,6 +241,41 @@ Die beiden Filmemacher Johannes Berger und Stephan Krasser sind mehrere Jahre la
     <desc/>
   </programme>
   <programme start="20240726221000 +0200" stop="20240726223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240727180000 +0200" stop="20240727182930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Eigene Wege gehen</sub-title>
+    <desc>In dieser Woche blickt das Magazin Bergwelt auf die erste Südtiroler Grönlandexpedition 1967 und ist mit dem Kletterer Simon Messner unterwegs. 
+Er ist ein Aussteiger, Bergsteiger und Bergbauer: Simon Messner hat sich für einen ganz eigenen Alpinismus entschieden: am liebsten in wenig erschlossenem Gelände ohne Anspruch auf Spitzenleistung. Nebenbei bewirtschaftet der studierte Mikrobiologe den Oberortlhof auf Juval. Kein leichtes Erbe aber eine spannende Herausforderung. Danach schauen wir zurück auf die erste Südtiroler Grönland-Expedition von 1967.  In einer Zeit als es kaum Informationen über diese wilden Berg- und Eislandschaften gegeben hat, haben vier damals junge Südtiroler im grönländischen Inlandeis über 30 völlig unbekannte Gipfel erstbesteigen.</desc>
+  </programme>
+  <programme start="20240727182900 +0200" stop="20240727185330 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria spezial</title>
+    <sub-title/>
+    <desc>In München gibt es mehr als 6000 Straßen. Vier davon wollen wir uns genauer ansehen: die Ludwigstraße, die Rosenheimer Straße, die Theatinerstraße und die Dachauer Straße. Die Ludwigstraße - die Prachtstraße, gestaltet von König Ludwig I. und seinen Architekten. Die Theatinerstraße - die Einkaufsmeile mit exklusiven Geschäften. Die Rosenheimer Straße ist die Verlängerung der Salzburger Autobahn in die Münchner Innenstadt hinein. An ihrem Endpunkt steht das Müller'sche Volksbad, ein Jugendstil-Juwel. Und die Dachauer Straße: Münchens längste Straße mit mehr als elf Kilometern, die von ganz weit draußen hineinführt in die Innenstadt.</desc>
+  </programme>
+  <programme start="20240727200000 +0200" stop="20240727202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240727202100 +0200" stop="20240727202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240727202500 +0200" stop="20240727205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Neue spezialisierte Berufsbilder für den Tourismus. Wie der Kochberuf für Frauen attraktiver gemacht werden kann. Junge Gastronomen und Junghandwerker diskutieren über Berufschancen.
+
+Die Südtiroler Dolcevita Hotels setzen auf maßgeschneiderte Mitarbeitende und bilden wieder Butler aus, engagieren Bar-Chefs und bemühen sich auch, neue Berufsbilder zu erschaffen, wie z.B. den Adventure Coach.
+Außerdem macht sich die Hoteliers- und Gastwirtejugend gemeinsam mit Junghandwerkern Gedanken über Berufschancen und über weitere aktuelle Themen der Wirtschaft. 
+Die Südtiroler Gastronomie ist - was den Kochberuf angeht - nach wie vor eine Männerdomäne. In Deutschland ist es nicht anders. Von 300 Michelin-Sternen tragen diesen gerade mal neun Frauen. In Südtirol ist Anna Matscher die einzige Sterneköchin von derzeit 21. &quot;Willkommen&quot; zeigt, wie eine Karriere auch in anderen Bereichen der Gastronomie für Frauen attraktiver werden kann.</desc>
+  </programme>
+  <programme start="20240727221000 +0200" stop="20240727223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
