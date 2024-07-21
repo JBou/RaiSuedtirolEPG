@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240720175900 +0200" stop="20240720184403 +0200" channel="Rai Südtirol">
-    <title>Mythos Porsche</title>
-    <sub-title>Eine Automarke mit Geschichte</sub-title>
-    <desc>Wenn man Automobilfans nach ihrem Traumauto fragt, fällt sofort ein Name: Porsche - der Inbegriff eines schnellen Sportwagens, der schon seit Jahrzehnten Fahrer auf der ganzen Welt begeistert.  
-Auch in Südtirol finden sich zahlreiche Porsche-Besitzer, die so einiges über die Kultmarke zu berichten wissen und viele besondere Geschichten und Erlebnisse mit ihren reizvollen Gefährten verbinden. 
-Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Südtiroler Porsche-Liebhabern und deren ganz unterschiedlichen Fahrzeugen.</desc>
-  </programme>
-  <programme start="20240720184500 +0200" stop="20240720185707 +0200" channel="Rai Südtirol">
-    <title>Christophorus-Aktion 2024</title>
-    <sub-title>Ein Lastwagen verändert das Leben</sub-title>
-    <desc>Jedes Jahr sammelt die Katholische Männerbewegung Spenden für Fahrzeuge in Missionsstationen auf der ganzen Welt. In der diesjährigen Aktion wurde ein Projekt in Madagaskar unterstützt. 
-Im späten 19. Jahrhundert wurde Madagaskar französische Kolonie und daraufhin wurden alle Rohstoffe nach Europa transportiert. Der Großteil des Landes hat sich durch die flächendeckende Abholzung in eine karge, trostlose Landschaft verwandelt. Trockenheit und Dürre machen die landwirtschaftliche Nutzung schwierig. Außerhalb der Regenzeit ist das Wasser in vielen Teilen des Landes sehr knapp, vor allem im Süden der Insel. Mit dem neuen LKW, den die Hilfsorganisation SOS-Toliara mit Unterstützung der Christophorus-Aktion aus Südtirol kaufen konnte, ist es möglich, sauberes Wasser aus der Stadt Toliara zu einem fairen Preis zu den Menschen zu bringen. Die Hilfsorganisation SOS-Toliara eröffnet den Menschen hier im Süden von Madagaskar eine Zukunft: Der LKW ist ein wichtiges Puzzlestück für ihre Arbeit.</desc>
-  </programme>
-  <programme start="20240720200000 +0200" stop="20240720202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240720202100 +0200" stop="20240720202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240720202500 +0200" stop="20240720205430 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria spezial</title>
-    <sub-title/>
-    <desc>In München gibt es mehr als 6000 Straßen. Vier davon wollen wir uns genauer ansehen: die Ludwigstraße, die Rosenheimer Straße, die Theatinerstraße und die Dachauer Straße. Die Ludwigstraße - die Prachtstraße, gestaltet von König Ludwig I. und seinen Architekten. Die Theatinerstraße - die Einkaufsmeile mit exklusiven Geschäften. Die Rosenheimer Straße ist die Verlängerung der Salzburger Autobahn in die Münchner Innenstadt hinein. An ihrem Endpunkt steht das Müller'sche Volksbad, ein Jugendstil-Juwel. Und die Dachauer Straße: Münchens längste Straße mit mehr als elf Kilometern, die von ganz weit draußen hineinführt in die Innenstadt.</desc>
-  </programme>
-  <programme start="20240720221000 +0200" stop="20240720223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240721200000 +0200" stop="20240721202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
