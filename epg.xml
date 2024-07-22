@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240721200000 +0200" stop="20240721202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240721202000 +0200" stop="20240721204930 +0200" channel="Rai Südtirol">
-    <title>Bergwelt - eigene Wege gehen</title>
-    <sub-title/>
-    <desc>In dieser Woche blickt das Magazin Bergwelt auf die erste Südtiroler Grönlandexpedition 1967 und ist mit dem Kletterer Simon Messner unterwegs. 
-Er ist ein Aussteiger, Bergsteiger und Bergbauer: Simon Messner hat sich für einen ganz eigenen Alpinismus entschieden: am liebsten in wenig erschlossenem Gelände ohne Anspruch auf Spitzenleistung. Nebenbei bewirtschaftet der studierte Mikrobiologe den Oberortlhof auf Juval. Kein leichtes Erbe aber eine spannende Herausforderung. Danach schauen wir zurück auf die erste Südtiroler Grönland-Expedition von 1967.  In einer Zeit als es kaum Informationen über diese wilden Berg- und Eislandschaften gegeben hat, haben vier damals junge Südtiroler im grönländischen Inlandeis über 30 völlig unbekannte Gipfel erstbesteigen.</desc>
-  </programme>
-  <programme start="20240721205000 +0200" stop="20240721205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240721221000 +0200" stop="20240721223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240722175900 +0200" stop="20240722181454 +0200" channel="Rai Südtirol">
     <title>Bullshit!</title>
     <sub-title>Das strategische Streitgespräch</sub-title>
