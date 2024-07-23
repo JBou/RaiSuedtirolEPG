@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240722175900 +0200" stop="20240722181454 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch</sub-title>
-    <desc>Eine neue Talkshow, bei der die Sichtweise des Gegenübers möglichst korrekt wiedergegeben werden soll. Wenn nicht, dann fällt ein nachgebildeter Kuhfladen auf den Tisch. 
-Zwei Menschen mit unterschiedlichen Meinungen werden zu aktuellen Streitfragen eingeladen. Im Fokus stehen Konfliktlinien, die Südtirol durchziehen. Den Anfang machen Brigitte Foppa und Sven Knoll. Sie diskutieren über Migration, zweisprachige Schulen und übers Gendern.</desc>
-  </programme>
-  <programme start="20240722181400 +0200" stop="20240722185804 +0200" channel="Rai Südtirol">
-    <title>Grüne und andere Spinner</title>
-    <sub-title>Die Ökobewegung in Südtirol</sub-title>
-    <desc>Umwelt- und Naturschutz - diese Begriffe prägten die aufkeimende Ökobewegung der 1980iger
-Jahre. Auch in Südtirol. Die Filmdoku zeigt Erfolge und Niederlagen im Kampf um eine lebenswerte Zukunft. Die 1980iger Jahre waren europaweit geprägt durch große gesellschaftliche Umbrüche. Die Zivilgesellschaft begehrte auf und organisierte sich in der Friedensbewegung, in der Anti-Atomkraftbewegung und schließlich in einer großen Ökobewegung. In Südtirol entstanden die ersten Umweltgruppen. Es ging um den Erhalt von Naturräumen und Ökosystemen, um die Themen Konsum, Müllvermeidung, Gewässerschutz und um den damals schon ausufernden Individual- und Transitverkehr. Die Bewegung erhielt viel Zulauf. Neben den großen Verbänden entstanden ständig neue, kleine Umweltgruppen und Bürgerinitiativen. Man war trotz begrenzter technischer und finanzieller Mittel gut vernetzt und stand auch in ständigem, meist konfliktreichem Austausch mit der Landespolitik. In der Doku kommen Pionier:innen der Südtiroler Umweltbewegung aller drei Sprachgruppen zu Wort. Sie bedauern, dass die damaligen Entscheidungsträger die Zeichen der Zeit nicht erkennen wollten und so die heutige Situation mit zu verantworten haben.</desc>
-  </programme>
-  <programme start="20240722200000 +0200" stop="20240722202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240722202100 +0200" stop="20240722210124 +0200" channel="Rai Südtirol">
-    <title>Im Anflug</title>
-    <sub-title>Hubschrauber über Südtirol</sub-title>
-    <desc>Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Einsatzmöglichkeiten von Hubschraubern.
-
-Wirft man einen Blick in den Himmel, dann lassen sich heutzutage fast schon selbstverständlich in einer gewissen Regelmäßigkeit Hubschrauber ausmachen. Es sind schwebende Transporter, die eine lange Entwicklungsgeschichte hinter sich haben. 
-Gerade in einem alpinen Gebiet wie Südtirol werden diese effizienten Transportmittel in vielen Bereichen eingesetzt - es gibt aber durchaus auch kritische Stimmen.</desc>
-  </programme>
-  <programme start="20240722210100 +0200" stop="20240722214354 +0200" channel="Rai Südtirol">
-    <title>Die Machla</title>
-    <sub-title>Altes Handwerk erhalten, ein Stück Zeitgeschichte bewahren</sub-title>
-    <desc>Alte Handwerkskunst - hier wird mit den Händen Bleibendes geschaffen: ein Steintrog nach altem
-Muster ausgehöhlt, Dachbretter aus Lärchenholz gekloben, ein festlicher Kuhkranz gestickt.
-Erinnerungen an die früheren Wasserstellen sind heute noch vielerorts zu sehen. Mit diesen
-Zeugen der Vergangenheit verbunden ist ein altes Handwerk: das Herstellen von Steintrögen.
-Steinmetz Michl Oberhollenzer zeigt, wie ein &quot;Stuatrög&quot; nach altem Muster ausgehöhlt wird.
-Zur Herstellung von Dachbrettern wird stets Lärchenholz verwendet, weil dieses wetterresistenter ist. Bergbauer Peter Steger sucht den Bretterbaum aus, spaltet und putzt die Bretter - &quot;Dochbretto kliebn&quot; - , ehe er die Holzdächer eindeckt. &quot;Küihkronz aurichtn&quot; sagt man, wenn die Kranzkuh beim Almabtrieb einen festlichen Kopfschmuck erhält. Er besteht aus aufwändigen Stickarbeiten mit Perlen und Farbblech. Diese alten Handfertigkeiten haben in Südtirols Berggebieten heute noch Bestand, ja sie lebenwieder neu auf.</desc>
-  </programme>
-  <programme start="20240722214400 +0200" stop="20240722215913 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Gletscherhöhlen</sub-title>
-    <desc>Durch die massive Gletscherschmelze entstehen seit einigen Jahren zum Teil massive Hohlräume am Rand der Ferner. Diese Eishöhlen sind von bizarrer Schönheit und haben zwei Südtiroler Bergsteiger in ihren Bann gezogen. Mit ihnen ist Thomas Hainz unterwegs in der südlichen Ortlergruppe unterhalb der Punta San Matteo.</desc>
-  </programme>
-  <programme start="20240722221100 +0200" stop="20240722223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240723200000 +0200" stop="20240723202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
