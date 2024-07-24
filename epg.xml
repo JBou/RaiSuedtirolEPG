@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240723200000 +0200" stop="20240723202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240723202000 +0200" stop="20240723204446 +0200" channel="Rai Südtirol">
-    <title>Abenteuer Rucksack</title>
-    <sub-title>Vinschger Höhenweg (Folge I)</sub-title>
-    <desc>Abenteuer Rucksack am Vinschger Höhenweg von der Etschquelle am Reschen bis nach Staben im unteren Vinschgau. Die 108 Kilometer lange Strecke verläuft auf zum Teil malerischen Fuß- und Waalwegen. Filmemacherin Karin Duregger erlebt auf ihrer Wanderung die vielfältige Vegetation aus Steppengräsern und Kräutern und genießt den weiten Blick auf die höchsten Berge Südtirols -und ins fruchtbare Tal. In der ersten Folge der Reihe &quot;Abenteuer Rucksack&quot; wird unsere Wanderreporterin vom Suldner Bergführer Olaf Reinstadler begleitet. Er erzählt von seiner Leidenschaft für die Berge, seine Heimat Sulden und darüber, wie es ist, die deutsche Bundeskanzlerin Angela Merkel zu begleiten. Unser Team kommt am Weiler Plawenn und später an der Ortschaft Planeil vorbei, wo es in den achtziger Jahren gleich zweimal gebrannt hat: Beinahe das ganze Dorf wurde damals zerstört,
-nur die Kirche blieb verschont.</desc>
-  </programme>
-  <programme start="20240723204500 +0200" stop="20240723205111 +0200" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Kaninchen</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240723221000 +0200" stop="20240723223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240724200000 +0200" stop="20240724202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
