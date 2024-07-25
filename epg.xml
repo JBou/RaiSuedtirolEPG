@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240724200000 +0200" stop="20240724202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240724202000 +0200" stop="20240724204253 +0200" channel="Rai Südtirol">
-    <title>Abenteuer Rucksack</title>
-    <sub-title>Vinschger Höhenweg (Folge II)</sub-title>
-    <desc>Der Vinschger Höhenweg, von der Etschquelle am Reschen im Obervinschgau bis Staben im Untervinschgau - er vereint verschiedene Etappen. Die 108 kilometerlange Strecke verläuft auf teils bestehenden als auch neuen Fußwegen, auf Waalwegen oder Verbindungswegen zwischen Bauernhöfen und Weilern. Filmemacherin Karin Duregger kommt vorbei an einer vielfältigen Vegetation aus Steppengräsern und Kräutern und erhält spannende Aussichten auf die höchsten Berge Südtirols und in das fruchtbare Tal. In der zweiten Folge wandert der Karikaturist Peppi Tischler auf einer Etappe mit. Es geht vorbei an einem herrlich naturnahen Waal, dem Gschneierwaal oberhalb der Churburg bei Schluderns. Peppi Tischler und Karin Duregger unterhalten sich unterwegs über Tischlers Anfänge als Karikaturist und wo sich der bekannte Schnauzer heute umtreibt, nachdem er quasi &quot;umgesiedelt&quot; ist.</desc>
-  </programme>
-  <programme start="20240724204300 +0200" stop="20240724204954 +0200" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Wildtierzüchter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240724221000 +0200" stop="20240724223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240725200000 +0200" stop="20240725202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
