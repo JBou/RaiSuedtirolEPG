@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240725200000 +0200" stop="20240725202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240725202000 +0200" stop="20240725204146 +0200" channel="Rai Südtirol">
-    <title>Abenteuer Rucksack</title>
-    <sub-title>Vinschger Höhenweg (Folge III)</sub-title>
-    <desc>Unterwegs am Vinschger Höhenweg werden die Zuschauer mit einer musikalischen Kostprobe
-von Patrick Strobel, Mitglied der Folkrockband Mainfelt, überrascht. Patrick und Reporterin Karin Duregger wandern am Sonnenberg entlang, vorbei an steilen und verlassenen Höfen in Richtung St. Martin im Kofel. Der Musiker erzählt in seiner lockeren Art über sein Leben und seine Auftritte in Deutschland. Ziel der letzten Etappe sind Staben und Schloss Juval. Dort plaudert Magdalena Messner über ihre Leidenschaft für das historische Gemäuer, wo ihre Eltern im Sommer wohnen.</desc>
-  </programme>
-  <programme start="20240725204100 +0200" stop="20240725204824 +0200" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Kuh-Frisör</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240725221000 +0200" stop="20240725223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240726175900 +0200" stop="20240726185103 +0200" channel="Rai Südtirol">
     <title>Brahmaputra</title>
     <sub-title>Der große Fluss vom Himalaya (Folge III)</sub-title>
@@ -118,6 +97,175 @@ Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des 
     <desc/>
   </programme>
   <programme start="20240728221000 +0200" stop="20240728223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240729175900 +0200" stop="20240729181501 +0200" channel="Rai Südtirol">
+    <title>Bullshit! 2</title>
+    <sub-title>Das strategische Streitgespräch</sub-title>
+    <desc>Religion und Atheismus - &quot;Nun sag, wie hast du's mit der Religion?&quot; Auch wenn der Einfluss der Kirche schwindet und immer weniger Menschen an Gott glauben, bleibt diese Gretchenfrage hochaktuell.</desc>
+  </programme>
+  <programme start="20240729181500 +0200" stop="20240729185946 +0200" channel="Rai Südtirol">
+    <title>Religionen in Südtirol</title>
+    <sub-title/>
+    <desc>In Südtirol gibt es mittlerweile viele verschiedene Religionen. Unter anderem durch Migration kommen Menschen nach Südtirol, die nicht dem Christentum angehören. Welche Religionen gibt es Südtirol? Worin unterscheiden sie sich und noch viel wichtiger: wo gibt es Gemeinsamkeiten? Der Film von Hannes Penn geht diesen Fragen nach, anhand von sechs zentralen Themen. Vertreter der verschiedenen Religionen berichten über ihre Glaubenspraxis und wie ihre Religion zu den Themen Beten, Solidarität, Jenseits, Fasten und zur Rolle der Frau steht.</desc>
+  </programme>
+  <programme start="20240729200000 +0200" stop="20240729202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240729202100 +0200" stop="20240729212200 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Schlossfestspiele Dorf Tirol mit dem Stück &quot;Das Gespenst von Canterville&quot;, ein Porträt des Schauspielers René Dalla Costa, die Rittner Sommerspiele mit der Kriminalkomödie &quot;Acht Frauen&quot;.
+Die Schlossfestspiele Dorf Tirol präsentieren heuer &quot;Das Gespenst von Canterville&quot; nach Oscar Wilde, ein zeitloses Meisterwerk, das gruselige Schauer und charmanten Witz für die ganze Familie verspricht.
+Der 30jährige René Dalla Costa hat seit seiner Rückkehr nach Südtirol bei den verschiedensten Bühnen gespielt. Im Moment ist er im Kinder- und Jugendtheater im Kränzelhof zu sehen, heuer steht die &quot;Dumme Augustine&quot; auf dem Programm. Das Stück ist ein Kinderbuchklassiker von Otfried Preußler über Selbstverwirklichung und Emanzipation.
+Die Rittner Sommerspiele wagen sich heuer an die Adaptierung eines französischen Filmklassikers von Robert Thomas. &quot;Acht Frauen&quot; ist eine raffinierte Mischung aus Kriminalkomödie und Psychodrama. 
+Mit einer Prozession über die Alpen beginnt das belgische Kollektiv &quot;Petticoat Government&quot; sein Projekt für die Biennale von Venedig und macht dabei in Graun am Reschensee Halt. 
+Peter Kofler, geboren in Bozen und Wahlmünchner, gilt als einer der besten Organisten im deutschsprachigen Raum. Er hat Bachs gesamtes Orgelwerk eingespielt. Wir haben ihn in München besucht.  
+Roland Selva inszeniert seit Jahren die Freilichtspiele Südtiroler Unterland, und auch heuer wieder einen Klassiker: &quot;Der zerbrochene Krug&quot; von Heinrich von Kleist. Neu ist der Aufführungsort: der Bahnhof der Alten Fleimstalbahn in Montan.
+Zu Gast im Kompass-Gespräch sind Sigisbert Mutschlechner vom Toblacher Kultursommer und der Regisseur Roland Selva.</desc>
+  </programme>
+  <programme start="20240729212200 +0200" stop="20240729215140 +0200" channel="Rai Südtirol">
+    <title>Ada Zapperi</title>
+    <sub-title>Eine sizilianische Künstlerin in Südtirol</sub-title>
+    <desc>Humor und Charme, aber vor allem Selbstironie zeichnen die heute 86jährige Ada Zapperi aus. Die ehemalige Opernsängerin ist auch Buchautorin - und gefragte Gesangslehrerin. Ursprünglich in Sizilien geboren, lebt Ada Zapperi heute in München, bewohnt aber mit ihrem Mann Helmut Zucker eine Zweitwohnung in Brixen. Das Abenteuer Südtirol hat 1970 begonnen, kurz vor ihrem Karriereende als Opernsängerin. Hier in Südtirol fühlt sie sich frei und vor allem den Frauen aus der Zwischen- und Nachkriegszeit verbunden. Mit ihrem Buch &quot;Die
+Katakombenschule&quot; aus dem Jahr 2007 hat sie in Südtirol literarische Bekanntheit erlangt. Der Film zeigt ihr umtriebiges Leben als Gesangslehrerin und Buchautorin. Mit viel Witz, Charme und Selbstironie lässt sie die Zusehenden auch an ihrer Kindheit teilhaben und an den Anfängen ihrer Karriere.</desc>
+  </programme>
+  <programme start="20240729215100 +0200" stop="20240729215637 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Illustratorin Evi Gasser</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240729221000 +0200" stop="20240729223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240730200000 +0200" stop="20240730202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240730202000 +0200" stop="20240730204810 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Sommerleiden</sub-title>
+    <desc>Sonnenbrand, Hautveränderungen, schmerzhafte Krampfadern, schwere Beine, - diese typischen Sommerleiden werden oft unterschätzt, obwohl sie schwerwiegende Folgen haben können. Ein Film von Ulli Velano. In der Reportage Gesundheit spricht der Leiter der Dermatologie am Krankenhaus Bozen Klaus Eisendle, wie wichtig es ist, dass man sich und seine Familie vor der starken Sonneneinstrahlung schützt. Der plastische Chirurg Alexander Gardetto hat beobachtet, dass Hautveränderungen zunächst aus ästhetischen Gründen entfernt werden sollen - bei nährerer Betrachtung stellt sich oft heraus, dass aus dem Schönheitsfleck ein Hautkrebs entstanden ist. Auch die Gefäße leiden unter der Sommerhitze. Der Primar der Gefäß- und Thoraxchirurgie Bozen Reinhold Perkmann zeigt, wie Krampfadern gut und effizient entfernt werden können. Natürlich sollte jetzt die eigene Haus- und Reiseapotheke gut gefüllt sein. Was da alles rein muss, erklärt Apotheker Stephan Peer.</desc>
+  </programme>
+  <programme start="20240730221000 +0200" stop="20240730223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240731200000 +0200" stop="20240731202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240731202000 +0200" stop="20240731204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Almen im Wandel: Wie Hirten und Bauern mit den neuen Herausforderungen umgehen, wie der viele Regen die Heuarbeit erschwert, wie sich Weinbauern und Kellereien den Klimafragen stellen.
+
+Die Almwirtschaft und mit ihr die Almleute sind gefordert. Der Klimawandel, das Großraubwild und fehlendes Almpersonal verlangen ein Umdenken und stellen Hirten, Bauern und Almfachleute vor große Herausforderungen. Wie sie damit umgehen, wurde auf der Almwirtschaftstagung in Brixen diskutiert und beim Besuch auf der Koflalm in Villnöss direkt vor Ort erfahren. 
+Weitere Themen beschäftigen sich mit der beschwerlichen Heuarbeit, die wegen des vielen Regens nicht nur riskant ist, sondern auch die Heuqualität stark beeinträchtigt. Experten erklären, was die Bauern tun können, um das Schlimmste zu verhindern.
+Und in der Reihe &quot;Nachhaltige Landwirtschaft&quot; zeigen wir Beispiele ressourcenschonender Weinproduktion.</desc>
+  </programme>
+  <programme start="20240731221000 +0200" stop="20240731223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240801200000 +0200" stop="20240801202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240801202000 +0200" stop="20240801204942 +0200" channel="Rai Südtirol">
+    <title>Vom Winde verweht</title>
+    <sub-title>Mikroplastik bedeckt Südtirol</sub-title>
+    <desc>Die Dokumentation von Jutta Kußtatscher gibt Einblicke in Forschungsergebnisse, die erschüttern: Plastik ist überall - auf unserer Haut, in der Nahrung, im Wasser, in den Böden.  
+
+Während eines Monitorings in Südtirols Fließgewässern hat das Biologische Landeslabor 2023 Mikroplastik entdeckt. In den größeren Flussläufen haben sich das die Expertinnen erwartet, doch Mikroplastik in Bergbächen hat sie doch überrascht.  Macht man sich in Südtirol derzeit auf die Suche nach Mikroplastik, stellt man fest: Alle Labore haben nach Zufallsfunden die Spur der kleinen Kunststoffteile aufgenommen. Ob im Wasser oder im Boden - überall findet man Mikroplastik. Ein Kreislauf, der mit der Verwendung vom Plastik im häuslichen und gewerblichen Alltag beginnt und zuletzt beim Menschen endet. Eine aktuelle Studie aus Wien belegt, dass Mikroplastik auch das menschliche Gehirn erreicht. Ein Film von Jutta Kußtatscher und Martin Telser.</desc>
+  </programme>
+  <programme start="20240801221000 +0200" stop="20240801223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240802175800 +0200" stop="20240802184443 +0200" channel="Rai Südtirol">
+    <title>Faszination Bergseen</title>
+    <sub-title>Gewässer zwischen Idylle und Massentourismus</sub-title>
+    <desc>Bergseen übten schon immer eine besondere Faszination auf die Menschen aus, da sie meist
+nicht erkennen lassen, was genau sich in ihrem kühlen Nass verbirgt. So mancher See liegt versteckt und schwer zugänglich in hochalpinen Regionen. Andere hingegen werden aufgrund ihrer leichten Erreichbarkeit regelrecht vonTouristenströmen überrannt, was sich mancherorts zunehmend zu einem Problem entwickelt.
+Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Aspekten und Geschichten rund um verschiedene Südtiroler Bergseen.</desc>
+  </programme>
+  <programme start="20240802184400 +0200" stop="20240802185836 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Rosengarten - Fensterleturm</sub-title>
+    <desc>Christian Holzknecht, alias &quot;Stl&quot; aus St. Ulrich, ist als Künstler über die Grenzen Südtirols hinaus bekannt. Beim Klettern am Fensterleturm im Rosengarten erzählt er, wie er durch die Kunst glücklich wird. Mit dabei ist der Bergführer Manfred Stuffer, der ihn durch die Ostwand führt. Die Route ist relativ einfach und - unter fachmännischer Begleitung - auch für Anfänger:innen geeignet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240802200000 +0200" stop="20240802202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240802202100 +0200" stop="20240802212100 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Wenn Max noch einmal die Schulbank drückt, wenn unter freiem Himmel Pizza gebacken und über zerstörerische globale Marktsituationen diskutiert wird, dann heißt es wieder Erlebnis Südtirol.
+
+Karin Duregger werden wieder Gartenpforten geöffnet und sie wird hereingebeten in Gemüse-, Kräuter, und Blumengärten. Im Wipptal wandelt sie in einer einstigen Feuchtzone, in Niederdorf besucht sie einen Kräuterpfad und am Tschöggelberg wird sie beinah zur Meister-Pizzabäckerin.
+Max von Milland hingegen drückt anschließend noch einmal die Schulbank. Seine Herausforderung für &quot;SchachMax&quot; heißt diesmal: Matura machen. Der Brixner stellt sich sowohl der schriftlichen als auch der mündlichen Prüfung und begegnet dabei längst vergessenen Prüfungsängsten.</desc>
+  </programme>
+  <programme start="20240802212100 +0200" stop="20240802215030 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Neue spezialisierte Berufsbilder für den Tourismus. Wie der Kochberuf für Frauen attraktiver gemacht werden kann. Junge Gastronomen und Junghandwerker diskutieren über Berufschancen.
+Die Südtiroler Dolcevita Hotels setzen auf maßgeschneiderte Mitarbeitende und bilden wieder Butler aus, engagieren Bar-Chefs und bemühen sich auch, neue Berufsbilder zu erschaffen, wie z.B. den Adventure Coach. Außerdem macht sich die Hoteliers- und Gastwirtejugend gemeinsam mit Junghandwerkern Gedanken über Berufschancen und über weitere aktuelle Themen der Wirtschaft. Die Südtiroler Gastronomie ist - was den Kochberuf angeht - nach wie vor eine Männerdomäne. In Deutschland ist es nicht anders. Von 300 Michelin-Sternen tragen diesen gerade mal neun Frauen. In Südtirol ist Anna Matscher die einzige Sterneköchin von derzeit 21. &quot;Willkommen&quot; zeigt, wie eine Karriere auch in anderen Bereichen der Gastronomie für Frauen attraktiver werden kann.</desc>
+  </programme>
+  <programme start="20240802215000 +0200" stop="20240802215832 +0200" channel="Rai Südtirol">
+    <title>Im Einklang mit der Natur</title>
+    <sub-title>Einblicke in das Hirtenleben</sub-title>
+    <desc>Südtirols Hirtinnen und Hirten leben nach wie vor im Einklang mit der Natur. Sie nehmen eine wichtige Rolle in der Landwirtschaft ein und sind am Erhalt traditioneller Lebensweisen beteiligt. Sie tragen zur Bewirtschaftung unserer Landschaft und zum Schutz der Nutztiere bei. Aufgrund der vielen Herausforderungen stehen viele Almen in Südtirol aber vor dem Aus. Daniela Thaler hat einen langjährigen Hirten und eine Hirtin besucht.</desc>
+  </programme>
+  <programme start="20240802221000 +0200" stop="20240802223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240803175900 +0200" stop="20240803185830 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Schlossfestspiele Dorf Tirol mit dem Stück &quot;Das Gespenst von Canterville&quot;, ein Porträt des Schauspielers René Dalla Costa, die Rittner Sommerspiele mit der Kriminalkomödie &quot;Acht Frauen&quot;.
+Die Schlossfestspiele Dorf Tirol präsentieren heuer &quot;Das Gespenst von Canterville&quot; nach Oscar Wilde, ein zeitloses Meisterwerk, das gruselige Schauer und charmanten Witz für die ganze Familie verspricht.
+Der 30jährige René Dalla Costa hat seit seiner Rückkehr nach Südtirol bei den verschiedensten Bühnen gespielt. Im Moment ist er im Kinder- und Jugendtheater im Kränzelhof zu sehen, heuer steht die &quot;Dumme Augustine&quot; auf dem Programm. Das Stück ist ein Kinderbuchklassiker von Otfried Preußler über Selbstverwirklichung und Emanzipation.
+Die Rittner Sommerspiele wagen sich heuer an die Adaptierung eines französischen Filmklassikers von Robert Thomas. &quot;Acht Frauen&quot; ist eine raffinierte Mischung aus Kriminalkomödie und Psychodrama. 
+Mit einer Prozession über die Alpen beginnt das belgische Kollektiv &quot;Petticoat Government&quot; sein Projekt für die Biennale von Venedig und macht dabei in Graun am Reschensee Halt. 
+Peter Kofler, geboren in Bozen und Wahlmünchner, gilt als einer der besten Organisten im deutschsprachigen Raum. Er hat Bachs gesamtes Orgelwerk eingespielt. Wir haben ihn in München besucht.  
+Roland Selva inszeniert seit Jahren die Freilichtspiele Südtiroler Unterland, und auch heuer wieder einen Klassiker: &quot;Der zerbrochene Krug&quot; von Heinrich von Kleist. Neu ist der Aufführungsort: der Bahnhof der Alten Fleimstalbahn in Montan.
+Zu Gast im Kompass-Gespräch sind Sigisbert Mutschlechner vom Toblacher Kultursommer und der Regisseur Roland Selva.</desc>
+  </programme>
+  <programme start="20240803200000 +0200" stop="20240803202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240803202100 +0200" stop="20240803202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240803202500 +0200" stop="20240803205511 +0200" channel="Rai Südtirol">
+    <title>Kunst - Glaube - Musik</title>
+    <sub-title/>
+    <desc>Seit Menschengedenken strebt der Mensch nach dem Sinn des Lebens und nach Orientierung. Kunst, Musik und Religion sind untrennbar mit dieser Suche verbunden. Dazu ein Symposium. 
+
+Die Stiftung &quot;Musik Brixen&quot; lud im Oktober 2023 zum Symposium &quot;Glaube und Sinngebung in Musik und Kunst&quot; Referenten ein, die sich mit der Sinnstiftung durch ihre Arbeit auseinandersetzen. Die Schönheit von Musik und Kunst, die seit Jahrhunderten zur sinnlichen Darstellung von Glaubensinhalten dient, beeinflusst den Menschen maßgeblich. Darüber berichtet die TV-Dokumentation &quot;Kunst - Glaube - Musik&quot;. Untermalt wird sie von Konzertausschnitten des Violinisten Ingolf Turban und des Rundfunkchors des SWR unter der Leitung von Rupert Huber.</desc>
+  </programme>
+  <programme start="20240803221000 +0200" stop="20240803223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
