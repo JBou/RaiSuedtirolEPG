@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240726175900 +0200" stop="20240726185103 +0200" channel="Rai Südtirol">
-    <title>Brahmaputra</title>
-    <sub-title>Der große Fluss vom Himalaya (Folge III)</sub-title>
-    <desc>In der dritten und letzten Episode des Mehrteilers &quot;Brahmaputra&quot; strebt der große Strom, der seine Reise in den eisigen Höhen des Himalaya begonnen hat, seinem Ende zu. Im Tiefland von Bangladesch von den Wassern zweier weiterer riesiger Ströme gespeist, von Ganges und Meghna, schafft er hier das größte Küstendelta der Erde - und den artenreichsten Mangrovenwald der Welt. Hatten auf der Nordseite des Himalaya vor allem Gletscherflüsse den Brahmaputra im Laufe des Frühjahrs anschwellen lassen, so sind es auf der Südseite die gewaltigen Wassermassen des Sommermonsuns.</desc>
-  </programme>
-  <programme start="20240726185100 +0200" stop="20240726185909 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Rosalyn D'Mello</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240726200000 +0200" stop="20240726202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240726202000 +0200" stop="20240726205900 +0200" channel="Rai Südtirol">
-    <title>Tagebuch auf hoher See</title>
-    <sub-title> Fabian Seyr</sub-title>
-    <desc>Der Bozner Fabian Seyr auf seinem größten Abenteuer: Er segelte mit einem Rennboot drei Monate lang von England bis Australien und hat sich damit einen Traum verwirklicht.
-
-Im Rahmen des &quot;CRTW-Race&quot; segelte der Bozner Fabian Seyr letztes Jahr um die halbe Welt. Mit seiner Kamera nimmt er uns mit auf eine beeindruckende Reise: Von den Vorbereitungen im englischen Portsmouth über das Leben an Bord eines Rennboots bis hin zu seiner Ankunft in Australien. Drei Monate auf hoher See, geprägt von tosendem Wind und stürmischen Wellen. Der Film berichtet über ein aufregendes Rennen über die Weltmeere und über die Leidenschaft und den Mut eines Mannes, der seinen Traum verwirklicht hat.</desc>
-  </programme>
-  <programme start="20240726205900 +0200" stop="20240726215014 +0200" channel="Rai Südtirol">
-    <title>Wildes Griechenland (Teil 2)</title>
-    <sub-title>Die geheimnisvollen Inseln</sub-title>
-    <desc>Viele Griechenland-Fans glauben, die griechischen Küsten und Inseln zu kennen. Aber der Eindruck täuscht: weite Abschnitte der insgesamt rund 15.000 km langen griechischen Küste sind völlig unberührt. Und von den über 3.000 Inseln ist nur ein kleiner Teil ganzjährig bewohnt. Da bleibt viel Platz für unberührte Natur.
-Diese einsamen Orte am und unter dem Meeresspiegel sind Rückzugsgebiete für eine faszinierende Flora und Fauna, die kein Urlauber je zu sehen bekommt.
-Die beiden Filmemacher Johannes Berger und Stephan Krasser sind mehrere Jahre lang mit ihrer Kamera kreuz und quer durch Griechenland gereist.</desc>
-  </programme>
-  <programme start="20240726215000 +0200" stop="20240726215831 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Stephen Lloyd</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240726221000 +0200" stop="20240726223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240727180000 +0200" stop="20240727182930 +0200" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title>Eigene Wege gehen</sub-title>
@@ -266,6 +227,28 @@ Zu Gast im Kompass-Gespräch sind Sigisbert Mutschlechner vom Toblacher Kulturso
 Die Stiftung &quot;Musik Brixen&quot; lud im Oktober 2023 zum Symposium &quot;Glaube und Sinngebung in Musik und Kunst&quot; Referenten ein, die sich mit der Sinnstiftung durch ihre Arbeit auseinandersetzen. Die Schönheit von Musik und Kunst, die seit Jahrhunderten zur sinnlichen Darstellung von Glaubensinhalten dient, beeinflusst den Menschen maßgeblich. Darüber berichtet die TV-Dokumentation &quot;Kunst - Glaube - Musik&quot;. Untermalt wird sie von Konzertausschnitten des Violinisten Ingolf Turban und des Rundfunkchors des SWR unter der Leitung von Rupert Huber.</desc>
   </programme>
   <programme start="20240803221000 +0200" stop="20240803223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240804200000 +0200" stop="20240804202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240804202000 +0200" stop="20240804204944 +0200" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Athen</sub-title>
+    <desc>Ein und kultureller und stylischer Streifzug durch die griechische Hauptstadt. Athen ist mehr als Akropolis und Parlamentswache. Athen bedeutet auch Kunsthandwerk und Lebensfreude.
+
+Trotz zahlreicher Krisen ist es den Athenern immer wieder gelungen, die Lust am Leben nicht zu verlieren. Diese unfassbare Emotion und Hingabe, diese Freude und Gastfreundschaft, dieser Hunger nach Harmonie ist unbeschreiblich und wird in dieser unterhaltsamen Dokumentation mit Menschen und ihren Geschichten festgehalten.</desc>
+  </programme>
+  <programme start="20240804205000 +0200" stop="20240804205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240804221000 +0200" stop="20240804223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
