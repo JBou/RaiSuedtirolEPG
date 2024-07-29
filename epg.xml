@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240728200000 +0200" stop="20240728202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240728202000 +0200" stop="20240728204930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Im Versuchszentrum Laimburg werden gesundheitsfördernde Rezepturen entwickelt. Neue Sensoren und Materialien für die Landwirtschaft. Die Geschichte des Porphyrabbaus in Südtirol.
-Immer mehr Menschen leiden an dem sogenannten metabolischen Syndrom, das mehrere Krankheitsbilder umfasst. Das Versuchszentrum Laimburg und das Südtiroler Unternehmen Dr. Schär haben ein wissenschaftliches Projekt gestartet, um Rezepturen von gesundheitsfördernden Lebensmitteln zu entwickeln.
-Im zweiten Beitrag stellen wir Forscher an der Freien Universität Bozen vor, die neue Sensoren made in Südtirol entwickeln und mit neuartigen Materialien arbeiten, die in der landwirtschaftlichen Produktion von Nutzen sein können. 
-Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des Bergbaumuseums wie Armin Torggler folgen den Spuren des Porphyrabbaus und entdecken dabei neue Steinbrüche.</desc>
-  </programme>
-  <programme start="20240728205000 +0200" stop="20240728205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240728221000 +0200" stop="20240728223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240729175900 +0200" stop="20240729181501 +0200" channel="Rai Südtirol">
     <title>Bullshit! 2</title>
     <sub-title>Das strategische Streitgespräch</sub-title>
