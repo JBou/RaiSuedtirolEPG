@@ -4,21 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240730200000 +0200" stop="20240730202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240730202000 +0200" stop="20240730204810 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Sommerleiden</sub-title>
-    <desc>Sonnenbrand, Hautveränderungen, schmerzhafte Krampfadern, schwere Beine, - diese typischen Sommerleiden werden oft unterschätzt, obwohl sie schwerwiegende Folgen haben können. Ein Film von Ulli Velano. In der Reportage Gesundheit spricht der Leiter der Dermatologie am Krankenhaus Bozen Klaus Eisendle, wie wichtig es ist, dass man sich und seine Familie vor der starken Sonneneinstrahlung schützt. Der plastische Chirurg Alexander Gardetto hat beobachtet, dass Hautveränderungen zunächst aus ästhetischen Gründen entfernt werden sollen - bei nährerer Betrachtung stellt sich oft heraus, dass aus dem Schönheitsfleck ein Hautkrebs entstanden ist. Auch die Gefäße leiden unter der Sommerhitze. Der Primar der Gefäß- und Thoraxchirurgie Bozen Reinhold Perkmann zeigt, wie Krampfadern gut und effizient entfernt werden können. Natürlich sollte jetzt die eigene Haus- und Reiseapotheke gut gefüllt sein. Was da alles rein muss, erklärt Apotheker Stephan Peer.</desc>
-  </programme>
-  <programme start="20240730221000 +0200" stop="20240730223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240731200000 +0200" stop="20240731202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
