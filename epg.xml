@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240731200000 +0200" stop="20240731202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240731202000 +0200" stop="20240731204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Almen im Wandel: Wie Hirten und Bauern mit den neuen Herausforderungen umgehen, wie der viele Regen die Heuarbeit erschwert, wie sich Weinbauern und Kellereien den Klimafragen stellen.
-
-Die Almwirtschaft und mit ihr die Almleute sind gefordert. Der Klimawandel, das Großraubwild und fehlendes Almpersonal verlangen ein Umdenken und stellen Hirten, Bauern und Almfachleute vor große Herausforderungen. Wie sie damit umgehen, wurde auf der Almwirtschaftstagung in Brixen diskutiert und beim Besuch auf der Koflalm in Villnöss direkt vor Ort erfahren. 
-Weitere Themen beschäftigen sich mit der beschwerlichen Heuarbeit, die wegen des vielen Regens nicht nur riskant ist, sondern auch die Heuqualität stark beeinträchtigt. Experten erklären, was die Bauern tun können, um das Schlimmste zu verhindern.
-Und in der Reihe &quot;Nachhaltige Landwirtschaft&quot; zeigen wir Beispiele ressourcenschonender Weinproduktion.</desc>
-  </programme>
-  <programme start="20240731221000 +0200" stop="20240731223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240801200000 +0200" stop="20240801202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
