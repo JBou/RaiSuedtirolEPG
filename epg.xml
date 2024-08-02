@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240801200000 +0200" stop="20240801202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240801202000 +0200" stop="20240801204942 +0200" channel="Rai Südtirol">
-    <title>Vom Winde verweht</title>
-    <sub-title>Mikroplastik bedeckt Südtirol</sub-title>
-    <desc>Die Dokumentation von Jutta Kußtatscher gibt Einblicke in Forschungsergebnisse, die erschüttern: Plastik ist überall - auf unserer Haut, in der Nahrung, im Wasser, in den Böden.  
-
-Während eines Monitorings in Südtirols Fließgewässern hat das Biologische Landeslabor 2023 Mikroplastik entdeckt. In den größeren Flussläufen haben sich das die Expertinnen erwartet, doch Mikroplastik in Bergbächen hat sie doch überrascht.  Macht man sich in Südtirol derzeit auf die Suche nach Mikroplastik, stellt man fest: Alle Labore haben nach Zufallsfunden die Spur der kleinen Kunststoffteile aufgenommen. Ob im Wasser oder im Boden - überall findet man Mikroplastik. Ein Kreislauf, der mit der Verwendung vom Plastik im häuslichen und gewerblichen Alltag beginnt und zuletzt beim Menschen endet. Eine aktuelle Studie aus Wien belegt, dass Mikroplastik auch das menschliche Gehirn erreicht. Ein Film von Jutta Kußtatscher und Martin Telser.</desc>
-  </programme>
-  <programme start="20240801221000 +0200" stop="20240801223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240802175800 +0200" stop="20240802184443 +0200" channel="Rai Südtirol">
     <title>Faszination Bergseen</title>
     <sub-title>Gewässer zwischen Idylle und Massentourismus</sub-title>
@@ -114,6 +97,191 @@ Trotz zahlreicher Krisen ist es den Athenern immer wieder gelungen, die Lust am 
     <desc/>
   </programme>
   <programme start="20240804221000 +0200" stop="20240804223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240805175900 +0200" stop="20240805181449 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch 3</sub-title>
+    <desc>Die heutige Politik ist zweigeteilt. Linke und rechte Lager stehen sich oft unversöhnlich gegenüber. Es diskutieren SVP-Vertreterin Katharina Zeller und Melanie Mair von der Südtiroler Freiheit.</desc>
+  </programme>
+  <programme start="20240805181400 +0200" stop="20240805181953 +0200" channel="Rai Südtirol">
+    <title>Barfuß durch das Feuer</title>
+    <sub-title>mit Andreas Fischer</sub-title>
+    <desc>Andreas Fischer, diplomierter Sportlehrer und Mentalcoach aus Klerant bei Brixen, ist Südtirols einziger Feuerlauftrainer. In einem 3-4 stündigen Ritual bereitet er Privatpersonen, Fußballmannschaften und Firmen darauf vor, barfuß über 500 Grad heiße Kohlen zu laufen.
+Nach dem gemeinsamen Aufbau und Anzünden des Holzmeilers, führt Andreas die Teilnehmer:innen mental durch die Herausforderung. Keiner hat bisher einen Rückzieher gemacht. Die emotionalen Reaktionen reichen von Umarmungen bis hin zu Freudentränen. Sicherheit ist dabei oberste Priorität: Die Veranstaltung wird bei örtlichen Feuerwehren und der Landesnotrufzentrale gemeldet.</desc>
+  </programme>
+  <programme start="20240805182000 +0200" stop="20240805182921 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Hopfen und Malz</sub-title>
+    <desc>Bier hat in Südtirol eine fast tausendjährige Tradition. Ihren Höhepunkt erlebte die heimische
+Bierkultur im 19. Jahrhundert. Damals brauten über 20 Brauereien jährlich 1000 Hektoliter. Der Erste Weltkrieg brachte für die meisten Betriebe das Aus. Nur zwei überlebten. Heute gibt es neben der Großbrauerei Forst weitere Wirtshausbrauereien, die sich darum bemühen, Bier nach bester Tradition herzustellen. Das Angebot reicht inzwischen vom Hellen über das Dunkle bis hin zu jahreszeitlich bedingten Spezialbieren, wie zum Beispiel das Kastanien- und Lupinenbier.</desc>
+  </programme>
+  <programme start="20240805183000 +0200" stop="20240805185930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Almen im Wandel: Wie Hirten und Bauern mit den neuen Herausforderungen umgehen, wie der viele Regen die Heuarbeit erschwert, wie sich Weinbauern und Kellereien den Klimafragen stellen. Die Almwirtschaft und mit ihr die Almleute sind gefordert. Der Klimawandel, das Großraubwild und fehlendes Almpersonal verlangen ein Umdenken und stellen Hirten, Bauern und Almfachleute vor große Herausforderungen. Wie sie damit umgehen, wurde auf der Almwirtschaftstagung in Brixen diskutiert und beim Besuch auf der Koflalm in Villnöss direkt vor Ort erfahren. 
+Weitere Themen beschäftigen sich mit der beschwerlichen Heuarbeit, die wegen des vielen Regens nicht nur riskant ist, sondern auch die Heuqualität stark beeinträchtigt. Experten erklären, was die Bauern tun können, um das Schlimmste zu verhindern.
+Und in der Reihe &quot;Nachhaltige Landwirtschaft&quot; zeigen wir Beispiele ressourcenschonender Weinproduktion.</desc>
+  </programme>
+  <programme start="20240805200000 +0200" stop="20240805202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240805202100 +0200" stop="20240805205837 +0200" channel="Rai Südtirol">
+    <title>Tourismus im Umbau</title>
+    <sub-title/>
+    <desc>Der Tourismus ist eine der wichtigsten Branchen in Südtirol und wächst ständig. &quot;Tourismus im Umbau&quot; zeigt Beispiele von der Fähigkeit, den &quot;Urlaubsgeist&quot; in Südtirol durch moderne und innovative Gebäude zum Leben zu erwecken.
+
+Die Tourismusarchitektur spiegelt wider, wie wir uns die Tourist:innen aber auch die Tourismusarbeiter:innen der Zukunft vorstellen. Dank hoher Qualität der heimischer Architekturbüros und der familiengeführten Betriebe, die Tradition und Innovation verbinden, nimmt Südtirol nimmt hier eine Vorreiterrolle ein. Die Dokumentation zeigt Beispiele wie das Hotel Miramonti in Hafling, das Hotel Weißes Kreuz in Burgeis, das Icaro Hotel auf der Seiser Alm, das Floris in Kastelruth und den Blasla-Hof in St. Martin in Gsies. Ein Film von Adina Guarnieri und Peter Paul Kainrath.</desc>
+  </programme>
+  <programme start="20240805205800 +0200" stop="20240805214155 +0200" channel="Rai Südtirol">
+    <title>Bürgerbauten</title>
+    <sub-title>Historische Rathäuser in Südtirol Teil II</sub-title>
+    <desc>Rathäuser sind seit dem Mittelalter der Stolz der Bürger, waren Orte der Macht und der Selbstdarstellung. Heute sind sie Serviceeinrichtungen für alle und dienen der Verwaltung. So wechselten im Laufe der Jahrhunderte Anspruch und vielfältige Nutzungsmöglichkeiten: Rathäuser waren und sind Orte für Ratssitzungen und zugleich Verwaltungsgebäude - Offenheit und Vertraulichkeit treffen aufeinander. Und ihre vielfältige Geschichte reicht weit zurück? Die Macher der Filmdokumentation &quot;Bürgerbauten- Historische Rathäuser in Südtirol&quot; haben in den Rathäusern von Niederdorf, Brixen, Lana und Bozen recherchiert und geforscht und sind dabei auf interessante Geschichten gestoßen</desc>
+  </programme>
+  <programme start="20240805214200 +0200" stop="20240805214803 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Gerd Hermann Ortler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240805221100 +0200" stop="20240805223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240806200000 +0200" stop="20240806202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240806202000 +0200" stop="20240806204815 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Der Brusttumor</sub-title>
+    <desc>In Südtirol gibt es vier Brustgesundheitszentren.  Der Brustkrebs ist der häufigste Tumor bei Frauen - jede achte Frau erhält diese Diagnose. Wird ein Tumor frühzeitig erkannt, dann sind die Heilungschancen hoch. 
+
+In dieser &quot;Reportage&quot; besuchen wir die Gesundheitszentren von Meran und Brixen. Wir schauen uns an, welche Untersuchungen die Frauen erwartet, aber auch, wie sie lernen können, sich selbst zu untersuchen. Eine Reportage von Ulli Velano.</desc>
+  </programme>
+  <programme start="20240806221000 +0200" stop="20240806223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240807200000 +0200" stop="20240807202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240807202000 +0200" stop="20240807204930 +0200" channel="Rai Südtirol">
+    <title>Handelsplatz Lauben</title>
+    <sub-title>Eine urbane Südtiroler Wirtschaftsgeschichte</sub-title>
+    <desc>Die Kaufleute hatten in den Lauben einen besonderen Lebensstil entwickelt: Geschäfts- und
+Lebensbereich waren aufs engste miteinander verwoben. Ein Streifzug durch unsere
+Laubenhäuser. 
+
+Vom tiefen Keller über das Geschäftslokal bis hinauf unters Dach sind in den Lauben Häuser
+entstanden, die auf engstem Raum ein Maximum an Raumeffizienz, Funktionalität und Stilbewusstsein entwickelt haben. Und sie haben auch den Wohn- und Lebensstil der Kaufleute geprägt. Die Dokumentation nimmt die Laubenhäuser in Glurns, Neumarkt, Brixen, Meran und Bozen genauer unter die Lupe und erzählt die Geschichte der historischen Kaufmannschaft.</desc>
+  </programme>
+  <programme start="20240807221000 +0200" stop="20240807223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240808200000 +0200" stop="20240808202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240808202000 +0200" stop="20240808205108 +0200" channel="Rai Südtirol">
+    <title>Reportage</title>
+    <sub-title>Achtung Gefahrengut!</sub-title>
+    <desc>Gefahrguttransporte sind ein alltäglicher Anblick auf Südtirols Straßen. Doch was geschieht im Falle eines Unfalls? Welche Risiken gibt es und wie sind Rettungskräfte darauf vorbereitet?
+
+In der Landesfeuerwehrschule in Vilpian bereitet man sich professionell auf Gefahrguteinsätze vor. Dabei nutzen die Rettungskräfte spezielle Ausrüstungen und Verfahren, um sich selbst und
+die Öffentlichkeit zu schützen. Bei Gefahrguttransporten ist auch die Kontrolle durch die Verkehrspolizei sehr wichtig. Sie gewährleistet, dass Sicherheitsstandards eingehalten werden und minimieren so die Risiken für Unfälle. Eine Reportage von Andreas Niederkofler.</desc>
+  </programme>
+  <programme start="20240808213000 +0200" stop="20240808215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title>Die Olympischen Spiele</sub-title>
+    <desc>Am Sonntag enden die Olympischen Sommerspiele in Paris. Sechs Südtiroler:innen waren auch dabei, wir blicken noch einmal auf ihre Leistungen zurück. Morgen beginnt auch offiziell die Saison des FC Südtirol mit dem Auswärtsspiel im Italienpokal beim Serie A-Verein Monza.</desc>
+  </programme>
+  <programme start="20240808221000 +0200" stop="20240808223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240809180000 +0200" stop="20240809182930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Im Versuchszentrum Laimburg werden gesundheitsfördernde Rezepturen entwickelt. Neue Sensoren und Materialien für die Landwirtschaft. Die Geschichte des Porphyrabbaus in Südtirol.
+Immer mehr Menschen leiden an dem sogenannten metabolischen Syndrom, das mehrere Krankheitsbilder umfasst. Das Versuchszentrum Laimburg und das Südtiroler Unternehmen Dr. Schär haben ein wissenschaftliches Projekt gestartet, um Rezepturen von gesundheitsfördernden Lebensmitteln zu entwickeln.
+Im zweiten Beitrag stellen wir Forscher an der Freien Universität Bozen vor, die neue Sensoren made in Südtirol entwickeln und mit neuartigen Materialien arbeiten, die in der landwirtschaftlichen Produktion von Nutzen sein können. 
+Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des Bergbaumuseums wie Armin Torggler folgen den Spuren des Porphyrabbaus und entdecken dabei neue Steinbrüche.</desc>
+  </programme>
+  <programme start="20240809182900 +0200" stop="20240809185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title>Die Olympischen Spiele</sub-title>
+    <desc>Am Sonntag enden die Olympischen Sommerspiele in Paris. Sechs Südtiroler:innen waren auch dabei, wir blicken noch einmal auf ihre Leistungen zurück. Morgen beginnt auch offiziell die Saison des FC Südtirol mit dem Auswärtsspiel im Italienpokal beim Serie A-Verein Monza.</desc>
+  </programme>
+  <programme start="20240809200000 +0200" stop="20240809202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240809202000 +0200" stop="20240809205828 +0200" channel="Rai Südtirol">
+    <title>TriOlé</title>
+    <sub-title>Musigzeit: Ein Akkordeon, zwei Gitarren, ein Bass und Susi</sub-title>
+    <desc>TriOlé, das sind Stefan Geier am Akkordeon, Markus Olsacher und Hanspeter Nocker an den Gitarren, Ulli Seppi am Bass, begleitet von Sängerin Susi Geier. 
+
+Die Musik des Quintetts erinnert zunächst an Zigeunermusik, an gängigen Gibsy-Swing, findet aber durch Eigenkompositionen und besonderen Arrangements ihren ganz eigenen Stil.
+Tango, Bossa, Musette wechseln sich ab mit Volksmusik. Die Herkunft aus den Südtiroler Bergen ist unverkennbar und auch die Liebe zur slowenischen Musik. In den Improvisationen wechseln sich Jazz, Klassik und Volksmusik ab.TriOlé macht Weltmusik im besten Sinne des Wortes.</desc>
+  </programme>
+  <programme start="20240809205900 +0200" stop="20240809215050 +0200" channel="Rai Südtirol">
+    <title>Richard Löwenherz</title>
+    <sub-title>Ein König in der Falle</sub-title>
+    <desc>Ende des 12. Jahrhunderts wird der englische König und Kreuzritter Richard Löwenherz auf der Heimreise aus dem Heiligen Land vom Babenberger Herzog Leopold V. gefangengenommen und auf Burg Dürnstein bei Krems eingesperrt.
+Diese legendäre Geiselnahme ist eines der spektakulärsten Kidnappings der Geschichte. Mit
+dem Lösegeld soll Wiener Neustadt erbaut worden sein. Der österreichische Schauspieler Philipp Hochmair macht in einer anspruchsvollen Dokumentation den Mythos Löwenherz und die Geschehnisse rund um dessen Gefangennahme wieder lebendig.</desc>
+  </programme>
+  <programme start="20240809215000 +0200" stop="20240809215903 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title>KI in der Medizin</sub-title>
+    <desc>Die Künstliche Intelligenz wird mittlerweile auch in der Medizin genutzt. Ein Kamerateam hat eine Operation mit KI und Robotik in einem Südtiroler Krankenhaus mitverfolgt. Wenn es um künstliche Intelligenz, Digitalisierung und Robotik in der Medizin geht, hat man weltweit schon beeindruckende Entwicklungen verfolgen können. Wie aber steht es mit dieser Entwicklung konkret vor unserer Haustür? Dazu sehen Sie drei Beispiele aus Südtirol, was &quot;digitale Entwicklung&quot; bedeuten kann. Das Team von &quot;Südtirol Digital&quot; war bei einer Operation dabei, bei der Robotik und künstliche Intelligenz zum ersten Mal nun auch in Südtirol zum Einsatz kamen. Moderation: Manuela Reiter.</desc>
+  </programme>
+  <programme start="20240809221000 +0200" stop="20240809223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240810175900 +0200" stop="20240810185830 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Wenn Max noch einmal die Schulbank drückt, wenn unter freiem Himmel Pizza gebacken und über zerstörerische globale Marktsituationen diskutiert wird, dann heißt es wieder Erlebnis Südtirol.
+Karin Duregger werden wieder Gartenpforten geöffnet und sie wird hereingebeten in Gemüse-, Kräuter-, und Blumengärten. Im Wipptal wandelt sie in einer einstigen Feuchtzone, in Niederdorf besucht sie einen Kräuterpfad und am Tschögglberg wird sie beinahe zur Meister-Pizzabäckerin.
+Max von Milland hingegen drückt anschließend noch einmal die Schulbank. Seine Herausforderung für &quot;SchachMax&quot; heißt diesmal: Matura machen. Der Brixner stellt sich sowohl der schriftlichen als auch der mündlichen Prüfung und begegnet dabei längst vergessenen Prüfungsängsten.</desc>
+  </programme>
+  <programme start="20240810200000 +0200" stop="20240810202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240810202100 +0200" stop="20240810202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240810202500 +0200" stop="20240810205511 +0200" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Andalusien</sub-title>
+    <desc>Eine kulinarische und kulturelle Expedition durch das Andalusien. Wer das pure, echte und reine
+Spanien erleben will, ist in Andalusien genau richtig.
+
+Hier spürt man den Stolz, die Haltung, den Charakter und die Geschichte einer ganzen Nation.
+Nichts ist spanischer als Andalusien. Vom Schinken über den Sherry, den Brandy, die Hofreitschule und natürlich das typische spanische Essen.</desc>
+  </programme>
+  <programme start="20240810221000 +0200" stop="20240810223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
