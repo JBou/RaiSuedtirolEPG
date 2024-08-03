@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240802175800 +0200" stop="20240802184443 +0200" channel="Rai Südtirol">
-    <title>Faszination Bergseen</title>
-    <sub-title>Gewässer zwischen Idylle und Massentourismus</sub-title>
-    <desc>Bergseen übten schon immer eine besondere Faszination auf die Menschen aus, da sie meist
-nicht erkennen lassen, was genau sich in ihrem kühlen Nass verbirgt. So mancher See liegt versteckt und schwer zugänglich in hochalpinen Regionen. Andere hingegen werden aufgrund ihrer leichten Erreichbarkeit regelrecht vonTouristenströmen überrannt, was sich mancherorts zunehmend zu einem Problem entwickelt.
-Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation mit ganz unterschiedlichen Aspekten und Geschichten rund um verschiedene Südtiroler Bergseen.</desc>
-  </programme>
-  <programme start="20240802184400 +0200" stop="20240802185836 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Rosengarten - Fensterleturm</sub-title>
-    <desc>Christian Holzknecht, alias &quot;Stl&quot; aus St. Ulrich, ist als Künstler über die Grenzen Südtirols hinaus bekannt. Beim Klettern am Fensterleturm im Rosengarten erzählt er, wie er durch die Kunst glücklich wird. Mit dabei ist der Bergführer Manfred Stuffer, der ihn durch die Ostwand führt. Die Route ist relativ einfach und - unter fachmännischer Begleitung - auch für Anfänger:innen geeignet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240802200000 +0200" stop="20240802202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240802202100 +0200" stop="20240802212100 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Wenn Max noch einmal die Schulbank drückt, wenn unter freiem Himmel Pizza gebacken und über zerstörerische globale Marktsituationen diskutiert wird, dann heißt es wieder Erlebnis Südtirol.
-
-Karin Duregger werden wieder Gartenpforten geöffnet und sie wird hereingebeten in Gemüse-, Kräuter, und Blumengärten. Im Wipptal wandelt sie in einer einstigen Feuchtzone, in Niederdorf besucht sie einen Kräuterpfad und am Tschöggelberg wird sie beinah zur Meister-Pizzabäckerin.
-Max von Milland hingegen drückt anschließend noch einmal die Schulbank. Seine Herausforderung für &quot;SchachMax&quot; heißt diesmal: Matura machen. Der Brixner stellt sich sowohl der schriftlichen als auch der mündlichen Prüfung und begegnet dabei längst vergessenen Prüfungsängsten.</desc>
-  </programme>
-  <programme start="20240802212100 +0200" stop="20240802215030 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Neue spezialisierte Berufsbilder für den Tourismus. Wie der Kochberuf für Frauen attraktiver gemacht werden kann. Junge Gastronomen und Junghandwerker diskutieren über Berufschancen.
-Die Südtiroler Dolcevita Hotels setzen auf maßgeschneiderte Mitarbeitende und bilden wieder Butler aus, engagieren Bar-Chefs und bemühen sich auch, neue Berufsbilder zu erschaffen, wie z.B. den Adventure Coach. Außerdem macht sich die Hoteliers- und Gastwirtejugend gemeinsam mit Junghandwerkern Gedanken über Berufschancen und über weitere aktuelle Themen der Wirtschaft. Die Südtiroler Gastronomie ist - was den Kochberuf angeht - nach wie vor eine Männerdomäne. In Deutschland ist es nicht anders. Von 300 Michelin-Sternen tragen diesen gerade mal neun Frauen. In Südtirol ist Anna Matscher die einzige Sterneköchin von derzeit 21. &quot;Willkommen&quot; zeigt, wie eine Karriere auch in anderen Bereichen der Gastronomie für Frauen attraktiver werden kann.</desc>
-  </programme>
-  <programme start="20240802215000 +0200" stop="20240802215832 +0200" channel="Rai Südtirol">
-    <title>Im Einklang mit der Natur</title>
-    <sub-title>Einblicke in das Hirtenleben</sub-title>
-    <desc>Südtirols Hirtinnen und Hirten leben nach wie vor im Einklang mit der Natur. Sie nehmen eine wichtige Rolle in der Landwirtschaft ein und sind am Erhalt traditioneller Lebensweisen beteiligt. Sie tragen zur Bewirtschaftung unserer Landschaft und zum Schutz der Nutztiere bei. Aufgrund der vielen Herausforderungen stehen viele Almen in Südtirol aber vor dem Aus. Daniela Thaler hat einen langjährigen Hirten und eine Hirtin besucht.</desc>
-  </programme>
-  <programme start="20240802221000 +0200" stop="20240802223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240803175900 +0200" stop="20240803185830 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -282,6 +241,28 @@ Hier spürt man den Stolz, die Haltung, den Charakter und die Geschichte einer g
 Nichts ist spanischer als Andalusien. Vom Schinken über den Sherry, den Brandy, die Hofreitschule und natürlich das typische spanische Essen.</desc>
   </programme>
   <programme start="20240810221000 +0200" stop="20240810223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240811200000 +0200" stop="20240811202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240811202000 +0200" stop="20240811204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Burgstall</sub-title>
+    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen.
+
+Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
+  </programme>
+  <programme start="20240811204500 +0200" stop="20240811204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240811221000 +0200" stop="20240811223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
