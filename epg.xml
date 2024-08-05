@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240804200000 +0200" stop="20240804202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240804202000 +0200" stop="20240804204944 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Athen</sub-title>
-    <desc>Ein und kultureller und stylischer Streifzug durch die griechische Hauptstadt. Athen ist mehr als Akropolis und Parlamentswache. Athen bedeutet auch Kunsthandwerk und Lebensfreude.
-
-Trotz zahlreicher Krisen ist es den Athenern immer wieder gelungen, die Lust am Leben nicht zu verlieren. Diese unfassbare Emotion und Hingabe, diese Freude und Gastfreundschaft, dieser Hunger nach Harmonie ist unbeschreiblich und wird in dieser unterhaltsamen Dokumentation mit Menschen und ihren Geschichten festgehalten.</desc>
-  </programme>
-  <programme start="20240804205000 +0200" stop="20240804205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240804221000 +0200" stop="20240804223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240805175900 +0200" stop="20240805181449 +0200" channel="Rai Südtirol">
     <title>Bullshit!</title>
     <sub-title>Das strategische Streitgespräch 3</sub-title>
