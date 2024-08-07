@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240806200000 +0200" stop="20240806202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240806202000 +0200" stop="20240806204815 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Der Brusttumor</sub-title>
-    <desc>In Südtirol gibt es vier Brustgesundheitszentren.  Der Brustkrebs ist der häufigste Tumor bei Frauen - jede achte Frau erhält diese Diagnose. Wird ein Tumor frühzeitig erkannt, dann sind die Heilungschancen hoch. 
-
-In dieser &quot;Reportage&quot; besuchen wir die Gesundheitszentren von Meran und Brixen. Wir schauen uns an, welche Untersuchungen die Frauen erwartet, aber auch, wie sie lernen können, sich selbst zu untersuchen. Eine Reportage von Ulli Velano.</desc>
-  </programme>
-  <programme start="20240806221000 +0200" stop="20240806223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240807200000 +0200" stop="20240807202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
