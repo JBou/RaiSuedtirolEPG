@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240807200000 +0200" stop="20240807202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240807202000 +0200" stop="20240807204930 +0200" channel="Rai Südtirol">
-    <title>Handelsplatz Lauben</title>
-    <sub-title>Eine urbane Südtiroler Wirtschaftsgeschichte</sub-title>
-    <desc>Die Kaufleute hatten in den Lauben einen besonderen Lebensstil entwickelt: Geschäfts- und
-Lebensbereich waren aufs engste miteinander verwoben. Ein Streifzug durch unsere
-Laubenhäuser. 
-
-Vom tiefen Keller über das Geschäftslokal bis hinauf unters Dach sind in den Lauben Häuser
-entstanden, die auf engstem Raum ein Maximum an Raumeffizienz, Funktionalität und Stilbewusstsein entwickelt haben. Und sie haben auch den Wohn- und Lebensstil der Kaufleute geprägt. Die Dokumentation nimmt die Laubenhäuser in Glurns, Neumarkt, Brixen, Meran und Bozen genauer unter die Lupe und erzählt die Geschichte der historischen Kaufmannschaft.</desc>
-  </programme>
-  <programme start="20240807221000 +0200" stop="20240807223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240808200000 +0200" stop="20240808202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -65,7 +45,7 @@ Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des 
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20240809202000 +0200" stop="20240809205828 +0200" channel="Rai Südtirol">
+  <programme start="20240809202100 +0200" stop="20240809205928 +0200" channel="Rai Südtirol">
     <title>TriOlé</title>
     <sub-title>Musigzeit: Ein Akkordeon, zwei Gitarren, ein Bass und Susi</sub-title>
     <desc>TriOlé, das sind Stefan Geier am Akkordeon, Markus Olsacher und Hanspeter Nocker an den Gitarren, Ulli Seppi am Bass, begleitet von Sängerin Susi Geier. 
@@ -73,12 +53,12 @@ Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des 
 Die Musik des Quintetts erinnert zunächst an Zigeunermusik, an gängigen Gibsy-Swing, findet aber durch Eigenkompositionen und besonderen Arrangements ihren ganz eigenen Stil.
 Tango, Bossa, Musette wechseln sich ab mit Volksmusik. Die Herkunft aus den Südtiroler Bergen ist unverkennbar und auch die Liebe zur slowenischen Musik. In den Improvisationen wechseln sich Jazz, Klassik und Volksmusik ab.TriOlé macht Weltmusik im besten Sinne des Wortes.</desc>
   </programme>
-  <programme start="20240809205900 +0200" stop="20240809215050 +0200" channel="Rai Südtirol">
-    <title>Richard Löwenherz</title>
-    <sub-title>Ein König in der Falle</sub-title>
-    <desc>Ende des 12. Jahrhunderts wird der englische König und Kreuzritter Richard Löwenherz auf der Heimreise aus dem Heiligen Land vom Babenberger Herzog Leopold V. gefangengenommen und auf Burg Dürnstein bei Krems eingesperrt.
-Diese legendäre Geiselnahme ist eines der spektakulärsten Kidnappings der Geschichte. Mit
-dem Lösegeld soll Wiener Neustadt erbaut worden sein. Der österreichische Schauspieler Philipp Hochmair macht in einer anspruchsvollen Dokumentation den Mythos Löwenherz und die Geschehnisse rund um dessen Gefangennahme wieder lebendig.</desc>
+  <programme start="20240809205900 +0200" stop="20240809215006 +0200" channel="Rai Südtirol">
+    <title>Portugal</title>
+    <sub-title>Wildnis zwischen Land und Ozean</sub-title>
+    <desc>Als Portugal eine weltumspannende Großmacht war, wurden wilde Gebirgspferde, die klein genug für die schmalen Hochseeschiffe waren, an goldgierige Conquistadores verkauft.
+Jetzt sind die Pferdchen der portugiesischen Algarve durch die Exzesse des Tourismus bedroht:
+Die vor Jahrzehnten importierten Eukalyptusbäume verursachten zudem verheerende Brände. Doch immer noch nisten Hunderte von Weißstörchen in Portugals alten, feuerfesten Korkeichen. Die vom Aussterben bedrohten Mönchsrobben im Mittelmeer bauen ihre Bestände vor der Insel Desertas wieder auf, einem Felsvorsprung, der von der größten Wolfsspinne Europas beherrscht wird. Angesichts des Klimawandels errichten riesige Flamingo-Schwärme ein Winterlager im Tejo Delta vor den Toren Lissabons, anstatt nach Afrika auszuwandern. Portugal: immer noch ein Ausgangspunkt für große Abenteuer und ein willkommenes Zuhause an der Schwelle zwischen Land und Ozean.</desc>
   </programme>
   <programme start="20240809215000 +0200" stop="20240809215903 +0200" channel="Rai Südtirol">
     <title>Südtirol Digital</title>
