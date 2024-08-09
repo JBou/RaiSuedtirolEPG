@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240808200000 +0200" stop="20240808202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240808202000 +0200" stop="20240808205108 +0200" channel="Rai Südtirol">
-    <title>Reportage</title>
-    <sub-title>Achtung Gefahrengut!</sub-title>
-    <desc>Gefahrguttransporte sind ein alltäglicher Anblick auf Südtirols Straßen. Doch was geschieht im Falle eines Unfalls? Welche Risiken gibt es und wie sind Rettungskräfte darauf vorbereitet?
-
-In der Landesfeuerwehrschule in Vilpian bereitet man sich professionell auf Gefahrguteinsätze vor. Dabei nutzen die Rettungskräfte spezielle Ausrüstungen und Verfahren, um sich selbst und
-die Öffentlichkeit zu schützen. Bei Gefahrguttransporten ist auch die Kontrolle durch die Verkehrspolizei sehr wichtig. Sie gewährleistet, dass Sicherheitsstandards eingehalten werden und minimieren so die Risiken für Unfälle. Eine Reportage von Andreas Niederkofler.</desc>
-  </programme>
-  <programme start="20240808213000 +0200" stop="20240808215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title>Die Olympischen Spiele</sub-title>
-    <desc>Am Sonntag enden die Olympischen Sommerspiele in Paris. Sechs Südtiroler:innen waren auch dabei, wir blicken noch einmal auf ihre Leistungen zurück. Morgen beginnt auch offiziell die Saison des FC Südtirol mit dem Auswärtsspiel im Italienpokal beim Serie A-Verein Monza.</desc>
-  </programme>
-  <programme start="20240808221000 +0200" stop="20240808223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240809180000 +0200" stop="20240809182930 +0200" channel="Rai Südtirol">
     <title>Campus</title>
     <sub-title>Magazin für Forschung und Entwicklung</sub-title>
@@ -119,6 +96,172 @@ Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben präg
     <desc/>
   </programme>
   <programme start="20240811221000 +0200" stop="20240811223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240812180000 +0200" stop="20240812181632 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch 4</sub-title>
+    <desc>Veganerin Magdalena Gschnitzer und Jäger Daniel Niederkofler treffen aufeinander. In dieser Folge wird getestet, wie viel Bullshit bei Diskussionen zum Thema Veganismus aufgetischt wird.
+Die eine sieht sich als Beschützerin von Tieren, der andere züchtet und schlachtet sie für Geld. In der vierten Bullshit!-Folge treffen zwei gegensätzliche Weltanschauungen aufeinander: Daniel Niederkofler, passionierter Jäger und Liebhaber von Kitzfleisch, trifft auf Magdalena Gschnitzer, überzeugte Tierrechtsaktivistin und Veganerin, der beim Geruch von gebratenem Fleisch übel wird. In ihrem Gespräch diskutieren sie über gesunde Ernährung, die Rolle des Menschen in der Natur und über ihr jeweiliges Verständnis von Tierliebe. Werden die beiden im Laufe der Sendung Verständnis füreinander zeigen oder wird der Buzzer im Minutentakt gedrückt?</desc>
+  </programme>
+  <programme start="20240812181600 +0200" stop="20240812185921 +0200" channel="Rai Südtirol">
+    <title>Recycling und Nachhaltigkeit in Südtirol</title>
+    <sub-title/>
+    <desc>Es ist an der Zeit, über neue Lebensstile nachzudenken, um den Planeten und unser Wohlergehen zu schützen. Biobauern, eine Influencerin, eine Lehrerin, ein Abfallexperte geben Einblick in ihr Denken. In Südtirol haben sich viele Menschen für ein Leben im Zeichen von Eigenproduktion, Recycling und Nachhaltigkeit entschieden: In Branzoll betreiben drei Freunde den Biobauernhof Gerwies. In Brixen wurde die Sozialgenossenschaft Wianui gegründet, die sich auf Recycling spezialisiert. Und in Meran unterrichtet eine Lehrerin junge Menschen in einem großen Gemüsegarten. Wie viel Abfall produzieren wir im Durchschnitt pro Jahr? Wie effizient ist das derzeitige Abfallentsorgungssystem? Diese Fragen beantwortet Giulio Angelucci, der Leiter des Amtes für Abfallwirtschaft. Elisa, eine grüne Influencerin, spricht über die Bedeutung der Eigenproduktion in den sozialen Netzwerken und Alex, ein 20-jähriger Landwirt, stellt uns seinen Betrieb in Aldein vor. All diese Menschen nehmen uns mit auf eine Entdeckungsreise zu neuen Lebensstilen und machen uns klar, dass konkrete Veränderungen notwendig, aber auch machbar sind.</desc>
+  </programme>
+  <programme start="20240812200000 +0200" stop="20240812202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240812202100 +0200" stop="20240812210100 +0200" channel="Rai Südtirol">
+    <title>Flurnamen rund um den Schlern</title>
+    <sub-title/>
+    <desc>Flurnamenexperte Johannes Ortner erkundet das Gebiet nördlich und südlich des Schlerns und erklärt vorrömische Ortsnamen wie Seis, erzählt aber auch besondere Geschichten.
+
+Johannes Ortner erklärt noch weitere vorrömische Ortsnamen wie Völs oder Tiers. In dieser Gegend gibt es aber auch eine Fülle an alpenromanischen Hof- und Flurnamen wie Panid (Föhrenwald), Peterfrag (gebrochener Stein), Tschafon (Großjoch) oder Tscherndui (Viehscheide). Rund um den Schlern findet man häufig Bezeichnungen wie Schwaige (Almhütten auf der Seiser Alm) oder Gufln (Felsüberhänge im Dolomitgestein). Um manche Bezeichnungen ranken sich besondere Geschichten: z.B. die Quelle Schlernblut, die Serbische Kappe auf der Schlern-Hochfläche oder das Tschetterloch in Tiers.</desc>
+  </programme>
+  <programme start="20240812210100 +0200" stop="20240812214527 +0200" channel="Rai Südtirol">
+    <title>Rund um die Karawanken</title>
+    <sub-title/>
+    <desc>Mächtig und schroff erheben sich die beeindruckenden Karawanken im zweisprachigen Gebiet Kärntens, an der Grenze zu Slowenien. Ihre rustikale Schönheit prägt die Dörfer entlang ihrer Hänge und Täler. Im Laufe der Generationen und einer oft problematischen Geschichte entwickelten sich die Gemeinden weiter, die Wertschätzung der Traditionen und der Natur ist jedoch geblieben. Malerische Dorfkirchlein vor imposanten Felsmassiven, grüne Weiden von der flachen morgendlichen Sonne gestreichelt - wer vom Sommer in den Bergen träumt, wird hier mit fast schon klischeehaft schönen Bildern bedient.</desc>
+  </programme>
+  <programme start="20240812214500 +0200" stop="20240812215931 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Juacturm</sub-title>
+    <desc>Die Osteopathie ist eine noch relativ wenig bekannte Technik im Bereich der Physiotherapie. Angelika Renzler ist eine Osteopathin aus Rasen-Antholz und erzählt uns mehr über ihren Beruf, während sie auf den Juacturm in Wolkenstein klettert. Zusammen mit ihrem Bergführer Manfred Stuffer steigt sie über den ausgesetzten Westgrat des Berges, der sich im Naturpark Puez-Geisler befindet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240812221000 +0200" stop="20240812223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240813200000 +0200" stop="20240813202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240813202000 +0200" stop="20240813204755 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Die Lunge</sub-title>
+    <desc>Die Lungenuntersuchung, Diagnose Lungentumor, Leben mit einer transplantierten Lunge, aber
+auch Atemtraining als Prävention sind Themen, die Gesundheits-Reporterin Ulli Velano diesmal
+behandelt.
+Wenn Lungenprobleme auftreten, dann ist die Lebensqualität massiv eingeschränkt. Pneumologe
+Ivan Tancevski rät, die Lunge zumindest einmal im Rahmen einer Vorsorgeuntersuchung abzuchecken, denn ein möglicher Lungentumor bleibt lange unerkannt und verursacht erst im Endstadium Probleme. War der Lungentumor früher ein Todesurteil, gibt es heute effiziente Behandlungsmethoden. An der Innsbrucker Universitätsklinik entfernt Chirurg Florian Augustin 150 Tumore pro Jahr. Nach dem schweren Eingriff sind die Patienten:innen nach wenigen Tagen wieder fit. Und dann gibt es auch Wunder: Der Brunecker Thomas Meraner litt an Mukoviszidose. Vor 26 Jahren wurden ihm zwei neue Lungenflügel transplantiert. Nach der Operation sprachen die Ärzte von einer Lebenserwartung von drei Jahren. Der Südtiroler ließ sich von dieser Diagnose nicht aufhalten, studierte und heiratete - und führt heute ein normales Leben mit gewissen Einschränkungen. Weltweit ist Thomas Meraner der einzige Mensch, der 26 Jahre mit einer transplantierten Lunge lebt.</desc>
+  </programme>
+  <programme start="20240813221000 +0200" stop="20240813223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240814200000 +0200" stop="20240814202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240814202000 +0200" stop="20240814204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Günstige Steuerbedingungen für Heimkehrer:innen, Sommerzeit ist Praktikumszeit, auch heuer Borkenkäferalarm, innovative Regalsysteme aus Auer - darüber berichtet Pluspunkt im August.
+
+Wer nach mindestens drei Jahren im Ausland zurückkehrt oder nach Italien zieht und seinen Steuersitz verlegt, kann von äußerst günstigen Steuerkonditionen profitieren. Wir geben wertvolle Tipps, wie man diese Vorteile nutzen kann. Viele Studierende nutzen die Ferien, um durch Praktika oder Ferialjobs ihre Kasse aufzubessern. Welche Möglichkeiten es gibt und wie diese steuerlich zu handhaben sind, erklärt die Expertin des ASGB-Steuerbeistandszentrum.
+Borkenkäfer-Alarm: Das kühle und regnerische Frühjahr 2024 hat den Schwarm der Borkenkäfer verzögert, aber die Herausforderung für das Forstamt und die Waldbesitzer bleibt bestehen. Trotz intensiver Maßnahmen und Überwachungen bleibt die hohe Populationsdichte der Borkenkäfer ein Problem. Wir haben mit Experten und Waldbesitzern über mögliche Lösungen gesprochen.
+Innovative Regalsysteme: Die Firma Mobilrot aus Auer bietet eine breite Produktpalette an Regalsystemen für Industriebetriebe, Museen, Bibliotheken, Sporthallen, Krankenhäuser. Durch Innovation, Kundenorientierung und Visionen ist die Firma weltweit tätig.</desc>
+  </programme>
+  <programme start="20240814221000 +0200" stop="20240814223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240815200000 +0200" stop="20240815202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240815202000 +0200" stop="20240815204912 +0200" channel="Rai Südtirol">
+    <title>Maria</title>
+    <sub-title>Die Heilige mit dem Verständnis fürs Menschliche</sub-title>
+    <desc>Die Vielfalt der marianischen Verehrungsformen und die Darstellung der Muttergottes im Laufe der Kunstgeschichte bis in unsere Zeit. Ein Film von Günther Neumair und Helene Dietl Laganda.
+
+Keine andere Heilige nimmt in der Volksfrömmigkeit einen so großen Stellenwert ein wie Maria. Ihre Darstellungsformen sind vielfältig, nehmen im Laufe der Zeit immer wieder neue Formen an und spiegeln neben der Glaubenshaltung auch den Zeitgeist in der Kunst wieder. Mag der Glaube in unserer Zeit auch zu etwas sehr Persönlichem geworden sein, die Marienverehrung scheint immer noch zu verbinden.</desc>
+  </programme>
+  <programme start="20240815221000 +0200" stop="20240815223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240816180000 +0200" stop="20240816184239 +0200" channel="Rai Südtirol">
+    <title>Die Habsburger in Mariazell</title>
+    <sub-title>Mater Austriae</sub-title>
+    <desc>Die Habsburger und der berühmte Wallfahrtsort Mariazell: Es ist die Geschichte einer besonderen Beziehung. Die Verehrung der Magna Mater Austriae war für die österreichische Herrscherfamilie sowohl Staatskult als auch Ausdruck privater Frömmigkeit.
+Die Entwicklung von Mariazell wäre ohne das Wirken der Habsburger undenkbar gewesen. Wir beschreiben, wie sich aus ihren Wallfahrten ein touristischer und wirtschaftlicher Schwerpunkt entwickelte.
+Noch heute wird die Basilika in Mariazell von Habsburgern besucht, um vor den Gnadenaltar zu
+treten. Der Enkel des letzten österreichischen Kaisers Karl I. hat hier auch 1993 geheiratet. Jährlich macht sich eine Million Pilger auf den Weg zur Gnadenmutter und erlebt immer noch eine
+gleichsam emotionale wie spirituelle Ergriffenheit, berichten die Filmemacher Alfred Ninaus und Fritz Aigner.</desc>
+  </programme>
+  <programme start="20240816184200 +0200" stop="20240816185645 +0200" channel="Rai Südtirol">
+    <title>Die Marienwallfahrt Heilig Drei Brunnen in Trafoi</title>
+    <sub-title>Aus der Reihe Magische Plätze</sub-title>
+    <desc>Frost und Eis, Schneeschmelze und Unwetter haben hier Felsen aus den Bergwänden gesprengt. Schon in vorchristlicher Zeit sollen hier keltische Priester gelebt und ihre Opfer den Göttern dargebracht haben. 1229 sind aus einer Quelle angeblich drei Kreuze entsprungen, die im Laufe der Zeiten wieder verloren gingen. Als Jahrhunderte später ein Holzhacker auf einem Baum ein Marienbild fand, war der vergessene Wallfahrtsort Heilig Drei Brunnen in Trafoi wieder
+in aller Munde. Nach wie vor strömen Scharen von Besuchern vor allem in den Sommermonaten an den Fuß des Ortlermassivs, um hier die Ruhe zu genießen und zu beten.</desc>
+  </programme>
+  <programme start="20240816200000 +0200" stop="20240816202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240816202100 +0200" stop="20240816214934 +0200" channel="Rai Südtirol">
+    <title>Die Slawen</title>
+    <sub-title>Unsere geheimnisvollen Vorfahren</sub-title>
+    <desc>Fremde aus dem Osten ziehen im siebten Jahrhundert in Richtung Mitteleuropa: die Slawen. Wer war dieses Volk, das bis in den Süden des Kontinents vorrückte und bleibende Spuren hinterließ?
+
+Die Slawen haben eine bis heute geheimnisvolle Geschichte, in der viele Fragen offen sind und
+viel Raum für Sagen und Mythen bleibt. Sie sind Bauern und Handwerker, gründen nie einen eigenen Staat und haben dennoch die heutigen Nationen entscheidend geprägt. Wie haben sich die Slawen ohne feste Landesgrenzen über Jahrhunderte entwickeln, ihre Bräuche, Religionen und Kulturen pflegen und Vieles davon letztlich bis heute bewahren können? Die Dokumentation von René Pippig und Wolfgang Albus begleitet eine Gruppe von Slawen durch die Jahrhunderte, folgt ihnen in diverse Scharmützel, beobachtet ihre Bräuche und Riten und zeigt ihr Überlebensgeschick und ihren Kampf um eine eigene Identität vor dem Hintergrund großer historischer Umbrüche.</desc>
+  </programme>
+  <programme start="20240816215000 +0200" stop="20240816215929 +0200" channel="Rai Südtirol">
+    <title>Magische Plätze</title>
+    <sub-title>Der Troi Paian-Weg</sub-title>
+    <desc>Ein urgeschichtlicher Weg verbindet Lajen im Eisacktal mit dem Abteital. Es ist der berühmte Troi Paian, ein Weg, der seit Urzeiten über die Berge und das Grödner Joch führt - in der Bronzezeit wohl bis an die Adria.
+Manchmal läuft der Troi Paian gemächlich dahin, manchmal geht es steil aufwärts. Funde deuten
+darauf hin, dass es ihn bereits in der Steinzeit gegeben hat. Sein Flair und seine Vergangenheit machen ihn geheimnisvoll. Buchautorin Astrid Amico macht sich auf den Weg und zeigt uns die schönsten Plätze entlang des alten Troi Paian.</desc>
+  </programme>
+  <programme start="20240816221000 +0200" stop="20240816223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240817175900 +0200" stop="20240817184324 +0200" channel="Rai Südtirol">
+    <title>Geschichte erwandern, Natur erleben</title>
+    <sub-title> Von Brixen nach Franzensfeste</sub-title>
+    <desc>Der Geschichtsparcours von Brixen nach Franzensfeste beginnt beim Heilig-Geist-Spital im
+Norden des Stadtkerns von Brixen und endet in der Festung Franzensfeste mit Blick auf den Stausee, unter dem der ehemalige Weiler Unterau sprichwörtlich begraben liegt. Es wird immer wieder dort Halt gemacht, wo besondere Fundstücke auf historische Ereignisse verweisen oder auf besondere Naturphänomene.</desc>
+  </programme>
+  <programme start="20240817184300 +0200" stop="20240817185650 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Averau</sub-title>
+    <desc>In der Sendereihe &quot;Gipfelerlebnisse&quot; besteigt Generalvikar Eugen Runggaldier in den Ampezzaner Dolomiten den stolzen Monte Averau. Runggaldier ist der engste Mitarbeiter des Diözesanbischofs. Seine Leidenschaft für die Berge treibt ihn auf Gipfel in aller Welt. Das führe auch zur Spiritualität, meint er. Der Generalvikar wird vom Bergführer Manfred Stuffer begleitet. Der Monte Averau gilt als einer der markantesten Gipfel seiner ladinischen Heimat.</desc>
+  </programme>
+  <programme start="20240817200000 +0200" stop="20240817202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240817202100 +0200" stop="20240817202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240817202500 +0200" stop="20240817205000 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria spezial</title>
+    <sub-title/>
+    <desc>Moderatorin Sigrid Flenger führt uns nach Međimurje, übersetzt in etwa Zwischenmurland. Ganz im Norden Kroatiens gelegen zwischen den Flüssen Mur und Drau.
+
+An der Grenze zu Slowenien und Ungarn schlängeln sich die Flüsse Mur und Drau durch die Region und bieten malerische Kulissen für Bootsfahrten und entspannte Spaziergänge entlang der Ufer. In dieser Ausgabe von Alpen Donau Adria spezial sind wir zu Besuch bei Winzern, Imkern, Historikern, Musikern und Naturschützern in der Medimurje.</desc>
+  </programme>
+  <programme start="20240817221000 +0200" stop="20240817223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
