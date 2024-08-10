@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240809180000 +0200" stop="20240809182930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Im Versuchszentrum Laimburg werden gesundheitsfördernde Rezepturen entwickelt. Neue Sensoren und Materialien für die Landwirtschaft. Die Geschichte des Porphyrabbaus in Südtirol.
-Immer mehr Menschen leiden an dem sogenannten metabolischen Syndrom, das mehrere Krankheitsbilder umfasst. Das Versuchszentrum Laimburg und das Südtiroler Unternehmen Dr. Schär haben ein wissenschaftliches Projekt gestartet, um Rezepturen von gesundheitsfördernden Lebensmitteln zu entwickeln.
-Im zweiten Beitrag stellen wir Forscher an der Freien Universität Bozen vor, die neue Sensoren made in Südtirol entwickeln und mit neuartigen Materialien arbeiten, die in der landwirtschaftlichen Produktion von Nutzen sein können. 
-Porphyr wird in Bozen und Umgebung seit Menschengedenken abgebaut. Forscher des Bergbaumuseums wie Armin Torggler folgen den Spuren des Porphyrabbaus und entdecken dabei neue Steinbrüche.</desc>
-  </programme>
-  <programme start="20240809182900 +0200" stop="20240809185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title>Die Olympischen Spiele</sub-title>
-    <desc>Am Sonntag enden die Olympischen Sommerspiele in Paris. Sechs Südtiroler:innen waren auch dabei, wir blicken noch einmal auf ihre Leistungen zurück. Morgen beginnt auch offiziell die Saison des FC Südtirol mit dem Auswärtsspiel im Italienpokal beim Serie A-Verein Monza.</desc>
-  </programme>
-  <programme start="20240809200000 +0200" stop="20240809202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240809202100 +0200" stop="20240809205928 +0200" channel="Rai Südtirol">
-    <title>TriOlé</title>
-    <sub-title>Musigzeit: Ein Akkordeon, zwei Gitarren, ein Bass und Susi</sub-title>
-    <desc>TriOlé, das sind Stefan Geier am Akkordeon, Markus Olsacher und Hanspeter Nocker an den Gitarren, Ulli Seppi am Bass, begleitet von Sängerin Susi Geier. 
-
-Die Musik des Quintetts erinnert zunächst an Zigeunermusik, an gängigen Gibsy-Swing, findet aber durch Eigenkompositionen und besonderen Arrangements ihren ganz eigenen Stil.
-Tango, Bossa, Musette wechseln sich ab mit Volksmusik. Die Herkunft aus den Südtiroler Bergen ist unverkennbar und auch die Liebe zur slowenischen Musik. In den Improvisationen wechseln sich Jazz, Klassik und Volksmusik ab.TriOlé macht Weltmusik im besten Sinne des Wortes.</desc>
-  </programme>
-  <programme start="20240809205900 +0200" stop="20240809215006 +0200" channel="Rai Südtirol">
-    <title>Portugal</title>
-    <sub-title>Wildnis zwischen Land und Ozean</sub-title>
-    <desc>Als Portugal eine weltumspannende Großmacht war, wurden wilde Gebirgspferde, die klein genug für die schmalen Hochseeschiffe waren, an goldgierige Conquistadores verkauft.
-Jetzt sind die Pferdchen der portugiesischen Algarve durch die Exzesse des Tourismus bedroht:
-Die vor Jahrzehnten importierten Eukalyptusbäume verursachten zudem verheerende Brände. Doch immer noch nisten Hunderte von Weißstörchen in Portugals alten, feuerfesten Korkeichen. Die vom Aussterben bedrohten Mönchsrobben im Mittelmeer bauen ihre Bestände vor der Insel Desertas wieder auf, einem Felsvorsprung, der von der größten Wolfsspinne Europas beherrscht wird. Angesichts des Klimawandels errichten riesige Flamingo-Schwärme ein Winterlager im Tejo Delta vor den Toren Lissabons, anstatt nach Afrika auszuwandern. Portugal: immer noch ein Ausgangspunkt für große Abenteuer und ein willkommenes Zuhause an der Schwelle zwischen Land und Ozean.</desc>
-  </programme>
-  <programme start="20240809215000 +0200" stop="20240809215903 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title>KI in der Medizin</sub-title>
-    <desc>Die Künstliche Intelligenz wird mittlerweile auch in der Medizin genutzt. Ein Kamerateam hat eine Operation mit KI und Robotik in einem Südtiroler Krankenhaus mitverfolgt. Wenn es um künstliche Intelligenz, Digitalisierung und Robotik in der Medizin geht, hat man weltweit schon beeindruckende Entwicklungen verfolgen können. Wie aber steht es mit dieser Entwicklung konkret vor unserer Haustür? Dazu sehen Sie drei Beispiele aus Südtirol, was &quot;digitale Entwicklung&quot; bedeuten kann. Das Team von &quot;Südtirol Digital&quot; war bei einer Operation dabei, bei der Robotik und künstliche Intelligenz zum ersten Mal nun auch in Südtirol zum Einsatz kamen. Moderation: Manuela Reiter.</desc>
-  </programme>
-  <programme start="20240809221000 +0200" stop="20240809223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240810175900 +0200" stop="20240810185830 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -262,6 +219,28 @@ Norden des Stadtkerns von Brixen und endet in der Festung Franzensfeste mit Blic
 An der Grenze zu Slowenien und Ungarn schlängeln sich die Flüsse Mur und Drau durch die Region und bieten malerische Kulissen für Bootsfahrten und entspannte Spaziergänge entlang der Ufer. In dieser Ausgabe von Alpen Donau Adria spezial sind wir zu Besuch bei Winzern, Imkern, Historikern, Musikern und Naturschützern in der Medimurje.</desc>
   </programme>
   <programme start="20240817221000 +0200" stop="20240817223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240818200000 +0200" stop="20240818202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240818202100 +0200" stop="20240818205119 +0200" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Bukarest</sub-title>
+    <desc>Während der Diktatur Nicolae Ceausescus erfuhr die Hauptstadt Rumäniens eine brutale Umwandlung: Historische Viertel wurden abgerissen, Protzbauten errichtet und ganze Kirchen versetzt. 
+
+Es ist eine Stadt, in die man sich erst auf den zweiten oder dritten Blick verliebt. Heute ist Bukarest auf der Suche nach einer neuen Identität: lebendig, vielfältig, kreativ. In den vergangenen Jahren ist hier viel passiert. Die Infrastruktur der Stadt wurde verbessert, Parkanlagen erneuert, zahlreiche Cafés und Restaurants eröffneten entlang der Gassen und auch eine alternative Kulturszene hat sich allmählich herausgebildet.</desc>
+  </programme>
+  <programme start="20240818205100 +0200" stop="20240818205500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240818221000 +0200" stop="20240818223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
