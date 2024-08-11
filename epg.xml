@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240810175900 +0200" stop="20240810185830 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Wenn Max noch einmal die Schulbank drückt, wenn unter freiem Himmel Pizza gebacken und über zerstörerische globale Marktsituationen diskutiert wird, dann heißt es wieder Erlebnis Südtirol.
-Karin Duregger werden wieder Gartenpforten geöffnet und sie wird hereingebeten in Gemüse-, Kräuter-, und Blumengärten. Im Wipptal wandelt sie in einer einstigen Feuchtzone, in Niederdorf besucht sie einen Kräuterpfad und am Tschögglberg wird sie beinahe zur Meister-Pizzabäckerin.
-Max von Milland hingegen drückt anschließend noch einmal die Schulbank. Seine Herausforderung für &quot;SchachMax&quot; heißt diesmal: Matura machen. Der Brixner stellt sich sowohl der schriftlichen als auch der mündlichen Prüfung und begegnet dabei längst vergessenen Prüfungsängsten.</desc>
-  </programme>
-  <programme start="20240810200000 +0200" stop="20240810202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240810202100 +0200" stop="20240810202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240810202500 +0200" stop="20240810205511 +0200" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Andalusien</sub-title>
-    <desc>Eine kulinarische und kulturelle Expedition durch das Andalusien. Wer das pure, echte und reine
-Spanien erleben will, ist in Andalusien genau richtig.
-
-Hier spürt man den Stolz, die Haltung, den Charakter und die Geschichte einer ganzen Nation.
-Nichts ist spanischer als Andalusien. Vom Schinken über den Sherry, den Brandy, die Hofreitschule und natürlich das typische spanische Essen.</desc>
-  </programme>
-  <programme start="20240810221000 +0200" stop="20240810223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240811200000 +0200" stop="20240811202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
