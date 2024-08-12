@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240811200000 +0200" stop="20240811202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240811202000 +0200" stop="20240811204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Burgstall</sub-title>
-    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen.
-
-Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
-  </programme>
-  <programme start="20240811204500 +0200" stop="20240811204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240811221000 +0200" stop="20240811223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240812180000 +0200" stop="20240812181632 +0200" channel="Rai Südtirol">
     <title>Bullshit!</title>
     <sub-title>Das strategische Streitgespräch 4</sub-title>
