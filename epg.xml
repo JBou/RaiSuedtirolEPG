@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240812180000 +0200" stop="20240812181632 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch 4</sub-title>
-    <desc>Veganerin Magdalena Gschnitzer und Jäger Daniel Niederkofler treffen aufeinander. In dieser Folge wird getestet, wie viel Bullshit bei Diskussionen zum Thema Veganismus aufgetischt wird.
-Die eine sieht sich als Beschützerin von Tieren, der andere züchtet und schlachtet sie für Geld. In der vierten Bullshit!-Folge treffen zwei gegensätzliche Weltanschauungen aufeinander: Daniel Niederkofler, passionierter Jäger und Liebhaber von Kitzfleisch, trifft auf Magdalena Gschnitzer, überzeugte Tierrechtsaktivistin und Veganerin, der beim Geruch von gebratenem Fleisch übel wird. In ihrem Gespräch diskutieren sie über gesunde Ernährung, die Rolle des Menschen in der Natur und über ihr jeweiliges Verständnis von Tierliebe. Werden die beiden im Laufe der Sendung Verständnis füreinander zeigen oder wird der Buzzer im Minutentakt gedrückt?</desc>
-  </programme>
-  <programme start="20240812181600 +0200" stop="20240812185921 +0200" channel="Rai Südtirol">
-    <title>Recycling und Nachhaltigkeit in Südtirol</title>
-    <sub-title/>
-    <desc>Es ist an der Zeit, über neue Lebensstile nachzudenken, um den Planeten und unser Wohlergehen zu schützen. Biobauern, eine Influencerin, eine Lehrerin, ein Abfallexperte geben Einblick in ihr Denken. In Südtirol haben sich viele Menschen für ein Leben im Zeichen von Eigenproduktion, Recycling und Nachhaltigkeit entschieden: In Branzoll betreiben drei Freunde den Biobauernhof Gerwies. In Brixen wurde die Sozialgenossenschaft Wianui gegründet, die sich auf Recycling spezialisiert. Und in Meran unterrichtet eine Lehrerin junge Menschen in einem großen Gemüsegarten. Wie viel Abfall produzieren wir im Durchschnitt pro Jahr? Wie effizient ist das derzeitige Abfallentsorgungssystem? Diese Fragen beantwortet Giulio Angelucci, der Leiter des Amtes für Abfallwirtschaft. Elisa, eine grüne Influencerin, spricht über die Bedeutung der Eigenproduktion in den sozialen Netzwerken und Alex, ein 20-jähriger Landwirt, stellt uns seinen Betrieb in Aldein vor. All diese Menschen nehmen uns mit auf eine Entdeckungsreise zu neuen Lebensstilen und machen uns klar, dass konkrete Veränderungen notwendig, aber auch machbar sind.</desc>
-  </programme>
-  <programme start="20240812200000 +0200" stop="20240812202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240812202100 +0200" stop="20240812210100 +0200" channel="Rai Südtirol">
-    <title>Flurnamen rund um den Schlern</title>
-    <sub-title/>
-    <desc>Flurnamenexperte Johannes Ortner erkundet das Gebiet nördlich und südlich des Schlerns und erklärt vorrömische Ortsnamen wie Seis, erzählt aber auch besondere Geschichten.
-
-Johannes Ortner erklärt noch weitere vorrömische Ortsnamen wie Völs oder Tiers. In dieser Gegend gibt es aber auch eine Fülle an alpenromanischen Hof- und Flurnamen wie Panid (Föhrenwald), Peterfrag (gebrochener Stein), Tschafon (Großjoch) oder Tscherndui (Viehscheide). Rund um den Schlern findet man häufig Bezeichnungen wie Schwaige (Almhütten auf der Seiser Alm) oder Gufln (Felsüberhänge im Dolomitgestein). Um manche Bezeichnungen ranken sich besondere Geschichten: z.B. die Quelle Schlernblut, die Serbische Kappe auf der Schlern-Hochfläche oder das Tschetterloch in Tiers.</desc>
-  </programme>
-  <programme start="20240812210100 +0200" stop="20240812214527 +0200" channel="Rai Südtirol">
-    <title>Rund um die Karawanken</title>
-    <sub-title/>
-    <desc>Mächtig und schroff erheben sich die beeindruckenden Karawanken im zweisprachigen Gebiet Kärntens, an der Grenze zu Slowenien. Ihre rustikale Schönheit prägt die Dörfer entlang ihrer Hänge und Täler. Im Laufe der Generationen und einer oft problematischen Geschichte entwickelten sich die Gemeinden weiter, die Wertschätzung der Traditionen und der Natur ist jedoch geblieben. Malerische Dorfkirchlein vor imposanten Felsmassiven, grüne Weiden von der flachen morgendlichen Sonne gestreichelt - wer vom Sommer in den Bergen träumt, wird hier mit fast schon klischeehaft schönen Bildern bedient.</desc>
-  </programme>
-  <programme start="20240812214500 +0200" stop="20240812215931 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Juacturm</sub-title>
-    <desc>Die Osteopathie ist eine noch relativ wenig bekannte Technik im Bereich der Physiotherapie. Angelika Renzler ist eine Osteopathin aus Rasen-Antholz und erzählt uns mehr über ihren Beruf, während sie auf den Juacturm in Wolkenstein klettert. Zusammen mit ihrem Bergführer Manfred Stuffer steigt sie über den ausgesetzten Westgrat des Berges, der sich im Naturpark Puez-Geisler befindet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240812221000 +0200" stop="20240812223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240813200000 +0200" stop="20240813202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
