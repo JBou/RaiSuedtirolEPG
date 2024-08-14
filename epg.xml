@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240813200000 +0200" stop="20240813202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240813202000 +0200" stop="20240813204755 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Die Lunge</sub-title>
-    <desc>Die Lungenuntersuchung, Diagnose Lungentumor, Leben mit einer transplantierten Lunge, aber
-auch Atemtraining als Prävention sind Themen, die Gesundheits-Reporterin Ulli Velano diesmal
-behandelt.
-Wenn Lungenprobleme auftreten, dann ist die Lebensqualität massiv eingeschränkt. Pneumologe
-Ivan Tancevski rät, die Lunge zumindest einmal im Rahmen einer Vorsorgeuntersuchung abzuchecken, denn ein möglicher Lungentumor bleibt lange unerkannt und verursacht erst im Endstadium Probleme. War der Lungentumor früher ein Todesurteil, gibt es heute effiziente Behandlungsmethoden. An der Innsbrucker Universitätsklinik entfernt Chirurg Florian Augustin 150 Tumore pro Jahr. Nach dem schweren Eingriff sind die Patienten:innen nach wenigen Tagen wieder fit. Und dann gibt es auch Wunder: Der Brunecker Thomas Meraner litt an Mukoviszidose. Vor 26 Jahren wurden ihm zwei neue Lungenflügel transplantiert. Nach der Operation sprachen die Ärzte von einer Lebenserwartung von drei Jahren. Der Südtiroler ließ sich von dieser Diagnose nicht aufhalten, studierte und heiratete - und führt heute ein normales Leben mit gewissen Einschränkungen. Weltweit ist Thomas Meraner der einzige Mensch, der 26 Jahre mit einer transplantierten Lunge lebt.</desc>
-  </programme>
-  <programme start="20240813221000 +0200" stop="20240813223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240814200000 +0200" stop="20240814202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
