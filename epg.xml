@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240814200000 +0200" stop="20240814202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240814202000 +0200" stop="20240814204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Günstige Steuerbedingungen für Heimkehrer:innen, Sommerzeit ist Praktikumszeit, auch heuer Borkenkäferalarm, innovative Regalsysteme aus Auer - darüber berichtet Pluspunkt im August.
-
-Wer nach mindestens drei Jahren im Ausland zurückkehrt oder nach Italien zieht und seinen Steuersitz verlegt, kann von äußerst günstigen Steuerkonditionen profitieren. Wir geben wertvolle Tipps, wie man diese Vorteile nutzen kann. Viele Studierende nutzen die Ferien, um durch Praktika oder Ferialjobs ihre Kasse aufzubessern. Welche Möglichkeiten es gibt und wie diese steuerlich zu handhaben sind, erklärt die Expertin des ASGB-Steuerbeistandszentrum.
-Borkenkäfer-Alarm: Das kühle und regnerische Frühjahr 2024 hat den Schwarm der Borkenkäfer verzögert, aber die Herausforderung für das Forstamt und die Waldbesitzer bleibt bestehen. Trotz intensiver Maßnahmen und Überwachungen bleibt die hohe Populationsdichte der Borkenkäfer ein Problem. Wir haben mit Experten und Waldbesitzern über mögliche Lösungen gesprochen.
-Innovative Regalsysteme: Die Firma Mobilrot aus Auer bietet eine breite Produktpalette an Regalsystemen für Industriebetriebe, Museen, Bibliotheken, Sporthallen, Krankenhäuser. Durch Innovation, Kundenorientierung und Visionen ist die Firma weltweit tätig.</desc>
-  </programme>
-  <programme start="20240814221000 +0200" stop="20240814223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240815200000 +0200" stop="20240815202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -131,6 +112,146 @@ Es ist eine Stadt, in die man sich erst auf den zweiten oder dritten Blick verli
     <desc/>
   </programme>
   <programme start="20240818221000 +0200" stop="20240818223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240819180000 +0200" stop="20240819181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nach der langen Sommerpause ist jetzt endlich wieder auch der Südtiroler Amateurfußball gestartet. Und das gleich mit zwei Knaller im Italienpokal der Oberliga: Partschins empfängt zu Hause Tramin, während Serie D-Absteiger Virtus Bozen beim Bozner FC zu Gast ist. Außerdem trifft im Landespokal der 1. Amateurliga-Klub Tirol auf Landesligist Weinstraße Süd.</desc>
+  </programme>
+  <programme start="20240819181400 +0200" stop="20240819183050 +0200" channel="Rai Südtirol">
+    <title>Bullshit!</title>
+    <sub-title>Das strategische Streitgespräch Folge 5</sub-title>
+    <desc>In der letzten Folge von &quot;Bullshit!&quot; wird getestet, wie viel Unsinn bei Diskussionen von den Politiker:innen der Wählerschaft aufgetischt wird. 
+Was passiert, wenn Südtirols Spitzenpolitiker:innen auf junge Menschen treffen, die ihre Partei ganz bestimmt nicht wählen? Junge Wähler:innen erklären politischen Vertreter:innen, was sie an der Politik der SVP, der Grünen und des Team K auszusetzen haben. Dabei drehen sich die Diskussionen um eine Vielzahl von Themen wie Jugend, Autonomie oder Lobbyismus. Beide Gesprächspartner:innen haben die Gelegenheit, ihre Position zu verteidigen und unfaire Kritik des Gegenübers richtigzustellen, um im Gespräch bestenfalls auf einen gemeinsamen Nenner zu kommen.</desc>
+  </programme>
+  <programme start="20240819183100 +0200" stop="20240819185554 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria spezial</title>
+    <sub-title/>
+    <desc>Moderatorin Sigrid Flenger führt uns nach Međimurje, übersetzt in etwa Zwischenmurland. Ganz im Norden Kroatiens gelegen zwischen den Flüssen Mur und Drau. An der Grenze zu Slowenien und Ungarn schlängeln sich die Flüsse Mur und Drau durch die Region und bieten malerische Kulissen für Bootsfahrten und entspannte Spaziergänge entlang der Ufer. In dieser Ausgabe von Alpen Donau Adria spezial sind wir zu Besuch bei Winzern, Imkern, Historikern, Musikern und Naturschützern in der Medimurje.</desc>
+  </programme>
+  <programme start="20240819200000 +0200" stop="20240819202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240819202000 +0200" stop="20240819204931 +0200" channel="Rai Südtirol">
+    <title>Das gefrorene Meer in uns</title>
+    <sub-title>Auf den Spuren von Franz Kafka in Meran</sub-title>
+    <desc>Kurgast Franz Kafka in Meran: Die Texte des bedeutenden Schriftstellers erzählen von Angst und Einsamkeit. Sie sind kühl, rätselhaft und so einzigartig, dass der Begriff &quot;kafkaesk&quot; entstand.
+
+Kafka leidet am Leben, an der Arbeit, an sich selbst. 1917 erkrankt er mit nur 34 Jahren an
+Tuberkulose. Er entscheidet sich im Frühjahr 1920 für eine Kur in Meran. Seinen Aufenthalt belegen die Fremdenlisten in der Zeitung &quot;Burggräfler&quot; sowie seine Tagebucheinträge und - vor allem - die weltberühmten &quot;Briefe an Milena&quot;.
+Zunächst wohnte Kafka im Grandhotel Emma, später in der Pension Ottoburg in Untermais. Seine Kur besteht aus viel frischer Luft auf dem Balkon, Nacktbaden in der Sonne und Molke zur Reinigung und Bewegung. Er musste viel liegen, führte Gespräche und widmete sich dem Schreiben ausführlicher Briefe. In seinen drei Monaten in Meran schreibt Franz Kafka täglich Briefe an seine Schwester Ottla, an die befreundete Prager Journalistin Milena Jesenská und an seinen engen Vertrauten, den Verleger und Schriftsteller Max Brod.
+Die Filmemacher Verena Gruber und Günther Neumair folgen den Spuren des großen Schriftstellers in Meran.</desc>
+  </programme>
+  <programme start="20240819205000 +0200" stop="20240819213219 +0200" channel="Rai Südtirol">
+    <title>Bürgerbauten</title>
+    <sub-title>Historische Rathäuser in Südtirol Teil III</sub-title>
+    <desc>Rathäuser sind seit dem Mittelalter der Stolz der Bürger, waren Orte der Macht und der Selbstdarstellung. Heute sind sie Serviceeinrichtungen für alle und dienen der Verwaltung. So wechselten im Laufe der Jahrhunderte Anspruch und vielfältige Nutzungsmöglichkeiten: Rathäuser waren und sind Orte für Ratssitzungen und zugleich Verwaltungsgebäude - Offenheit und Vertraulichkeit treffen aufeinander. Und ihre vielfältige Geschichte reicht weit zurück… Die Macher der Filmdokumentation &quot;Bürgerbauten- Historische Rathäuser in Südtirol&quot; haben in den Rathäusern von Neumarkt, Salurn, Klausen und Prettau recherchiert und geforscht und sind dabei auf spannende Geschichten gestoßen.</desc>
+  </programme>
+  <programme start="20240819213300 +0200" stop="20240819215926 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Unser Frau im Schnalstal</sub-title>
+    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. Eine bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum, das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
+  </programme>
+  <programme start="20240819221100 +0200" stop="20240819223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240820200000 +0200" stop="20240820202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240820202000 +0200" stop="20240820203430 +0200" channel="Rai Südtirol">
+    <title>Einladung in Museum</title>
+    <sub-title>MMM Ripa</sub-title>
+    <desc>Schloss Bruneck, einst Sommerresidenz der Fürstbischöfe, ist heute das MMM Ripa. Es ist eines der sechs Museen von Reinhold Messner und widmet sich den Bergkulturen aus aller Welt. 
+Ziel des Museums ist es, eine Botschaft des Respekts und des Verständnisses für die unterschiedlichen Bergvölker zu vermitteln. Ihre Herausforderungen, ihre Traditionen und ihr harmonisches Verhältnis zur Natur. Durch Ausstellungen und Schautafeln erzählt das MMM Ripa Geschichten vom Leben und Überleben und unterstreicht die Bedeutung der kulturellen und ökologischen Erhaltung der Berge. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240820203500 +0200" stop="20240820204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nach der langen Sommerpause ist jetzt endlich wieder auch der Südtiroler Amateurfußball gestartet. Und das gleich mit zwei Knaller im Italienpokal der Oberliga: Partschins empfängt zu Hause Tramin, während Serie D-Absteiger Virtus Bozen beim Bozner FC zu Gast ist. Außerdem trifft im Landespokal der 1. Amateurliga-Klub Tirol auf Landesligist Weinstraße Süd.</desc>
+  </programme>
+  <programme start="20240820221000 +0200" stop="20240820223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240821200000 +0200" stop="20240821202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240821202000 +0200" stop="20240821204423 +0200" channel="Rai Südtirol">
+    <title>Heilige Grenzen</title>
+    <sub-title>Steinerne Zeichen in der Landschaft</sub-title>
+    <desc>Zäune und Mauern sind Zeichen in der Landschaft und erzählen von Besitz und Heimat gleichermaßen, mitunter ziehen sie geradezu heilige Grenzen. Ein Film von Marco Polo.
+
+Wenn sie auch weniger Beachtung finden als stolze Schlösser oder aufragende´Bauten - die Mauern und Zäune sind wichtige Wegmarken, aber auch Zeitdokumente. Mauern und Zäune trennen mitunter Recht von Unrecht, sie waren Streitpunkt unter Bauern und Ursprung von Sagen. Mauern aus Stein begleiten den Weg des Wanderers, beschützen vor dem Fremden und halten - glaubt man dem Volksmund - gar Tote in Schach.
+In der Dokumentation von Marco Polo werden auch Vergleiche gezogen: Im Himalaya beispielsweise werden aus den aufgeschichteten Steinen am Wegrand Gebetsmauern.</desc>
+  </programme>
+  <programme start="20240821221000 +0200" stop="20240821223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240822200000 +0200" stop="20240822202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240822202000 +0200" stop="20240822205000 +0200" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>Annika Borsetto und Robert Neumair</sub-title>
+    <desc>Die Musigzeit besucht zwei Menschen, die in sehr unterschiedlichen Musikwelten zuhause sind: Annika Borsetto ist Singer-Songwriterin aus Bozen, Robert Neumair aus St. Georgen bei Bruneck komponiert und ist Berufsmusiker. Neumair spielt in der Deutschen Radiophilharmonie Saarbrücken-Kaiserslautern, komponiert Filmmusik und arrangiert Auftragsproduktionen in seinem eigenen Studio.
+Annika Borsetto hingegen ist Landesbedienstete, hat sich jedoch auch der Musik verschrieben. Sie komponiert eigene Lieder und hat bereits mehrere Tonträger veröffentlicht. Borsetto ist nicht nur als Einzelkünstlerin unterwegs, den mit dem Musiker Tom Blaas hat sie das Duo Whiskey &amp; Ginger gegründet und ist mit Herzblut in der Formation Ukulele Lovers dabei.</desc>
+  </programme>
+  <programme start="20240822221000 +0200" stop="20240822223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240823180000 +0200" stop="20240823182930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die &quot;Femminielli&quot; , eine jahrhundertealte Form von Transgender in Neapel, die EU-Wahlen aus
+Minderheitensicht, die Reform des marokkanischen Familienrechts. Moderation: Christina Khuen. Der bekannte neapolitanische Fotoreporter Luciano Ferrara hat im Lauf seiner Karriere viele Stars und Minderheiten porträtiert. Über mehrere Jahrzehnte auch eine besondere Minderheit seiner Heimatstadt: die &quot;Femminielli&quot;. In Neapel gehören sie zum kulturellen Erbe. Es sind Menschen, die beides sind, Mann wie Frau. Ihre Ursprünge reichen zurück bis in die griechische Mythologie. Minet hat Luciano Ferrara in seinem Wohnungsatelier einen Besuch abgestattet.
+Marokko reformiert sein Familienrecht, weil es nicht den Anforderungen der progressiven
+Verfassung entspricht, die das Land sich 2011 gegeben hat. Es diskriminiert verwitwete, geschiedene oder alleinerziehende Frauen und erlaubt - wenn auch unter Bedingungen - Kinderehen und Polygamie. Ein großer Schritt für diesen islamischen Staat. Im Minet-Gespräch ist Verena Wisthaler vom Institut für Minderheitenrecht an der Eurac zu Gast. Mit ihr analysiert Christina Khuen die EU-Wahlen aus Minderheitensicht.
+Minet feiert außerdem ein kleines Jubiläum: Im Juni 2004 ist die erste Minet-Ausgabe auf Sendung gegangen. Wir blicken zurück auf 20 Jahre Minderheitenberichterstattung und informieren im Minet-Telegramm über aktuelle Themen rund um Minderheiten.</desc>
+  </programme>
+  <programme start="20240823182900 +0200" stop="20240823185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Günstige Steuerbedingungen für Heimkehrer:innen, Sommerzeit ist Praktikumszeit, auch heuer Borkenkäferalarm, innovative Regalsysteme aus Auer - darüber berichtet Pluspunkt im August. Wer nach mindestens drei Jahren im Ausland zurückkehrt oder nach Italien zieht und seinen Steuersitz verlegt, kann von äußerst günstigen Steuerkonditionen profitieren. Wir geben wertvolle Tipps, wie man diese Vorteile nutzen kann. Viele Studierende nutzen die Ferien, um durch Praktika oder Ferialjobs ihre Kasse aufzubessern. Welche Möglichkeiten es gibt und wie diese steuerlich zu handhaben sind, erklärt die Expertin des ASGB-Steuerbeistandszentrum.
+Borkenkäfer-Alarm: Das kühle und regnerische Frühjahr 2024 hat den Schwarm der Borkenkäfer verzögert, aber die Herausforderung für das Forstamt und die Waldbesitzer bleibt bestehen. Trotz intensiver Maßnahmen und Überwachungen bleibt die hohe Populationsdichte der Borkenkäfer ein Problem. Wir haben mit Experten und Waldbesitzern über mögliche Lösungen gesprochen.
+Innovative Regalsysteme: Die Firma Mobilrot aus Auer bietet eine breite Produktpalette an Regalsystemen für Industriebetriebe, Museen, Bibliotheken, Sporthallen, Krankenhäuser. Durch Innovation, Kundenorientierung und Visionen ist die Firma weltweit tätig.</desc>
+  </programme>
+  <programme start="20240823200000 +0200" stop="20240823202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240823202000 +0200" stop="20240823213900 +0200" channel="Rai Südtirol">
+    <title>Sturm am Manaslu</title>
+    <sub-title/>
+    <desc>Der Dokumentarfilm von Reinhold Messner zeichnet die tragischen Geschehnisse rund um die Tiroler Himalaya-Expedition 1972 nach, wo zwei Bergsteiger ums Leben kamen. 
+
+Fast 50 Jahre später kommen die ehemaligen Expeditionsteilnehmer auf Schloss Juval zusammen und schildern ihre persönlichen Eindrücke von damals. Franz Jäger, der gemeinsam mit Reinhold Messner den Gipfel in Angriff nimmt, kehrt auf halber Strecke um. Messner erreicht im Alleingang den Gipfel, beim Abstieg jedoch bricht der Sturm los und die Situation gerät außer Kontrolle. Vom unteren Lager steigt ein kleiner Versorgungstrupp den Bergsteigern entgegen. Am Ende verschwinden zwei Menschen für immer in den Wirren des Sturms. Auf Schloss Juval reflektieren die Überlebenden heute über ihr Leben am Limit: Kann es dafür eine Rechtfertigung geben und ist es vor allem gegenüber ihren Müttern, Frauen und Kindern zu verantworten?</desc>
+  </programme>
+  <programme start="20240823213900 +0200" stop="20240823215739 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Arbeiten am Berg</sub-title>
+    <desc>Der Berg ist für die meisten von uns ein Freizeitort, wo man sich von der Arbeit während der
+Woche erholen kann. Für Hüttenwirte, Wegmacher und Bergführer hingegen ist es der Arbeitsplatz. Thomas Hainz war im Ahrntal unterm Schwarzenstein unterwegs.</desc>
+  </programme>
+  <programme start="20240823221000 +0200" stop="20240823223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
