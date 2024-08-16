@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240815200000 +0200" stop="20240815202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240815202000 +0200" stop="20240815204912 +0200" channel="Rai Südtirol">
-    <title>Maria</title>
-    <sub-title>Die Heilige mit dem Verständnis fürs Menschliche</sub-title>
-    <desc>Die Vielfalt der marianischen Verehrungsformen und die Darstellung der Muttergottes im Laufe der Kunstgeschichte bis in unsere Zeit. Ein Film von Günther Neumair und Helene Dietl Laganda.
-
-Keine andere Heilige nimmt in der Volksfrömmigkeit einen so großen Stellenwert ein wie Maria. Ihre Darstellungsformen sind vielfältig, nehmen im Laufe der Zeit immer wieder neue Formen an und spiegeln neben der Glaubenshaltung auch den Zeitgeist in der Kunst wieder. Mag der Glaube in unserer Zeit auch zu etwas sehr Persönlichem geworden sein, die Marienverehrung scheint immer noch zu verbinden.</desc>
-  </programme>
-  <programme start="20240815221000 +0200" stop="20240815223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240816180000 +0200" stop="20240816184239 +0200" channel="Rai Südtirol">
     <title>Die Habsburger in Mariazell</title>
     <sub-title>Mater Austriae</sub-title>
@@ -252,6 +235,39 @@ Fast 50 Jahre später kommen die ehemaligen Expeditionsteilnehmer auf Schloss Ju
 Woche erholen kann. Für Hüttenwirte, Wegmacher und Bergführer hingegen ist es der Arbeitsplatz. Thomas Hainz war im Ahrntal unterm Schwarzenstein unterwegs.</desc>
   </programme>
   <programme start="20240823221000 +0200" stop="20240823223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240824175900 +0200" stop="20240824185244 +0200" channel="Rai Südtirol">
+    <title>Die Brennerautobahn</title>
+    <sub-title>Die Geschichte eines visionären Projektes</sub-title>
+    <desc>Dieser Film dokumentiert die Entstehungsgeschichte dieser wichtigen Nord-Süd-Achse von der ersten Idee, über politische Machtspiele, bis hin zu visionären Plänen für den Bau dieser 314 Kilometer. Tagtäglich passieren Zigtausende PKW und LKW die Grenze über den Brenner, um die Alpen zu durchqueren. Es wäre fast undenkbar, wenn es diese Autobahn nicht geben würde. Dabei war der Bau dieser Strecke alles andere als einfach. Das letzte und schwierigste Teilstück wurde am 11.April 1974 - also vor 50 Jahren  fertiggestellt.
+Dieses Bauwerk gilt auch heute noch als Meisterwerk des 20. Jahrhunderts. Filmemacher Wolfgang Moser zeigt auch die ambitionierten Zukunftspläne der Brennerautobahn AG, denn diese haben es wahrlich in sich: vom autonomen Fahren, zum Truck Platooning, bis zur sog. Intermodalität. Das bedeutet, den Verkehr von der Straße auf die Schiene zu bringen. Wir erfahren, wie wichtig es ist, die Brennerautobahn für die Zukunft aufzurüsten.</desc>
+  </programme>
+  <programme start="20240824185200 +0200" stop="20240824185645 +0200" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Parkour-Sportler Alex Oberhofer</sub-title>
+    <desc>Wenn man für sich das richtige Hobby gefunden hat, kann das das ganze Leben verändern. So erging es dem 26jährigen Alex Oberhofer früher. Parkour und Freerunning haben aus ihm einen anderen Menschen gemacht. Beides sind spektakuläre Sportarten, wo man vom Stand einen Salto macht oder wie ein Äffchen eine Fassade hochklettert. Dazu braucht es natürlich viel Training, damit man sich nicht verletzt. In der Fernsehreihe &quot;Und doch sind wir anders&quot; wird der Jungbauer Alex porträtiert.</desc>
+  </programme>
+  <programme start="20240824200000 +0200" stop="20240824202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240824202100 +0200" stop="20240824202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240824202500 +0200" stop="20240824205451 +0200" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Mittelmeer</sub-title>
+    <desc>Eine kulturell kulinarische Entdeckungsreise durch mehrere Länder am Mittelmeer. Eine Kreuzfahrt der Sinne. Von Italien bis nach Frankreich. 
+
+Wir erleben Rom, die Toskana ebenso wie die französischen Hotspots wie Cannes, St.Tropez und Marseille. Dabei entdecken wir vor allem die kulinarischen Facetten von Frankreich und Italien. Mediterrane Küche vom Feinsten.</desc>
+  </programme>
+  <programme start="20240824221000 +0200" stop="20240824223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
