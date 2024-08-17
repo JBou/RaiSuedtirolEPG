@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240816180000 +0200" stop="20240816184239 +0200" channel="Rai Südtirol">
-    <title>Die Habsburger in Mariazell</title>
-    <sub-title>Mater Austriae</sub-title>
-    <desc>Die Habsburger und der berühmte Wallfahrtsort Mariazell: Es ist die Geschichte einer besonderen Beziehung. Die Verehrung der Magna Mater Austriae war für die österreichische Herrscherfamilie sowohl Staatskult als auch Ausdruck privater Frömmigkeit.
-Die Entwicklung von Mariazell wäre ohne das Wirken der Habsburger undenkbar gewesen. Wir beschreiben, wie sich aus ihren Wallfahrten ein touristischer und wirtschaftlicher Schwerpunkt entwickelte.
-Noch heute wird die Basilika in Mariazell von Habsburgern besucht, um vor den Gnadenaltar zu
-treten. Der Enkel des letzten österreichischen Kaisers Karl I. hat hier auch 1993 geheiratet. Jährlich macht sich eine Million Pilger auf den Weg zur Gnadenmutter und erlebt immer noch eine
-gleichsam emotionale wie spirituelle Ergriffenheit, berichten die Filmemacher Alfred Ninaus und Fritz Aigner.</desc>
-  </programme>
-  <programme start="20240816184200 +0200" stop="20240816185645 +0200" channel="Rai Südtirol">
-    <title>Die Marienwallfahrt Heilig Drei Brunnen in Trafoi</title>
-    <sub-title>Aus der Reihe Magische Plätze</sub-title>
-    <desc>Frost und Eis, Schneeschmelze und Unwetter haben hier Felsen aus den Bergwänden gesprengt. Schon in vorchristlicher Zeit sollen hier keltische Priester gelebt und ihre Opfer den Göttern dargebracht haben. 1229 sind aus einer Quelle angeblich drei Kreuze entsprungen, die im Laufe der Zeiten wieder verloren gingen. Als Jahrhunderte später ein Holzhacker auf einem Baum ein Marienbild fand, war der vergessene Wallfahrtsort Heilig Drei Brunnen in Trafoi wieder
-in aller Munde. Nach wie vor strömen Scharen von Besuchern vor allem in den Sommermonaten an den Fuß des Ortlermassivs, um hier die Ruhe zu genießen und zu beten.</desc>
-  </programme>
-  <programme start="20240816200000 +0200" stop="20240816202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240816202100 +0200" stop="20240816214934 +0200" channel="Rai Südtirol">
-    <title>Die Slawen</title>
-    <sub-title>Unsere geheimnisvollen Vorfahren</sub-title>
-    <desc>Fremde aus dem Osten ziehen im siebten Jahrhundert in Richtung Mitteleuropa: die Slawen. Wer war dieses Volk, das bis in den Süden des Kontinents vorrückte und bleibende Spuren hinterließ?
-
-Die Slawen haben eine bis heute geheimnisvolle Geschichte, in der viele Fragen offen sind und
-viel Raum für Sagen und Mythen bleibt. Sie sind Bauern und Handwerker, gründen nie einen eigenen Staat und haben dennoch die heutigen Nationen entscheidend geprägt. Wie haben sich die Slawen ohne feste Landesgrenzen über Jahrhunderte entwickeln, ihre Bräuche, Religionen und Kulturen pflegen und Vieles davon letztlich bis heute bewahren können? Die Dokumentation von René Pippig und Wolfgang Albus begleitet eine Gruppe von Slawen durch die Jahrhunderte, folgt ihnen in diverse Scharmützel, beobachtet ihre Bräuche und Riten und zeigt ihr Überlebensgeschick und ihren Kampf um eine eigene Identität vor dem Hintergrund großer historischer Umbrüche.</desc>
-  </programme>
-  <programme start="20240816215000 +0200" stop="20240816215929 +0200" channel="Rai Südtirol">
-    <title>Magische Plätze</title>
-    <sub-title>Der Troi Paian-Weg</sub-title>
-    <desc>Ein urgeschichtlicher Weg verbindet Lajen im Eisacktal mit dem Abteital. Es ist der berühmte Troi Paian, ein Weg, der seit Urzeiten über die Berge und das Grödner Joch führt - in der Bronzezeit wohl bis an die Adria.
-Manchmal läuft der Troi Paian gemächlich dahin, manchmal geht es steil aufwärts. Funde deuten
-darauf hin, dass es ihn bereits in der Steinzeit gegeben hat. Sein Flair und seine Vergangenheit machen ihn geheimnisvoll. Buchautorin Astrid Amico macht sich auf den Weg und zeigt uns die schönsten Plätze entlang des alten Troi Paian.</desc>
-  </programme>
-  <programme start="20240816221000 +0200" stop="20240816223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240817175900 +0200" stop="20240817184324 +0200" channel="Rai Südtirol">
     <title>Geschichte erwandern, Natur erleben</title>
     <sub-title> Von Brixen nach Franzensfeste</sub-title>
@@ -268,6 +228,28 @@ Dieses Bauwerk gilt auch heute noch als Meisterwerk des 20. Jahrhunderts. Filmem
 Wir erleben Rom, die Toskana ebenso wie die französischen Hotspots wie Cannes, St.Tropez und Marseille. Dabei entdecken wir vor allem die kulinarischen Facetten von Frankreich und Italien. Mediterrane Küche vom Feinsten.</desc>
   </programme>
   <programme start="20240824221000 +0200" stop="20240824223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240825200000 +0200" stop="20240825202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240825202100 +0200" stop="20240825205059 +0200" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Toronto</sub-title>
+    <desc>Die kanadische Millionenstadt ist der Puls des Landes und steht ganz im Zeichen von Kunst, Musik und Architektur. Keine andere Stadt ist derart kreativ, innovativ und impulsiv. 
+
+Wir erleben Menschen, die bewegen, ändern, provozieren und polarisieren. Aber auch die Spuren der indigenen Völker werden entdeckt. Der Geist und die Kultur der Indianer wird auch von der jungen Generation gelebt. Die indigenen Völker Kanadas gaben der Stadt auch ihren Namen: Sammelplatz. Ein und kultureller und stylischer Streifzug durch Toronto.</desc>
+  </programme>
+  <programme start="20240825205000 +0200" stop="20240825205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240825221000 +0200" stop="20240825223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
