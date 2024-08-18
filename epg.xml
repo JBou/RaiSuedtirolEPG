@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240817175900 +0200" stop="20240817184324 +0200" channel="Rai Südtirol">
-    <title>Geschichte erwandern, Natur erleben</title>
-    <sub-title> Von Brixen nach Franzensfeste</sub-title>
-    <desc>Der Geschichtsparcours von Brixen nach Franzensfeste beginnt beim Heilig-Geist-Spital im
-Norden des Stadtkerns von Brixen und endet in der Festung Franzensfeste mit Blick auf den Stausee, unter dem der ehemalige Weiler Unterau sprichwörtlich begraben liegt. Es wird immer wieder dort Halt gemacht, wo besondere Fundstücke auf historische Ereignisse verweisen oder auf besondere Naturphänomene.</desc>
-  </programme>
-  <programme start="20240817184300 +0200" stop="20240817185650 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Averau</sub-title>
-    <desc>In der Sendereihe &quot;Gipfelerlebnisse&quot; besteigt Generalvikar Eugen Runggaldier in den Ampezzaner Dolomiten den stolzen Monte Averau. Runggaldier ist der engste Mitarbeiter des Diözesanbischofs. Seine Leidenschaft für die Berge treibt ihn auf Gipfel in aller Welt. Das führe auch zur Spiritualität, meint er. Der Generalvikar wird vom Bergführer Manfred Stuffer begleitet. Der Monte Averau gilt als einer der markantesten Gipfel seiner ladinischen Heimat.</desc>
-  </programme>
-  <programme start="20240817200000 +0200" stop="20240817202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240817202100 +0200" stop="20240817202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240817202500 +0200" stop="20240817205000 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria spezial</title>
-    <sub-title/>
-    <desc>Moderatorin Sigrid Flenger führt uns nach Međimurje, übersetzt in etwa Zwischenmurland. Ganz im Norden Kroatiens gelegen zwischen den Flüssen Mur und Drau.
-
-An der Grenze zu Slowenien und Ungarn schlängeln sich die Flüsse Mur und Drau durch die Region und bieten malerische Kulissen für Bootsfahrten und entspannte Spaziergänge entlang der Ufer. In dieser Ausgabe von Alpen Donau Adria spezial sind wir zu Besuch bei Winzern, Imkern, Historikern, Musikern und Naturschützern in der Medimurje.</desc>
-  </programme>
-  <programme start="20240817221000 +0200" stop="20240817223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240818200000 +0200" stop="20240818202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
