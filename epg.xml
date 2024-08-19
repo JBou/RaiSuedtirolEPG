@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240818200000 +0200" stop="20240818202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240818202100 +0200" stop="20240818205119 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Bukarest</sub-title>
-    <desc>Während der Diktatur Nicolae Ceausescus erfuhr die Hauptstadt Rumäniens eine brutale Umwandlung: Historische Viertel wurden abgerissen, Protzbauten errichtet und ganze Kirchen versetzt. 
-
-Es ist eine Stadt, in die man sich erst auf den zweiten oder dritten Blick verliebt. Heute ist Bukarest auf der Suche nach einer neuen Identität: lebendig, vielfältig, kreativ. In den vergangenen Jahren ist hier viel passiert. Die Infrastruktur der Stadt wurde verbessert, Parkanlagen erneuert, zahlreiche Cafés und Restaurants eröffneten entlang der Gassen und auch eine alternative Kulturszene hat sich allmählich herausgebildet.</desc>
-  </programme>
-  <programme start="20240818205100 +0200" stop="20240818205500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240818221000 +0200" stop="20240818223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240819180000 +0200" stop="20240819181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
