@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240819180000 +0200" stop="20240819181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Nach der langen Sommerpause ist jetzt endlich wieder auch der Südtiroler Amateurfußball gestartet. Und das gleich mit zwei Knaller im Italienpokal der Oberliga: Partschins empfängt zu Hause Tramin, während Serie D-Absteiger Virtus Bozen beim Bozner FC zu Gast ist. Außerdem trifft im Landespokal der 1. Amateurliga-Klub Tirol auf Landesligist Weinstraße Süd.</desc>
-  </programme>
-  <programme start="20240819181400 +0200" stop="20240819183050 +0200" channel="Rai Südtirol">
-    <title>Bullshit!</title>
-    <sub-title>Das strategische Streitgespräch Folge 5</sub-title>
-    <desc>In der letzten Folge von &quot;Bullshit!&quot; wird getestet, wie viel Unsinn bei Diskussionen von den Politiker:innen der Wählerschaft aufgetischt wird. 
-Was passiert, wenn Südtirols Spitzenpolitiker:innen auf junge Menschen treffen, die ihre Partei ganz bestimmt nicht wählen? Junge Wähler:innen erklären politischen Vertreter:innen, was sie an der Politik der SVP, der Grünen und des Team K auszusetzen haben. Dabei drehen sich die Diskussionen um eine Vielzahl von Themen wie Jugend, Autonomie oder Lobbyismus. Beide Gesprächspartner:innen haben die Gelegenheit, ihre Position zu verteidigen und unfaire Kritik des Gegenübers richtigzustellen, um im Gespräch bestenfalls auf einen gemeinsamen Nenner zu kommen.</desc>
-  </programme>
-  <programme start="20240819183100 +0200" stop="20240819185554 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria spezial</title>
-    <sub-title/>
-    <desc>Moderatorin Sigrid Flenger führt uns nach Međimurje, übersetzt in etwa Zwischenmurland. Ganz im Norden Kroatiens gelegen zwischen den Flüssen Mur und Drau. An der Grenze zu Slowenien und Ungarn schlängeln sich die Flüsse Mur und Drau durch die Region und bieten malerische Kulissen für Bootsfahrten und entspannte Spaziergänge entlang der Ufer. In dieser Ausgabe von Alpen Donau Adria spezial sind wir zu Besuch bei Winzern, Imkern, Historikern, Musikern und Naturschützern in der Medimurje.</desc>
-  </programme>
-  <programme start="20240819200000 +0200" stop="20240819202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240819202000 +0200" stop="20240819204931 +0200" channel="Rai Südtirol">
-    <title>Das gefrorene Meer in uns</title>
-    <sub-title>Auf den Spuren von Franz Kafka in Meran</sub-title>
-    <desc>Kurgast Franz Kafka in Meran: Die Texte des bedeutenden Schriftstellers erzählen von Angst und Einsamkeit. Sie sind kühl, rätselhaft und so einzigartig, dass der Begriff &quot;kafkaesk&quot; entstand.
-
-Kafka leidet am Leben, an der Arbeit, an sich selbst. 1917 erkrankt er mit nur 34 Jahren an
-Tuberkulose. Er entscheidet sich im Frühjahr 1920 für eine Kur in Meran. Seinen Aufenthalt belegen die Fremdenlisten in der Zeitung &quot;Burggräfler&quot; sowie seine Tagebucheinträge und - vor allem - die weltberühmten &quot;Briefe an Milena&quot;.
-Zunächst wohnte Kafka im Grandhotel Emma, später in der Pension Ottoburg in Untermais. Seine Kur besteht aus viel frischer Luft auf dem Balkon, Nacktbaden in der Sonne und Molke zur Reinigung und Bewegung. Er musste viel liegen, führte Gespräche und widmete sich dem Schreiben ausführlicher Briefe. In seinen drei Monaten in Meran schreibt Franz Kafka täglich Briefe an seine Schwester Ottla, an die befreundete Prager Journalistin Milena Jesenská und an seinen engen Vertrauten, den Verleger und Schriftsteller Max Brod.
-Die Filmemacher Verena Gruber und Günther Neumair folgen den Spuren des großen Schriftstellers in Meran.</desc>
-  </programme>
-  <programme start="20240819205000 +0200" stop="20240819213219 +0200" channel="Rai Südtirol">
-    <title>Bürgerbauten</title>
-    <sub-title>Historische Rathäuser in Südtirol Teil III</sub-title>
-    <desc>Rathäuser sind seit dem Mittelalter der Stolz der Bürger, waren Orte der Macht und der Selbstdarstellung. Heute sind sie Serviceeinrichtungen für alle und dienen der Verwaltung. So wechselten im Laufe der Jahrhunderte Anspruch und vielfältige Nutzungsmöglichkeiten: Rathäuser waren und sind Orte für Ratssitzungen und zugleich Verwaltungsgebäude - Offenheit und Vertraulichkeit treffen aufeinander. Und ihre vielfältige Geschichte reicht weit zurück… Die Macher der Filmdokumentation &quot;Bürgerbauten- Historische Rathäuser in Südtirol&quot; haben in den Rathäusern von Neumarkt, Salurn, Klausen und Prettau recherchiert und geforscht und sind dabei auf spannende Geschichten gestoßen.</desc>
-  </programme>
-  <programme start="20240819213300 +0200" stop="20240819215926 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Unser Frau im Schnalstal</sub-title>
-    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. Eine bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum, das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
-  </programme>
-  <programme start="20240819221100 +0200" stop="20240819223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240820200000 +0200" stop="20240820202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
