@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240820200000 +0200" stop="20240820202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240820202000 +0200" stop="20240820203430 +0200" channel="Rai Südtirol">
-    <title>Einladung in Museum</title>
-    <sub-title>MMM Ripa</sub-title>
-    <desc>Schloss Bruneck, einst Sommerresidenz der Fürstbischöfe, ist heute das MMM Ripa. Es ist eines der sechs Museen von Reinhold Messner und widmet sich den Bergkulturen aus aller Welt. 
-Ziel des Museums ist es, eine Botschaft des Respekts und des Verständnisses für die unterschiedlichen Bergvölker zu vermitteln. Ihre Herausforderungen, ihre Traditionen und ihr harmonisches Verhältnis zur Natur. Durch Ausstellungen und Schautafeln erzählt das MMM Ripa Geschichten vom Leben und Überleben und unterstreicht die Bedeutung der kulturellen und ökologischen Erhaltung der Berge. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20240820203500 +0200" stop="20240820204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Nach der langen Sommerpause ist jetzt endlich wieder auch der Südtiroler Amateurfußball gestartet. Und das gleich mit zwei Knaller im Italienpokal der Oberliga: Partschins empfängt zu Hause Tramin, während Serie D-Absteiger Virtus Bozen beim Bozner FC zu Gast ist. Außerdem trifft im Landespokal der 1. Amateurliga-Klub Tirol auf Landesligist Weinstraße Süd.</desc>
-  </programme>
-  <programme start="20240820221000 +0200" stop="20240820223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240821200000 +0200" stop="20240821202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
