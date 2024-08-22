@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240821200000 +0200" stop="20240821202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240821202000 +0200" stop="20240821204423 +0200" channel="Rai Südtirol">
-    <title>Heilige Grenzen</title>
-    <sub-title>Steinerne Zeichen in der Landschaft</sub-title>
-    <desc>Zäune und Mauern sind Zeichen in der Landschaft und erzählen von Besitz und Heimat gleichermaßen, mitunter ziehen sie geradezu heilige Grenzen. Ein Film von Marco Polo.
-
-Wenn sie auch weniger Beachtung finden als stolze Schlösser oder aufragende´Bauten - die Mauern und Zäune sind wichtige Wegmarken, aber auch Zeitdokumente. Mauern und Zäune trennen mitunter Recht von Unrecht, sie waren Streitpunkt unter Bauern und Ursprung von Sagen. Mauern aus Stein begleiten den Weg des Wanderers, beschützen vor dem Fremden und halten - glaubt man dem Volksmund - gar Tote in Schach.
-In der Dokumentation von Marco Polo werden auch Vergleiche gezogen: Im Himalaya beispielsweise werden aus den aufgeschichteten Steinen am Wegrand Gebetsmauern.</desc>
-  </programme>
-  <programme start="20240821221000 +0200" stop="20240821223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240822200000 +0200" stop="20240822202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
