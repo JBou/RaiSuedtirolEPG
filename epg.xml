@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240822200000 +0200" stop="20240822202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240822202000 +0200" stop="20240822205000 +0200" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Annika Borsetto und Robert Neumair</sub-title>
-    <desc>Die Musigzeit besucht zwei Menschen, die in sehr unterschiedlichen Musikwelten zuhause sind: Annika Borsetto ist Singer-Songwriterin aus Bozen, Robert Neumair aus St. Georgen bei Bruneck komponiert und ist Berufsmusiker. Neumair spielt in der Deutschen Radiophilharmonie Saarbrücken-Kaiserslautern, komponiert Filmmusik und arrangiert Auftragsproduktionen in seinem eigenen Studio.
-Annika Borsetto hingegen ist Landesbedienstete, hat sich jedoch auch der Musik verschrieben. Sie komponiert eigene Lieder und hat bereits mehrere Tonträger veröffentlicht. Borsetto ist nicht nur als Einzelkünstlerin unterwegs, den mit dem Musiker Tom Blaas hat sie das Duo Whiskey &amp; Ginger gegründet und ist mit Herzblut in der Formation Ukulele Lovers dabei.</desc>
-  </programme>
-  <programme start="20240822221000 +0200" stop="20240822223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240823180000 +0200" stop="20240823182930 +0200" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
@@ -110,6 +94,188 @@ Wir erleben Menschen, die bewegen, ändern, provozieren und polarisieren. Aber a
     <desc/>
   </programme>
   <programme start="20240825221000 +0200" stop="20240825223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240826180000 +0200" stop="20240826181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greifen erstmals auch der letztjährige Landesliga-Meister und Aufsteiger SSV Brixen ins Geschehen ein, ebenso die beiden Meisterschaftsfavoriten Obermais und St. Georgen.  Sie treffen auf die Verlierer der ersten Runde.</desc>
+  </programme>
+  <programme start="20240826181400 +0200" stop="20240826183239 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Arbeiten am Berg</sub-title>
+    <desc>Der Berg ist für die meisten von uns ein Freizeitort, wo man sich von der Arbeit während der Woche erholen kann. Für Hüttenwirte, Wegmacher und Bergführer hingegen ist es der Arbeitsplatz. Thomas Hainz war im Ahrntal unterm Schwarzenstein unterwegs.</desc>
+  </programme>
+  <programme start="20240826183300 +0200" stop="20240826185730 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Burgstall</sub-title>
+    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen. Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
+  </programme>
+  <programme start="20240826200000 +0200" stop="20240826202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240826202100 +0200" stop="20240826212100 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Erfolgreiche Jugendarbeit im Theaterpädagogischen Zentrum in Brixen, Schauspielerin Valentina Emeri und Theatermann Klaus Gasperi im Porträt, Auszeichnungen für historische Gastbetriebe und besondere Kunstwerke im Obervinschgau.
+Neben all den Projekten, die im Rahmen des Schulunterrichts angeboten werden, haben im vergangenen Jahr 160 Jugendliche das Theaterpädagogische Zentrum in Brixen besucht. Mehrere Theaterpädagog:innen berichten, weshalb das Theater bei Jugendlichen so beliebt und weshalb es für sie so wertvoll ist.
+Seit bald 25 Jahren lebt die aus Bozen stammende Schauspielerin Valentina Emeri in Amerika, wo sie immer wieder Theater spielte, sich weiterbildete und inzwischen selbst unterrichtet. Seit Jahren kehrt sie im Sommer in ihre Heimat zurück, um auch hier zu spielen, regelmäßig ist sie Ensemblemitglied der Freilichtspiele Südtiroler Unterhalt, heuer spielt sie dort im Lustspielklassiker &quot;Der zerbrochene Krug&quot;.
+Der Theatermensch Klaus Gasperi hat sein Lebtag gesagt, was er dachte. In den vergangenen Jahren ist es um ihn etwas ruhiger geworden, er hat sich vom Brunecker Stadttheater zurückgezogen und betreut - als Bühnenausstatter - nur mehr Projekte im Ausland. Zum 30jährigen Bestehen des Stadttheaters spricht er über alte Freundschaften, Erfolge und Misserfolge und über seine Krankheit, der er seit Jahren tapfer begegnet.
+Seit 2007 zeichnet die Stiftung Südtiroler Sparkasse, das Landesdenkmalamt und der Hotelier- und Gastwirteverband historische Gastbetriebe in Südtirol aus. In diesem Jahr erhält der Ansitz Pünthof in Algund die Auszeichnung, an das Hotel Westend in Meran ging eine besondere Auszeichnung.
+Wir besuchen außerdem die neue Ausstellung im Bunker 23 in Tartsch und das Altarbild von Jörg Hofer im Sisinius-Kirchlein in Laas.
+Zu Gast sind die Poetry-Slammerin Helene Delazer alias Lene Morgenstern und der Kulturmanager Manfred Schweigkofler.</desc>
+  </programme>
+  <programme start="20240826212100 +0200" stop="20240826214537 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Freier Zugang zum Kalterer See - ein heißes Eisen. An diesem Ort der Superlative inmitten einer malerischen Landschaft versuchen Angelika König und Simone Mayr Schattenseiten einzufangen.
+
+Der Herrgott ist - der Legende nach - ein Kalterer Bürger, und die Kalterer:innen sind somit Herrgottskinder. Ein Sehnsuchtsort für Urlauber, eines der schönsten Weindörfer der Welt, die Perle des Südens - ein Ort, der leicht zu bewerben ist. Viel schwieriger ist es, Motive abseits der Postkartenidylle zu finden. In der filmischen Kolumne nehmen Simone Mayr und Angelika König diese Herausforderung an.</desc>
+  </programme>
+  <programme start="20240826214500 +0200" stop="20240826215400 +0200" channel="Rai Südtirol">
+    <title>Hans Marini zum 90. Geburtstag</title>
+    <sub-title/>
+    <desc>Die Südtiroler Theaterikone Hans Marini feierte kürzlich seinen 90.Geburtstag. Seit Jahrzehnten ist der passionierte Schauspieler auf vielen Bühnen des Landes zu erleben.
+Er gehört zu den legendären Marini-Brüdern aus Meran, die seit den 1960er Jahren Humor in die Theaterwelt der Kurstadt gebracht haben.</desc>
+  </programme>
+  <programme start="20240826215400 +0200" stop="20240826215853 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Martin Telser</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240826221000 +0200" stop="20240826223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240827200000 +0200" stop="20240827202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240827202000 +0200" stop="20240827203630 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Piz Ciavazes - Abramkante</sub-title>
+    <desc>Ernst Müller, Künstler aus Lana, malt seit 60 Jahren alte Höfe und Berglandschaften. Im Alter von 50 Jahren hatte er das Klettern für sich entdeckt. Diesmal geht’s über die Abramkante im Sellastock.
+
+Mit 71 Jahren klettert Ernst Müller eine der bekanntesten und schönsten Routen der Dolomiten: die sogenannte Abramkante am Piz Ciavazes in der Sellagruppe. Beim Bergsteigen tankt Müller Energie für seine Arbeit im Atelier und erzählt uns, wie er mit starken Farben seinem Leben einen Ton gibt. Geführt wird er dabei vom Grödner Bergführer Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240827203700 +0200" stop="20240827205130 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greifen erstmals auch der letztjährige Landesliga-Meister und Aufsteiger SSV Brixen ins Geschehen ein, ebenso die beiden Meisterschaftsfavoriten Obermais und St. Georgen.  Sie treffen auf die Verlierer der ersten Runde.</desc>
+  </programme>
+  <programme start="20240827221000 +0200" stop="20240827223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240828200000 +0200" stop="20240828202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240828202000 +0200" stop="20240828204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Was junge Menschen von überall her - sog. Woofer - auf Südtiroler Höfe führt. Warum es bei der Apfelernte und Weinlese viele Hände braucht. Wie wertvoll freiwillige Arbeitseinsätze sind.
+
+Der Personalmangel trifft auch die Landwirtschaft. Personen, die bei der Heuarbeit, der Gemüse- und Kräuterernte anpacken, oder sich für die anstrengende Apfelernte melden, werden weniger. Trotzdem gelingt es alle Jahre wieder, die Ernten einzubringen, auch dank vieler unbezahlter Helferinnen und Helfer. Das sind Freiwillige, die sich über den Südtiroler Verein Freiwillige Arbeitseinsätze für die Mithilfe am Bergbauernhof melden, oder junge Leute aus der ganzen Welt, sogenannte Woofer, die für eine bestimmte Zeit am Hof mithelfen. Hinzu kommen die vielen Erntehelfer:innen aus dem Osten. Ohne sie wäre die jährliche Apfelernte und Weinlese nicht möglich. Land&amp;Leben hat sich unter Bauern und Helfern umgehört. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240828221000 +0200" stop="20240828223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240829200000 +0200" stop="20240829202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240829202000 +0200" stop="20240829204930 +0200" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>Vogaiga</sub-title>
+    <desc>&quot;Di Vogaiga&quot; - Der Name des Pusterer Ensembles kann zweierlei bedeuten: einmal ver-geigen, also falsch spielen, oder vor-geigen. In jedem Fall ist ihre Musik alpenländisch, humorvoll und modern. 
+
+Seit 2011 sind die fünf Musiker gemeinsam unterwegs. Gegründet wurden &quot;Di Vogaiga&quot; vom Instrumentalpädagogen und Komponisten Erich Feichter und seiner Frau, der Cellistin Ulli Mattle. Gemeinsam mit Anna Feichter, Günther Hopfgartner und Peter Paul Hofmann spielen sie alpenländische Volksmusik, die sie allerdings mit jazzigen, klassischen und modernen Elementen garnieren. In der Sendung &quot;Musigzeit&quot;, gestaltet von Claudia Bachmann und Rudy Kaneider, gibt die Gruppe einen Einblick in ihr vielfältiges musikalisches Schaffen.</desc>
+  </programme>
+  <programme start="20240829221000 +0200" stop="20240829223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240830180000 +0200" stop="20240830185852 +0200" channel="Rai Südtirol">
+    <title>Wetten, dass...?</title>
+    <sub-title> Mariengarten</sub-title>
+    <desc>Die Schülerinnen und Schüler der Internatsschule Mariengarten in St. Pauls/Eppan spielen
+Wetten Dass...? für den guten Zweck. Der Film zeigt, wie die einzelnen Klassen ihre Wetten ausgewählt haben und begleitet sie von der Planung bis zur Verwirklichung des jeweiligen Projektes.
+Im Rahmen eines Schulprojektes hat sich jede der sechs Klassen in Anlehnung an das beliebte Fernsehformat von Frank Elstner einer Herausforderung gestellt und Benefizorganisationen unterstützt. Die präsentierten Projekte sind so unterschiedlich und vielfältig wie die Schüler:innen selbst und es sind ein neuer Popsong samt zugehörigem Musikvideo entstanden, eine Modeschau wurde organisiert und eine mobile Brücke gebaut. Außerdem wurde mit einer professionellen Gruppe Theater gespielt, eine Zirkusvorstellung präsentiert, ein 16 Meter langer Hefezopf gebacken und 15 ukrainische Flüchtlingskinder wurden mit Schulmaterial ausgestattet. Wette gewonnen… hieß es am Ende für alle Beteiligten.</desc>
+  </programme>
+  <programme start="20240830200000 +0200" stop="20240830202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240830202000 +0200" stop="20240830210330 +0200" channel="Rai Südtirol">
+    <title>60 Jahre Diözese Bozen-Brixen</title>
+    <sub-title/>
+    <desc>Die heutige katholische Diözese Bozen-Brixen umfasst das Gebiet der Autonomen Provinz Bozen. In den 281 Pfarreien leben Gläubige deutscher, italienischer und ladinischer Muttersprache.
+
+Die Diözese Bozen-Brixen entstand 1964 in der Rechtsnachfolge des Bistums Brixen, das 1921 große Teile seines Diözesangebiets in Nord- und Osttirol verloren hatte. Nun wurde die neue Diözese um die Südtiroler Anteile der Erzdiözese Trient vermehrt. Verloren gingen dabei allerdings die beiden ladinischen Dekanate Buchenstein und Ampezzo. 
+Charakteristisch für unsere Diözese ist, dass hier Gläubige dreier Sprachgruppen leben. Die Diözese Bozen-Brixen besteht aus 281 Pfarreien bei rund 500.000 Einwohnern. Im Verlauf der 60 Jahre ihres Bestehens wurde die Diözese auch geprägt von den politischen Entwicklungen Südtirols. Das friedliche Zusammenleben stand immer im Mittelpunkt der Kirche. Die Gläubigen feiern ihren Glauben in ihrer jeweiligen Sprache, es gibt aber auch mehrsprachige Gottesdienste.</desc>
+  </programme>
+  <programme start="20240830210300 +0200" stop="20240830215330 +0200" channel="Rai Südtirol">
+    <title>Der Fall Bruder Willram</title>
+    <sub-title>Der Dichter Tirols zwischen Vaterlandsliebe und Verklärung</sub-title>
+    <desc>Der in Bruneck geborene Anton Müller verfasste als Bruder Willram in der Zeit des Ersten Weltkriegs patriotische Gedichte, aus heutiger Sicht Kriegshetze in dichterischer Form. Erst im Alter bereute Bruder Willram diese Bücher, die in vielen Auflagen veröffentlicht und eine Zeit lang mit Begeisterung gelesen wurden.
+Dieser Film von Hannes Mittermaier folgt den Spuren von Bruder Willram, befragt die Menschen
+von heute über ihn, lässt Experten zu Wort kommen und besucht Schauplätze, die mit ihm in Verbindung stehen.</desc>
+  </programme>
+  <programme start="20240830215400 +0200" stop="20240830215932 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Der Grödner Bildhauer Adolf Valazza</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240830221000 +0200" stop="20240830223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240831180000 +0200" stop="20240831185900 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Erfolgreiche Jugendarbeit im Theaterpädagogischen Zentrum in Brixen, Schauspielerin Valentina Emeri und Theatermann Klaus Gasperi im Porträt, Auszeichnungen für historische Gastbetriebe und besondere Kunstwerke im Obervinschgau.
+Neben all den Projekten, die im Rahmen des Schulunterrichts angeboten werden, haben im vergangenen Jahr 160 Jugendliche das Theaterpädagogische Zentrum in Brixen besucht. Mehrere Theaterpädagog:innen berichten, weshalb das Theater bei Jugendlichen so beliebt und weshalb es für sie so wertvoll ist.
+Seit bald 25 Jahren lebt die aus Bozen stammende Schauspielerin Valentina Emeri in Amerika, wo sie immer wieder Theater spielte, sich weiterbildete und inzwischen selbst unterrichtet. Seit Jahren kehrt sie im Sommer in ihre Heimat zurück, um auch hier zu spielen, regelmäßig ist sie Ensemblemitglied der Freilichtspiele Südtiroler Unterhalt, heuer spielt sie dort im Lustspielklassiker &quot;Der zerbrochene Krug&quot;.
+Der Theatermensch Klaus Gasperi hat sein Lebtag gesagt, was er dachte. In den vergangenen Jahren ist es um ihn etwas ruhiger geworden, er hat sich vom Brunecker Stadttheater zurückgezogen und betreut - als Bühnenausstatter - nur mehr Projekte im Ausland. Zum 30jährigen Bestehen des Stadttheaters spricht er über alte Freundschaften, Erfolge und Misserfolge und über seine Krankheit, der er seit Jahren tapfer begegnet.
+Seit 2007 zeichnet die Stiftung Südtiroler Sparkasse, das Landesdenkmalamt und der Hotelier- und Gastwirteverband historische Gastbetriebe in Südtirol aus. In diesem Jahr erhält der Ansitz Pünthof in Algund die Auszeichnung, an das Hotel Westend in Meran ging eine besondere Auszeichnung.
+Wir besuchen außerdem die neue Ausstellung im Bunker 23 in Tartsch und das Altarbild von Jörg Hofer im Sisinius-Kirchlein in Laas.
+Zu Gast sind die Poetry-Slammerin Helene Delazer alias Lene Morgenstern und der Kulturmanager Manfred Schweigkofler.</desc>
+  </programme>
+  <programme start="20240831200000 +0200" stop="20240831202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240831202100 +0200" stop="20240831202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240831202500 +0200" stop="20240831205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Honig als Tourismusthema im Untervinschgau, exklusive Zigarren-Lounges in Restaurants und Hotels, die Früchte des Waldes als besonderes Gourmet-Angebot für die Gäste.
+
+Die Tourismusregion Partschins, Rabland und Töll arbeitet eng mit den örtlichen Imkern zusammen, wodurch Honig zu einen der zentralen Themen für Gäste geworden ist. Interessierte können die Imkerkultur hautnah erleben, während Hotels und Gastronomiebetriebe innovative Angebote wie Honigwaben am Frühstücksbuffet oder Honigschaumwein als Aperitif präsentieren. Diese Verbindung von Tradition und Tourismus schafft authentische Erlebnisse für Gäste und Einheimische.
+In Südtirol bieten mittlerweile wieder zahlreiche Hotels und Restaurants exklusive Zigarren-Lounges an, in denen Liebhaber hochwertige Zigarren in einem stilvollen Ambiente genießen können.
+Die Wald-Küche: Zusammen mit Köchin Barbara Plunger vom Hotel Tann am Ritten unternehmen wir einen Streifzug durch den Wald auf der Suche nach Zutaten für ihr Frühstücksbuffet. Außerdem verrät uns Sternekoch Stephan Zippl vom Restaurant 1908 in Oberbozen, wie er aus wenigen wertvollen Ingredienzien aus dem Wald seine Gerichte kreiert.</desc>
+  </programme>
+  <programme start="20240831221000 +0200" stop="20240831223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
