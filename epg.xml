@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240823180000 +0200" stop="20240823182930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die &quot;Femminielli&quot; , eine jahrhundertealte Form von Transgender in Neapel, die EU-Wahlen aus
-Minderheitensicht, die Reform des marokkanischen Familienrechts. Moderation: Christina Khuen. Der bekannte neapolitanische Fotoreporter Luciano Ferrara hat im Lauf seiner Karriere viele Stars und Minderheiten porträtiert. Über mehrere Jahrzehnte auch eine besondere Minderheit seiner Heimatstadt: die &quot;Femminielli&quot;. In Neapel gehören sie zum kulturellen Erbe. Es sind Menschen, die beides sind, Mann wie Frau. Ihre Ursprünge reichen zurück bis in die griechische Mythologie. Minet hat Luciano Ferrara in seinem Wohnungsatelier einen Besuch abgestattet.
-Marokko reformiert sein Familienrecht, weil es nicht den Anforderungen der progressiven
-Verfassung entspricht, die das Land sich 2011 gegeben hat. Es diskriminiert verwitwete, geschiedene oder alleinerziehende Frauen und erlaubt - wenn auch unter Bedingungen - Kinderehen und Polygamie. Ein großer Schritt für diesen islamischen Staat. Im Minet-Gespräch ist Verena Wisthaler vom Institut für Minderheitenrecht an der Eurac zu Gast. Mit ihr analysiert Christina Khuen die EU-Wahlen aus Minderheitensicht.
-Minet feiert außerdem ein kleines Jubiläum: Im Juni 2004 ist die erste Minet-Ausgabe auf Sendung gegangen. Wir blicken zurück auf 20 Jahre Minderheitenberichterstattung und informieren im Minet-Telegramm über aktuelle Themen rund um Minderheiten.</desc>
-  </programme>
-  <programme start="20240823182900 +0200" stop="20240823185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Günstige Steuerbedingungen für Heimkehrer:innen, Sommerzeit ist Praktikumszeit, auch heuer Borkenkäferalarm, innovative Regalsysteme aus Auer - darüber berichtet Pluspunkt im August. Wer nach mindestens drei Jahren im Ausland zurückkehrt oder nach Italien zieht und seinen Steuersitz verlegt, kann von äußerst günstigen Steuerkonditionen profitieren. Wir geben wertvolle Tipps, wie man diese Vorteile nutzen kann. Viele Studierende nutzen die Ferien, um durch Praktika oder Ferialjobs ihre Kasse aufzubessern. Welche Möglichkeiten es gibt und wie diese steuerlich zu handhaben sind, erklärt die Expertin des ASGB-Steuerbeistandszentrum.
-Borkenkäfer-Alarm: Das kühle und regnerische Frühjahr 2024 hat den Schwarm der Borkenkäfer verzögert, aber die Herausforderung für das Forstamt und die Waldbesitzer bleibt bestehen. Trotz intensiver Maßnahmen und Überwachungen bleibt die hohe Populationsdichte der Borkenkäfer ein Problem. Wir haben mit Experten und Waldbesitzern über mögliche Lösungen gesprochen.
-Innovative Regalsysteme: Die Firma Mobilrot aus Auer bietet eine breite Produktpalette an Regalsystemen für Industriebetriebe, Museen, Bibliotheken, Sporthallen, Krankenhäuser. Durch Innovation, Kundenorientierung und Visionen ist die Firma weltweit tätig.</desc>
-  </programme>
-  <programme start="20240823200000 +0200" stop="20240823202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240823202000 +0200" stop="20240823213900 +0200" channel="Rai Südtirol">
-    <title>Sturm am Manaslu</title>
-    <sub-title/>
-    <desc>Der Dokumentarfilm von Reinhold Messner zeichnet die tragischen Geschehnisse rund um die Tiroler Himalaya-Expedition 1972 nach, wo zwei Bergsteiger ums Leben kamen. 
-
-Fast 50 Jahre später kommen die ehemaligen Expeditionsteilnehmer auf Schloss Juval zusammen und schildern ihre persönlichen Eindrücke von damals. Franz Jäger, der gemeinsam mit Reinhold Messner den Gipfel in Angriff nimmt, kehrt auf halber Strecke um. Messner erreicht im Alleingang den Gipfel, beim Abstieg jedoch bricht der Sturm los und die Situation gerät außer Kontrolle. Vom unteren Lager steigt ein kleiner Versorgungstrupp den Bergsteigern entgegen. Am Ende verschwinden zwei Menschen für immer in den Wirren des Sturms. Auf Schloss Juval reflektieren die Überlebenden heute über ihr Leben am Limit: Kann es dafür eine Rechtfertigung geben und ist es vor allem gegenüber ihren Müttern, Frauen und Kindern zu verantworten?</desc>
-  </programme>
-  <programme start="20240823213900 +0200" stop="20240823215739 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Arbeiten am Berg</sub-title>
-    <desc>Der Berg ist für die meisten von uns ein Freizeitort, wo man sich von der Arbeit während der
-Woche erholen kann. Für Hüttenwirte, Wegmacher und Bergführer hingegen ist es der Arbeitsplatz. Thomas Hainz war im Ahrntal unterm Schwarzenstein unterwegs.</desc>
-  </programme>
-  <programme start="20240823221000 +0200" stop="20240823223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240824175900 +0200" stop="20240824185244 +0200" channel="Rai Südtirol">
     <title>Die Brennerautobahn</title>
     <sub-title>Die Geschichte eines visionären Projektes</sub-title>
@@ -276,6 +237,29 @@ In Südtirol bieten mittlerweile wieder zahlreiche Hotels und Restaurants exklus
 Die Wald-Küche: Zusammen mit Köchin Barbara Plunger vom Hotel Tann am Ritten unternehmen wir einen Streifzug durch den Wald auf der Suche nach Zutaten für ihr Frühstücksbuffet. Außerdem verrät uns Sternekoch Stephan Zippl vom Restaurant 1908 in Oberbozen, wie er aus wenigen wertvollen Ingredienzien aus dem Wald seine Gerichte kreiert.</desc>
   </programme>
   <programme start="20240831221000 +0200" stop="20240831223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240901200000 +0200" stop="20240901202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240901202100 +0200" stop="20240901205030 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Sammlerleidenschaft</sub-title>
+    <desc>Filmemacher Thomas Hainz begleitet einen langjährigen Wegewart und berichtet über Sammler am Berg: sie sammeln Steine, aber auch Gipfel.
+
+Unterschiedlichste Beweggründe treiben die Menschen in die Berge: Die meisten suchen das Erlebnis in der wilden Natur, einige wenige aber treibt auch die Sammlerleidenschaft ins Gebirge. Für die einen sind es seltene Mineralien und wertvolle Steine, für andere besondere Gipfel - etwa alle 3000er Südtirols. Im Unterschied zu Normal-Bergsteigern müssen Sammler sich dabei oft in unwegsamem und wenig begangenen Gebiet zurechtfinden - und es braucht viel Recherche und Hintergrundwissen in der jeweiligen Materie. 
+Bergwelt begleitet einen der dienstältesten Wegewarte Südtirols. Jahrzehntelang hat er unter anderem über 200 Kilometer Wanderwege in Martell markiert.</desc>
+  </programme>
+  <programme start="20240901205000 +0200" stop="20240901205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240901221000 +0200" stop="20240901223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
