@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240825200000 +0200" stop="20240825202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240825202100 +0200" stop="20240825205059 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Toronto</sub-title>
-    <desc>Die kanadische Millionenstadt ist der Puls des Landes und steht ganz im Zeichen von Kunst, Musik und Architektur. Keine andere Stadt ist derart kreativ, innovativ und impulsiv. 
-
-Wir erleben Menschen, die bewegen, ändern, provozieren und polarisieren. Aber auch die Spuren der indigenen Völker werden entdeckt. Der Geist und die Kultur der Indianer wird auch von der jungen Generation gelebt. Die indigenen Völker Kanadas gaben der Stadt auch ihren Namen: Sammelplatz. Ein und kultureller und stylischer Streifzug durch Toronto.</desc>
-  </programme>
-  <programme start="20240825205000 +0200" stop="20240825205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240825221000 +0200" stop="20240825223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240826180000 +0200" stop="20240826181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
