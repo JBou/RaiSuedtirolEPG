@@ -4,60 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240826180000 +0200" stop="20240826181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greifen erstmals auch der letztjährige Landesliga-Meister und Aufsteiger SSV Brixen ins Geschehen ein, ebenso die beiden Meisterschaftsfavoriten Obermais und St. Georgen.  Sie treffen auf die Verlierer der ersten Runde.</desc>
-  </programme>
-  <programme start="20240826181400 +0200" stop="20240826183239 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Arbeiten am Berg</sub-title>
-    <desc>Der Berg ist für die meisten von uns ein Freizeitort, wo man sich von der Arbeit während der Woche erholen kann. Für Hüttenwirte, Wegmacher und Bergführer hingegen ist es der Arbeitsplatz. Thomas Hainz war im Ahrntal unterm Schwarzenstein unterwegs.</desc>
-  </programme>
-  <programme start="20240826183300 +0200" stop="20240826185730 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Burgstall</sub-title>
-    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen. Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
-  </programme>
-  <programme start="20240826200000 +0200" stop="20240826202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240826202100 +0200" stop="20240826212100 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Erfolgreiche Jugendarbeit im Theaterpädagogischen Zentrum in Brixen, Schauspielerin Valentina Emeri und Theatermann Klaus Gasperi im Porträt, Auszeichnungen für historische Gastbetriebe und besondere Kunstwerke im Obervinschgau.
-Neben all den Projekten, die im Rahmen des Schulunterrichts angeboten werden, haben im vergangenen Jahr 160 Jugendliche das Theaterpädagogische Zentrum in Brixen besucht. Mehrere Theaterpädagog:innen berichten, weshalb das Theater bei Jugendlichen so beliebt und weshalb es für sie so wertvoll ist.
-Seit bald 25 Jahren lebt die aus Bozen stammende Schauspielerin Valentina Emeri in Amerika, wo sie immer wieder Theater spielte, sich weiterbildete und inzwischen selbst unterrichtet. Seit Jahren kehrt sie im Sommer in ihre Heimat zurück, um auch hier zu spielen, regelmäßig ist sie Ensemblemitglied der Freilichtspiele Südtiroler Unterhalt, heuer spielt sie dort im Lustspielklassiker &quot;Der zerbrochene Krug&quot;.
-Der Theatermensch Klaus Gasperi hat sein Lebtag gesagt, was er dachte. In den vergangenen Jahren ist es um ihn etwas ruhiger geworden, er hat sich vom Brunecker Stadttheater zurückgezogen und betreut - als Bühnenausstatter - nur mehr Projekte im Ausland. Zum 30jährigen Bestehen des Stadttheaters spricht er über alte Freundschaften, Erfolge und Misserfolge und über seine Krankheit, der er seit Jahren tapfer begegnet.
-Seit 2007 zeichnet die Stiftung Südtiroler Sparkasse, das Landesdenkmalamt und der Hotelier- und Gastwirteverband historische Gastbetriebe in Südtirol aus. In diesem Jahr erhält der Ansitz Pünthof in Algund die Auszeichnung, an das Hotel Westend in Meran ging eine besondere Auszeichnung.
-Wir besuchen außerdem die neue Ausstellung im Bunker 23 in Tartsch und das Altarbild von Jörg Hofer im Sisinius-Kirchlein in Laas.
-Zu Gast sind die Poetry-Slammerin Helene Delazer alias Lene Morgenstern und der Kulturmanager Manfred Schweigkofler.</desc>
-  </programme>
-  <programme start="20240826212100 +0200" stop="20240826214537 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Freier Zugang zum Kalterer See - ein heißes Eisen. An diesem Ort der Superlative inmitten einer malerischen Landschaft versuchen Angelika König und Simone Mayr Schattenseiten einzufangen.
-
-Der Herrgott ist - der Legende nach - ein Kalterer Bürger, und die Kalterer:innen sind somit Herrgottskinder. Ein Sehnsuchtsort für Urlauber, eines der schönsten Weindörfer der Welt, die Perle des Südens - ein Ort, der leicht zu bewerben ist. Viel schwieriger ist es, Motive abseits der Postkartenidylle zu finden. In der filmischen Kolumne nehmen Simone Mayr und Angelika König diese Herausforderung an.</desc>
-  </programme>
-  <programme start="20240826214500 +0200" stop="20240826215400 +0200" channel="Rai Südtirol">
-    <title>Hans Marini zum 90. Geburtstag</title>
-    <sub-title/>
-    <desc>Die Südtiroler Theaterikone Hans Marini feierte kürzlich seinen 90.Geburtstag. Seit Jahrzehnten ist der passionierte Schauspieler auf vielen Bühnen des Landes zu erleben.
-Er gehört zu den legendären Marini-Brüdern aus Meran, die seit den 1960er Jahren Humor in die Theaterwelt der Kurstadt gebracht haben.</desc>
-  </programme>
-  <programme start="20240826215400 +0200" stop="20240826215853 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Martin Telser</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240826221000 +0200" stop="20240826223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240827200000 +0200" stop="20240827202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
