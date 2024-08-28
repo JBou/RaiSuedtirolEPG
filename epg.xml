@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240827200000 +0200" stop="20240827202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240827202000 +0200" stop="20240827203630 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Piz Ciavazes - Abramkante</sub-title>
-    <desc>Ernst Müller, Künstler aus Lana, malt seit 60 Jahren alte Höfe und Berglandschaften. Im Alter von 50 Jahren hatte er das Klettern für sich entdeckt. Diesmal geht’s über die Abramkante im Sellastock.
-
-Mit 71 Jahren klettert Ernst Müller eine der bekanntesten und schönsten Routen der Dolomiten: die sogenannte Abramkante am Piz Ciavazes in der Sellagruppe. Beim Bergsteigen tankt Müller Energie für seine Arbeit im Atelier und erzählt uns, wie er mit starken Farben seinem Leben einen Ton gibt. Geführt wird er dabei vom Grödner Bergführer Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240827203700 +0200" stop="20240827205130 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greifen erstmals auch der letztjährige Landesliga-Meister und Aufsteiger SSV Brixen ins Geschehen ein, ebenso die beiden Meisterschaftsfavoriten Obermais und St. Georgen.  Sie treffen auf die Verlierer der ersten Runde.</desc>
-  </programme>
-  <programme start="20240827221000 +0200" stop="20240827223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240828200000 +0200" stop="20240828202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
