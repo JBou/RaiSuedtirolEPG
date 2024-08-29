@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240828200000 +0200" stop="20240828202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240828202000 +0200" stop="20240828204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Was junge Menschen von überall her - sog. Woofer - auf Südtiroler Höfe führt. Warum es bei der Apfelernte und Weinlese viele Hände braucht. Wie wertvoll freiwillige Arbeitseinsätze sind.
-
-Der Personalmangel trifft auch die Landwirtschaft. Personen, die bei der Heuarbeit, der Gemüse- und Kräuterernte anpacken, oder sich für die anstrengende Apfelernte melden, werden weniger. Trotzdem gelingt es alle Jahre wieder, die Ernten einzubringen, auch dank vieler unbezahlter Helferinnen und Helfer. Das sind Freiwillige, die sich über den Südtiroler Verein Freiwillige Arbeitseinsätze für die Mithilfe am Bergbauernhof melden, oder junge Leute aus der ganzen Welt, sogenannte Woofer, die für eine bestimmte Zeit am Hof mithelfen. Hinzu kommen die vielen Erntehelfer:innen aus dem Osten. Ohne sie wäre die jährliche Apfelernte und Weinlese nicht möglich. Land&amp;Leben hat sich unter Bauern und Helfern umgehört. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240828221000 +0200" stop="20240828223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240829200000 +0200" stop="20240829202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
