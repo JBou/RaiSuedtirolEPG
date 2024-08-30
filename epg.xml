@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240829200000 +0200" stop="20240829202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240829202000 +0200" stop="20240829204930 +0200" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Vogaiga</sub-title>
-    <desc>&quot;Di Vogaiga&quot; - Der Name des Pusterer Ensembles kann zweierlei bedeuten: einmal ver-geigen, also falsch spielen, oder vor-geigen. In jedem Fall ist ihre Musik alpenländisch, humorvoll und modern. 
-
-Seit 2011 sind die fünf Musiker gemeinsam unterwegs. Gegründet wurden &quot;Di Vogaiga&quot; vom Instrumentalpädagogen und Komponisten Erich Feichter und seiner Frau, der Cellistin Ulli Mattle. Gemeinsam mit Anna Feichter, Günther Hopfgartner und Peter Paul Hofmann spielen sie alpenländische Volksmusik, die sie allerdings mit jazzigen, klassischen und modernen Elementen garnieren. In der Sendung &quot;Musigzeit&quot;, gestaltet von Claudia Bachmann und Rudy Kaneider, gibt die Gruppe einen Einblick in ihr vielfältiges musikalisches Schaffen.</desc>
-  </programme>
-  <programme start="20240829221000 +0200" stop="20240829223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240830180000 +0200" stop="20240830185852 +0200" channel="Rai Südtirol">
     <title>Wetten, dass...?</title>
     <sub-title> Mariengarten</sub-title>
@@ -112,6 +95,178 @@ Bergwelt begleitet einen der dienstältesten Wegewarte Südtirols. Jahrzehntelan
     <desc/>
   </programme>
   <programme start="20240901221000 +0200" stop="20240901223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240902175900 +0200" stop="20240902181330 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga empfängt Aufsteiger Brixen den Vorjahres-Vizemeister Tramin, während in der Landesliga Gröden zu Hause auf Salurn trifft und Gitschberg-Jochtal in Vals gegen Riffian-Kuens spielt.</desc>
+  </programme>
+  <programme start="20240902181300 +0200" stop="20240902182930 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Piz Ciavazes - Abramkante</sub-title>
+    <desc>Ernst Müller, Künstler aus Lana, malt seit 60 Jahren alte Höfe und Berglandschaften. Im Alter von 50 Jahren hatte er das Klettern für sich entdeckt. Diesmal geht’s über die Abramkante im Sellastock. Mit 71 Jahren klettert Ernst Müller eine der bekanntesten und schönsten Routen der Dolomiten: die sogenannte Abramkante am Piz Ciavazes in der Sellagruppe. Beim Bergsteigen tankt Müller Energie für seine Arbeit im Atelier und erzählt uns, wie er mit starken Farben seinem Leben einen Ton gibt. Geführt wird er dabei vom Grödner Bergführer Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240902183000 +0200" stop="20240902185924 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Was junge Menschen von überall her - sog. Woofer - auf Südtiroler Höfe führt. Warum es bei der Apfelernte und Weinlese viele Hände braucht. Wie wertvoll freiwillige Arbeitseinsätze sind. Der Personalmangel trifft auch die Landwirtschaft. Personen, die bei der Heuarbeit, der Gemüse- und Kräuterernte anpacken, oder sich für die anstrengende Apfelernte melden, werden weniger. Trotzdem gelingt es alle Jahre wieder, die Ernten einzubringen, auch dank vieler unbezahlter Helferinnen und Helfer. Das sind Freiwillige, die sich über den Südtiroler Verein Freiwillige Arbeitseinsätze für die Mithilfe am Bergbauernhof melden, oder junge Leute aus der ganzen Welt, sogenannte Woofer, die für eine bestimmte Zeit am Hof mithelfen. Hinzu kommen die vielen Erntehelfer:innen aus dem Osten. Ohne sie wäre die jährliche Apfelernte und Weinlese nicht möglich. Land&amp;Leben hat sich unter Bauern und Helfern umgehört. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240902200000 +0200" stop="20240902202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240902202100 +0200" stop="20240902210507 +0200" channel="Rai Südtirol">
+    <title>Der Körper als Kunstwerk</title>
+    <sub-title/>
+    <desc>Wir tauchen ein in die faszinierende Welt der Body Art in Südtirol, die viele verschiedene Facetten hat: nicht nur Tattoo und Piercing, sondern auch Ausdruckstanz und Bodybulding.
+ 
+Die Filmemacher Caterina Ferrari und Martin Telser treffen eine Tätowiererin , eine Piercingkünstlerin,  die  den  menschlichen  Körper  als  Leinwand betrachten und mit ihrem Talent lebendige Kunstwerke erschaffen. 
+Die Pflege des äußeren Erscheinungsbildes hat bereits eine jahrtausendealte Tradition: Bereits Ötzi trug Tätowierungen auf seinem Körper.
+Ein weiterer faszinierender Aspekt ist das Bodybuilding, bei dem der Körper wie eine Statue geformt wird. Wir treffen Manuel Greifenberg, einen international erfolgreichen Bodybuilder aus Brixen. Außerdem Tänzerin und Choreografin Sabrina Fraternali, die mit dem Körper Geschichten erzählt.
+&quot;Der Körper als Kunstwerk&quot; ist eine anregende Dokumentation, die auch von Akzeptanz erzählt und dem Bruch mit dem Konformismus. Sie führt uns in eine Welt voller Kreativität und Leidenschaft.</desc>
+  </programme>
+  <programme start="20240902210500 +0200" stop="20240902215700 +0200" channel="Rai Südtirol">
+    <title>Max Valier</title>
+    <sub-title>Der Raketenmann</sub-title>
+    <desc>Die tragische und gleichzeitig fantastische Geschichte des Bozners Max Valier, der in den
+1920er-Jahren in Deutschland mit spektakulären Raketenversuchen international für Aufsehen sorgte. Ohne Rücksicht auf die eigene Existenz und allen Widerständen zum Trotz lebte Valier für seinen Traum, die Weiten des Weltalls zu erreichen - bis er 35-jährig bei einem Laborexperiment ums Leben kam. Regie: Thomas Hanifle.</desc>
+  </programme>
+  <programme start="20240902221100 +0200" stop="20240902223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240903200000 +0200" stop="20240903202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240903202000 +0200" stop="20240903203500 +0200" channel="Rai Südtirol">
+    <title>Einladung ins  Museum Ladin</title>
+    <sub-title/>
+    <desc>Das Museum Ladin - kurz MusLa - in St. Martin in Thurn widmet sich der Geschichte und dem Leben in den fünf ladinischen Dolomitentälern. Jedes Tal hat seinen eigenen Dialekt und seine Traditionen. 
+
+Das Museum erklärt auf anschauliche Weise die vielseitige Kultur der Ladiner:innen. Zum MusLa gehört auch das Museum Ladin Ursus ladinicus in St. Kassian im Gadertal. Es ist dem Höhlenbären gewidmet, der vor etwa 40.000 Jahren in den Dolomiten lebte. Das Museum zeigt Fossilien, Skelette und Rekonstruktionen des Bären und informiert über die Geologie der Dolomiten und über die Conturines-Höhle, wo viele weitere archäologische Funde gemacht wurden. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240903203500 +0200" stop="20240903204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga empfängt Aufsteiger Brixen den Vorjahres-Vizemeister Tramin, während in der Landesliga Gröden zu Hause auf Salurn trifft und Gitschberg-Jochtal in Vals gegen Riffian-Kuens spielt.</desc>
+  </programme>
+  <programme start="20240903221000 +0200" stop="20240903223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240904200000 +0200" stop="20240904202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240904202000 +0200" stop="20240904204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Digitalisierung und K.I. im Tourismus im Vormarsch, Symbiose zwischen Denkmalschutz und Design im Brixner Lasserhaus. Wenn ausländische Investoren Südtiroler Betriebe übernehmen.
+
+Südtiroler Tourismusunternehmen und die Gastronomie setzen zunehmend auf neue Technologien, den Einsatz von Künstlicher Intelligenz und in einzelnen Fällen auch auf die Robotik, um international konkurrenzfähig zu bleiben. Die Technik soll auch das Problem des Fachkräftemangels lösen, erhoffen sich die Experten und Expertinnen beim HGV und im NOI Techpark in Bozen. 
+Am Beispiel des Arthotels Lasserhaus in Brixen zeigt sich, wie Architektur, Design, Kunst und Denkmalschutz in einzigartiger Weise zusammenfinden. Das Projekt Lasserhaus bekommt international Aufmerksamkeit in seiner Nische und lockt mit historischen Kunstwerken genauso wie mit zeitgenössischen Objekten. Die 4-Sterne-S-Garni soll zu einem weiteren Kunst- und Kultur-Hotspot in Brixen werden.
+Darüber hinaus geht es in Trend diesmal auch um Entwicklungen in der Industrie. Südtirol wird internationaler, auch was die Eigentümer der Unternehmen betrifft. Was ändert sich für Management, Belegschaft und die Gesellschaft in Südtirol, wenn ausländische Investoren übernehmen oder wenn die Unternehmensanteile von einem Konzern an einen anderen verkauft werden?</desc>
+  </programme>
+  <programme start="20240904221000 +0200" stop="20240904223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240905200000 +0200" stop="20240905202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240905202000 +0200" stop="20240905204930 +0200" channel="Rai Südtirol">
+    <title>Gasthausgeschichten</title>
+    <sub-title>Unterwegs in Südtirols Gasthäusern</sub-title>
+    <desc>Sie waren immer schon Treffpunkt für Jung und Alt, sie halten eine Dorfgemeinschaft zusammen - doch wie lange werden sie noch bestehen? Ein Stimmungsbild. Sie haben Geschichte und Tradition - und sind ein beliebter Treffpunkt für die Menschen im Dorf: die Gasthäuser. Nicht selten erfüllen sie geradezu eine soziale Aufgabe - hier ist man nicht allein, hier trifft man Bekannte und Freunde, hier werden Beziehungen gepflegt. Wir sind unterwegs in Südtirols Gasthäusern und zeigen ein Stimmungsbild. Gleichzeitig wird in den &quot;Gasthausgeschichten&quot; gelebte Südtiroler Tradition eingefangen.</desc>
+  </programme>
+  <programme start="20240905221000 +0200" stop="20240905223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240906180000 +0200" stop="20240906182930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Sammlerleidenschaft</sub-title>
+    <desc>Filmemacher Thomas Hainz begleitet einen langjährigen Wegewart und berichtet über Sammler am Berg: sie sammeln Steine, aber auch Gipfel. Unterschiedlichste Beweggründe treiben die Menschen in die Berge: Die meisten suchen das Erlebnis in der wilden Natur, einige wenige aber treibt auch die Sammlerleidenschaft ins Gebirge. Für die einen sind es seltene Mineralien und wertvolle Steine, für andere besondere Gipfel - etwa alle 3000er Südtirols. Im Unterschied zu Normal-Bergsteigern müssen Sammler sich dabei oft in unwegsamem und wenig begangenen Gebiet zurechtfinden - und es braucht viel Recherche und Hintergrundwissen in der jeweiligen Materie. Bergwelt begleitet einen der dienstältesten Wegewarte Südtirols. Jahrzehntelang hat er unter anderem über 200 Kilometer Wanderwege in Martell markiert.</desc>
+  </programme>
+  <programme start="20240906182900 +0200" stop="20240906185830 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Digitalisierung und K.I. im Tourismus im Vormarsch, Symbiose zwischen Denkmalschutz und Design im Brixner Lasserhaus. Wenn ausländische Investoren Südtiroler Betriebe übernehmen. Südtiroler Tourismusunternehmen und die Gastronomie setzen zunehmend auf neue Technologien, den Einsatz von Künstlicher Intelligenz und in einzelnen Fällen auch auf die Robotik, um international konkurrenzfähig zu bleiben. Die Technik soll auch das Problem des Fachkräftemangels lösen, erhoffen sich die Experten und Expertinnen beim HGV und im NOI Techpark in Bozen. 
+Am Beispiel des Arthotels Lasserhaus in Brixen zeigt sich, wie Architektur, Design, Kunst und Denkmalschutz in einzigartiger Weise zusammenfinden. Das Projekt Lasserhaus bekommt international Aufmerksamkeit in seiner Nische und lockt mit historischen Kunstwerken genauso wie mit zeitgenössischen Objekten. Die 4-Sterne-S-Garni soll zu einem weiteren Kunst- und Kultur-Hotspot in Brixen werden.
+Darüber hinaus geht es in Trend diesmal auch um Entwicklungen in der Industrie. Südtirol wird internationaler, auch was die Eigentümer der Unternehmen betrifft. Was ändert sich für Management, Belegschaft und die Gesellschaft in Südtirol, wenn ausländische Investoren übernehmen oder wenn die Unternehmensanteile von einem Konzern an einen anderen verkauft werden?</desc>
+  </programme>
+  <programme start="20240906200000 +0200" stop="20240906202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240906202100 +0200" stop="20240906212030 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Prosit &amp; guten Appetit - der Genuss steht diesmal im Mittelpunkt: Wir besuchen drei Wirtshausbierbrauereien im Burggrafenamt und die &quot;Gastliche Tafel&quot; in St.Pauls unter freiem Himmel.
+
+Die Brauereigeschichte in Südtirol ist kaum bekannt, obwohl sie eine 1000-jährige Tradition hat. Ende des 19. Jahrhunderts gab es 27 lokale Brauereien. Dem haben die Weltkriege ein Ende gesetzt. Heute erlebt die Südtiroler Brauereiwirtschaft eine Renaissance. Petra Tschenett besucht drei Wirtshausbrauereien und schaut ihnen bei der Herstellung der Biere über die Schulter. Wir erfahren, welch kreative Rezepturen angewandt werden und dass die Biergenießer:innen heute offen für Neues sind. 
+Die &quot;Gastliche Tafel&quot; in St. Pauls im Überetsch ist seit 20 Jahren ein fixer Programmpunkt im kulinarischen Sommerprogramm. Heuer ist es Sternekoch Herbert Hintner gelungen, mit weiteren vier Südtiroler Sterneköchen dieses Event zu gestalten. 
+Was läuft hinter den Kulissen ab, wenn Top-Profis mit ihren Teams für 340 Personen ein Menü auf höchstem Niveau zubereiten? Moderator Theo Hendrich war von Anfang an dabei.</desc>
+  </programme>
+  <programme start="20240906212000 +0200" stop="20240906214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Honig als Tourismusthema im Untervinschgau, exklusive Zigarren-Lounges in Restaurants und Hotels, die Früchte des Waldes als besonderes Gourmet-Angebot für die Gäste. Die Tourismusregion Partschins, Rabland und Töll arbeitet eng mit den örtlichen Imkern zusammen, wodurch Honig zu einen der zentralen Themen für Gäste geworden ist. Interessierte können die Imkerkultur hautnah erleben, während Hotels und Gastronomiebetriebe innovative Angebote wie Honigwaben am Frühstücksbuffet oder Honigschaumwein als Aperitif präsentieren. Diese Verbindung von Tradition und Tourismus schafft authentische Erlebnisse für Gäste und Einheimische.
+In Südtirol bieten mittlerweile wieder zahlreiche Hotels und Restaurants exklusive Zigarren-Lounges an, in denen Liebhaber hochwertige Zigarren in einem stilvollen Ambiente genießen können.
+Die Wald-Küche: Zusammen mit Köchin Barbara Plunger vom Hotel Tann am Ritten unternehmen wir einen Streifzug durch den Wald auf der Suche nach Zutaten für ihr Frühstücksbuffet. Außerdem verrät uns Sternekoch Stephan Zippl vom Restaurant 1908 in Oberbozen, wie er aus wenigen wertvollen Ingredienzien aus dem Wald seine Gerichte kreiert.</desc>
+  </programme>
+  <programme start="20240906215000 +0200" stop="20240906215921 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>P. Mathew, Dekan von Schlanders</sub-title>
+    <desc>Heimat ist ein Gefühl und kann so vieles sein, ein Ort, bestimmte Menschen, eine Sprache, eine Erinnerung. Heimaten kann es auch zwei geben, das Land der Geburt und Kindheit, - das Land der Familiengründung, des Erwachsenseins, der Arbeit. Ein Porträt über P. Mathew Kozzhuppakalam, den Dekan von Schlanders.</desc>
+  </programme>
+  <programme start="20240906221000 +0200" stop="20240906223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240907180000 +0200" stop="20240907185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Prosit &amp; guten Appetit - der Genuss steht diesmal im Mittelpunkt: Wir besuchen drei Wirtshausbierbrauereien im Burggrafenamt und die &quot;Gastliche Tafel&quot; in St.Pauls unter freiem Himmel.
+Die Brauereigeschichte in Südtirol ist kaum bekannt, obwohl sie eine 1000-jährige Tradition hat. Ende des 19. Jahrhunderts gab es 27 lokale Brauereien. Dem haben die Weltkriege ein Ende gesetzt. Heute erlebt die Südtiroler Brauereiwirtschaft eine Renaissance. Petra Tschenett besucht drei Wirtshausbrauereien und schaut ihnen bei der Herstellung der Biere über die Schulter. Wir erfahren, welch kreative Rezepturen angewandt werden und dass die Biergenießer:innen heute offen für Neues sind. 
+Die &quot;Gastliche Tafel&quot; in St. Pauls im Überetsch ist seit 20 Jahren ein fixer Programmpunkt im kulinarischen Sommerprogramm. Heuer ist es Sternekoch Herbert Hintner gelungen, mit weiteren vier Südtiroler Sterneköchen dieses Event zu gestalten. 
+Was läuft hinter den Kulissen ab, wenn Top-Profis mit ihren Teams für 340 Personen ein Menü auf höchstem Niveau zubereiten? Moderator Theo Hendrich war von Anfang an dabei.</desc>
+  </programme>
+  <programme start="20240907200000 +0200" stop="20240907202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240907202100 +0200" stop="20240907202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240907202500 +0200" stop="20240907205347 +0200" channel="Rai Südtirol">
+    <title>50 Jahre Naturpark Schlern-Rosengarten</title>
+    <sub-title>Lebendiges Erbe der Dolomiten</sub-title>
+    <desc>Der älteste seiner Art in Südtirol - und doch voller Leben. Der Film ist eine Reise durch die atemberaubende Landschaft und die beeindruckende Artenvielfalt dieses Schutzgebiets. 
+
+Doch der Naturpark ist mehr als nur ein Ort von Naturschönheit. Er ist auch ein Ort der Begegnung und der Geschichte. Die Menschen, die hier leben, haben über Generationen hinweg eine einzigartige Beziehung zu dieser Gegend entwickelt. Diese Beziehung ist geprägt von Respekt, Tradition und Nachhaltigkeit. 
+Die Dokumentation beleuchtet auch die aktuellen Herausforderungen des Naturparks zwischen Tourismus und Naturschutz.
+Der Film von Martin Telser ist eine faszinierende Reise durch Vergangenheit, Gegenwart und Zukunft des Naturparks Schlern-Rosengarten.</desc>
+  </programme>
+  <programme start="20240907221000 +0200" stop="20240907223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
