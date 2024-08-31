@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240830180000 +0200" stop="20240830185852 +0200" channel="Rai Südtirol">
-    <title>Wetten, dass...?</title>
-    <sub-title> Mariengarten</sub-title>
-    <desc>Die Schülerinnen und Schüler der Internatsschule Mariengarten in St. Pauls/Eppan spielen
-Wetten Dass...? für den guten Zweck. Der Film zeigt, wie die einzelnen Klassen ihre Wetten ausgewählt haben und begleitet sie von der Planung bis zur Verwirklichung des jeweiligen Projektes.
-Im Rahmen eines Schulprojektes hat sich jede der sechs Klassen in Anlehnung an das beliebte Fernsehformat von Frank Elstner einer Herausforderung gestellt und Benefizorganisationen unterstützt. Die präsentierten Projekte sind so unterschiedlich und vielfältig wie die Schüler:innen selbst und es sind ein neuer Popsong samt zugehörigem Musikvideo entstanden, eine Modeschau wurde organisiert und eine mobile Brücke gebaut. Außerdem wurde mit einer professionellen Gruppe Theater gespielt, eine Zirkusvorstellung präsentiert, ein 16 Meter langer Hefezopf gebacken und 15 ukrainische Flüchtlingskinder wurden mit Schulmaterial ausgestattet. Wette gewonnen… hieß es am Ende für alle Beteiligten.</desc>
-  </programme>
-  <programme start="20240830200000 +0200" stop="20240830202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240830202000 +0200" stop="20240830210330 +0200" channel="Rai Südtirol">
-    <title>60 Jahre Diözese Bozen-Brixen</title>
-    <sub-title/>
-    <desc>Die heutige katholische Diözese Bozen-Brixen umfasst das Gebiet der Autonomen Provinz Bozen. In den 281 Pfarreien leben Gläubige deutscher, italienischer und ladinischer Muttersprache.
-
-Die Diözese Bozen-Brixen entstand 1964 in der Rechtsnachfolge des Bistums Brixen, das 1921 große Teile seines Diözesangebiets in Nord- und Osttirol verloren hatte. Nun wurde die neue Diözese um die Südtiroler Anteile der Erzdiözese Trient vermehrt. Verloren gingen dabei allerdings die beiden ladinischen Dekanate Buchenstein und Ampezzo. 
-Charakteristisch für unsere Diözese ist, dass hier Gläubige dreier Sprachgruppen leben. Die Diözese Bozen-Brixen besteht aus 281 Pfarreien bei rund 500.000 Einwohnern. Im Verlauf der 60 Jahre ihres Bestehens wurde die Diözese auch geprägt von den politischen Entwicklungen Südtirols. Das friedliche Zusammenleben stand immer im Mittelpunkt der Kirche. Die Gläubigen feiern ihren Glauben in ihrer jeweiligen Sprache, es gibt aber auch mehrsprachige Gottesdienste.</desc>
-  </programme>
-  <programme start="20240830210300 +0200" stop="20240830215330 +0200" channel="Rai Südtirol">
-    <title>Der Fall Bruder Willram</title>
-    <sub-title>Der Dichter Tirols zwischen Vaterlandsliebe und Verklärung</sub-title>
-    <desc>Der in Bruneck geborene Anton Müller verfasste als Bruder Willram in der Zeit des Ersten Weltkriegs patriotische Gedichte, aus heutiger Sicht Kriegshetze in dichterischer Form. Erst im Alter bereute Bruder Willram diese Bücher, die in vielen Auflagen veröffentlicht und eine Zeit lang mit Begeisterung gelesen wurden.
-Dieser Film von Hannes Mittermaier folgt den Spuren von Bruder Willram, befragt die Menschen
-von heute über ihn, lässt Experten zu Wort kommen und besucht Schauplätze, die mit ihm in Verbindung stehen.</desc>
-  </programme>
-  <programme start="20240830215400 +0200" stop="20240830215932 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Der Grödner Bildhauer Adolf Valazza</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240830221000 +0200" stop="20240830223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240831180000 +0200" stop="20240831185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -267,6 +230,30 @@ Die Dokumentation beleuchtet auch die aktuellen Herausforderungen des Naturparks
 Der Film von Martin Telser ist eine faszinierende Reise durch Vergangenheit, Gegenwart und Zukunft des Naturparks Schlern-Rosengarten.</desc>
   </programme>
   <programme start="20240907221000 +0200" stop="20240907223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240908200000 +0200" stop="20240908202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240908202100 +0200" stop="20240908204530 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Zwei Schwestern machen Schloss Gandegg zu einem Ort für junge Kreative, Ranger im Naturpark Puez-Geisler und die neue Fachrichtung Medienerziehung am SowiGym Brixen.
+
+Zwei Schwestern - eine Vision. Für Sarah und Kathrin Oberrauch bedeutet Schloss Gandegg in Eppan Heimat. Aber nicht nur - die beiden möchten die historischen Schlossmauern öffnen und zu neuem Leben erwecken. Daher bieten sie in den Sommermonaten ein reiches Programm für junge Kreative. Wir haben die beiden während eines Skulpturen-Workshops für Kinder und Jugendliche besucht. 
+Jedes Jahr bewerben sich junge Leute für den saisonalen Naturschutzdienst. Klick hat zwei Ranger begleitet, die im Naturpark Puez Geisler die Besucher informieren, aber auch für Recht und Ordnung sorgen. 
+Und pünktlich zum Schulanfang stellen wir die neue Fachrichtung Medienerziehung und Journalismus des Sozialwissenschaftlichen Gymnasiums in Brixen vor.</desc>
+  </programme>
+  <programme start="20240908204600 +0200" stop="20240908205000 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240908221000 +0200" stop="20240908223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
