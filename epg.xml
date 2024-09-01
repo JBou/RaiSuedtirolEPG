@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240831180000 +0200" stop="20240831185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Erfolgreiche Jugendarbeit im Theaterpädagogischen Zentrum in Brixen, Schauspielerin Valentina Emeri und Theatermann Klaus Gasperi im Porträt, Auszeichnungen für historische Gastbetriebe und besondere Kunstwerke im Obervinschgau.
-Neben all den Projekten, die im Rahmen des Schulunterrichts angeboten werden, haben im vergangenen Jahr 160 Jugendliche das Theaterpädagogische Zentrum in Brixen besucht. Mehrere Theaterpädagog:innen berichten, weshalb das Theater bei Jugendlichen so beliebt und weshalb es für sie so wertvoll ist.
-Seit bald 25 Jahren lebt die aus Bozen stammende Schauspielerin Valentina Emeri in Amerika, wo sie immer wieder Theater spielte, sich weiterbildete und inzwischen selbst unterrichtet. Seit Jahren kehrt sie im Sommer in ihre Heimat zurück, um auch hier zu spielen, regelmäßig ist sie Ensemblemitglied der Freilichtspiele Südtiroler Unterhalt, heuer spielt sie dort im Lustspielklassiker &quot;Der zerbrochene Krug&quot;.
-Der Theatermensch Klaus Gasperi hat sein Lebtag gesagt, was er dachte. In den vergangenen Jahren ist es um ihn etwas ruhiger geworden, er hat sich vom Brunecker Stadttheater zurückgezogen und betreut - als Bühnenausstatter - nur mehr Projekte im Ausland. Zum 30jährigen Bestehen des Stadttheaters spricht er über alte Freundschaften, Erfolge und Misserfolge und über seine Krankheit, der er seit Jahren tapfer begegnet.
-Seit 2007 zeichnet die Stiftung Südtiroler Sparkasse, das Landesdenkmalamt und der Hotelier- und Gastwirteverband historische Gastbetriebe in Südtirol aus. In diesem Jahr erhält der Ansitz Pünthof in Algund die Auszeichnung, an das Hotel Westend in Meran ging eine besondere Auszeichnung.
-Wir besuchen außerdem die neue Ausstellung im Bunker 23 in Tartsch und das Altarbild von Jörg Hofer im Sisinius-Kirchlein in Laas.
-Zu Gast sind die Poetry-Slammerin Helene Delazer alias Lene Morgenstern und der Kulturmanager Manfred Schweigkofler.</desc>
-  </programme>
-  <programme start="20240831200000 +0200" stop="20240831202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240831202100 +0200" stop="20240831202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240831202500 +0200" stop="20240831205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Honig als Tourismusthema im Untervinschgau, exklusive Zigarren-Lounges in Restaurants und Hotels, die Früchte des Waldes als besonderes Gourmet-Angebot für die Gäste.
-
-Die Tourismusregion Partschins, Rabland und Töll arbeitet eng mit den örtlichen Imkern zusammen, wodurch Honig zu einen der zentralen Themen für Gäste geworden ist. Interessierte können die Imkerkultur hautnah erleben, während Hotels und Gastronomiebetriebe innovative Angebote wie Honigwaben am Frühstücksbuffet oder Honigschaumwein als Aperitif präsentieren. Diese Verbindung von Tradition und Tourismus schafft authentische Erlebnisse für Gäste und Einheimische.
-In Südtirol bieten mittlerweile wieder zahlreiche Hotels und Restaurants exklusive Zigarren-Lounges an, in denen Liebhaber hochwertige Zigarren in einem stilvollen Ambiente genießen können.
-Die Wald-Küche: Zusammen mit Köchin Barbara Plunger vom Hotel Tann am Ritten unternehmen wir einen Streifzug durch den Wald auf der Suche nach Zutaten für ihr Frühstücksbuffet. Außerdem verrät uns Sternekoch Stephan Zippl vom Restaurant 1908 in Oberbozen, wie er aus wenigen wertvollen Ingredienzien aus dem Wald seine Gerichte kreiert.</desc>
-  </programme>
-  <programme start="20240831221000 +0200" stop="20240831223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240901200000 +0200" stop="20240901202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
