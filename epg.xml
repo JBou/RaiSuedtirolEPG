@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240901200000 +0200" stop="20240901202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240901202100 +0200" stop="20240901205030 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Sammlerleidenschaft</sub-title>
-    <desc>Filmemacher Thomas Hainz begleitet einen langjährigen Wegewart und berichtet über Sammler am Berg: sie sammeln Steine, aber auch Gipfel.
-
-Unterschiedlichste Beweggründe treiben die Menschen in die Berge: Die meisten suchen das Erlebnis in der wilden Natur, einige wenige aber treibt auch die Sammlerleidenschaft ins Gebirge. Für die einen sind es seltene Mineralien und wertvolle Steine, für andere besondere Gipfel - etwa alle 3000er Südtirols. Im Unterschied zu Normal-Bergsteigern müssen Sammler sich dabei oft in unwegsamem und wenig begangenen Gebiet zurechtfinden - und es braucht viel Recherche und Hintergrundwissen in der jeweiligen Materie. 
-Bergwelt begleitet einen der dienstältesten Wegewarte Südtirols. Jahrzehntelang hat er unter anderem über 200 Kilometer Wanderwege in Martell markiert.</desc>
-  </programme>
-  <programme start="20240901205000 +0200" stop="20240901205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240901221000 +0200" stop="20240901223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240902175900 +0200" stop="20240902181330 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
