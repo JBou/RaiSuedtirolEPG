@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240902175900 +0200" stop="20240902181330 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga empfängt Aufsteiger Brixen den Vorjahres-Vizemeister Tramin, während in der Landesliga Gröden zu Hause auf Salurn trifft und Gitschberg-Jochtal in Vals gegen Riffian-Kuens spielt.</desc>
-  </programme>
-  <programme start="20240902181300 +0200" stop="20240902182930 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Piz Ciavazes - Abramkante</sub-title>
-    <desc>Ernst Müller, Künstler aus Lana, malt seit 60 Jahren alte Höfe und Berglandschaften. Im Alter von 50 Jahren hatte er das Klettern für sich entdeckt. Diesmal geht’s über die Abramkante im Sellastock. Mit 71 Jahren klettert Ernst Müller eine der bekanntesten und schönsten Routen der Dolomiten: die sogenannte Abramkante am Piz Ciavazes in der Sellagruppe. Beim Bergsteigen tankt Müller Energie für seine Arbeit im Atelier und erzählt uns, wie er mit starken Farben seinem Leben einen Ton gibt. Geführt wird er dabei vom Grödner Bergführer Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240902183000 +0200" stop="20240902185924 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Was junge Menschen von überall her - sog. Woofer - auf Südtiroler Höfe führt. Warum es bei der Apfelernte und Weinlese viele Hände braucht. Wie wertvoll freiwillige Arbeitseinsätze sind. Der Personalmangel trifft auch die Landwirtschaft. Personen, die bei der Heuarbeit, der Gemüse- und Kräuterernte anpacken, oder sich für die anstrengende Apfelernte melden, werden weniger. Trotzdem gelingt es alle Jahre wieder, die Ernten einzubringen, auch dank vieler unbezahlter Helferinnen und Helfer. Das sind Freiwillige, die sich über den Südtiroler Verein Freiwillige Arbeitseinsätze für die Mithilfe am Bergbauernhof melden, oder junge Leute aus der ganzen Welt, sogenannte Woofer, die für eine bestimmte Zeit am Hof mithelfen. Hinzu kommen die vielen Erntehelfer:innen aus dem Osten. Ohne sie wäre die jährliche Apfelernte und Weinlese nicht möglich. Land&amp;Leben hat sich unter Bauern und Helfern umgehört. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240902200000 +0200" stop="20240902202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240902202100 +0200" stop="20240902210507 +0200" channel="Rai Südtirol">
-    <title>Der Körper als Kunstwerk</title>
-    <sub-title/>
-    <desc>Wir tauchen ein in die faszinierende Welt der Body Art in Südtirol, die viele verschiedene Facetten hat: nicht nur Tattoo und Piercing, sondern auch Ausdruckstanz und Bodybulding.
- 
-Die Filmemacher Caterina Ferrari und Martin Telser treffen eine Tätowiererin , eine Piercingkünstlerin,  die  den  menschlichen  Körper  als  Leinwand betrachten und mit ihrem Talent lebendige Kunstwerke erschaffen. 
-Die Pflege des äußeren Erscheinungsbildes hat bereits eine jahrtausendealte Tradition: Bereits Ötzi trug Tätowierungen auf seinem Körper.
-Ein weiterer faszinierender Aspekt ist das Bodybuilding, bei dem der Körper wie eine Statue geformt wird. Wir treffen Manuel Greifenberg, einen international erfolgreichen Bodybuilder aus Brixen. Außerdem Tänzerin und Choreografin Sabrina Fraternali, die mit dem Körper Geschichten erzählt.
-&quot;Der Körper als Kunstwerk&quot; ist eine anregende Dokumentation, die auch von Akzeptanz erzählt und dem Bruch mit dem Konformismus. Sie führt uns in eine Welt voller Kreativität und Leidenschaft.</desc>
-  </programme>
-  <programme start="20240902210500 +0200" stop="20240902215700 +0200" channel="Rai Südtirol">
-    <title>Max Valier</title>
-    <sub-title>Der Raketenmann</sub-title>
-    <desc>Die tragische und gleichzeitig fantastische Geschichte des Bozners Max Valier, der in den
-1920er-Jahren in Deutschland mit spektakulären Raketenversuchen international für Aufsehen sorgte. Ohne Rücksicht auf die eigene Existenz und allen Widerständen zum Trotz lebte Valier für seinen Traum, die Weiten des Weltalls zu erreichen - bis er 35-jährig bei einem Laborexperiment ums Leben kam. Regie: Thomas Hanifle.</desc>
-  </programme>
-  <programme start="20240902221100 +0200" stop="20240902223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240903200000 +0200" stop="20240903202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
