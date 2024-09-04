@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240903200000 +0200" stop="20240903202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240903202000 +0200" stop="20240903203500 +0200" channel="Rai Südtirol">
-    <title>Einladung ins  Museum Ladin</title>
-    <sub-title/>
-    <desc>Das Museum Ladin - kurz MusLa - in St. Martin in Thurn widmet sich der Geschichte und dem Leben in den fünf ladinischen Dolomitentälern. Jedes Tal hat seinen eigenen Dialekt und seine Traditionen. 
-
-Das Museum erklärt auf anschauliche Weise die vielseitige Kultur der Ladiner:innen. Zum MusLa gehört auch das Museum Ladin Ursus ladinicus in St. Kassian im Gadertal. Es ist dem Höhlenbären gewidmet, der vor etwa 40.000 Jahren in den Dolomiten lebte. Das Museum zeigt Fossilien, Skelette und Rekonstruktionen des Bären und informiert über die Geologie der Dolomiten und über die Conturines-Höhle, wo viele weitere archäologische Funde gemacht wurden. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20240903203500 +0200" stop="20240903204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga empfängt Aufsteiger Brixen den Vorjahres-Vizemeister Tramin, während in der Landesliga Gröden zu Hause auf Salurn trifft und Gitschberg-Jochtal in Vals gegen Riffian-Kuens spielt.</desc>
-  </programme>
-  <programme start="20240903221000 +0200" stop="20240903223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240904200000 +0200" stop="20240904202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
