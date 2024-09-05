@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240904200000 +0200" stop="20240904202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240904202000 +0200" stop="20240904204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Digitalisierung und K.I. im Tourismus im Vormarsch, Symbiose zwischen Denkmalschutz und Design im Brixner Lasserhaus. Wenn ausländische Investoren Südtiroler Betriebe übernehmen.
-
-Südtiroler Tourismusunternehmen und die Gastronomie setzen zunehmend auf neue Technologien, den Einsatz von Künstlicher Intelligenz und in einzelnen Fällen auch auf die Robotik, um international konkurrenzfähig zu bleiben. Die Technik soll auch das Problem des Fachkräftemangels lösen, erhoffen sich die Experten und Expertinnen beim HGV und im NOI Techpark in Bozen. 
-Am Beispiel des Arthotels Lasserhaus in Brixen zeigt sich, wie Architektur, Design, Kunst und Denkmalschutz in einzigartiger Weise zusammenfinden. Das Projekt Lasserhaus bekommt international Aufmerksamkeit in seiner Nische und lockt mit historischen Kunstwerken genauso wie mit zeitgenössischen Objekten. Die 4-Sterne-S-Garni soll zu einem weiteren Kunst- und Kultur-Hotspot in Brixen werden.
-Darüber hinaus geht es in Trend diesmal auch um Entwicklungen in der Industrie. Südtirol wird internationaler, auch was die Eigentümer der Unternehmen betrifft. Was ändert sich für Management, Belegschaft und die Gesellschaft in Südtirol, wenn ausländische Investoren übernehmen oder wenn die Unternehmensanteile von einem Konzern an einen anderen verkauft werden?</desc>
-  </programme>
-  <programme start="20240904221000 +0200" stop="20240904223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240905200000 +0200" stop="20240905202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -46,9 +27,9 @@ Darüber hinaus geht es in Trend diesmal auch um Entwicklungen in der Industrie.
   <programme start="20240906182900 +0200" stop="20240906185830 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Digitalisierung und K.I. im Tourismus im Vormarsch, Symbiose zwischen Denkmalschutz und Design im Brixner Lasserhaus. Wenn ausländische Investoren Südtiroler Betriebe übernehmen. Südtiroler Tourismusunternehmen und die Gastronomie setzen zunehmend auf neue Technologien, den Einsatz von Künstlicher Intelligenz und in einzelnen Fällen auch auf die Robotik, um international konkurrenzfähig zu bleiben. Die Technik soll auch das Problem des Fachkräftemangels lösen, erhoffen sich die Experten und Expertinnen beim HGV und im NOI Techpark in Bozen. 
+    <desc>Digitalisierung und K.I. im Tourismus im Vormarsch, Symbiose zwischen Denkmalschutz und Design im Brixner Lasserhaus, die internationalen Projekte des Fassadenbauers Frener &amp; Reifer. Südtiroler Tourismusunternehmen und die Gastronomie setzen zunehmend auf neue Technologien, den Einsatz von Künstlicher Intelligenz und in einzelnen Fällen auch auf die Robotik, um international konkurrenzfähig zu bleiben. Die Technik soll auch das Problem des Fachkräftemangels lösen, erhoffen sich die Experten und Expertinnen beim HGV und im NOI Techpark in Bozen. 
 Am Beispiel des Arthotels Lasserhaus in Brixen zeigt sich, wie Architektur, Design, Kunst und Denkmalschutz in einzigartiger Weise zusammenfinden. Das Projekt Lasserhaus bekommt international Aufmerksamkeit in seiner Nische und lockt mit historischen Kunstwerken genauso wie mit zeitgenössischen Objekten. Die 4-Sterne-S-Garni soll zu einem weiteren Kunst- und Kultur-Hotspot in Brixen werden.
-Darüber hinaus geht es in Trend diesmal auch um Entwicklungen in der Industrie. Südtirol wird internationaler, auch was die Eigentümer der Unternehmen betrifft. Was ändert sich für Management, Belegschaft und die Gesellschaft in Südtirol, wenn ausländische Investoren übernehmen oder wenn die Unternehmensanteile von einem Konzern an einen anderen verkauft werden?</desc>
+Außerdem werfen wir einen Blick auf die vielen internationalen prestigeträchtigen Projekte des Fassadenbauer Frener &amp; Reifer. Das Unternehmen ist weltweit eines von wenigen, das es immer wieder wagt, die ausgefallensten Ideen von berühmten Star-Architekten zu verwirklichen.</desc>
   </programme>
   <programme start="20240906200000 +0200" stop="20240906202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
