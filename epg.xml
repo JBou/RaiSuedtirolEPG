@@ -4,21 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240905200000 +0200" stop="20240905202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240905202000 +0200" stop="20240905204930 +0200" channel="Rai Südtirol">
-    <title>Gasthausgeschichten</title>
-    <sub-title>Unterwegs in Südtirols Gasthäusern</sub-title>
-    <desc>Sie waren immer schon Treffpunkt für Jung und Alt, sie halten eine Dorfgemeinschaft zusammen - doch wie lange werden sie noch bestehen? Ein Stimmungsbild. Sie haben Geschichte und Tradition - und sind ein beliebter Treffpunkt für die Menschen im Dorf: die Gasthäuser. Nicht selten erfüllen sie geradezu eine soziale Aufgabe - hier ist man nicht allein, hier trifft man Bekannte und Freunde, hier werden Beziehungen gepflegt. Wir sind unterwegs in Südtirols Gasthäusern und zeigen ein Stimmungsbild. Gleichzeitig wird in den &quot;Gasthausgeschichten&quot; gelebte Südtiroler Tradition eingefangen.</desc>
-  </programme>
-  <programme start="20240905221000 +0200" stop="20240905223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240906180000 +0200" stop="20240906182930 +0200" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title>Sammlerleidenschaft</sub-title>
@@ -114,6 +99,195 @@ Und pünktlich zum Schulanfang stellen wir die neue Fachrichtung Medienerziehung
     <desc/>
   </programme>
   <programme start="20240908221000 +0200" stop="20240908223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240909180000 +0200" stop="20240909181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der zweiten Runde in der Fußball-Oberliga ist das Südtiroler Traditionsderby Tramin gegen Obermais. Beide Mannschaften zählen zu den Titelfavoriten. 
+In der Landesliga empfängt der Vorjahres-Vizemeister Bruneck den Oberliga-Absteiger Naturns, während Latsch zu Hause auf Gitschberg-Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240909181400 +0200" stop="20240909183330 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Karamela und die Schmetterlinge</sub-title>
+    <desc>Clownfrau Karamela sitzt mit Kindern aus Albions auf einer frisch gemähten Sommerwiese und spielt ein Schmetterlingsmemory. Neugierig wie sie ist, möchte sie mehr über das Leben der Schmetterlinge erfahren: Gemeinsam durchleben sie die Entwicklung von der Raupe bis zum bunten Schmetterling, aber auch die Gefahren, welchen Schmetterlinge ausgesetzt sind.</desc>
+  </programme>
+  <programme start="20240909183400 +0200" stop="20240909185830 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Zwei Schwestern machen Schloss Gandegg zu einem Ort für junge Kreative, Ranger im Naturpark Puez-Geisler und die neue Fachrichtung Medienerziehung am SowiGym Brixen.
+Zwei Schwestern - eine Vision. Für Sarah und Kathrin Oberrauch bedeutet Schloss Gandegg in Eppan Heimat. Aber nicht nur - die beiden möchten die historischen Schlossmauern öffnen und zu neuem Leben erwecken. Daher bieten sie in den Sommermonaten ein reiches Programm für junge Kreative. Wir haben die beiden während eines Skulpturen-Workshops für Kinder und Jugendliche besucht. 
+Jedes Jahr bewerben sich junge Leute für den saisonalen Naturschutzdienst. Klick hat zwei Ranger begleitet, die im Naturpark Puez Geisler die Besucher informieren, aber auch für Recht und Ordnung sorgen. 
+Und pünktlich zum Schulanfang stellen wir die neue Fachrichtung Medienerziehung und Journalismus des Sozialwissenschaftlichen Gymnasiums in Brixen vor.</desc>
+  </programme>
+  <programme start="20240909200000 +0200" stop="20240909202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240909202000 +0200" stop="20240909210328 +0200" channel="Rai Südtirol">
+    <title>Der blühende Schatz</title>
+    <sub-title>Das Herbarium des Rupert Huter</sub-title>
+    <desc>Das Naturmuseum Südtirol verwahrt das sogenannte Huter-Herbarium. Der Priester Rupert Huter zählte zu den führenden Entdeckern seiner Zeit. Ein Film von Christoph Wieser.
+
+Ein Meilenstein der Wissenschaft, denn der Priester Rupert Huter hatte im 19. Jahrhundert fast 15.000 Pflanzenarten beschrieben und mehrere 100.000 Pflanzen aus aller Welt begutachtet. Die Vielfalt seines Lebenswerkes kann von Forschern nun, nach zwanzigjähriger Restaurierung und Katalogisierung, digital genutzt werden.</desc>
+  </programme>
+  <programme start="20240909210400 +0200" stop="20240909213628 +0200" channel="Rai Südtirol">
+    <title>Bergbauernpreis 2024</title>
+    <sub-title/>
+    <desc>Die diesjährigen Preisträger stammen aus Ulten, Abtei und aus dem Matschertal. Es sind drei Bergbauernfamilien, die ihre Höfe in steiler Lage mustergültig bewirtschaften. Ein Film von Christoph Wieser. Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten. Der Hof im Ultental wird von einer jungen Familie bewirtschaftet, die es vorgezogen hat, einen alten Bergbauernhof zu sanieren, anstatt in der Stadt zu leben. Der Bauernhof im Matscher Tal zeichnet sich durch das besondere Tierwohl aus. Der Bauernhof in Abtei hat eine eigene Käserei, deren Produkte schon mehrfach ausgezeichnet wurden.
+Was alle drei Preisträger auszeichnet, ist ihr Fleiß, ihre Offenheit und Gastfreundschaft, ihre Hartnäckigkeit und ihre Bescheidenheit. Am beeindruckendsten ist aber die große Zufriedenheit - trotz der riesigen Herausforderungen, die das Leben am Berg tagtäglich mit sich bringt.</desc>
+  </programme>
+  <programme start="20240909213600 +0200" stop="20240909215904 +0200" channel="Rai Südtirol">
+    <title>Land und Leute - Staben</title>
+    <sub-title/>
+    <desc>gewonnen, auch die Lage direkt am Vinschger Radweg tragen zum ständigen Wachsen der
+Fraktion bei. Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquelle 1892 &quot;äußerst heilkräftige&quot; Wirkung zugeschrieben wurde. Im Jahre 2012 wurde die Quellfassung saniert und eine Ruheoase am Quellwasser gestaltet. Das Wasser und der Waal spielen im Vinschgau eine bedeutende Rolle, während der Verein &quot;Freunde der Eisenbahn&quot; besonders stolz auf seinen Landessitz am Bahnhof in Staben ist. Dieser Erlebnisbahnhof wird von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses Bahnhofes während der Donaumonarchie.</desc>
+  </programme>
+  <programme start="20240909221000 +0200" stop="20240909223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240910200000 +0200" stop="20240910202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240910202000 +0200" stop="20240910203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240910203500 +0200" stop="20240910204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der zweiten Runde in der Fußball-Oberliga ist das Südtiroler Traditionsderby Tramin gegen Obermais. Beide Mannschaften zählen zu den Titelfavoriten. 
+In der Landesliga empfängt der Vorjahres-Vizemeister Bruneck den Oberliga-Absteiger Naturns, während Latsch zu Hause auf Gitschberg-Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240910221000 +0200" stop="20240910223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240911200000 +0200" stop="20240911202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240911202000 +0200" stop="20240911204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Sperrung der Pustertalbahn ab Herbst wird zur Herausforderung für die Pendler:innen, die neuesten Infos aus der Südtiroler Verbraucherzentrale, der Wirtschaftsstandort Lajen.
+
+Die Pustertalbahn steht vor einer großen Herausforderung: Ab Herbst wird die Strecke Franzensfeste-Bruneck für ein Jahr gesperrt. Ein umfassender Schienenersatzverkehr mit Bussen soll die Mobilität der Pendler sicherstellen. Wir haben mit Betroffenen, den Verantwortlichen des Projekts Riggertalschleife und dem Bürgermeister von Bruneck über die geplanten Maßnahmen und die Erwartungen gesprochen.
+Das sonnige Lajen befindet sich zwischen dem Tourismustal Gröden und dem Transittal Eisacktal. Wie funktioniert hier das Zusammenspiel zwischen Handel, Gastronomie mit den anderen Wirtschaftsfaktoren der Gemeinde? Wie gut ist die Nahversorgung in den kleineren Fraktionen?</desc>
+  </programme>
+  <programme start="20240911221000 +0200" stop="20240911223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240912200000 +0200" stop="20240912202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240912202000 +0200" stop="20240912204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Egal ob in der Mode, bei Autos oder in der Musik - Retro ist in. Doch warum erleben &quot;alte Dinge&quot; so einen Boom? Es moderiert Karin Gschnitzer.   
+
+Gerade in unsicheren Zeiten schwelgen wir gern in nostalgischen Erinnerungen an zurückliegende Zeiten, die - scheinbar - besser waren. Viele Menschen schätzen außerdem die Authentizität, die Vintage-Produkte von heutigen Artikeln der Massenproduktion unterscheiden. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Landesfeier in Innsbruck im September 1959 und wir starten mit der Reihe &quot;Digital Now&quot;.</desc>
+  </programme>
+  <programme start="20240912213000 +0200" stop="20240912215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Handballsaison ist, aus Südtiroler Sicht, gleich mit einem Feuerwerk gestartet, denn der SSV Brixen durfte zu Hause vor seinen Fans sowohl bei den Damen als auch bei den Herren die Finalspiele im Supercup bestreiten.
+Auch die Kunstbahnrodler haben traditionell mit dem Startbewerb in Meransen die Saison eröffnet. Dominik Fischnaller und Co. freuen sich schon auf den Winter und auf die neue Olympiabahn in Cortina, die Mitte März 2025 in Betrieb genommen wird.</desc>
+  </programme>
+  <programme start="20240912221000 +0200" stop="20240912223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240913180000 +0200" stop="20240913182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Egal ob in der Mode, bei Autos oder in der Musik - Retro ist in. Doch warum erleben &quot;alte Dinge&quot; so einen Boom? Es moderiert Karin Gschnitzer. Gerade in unsicheren Zeiten schwelgen wir gern in nostalgischen Erinnerungen an zurückliegende Zeiten, die - scheinbar - besser waren. Viele Menschen schätzen außerdem die Authentizität, die Vintage-Produkte von heutigen Artikeln der Massenproduktion unterscheiden. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Landesfeier in Innsbruck im September 1959 und wir starten mit der Reihe &quot;Digital Now&quot;.</desc>
+  </programme>
+  <programme start="20240913182900 +0200" stop="20240913185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Handballsaison ist, aus Südtiroler Sicht, gleich mit einem Feuerwerk gestartet, denn der SSV Brixen durfte zu Hause vor seinen Fans sowohl bei den Damen als auch bei den Herren die Finalspiele im Supercup bestreiten.
+Auch die Kunstbahnrodler haben traditionell mit dem Startbewerb in Meransen die Saison eröffnet. Dominik Fischnaller und Co. freuen sich schon auf den Winter und auf die neue Olympiabahn in Cortina, die Mitte März 2025 in Betrieb genommen wird.</desc>
+  </programme>
+  <programme start="20240913200000 +0200" stop="20240913202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240913202100 +0200" stop="20240913205500 +0200" channel="Rai Südtirol">
+    <title>Das Thema: Hüter der Luft</title>
+    <sub-title/>
+    <desc>Vom ersten bis zum letzten Atemzug begleitet uns die Luft. Etwa 20.000 Mal am Tag atmen wir ein und aus. Doch was wissen wir über das Element Luft? Und wie sauber ist sie in Südtirol?
+
+In der Reportage &quot;Hüter der Luft&quot; widmet sich Filmemacher Andreas Niederkofler gemeinsam mit dem Labor für Luftanalysen und Strahlenschutz der Luftqualität in Südtirol. Wir besuchen die Messstationen am Ritten und in Bozen, begleiten Wissenschaftler bei der Untersuchung von Luftproben in Klassenzimmern und gewähren detaillierte Einblicke in die Prozesse der Müllverbrennungsanlage. Die Reportage zeigt auch die Bedeutung sauberer Luft für unsere Gesundheit.</desc>
+  </programme>
+  <programme start="20240913205500 +0200" stop="20240913214111 +0200" channel="Rai Südtirol">
+    <title>Climate-Action</title>
+    <sub-title> Das Klima und ich</sub-title>
+    <desc>Der Filmemacher Max Gurschler begibt sich auf die Spuren des Treibhauseffektes und geht der Frage nach, was es mit dem Klimawandel auf sich hat.
+Max Gurschler begibt sich auf eine spannende Entdeckungsreise, in der er dem Geheimnis des Treibhauseffekts auf die Spur kommt und startet ein faszinierendes Experiment: Mit Marmeladegläsern und selbst produziertem CO² zeigt er, wie sich unsere Atmosphäre durch das Treibhausgas erwärmt. Von verschneiten Bergtälern über mediterrane Promenaden bis hin zu verregneten Städten - Gurschler sucht nach Antworten und trifft dabei auf interessante Menschen und beeindruckende Geschichten. Außerdem geht er der Frage nach, wie übermäßiges CO² unsere Umwelt beeinflusst.</desc>
+  </programme>
+  <programme start="20240913214100 +0200" stop="20240913215550 +0200" channel="Rai Südtirol">
+    <title>Sammlerglück</title>
+    <sub-title>Spuren des Ersten Weltkriegs</sub-title>
+    <desc>Der Brixner Oswald Mederle ist passionierter Sammler von Erinnerungsstücken aus dem Ersten
+Weltkrieg: Uniformen, Münzen, Waffen und Originalfotos. Mederle, Küchenmeister in Rente, setz sich mit einer tragischen Zeit auseinander. In seiner Sammlung finden sich über 13.000 Objekte - vor allem Postkarten von vor 100 Jahren, Münzen,
+Uniformen und Alltagsgegenstände, dazu Originalfotos, Plakate und Waffen. Oswald Mederle ist auch Vizepräsident des Tiroler Geschichtsvereins der Sektion Bozen, Vorstand im Kriegsmuseum von Rovereto und Mitglied des Brixner Geschichtsvereins. Er verfasste mehrere Bücher zum Ersten Weltkrieg.</desc>
+  </programme>
+  <programme start="20240913221000 +0200" stop="20240913223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240914180000 +0200" stop="20240914184403 +0200" channel="Rai Südtirol">
+    <title>Leben auf der Burg</title>
+    <sub-title>Kastellan:innen in Südtirol</sub-title>
+    <desc>Leben auf einer Burg war schon im Mittelalter nicht nur schön und bezaubernd, sondern auch kalt
+und hart - auch heute noch. Das erzählen sieben Kastellaninnen und Kastellane. Sie wohnen und arbeiten auf der Burg Taufers, der Trostburg und der Churburg, auf Schloss Enn und auf Bellermont-Wangen ihren Dienst tun. Sie tragen Verantwortung - genauso wie die Besitzer:innen. Eine Voraussetzung braucht es: die Liebe zu den alten Mauern, die unendlich Vieles gesehen haben - und die bleiben werden, auch wenn das Leben in ihnen vergeht.</desc>
+  </programme>
+  <programme start="20240914184400 +0200" stop="20240914185900 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum Ladin</title>
+    <sub-title/>
+    <desc>Das Museum Ladin - kurz MusLa - in St. Martin in Thurn widmet sich der Geschichte und dem Leben in den fünf ladinischen Dolomitentälern. Jedes Tal hat seinen eigenen Dialekt und seine Traditionen. 
+Das Museum erklärt auf anschauliche Weise die vielseitige Kultur der Ladiner:innen. Zum MusLa gehört auch das Museum Ladin Ursus ladinicus in St. Kassian im Gadertal. Es ist dem Höhlenbären gewidmet, der vor etwa 40.000 Jahren in den Dolomiten lebte. Das Museum zeigt Fossilien, Skelette und Rekonstruktionen des Bären und informiert über die Geologie der Dolomiten und über die Conturines-Höhle, wo viele weitere archäologische Funde gemacht wurden. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20240914200000 +0200" stop="20240914202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240914202100 +0200" stop="20240914202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240914202500 +0200" stop="20240914205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Planet drums als Botschafterinnen einer gemeinsamen Erde, das Sakrament der Taufe, Brotbacken im Meraner Verein Ginko und die Frage, wie sich familiäre Verstrickungen lösen lassen.
+
+Schon seit ihrer Jugendzeit hatte Barbara Seeber aus Uttenheim eine Affinität zu Klängen. Als sie 2011 den Perkussionisten Max Castlunger hörte, wie er auf einer afrikanischen Udu Kindern vortrommelte, war sie fasziniert. Seither formt sie sogenannte Planetentrommeln. 
+Auch Taufe betont in besonderer Weise die Eingliederung eines Menschen in die Gemeinschaft der Kirche. In diesem Beitrag wird das Sakrament näher beleuchtet und auch der Frage nachgespürt, warum manche sich bewusst gegen die Taufe entscheiden. Vor zwei Jahren wurde in Meran die Bürgergenossenschaft Ginko gegründet. Ziel ist die Eröffnung eines Ladens im Stadtviertel Maria Himmelfahrt, in dem regionale und nachhaltige Produkte und frisches Brot zu einem fairen Preis angeboten werden. Parallel dazu werden Workshops organisiert. Letzthin einen über die &quot;Kunst des Brotbackens&quot; mit Rezepten aus Serbien und Afghanistan.
+Die wenigsten Menschen sind so frei, dass sie ihr Leben ohne Schuldgefühle und nach ihren eigenen Vorstellungen gestalten können. Die Ursache können familiäre Verstrickungen sein. Mathilde Lintner, Unternehmens-Beraterin und Coach, beschäftigt sich seit Jahren mit Familiensystemen und ist überzeugt, dass sich familiäre Verstrickungen lösen lassen.</desc>
+  </programme>
+  <programme start="20240914221000 +0200" stop="20240914223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
