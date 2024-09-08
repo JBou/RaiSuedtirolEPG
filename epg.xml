@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240907180000 +0200" stop="20240907185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Prosit &amp; guten Appetit - der Genuss steht diesmal im Mittelpunkt: Wir besuchen drei Wirtshausbierbrauereien im Burggrafenamt und die &quot;Gastliche Tafel&quot; in St.Pauls unter freiem Himmel.
-Die Brauereigeschichte in Südtirol ist kaum bekannt, obwohl sie eine 1000-jährige Tradition hat. Ende des 19. Jahrhunderts gab es 27 lokale Brauereien. Dem haben die Weltkriege ein Ende gesetzt. Heute erlebt die Südtiroler Brauereiwirtschaft eine Renaissance. Petra Tschenett besucht drei Wirtshausbrauereien und schaut ihnen bei der Herstellung der Biere über die Schulter. Wir erfahren, welch kreative Rezepturen angewandt werden und dass die Biergenießer:innen heute offen für Neues sind. 
-Die &quot;Gastliche Tafel&quot; in St. Pauls im Überetsch ist seit 20 Jahren ein fixer Programmpunkt im kulinarischen Sommerprogramm. Heuer ist es Sternekoch Herbert Hintner gelungen, mit weiteren vier Südtiroler Sterneköchen dieses Event zu gestalten. 
-Was läuft hinter den Kulissen ab, wenn Top-Profis mit ihren Teams für 340 Personen ein Menü auf höchstem Niveau zubereiten? Moderator Theo Hendrich war von Anfang an dabei.</desc>
-  </programme>
-  <programme start="20240907200000 +0200" stop="20240907202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240907202100 +0200" stop="20240907202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240907202500 +0200" stop="20240907205347 +0200" channel="Rai Südtirol">
-    <title>50 Jahre Naturpark Schlern-Rosengarten</title>
-    <sub-title>Lebendiges Erbe der Dolomiten</sub-title>
-    <desc>Der älteste seiner Art in Südtirol - und doch voller Leben. Der Film ist eine Reise durch die atemberaubende Landschaft und die beeindruckende Artenvielfalt dieses Schutzgebiets. 
-
-Doch der Naturpark ist mehr als nur ein Ort von Naturschönheit. Er ist auch ein Ort der Begegnung und der Geschichte. Die Menschen, die hier leben, haben über Generationen hinweg eine einzigartige Beziehung zu dieser Gegend entwickelt. Diese Beziehung ist geprägt von Respekt, Tradition und Nachhaltigkeit. 
-Die Dokumentation beleuchtet auch die aktuellen Herausforderungen des Naturparks zwischen Tourismus und Naturschutz.
-Der Film von Martin Telser ist eine faszinierende Reise durch Vergangenheit, Gegenwart und Zukunft des Naturparks Schlern-Rosengarten.</desc>
-  </programme>
-  <programme start="20240907221000 +0200" stop="20240907223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240908200000 +0200" stop="20240908202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
