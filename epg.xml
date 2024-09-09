@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240908200000 +0200" stop="20240908202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240908202100 +0200" stop="20240908204530 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zwei Schwestern machen Schloss Gandegg zu einem Ort für junge Kreative, Ranger im Naturpark Puez-Geisler und die neue Fachrichtung Medienerziehung am SowiGym Brixen.
-
-Zwei Schwestern - eine Vision. Für Sarah und Kathrin Oberrauch bedeutet Schloss Gandegg in Eppan Heimat. Aber nicht nur - die beiden möchten die historischen Schlossmauern öffnen und zu neuem Leben erwecken. Daher bieten sie in den Sommermonaten ein reiches Programm für junge Kreative. Wir haben die beiden während eines Skulpturen-Workshops für Kinder und Jugendliche besucht. 
-Jedes Jahr bewerben sich junge Leute für den saisonalen Naturschutzdienst. Klick hat zwei Ranger begleitet, die im Naturpark Puez Geisler die Besucher informieren, aber auch für Recht und Ordnung sorgen. 
-Und pünktlich zum Schulanfang stellen wir die neue Fachrichtung Medienerziehung und Journalismus des Sozialwissenschaftlichen Gymnasiums in Brixen vor.</desc>
-  </programme>
-  <programme start="20240908204600 +0200" stop="20240908205000 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240908221000 +0200" stop="20240908223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240909180000 +0200" stop="20240909181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
