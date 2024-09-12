@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240911200000 +0200" stop="20240911202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240911202000 +0200" stop="20240911204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Sperrung der Pustertalbahn ab Herbst wird zur Herausforderung. Was tun beim Verlust der Bankomatkarte. Lebensversicherungen mit Kapitalbildung im Check. 
-
-Die Pustertalbahn steht vor einer großen Herausforderung: Ab Herbst wird die Strecke Franzensfeste-Bruneck für ein Jahr gesperrt. Ein umfassender Schienenersatzverkehr mit Bussen soll die Mobilität der Pendler sicherstellen. Wir haben mit Betroffenen, den Verantwortlichen des Projekts Riggertalschleife und dem Bürgermeister von Bruneck über die geplanten Maßnahmen und die Erwartungen gesprochen.
-Was passiert eigentlich, wenn ich meine Bankomatkarte verliere oder wenn sie mir gestohlen wird? Die gute Nachricht vorweg - die Chancen stehen gut, dass ich mein Geld zurückbekomme, falls ich nichts falsch mache. 
-Wenn die Versicherungsgesellschaft Insolvenz anmeldet, bekomme ich meine Lebensversicherung noch ausbezahlt oder ist mein investiertes Geld verloren? Der Insolvenzfall einer namhaften Gesellschaft, wirft bei betroffenen Südtiroler:innen Fragen auf. 
-Lajen befindet sich zwischen dem Tourismustal Gröden und dem Transittal Eisacktal. Wie funktioniert hier das Zusammenspiel zwischen Handel, Gastronomie mit den anderen Wirtschaftsfaktoren der Gemeinde?</desc>
-  </programme>
-  <programme start="20240911221000 +0200" stop="20240911223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240912200000 +0200" stop="20240912202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -144,6 +124,141 @@ Während der Fraktionsvorsteher Albin Pramstaller durch das Dorf führt, erinner
     <desc/>
   </programme>
   <programme start="20240915221000 +0200" stop="20240915223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240916180000 +0200" stop="20240916181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Zwei Südtiroler Derby stehen am dritten Oberliga-Spieltag auf dem Programm: Serie D-Absteiger Virtus Bozen empfängt Partschins, St. Georgen spielt zu Hause gegen Tramin. In der Landesliga treffen im Top-Match dieser Runde Naturns und Terlan aufeinander.</desc>
+  </programme>
+  <programme start="20240916181400 +0200" stop="20240916182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Beim Kinderbuchfestival</sub-title>
+    <desc>Zipp Dabei-Reporterin Rosa schaut sich auf Schloss Prösels beim Südtiroler Kinderbuchfestival um. Sie trifft dort fünf Autorinnen mit ihren neuesten Büchern. Einige von ihnen schreiben nicht nur, sondern illustrieren die Bücher auch. Am Ende muss Rosa sogar noch ein Rätsel knacken und im Schloss einen versteckten Schatz finden.</desc>
+  </programme>
+  <programme start="20240916182900 +0200" stop="20240916185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Planet drums als Botschafterinnen einer gemeinsamen Erde, das Sakrament der Taufe, Brotbacken im Meraner Verein Ginko und die Frage, wie sich familiäre Verstrickungen lösen lassen. Schon seit ihrer Jugendzeit hatte Barbara Seeber aus Uttenheim eine Affinität zu Klängen. Als sie 2011 den Perkussionisten Max Castlunger hörte, wie er auf einer afrikanischen Udu Kindern vortrommelte, war sie fasziniert. Seither formt sie sogenannte Planetentrommeln. 
+Auch Taufe betont in besonderer Weise die Eingliederung eines Menschen in die Gemeinschaft der Kirche. In diesem Beitrag wird das Sakrament näher beleuchtet und auch der Frage nachgespürt, warum manche sich bewusst gegen die Taufe entscheiden. Vor zwei Jahren wurde in Meran die Bürgergenossenschaft Ginko gegründet. Ziel ist die Eröffnung eines Ladens im Stadtviertel Maria Himmelfahrt, in dem regionale und nachhaltige Produkte und frisches Brot zu einem fairen Preis angeboten werden. Parallel dazu werden Workshops organisiert. Letzthin einen über die &quot;Kunst des Brotbackens&quot; mit Rezepten aus Serbien und Afghanistan.
+Die wenigsten Menschen sind so frei, dass sie ihr Leben ohne Schuldgefühle und nach ihren eigenen Vorstellungen gestalten können. Die Ursache können familiäre Verstrickungen sein. Mathilde Lintner, Unternehmens-Beraterin und Coach, beschäftigt sich seit Jahren mit Familiensystemen und ist überzeugt, dass sich familiäre Verstrickungen lösen lassen.</desc>
+  </programme>
+  <programme start="20240916200000 +0200" stop="20240916202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240916202000 +0200" stop="20240916220000 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Die Schule der Zukunft!</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Wie kann die Schule der Zukunft aussehen? Migration, gesellschaftlicher Wandel, instabile Beziehungsstrukturen und die Digitalisierung erfordern ein Ausbrechen aus verkrusteten Strukturen.   
+
+Schule neu denken: Gäste von Moderatorin Judith Bertagnolli sind u.a. Heidi Niederkofler (langjährige Direktorin im Schulsprengel Bozen/Europa), Heidrun Goller (Lehrperson und Elternvertreterin im Landesschulrat) und Reinhard Tschiesner (Studiengangsleiter an der Bildungswissenschaftlichen Fakultät der Uni BZ). Live aus der Grundschule Pestalozzi in Bozen. 
+Den Auftakt zur Diskussion macht die Doku &quot;Bildung im Wandel&quot;. Filmemacher Thomas Vonmetz beleuchtet darin die aktuellen Entwicklungen im Bildungssystem und macht sich auf die Suche nach Antworten, wie lebenslanges Lernen und der Zugang zu hochwertiger Bildung für alle Menschen gelingen soll.</desc>
+  </programme>
+  <programme start="20240916221100 +0200" stop="20240916223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240917200000 +0200" stop="20240917202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240917202000 +0200" stop="20240917203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240917203500 +0200" stop="20240917204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Zwei Südtiroler Derby stehen am dritten Oberliga-Spieltag auf dem Programm: Serie D-Absteiger Virtus Bozen empfängt Partschins, St. Georgen spielt zu Hause gegen Tramin. In der Landesliga treffen im Top-Match dieser Runde Naturns und Terlan aufeinander.</desc>
+  </programme>
+  <programme start="20240917221000 +0200" stop="20240917223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240918200000 +0200" stop="20240918202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240918202000 +0200" stop="20240918204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Rolle des Gälischen in Irland, der Blick von zwei Rumänenungarinnen auf die Situation in Südtirol, das Minderheiten-Theaterprojekt phônê, ein Film über die Armenier:innen in der Türkei.
+
+Zwar ist Gälisch immer noch die erste Amtssprache in Irland, der keltische Dialekt wird aber nur von drei Prozent der Bevölkerung als erste Sprache gesprochen, während Englisch als zweite Amtssprache wesentlich verbreiteter ist. 
+Minderheit in der Minderheit: Minet hat zwei Ungarinnen aus Rumänien getroffen, die vielen Jahren in Südtirol leben und arbeiten. Wie erleben sie das lokale Minderheitengefüge?
+phônê ist ein internationales Minderheiten-Theaterprojekt zur Sicherung und Förderung der kulturellen Vielfalt in Europa. Diesen Sommer hat es in Südtirol Halt gemacht. 
+Minority Rights Group International, kurz MRG ist eine in London ansässige internationale NGO-Vereinigung, die sich durch weltweite Kampagnen für benachteiligte Minderheiten und indigene Völker einsetzt. In Minet wird in Zusammenarbeit mit MRG eine Reihe von Filmbeiträgen gezeigt. Zu Beginn geht es um die Hemşinli, eine kleine armenischsprachige Minderheit muslimischen Glaubens im Nordosten der Türkei.</desc>
+  </programme>
+  <programme start="20240918221000 +0200" stop="20240918223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240919200000 +0200" stop="20240919202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240919202000 +0200" stop="20240919204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Was ist Heimat? Ein Gefühl, ein Ort, eine Haltung? Und welche Rolle spielt der Heimatbegriff in unserer Gesellschaft? Es moderiert Magdalena Oberstaller.  
+
+Ist Heimat der Ort, an dem man geboren wurde oder der Ort, an dem Familie und Freunde wohnen? Und was bedeutet Heimat eigentlich für uns als Gesellschaft? All diesen Fragen geht das Südtirol Magazin in dieser Ausgabe nach. 
+In der Rubrik &quot;Unser Gedächtnis&quot;zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966.</desc>
+  </programme>
+  <programme start="20240919221000 +0200" stop="20240919223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240920180000 +0200" stop="20240920182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Was ist Heimat? Ein Gefühl, ein Ort, eine Haltung? Und welche Rolle spielt der Heimatbegriff in unserer Gesellschaft? Es moderiert Magdalena Oberstaller.  
+Ist Heimat der Ort, an dem man geboren wurde oder der Ort, an dem Familie und Freunde wohnen? Und was bedeutet Heimat eigentlich für uns als Gesellschaft? All diesen Fragen geht das Südtirol Magazin in dieser Ausgabe nach. 
+In der Rubrik &quot;Unser Gedächtnis&quot;zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966.</desc>
+  </programme>
+  <programme start="20240920182900 +0200" stop="20240920185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die Sperrung der Pustertalbahn ab Herbst wird zur Herausforderung. Was tun beim Verlust der Bankomatkarte. Lebensversicherungen mit Kapitalbildung im Check. 
+Die Pustertalbahn steht vor einer großen Herausforderung: Ab Herbst wird die Strecke Franzensfeste-Bruneck für ein Jahr gesperrt. Ein umfassender Schienenersatzverkehr mit Bussen soll die Mobilität der Pendler sicherstellen. Wir haben mit Betroffenen, den Verantwortlichen des Projekts Riggertalschleife und dem Bürgermeister von Bruneck über die geplanten Maßnahmen und die Erwartungen gesprochen.
+Was passiert eigentlich, wenn ich meine Bankomatkarte verliere oder wenn sie mir gestohlen wird? Die gute Nachricht vorweg - die Chancen stehen gut, dass ich mein Geld zurückbekomme, falls ich nichts falsch mache. 
+Wenn die Versicherungsgesellschaft Insolvenz anmeldet, bekomme ich meine Lebensversicherung noch ausbezahlt oder ist mein investiertes Geld verloren? Der Insolvenzfall einer namhaften Gesellschaft, wirft bei betroffenen Südtiroler:innen Fragen auf. 
+Lajen befindet sich zwischen dem Tourismustal Gröden und dem Transittal Eisacktal. Wie funktioniert hier das Zusammenspiel zwischen Handel, Gastronomie mit den anderen Wirtschaftsfaktoren der Gemeinde?</desc>
+  </programme>
+  <programme start="20240920200000 +0200" stop="20240920202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240920202100 +0200" stop="20240920210600 +0200" channel="Rai Südtirol">
+    <title>Oktoberfest</title>
+    <sub-title>Vom Spatenstich bis zum Anstich</sub-title>
+    <desc>Morgen am 21.September beginnt das Münchner Oktoberfest, das größte Volksfest der Welt. Doch die Vorbereitungen bis zum traditionellen &quot;Ozapft is&quot; sind lang und aufwändig. Eine Reportage.
+10 Wochen lang wird auf der Theresienwiese auf Hochtouren gearbeitet, damit das Mammutprojekt Oktoberfest ein Erfolg wird. 5000 Arbeiter aus der ganzen Welt bauen die Zeltstadt auf. Da ist die Kommunikation oft eine Herausforderung. Wir begleiten auch einen Pferdemeister und einen Wiesnwirt, die Einblick in diese spannende Vorbereitungszeit geben. Am Ende aber ist der Oberbürgermeister der Hauptdarsteller, denn mit seinem Fassanstich kann das traditionelle Volksfest endlich beginnen.</desc>
+  </programme>
+  <programme start="20240920210600 +0200" stop="20240920214907 +0200" channel="Rai Südtirol">
+    <title>Berge der Zukunft</title>
+    <sub-title>Vom Mooserboden auf das Kitzsteinhorn</sub-title>
+    <desc>Inmitten von gewaltigen Gipfeln direkt an der Grenze zum Nationalpark Hohe Tauern, liegen die Hochgebirgsstauseen Mooserboden und Wasserfallboden wie Fjorde eingebettet in die Kapruner Berglandschaft. Hier leben im Sommer über 1.000 Tiere auf der Fürthermoa Alm. Und daneben eine der größten aktuellen Hochgebirgsbaustellen in Österreich: Hier entsteht das neue Pumpspeicherkraftwerk Limberg III der Kraftwerksgruppe Kaprun. Wir erleben die schwierigen Bauarbeiten in waghalsiger Höhe und in den Tiefen des Berges die vier Jahreszeiten. Aber wir erfahren auch die Geschichten der Menschen dieser Gegend.</desc>
+  </programme>
+  <programme start="20240920214900 +0200" stop="20240920215907 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten: Tamara und Michael Stauder</title>
+    <sub-title>Kastellane der Churburg</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20240920221000 +0200" stop="20240920223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
