@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240912200000 +0200" stop="20240912202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240912202000 +0200" stop="20240912204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Egal ob in der Mode, bei Autos oder in der Musik - Retro ist in. Doch warum erleben &quot;alte Dinge&quot; so einen Boom? Es moderiert Karin Gschnitzer.   
-
-Gerade in unsicheren Zeiten schwelgen wir gern in nostalgischen Erinnerungen an zurückliegende Zeiten, die - scheinbar - besser waren. Viele Menschen schätzen außerdem die Authentizität, die Vintage-Produkte von heutigen Artikeln der Massenproduktion unterscheiden. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Landesfeier in Innsbruck im September 1959 und wir starten mit der Reihe &quot;Digital Now&quot;.</desc>
-  </programme>
-  <programme start="20240912213000 +0200" stop="20240912215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Handballsaison ist, aus Südtiroler Sicht, gleich mit einem Feuerwerk gestartet, denn der SSV Brixen durfte zu Hause vor seinen Fans sowohl bei den Damen als auch bei den Herren die Finalspiele im Supercup bestreiten.
-Auch die Kunstbahnrodler haben traditionell mit dem Startbewerb in Meransen die Saison eröffnet. Dominik Fischnaller und Co. freuen sich schon auf den Winter und auf die neue Olympiabahn in Cortina, die Mitte März 2025 in Betrieb genommen wird.</desc>
-  </programme>
-  <programme start="20240912221000 +0200" stop="20240912223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240913180000 +0200" stop="20240913182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -259,6 +235,42 @@ Lajen befindet sich zwischen dem Tourismustal Gröden und dem Transittal Eisackt
     <desc/>
   </programme>
   <programme start="20240920221000 +0200" stop="20240920223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240921180000 +0200" stop="20240921182930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Rolle des Gälischen in Irland, der Blick von zwei Rumänenungarinnen auf die Situation in Südtirol, das Minderheiten-Theaterprojekt phônê, ein Film über die Armenier:innen in der Türkei.
+Zwar ist Gälisch immer noch die erste Amtssprache in Irland, der keltische Dialekt wird aber nur von drei Prozent der Bevölkerung als erste Sprache gesprochen, während Englisch als zweite Amtssprache wesentlich verbreiteter ist. 
+Minderheit in der Minderheit: Minet hat zwei Ungarinnen aus Rumänien getroffen, die vielen Jahren in Südtirol leben und arbeiten. Wie erleben sie das lokale Minderheitengefüge?
+phônê ist ein internationales Minderheiten-Theaterprojekt zur Sicherung und Förderung der kulturellen Vielfalt in Europa. Diesen Sommer hat es in Südtirol Halt gemacht. 
+Minority Rights Group International, kurz MRG ist eine in London ansässige internationale NGO-Vereinigung, die sich durch weltweite Kampagnen für benachteiligte Minderheiten und indigene Völker einsetzt. In Minet wird in Zusammenarbeit mit MRG eine Reihe von Filmbeiträgen gezeigt. Zu Beginn geht es um die Hemşinli, eine kleine armenischsprachige Minderheit muslimischen Glaubens im Nordosten der Türkei.</desc>
+  </programme>
+  <programme start="20240921182900 +0200" stop="20240921185330 +0200" channel="Rai Südtirol">
+    <title>Land und Leute - Stegen</title>
+    <sub-title/>
+    <desc>Viele kennen die Brunecker Fraktion wegen des größten Marktes von Tirol, der alljährlich im Oktober am Stegener Marktplatz stattfindet. Ortskundige stellen die Besonderheiten von Stegen vor. Während der Fraktionsvorsteher Albin Pramstaller durch das Dorf führt, erinnert sich Pfarrgemeinderatspräsident Johann Hilber an vergangene Tage. Seine Schwester Maria Hilber hat eine Festschrift über die 1000-Jahr-Feier von Stegen verfasst. Im Dorfgasthaus zur Linde beim &quot;Branntweiner&quot; wird heute noch anlässlich des Stegener Marktes die traditionelle Saure Suppe gekocht. Und wenn es um Weltklasse-Eisstockschießen geht, dann haben vor allem die Damen aus Stegen die Nase vorn.</desc>
+  </programme>
+  <programme start="20240921200000 +0200" stop="20240921202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240921202100 +0200" stop="20240921202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240921202500 +0200" stop="20240921204930 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Traktortherapie hilft Kindern mit neurologischen Schäden. Sie werden wacher und beweglicher. Ärzte und Therapeuten staunen. Das ist nur eines der Themen in Alpen Donau Adria.
+
+Ein Traktor ist ein ungewöhnliches Hilfsmittel für Therapien.  Aber das Tuckern, Rütteln und Schütteln zeigt bei Kindern mit neurologischen Schäden aus medizinischer Sicht überraschend Wirkung. Harald Leerkamp, Physiotherapeut und Traktorfahrer, ist schon mit vielen Kindern auf dem Traktor gesessen. Er hat beobachtet, dass Kinder plötzlich Bewegungen können, die für sie vorher undenkbar waren. Die 6jährige Sveja erlitt zum Beispiel vor zwei Jahren einen Unfall mit schweren Kopfverletzungen.  Jetzt kann sie im Anhänger während der Fahrt alleine stehen. &quot;Traktortherapie für Kinder&quot; ist nur eines der Themen bei Alpen Donau Adria, präsentiert von Sigrid Flenger.</desc>
+  </programme>
+  <programme start="20240921221000 +0200" stop="20240921223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
