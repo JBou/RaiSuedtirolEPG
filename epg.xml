@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240913180000 +0200" stop="20240913182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Egal ob in der Mode, bei Autos oder in der Musik - Retro ist in. Doch warum erleben &quot;alte Dinge&quot; so einen Boom? Es moderiert Karin Gschnitzer. Gerade in unsicheren Zeiten schwelgen wir gern in nostalgischen Erinnerungen an zurückliegende Zeiten, die - scheinbar - besser waren. Viele Menschen schätzen außerdem die Authentizität, die Vintage-Produkte von heutigen Artikeln der Massenproduktion unterscheiden. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien über die Landesfeier in Innsbruck im September 1959 und wir starten mit der Reihe &quot;Digital Now&quot;.</desc>
-  </programme>
-  <programme start="20240913182900 +0200" stop="20240913185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Handballsaison ist, aus Südtiroler Sicht, gleich mit einem Feuerwerk gestartet, denn der SSV Brixen durfte zu Hause vor seinen Fans sowohl bei den Damen als auch bei den Herren die Finalspiele im Supercup bestreiten.
-Auch die Kunstbahnrodler haben traditionell mit dem Startbewerb in Meransen die Saison eröffnet. Dominik Fischnaller und Co. freuen sich schon auf den Winter und auf die neue Olympiabahn in Cortina, die Mitte März 2025 in Betrieb genommen wird.</desc>
-  </programme>
-  <programme start="20240913200000 +0200" stop="20240913202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240913202100 +0200" stop="20240913205500 +0200" channel="Rai Südtirol">
-    <title>Das Thema: Hüter der Luft</title>
-    <sub-title/>
-    <desc>Vom ersten bis zum letzten Atemzug begleitet uns die Luft. Etwa 20.000 Mal am Tag atmen wir ein und aus. Doch was wissen wir über das Element Luft? Und wie sauber ist sie in Südtirol?
-
-In der Reportage &quot;Hüter der Luft&quot; widmet sich Filmemacher Andreas Niederkofler gemeinsam mit dem Labor für Luftanalysen und Strahlenschutz der Luftqualität in Südtirol. Wir besuchen die Messstationen am Ritten und in Bozen, begleiten Wissenschaftler bei der Untersuchung von Luftproben in Klassenzimmern und gewähren detaillierte Einblicke in die Prozesse der Müllverbrennungsanlage. Die Reportage zeigt auch die Bedeutung sauberer Luft für unsere Gesundheit.</desc>
-  </programme>
-  <programme start="20240913205500 +0200" stop="20240913214111 +0200" channel="Rai Südtirol">
-    <title>Climate-Action</title>
-    <sub-title> Das Klima und ich</sub-title>
-    <desc>Der Filmemacher Max Gurschler begibt sich auf die Spuren des Treibhauseffektes und geht der Frage nach, was es mit dem Klimawandel auf sich hat.
-Max Gurschler begibt sich auf eine spannende Entdeckungsreise, in der er dem Geheimnis des Treibhauseffekts auf die Spur kommt und startet ein faszinierendes Experiment: Mit Marmeladegläsern und selbst produziertem CO² zeigt er, wie sich unsere Atmosphäre durch das Treibhausgas erwärmt. Von verschneiten Bergtälern über mediterrane Promenaden bis hin zu verregneten Städten - Gurschler sucht nach Antworten und trifft dabei auf interessante Menschen und beeindruckende Geschichten. Außerdem geht er der Frage nach, wie übermäßiges CO² unsere Umwelt beeinflusst.</desc>
-  </programme>
-  <programme start="20240913214100 +0200" stop="20240913215550 +0200" channel="Rai Südtirol">
-    <title>Sammlerglück</title>
-    <sub-title>Spuren des Ersten Weltkriegs</sub-title>
-    <desc>Der Brixner Oswald Mederle ist passionierter Sammler von Erinnerungsstücken aus dem Ersten
-Weltkrieg: Uniformen, Münzen, Waffen und Originalfotos. Mederle, Küchenmeister in Rente, setz sich mit einer tragischen Zeit auseinander. In seiner Sammlung finden sich über 13.000 Objekte - vor allem Postkarten von vor 100 Jahren, Münzen,
-Uniformen und Alltagsgegenstände, dazu Originalfotos, Plakate und Waffen. Oswald Mederle ist auch Vizepräsident des Tiroler Geschichtsvereins der Sektion Bozen, Vorstand im Kriegsmuseum von Rovereto und Mitglied des Brixner Geschichtsvereins. Er verfasste mehrere Bücher zum Ersten Weltkrieg.</desc>
-  </programme>
-  <programme start="20240913221000 +0200" stop="20240913223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240914180000 +0200" stop="20240914184403 +0200" channel="Rai Südtirol">
     <title>Leben auf der Burg</title>
     <sub-title>Kastellan:innen in Südtirol</sub-title>
@@ -271,6 +229,28 @@ Minority Rights Group International, kurz MRG ist eine in London ansässige inte
 Ein Traktor ist ein ungewöhnliches Hilfsmittel für Therapien.  Aber das Tuckern, Rütteln und Schütteln zeigt bei Kindern mit neurologischen Schäden aus medizinischer Sicht überraschend Wirkung. Harald Leerkamp, Physiotherapeut und Traktorfahrer, ist schon mit vielen Kindern auf dem Traktor gesessen. Er hat beobachtet, dass Kinder plötzlich Bewegungen können, die für sie vorher undenkbar waren. Die 6jährige Sveja erlitt zum Beispiel vor zwei Jahren einen Unfall mit schweren Kopfverletzungen.  Jetzt kann sie im Anhänger während der Fahrt alleine stehen. &quot;Traktortherapie für Kinder&quot; ist nur eines der Themen bei Alpen Donau Adria, präsentiert von Sigrid Flenger.</desc>
   </programme>
   <programme start="20240921221000 +0200" stop="20240921223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240922200000 +0200" stop="20240922202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240922202100 +0200" stop="20240922205030 +0200" channel="Rai Südtirol">
+    <title>Privat - Dominik Paris</title>
+    <sub-title/>
+    <desc>Dominik Paris ist einer der erfolgreichsten Skirennläufer der Gegenwart. &quot;Domme&quot; - öffnet Moderator Markus Frings die Türen zu seinem Zuhause in Ulten und gewährt exklusive Einblicke in sein Leben abseits der Pisten. 
+
+Wir erfahren mehr über die beispiellose Karriere des Abfahrts- und Super-G-Spezialisten, über die beeindruckenden Triumphe auf der legendären &quot;Streif&quot; in Kitzbühel und die Herausforderungen, denen er sich stellen musste. Wir entdecken auch eine andere Seite des Skistars: den leidenschaftlichen Musiker, der in seiner Freizeit zur Gitarre greift und mit seiner Band auftritt. Doch auch die schweren Momente, wie der Verlust seines Bruders, gehören zu seiner Geschichte. Seien Sie dabei, wenn Dominik Paris persönlich wird.</desc>
+  </programme>
+  <programme start="20240922205000 +0200" stop="20240922205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240922221000 +0200" stop="20240922223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
