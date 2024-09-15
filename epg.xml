@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240914180000 +0200" stop="20240914184403 +0200" channel="Rai Südtirol">
-    <title>Leben auf der Burg</title>
-    <sub-title>Kastellan:innen in Südtirol</sub-title>
-    <desc>Leben auf einer Burg war schon im Mittelalter nicht nur schön und bezaubernd, sondern auch kalt
-und hart - auch heute noch. Das erzählen sieben Kastellaninnen und Kastellane. Sie wohnen und arbeiten auf der Burg Taufers, der Trostburg und der Churburg, auf Schloss Enn und auf Bellermont-Wangen ihren Dienst tun. Sie tragen Verantwortung - genauso wie die Besitzer:innen. Eine Voraussetzung braucht es: die Liebe zu den alten Mauern, die unendlich Vieles gesehen haben - und die bleiben werden, auch wenn das Leben in ihnen vergeht.</desc>
-  </programme>
-  <programme start="20240914184400 +0200" stop="20240914185900 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum Ladin</title>
-    <sub-title/>
-    <desc>Das Museum Ladin - kurz MusLa - in St. Martin in Thurn widmet sich der Geschichte und dem Leben in den fünf ladinischen Dolomitentälern. Jedes Tal hat seinen eigenen Dialekt und seine Traditionen. 
-Das Museum erklärt auf anschauliche Weise die vielseitige Kultur der Ladiner:innen. Zum MusLa gehört auch das Museum Ladin Ursus ladinicus in St. Kassian im Gadertal. Es ist dem Höhlenbären gewidmet, der vor etwa 40.000 Jahren in den Dolomiten lebte. Das Museum zeigt Fossilien, Skelette und Rekonstruktionen des Bären und informiert über die Geologie der Dolomiten und über die Conturines-Höhle, wo viele weitere archäologische Funde gemacht wurden. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20240914200000 +0200" stop="20240914202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240914202100 +0200" stop="20240914202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240914202500 +0200" stop="20240914205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Planet drums als Botschafterinnen einer gemeinsamen Erde, das Sakrament der Taufe, Brotbacken im Meraner Verein Ginko und die Frage, wie sich familiäre Verstrickungen lösen lassen.
-
-Schon seit ihrer Jugendzeit hatte Barbara Seeber aus Uttenheim eine Affinität zu Klängen. Als sie 2011 den Perkussionisten Max Castlunger hörte, wie er auf einer afrikanischen Udu Kindern vortrommelte, war sie fasziniert. Seither formt sie sogenannte Planetentrommeln. 
-Auch Taufe betont in besonderer Weise die Eingliederung eines Menschen in die Gemeinschaft der Kirche. In diesem Beitrag wird das Sakrament näher beleuchtet und auch der Frage nachgespürt, warum manche sich bewusst gegen die Taufe entscheiden. Vor zwei Jahren wurde in Meran die Bürgergenossenschaft Ginko gegründet. Ziel ist die Eröffnung eines Ladens im Stadtviertel Maria Himmelfahrt, in dem regionale und nachhaltige Produkte und frisches Brot zu einem fairen Preis angeboten werden. Parallel dazu werden Workshops organisiert. Letzthin einen über die &quot;Kunst des Brotbackens&quot; mit Rezepten aus Serbien und Afghanistan.
-Die wenigsten Menschen sind so frei, dass sie ihr Leben ohne Schuldgefühle und nach ihren eigenen Vorstellungen gestalten können. Die Ursache können familiäre Verstrickungen sein. Mathilde Lintner, Unternehmens-Beraterin und Coach, beschäftigt sich seit Jahren mit Familiensystemen und ist überzeugt, dass sich familiäre Verstrickungen lösen lassen.</desc>
-  </programme>
-  <programme start="20240914221000 +0200" stop="20240914223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240915200000 +0200" stop="20240915202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
