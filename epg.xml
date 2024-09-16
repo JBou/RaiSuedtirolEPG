@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240915200000 +0200" stop="20240915202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240915202100 +0200" stop="20240915204530 +0200" channel="Rai Südtirol">
-    <title>Land und Leute - Stegen</title>
-    <sub-title/>
-    <desc>Viele kennen die Brunecker Fraktion wegen des größten Marktes von Tirol, der alljährlich im Oktober am Stegener Marktplatz stattfindet. Ortskundige stellen die Besonderheiten von Stegen vor.
- 
-Während der Fraktionsvorsteher Albin Pramstaller durch das Dorf führt, erinnert sich Pfarrgemeinderatspräsident Johann Hilber an vergangene Tage. Seine Schwester Maria Hilber hat eine Festschrift über die 1000-Jahr-Feier von Stegen verfasst. Im Dorfgasthaus zur Linde beim &quot;Branntweiner&quot; wird heute noch anlässlich des Stegener Marktes die traditionelle Saure Suppe gekocht. Und wenn es um Weltklasse-Eisstockschießen geht, dann haben vor allem die Damen aus Stegen die Nase vorn.</desc>
-  </programme>
-  <programme start="20240915204500 +0200" stop="20240915204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240915221000 +0200" stop="20240915223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240916180000 +0200" stop="20240916181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
