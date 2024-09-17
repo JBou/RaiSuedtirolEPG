@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240916180000 +0200" stop="20240916181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Zwei Südtiroler Derby stehen am dritten Oberliga-Spieltag auf dem Programm: Serie D-Absteiger Virtus Bozen empfängt Partschins, St. Georgen spielt zu Hause gegen Tramin. In der Landesliga treffen im Top-Match dieser Runde Naturns und Terlan aufeinander.</desc>
-  </programme>
-  <programme start="20240916181400 +0200" stop="20240916182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Beim Kinderbuchfestival</sub-title>
-    <desc>Zipp Dabei-Reporterin Rosa schaut sich auf Schloss Prösels beim Südtiroler Kinderbuchfestival um. Sie trifft dort fünf Autorinnen mit ihren neuesten Büchern. Einige von ihnen schreiben nicht nur, sondern illustrieren die Bücher auch. Am Ende muss Rosa sogar noch ein Rätsel knacken und im Schloss einen versteckten Schatz finden.</desc>
-  </programme>
-  <programme start="20240916182900 +0200" stop="20240916185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Planet drums als Botschafterinnen einer gemeinsamen Erde, das Sakrament der Taufe, Brotbacken im Meraner Verein Ginko und die Frage, wie sich familiäre Verstrickungen lösen lassen. Schon seit ihrer Jugendzeit hatte Barbara Seeber aus Uttenheim eine Affinität zu Klängen. Als sie 2011 den Perkussionisten Max Castlunger hörte, wie er auf einer afrikanischen Udu Kindern vortrommelte, war sie fasziniert. Seither formt sie sogenannte Planetentrommeln. 
-Auch Taufe betont in besonderer Weise die Eingliederung eines Menschen in die Gemeinschaft der Kirche. In diesem Beitrag wird das Sakrament näher beleuchtet und auch der Frage nachgespürt, warum manche sich bewusst gegen die Taufe entscheiden. Vor zwei Jahren wurde in Meran die Bürgergenossenschaft Ginko gegründet. Ziel ist die Eröffnung eines Ladens im Stadtviertel Maria Himmelfahrt, in dem regionale und nachhaltige Produkte und frisches Brot zu einem fairen Preis angeboten werden. Parallel dazu werden Workshops organisiert. Letzthin einen über die &quot;Kunst des Brotbackens&quot; mit Rezepten aus Serbien und Afghanistan.
-Die wenigsten Menschen sind so frei, dass sie ihr Leben ohne Schuldgefühle und nach ihren eigenen Vorstellungen gestalten können. Die Ursache können familiäre Verstrickungen sein. Mathilde Lintner, Unternehmens-Beraterin und Coach, beschäftigt sich seit Jahren mit Familiensystemen und ist überzeugt, dass sich familiäre Verstrickungen lösen lassen.</desc>
-  </programme>
-  <programme start="20240916200000 +0200" stop="20240916202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240916202000 +0200" stop="20240916220000 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Die Schule der Zukunft!</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Wie kann die Schule der Zukunft aussehen? Migration, gesellschaftlicher Wandel, instabile Beziehungsstrukturen und die Digitalisierung erfordern ein Ausbrechen aus verkrusteten Strukturen.   
-
-Schule neu denken: Gäste von Moderatorin Judith Bertagnolli sind u.a. Heidi Niederkofler (langjährige Direktorin im Schulsprengel Bozen/Europa), Heidrun Goller (Lehrperson und Elternvertreterin im Landesschulrat) und Reinhard Tschiesner (Studiengangsleiter an der Bildungswissenschaftlichen Fakultät der Uni BZ). Live aus der Grundschule Pestalozzi in Bozen. 
-Den Auftakt zur Diskussion macht die Doku &quot;Bildung im Wandel&quot;. Filmemacher Thomas Vonmetz beleuchtet darin die aktuellen Entwicklungen im Bildungssystem und macht sich auf die Suche nach Antworten, wie lebenslanges Lernen und der Zugang zu hochwertiger Bildung für alle Menschen gelingen soll.</desc>
-  </programme>
-  <programme start="20240916221100 +0200" stop="20240916223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240917200000 +0200" stop="20240917202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
