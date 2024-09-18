@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240917200000 +0200" stop="20240917202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240917202000 +0200" stop="20240917203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240917203500 +0200" stop="20240917204930 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Zwei Südtiroler Derby stehen am dritten Oberliga-Spieltag auf dem Programm: Serie D-Absteiger Virtus Bozen empfängt Partschins, St. Georgen spielt zu Hause gegen Tramin. In der Landesliga treffen im Top-Match dieser Runde Naturns und Terlan aufeinander.</desc>
-  </programme>
-  <programme start="20240917221000 +0200" stop="20240917223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240918200000 +0200" stop="20240918202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
