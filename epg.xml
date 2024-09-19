@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240918200000 +0200" stop="20240918202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240918202000 +0200" stop="20240918204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Rolle des Gälischen in Irland, der Blick von zwei Rumänenungarinnen auf die Situation in Südtirol, das Minderheiten-Theaterprojekt phônê, ein Film über die Armenier:innen in der Türkei.
-
-Zwar ist Gälisch immer noch die erste Amtssprache in Irland, der keltische Dialekt wird aber nur von drei Prozent der Bevölkerung als erste Sprache gesprochen, während Englisch als zweite Amtssprache wesentlich verbreiteter ist. 
-Minderheit in der Minderheit: Minet hat zwei Ungarinnen aus Rumänien getroffen, die vielen Jahren in Südtirol leben und arbeiten. Wie erleben sie das lokale Minderheitengefüge?
-phônê ist ein internationales Minderheiten-Theaterprojekt zur Sicherung und Förderung der kulturellen Vielfalt in Europa. Diesen Sommer hat es in Südtirol Halt gemacht. 
-Minority Rights Group International, kurz MRG ist eine in London ansässige internationale NGO-Vereinigung, die sich durch weltweite Kampagnen für benachteiligte Minderheiten und indigene Völker einsetzt. In Minet wird in Zusammenarbeit mit MRG eine Reihe von Filmbeiträgen gezeigt. Zu Beginn geht es um die Hemşinli, eine kleine armenischsprachige Minderheit muslimischen Glaubens im Nordosten der Türkei.</desc>
-  </programme>
-  <programme start="20240918221000 +0200" stop="20240918223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240919200000 +0200" stop="20240919202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
