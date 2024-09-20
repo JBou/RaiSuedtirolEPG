@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240919200000 +0200" stop="20240919202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240919202000 +0200" stop="20240919204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Was ist Heimat? Ein Gefühl, ein Ort, eine Haltung? Und welche Rolle spielt der Heimatbegriff in unserer Gesellschaft? Es moderiert Magdalena Oberstaller.  
-
-Ist Heimat der Ort, an dem man geboren wurde oder der Ort, an dem Familie und Freunde wohnen? Und was bedeutet Heimat eigentlich für uns als Gesellschaft? All diesen Fragen geht das Südtirol Magazin in dieser Ausgabe nach. 
-In der Rubrik &quot;Unser Gedächtnis&quot;zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966.</desc>
-  </programme>
-  <programme start="20240919221000 +0200" stop="20240919223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240920180000 +0200" stop="20240920182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -118,6 +100,175 @@ Wir erfahren mehr über die beispiellose Karriere des Abfahrts- und Super-G-Spez
     <desc/>
   </programme>
   <programme start="20240922221000 +0200" stop="20240922223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240923180000 +0200" stop="20240923181430 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nach einem holprigen Saisonstart will der Bozner FC in der vierten Oberliga-Runde im Heimspiel gegen Aufsteiger SSV Brixen wieder auf die Erfolgsspur zurückkehren. In der Landesliga empfängt der SSV Bruneck in Reischach Salurn, während Aufsteiger Tscherms Marling auf Gitschberg Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240923181400 +0200" stop="20240923183400 +0200" channel="Rai Südtirol">
+    <title>Zipp - Karate</title>
+    <sub-title/>
+    <desc>In dieser Folge der &quot;Sportkids&quot; stellen sportbegeisterte Kinder aus Mühlbach ihren Lieblingssport vor: Karate. Die asiatische Kampfsportart ist keine Schlägerausbildung - ganz im Gegenteil. Karate ist Körperbewusstsein und Selbstverteidigung - und es lehrt Selbstdisziplin und Verantwortungsbewusstsein. Eine perfekte Sportart, um nach der Schule abzuschalten und auszupowern.</desc>
+  </programme>
+  <programme start="20240923183400 +0200" stop="20240923185830 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Traktortherapie hilft Kindern mit neurologischen Schäden. Sie werden wacher und beweglicher. Ärzte und Therapeuten staunen. Das ist nur eines der Themen in Alpen Donau Adria.
+Ein Traktor ist ein ungewöhnliches Hilfsmittel für Therapien.  Aber das Tuckern, Rütteln und Schütteln zeigt bei Kindern mit neurologischen Schäden aus medizinischer Sicht überraschend Wirkung. Harald Leerkamp, Physiotherapeut und Traktorfahrer, ist schon mit vielen Kindern auf dem Traktor gesessen. Er hat beobachtet, dass Kinder plötzlich Bewegungen können, die für sie vorher undenkbar waren. Die 6jährige Sveja erlitt zum Beispiel vor zwei Jahren einen Unfall mit schweren Kopfverletzungen.  Jetzt kann sie im Anhänger während der Fahrt alleine stehen. &quot;Traktortherapie für Kinder&quot; ist nur eines der Themen bei Alpen Donau Adria, präsentiert von Sigrid Flenger.</desc>
+  </programme>
+  <programme start="20240923200000 +0200" stop="20240923202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240923202000 +0200" stop="20240923205830 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter - Der Herbst</title>
+    <sub-title/>
+    <desc>Von den saftigen Beeren an den Wildsträuchern über die Früchte exotischer Baumarten bis hin zu den alten Apfel- und Birnensorten in den Streuobstwiesen: Der Herbst ist die Zeit der Ernte.
+Er ist aber auch eine Zeit vielfältiger farbiger Kontraste, die in der Natur ihre ganze Schönheit entfalttn. Das tiefe Blau des Himmels kontrastiert mit dem leuchtenden Orange der herbstlichen Lärchenweiden, das satte Rot des Kirschlaubs mit dem tiefen Grün der Nadelwälder. Das Leben der Bäume entfaltet sich noch einmal in aller Fülle und bereitet sich zugleich auf kältere, dunklere Zeiten vor.</desc>
+  </programme>
+  <programme start="20240923205900 +0200" stop="20240923215930 +0200" channel="Rai Südtirol">
+    <title>Romano Artioli</title>
+    <sub-title>Der letzte große Träumer</sub-title>
+    <desc>Bugatti und Lotus verdanken ihr aktives Dasein im Olymp der Autowelt einem Mann, dessen Erfolgsgeschichte in Bozen beginnt: Romano Artioli. Eine Dokumentation von Thomas Perathoner.
+Der heute 91jährige Romano Artioli war ein Visionär, den Experten zu Recht in einem Atemzug mit Ikonen wie Enzo Ferrari und Ferruccio Lamborghini oder Carol Shelby nennen. Der Film erzählt die Etappen eines außergewöhnlichen Lebens, von den Anfängen im Südtirol der Nachkriegszeit bis zu den Seiten automobiler Weltgeschichte, die er dank seiner unbeugsamen Vision geschrieben hat. Internationale Experten und Weggefährten kommen zu Wort und erinnern an den letzten großen Träumer und Visionär im Bereich Luxuswagen.</desc>
+  </programme>
+  <programme start="20240923221000 +0200" stop="20240923223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240924200000 +0200" stop="20240924202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240924202000 +0200" stop="20240924203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240924203500 +0200" stop="20240924204930 +0200" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Nach einem holprigen Saisonstart will der Bozner FC in der vierten Oberliga-Runde im Heimspiel gegen Aufsteiger SSV Brixen wieder auf die Erfolgsspur zurückkehren. In der Landesliga empfängt der SSV Bruneck in Reischach Salurn, während Aufsteiger Tscherms Marling auf Gitschberg Jochtal trifft.</desc>
+  </programme>
+  <programme start="20240924221000 +0200" stop="20240924223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240925200000 +0200" stop="20240925202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240925202000 +0200" stop="20240925204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Alte Birnensorten wiederentdeckt: Kulturgeschichte und Kulinarik rund um die Vinschger Palabirne und die Verdingser Ferchbirne. Außerdem: Die Wechselwirkung zwischen Darm und Gehirn.
+
+Zwei alte, lokaltypische Birnensorten erfahren seit einigen Jahren eine Wiederbelebung. Im kleinen Eisacktaler Dorf Verdings pflanzen die Bauern wieder junge Ferchbirnbäume. Aus den Birnen produzieren sie das hochwertige Birmehl, das für kulinarische Spezialitäten verwendet wird. In Glurns setzten sich engagierte Leute für den Erhalt der landschaftsprägenden Palabirnbäume ein und bewahren damit eine über die Jahrhunderte gewachsene bäuerliche Tradition. 
+Die Darm-Hirn-Achse spielt eine bisher weitgehend unterschätzte Rolle. Neuere Forschungen belegen, dass Darm und Gehirn intensiv miteinander kommunizieren. Was wir essen und wie wir leben, beeinflusst nicht nur unsere Verdauung, sondern prägt auch unser Denken und Fühlen. Über das spannende Zusammenwirken zwischen Darm und Gehirn spricht der weltweit bekannte Darmspezialist Emeran Mayer. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20240925221000 +0200" stop="20240925223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240926200000 +0200" stop="20240926202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240926202000 +0200" stop="20240926204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Unsere Schlösser und Burgen zeugen von der einstigen bedeutung des Adels. Wie hat sich dieser im Laufe der Jahrhunderte verändert? Es moderiert Karin Gschnitzer. 
+
+In Südtirol gibt es etwa 800 Schlösser und Burgen, konzentriert wie nirgendwo sonst in Europa. Sie zeugen von einem einst mächtigen Gesellschaftsstand, dessen Nachfahren heute im Spagat zwischen Vergangenem und Künftigem leben. Wie sich der Einfluss des Adels im Laufe der Jahrhunderte verändert hat, besprechen wir mit der Historikerin Siglinde Clementi. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben außerdem einen Einblick in die Arbeitsbereiche der Bezirksgemeinschaft Pustertal.</desc>
+  </programme>
+  <programme start="20240926221000 +0200" stop="20240926223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240927180000 +0200" stop="20240927182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Unsere Schlösser und Burgen zeugen von der einstigen bedeutung des Adels. Wie hat sich dieser im Laufe der Jahrhunderte verändert? Es moderiert Karin Gschnitzer. In Südtirol gibt es etwa 800 Schlösser und Burgen, konzentriert wie nirgendwo sonst in Europa. Sie zeugen von einem einst mächtigen Gesellschaftsstand, dessen Nachfahren heute im Spagat zwischen Vergangenem und Künftigem leben. Wie sich der Einfluss des Adels im Laufe der Jahrhunderte verändert hat, besprechen wir mit der Historikerin Siglinde Clementi. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben außerdem einen Einblick in die Arbeitsbereiche der Bezirksgemeinschaft Pustertal.</desc>
+  </programme>
+  <programme start="20240927182900 +0200" stop="20240927185747 +0200" channel="Rai Südtirol">
+    <title>50 Jahre Naturpark Schlern-Rosengarten</title>
+    <sub-title>Lebendiges Erbe der Dolomiten</sub-title>
+    <desc>Der älteste seiner Art in Südtirol - und doch voller Leben. Der Film ist eine Reise durch die atemberaubende Landschaft und die beeindruckende Artenvielfalt dieses Schutzgebiets. Doch der Naturpark ist mehr als nur ein Ort von Naturschönheit. Er ist auch ein Ort der Begegnung und der Geschichte. Die Menschen, die hier leben, haben über Generationen hinweg eine einzigartige Beziehung zu dieser Gegend entwickelt. Diese Beziehung ist geprägt von Respekt, Tradition und Nachhaltigkeit. Die Dokumentation beleuchtet auch die aktuellen Herausforderungen des Naturparks zwischen Tourismus und Naturschutz.
+Der Film von Martin Telser ist eine faszinierende Reise durch Vergangenheit, Gegenwart und Zukunft des Naturparks Schlern-Rosengarten.</desc>
+  </programme>
+  <programme start="20240927200000 +0200" stop="20240927202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240927202100 +0200" stop="20240927205903 +0200" channel="Rai Südtirol">
+    <title>Musigzeit - Simon Rabanser &amp; Mac Maya</title>
+    <sub-title/>
+    <desc>Die Musiker Simon Rabanser und Mac Maya (Markus Mayr) haben ihre Passion zum Hauptberuf gemacht und gehen mittlerweile musikalisch ihren ganz eigenen Weg. 
+
+Sie geben sich nicht mit Live-Auftritten und ein paar Single-Produktionen zufrieden, sondern haben erkannt, dass das Musikbusiness in stetiger Veränderung ist, sich immer wieder weiterentwickelt. Mit diesen Trends gehen die beiden mit und positionieren sich im Musikmarkt und den sozialen Medien mit ihrem ganz individuellen Stil.</desc>
+  </programme>
+  <programme start="20240927210000 +0200" stop="20240927214435 +0200" channel="Rai Südtirol">
+    <title>Familie heute</title>
+    <sub-title>Vielfältig. Vereinsamt. Vernetzt.</sub-title>
+    <desc>Lange lagen die Geburtenzahlen in Südtirol stabil bei 5000 Babys im Jahr. 2023 waren es nur mehr 4700. Was sind die Gründe für den Geburtenschwund? Ein Film von Astrid Kofler und Günther Neumair. Die beiden Filmemacher hinterfragen, welchen Herausforderungen sich Familien heute stellen müssen, wo Überforderung stattfindet, wo Familie und Beruf nicht mehr vereinbar sind. Welche Werte zählen heute noch? Warum ist das Modell Kleinfamilie so schwierig? Warum wird Sorgearbeit wenig anerkannt? Manche sehen das Ende der Familie gekommen. Verändert hat sich Familie aber schon immer. Vielfalt ist die Voraussetzung für ihr Überleben. Der Familienpolitik muss aber auch ein höherer Stellenwert, der Elternarbeit mehr Wertschätzung eingeräumt werden.</desc>
+  </programme>
+  <programme start="20240927214400 +0200" stop="20240927215831 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Juacturm</sub-title>
+    <desc>Die Osteopathie ist eine noch relativ wenig bekannte Technik im Bereich der Physiotherapie. Angelika Renzler ist eine Osteopathin aus Rasen-Antholz und erzählt uns mehr über ihren Beruf, während sie auf den Juacturm in Wolkenstein klettert. Zusammen mit ihrem Bergführer Manfred Stuffer steigt sie über den ausgesetzten Westgrat des Berges, der sich im Naturpark Puez-Geisler befindet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20240927221000 +0200" stop="20240927223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240928180000 +0200" stop="20240928182930 +0200" channel="Rai Südtirol">
+    <title>Privat - Dominik Paris</title>
+    <sub-title/>
+    <desc>Dominik Paris ist einer der erfolgreichsten Skirennläufer der Gegenwart. &quot;Domme&quot; - öffnet Moderator Markus Frings die Türen zu seinem Zuhause in Ulten und gewährt exklusive Einblicke in sein Leben abseits der Pisten. Wir erfahren mehr über die beispiellose Karriere des Abfahrts- und Super-G-Spezialisten, über die beeindruckenden Triumphe auf der legendären &quot;Streif&quot; in Kitzbühel und die Herausforderungen, denen er sich stellen musste. Wir entdecken auch eine andere Seite des Skistars: den leidenschaftlichen Musiker, der in seiner Freizeit zur Gitarre greift und mit seiner Band auftritt. Doch auch die schweren Momente, wie der Verlust seines Bruders, gehören zu seiner Geschichte. Seien Sie dabei, wenn Dominik Paris persönlich wird.</desc>
+  </programme>
+  <programme start="20240928182900 +0200" stop="20240928185830 +0200" channel="Rai Südtirol">
+    <title>Hüttenwirt aus Leidenschaft</title>
+    <sub-title>Max Mutschlechner und seine Fanes-Hütte</sub-title>
+    <desc>Hoch über St. Vigil in Enneberg stößt man mitten in der Abgeschiedenheit der sagenumwobenen
+Kleinfanes-Alm auf eine Berghütte mit langer Geschichte. Die 1928 errichtete einfache Behausung hat sich im Laufe der Zeit zu einer stattlichen Unterkunft gemausert, die nicht nur der Herzensort ihres Besitzers Max Mutschlechner ist, sondern auch sein ganzer Stolz. Obwohl der Alltag in solch einer Einöde auch mit Entbehrungen verbunden ist,
+könnte sich der langjährige Hüttenwirt keinen schöneren Beruf vorstellen. Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation nicht nur mit dem charismatischen ladinischen Gastwirt, sondern auch mit dem besonderen Ort, an dem seine Ücia de Fanes zu finden ist.</desc>
+  </programme>
+  <programme start="20240928200000 +0200" stop="20240928202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240928202100 +0200" stop="20240928202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240928202500 +0200" stop="20240928205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Das neue Gastronomiekonzept Bio Fair Südtirol und die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; im Porträt.
+
+Bio Fair Südtirol, so nennt sich ein neues Gastronomiekonzept vom Verband Bioland Südtirol, das mehr regionale biologische Lebensmittel auf den Teller der Gäste bringen möchte, von der Almwirtschaft bis zur Sternegastronomie. Noch steht das Projekt am Anfang und wird in zehn Südtiroler Gastbetrieben umgesetzt. &quot;Willkommen&quot; war am Ritten im Hotel Apipura, sowie in Walten in Passeier im Hotel Jägerhof.
+Anschließend stellt &quot;Willkommen&quot; die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; vor. Sandra und Thomas vom Restaurant Lodenwirt verraten, wie sie es geschafft haben in Vintl ein Konzept umzusetzen, das ganz unterschiedlichen Gästen gerecht wird. 
+Außerdem sind wir zu Gast bei Stefanie vom Restaurant Gletscherblick in Langtaufers. Hier wird nicht nur auf eine besondere Küche großer Wert gelegt, sondern auch auf einen entsprechenden Service.</desc>
+  </programme>
+  <programme start="20240928221000 +0200" stop="20240928223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
