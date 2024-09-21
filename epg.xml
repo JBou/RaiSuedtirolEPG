@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240920180000 +0200" stop="20240920182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Was ist Heimat? Ein Gefühl, ein Ort, eine Haltung? Und welche Rolle spielt der Heimatbegriff in unserer Gesellschaft? Es moderiert Magdalena Oberstaller.  
-Ist Heimat der Ort, an dem man geboren wurde oder der Ort, an dem Familie und Freunde wohnen? Und was bedeutet Heimat eigentlich für uns als Gesellschaft? All diesen Fragen geht das Südtirol Magazin in dieser Ausgabe nach. 
-In der Rubrik &quot;Unser Gedächtnis&quot;zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966.</desc>
-  </programme>
-  <programme start="20240920182900 +0200" stop="20240920185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Sperrung der Pustertalbahn ab Herbst wird zur Herausforderung. Was tun beim Verlust der Bankomatkarte. Lebensversicherungen mit Kapitalbildung im Check. 
-Die Pustertalbahn steht vor einer großen Herausforderung: Ab Herbst wird die Strecke Franzensfeste-Bruneck für ein Jahr gesperrt. Ein umfassender Schienenersatzverkehr mit Bussen soll die Mobilität der Pendler sicherstellen. Wir haben mit Betroffenen, den Verantwortlichen des Projekts Riggertalschleife und dem Bürgermeister von Bruneck über die geplanten Maßnahmen und die Erwartungen gesprochen.
-Was passiert eigentlich, wenn ich meine Bankomatkarte verliere oder wenn sie mir gestohlen wird? Die gute Nachricht vorweg - die Chancen stehen gut, dass ich mein Geld zurückbekomme, falls ich nichts falsch mache. 
-Wenn die Versicherungsgesellschaft Insolvenz anmeldet, bekomme ich meine Lebensversicherung noch ausbezahlt oder ist mein investiertes Geld verloren? Der Insolvenzfall einer namhaften Gesellschaft, wirft bei betroffenen Südtiroler:innen Fragen auf. 
-Lajen befindet sich zwischen dem Tourismustal Gröden und dem Transittal Eisacktal. Wie funktioniert hier das Zusammenspiel zwischen Handel, Gastronomie mit den anderen Wirtschaftsfaktoren der Gemeinde?</desc>
-  </programme>
-  <programme start="20240920200000 +0200" stop="20240920202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240920202100 +0200" stop="20240920210600 +0200" channel="Rai Südtirol">
-    <title>Oktoberfest</title>
-    <sub-title>Vom Spatenstich bis zum Anstich</sub-title>
-    <desc>Morgen am 21.September beginnt das Münchner Oktoberfest, das größte Volksfest der Welt. Doch die Vorbereitungen bis zum traditionellen &quot;Ozapft is&quot; sind lang und aufwändig. Eine Reportage.
-10 Wochen lang wird auf der Theresienwiese auf Hochtouren gearbeitet, damit das Mammutprojekt Oktoberfest ein Erfolg wird. 5000 Arbeiter aus der ganzen Welt bauen die Zeltstadt auf. Da ist die Kommunikation oft eine Herausforderung. Wir begleiten auch einen Pferdemeister und einen Wiesnwirt, die Einblick in diese spannende Vorbereitungszeit geben. Am Ende aber ist der Oberbürgermeister der Hauptdarsteller, denn mit seinem Fassanstich kann das traditionelle Volksfest endlich beginnen.</desc>
-  </programme>
-  <programme start="20240920210600 +0200" stop="20240920214907 +0200" channel="Rai Südtirol">
-    <title>Berge der Zukunft</title>
-    <sub-title>Vom Mooserboden auf das Kitzsteinhorn</sub-title>
-    <desc>Inmitten von gewaltigen Gipfeln direkt an der Grenze zum Nationalpark Hohe Tauern, liegen die Hochgebirgsstauseen Mooserboden und Wasserfallboden wie Fjorde eingebettet in die Kapruner Berglandschaft. Hier leben im Sommer über 1.000 Tiere auf der Fürthermoa Alm. Und daneben eine der größten aktuellen Hochgebirgsbaustellen in Österreich: Hier entsteht das neue Pumpspeicherkraftwerk Limberg III der Kraftwerksgruppe Kaprun. Wir erleben die schwierigen Bauarbeiten in waghalsiger Höhe und in den Tiefen des Berges die vier Jahreszeiten. Aber wir erfahren auch die Geschichten der Menschen dieser Gegend.</desc>
-  </programme>
-  <programme start="20240920214900 +0200" stop="20240920215907 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten: Tamara und Michael Stauder</title>
-    <sub-title>Kastellane der Churburg</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20240920221000 +0200" stop="20240920223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240921180000 +0200" stop="20240921182930 +0200" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
@@ -269,6 +227,30 @@ Anschließend stellt &quot;Willkommen&quot; die Gewinner des Wettbewerbes &quot;
 Außerdem sind wir zu Gast bei Stefanie vom Restaurant Gletscherblick in Langtaufers. Hier wird nicht nur auf eine besondere Küche großer Wert gelegt, sondern auch auf einen entsprechenden Service.</desc>
   </programme>
   <programme start="20240928221000 +0200" stop="20240928223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240929200000 +0200" stop="20240929202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240929202100 +0200" stop="20240929205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Höhlenforschung auf der Sennesalm, ein Projekt zum Haselnuss-Anbau in Südtirol, Permafrost-Schutz auf der Tofana im Trentino.
+
+In dieser Ausgabe folgen wir Innsbrucker Höhlenforschern auf die Sennesalm, die dort seit Jahren Eishöhlen erforschen und seltene Kristalle gefunden haben. 
+Zudem präsentieren wir das Projekt des Süßwarenunternehmens Loacker und des Versuchszentrums Laimburg, in dem der Anbau von Haselnüssen in Südtirol erforscht wird. 
+Schließlich präsentieren wir ein Pilotprojekt auf der Tofana, wo das Fundament der Bergstation des Sesselliftes eingefroren wird, um den Permafrost zu schützen.</desc>
+  </programme>
+  <programme start="20240929205000 +0200" stop="20240929205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20240929221000 +0200" stop="20240929223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
