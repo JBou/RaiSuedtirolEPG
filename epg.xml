@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240922200000 +0200" stop="20240922202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240922202100 +0200" stop="20240922205030 +0200" channel="Rai Südtirol">
-    <title>Privat - Dominik Paris</title>
-    <sub-title/>
-    <desc>Dominik Paris ist einer der erfolgreichsten Skirennläufer der Gegenwart. &quot;Domme&quot; - öffnet Moderator Markus Frings die Türen zu seinem Zuhause in Ulten und gewährt exklusive Einblicke in sein Leben abseits der Pisten. 
-
-Wir erfahren mehr über die beispiellose Karriere des Abfahrts- und Super-G-Spezialisten, über die beeindruckenden Triumphe auf der legendären &quot;Streif&quot; in Kitzbühel und die Herausforderungen, denen er sich stellen musste. Wir entdecken auch eine andere Seite des Skistars: den leidenschaftlichen Musiker, der in seiner Freizeit zur Gitarre greift und mit seiner Band auftritt. Doch auch die schweren Momente, wie der Verlust seines Bruders, gehören zu seiner Geschichte. Seien Sie dabei, wenn Dominik Paris persönlich wird.</desc>
-  </programme>
-  <programme start="20240922205000 +0200" stop="20240922205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240922221000 +0200" stop="20240922223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240923180000 +0200" stop="20240923181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
