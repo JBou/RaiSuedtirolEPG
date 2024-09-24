@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240923180000 +0200" stop="20240923181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Nach einem holprigen Saisonstart will der Bozner FC in der vierten Oberliga-Runde im Heimspiel gegen Aufsteiger SSV Brixen wieder auf die Erfolgsspur zurückkehren. In der Landesliga empfängt der SSV Bruneck in Reischach Salurn, während Aufsteiger Tscherms Marling auf Gitschberg Jochtal trifft.</desc>
-  </programme>
-  <programme start="20240923181400 +0200" stop="20240923183400 +0200" channel="Rai Südtirol">
-    <title>Zipp - Karate</title>
-    <sub-title/>
-    <desc>In dieser Folge der &quot;Sportkids&quot; stellen sportbegeisterte Kinder aus Mühlbach ihren Lieblingssport vor: Karate. Die asiatische Kampfsportart ist keine Schlägerausbildung - ganz im Gegenteil. Karate ist Körperbewusstsein und Selbstverteidigung - und es lehrt Selbstdisziplin und Verantwortungsbewusstsein. Eine perfekte Sportart, um nach der Schule abzuschalten und auszupowern.</desc>
-  </programme>
-  <programme start="20240923183400 +0200" stop="20240923185830 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Traktortherapie hilft Kindern mit neurologischen Schäden. Sie werden wacher und beweglicher. Ärzte und Therapeuten staunen. Das ist nur eines der Themen in Alpen Donau Adria.
-Ein Traktor ist ein ungewöhnliches Hilfsmittel für Therapien.  Aber das Tuckern, Rütteln und Schütteln zeigt bei Kindern mit neurologischen Schäden aus medizinischer Sicht überraschend Wirkung. Harald Leerkamp, Physiotherapeut und Traktorfahrer, ist schon mit vielen Kindern auf dem Traktor gesessen. Er hat beobachtet, dass Kinder plötzlich Bewegungen können, die für sie vorher undenkbar waren. Die 6jährige Sveja erlitt zum Beispiel vor zwei Jahren einen Unfall mit schweren Kopfverletzungen.  Jetzt kann sie im Anhänger während der Fahrt alleine stehen. &quot;Traktortherapie für Kinder&quot; ist nur eines der Themen bei Alpen Donau Adria, präsentiert von Sigrid Flenger.</desc>
-  </programme>
-  <programme start="20240923200000 +0200" stop="20240923202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240923202000 +0200" stop="20240923205830 +0200" channel="Rai Südtirol">
-    <title>Grüne Begleiter - Der Herbst</title>
-    <sub-title/>
-    <desc>Von den saftigen Beeren an den Wildsträuchern über die Früchte exotischer Baumarten bis hin zu den alten Apfel- und Birnensorten in den Streuobstwiesen: Der Herbst ist die Zeit der Ernte.
-Er ist aber auch eine Zeit vielfältiger farbiger Kontraste, die in der Natur ihre ganze Schönheit entfalttn. Das tiefe Blau des Himmels kontrastiert mit dem leuchtenden Orange der herbstlichen Lärchenweiden, das satte Rot des Kirschlaubs mit dem tiefen Grün der Nadelwälder. Das Leben der Bäume entfaltet sich noch einmal in aller Fülle und bereitet sich zugleich auf kältere, dunklere Zeiten vor.</desc>
-  </programme>
-  <programme start="20240923205900 +0200" stop="20240923215930 +0200" channel="Rai Südtirol">
-    <title>Romano Artioli</title>
-    <sub-title>Der letzte große Träumer</sub-title>
-    <desc>Bugatti und Lotus verdanken ihr aktives Dasein im Olymp der Autowelt einem Mann, dessen Erfolgsgeschichte in Bozen beginnt: Romano Artioli. Eine Dokumentation von Thomas Perathoner.
-Der heute 91jährige Romano Artioli war ein Visionär, den Experten zu Recht in einem Atemzug mit Ikonen wie Enzo Ferrari und Ferruccio Lamborghini oder Carol Shelby nennen. Der Film erzählt die Etappen eines außergewöhnlichen Lebens, von den Anfängen im Südtirol der Nachkriegszeit bis zu den Seiten automobiler Weltgeschichte, die er dank seiner unbeugsamen Vision geschrieben hat. Internationale Experten und Weggefährten kommen zu Wort und erinnern an den letzten großen Träumer und Visionär im Bereich Luxuswagen.</desc>
-  </programme>
-  <programme start="20240923221000 +0200" stop="20240923223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240924200000 +0200" stop="20240924202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
