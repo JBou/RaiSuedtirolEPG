@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240925200000 +0200" stop="20240925202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240925202000 +0200" stop="20240925204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Alte Birnensorten wiederentdeckt: Kulturgeschichte und Kulinarik rund um die Vinschger Palabirne und die Verdingser Ferchbirne. Außerdem: Die Wechselwirkung zwischen Darm und Gehirn.
-
-Zwei alte, lokaltypische Birnensorten erfahren seit einigen Jahren eine Wiederbelebung. Im kleinen Eisacktaler Dorf Verdings pflanzen die Bauern wieder junge Ferchbirnbäume. Aus den Birnen produzieren sie das hochwertige Birmehl, das für kulinarische Spezialitäten verwendet wird. In Glurns setzten sich engagierte Leute für den Erhalt der landschaftsprägenden Palabirnbäume ein und bewahren damit eine über die Jahrhunderte gewachsene bäuerliche Tradition. 
-Die Darm-Hirn-Achse spielt eine bisher weitgehend unterschätzte Rolle. Neuere Forschungen belegen, dass Darm und Gehirn intensiv miteinander kommunizieren. Was wir essen und wie wir leben, beeinflusst nicht nur unsere Verdauung, sondern prägt auch unser Denken und Fühlen. Über das spannende Zusammenwirken zwischen Darm und Gehirn spricht der weltweit bekannte Darmspezialist Emeran Mayer. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240925221000 +0200" stop="20240925223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240926200000 +0200" stop="20240926202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
