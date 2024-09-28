@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240927180000 +0200" stop="20240927182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Unsere Schlösser und Burgen zeugen von der einstigen bedeutung des Adels. Wie hat sich dieser im Laufe der Jahrhunderte verändert? Es moderiert Karin Gschnitzer. In Südtirol gibt es etwa 800 Schlösser und Burgen, konzentriert wie nirgendwo sonst in Europa. Sie zeugen von einem einst mächtigen Gesellschaftsstand, dessen Nachfahren heute im Spagat zwischen Vergangenem und Künftigem leben. Wie sich der Einfluss des Adels im Laufe der Jahrhunderte verändert hat, besprechen wir mit der Historikerin Siglinde Clementi. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben außerdem einen Einblick in die Arbeitsbereiche der Bezirksgemeinschaft Pustertal.</desc>
-  </programme>
-  <programme start="20240927182900 +0200" stop="20240927185747 +0200" channel="Rai Südtirol">
-    <title>50 Jahre Naturpark Schlern-Rosengarten</title>
-    <sub-title>Lebendiges Erbe der Dolomiten</sub-title>
-    <desc>Der älteste seiner Art in Südtirol - und doch voller Leben. Der Film ist eine Reise durch die atemberaubende Landschaft und die beeindruckende Artenvielfalt dieses Schutzgebiets. Doch der Naturpark ist mehr als nur ein Ort von Naturschönheit. Er ist auch ein Ort der Begegnung und der Geschichte. Die Menschen, die hier leben, haben über Generationen hinweg eine einzigartige Beziehung zu dieser Gegend entwickelt. Diese Beziehung ist geprägt von Respekt, Tradition und Nachhaltigkeit. Die Dokumentation beleuchtet auch die aktuellen Herausforderungen des Naturparks zwischen Tourismus und Naturschutz.
-Der Film von Martin Telser ist eine faszinierende Reise durch Vergangenheit, Gegenwart und Zukunft des Naturparks Schlern-Rosengarten.</desc>
-  </programme>
-  <programme start="20240927200000 +0200" stop="20240927202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240927202100 +0200" stop="20240927205903 +0200" channel="Rai Südtirol">
-    <title>Musigzeit - Simon Rabanser &amp; Mac Maya</title>
-    <sub-title/>
-    <desc>Die Musiker Simon Rabanser und Mac Maya (Markus Mayr) haben ihre Passion zum Hauptberuf gemacht und gehen mittlerweile musikalisch ihren ganz eigenen Weg. 
-
-Sie geben sich nicht mit Live-Auftritten und ein paar Single-Produktionen zufrieden, sondern haben erkannt, dass das Musikbusiness in stetiger Veränderung ist, sich immer wieder weiterentwickelt. Mit diesen Trends gehen die beiden mit und positionieren sich im Musikmarkt und den sozialen Medien mit ihrem ganz individuellen Stil.</desc>
-  </programme>
-  <programme start="20240927210000 +0200" stop="20240927214435 +0200" channel="Rai Südtirol">
-    <title>Familie heute</title>
-    <sub-title>Vielfältig. Vereinsamt. Vernetzt.</sub-title>
-    <desc>Lange lagen die Geburtenzahlen in Südtirol stabil bei 5000 Babys im Jahr. 2023 waren es nur mehr 4700. Was sind die Gründe für den Geburtenschwund? Ein Film von Astrid Kofler und Günther Neumair. Die beiden Filmemacher hinterfragen, welchen Herausforderungen sich Familien heute stellen müssen, wo Überforderung stattfindet, wo Familie und Beruf nicht mehr vereinbar sind. Welche Werte zählen heute noch? Warum ist das Modell Kleinfamilie so schwierig? Warum wird Sorgearbeit wenig anerkannt? Manche sehen das Ende der Familie gekommen. Verändert hat sich Familie aber schon immer. Vielfalt ist die Voraussetzung für ihr Überleben. Der Familienpolitik muss aber auch ein höherer Stellenwert, der Elternarbeit mehr Wertschätzung eingeräumt werden.</desc>
-  </programme>
-  <programme start="20240927214400 +0200" stop="20240927215831 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Juacturm</sub-title>
-    <desc>Die Osteopathie ist eine noch relativ wenig bekannte Technik im Bereich der Physiotherapie. Angelika Renzler ist eine Osteopathin aus Rasen-Antholz und erzählt uns mehr über ihren Beruf, während sie auf den Juacturm in Wolkenstein klettert. Zusammen mit ihrem Bergführer Manfred Stuffer steigt sie über den ausgesetzten Westgrat des Berges, der sich im Naturpark Puez-Geisler befindet. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20240927221000 +0200" stop="20240927223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240928180000 +0200" stop="20240928182930 +0200" channel="Rai Südtirol">
     <title>Privat - Dominik Paris</title>
     <sub-title/>
@@ -282,6 +243,31 @@ Auch Roberto Ghiozzi berichtet von seinen Erfahrungen als Musiktherapeut: mit Kr
 Musik kann heilen - Lärm kann krank machen: Wie wichtig eine gute Raumakustik in Büros, Restaurants und Schulen ist, erklärt die Architektin Christina Niederstätter.</desc>
   </programme>
   <programme start="20241005221000 +0200" stop="20241005223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241006200000 +0200" stop="20241006202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241006202000 +0200" stop="20241006204930 +0200" channel="Rai Südtirol">
+    <title>dF - Das Frauenmagazin</title>
+    <sub-title/>
+    <desc>Frauenfreundschaften und warum sie der ganzen Gesellschaft guttun. Simonetta Nardin, eine Frau, die in die weite Welt gezogen ist und ihre Wurzeln dennoch nie verloren hat. 
+
+Es ist wie Liebe auf den ersten Blick. Oder wie eine Wahlverwandtschaft: Eine Freundschaft unter Frauen zeichnet sich dadurch aus, dass frau sich ohne viele Worte versteht, sich sicher und verbunden fühlt und damit ein Stück weit auch ihr seelisches Gleichgewicht in Balance bringt. 
+dF geht der Frage nach, was genau Frauen-Freundschaften auszeichnet und warum Sisterhood, sprich der Zusammenhalt unter Frauen, nicht nur den Einzelnen guttut, sondern der ganzen Gesellschaft.
+Im dF Portrait - Simonetta Nardin. Von einer internationalen Schaltzentrale der Macht zurück ins heimatliche Bozen: Diesen Schritt hat die ehemalige Leiterin des Pressebüros des Internationalen Währungsfonds in Washington vor sechs Jahren gemacht. Hier bringt sie ihre Erfahrungen und ihr Wissen ehrenamtlich in der Kulturszene ein, im Engagement gegen Gewalt an Frauen, aber auch als Aktivistin. 
+In df Info: No woman no panel - mehr Sichtbarkeit für Frauen im öffentlichen Diskurs. Und  Finanzwirtin, Autorin und Karrierecoach Susan J. Moldenhauer spricht über Frauen und Finanzen.</desc>
+  </programme>
+  <programme start="20241006205000 +0200" stop="20241006205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241006221000 +0200" stop="20241006223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
