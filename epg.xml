@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240928180000 +0200" stop="20240928182930 +0200" channel="Rai Südtirol">
-    <title>Privat - Dominik Paris</title>
-    <sub-title/>
-    <desc>Dominik Paris ist einer der erfolgreichsten Skirennläufer der Gegenwart. &quot;Domme&quot; - öffnet Moderator Markus Frings die Türen zu seinem Zuhause in Ulten und gewährt exklusive Einblicke in sein Leben abseits der Pisten. Wir erfahren mehr über die beispiellose Karriere des Abfahrts- und Super-G-Spezialisten, über die beeindruckenden Triumphe auf der legendären &quot;Streif&quot; in Kitzbühel und die Herausforderungen, denen er sich stellen musste. Wir entdecken auch eine andere Seite des Skistars: den leidenschaftlichen Musiker, der in seiner Freizeit zur Gitarre greift und mit seiner Band auftritt. Doch auch die schweren Momente, wie der Verlust seines Bruders, gehören zu seiner Geschichte. Seien Sie dabei, wenn Dominik Paris persönlich wird.</desc>
-  </programme>
-  <programme start="20240928182900 +0200" stop="20240928185830 +0200" channel="Rai Südtirol">
-    <title>Hüttenwirt aus Leidenschaft</title>
-    <sub-title>Max Mutschlechner und seine Fanes-Hütte</sub-title>
-    <desc>Hoch über St. Vigil in Enneberg stößt man mitten in der Abgeschiedenheit der sagenumwobenen
-Kleinfanes-Alm auf eine Berghütte mit langer Geschichte. Die 1928 errichtete einfache Behausung hat sich im Laufe der Zeit zu einer stattlichen Unterkunft gemausert, die nicht nur der Herzensort ihres Besitzers Max Mutschlechner ist, sondern auch sein ganzer Stolz. Obwohl der Alltag in solch einer Einöde auch mit Entbehrungen verbunden ist,
-könnte sich der langjährige Hüttenwirt keinen schöneren Beruf vorstellen. Die Filmemacher Claudia Bosch und Hans Peter Karbon beschäftigen sich in ihrer Dokumentation nicht nur mit dem charismatischen ladinischen Gastwirt, sondern auch mit dem besonderen Ort, an dem seine Ücia de Fanes zu finden ist.</desc>
-  </programme>
-  <programme start="20240928200000 +0200" stop="20240928202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240928202100 +0200" stop="20240928202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240928202500 +0200" stop="20240928205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Das neue Gastronomiekonzept Bio Fair Südtirol und die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; im Porträt.
-
-Bio Fair Südtirol, so nennt sich ein neues Gastronomiekonzept vom Verband Bioland Südtirol, das mehr regionale biologische Lebensmittel auf den Teller der Gäste bringen möchte, von der Almwirtschaft bis zur Sternegastronomie. Noch steht das Projekt am Anfang und wird in zehn Südtiroler Gastbetrieben umgesetzt. &quot;Willkommen&quot; war am Ritten im Hotel Apipura, sowie in Walten in Passeier im Hotel Jägerhof.
-Anschließend stellt &quot;Willkommen&quot; die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; vor. Sandra und Thomas vom Restaurant Lodenwirt verraten, wie sie es geschafft haben in Vintl ein Konzept umzusetzen, das ganz unterschiedlichen Gästen gerecht wird. 
-Außerdem sind wir zu Gast bei Stefanie vom Restaurant Gletscherblick in Langtaufers. Hier wird nicht nur auf eine besondere Küche großer Wert gelegt, sondern auch auf einen entsprechenden Service.</desc>
-  </programme>
-  <programme start="20240928221000 +0200" stop="20240928223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240929200000 +0200" stop="20240929202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
