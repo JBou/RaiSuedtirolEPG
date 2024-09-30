@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240929200000 +0200" stop="20240929202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240929202100 +0200" stop="20240929205030 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Höhlenforschung auf der Sennesalm, ein Projekt zum Haselnuss-Anbau in Südtirol, Permafrost-Schutz auf der Tofana im Trentino.
-
-In dieser Ausgabe folgen wir Innsbrucker Höhlenforschern auf die Sennesalm, die dort seit Jahren Eishöhlen erforschen und seltene Kristalle gefunden haben. 
-Zudem präsentieren wir das Projekt des Süßwarenunternehmens Loacker und des Versuchszentrums Laimburg, in dem der Anbau von Haselnüssen in Südtirol erforscht wird. 
-Schließlich präsentieren wir ein Pilotprojekt auf der Tofana, wo das Fundament der Bergstation des Sesselliftes eingefroren wird, um den Permafrost zu schützen.</desc>
-  </programme>
-  <programme start="20240929205000 +0200" stop="20240929205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240929221000 +0200" stop="20240929223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20240930180000 +0200" stop="20240930181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
