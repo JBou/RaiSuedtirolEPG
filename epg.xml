@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20240930180000 +0200" stop="20240930181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 5. Spieltag der Fußball-Oberliga empfängt Obermais auf der Lahn den Bozner FC. Die Meraner zählen heuer zu den Meisterschaftsfavoriten, das Saisonziel der Talferstädter ist hingegen der Klassenerhalt.  
-In der Landeliga kommt es zu zwei spannenden Duellen: Naturns trifft im Vinschger Derby zu Hause auf Latsch, Kiens hat im Pusterer Derby den SSV Bruneck zu Gast.</desc>
-  </programme>
-  <programme start="20240930181400 +0200" stop="20240930182830 +0200" channel="Rai Südtirol">
-    <title>Zipp - Kochen kinderleicht</title>
-    <sub-title/>
-    <desc>In dieser Folge von &quot;Kochen kinderleicht&quot; bereiten Hannah und Köchin Martina eine Kürbis-Apfel-Suppe zu. Kürbisse reifen im Herbst und lassen sich bis weit in den Winter hinein gut lagern. Unsere beiden Köchinnen verkochen den ursprünglich aus Japan stammenden Hokkaido-Kürbis, denn er schmeckt süß und man kann ihn mit der Schale essen. So entfällt das für Kinder etwas schwierige Schälen dieses harten Gemüses.</desc>
-  </programme>
-  <programme start="20240930182900 +0200" stop="20240930185830 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben - Magazin für Landwirtschaft</title>
-    <sub-title/>
-    <desc>Alte Birnensorten wiederentdeckt: Kulturgeschichte und Kulinarik rund um die Vinschger Palabirne und die Verdingser Ferchbirne. Außerdem: Die Wechselwirkung zwischen Darm und Gehirn. Zwei alte, lokaltypische Birnensorten erfahren seit einigen Jahren eine Wiederbelebung. Im kleinen Eisacktaler Dorf Verdings pflanzen die Bauern wieder junge Ferchbirnbäume. Aus den Birnen produzieren sie das hochwertige Birmehl, das für kulinarische Spezialitäten verwendet wird. In Glurns setzten sich engagierte Leute für den Erhalt der landschaftsprägenden Palabirnbäume ein und bewahren damit eine über die Jahrhunderte gewachsene bäuerliche Tradition. 
-Die Darm-Hirn-Achse spielt eine bisher weitgehend unterschätzte Rolle. Neuere Forschungen belegen, dass Darm und Gehirn intensiv miteinander kommunizieren. Was wir essen und wie wir leben, beeinflusst nicht nur unsere Verdauung, sondern prägt auch unser Denken und Fühlen. Über das spannende Zusammenwirken zwischen Darm und Gehirn spricht der weltweit bekannte Darmspezialist Emeran Mayer. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20240930200000 +0200" stop="20240930202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20240930202000 +0200" stop="20240930212000 +0200" channel="Rai Südtirol">
-    <title>Kompass - Szenen der Kultur</title>
-    <sub-title/>
-    <desc>Die Theatergruppe &quot;voLL kReatiV...voLL iNklusiV&quot; des Südtiroler Theaterverbandes auf Tournee. Die 7 Tage von Mariahaim - ein interaktives Stück über den Sehnsuchtsort Heimat. Moderation: Alex Lechner.
-Das sprach-, bezirks- und generationsübergreifende Theaterprojekt vereint Menschen mit und ohne Beeinträchtigung. Anhand des Kunstmärchens &quot;Der kleine Prinz&quot; zeigt die Truppe, dass Theater Menschen verbindet und gelebte Inklusion ermöglicht.
-Als Co-Produktion mit Transart24 zeigen die Vereinigten Bühnen Bozen &quot;Die 7 Tage von Mariahaim&quot;, eine adaptierte Version des Stückes &quot;Das Dorf&quot;. Die Besucher:innen begeben sich auf die Suche und ergründen Fragen nach Fremde, Gewalt, Liebe und Schuld. Im Zentrum der Inszenierung steht die Lust am Spiel und das Einbezogen-Sein des Publikums in die Performance: Statt durch Zwang eröffnet sich der interaktive Handlungsspielraum durch Empathie, ungewöhnliche Rollenbesetzung und vor allem durch das Gespräch zwischen Publikum und Darsteller:innen.
-Weitere Themen in Kompass: Die Ausstellung zum Thema &quot;Heimat&quot; bei SKB Artes, das neue Buch von Ralf Höller über &quot;Die Bauernkriege 1525/1526&quot;  und ein Portrait des jungen Künstlers Lorenz Wenter. 
-Zu Gast sind Peter Silbernagl, Direktor des Südtiroler Kulturinstitutes, und Sabrina Fraternali von AlpsMove.</desc>
-  </programme>
-  <programme start="20240930212100 +0200" stop="20240930214700 +0200" channel="Rai Südtirol">
-    <title>Zwischengas - Eine filmische Kolumne</title>
-    <sub-title/>
-    <desc>Was haben Jodeln und Rappen mit der Südtiroler Einsilbigkeit zu tun? Angelika König und Simone Mayr sinnieren über Wortkargheit und Sprachlosigkeit zwischen unseren Berggipfeln und fragen sich, ob das Jodeln Ausdruck davon ist? Die Abfolge von textfreien Silben, die ganz ohne Worte daherkommt, passt gut zu unserer Einsilbigkeit und ist vielleicht sogar ein Relikt aus Ötzis Zeiten. Mit ihrer Alfa Giulia treffen sie die beiden Sängerinnen Heidi Clementi und Brigitte Knapp im urbanen Raum, in Bozens Manhattan, und spannen dann den Bogen zum Rappen im Dialekt.</desc>
-  </programme>
-  <programme start="20240930214700 +0200" stop="20240930215950 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum - MMM Ripa</title>
-    <sub-title/>
-    <desc>Schloss Bruneck, einst Sommerresidenz der Fürstbischöfe, ist heute das MMM Ripa. Es ist eines der sechs Museen von Reinhold Messner und widmet sich den Bergkulturen aus aller Welt. 
-Ziel des Museums ist es, eine Botschaft des Respekts und des Verständnisses für die unterschiedlichen Bergvölker zu vermitteln. Ihre Herausforderungen, ihre Traditionen und ihr harmonisches Verhältnis zur Natur. Durch Ausstellungen und Schautafeln erzählt das MMM Ripa Geschichten vom Leben und Überleben und unterstreicht die Bedeutung der kulturellen und ökologischen Erhaltung der Berge. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20240930221100 +0200" stop="20240930223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241001200000 +0200" stop="20241001202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
