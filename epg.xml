@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241001200000 +0200" stop="20241001202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241001202000 +0200" stop="20241001203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241001203500 +0200" stop="20241001204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 5. Spieltag der Fußball-Oberliga empfängt Obermais auf der Lahn den Bozner FC. Die Meraner zählen heuer zu den Meisterschaftsfavoriten, das Saisonziel der Talferstädter ist hingegen der Klassenerhalt.  
-In der Landeliga kommt es zu zwei spannenden Duellen: Naturns trifft im Vinschger Derby zu Hause auf Latsch, Kiens hat im Pusterer Derby den SSV Bruneck zu Gast.</desc>
-  </programme>
-  <programme start="20241001221000 +0200" stop="20241001223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241002200000 +0200" stop="20241002202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
