@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241002200000 +0200" stop="20241002202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241002202000 +0200" stop="20241002205000 +0200" channel="Rai Südtirol">
-    <title>Trend - Das Wirtschaftsmagazin</title>
-    <sub-title/>
-    <desc>Wasserstoff-Speichersysteme von GKN Hydrogen für die Speicherung von Strom in abgelegenen Orten. Der Genussbunker in Montal. Christian Girardi vom Global Forum Südtirol im Portrait.
-
-Die O2-Energiespeicher von GKN Hydrogen in Bruneck sind eigentlich kleine Kraftwerke und wurden maßgeblich im Pustertal entwickelt. Sie werden weltweit und besonders an abgelegenen Orten eingesetzt, an denen kein Anschluss an das öffentliche Stromnetz möglich ist, z.B. auf Schutzhütten.
-Vergleichsweise mit wenig Energie kommt Hubert Stockner in seinem Betrieb aus: Er ist Affineur und verfeinert Käse, indem er ihn in einem Stollen lagert - in einer Bunkeranlage in Montal. Mit seinem Genussbunker und den darin gereiften Spezialitäten überzeugt Stockner mittlerweile Gourmets und Sterne-Köche weit über Südtirol hinaus.
-Mit Themen von weltweiter wirtschaftlicher Relevanz beschäftigt sich das Global Forum Südtirol. Christian Girardi hat die Organisation und die jährliche Tagung in der Eurac vor Jahren aus der Taufe gehoben. Immer wieder gelingt es dem rührigen Netzwerker, renommierte Wissenschaftler und Vordenker nach Südtirol zu holen, um über entscheidende Zukunftsfragen zu diskutieren. In Trend gehen wir der Frage nach, was Christian Girardi antreibt.</desc>
-  </programme>
-  <programme start="20241002221000 +0200" stop="20241002223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241003200000 +0200" stop="20241003202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
