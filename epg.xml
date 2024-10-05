@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241004180000 +0200" stop="20241004182930 +0200" channel="Rai Südtirol">
-    <title>Das Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Einfach leben, unabhängig sein. Das ist eine Sehnsucht, die viele Menschen teilen. Einige wagen auch diesen Schritt, lassen ihr Leben hinter sich und gestalten ihre Zukunft neu. Aussteigen aus gewohnten Lebensentwürfen erfordert Mut und Engagement. Im Gespräch erzählt Lea Lausch über ihren persönlichen Werdegang und was sie besonders viel Mut gekostet hat. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir satirische Bilder aus dem Amt für Film und Medien und besuchen die Firma Microtec in Brixen. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241004182900 +0200" stop="20241004185830 +0200" channel="Rai Südtirol">
-    <title>Trend - Das Wirtschaftsmagazin</title>
-    <sub-title/>
-    <desc>Wasserstoff-Speichersysteme von GKN Hydrogen für die Speicherung von Strom in abgelegenen Orten. Der Genussbunker in Montal. Christian Girardi vom Global Forum Südtirol im Portrait. Die O2-Energiespeicher von GKN Hydrogen in Bruneck sind eigentlich kleine Kraftwerke und wurden maßgeblich im Pustertal entwickelt. Sie werden weltweit und besonders an abgelegenen Orten eingesetzt, an denen kein Anschluss an das öffentliche Stromnetz möglich ist, z.B. auf Schutzhütten.
-Vergleichsweise mit wenig Energie kommt Hubert Stockner in seinem Betrieb aus: Er ist Affineur und verfeinert Käse, indem er ihn in einem Stollen lagert - in einer Bunkeranlage in Montal. Mit seinem Genussbunker und den darin gereiften Spezialitäten überzeugt Stockner mittlerweile Gourmets und Sterne-Köche weit über Südtirol hinaus.
-Mit Themen von weltweiter wirtschaftlicher Relevanz beschäftigt sich das Global Forum Südtirol. Christian Girardi hat die Organisation und die jährliche Tagung in der Eurac vor Jahren aus der Taufe gehoben. Immer wieder gelingt es dem rührigen Netzwerker, renommierte Wissenschaftler und Vordenker nach Südtirol zu holen, um über entscheidende Zukunftsfragen zu diskutieren. In Trend gehen wir der Frage nach, was Christian Girardi antreibt.</desc>
-  </programme>
-  <programme start="20241004200000 +0200" stop="20241004202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241004202100 +0200" stop="20241004212100 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol - Unterwegs im Land</title>
-    <sub-title/>
-    <desc>Max von Milland tritt in die Pedale und wächst über die eigenen Grenzen hinaus  - und Karin Duregger trifft auf Menschen, die ihr persönliches Lebensglück gefunden haben.
-
-Max von Milland startet eine neue Challenge: Max gegen Radrennprofi Eva Lechner. Die Herausforderung: Beide starten zeitgleich im Osten Südtirols, in Innichen. Wer zuerst das westlichste Dorf Südtirols, Reschen, erreicht, gewinnt.
-Karin Duregger hingegen trifft auf Menschen, die ihre ganz persönliche Reise und den Weg zum Glück angetreten haben und dies konstant weiter tun, denn - so sagen sie - Glück ist eine Lebenseinstellung, ein Prozess gleichermaßen. Ihm muss auch immer wieder die Tür geöffnet werden. Darüber erzählen eine Behindertenaktivistin, ein Innenarchitekten und ein indischer Hüttenwirt im Sarntal.</desc>
-  </programme>
-  <programme start="20241004212100 +0200" stop="20241004215030 +0200" channel="Rai Südtirol">
-    <title>Willkommen - sehen. entdecken. genießen.</title>
-    <sub-title/>
-    <desc>Das neue Gastronomiekonzept Bio Fair Südtirol und die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; im Porträt. Bio Fair Südtirol, so nennt sich ein neues Gastronomiekonzept vom Verband Bioland Südtirol, das mehr regionale biologische Lebensmittel auf den Teller der Gäste bringen möchte, von der Almwirtschaft bis zur Sternegastronomie. Noch steht das Projekt am Anfang und wird in zehn Südtiroler Gastbetrieben umgesetzt. &quot;Willkommen&quot; war am Ritten im Hotel Apipura, sowie in Walten in Passeier im Hotel Jägerhof.
-Anschließend stellt &quot;Willkommen&quot; die Gewinner des Wettbewerbes &quot;Südtirols beliebteste Restaurants und Gasthäuser&quot; vor. Sandra und Thomas vom Restaurant Lodenwirt verraten, wie sie es geschafft haben in Vintl ein Konzept umzusetzen, das ganz unterschiedlichen Gästen gerecht wird. 
-Außerdem sind wir zu Gast bei Stefanie vom Restaurant Gletscherblick in Langtaufers. Hier wird nicht nur auf eine besondere Küche großer Wert gelegt, sondern auch auf einen entsprechenden Service.</desc>
-  </programme>
-  <programme start="20241004215000 +0200" stop="20241004215553 +0200" channel="Rai Südtirol">
-    <title>Barfuß durch das Feuer</title>
-    <sub-title/>
-    <desc>Andreas Fischer, diplomierter Sportlehrer und Mentalcoach aus Klerant bei Brixen, ist Südtirols einziger Feuerlauftrainer. In einem 3-4 stündigen Ritual bereitet er Privatpersonen, Fußballmannschaften und Firmen darauf vor, barfuß über 500 Grad heiße Kohlen zu laufen.
-Nach dem gemeinsamen Aufbau und Anzünden des Holzmeilers, führt Andreas die Teilnehmer:innen mental durch die Herausforderung. Keiner hat bisher einen Rückzieher gemacht. Die emotionalen Reaktionen reichen von Umarmungen bis hin zu Freudentränen. Sicherheit ist dabei oberste Priorität: Die Veranstaltung wird bei örtlichen Feuerwehren und der Landesnotrufzentrale gemeldet.</desc>
-  </programme>
-  <programme start="20241004221000 +0200" stop="20241004223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241005180000 +0200" stop="20241005185900 +0200" channel="Rai Südtirol">
     <title>Kompass - Szenen der Kultur</title>
     <sub-title/>
@@ -274,6 +230,28 @@ Das Thema der mentalen Gesundheit hält zunehmend Einzug in die Gesellschaft. Vo
 Ein spirituelles Leben zu führen bedeutet, nach einem höheren Ziel zu streben, sich Zeit zu nehmen für Stille und Reflexion. Möglich wird dies auch durch ein bewusstes Wandern - das Pilgern. Zwei ehrenamtliche Pilgerbegleiter erzählen, warum sie dreimal monatlich zu Pilgerwegen durch Südtirol einladen.</desc>
   </programme>
   <programme start="20241012221000 +0200" stop="20241012223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241013200000 +0200" stop="20241013202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241013202000 +0200" stop="20241013204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Schluderns</sub-title>
+    <desc>Zu Besuch im Vintschger Museum, beim neuen Burgherrn der Churburg und bei den alljährlichen Schludernser Ritterspielen. Außerdem lauschen wir den Stimmen des Männerchores.
+Seit nunmehr 25 Jahren befasst sich das &quot;Vintschger Museum&quot; - das Vuseum - mit markanten Themen des Vinschgaus. Vom Ur-Schludernser zum Lappenbeil bis hin zum Korrnerwagen - in &quot;Land und Leute&quot; zeigen wir die Vielfalt und einige verborgene Schätze des Talmuseums im Ortskern von Schluderns. Es wird auch gesungen: Der Männerchor versammelt sich um Robert Ruepp, ehemaliger Chorleiter und Dorfchronist.
+Ein Besuch auf der Churburg mit Graf Gaudenz Trapp, in der urigen Burgschänke und bei den Schludernser Ritterspielen runden das Dorfporträt ab.</desc>
+  </programme>
+  <programme start="20241013204500 +0200" stop="20241013204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Timm Harder</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241013221000 +0200" stop="20241013223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
