@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241005180000 +0200" stop="20241005185900 +0200" channel="Rai Südtirol">
-    <title>Kompass - Szenen der Kultur</title>
-    <sub-title/>
-    <desc>Die Theatergruppe &quot;voLL kReatiV...voLL iNklusiV&quot; des Südtiroler Theaterverbandes auf Tournee. Die 7 Tage von Mariahaim - ein interaktives Stück über den Sehnsuchtsort Heimat. Moderation: Alex Lechner.
-Das sprach-, bezirks- und generationsübergreifende Theaterprojekt vereint Menschen mit und ohne Beeinträchtigung. Anhand des Kunstmärchens &quot;Der kleine Prinz&quot; zeigt die Truppe, dass Theater Menschen verbindet und gelebte Inklusion ermöglicht.
-Als Co-Produktion mit Transart24 zeigen die Vereinigten Bühnen Bozen &quot;Die 7 Tage von Mariahaim&quot;, eine adaptierte Version des Stückes &quot;Das Dorf&quot;. Die Besucher:innen begeben sich auf die Suche und ergründen Fragen nach Fremde, Gewalt, Liebe und Schuld. Im Zentrum der Inszenierung steht die Lust am Spiel und das Einbezogen-Sein des Publikums in die Performance: Statt durch Zwang eröffnet sich der interaktive Handlungsspielraum durch Empathie, ungewöhnliche Rollenbesetzung und vor allem durch das Gespräch zwischen Publikum und Darsteller:innen.
-Weitere Themen in Kompass: Die Ausstellung zum Thema &quot;Heimat&quot; bei SKB Artes, das neue Buch von Ralf Höller über &quot;Die Bauernkriege 1525/1526&quot;  und ein Portrait des jungen Künstlers Lorenz Wenter. 
-Zu Gast sind Peter Silbernagl, Direktor des Südtiroler Kulturinstitutes, und Sabrina Fraternali von AlpsMove.</desc>
-  </programme>
-  <programme start="20241005200000 +0200" stop="20241005202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241005202000 +0200" stop="20241005202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241005202400 +0200" stop="20241005205330 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit - Musik und ihre Wirkung</title>
-    <sub-title/>
-    <desc>Musik belebt, kann eine Krankheit schneller heilen, kann Menschen mit Demenz Erinnerungen und Glücksmomente verschaffen. Die unterschiedliche Wirkung von Musik auf uns Menschen.
-
-Musik spricht sämtliche unserer Hirnareale an und kann einen positiven Effekt auf unsere Gesundheit haben. Komponistin Manuela Kerer hat in ihrem Psychologiestudium eine interessante Demenzstudie gemacht und berichtet über weitere Erkenntnisse zur Wechselwirkung von Musik und Gesundheit. 
-Musiktherapeut Dietmar Elsler zeigt, wie er mit Frühchen im Krankenhaus arbeitet, aber auch mit Senioren im Altersheim. 
-Auch Roberto Ghiozzi berichtet von seinen Erfahrungen als Musiktherapeut: mit Krebspatienten und in der palliativen Behandlung. Er arbeitet mit depressiven Patienten und neuerdings auch mit Jugendlichen aus schwierigen familiären Verhältnissen.
-Musik kann heilen - Lärm kann krank machen: Wie wichtig eine gute Raumakustik in Büros, Restaurants und Schulen ist, erklärt die Architektin Christina Niederstätter.</desc>
-  </programme>
-  <programme start="20241005221000 +0200" stop="20241005223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241006200000 +0200" stop="20241006202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
