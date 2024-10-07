@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241006200000 +0200" stop="20241006202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241006202000 +0200" stop="20241006204930 +0200" channel="Rai Südtirol">
-    <title>dF - Das Frauenmagazin</title>
-    <sub-title/>
-    <desc>Frauenfreundschaften und warum sie der ganzen Gesellschaft guttun. Simonetta Nardin, eine Frau, die in die weite Welt gezogen ist und ihre Wurzeln dennoch nie verloren hat. 
-
-Es ist wie Liebe auf den ersten Blick. Oder wie eine Wahlverwandtschaft: Eine Freundschaft unter Frauen zeichnet sich dadurch aus, dass frau sich ohne viele Worte versteht, sich sicher und verbunden fühlt und damit ein Stück weit auch ihr seelisches Gleichgewicht in Balance bringt. 
-dF geht der Frage nach, was genau Frauen-Freundschaften auszeichnet und warum Sisterhood, sprich der Zusammenhalt unter Frauen, nicht nur den Einzelnen guttut, sondern der ganzen Gesellschaft.
-Im dF Portrait - Simonetta Nardin. Von einer internationalen Schaltzentrale der Macht zurück ins heimatliche Bozen: Diesen Schritt hat die ehemalige Leiterin des Pressebüros des Internationalen Währungsfonds in Washington vor sechs Jahren gemacht. Hier bringt sie ihre Erfahrungen und ihr Wissen ehrenamtlich in der Kulturszene ein, im Engagement gegen Gewalt an Frauen, aber auch als Aktivistin. 
-In df Info: No woman no panel - mehr Sichtbarkeit für Frauen im öffentlichen Diskurs. Und  Finanzwirtin, Autorin und Karrierecoach Susan J. Moldenhauer spricht über Frauen und Finanzen.</desc>
-  </programme>
-  <programme start="20241006205000 +0200" stop="20241006205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241006221000 +0200" stop="20241006223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241007180000 +0200" stop="20241007181430 +0200" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
