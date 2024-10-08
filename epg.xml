@@ -4,55 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241007180000 +0200" stop="20241007181430 +0200" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Das Top-Match der achten Runde in der Fußball-Oberliga ist das Südtiroler Derby St. Georgen gegen Partschins. In der Landesliga empfängt Latsch die Überraschungs-Elf dieser Meisterschaft: Gröden, während Aufsteiger Latzfons Verdings Weinstraße Süd zu Gast hat.</desc>
-  </programme>
-  <programme start="20241007181400 +0200" stop="20241007183230 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Orientierungslauf</sub-title>
-    <desc>Ein kurzer Blick auf Karte und Kompass und schon laufen die Sportkids aus Innichen los. Sie finden zielsicher die orange-weißen Posten, die sie im Laufe des Rennens passieren und elektronisch abstempeln müssen. Welche Gasse oder welche Abkürzung im Wald sie dabei nehmen, das ist jedem selbst überlassen. Ein Sport, bei dem es um Orientierung, Ausdauer und Köpfchen geht.
-Anschließend ist Clownfrau Karamela zu Besuch beim Naturschutzclub &quot;Naturglück&quot;, den Schüler:innen der Montessorischule in Sterzing gegründet haben.</desc>
-  </programme>
-  <programme start="20241007183300 +0200" stop="20241007185741 +0200" channel="Rai Südtirol">
-    <title>Brenner</title>
-    <sub-title>Land und Leute</sub-title>
-    <desc>Das Dorf Brenner ist ein wichtiger Verkehrsknotenpunkt, der schon seit Jahrhunderten eine bedeutende Handelsroute darstellt. Die Menschen leben von Handel und Dienstleistungen. 
-Schon viele bekannte Persönlichkeiten haben den Ort passiert nicht nur Herrscher, sondern auch Künstler und Gelehrte. 
-Bekannt war im 20. Jahrhundert auch das Brennerbad, das prominente Persönlichkeiten aus verschiedenen Ländern anzog. Die Thermalquellen wurden für ihre heilenden Eigenschaften geschätzt. Heute ist das Bad nicht mehr in Betrieb, aber seine Geschichte als historischer Kurort bleibt erhalten. 
-Derzeit leben im Dorf Brenner 269 Menschen. Es hat im Laufe der Jahre einen deutlichen Bevölkerungsrückgang erlebt, was hauptsächlich auf den Wegzug von Staatsbeamten und Einheimischen zurückzuführen ist. Die Menschen dort leben hauptsächlich vom Grenz- und Durchgangsverkehr. Seit der Eröffnung eines Outlet-Centers im Jahr 2007 hat der Einzelhandel an Bedeutung gewonnen. 
-Die Bar Terminus am Brenner ist eine Gaststätte, die von Einheimischen, aber auch von Durchreisenden genutzt wird. Auch namhafte Politiker haben in dieser Bar bereits Halt gemacht.</desc>
-  </programme>
-  <programme start="20241007200000 +0200" stop="20241007202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241007202000 +0200" stop="20241007212300 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20241007212300 +0200" stop="20241007215230 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Musik und ihre Wirkung</sub-title>
-    <desc>Musik belebt, kann eine Krankheit schneller heilen, kann Menschen mit Demenz Erinnerungen und Glücksmomente verschaffen. Die unterschiedliche Wirkung von Musik auf uns Menschen. 
-Musik spricht sämtliche unserer Hirnareale an und kann einen positiven Effekt auf unsere Gesundheit haben. Komponistin Manuela Kerer hat in ihrem Psychologiestudium eine interessante Demenzstudie gemacht und berichtet über weitere Erkenntnisse zur Wechselwirkung von Musik und Gesundheit.  
-Musiktherapeut Dietmar Elsler zeigt, wie er mit Frühchen im Krankenhaus arbeitet, aber auch mit Senioren im Altersheim.  
-Auch Roberto Ghiozzi berichtet von seinen Erfahrungen als Musiktherapeut: mit Krebspatienten und in der palliativen Behandlung. Er arbeitet mit depressiven Patienten und neuerdings auch mit Jugendlichen aus schwierigen familiären Verhältnissen. 
-Musik kann heilen - Lärm kann krank machen: Wie wichtig eine gute Raumakustik in Büros, Restaurants und Schulen ist, erklärt die Architektin Christina Niederstätter.</desc>
-  </programme>
-  <programme start="20241007215300 +0200" stop="20241007215945 +0200" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Brigitte Hofer</sub-title>
-    <desc>Die neue Gleichstellungsrätin Brigitte Hofer hat viele Ideen für ihre wichtige Aufgabe: Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. In ihrer Freizeit ist Brigitte Hofer Tangotänzerin und Bergbegeisterte.</desc>
-  </programme>
-  <programme start="20241007221000 +0200" stop="20241007223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241008200000 +0200" stop="20241008202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
