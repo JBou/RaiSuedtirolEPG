@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241009200000 +0200" stop="20241009202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241009202000 +0200" stop="20241009204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Augenmerk des ASGB auf die Südtirolautonomie, Perspektiven für die heimische Jugend, effiziente Wiederverwertung von Bauschutt und innovativer Anlagenbau in Südtirol.
-Der Südtiroler Gewerkschaftsbund ASGB wird die autonomiepolitischen Themen ansprechen, die seiner Ansicht nach potenziell gefährdet sind und möchte Perspektiven für die Jugend in unserem Land aufzeigen.
-Die Bauindustrie gilt als größter Ressourcenverbraucher und ist für 40 % der CO2-Emissionen und ein Drittel der Abfälle in der EU verantwortlich. Wie eine nachhaltige Kreislaufwirtschaft im Bauwesen funktionieren kann und wie Bauschutt effizienter genutzt werden könnte, erklären Experten aus der Materialverwertung und der Dachverband für Natur- und Umweltschutz.
-Zudem werfen wir einen Blick auf innovative Lösungen im Anlagenbau: Die Firma Atzwanger aus Bozen setzt modernste Technologie ein. Anhand der Modernisierung der Kläranlage in Meran und der Biovergärungsanlage in Lana zeigen wir, wie zukunftsweisende Projekte die Umwelt nachhaltig gestalten.</desc>
-  </programme>
-  <programme start="20241009221000 +0200" stop="20241009223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241010200000 +0200" stop="20241010202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
