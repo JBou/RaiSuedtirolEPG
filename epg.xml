@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241010200000 +0200" stop="20241010202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241010202000 +0200" stop="20241010204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Pflege</sub-title>
-    <desc>Die Pflege von kranken und alten Menschen spielt mehr und mehr eine zentrale gesellschaftliche Rolle, weil die Herausforderungen uns alle betreffen. Moderation: Karin Gschnitzer. 
-Im Gespräch erzählt Annemarie Profanter, Professorin an der Freien Uni Bozen, über ihre wissenschaftliche Forschung zum Thema &quot;Badanti - Pflegen in der Fremde&quot;. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol und begleiten unseren rasenden Reporter nach Tramin.</desc>
-  </programme>
-  <programme start="20241010213000 +0200" stop="20241010215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Weniger als 500 Tage fehlen bis zu den Olympischen Winterspielen 2026, die mit den Biathlonbewerben in Antholz erstmals auch in Südtirol ausgetragen werden. Inzwischen sind im Antholzertal die Olympischen Ringe offiziell enthüllt worden. 
-In zwei Wochen beginnt auch die alpine Ski-Saison mit dem Weltcup-Auftakt in Sölden. Die Vorbereitung für die Südtiroler Athleten ist gut verlaufen.</desc>
-  </programme>
-  <programme start="20241010221000 +0200" stop="20241010223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241011180000 +0200" stop="20241011182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Pflege</sub-title>
