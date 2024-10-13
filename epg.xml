@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241012180000 +0200" stop="20241012185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Max von Milland tritt in die Pedale und wächst über die eigenen Grenzen hinaus  - und Karin Duregger trifft auf Menschen, die ihr persönliches Lebensglück gefunden haben. 
-Max von Milland startet eine neue Challenge: Max gegen Radrennprofi Eva Lechner. Die Herausforderung: Beide starten zeitgleich im Osten Südtirols, in Innichen. Wer zuerst das westlichste Dorf Südtirols, Reschen, erreicht, gewinnt. 
-Karin Duregger hingegen trifft auf Menschen, die ihre ganz persönliche Reise und den Weg zum Glück angetreten haben und dies konstant weiter tun, denn - so sagen sie - Glück ist eine Lebenseinstellung, ein Prozess gleichermaßen. Ihm muss auch immer wieder die Tür geöffnet werden. Darüber erzählen eine Behindertenaktivistin, ein Innenarchitekten und ein indischer Hüttenwirt im Sarntal.</desc>
-  </programme>
-  <programme start="20241012200000 +0200" stop="20241012202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241012202100 +0200" stop="20241012202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Timm Harder</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241012202500 +0200" stop="20241012205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Der Caritas-Dienst Odós, Drogenprävention, ein Rückblick auf das Festival für mentale Gesundheit und das Pilgern durch Südtirol sind Themen dieser Sendung. Moderation: Lisa Hintner.
-Der Caritas-Dienst Odós feiert sein 25jähriges Bestehen. Er kümmert sich um Haftentlassene, die kein Zuhause haben. Odós nimmt aber auch Gefangene auf, die unter Hausarrest stehen oder an alternativen Strafvollzugsprogrammen teilnehmen. 
-Markus Niederkofler aus Luttach beschäftigt sich seit Jahren beruflich mit dem Thema illegale Drogen. Er arbeitet als Sozialpädagoge und Suchtberater in München. Durch die sozialen Medien - so sagt er - sind Jugendliche neuen Gefahren ausgesetzt. Wie können wir unsere Kinder gegen Drogen stärken?
-Das Thema der mentalen Gesundheit hält zunehmend Einzug in die Gesellschaft. Vor kurzem fand am Wiesenhof in Klobenstein das 5.Mental Health Festival statt, eine Einladung von Jugendlichen an Menschen, die leben wollen. 
-Ein spirituelles Leben zu führen bedeutet, nach einem höheren Ziel zu streben, sich Zeit zu nehmen für Stille und Reflexion. Möglich wird dies auch durch ein bewusstes Wandern - das Pilgern. Zwei ehrenamtliche Pilgerbegleiter erzählen, warum sie dreimal monatlich zu Pilgerwegen durch Südtirol einladen.</desc>
-  </programme>
-  <programme start="20241012221000 +0200" stop="20241012223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241013200000 +0200" stop="20241013202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
