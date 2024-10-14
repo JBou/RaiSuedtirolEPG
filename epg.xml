@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241013200000 +0200" stop="20241013202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241013202000 +0200" stop="20241013204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Schluderns</sub-title>
-    <desc>Zu Besuch im Vintschger Museum, beim neuen Burgherrn der Churburg und bei den alljährlichen Schludernser Ritterspielen. Außerdem lauschen wir den Stimmen des Männerchores.
-Seit nunmehr 25 Jahren befasst sich das &quot;Vintschger Museum&quot; - das Vuseum - mit markanten Themen des Vinschgaus. Vom Ur-Schludernser zum Lappenbeil bis hin zum Korrnerwagen - in &quot;Land und Leute&quot; zeigen wir die Vielfalt und einige verborgene Schätze des Talmuseums im Ortskern von Schluderns. Es wird auch gesungen: Der Männerchor versammelt sich um Robert Ruepp, ehemaliger Chorleiter und Dorfchronist.
-Ein Besuch auf der Churburg mit Graf Gaudenz Trapp, in der urigen Burgschänke und bei den Schludernser Ritterspielen runden das Dorfporträt ab.</desc>
-  </programme>
-  <programme start="20241013204500 +0200" stop="20241013204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Timm Harder</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241013221000 +0200" stop="20241013223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241014180000 +0200" stop="20241014181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
