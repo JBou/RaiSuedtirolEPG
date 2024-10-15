@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241014180000 +0200" stop="20241014181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match der 8. Oberliga-Runde ist das Südtiroler Traditionsderby zwischen St. Pauls und dem SSVBrixen. Beide Mannschaften treffen in der Meisterschaft bereits zum 62. Mal aufeinander. In der Landeliga spielt Terlan zu Hause gegen Lana, während Leifers im Unterlandler Duell Salurn empfängt.</desc>
-  </programme>
-  <programme start="20241014181400 +0200" stop="20241014182830 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Springreiten</sub-title>
-    <desc>Pfote-Moderator Stefan besucht den Tscherluierhof in Lajen. Dort betreibt Susi mit ihrer Familie einen Reiterhof. Sie selbst ist Springreiterin und war in dieser Reitdisziplin bereits
-Europameisterin. Nun gibt sie ihr Wissen an Kinder und auch an Stefan weiter. Dieser hilft zwar fleißig mit und schaut den Kindern beim Training genau zu, doch nach einem Nachmittag schaffter nur einen geführten Trabritt und einen kleinen Sprung über eine am Boden liegende Stange.</desc>
-  </programme>
-  <programme start="20241014182900 +0200" stop="20241014185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Der Caritas-Dienst Odós, Drogenprävention, ein Rückblick auf das Festival für mentale Gesundheit und das Pilgern durch Südtirol sind Themen dieser Sendung. Moderation: Lisa Hintner.
-Der Caritas-Dienst Odós feiert sein 25jähriges Bestehen. Er kümmert sich um Haftentlassene, die kein Zuhause haben. Odós nimmt aber auch Gefangene auf, die unter Hausarrest stehen oder an alternativen Strafvollzugsprogrammen teilnehmen. 
-Markus Niederkofler aus Luttach beschäftigt sich seit Jahren beruflich mit dem Thema illegale Drogen. Er arbeitet als Sozialpädagoge und Suchtberater in München. Durch die sozialen Medien - so sagt er - sind Jugendliche neuen Gefahren ausgesetzt. Wie können wir unsere Kinder gegen Drogen stärken?
-Das Thema der mentalen Gesundheit hält zunehmend Einzug in die Gesellschaft. Vor kurzem fand am Wiesenhof in Klobenstein das 5.Mental Health Festival statt, eine Einladung von Jugendlichen an Menschen, die leben wollen. 
-Ein spirituelles Leben zu führen bedeutet, nach einem höheren Ziel zu streben, sich Zeit zu nehmen für Stille und Reflexion. Möglich wird dies auch durch ein bewusstes Wandern - das Pilgern. Zwei ehrenamtliche Pilgerbegleiter erzählen, warum sie dreimal monatlich zu Pilgerwegen durch Südtirol einladen.</desc>
-  </programme>
-  <programme start="20241014200000 +0200" stop="20241014202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241014202000 +0200" stop="20241014215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Sehnsuchtsort Südtirol - auch für uns?</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Immer hat der Tourismus auf die Menschen im Land gezählt. Jetzt aber? Da und dort regt sich der Unmut. In Meran, wo alles begann, kratzt eine Doku am Image: &quot;Sehnsuchtsort Meran&quot;. 
-
-Den &quot;Sehnsuchtsort Meran&quot; stellen sich die Einheimischen anders vor. Und die Forscher warnen: Ohne Zustimmung der Südtiroler:innen wird Tourismus nicht funktionieren. Wie also sieht Tourismus aus, wenn man die Rechnung mit den Einheimischen macht? Und wie nimmt man auch die Gäste in die Pflicht? Darüber diskutieren Johanna Porcheddu, Leiterin des Theaters in der Altstadt in Meran, die Autorin Selma Mahlknecht, Wolfgang Töchterle von IDM Südtirol und Markus Promberger, Geschäftsführer des Hotels Ama Stay in St. Vigil. 
-Im Interview: Filmemacherin Verena Gruber und Thomas Kobler, Künstlerischer Leiter des Ost West Clubs Meran. Gabriele Crepaz moderiert. Live aus dem Ost West Club in Meran.</desc>
-  </programme>
-  <programme start="20241014221000 +0200" stop="20241014223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241015200000 +0200" stop="20241015202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
