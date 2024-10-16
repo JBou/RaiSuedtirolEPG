@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241015200000 +0200" stop="20241015202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241015202000 +0200" stop="20241015203430 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich
-der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus
-der Scheinwerfer von Rai Südtirol. Moderiert wird die Talksendung von Hannes Senfter.</desc>
-  </programme>
-  <programme start="20241015203500 +0200" stop="20241015204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match der 8. Oberliga-Runde ist das Südtiroler Traditionsderby zwischen St. Pauls und dem SSVBrixen. Beide Mannschaften treffen in der Meisterschaft bereits zum 62. Mal aufeinander. In der Landeliga spielt Terlan zu Hause gegen Lana, während Leifers im Unterlandler Duell Salurn empfängt.</desc>
-  </programme>
-  <programme start="20241015221000 +0200" stop="20241015223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241016200000 +0200" stop="20241016202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
