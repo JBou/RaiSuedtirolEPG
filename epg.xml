@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241016200000 +0200" stop="20241016202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241016202000 +0200" stop="20241016204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Nomadenvolk der irischen Traveller, der Verein &quot;Survival International&quot; zum Schutz indigener Völker, Prof. Silvia Dal Negro und die Minderheitensprachen. Es moderiert Christina Khuen. 
-
-Die irischen Traveller sind ein Nomadenvolk, das schon seit Jahrhunderten auf der grünen Insel lebt. Früher zogen sie mit Planwagen umher, heute mit dem Wohnwagen. Sie lassen sich auf öffentlichen Parkplätzen, am Straßenrand und auf Campingplätzen nieder oder leben auf Plätzen, die ihnen von den Städten zur Verfügung gestellt werden. Minet auf Spurensuche in Irland.
-1969 wurde in Berlin der Verein gegründet. Er setzt sich für indigene Völker ein, bietet ihnen eine Plattform, um deren Vernichtung zu verhindern. Survival International übt Druck auf die Mächtigen dieser Welt aus, um das Land, das Leben, die Zukunft dieser Menschen zu verteidigen. 
-Im Minet-Gespräch ist die Uniprofessorin Silvia Dal Negro zu Gast, die sich in ihrer Forschungstätigkeit mit Minderheitensprachen beschäftigt.</desc>
-  </programme>
-  <programme start="20241016221000 +0200" stop="20241016223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241017200000 +0200" stop="20241017202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
