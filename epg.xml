@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241017200000 +0200" stop="20241017202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241017202000 +0200" stop="20241017204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Kochen und Backen machen glücklich!</sub-title>
-    <desc>Essen zuzubereiten bedeutet Perspektivenwechsel und Erholung. Wer auf andere Gedanken kommen will, findet am Herd und Schneidebrett reichlich Gelegenheit. 
-
-Dass Kochen und Backen glücklich machen, ist allgemein bekannt. Das Südtirol Magazin hat einige glückliche Menschen getroffen.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1966 und tauchen wieder ein in digitale Welten in der Reihe Digital Now. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241017221000 +0200" stop="20241017223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241018180000 +0200" stop="20241018182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Kochen und Backen machen glücklich!</sub-title>
@@ -105,6 +87,182 @@ Schon als Kind war Josefin viel in Südtirol. Am liebsten am Kalterer See und in
     <desc/>
   </programme>
   <programme start="20241020221000 +0200" stop="20241020223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241021180000 +0200" stop="20241021181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Zwei Südtiroler Derby stehen am neunten Spieltag in der Oberliga auf dem Programm: Obermais empfängt auf der Lahn St. Pauls, während Tramin gegen Partschins spielt. Es ist kaum zu glauben, aber dieses Duell hat es bisher im Südtiroler Amateurfußball erst sechs Mal gegeben. In der Landeliga kommt es zum Top-Match zwischen den Titelanwärtern Naturns und Ahrntal.</desc>
+  </programme>
+  <programme start="20241021181400 +0200" stop="20241021183330 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Pfadfinder</sub-title>
+    <desc>Zipp-Reporterin Linda besucht ein Pfadfinderlager in Tschötsch. Eifrig bauen die jungen Wölflinge, so werden die 8 bis 10 jährigen Pfadfinder:innen genannt, ihre Zelte auf und verschwinden im Wald. Dort fühlen sie sich wie zu Hause. Sie schnitzen Stöcke für das abendliche Stockbrot, üben sich im Knotenbinden und bauen einfache Unterstände. Ein Feuer aus Naturmaterialien zu entfachen, braucht schon etwas Übung, aber schon bald backen die Brote über dem lodernden Feuer.</desc>
+  </programme>
+  <programme start="20241021183400 +0200" stop="20241021185830 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Ein Bozner Kardiologe in München-Großhadern, Komponieren für lochkartengesteuerte Spieluhren, zu Besuch auf der Saline der kroatischen Insel Pag. Moderation: Sigrid Flenger. Das Uniklinikum in München-Großhadern genießt europaweit einen hervorragenden Ruf, weil viele hochspezialisierte Fachbereiche unter einem Dach angeboten werden. Deswegen lassen sich Patient:innen aus vielen Ländern hier behandeln. Auch die Herkunft der Ärzte und Pflegekräfte ist international bunt gemischt. Der Kinderkardiologe Robert Dalla Pozza stammt zum Beispiel aus Bozen. In Alpen Donau Adria besuchen wir den Arbeitsplatz des Südtirolers. 
+Weitere Themen: Franz Tröger hat Musik und Komposition studiert. Aber das Herz des Profi-Musikers schlägt für einen kleinen mechanischen Kasten, der mit einer Kurbel betrieben wird: die lochkartengesteuerte Spieluhr. Wichtigste Werkzeuge beim Komponieren: Lochkarte und Stanzzange. 
+Auf der kroatischen Insel Pag befindet sich die größte kroatische Saline mit einer Produktion von etwa 20.000 Tonnen Salz pro Jahr. Dieses Lebensmittel war in der Vergangenheit so wertvoll, dass Handelsschiffe, die Salz transportierten, bewaffnete Begleitung haben mussten.</desc>
+  </programme>
+  <programme start="20241021200000 +0200" stop="20241021202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241021202000 +0200" stop="20241021210200 +0200" channel="Rai Südtirol">
+    <title>Südtirol Filarmonica</title>
+    <sub-title>Ein musikalisches Heimspiel in fünf Sätzen</sub-title>
+    <desc>319 Musiker:Innen musizieren in den renommiertesten Orchestern weltweit und haben eine gemeinsame Heimat: Südtirol. Einmal im Jahr treffen sie sich in unterschiedlicher Besetzung bei Südtirol Filarmonica.
+
+Es ist ein Orchester auf Zeit, das 2019 aus einem Traum entstanden ist. Der ehemalige Topmanager Zeno Kerschbaumer, die Harfenistin Isabel Goller, ihre Schwester Cornelia und Michael Pichler haben an die Strahlkraft von Musik geglaubt und an die Idee, Südtiroler Musiker:innen in ihrer Heimat eine Bühne zu geben. Alle Sprachgruppen sind vertreten: deutsch, italienisch, ladinisch und Sprachen jener Künstler:innen, die in Südtirol ihre Heimat gefunden haben. 
+Eine Woche lang wird in Toblach geprobt und ein Konzert-Programm zusammengestellt, auch werden Erfahrungen ausgetauscht. Man nimmt Auszeit von seinem künstlerischen Alltag, verbringt unbeschwert Zeit miteinander. Genau diese glückvollen Momente - von der Ankunft, dem ersten Wiedersehen oder auch dem Kennenlernen der Musiker:innen, über das erste musikalische Zueinanderfinden bis hin zum großen Auftritt zeigt diese Dokumentation von Erna Cuesta und Helmut Lechthaler.</desc>
+  </programme>
+  <programme start="20241021210300 +0200" stop="20241021214853 +0200" channel="Rai Südtirol">
+    <title>Gehen oder bleiben?</title>
+    <sub-title/>
+    <desc>Jetzt waschen die Jungen uns den Kopf. Sie wollen es anders machen - &quot;oder wir gehen&quot;. Der Film untersucht die Beweggründe der Abwanderung junger Menschen aus dem Vinschgau.
+
+Jedes Jahr kehren 1.000 junge Menschen Südtirol den Rücken, und Südtirol dämmert, dass es Teil der mobilen Welt ist. Im Film von Sarah Trevisiol „Gehen oder Bleiben“ zeigen acht Protagonist:innen aus dem Vinschgau, welche Lebensmodelle die Jungen haben.
+Die aufgezeigten Herausforderungen und Lösungsansätze sind dabei nicht nur für den Vinschgau relevant, sondern sind exemplarisch für ganz Südtirol.</desc>
+  </programme>
+  <programme start="20241021214800 +0200" stop="20241021215455 +0200" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Katharina Erlacher</sub-title>
+    <desc>Die Moderatorin, Friedensarbeiterin und Prozessbegleiterin will durch Dialogarbeit mehr Klarheit schaffen für eine gelingende Gesellschaft und für einen ökosozialen Wandel.</desc>
+  </programme>
+  <programme start="20241021221000 +0200" stop="20241021223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241022200000 +0200" stop="20241022202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241022202000 +0200" stop="20241022203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241022203500 +0200" stop="20241022204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Zwei Südtiroler Derby stehen am neunten Spieltag in der Oberliga auf dem Programm: Obermais empfängt auf der Lahn St. Pauls, während Tramin gegen Partschins spielt. Es ist kaum zu glauben, aber dieses Duell hat es bisher im Südtiroler Amateurfußball erst sechs Mal gegeben. In der Landeliga kommt es zum Top-Match zwischen den Titelanwärtern Naturns und Ahrntal.</desc>
+  </programme>
+  <programme start="20241022221000 +0200" stop="20241022223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241023200000 +0200" stop="20241023202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241023202000 +0200" stop="20241023205127 +0200" channel="Rai Südtirol">
+    <title>Pietro Mitolo</title>
+    <sub-title/>
+    <desc>Der politische Werdegang eines Italieners, der als prominentester Vertreter des Movimento Sociale Italiano MSI galt und als Verehrer Mussolinis. Eine filmische Biografie von Audrey Schwarz und Klaus Romen.
+
+Für die italienische Linke und für den Großteil der Südtiroler waren die Mitolo-Brüder  erklärte Neofaschisten und mitverantwortlich für die Radikalisierung des politischen Klimas im Nachkriegssüdtirol. 
+Andrea wurde 1914 als Sohn eines Carabiniere in Sizilien geboren und kam im Alter von vier Jahren nach Bozen. Bereits seine Kindheit war geprägt von der Konfrontation mit Südtirolern. 
+Auch sein jüngerer Bruder Pietro war ein begeisterter Mussolini-Anhänger. Nach der Achse Berlin-Rom absolvierte er in Bayern die Ausbildung zum Kampfpiloten und lernte Deutsch. Beide Mitolo-Brüder kämpften nach 1943 auf Seiten der Repubblica di Salò gegen die Resistenza.
+Nach dem Ende der faschistischen Diktatur bekannten sich Andrea und Pietro Mitolo
+zur parlamentarischen Demokratie und bewarben sich für den Movimento Sociale Italiano MSI um Sitze im Bozner Gemeinderat, im Regionalrat und in der Abgeordnetenkammer - und Pietro Mitolo sogar im Europaparlament.</desc>
+  </programme>
+  <programme start="20241023221000 +0200" stop="20241023223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241024200000 +0200" stop="20241024202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241024202000 +0200" stop="20241024204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Was gibt uns Halt in Krisenzeiten?</sub-title>
+    <desc>In Zeiten der Krise Glück zu empfinden, ist nicht selbstverständlich und alles andere als leicht. Was können wir also tun, wenn Gefühle wie Angst, Trauer und Wut uns bestimmen? 
+
+Über Resilienz in Krisenzeiten sprechen wir unter anderem mit dem Vitalmasseur, Entspannungstrainer und Yogalehrer Stefan Torggler. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über die Mendelbahn aus dem Amt für Film und Medien und erinnern an 50 Jahre Musikschule Meran. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20241024221000 +0200" stop="20241024223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241025180000 +0200" stop="20241025182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Was gibt uns Halt in Krisenzeiten?</sub-title>
+    <desc>In Zeiten der Krise Glück zu empfinden, ist nicht selbstverständlich und alles andere als leicht. Was können wir also tun, wenn Gefühle wie Angst, Trauer und Wut uns bestimmen? 
+
+Über Resilienz in Krisenzeiten sprechen wir unter anderem mit dem Vitalmasseur, Entspannungstrainer und Yogalehrer Stefan Torggler. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über die Mendelbahn aus dem Amt für Film und Medien und erinnern an 50 Jahre Musikschule Meran. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20241025182900 +0200" stop="20241025185830 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Höhlenforschung auf der Sennesalm, ein Projekt zum Haselnuss-Anbau in Südtirol, Permafrost-Schutz auf der Tofana im Trentino. In dieser Ausgabe folgen wir Innsbrucker Höhlenforschern auf die Sennesalm, die dort seit Jahren Eishöhlen erforschen und seltene Kristalle gefunden haben. 
+Zudem präsentieren wir das Projekt des Süßwarenunternehmens Loacker und des Versuchszentrums Laimburg, in dem der Anbau von Haselnüssen in Südtirol erforscht wird. 
+Schließlich präsentieren wir ein Pilotprojekt auf der Tofana, wo das Fundament der Bergstation des Sesselliftes eingefroren wird, um den Permafrost zu schützen.</desc>
+  </programme>
+  <programme start="20241025200000 +0200" stop="20241025202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241025202000 +0200" stop="20241025215930 +0200" channel="Rai Südtirol">
+    <title>WIR im Konzert</title>
+    <sub-title>Südtirol Filarmonica live</sub-title>
+    <desc>In Südtirol zu Hause, in der Welt erfolgreich: 82 Musiker:innen des Spitzenorchesters Südtirol Filarmonica konzertieren in Toblach unter dem Motto &quot;Die Kraft der Freundschaft&quot;,
+RAI Südtirol überträgt live.
+
+Unter dem Dirigenten Michael Pichler interpretiert das Orchester Werke von Ludwig Thuille, Richard Strauss und Maurice Ravel.
+Südtirol Filarmonica ist ein Netzwerk von über 300 Südtiroler Musiker:innen, die die Basis dieses Projekts bilden. Die meisten von ihnen leben im Ausland und sind bei den namhaftesten Symphonieorchestern engagiert; einige studieren an renommierten Musikhochschulen der Welt. Heuer werden 82 dieser Musiker:innen die drei Konzerte bestreiten. Moderation der Liveübertragung aus dem Gustav Mahler-Saal in Toblach: Gertrud Prenn.</desc>
+  </programme>
+  <programme start="20241025221000 +0200" stop="20241025223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241026180000 +0200" stop="20241026182930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Das Nomadenvolk der irischen Traveller, der Verein &quot;Survival International&quot; zum Schutz indigener Völker, Prof. Silvia Dal Negro und die Minderheitensprachen. Es moderiert Christina Khuen. Die irischen Traveller sind ein Nomadenvolk, das schon seit Jahrhunderten auf der grünen Insel lebt. Früher zogen sie mit Planwagen umher, heute mit dem Wohnwagen. Sie lassen sich auf öffentlichen Parkplätzen, am Straßenrand und auf Campingplätzen nieder oder leben auf Plätzen, die ihnen von den Städten zur Verfügung gestellt werden. Minet auf Spurensuche in Irland.
+1969 wurde in Berlin der Verein gegründet. Er setzt sich für indigene Völker ein, bietet ihnen eine Plattform, um deren Vernichtung zu verhindern. Survival International übt Druck auf die Mächtigen dieser Welt aus, um das Land, das Leben, die Zukunft dieser Menschen zu verteidigen. 
+Im Minet-Gespräch ist die Uniprofessorin Silvia Dal Negro zu Gast, die sich in ihrer Forschungstätigkeit mit Minderheitensprachen beschäftigt.</desc>
+  </programme>
+  <programme start="20241026182900 +0200" stop="20241026185830 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Josefin Bressel</sub-title>
+    <desc>Die gebürtige Berlinerin ist Schauspielerin und Moderatorin. Nach einigen Jahren in Südtirol spielt Josefin Bressel seit 2023 in einer bekannten deutschen Fernsehserie mit. Schon früh interessierte sie sich für Schauspielerei. Ihr Schauspielstudium absolvierte sie an der &quot;Film Acting School&quot; in Köln. In Südtirol war Josefin Bressel als Filmredakteurin, Model und Co-Moderatorin von Toms Kellershow aus RAI Südtirol tätig. Darüber hinaus übernahm sie kleinere Rollen in verschiedenen Filmen und Serien, darunter auch im Bozen-Krimi. Seit 2023 verkörpert Josefin Bressel die Rolle der Alicia Bäumler in der renommierten RTL-Serie &quot;Gute Zeiten, schlechte Zeiten&quot; (kurz GZSZ).
+Schon als Kind war Josefin viel in Südtirol. Am liebsten am Kalterer See und in Sulden. Das und mehr erzählt sie im Gespräch mit Markus Frings.</desc>
+  </programme>
+  <programme start="20241026200000 +0200" stop="20241026202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241026202000 +0200" stop="20241026202300 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241026202300 +0200" stop="20241026205230 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Eine Köchin, ein Koch und zwei herbstliche Tartar-Gerichte mit und ohne Fleisch. Helene Markart aus Niederdorf und Mirko Mair aus Pfalzen machen Lust auf Kartoffeln, Pilze und Rindfleisch. 
+
+Helene Markart und Mirko Mair bereiten ihre beiden herbstlichen Lieblingsgerichte zu. Dabei kommen sowohl Fleischliebhaber als auch Vegetarier auf ihre Kosten. 
+Die Chefköchin des Gasthauses Adler in Niederdorf liebt Kartoffeln über alles. Je bunter sie sind umso besser. Sie erzählt von ihrer Begeisterung für das Knollengemüse, das sie in einen Tartar mit Pilzen verwandelt. 
+Der Chef des Restaurants Sichelburg in Pfalzen verrät uns, was ein guter Tartar vom Rind mit einem Senf-Eis zu tun hat und wie er einheimische Köstlichkeiten mit asiatischen Aromen mischt.</desc>
+  </programme>
+  <programme start="20241026221000 +0200" stop="20241026223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
