@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241018180000 +0200" stop="20241018182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Kochen und Backen machen glücklich!</sub-title>
-    <desc>Essen zuzubereiten bedeutet Perspektivenwechsel und Erholung. Wer auf andere Gedanken kommen will, findet am Herd und Schneidebrett reichlich Gelegenheit. Dass Kochen und Backen glücklich machen, ist allgemein bekannt. Das Südtirol Magazin hat einige glückliche Menschen getroffen.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1966 und tauchen wieder ein in digitale Welten in der Reihe Digital Now. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241018182900 +0200" stop="20241018185330 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Schluderns</sub-title>
-    <desc>Zu Besuch im Vintschger Museum, beim neuen Burgherrn der Churburg und bei den alljährlichen Schludernser Ritterspielen. Außerdem lauschen wir den Stimmen des Männerchores. 
-Seit nunmehr 25 Jahren befasst sich das &quot;Vintschger Museum&quot; - das Vuseum - mit markanten Themen des Vinschgaus. Vom Ur-Schludernser zum Lappenbeil bis hin zum Korrnerwagen - in &quot;Land und Leute&quot; zeigen wir die Vielfalt und einige verborgene Schätze des Talmuseums im Ortskern von Schluderns. Es wird auch gesungen: Der Männerchor versammelt sich um Robert Ruepp, ehemaliger Chorleiter und Dorfchronist. Ein Besuch auf der Churburg mit Graf Gaudenz Trapp, in der urigen Burgschänke und bei den Schludernser Ritterspielen runden das Dorfporträt ab.</desc>
-  </programme>
-  <programme start="20241018185400 +0200" stop="20241018185959 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Die Cosplayerin Ava Hansmann</sub-title>
-    <desc>Die Deutsche Ava Hansmann studiert an der Uni Bozen und absolviert ihr Praktikum im FabLab. In diesem Laboratorium hat sie die Möglichkeit, mithilfe des 3D-Druckers ihre eigenen Cosplay-Kostüme zu gestalten. Sie verkleidet sich nämlich gerne als Figur aus einem Anime, Manga oder Computerspiel.</desc>
-  </programme>
-  <programme start="20241018200000 +0200" stop="20241018202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241018202000 +0200" stop="20241018215900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Musik, Humor und inspirierende Geschichten - und drei außergewöhnliche Gäste: Singer-Songwriter Doggi Dorfmann, die Unternehmerin Maria Niederstätter und der &quot;Luis von Ulten&quot;.
-Singer-Songwriter Doggi Dorfmann meldet sich mit seinen kraftvollen Liedern zu Wort. Der Brixner Liedermacher nutzt seinen witzig-kritischen Stil, um brisante Themen anzusprechen und das Publikum zum Nachdenken und Lachen zu bringen. Neben der Musik ist Doggi auch Poet, Buchautor, Yogalehrer und Experte fürs Waldbaden - ein wahrer Alleskönner!
-Unternehmerin Maria Niederstätter hat mit Mut und Durchsetzungsvermögen ihre Karriere gemeistert. Mit 20 Jahren übernahm sie eine Eisenwarenhandlung und baute das Unternehmen in den letzten 50 Jahren erfolgreich aus. Heute beschäftigt sie über 100 Mitarbeiter und gibt uns Einblicke, wie sie sich in einer Männerdomäne behauptet hat. Manfred Zöschg, besser bekannt als Luis von Ulten, bringt sein humorvolles Talent mit. Als Kabarettist und Bergbauer auf einem kleinen Hof im Ultental meistert er den alltäglichen Wahnsinn und begeistert sein Publikum mit witzigen Charakteren - vom bayrischen Bademeister bis hin zum italienischen Casanova. Die legendäre Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Andreas Marmsoler sorgt für den musikalischen Rahmen. Gastgeber sind Thomas Vonmetz und Co-Moderatorin Sharon Market.</desc>
-  </programme>
-  <programme start="20241018221000 +0200" stop="20241018223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241019180000 +0200" stop="20241019185900 +0200" channel="Rai Südtirol">
     <title>Toms Kellershow</title>
     <sub-title/>
@@ -263,6 +229,28 @@ Die Chefköchin des Gasthauses Adler in Niederdorf liebt Kartoffeln über alles.
 Der Chef des Restaurants Sichelburg in Pfalzen verrät uns, was ein guter Tartar vom Rind mit einem Senf-Eis zu tun hat und wie er einheimische Köstlichkeiten mit asiatischen Aromen mischt.</desc>
   </programme>
   <programme start="20241026221000 +0200" stop="20241026223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241027200000 +0100" stop="20241027202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241027202100 +0100" stop="20241027205624 +0100" channel="Rai Südtirol">
+    <title>Ein Blick zurück nach vorne</title>
+    <sub-title/>
+    <desc>Liz Marmsoler, Rosa Franzelin Werth, Jul Bruno Laner, Elmar Streitberger: Vier Prominente des Landes und ihre sehr persönlichen Ansichten zu den großen Fragen des Lebens: Glaube, Tod und Glück. 
+Im Rückblick auf ihre Erfahrungen erzählen sie davon, was sie geprägt hat, welche Gedanken sie beschäftigen und wie sie den Lauf ihres Lebens bewerten:  Elmar Streitberger, der rockige Konditormeister aus Bozen, Liz Marmsoler, die auf fast allen Bühnen im Lande gespielt hat, Jul Bruno Laner, Maler, Autor und Erfinder eines neuen Staates, und die ehemalige Landtagspolitikerin Rosa Franzelin Werth. 
+Alle vier Persönlichkeiten vermitteln private Einsichten und Erfahrungen.</desc>
+  </programme>
+  <programme start="20241027205600 +0100" stop="20241027205900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241027221000 +0100" stop="20241027223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
