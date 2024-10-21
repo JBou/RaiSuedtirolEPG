@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241020200000 +0200" stop="20241020202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241020202100 +0200" stop="20241020205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Josefin Bressel</sub-title>
-    <desc>Die gebürtige Berlinerin ist Schauspielerin und Moderatorin. Nach einigen Jahren in Südtirol spielt Josefin Bressel seit 2023 in einer bekannten deutschen Fernsehserie mit.
-
-Schon früh interessierte sie sich für Schauspielerei. Ihr Schauspielstudium absolvierte sie an der &quot;Film Acting School&quot; in Köln. In Südtirol war Josefin Bressel als Filmredakteurin, Model und Co-Moderatorin von Toms Kellershow aus RAI Südtirol tätig. Darüber hinaus übernahm sie kleinere Rollen in verschiedenen Filmen und Serien, darunter auch im Bozen-Krimi. Seit 2023 verkörpert Josefin Bressel die Rolle der Alicia Bäumler in der renommierten RTL-Serie &quot;Gute Zeiten, schlechte Zeiten&quot; (kurz GZSZ).
-Schon als Kind war Josefin viel in Südtirol. Am liebsten am Kalterer See und in Sulden. Das und mehr erzählt sie im Gespräch mit Markus Frings.</desc>
-  </programme>
-  <programme start="20241020205000 +0200" stop="20241020205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241020221000 +0200" stop="20241020223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241021180000 +0200" stop="20241021181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
