@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241022200000 +0200" stop="20241022202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241022202000 +0200" stop="20241022203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241022203500 +0200" stop="20241022204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Zwei Südtiroler Derby stehen am neunten Spieltag in der Oberliga auf dem Programm: Obermais empfängt auf der Lahn St. Pauls, während Tramin gegen Partschins spielt. Es ist kaum zu glauben, aber dieses Duell hat es bisher im Südtiroler Amateurfußball erst sechs Mal gegeben. In der Landeliga kommt es zum Top-Match zwischen den Titelanwärtern Naturns und Ahrntal.</desc>
-  </programme>
-  <programme start="20241022221000 +0200" stop="20241022223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241023200000 +0200" stop="20241023202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
