@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241023200000 +0200" stop="20241023202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241023202000 +0200" stop="20241023205127 +0200" channel="Rai Südtirol">
-    <title>Pietro Mitolo</title>
-    <sub-title/>
-    <desc>Der politische Werdegang eines Italieners, der als prominentester Vertreter des Movimento Sociale Italiano MSI galt und als Verehrer Mussolinis. Eine filmische Biografie von Audrey Schwarz und Klaus Romen.
-
-Für die italienische Linke und für den Großteil der Südtiroler waren die Mitolo-Brüder  erklärte Neofaschisten und mitverantwortlich für die Radikalisierung des politischen Klimas im Nachkriegssüdtirol. 
-Andrea wurde 1914 als Sohn eines Carabiniere in Sizilien geboren und kam im Alter von vier Jahren nach Bozen. Bereits seine Kindheit war geprägt von der Konfrontation mit Südtirolern. 
-Auch sein jüngerer Bruder Pietro war ein begeisterter Mussolini-Anhänger. Nach der Achse Berlin-Rom absolvierte er in Bayern die Ausbildung zum Kampfpiloten und lernte Deutsch. Beide Mitolo-Brüder kämpften nach 1943 auf Seiten der Repubblica di Salò gegen die Resistenza.
-Nach dem Ende der faschistischen Diktatur bekannten sich Andrea und Pietro Mitolo
-zur parlamentarischen Demokratie und bewarben sich für den Movimento Sociale Italiano MSI um Sitze im Bozner Gemeinderat, im Regionalrat und in der Abgeordnetenkammer - und Pietro Mitolo sogar im Europaparlament.</desc>
-  </programme>
-  <programme start="20241023221000 +0200" stop="20241023223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241024200000 +0200" stop="20241024202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
