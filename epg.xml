@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241025180000 +0200" stop="20241025182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Was gibt uns Halt in Krisenzeiten?</sub-title>
-    <desc>In Zeiten der Krise Glück zu empfinden, ist nicht selbstverständlich und alles andere als leicht. Was können wir also tun, wenn Gefühle wie Angst, Trauer und Wut uns bestimmen? 
-
-Über Resilienz in Krisenzeiten sprechen wir unter anderem mit dem Vitalmasseur, Entspannungstrainer und Yogalehrer Stefan Torggler. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über die Mendelbahn aus dem Amt für Film und Medien und erinnern an 50 Jahre Musikschule Meran. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20241025182900 +0200" stop="20241025185830 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Höhlenforschung auf der Sennesalm, ein Projekt zum Haselnuss-Anbau in Südtirol, Permafrost-Schutz auf der Tofana im Trentino. In dieser Ausgabe folgen wir Innsbrucker Höhlenforschern auf die Sennesalm, die dort seit Jahren Eishöhlen erforschen und seltene Kristalle gefunden haben. 
-Zudem präsentieren wir das Projekt des Süßwarenunternehmens Loacker und des Versuchszentrums Laimburg, in dem der Anbau von Haselnüssen in Südtirol erforscht wird. 
-Schließlich präsentieren wir ein Pilotprojekt auf der Tofana, wo das Fundament der Bergstation des Sesselliftes eingefroren wird, um den Permafrost zu schützen.</desc>
-  </programme>
-  <programme start="20241025200000 +0200" stop="20241025202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241025202000 +0200" stop="20241025215930 +0200" channel="Rai Südtirol">
-    <title>WIR im Konzert</title>
-    <sub-title>Südtirol Filarmonica live</sub-title>
-    <desc>In Südtirol zu Hause, in der Welt erfolgreich: 82 Musiker:innen des Spitzenorchesters Südtirol Filarmonica konzertieren in Toblach unter dem Motto &quot;Die Kraft der Freundschaft&quot;,
-RAI Südtirol überträgt live.
-
-Unter dem Dirigenten Michael Pichler interpretiert das Orchester Werke von Ludwig Thuille, Richard Strauss und Maurice Ravel.
-Südtirol Filarmonica ist ein Netzwerk von über 300 Südtiroler Musiker:innen, die die Basis dieses Projekts bilden. Die meisten von ihnen leben im Ausland und sind bei den namhaftesten Symphonieorchestern engagiert; einige studieren an renommierten Musikhochschulen der Welt. Heuer werden 82 dieser Musiker:innen die drei Konzerte bestreiten. Moderation der Liveübertragung aus dem Gustav Mahler-Saal in Toblach: Gertrud Prenn.</desc>
-  </programme>
-  <programme start="20241025221000 +0200" stop="20241025223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241026180000 +0200" stop="20241026182930 +0200" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
@@ -258,6 +225,30 @@ In Bad Bachgart, dem Zentrum für stationäre Psychotherapie, wird besonders dar
 Aber natürlich hat die digitale Welt auch viele positive Seiten, sagt Psychiatrie-Primar Andreas Conca. Eine Reportage von Ulli Velano.</desc>
   </programme>
   <programme start="20241102221000 +0100" stop="20241102223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241103200000 +0100" stop="20241103202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241103202000 +0100" stop="20241103204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Depression ist ein Frauenthema. Und ein Männerleiden. Wie können Frauen helfen, dass bei Männern das Tabu Depression fällt? Die Aktivistin Majda Brecelj im Porträt.
+
+Oft bleibt die Depression bei Männern unerkannt. Wir fragen Psychiater und Betroffene: Warum sind Symptome tatsächlich weiblich oder männlich? Wie beeinflussen Rollenbilder die Diagnose und Therapie? Und wie können Frauen helfen, dass bei Männern das Tabu Depression fällt? In Brixen soll ein Zentrum für Genderpsychiatrie entstehen. Weil auch Frauen besser leben, wenn den Männern geholfen wird.
+Majda Brecelj: Sie gehörte zu den lautesten Stimmen der Umweltaktivist:innen von Fridays for future, die sie 2019 mitbegründete. Dem Aktivismus für eine bessere Zukunft galt ihr ganzes Engagement, auch bei der Aktionsgruppe &quot;No Excuses&quot; war die zweisprachige Südtirolerin die Frontfrau, steckte viel Energie in die Bewegung, die gegen eine rechte Koalition der Landesregierung mobil machte. Der Einsatz der letzten sechs Jahre ging nicht spurlos an der 25-jährigen vorüber: die große Verantwortung, die wenig konstanten Mitstreiter:innen - all das zehrte und sie merkte, dass sie eine Pause einlegen musste. Im dF Porträt lernen wir eine nachdenkliche Majda Brecelj kennen, die sich dem System nicht unterordnen will und dabei ist, sich als Fotografin und Filmproduzentin neu kennenzulernen.
+In df-Info widmen wir uns diesmal der Forschung zu Frauengeschichte und Queer History sowie dem Thema Sex, dessen patriarchale Realitäten und matriarchale Perspektiven in einer Tagung beleuchtet wurden.</desc>
+  </programme>
+  <programme start="20241103205000 +0100" stop="20241103205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241103221000 +0100" stop="20241103223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
