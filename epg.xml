@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241026180000 +0200" stop="20241026182930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Nomadenvolk der irischen Traveller, der Verein &quot;Survival International&quot; zum Schutz indigener Völker, Prof. Silvia Dal Negro und die Minderheitensprachen. Es moderiert Christina Khuen. Die irischen Traveller sind ein Nomadenvolk, das schon seit Jahrhunderten auf der grünen Insel lebt. Früher zogen sie mit Planwagen umher, heute mit dem Wohnwagen. Sie lassen sich auf öffentlichen Parkplätzen, am Straßenrand und auf Campingplätzen nieder oder leben auf Plätzen, die ihnen von den Städten zur Verfügung gestellt werden. Minet auf Spurensuche in Irland.
-1969 wurde in Berlin der Verein gegründet. Er setzt sich für indigene Völker ein, bietet ihnen eine Plattform, um deren Vernichtung zu verhindern. Survival International übt Druck auf die Mächtigen dieser Welt aus, um das Land, das Leben, die Zukunft dieser Menschen zu verteidigen. 
-Im Minet-Gespräch ist die Uniprofessorin Silvia Dal Negro zu Gast, die sich in ihrer Forschungstätigkeit mit Minderheitensprachen beschäftigt.</desc>
-  </programme>
-  <programme start="20241026182900 +0200" stop="20241026185830 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Josefin Bressel</sub-title>
-    <desc>Die gebürtige Berlinerin ist Schauspielerin und Moderatorin. Nach einigen Jahren in Südtirol spielt Josefin Bressel seit 2023 in einer bekannten deutschen Fernsehserie mit. Schon früh interessierte sie sich für Schauspielerei. Ihr Schauspielstudium absolvierte sie an der &quot;Film Acting School&quot; in Köln. In Südtirol war Josefin Bressel als Filmredakteurin, Model und Co-Moderatorin von Toms Kellershow aus RAI Südtirol tätig. Darüber hinaus übernahm sie kleinere Rollen in verschiedenen Filmen und Serien, darunter auch im Bozen-Krimi. Seit 2023 verkörpert Josefin Bressel die Rolle der Alicia Bäumler in der renommierten RTL-Serie &quot;Gute Zeiten, schlechte Zeiten&quot; (kurz GZSZ).
-Schon als Kind war Josefin viel in Südtirol. Am liebsten am Kalterer See und in Sulden. Das und mehr erzählt sie im Gespräch mit Markus Frings.</desc>
-  </programme>
-  <programme start="20241026200000 +0200" stop="20241026202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241026202000 +0200" stop="20241026202300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241026202300 +0200" stop="20241026205230 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Eine Köchin, ein Koch und zwei herbstliche Tartar-Gerichte mit und ohne Fleisch. Helene Markart aus Niederdorf und Mirko Mair aus Pfalzen machen Lust auf Kartoffeln, Pilze und Rindfleisch. 
-
-Helene Markart und Mirko Mair bereiten ihre beiden herbstlichen Lieblingsgerichte zu. Dabei kommen sowohl Fleischliebhaber als auch Vegetarier auf ihre Kosten. 
-Die Chefköchin des Gasthauses Adler in Niederdorf liebt Kartoffeln über alles. Je bunter sie sind umso besser. Sie erzählt von ihrer Begeisterung für das Knollengemüse, das sie in einen Tartar mit Pilzen verwandelt. 
-Der Chef des Restaurants Sichelburg in Pfalzen verrät uns, was ein guter Tartar vom Rind mit einem Senf-Eis zu tun hat und wie er einheimische Köstlichkeiten mit asiatischen Aromen mischt.</desc>
-  </programme>
-  <programme start="20241026221000 +0200" stop="20241026223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241027200000 +0100" stop="20241027202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
