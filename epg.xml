@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241027200000 +0100" stop="20241027202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241027202100 +0100" stop="20241027205624 +0100" channel="Rai Südtirol">
-    <title>Ein Blick zurück nach vorne</title>
-    <sub-title/>
-    <desc>Liz Marmsoler, Rosa Franzelin Werth, Jul Bruno Laner, Elmar Streitberger: Vier Prominente des Landes und ihre sehr persönlichen Ansichten zu den großen Fragen des Lebens: Glaube, Tod und Glück. 
-Im Rückblick auf ihre Erfahrungen erzählen sie davon, was sie geprägt hat, welche Gedanken sie beschäftigen und wie sie den Lauf ihres Lebens bewerten:  Elmar Streitberger, der rockige Konditormeister aus Bozen, Liz Marmsoler, die auf fast allen Bühnen im Lande gespielt hat, Jul Bruno Laner, Maler, Autor und Erfinder eines neuen Staates, und die ehemalige Landtagspolitikerin Rosa Franzelin Werth. 
-Alle vier Persönlichkeiten vermitteln private Einsichten und Erfahrungen.</desc>
-  </programme>
-  <programme start="20241027205600 +0100" stop="20241027205900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241027221000 +0100" stop="20241027223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241028180000 +0100" stop="20241028181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
