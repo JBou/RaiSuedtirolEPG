@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241030200000 +0100" stop="20241030202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241030202000 +0100" stop="20241030204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Pustertaler Sprinzen - eine fast ausgestorbene Rinderrasse im Aufschwung. Haflinger-Fohlen - die schönsten Pferdlen im Wettbewerb. Erfolge und Rückschläge für die neuen Apfelsorten. 
-
-Die Pustertaler Sprinzen waren einst sehr bekannt im Alpenraum. Vor 150 Jahren wurden sie noch auf der Weltausstellung in Wien gezeigt, aber ab der 60er Jahre drohten sie fast vollständig auszusterben. Einige Bauern im Pustertal und Gadertal aber hielten an dieser Rasse fest und züchteten sie weiter. So konnte vor 30 Jahren wieder eine eigene Vereinigung der Sprinzenzüchter gegründet werden. Seitdem erlebt diese autochthone Rinderrasse einen beachtlichen Aufschwung und heuer wird dieser Erfolg bei einer großen Jubiläumsschau gefeiert.
-Wenn ein Haflingerfohlen auf die Welt kommt, dann beginnt sofort der Wettbewerb im Vergleich mit allen anderen. Nur die schönsten kommen für die Zucht in Frage. Die erste Hürde nehmen die anmutigen, blonden Pferdlen beim jährlichen Fohlenbrennen und Fohlenchampionat.
-Cosmic Crisp, Yello, Sweetango, Redpop, Giga sind die neuen Apfelsorten, die den Bauern mehr Einkommen und den Konsumenten neue Geschmackserlebnisse versprechen. Doch können sie dies auch halten? Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20241030221000 +0100" stop="20241030223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241031200000 +0100" stop="20241031202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
