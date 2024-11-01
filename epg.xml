@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241031200000 +0100" stop="20241031202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241031202000 +0100" stop="20241031204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Aberglaube</sub-title>
-    <desc>Glück und Pech liegen oft nah beieinander. Kreuzt eine schwarze Katze von links unseren Weg, soll sie Unglück bringen. Kommt sie aber von rechts, wartet angeblich Glück auf uns. Woher kommt der Aberglaube? 
-Was bringt Glück, was bringt Pech? Es gibt etliche Gegenstände und Symbole, die angeblich Glück oder Unglück bringen sollen - und an deren Kraft viele Menschen glauben. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von 1966 und zeigen Ausschnitte aus dem Dokumentarfilm &quot;Die Lauterfresser&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241031221000 +0100" stop="20241031223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241101180000 +0100" stop="20241101182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Aberglaube</sub-title>
@@ -111,6 +95,185 @@ In df-Info widmen wir uns diesmal der Forschung zu Frauengeschichte und Queer Hi
     <desc/>
   </programme>
   <programme start="20241103221000 +0100" stop="20241103223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241104180000 +0100" stop="20241104181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match der elften Runde in der Fußball-Oberliga ist das Südtiroler Derby Obermais gegen Virtus Bozen. Beide Mannschaften zählen zu den Meisterschaftsfavoriten. In der Landesliga empfängt Terlan den SSV Leifers, während Salurn auf Ahrntal trifft.</desc>
+  </programme>
+  <programme start="20241104181400 +0100" stop="20241104182830 +0100" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Sukkulenten</sub-title>
+    <desc>Zipp-Pflanzenfachfrau Karin stellt diesmal die Sukkulenten vor. Sukku was? Sukkulenten sind saftreiche Pflanzen. Sie gedeihen in trockenen und heißen Gegenden, da sie in ihren Blättern, Stämmen oder Wurzeln Wasser speichern können. Die bekanntesten unter ihnen sind Kakteen, Agaven, Aloe Vera, aber auch die Orchideen. Doch mit welchen Tricks trotzen die raffinierten Sukkulenten der Trockenheit?</desc>
+  </programme>
+  <programme start="20241104182900 +0100" stop="20241104185847 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Pustertaler Sprinzen - eine fast ausgestorbene Rinderrasse im Aufschwung. Haflinger-Fohlen - die schönsten Pferdlen im Wettbewerb. Erfolge und Rückschläge für die neuen Apfelsorten. Die Pustertaler Sprinzen waren einst sehr bekannt im Alpenraum. Vor 150 Jahren wurden sie noch auf der Weltausstellung in Wien gezeigt, aber ab der 60er Jahre drohten sie fast vollständig auszusterben. Einige Bauern im Pustertal und Gadertal aber hielten an dieser Rasse fest und züchteten sie weiter. So konnte vor 30 Jahren wieder eine eigene Vereinigung der Sprinzenzüchter gegründet werden. Seitdem erlebt diese autochthone Rinderrasse einen beachtlichen Aufschwung und heuer wird dieser Erfolg bei einer großen Jubiläumsschau gefeiert.
+Wenn ein Haflingerfohlen auf die Welt kommt, dann beginnt sofort der Wettbewerb im Vergleich mit allen anderen. Nur die schönsten kommen für die Zucht in Frage. Die erste Hürde nehmen die anmutigen, blonden Pferdlen beim jährlichen Fohlenbrennen und Fohlenchampionat.
+Cosmic Crisp, Yello, Sweetango, Redpop, Giga sind die neuen Apfelsorten, die den Bauern mehr Einkommen und den Konsumenten neue Geschmackserlebnisse versprechen. Doch können sie dies auch halten? Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20241104200000 +0100" stop="20241104202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241104202000 +0100" stop="20241104212000 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20241104212000 +0100" stop="20241104214900 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Digitale Sucht</sub-title>
+    <desc>Unser Alltag wird immer mehr von der digitalen Welt dominiert. Ohne Handy können wir kein Bankgeschäft erledigen, keine Autos laden oder mit anderen kommunizieren. Doch wo beginnt ein Suchtverhalten? Dr. Oskar Giovanelli betreut Digitalsüchtige und stellt fest, dass diese Art von Sucht schwer therapiert werden kann, da die digitale Welt nicht mehr wegzudenken ist.
+In Bad Bachgart, dem Zentrum für stationäre Psychotherapie, wird besonders darauf geachtet, dass Süchtige und Depressive ihr psychisches Loch nicht mit digitalen Unterhaltungsmöglichkeiten stopfen. Für Leiter Martin Fronthaler kann eine Therapie nur dann funktionieren, wenn das Handy achtsam benutzt wird.
+Aber natürlich hat die digitale Welt auch viele positive Seiten, sagt Psychiatrie-Primar Andreas Conca. Eine Reportage von Ulli Velano.</desc>
+  </programme>
+  <programme start="20241104214900 +0100" stop="20241104215836 +0100" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Gemeinschaftszentrum Maria Heim in Bozen</sub-title>
+    <desc>Die Geschichte der Anlage begann Anfang des 17. Jahrhunderts, als der Neustifter Propst Markus Hauser von Weissenstein in der späteren Gemeinde Gries 8 Hektar Grund erwarb, um dort Weinbau zu betreiben.
+Nach 1920 wurde der Weinbau durch die bauliche Expansion Bozens stark reduziert, auch wenn die Stiftskellerei Neustift rund um Maria Heim noch immer heimischen Lagrein anbaut. Herzstück der Anlage ist ihr ansitzartiges Hauptgebäude, das mit zahlreichen Fresken ausgestattet ist.</desc>
+  </programme>
+  <programme start="20241104221000 +0100" stop="20241104223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241105200000 +0100" stop="20241105202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241105202000 +0100" stop="20241105203430 +0100" channel="Rai Südtirol">
+    <title>Pro&amp;Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241105203500 +0100" stop="20241105204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match der elften Runde in der Fußball-Oberliga ist das Südtiroler Derby Obermais gegen Virtus Bozen. Beide Mannschaften zählen zu den Meisterschaftsfavoriten. In der Landesliga empfängt Terlan den SSV Leifers, während Salurn auf Ahrntal trifft.</desc>
+  </programme>
+  <programme start="20241105221000 +0100" stop="20241105223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241106200000 +0100" stop="20241106202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241106202000 +0100" stop="20241106204930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Die Fachoberschule Marie Curie in Meran fördert unternehmerisches Denken durch die Simulierung von Start-ups. Automatisierung und Digitalisierung im Sägewerksbetrieb Holz Pichler. 
+Die &quot;Entrepreneurship Week&quot; in der Fachoberschule für Tourismus und Biotechnologie &quot;Marie Curie&quot; in Meran will unternehmerisches Denken fördern. Zum Auftakt gibt es im Co-Working-Space &quot;Mind&quot; am Pferderennenplatz einen fiktiven Wettbewerb der Ideen. Schüler simulieren in Projektgruppen Start-ups und entwickeln Produkte, die sie einer Fachjury vorstellen, ganz nach dem Vorbild von bekannten deutschen Fernsehformaten wie  &quot;Die Höhle der Löwen&quot;. 
+Außerst innovativ präsentieren sich auch eingesessene Südtiroler Unternehmen: Im Eggental ist der Sägewerksbetrieb Holz Pichler in den letzten Jahren zum größten des Landes gewachsen. Digitalisierung und Automatisierung helfen dabei, aus den Mengen an Rundholz hochwertige Produkte zu produzieren. Das Unternehmen ist außerdem ein gutes Beispiel für die langjährige Zusammenarbeit mit lokalen innovativen Anlagen- und Maschinenbauunternehmen.</desc>
+  </programme>
+  <programme start="20241106221000 +0100" stop="20241106223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241107200000 +0100" stop="20241107202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241107202000 +0100" stop="20241107204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Südtiroler Tracht</sub-title>
+    <desc>Südtirol besitzt eine Trachtenvielfalt, die im Alpenraum einmalig ist. Jedes Tal, sogar fast jeder Ort hat seine eigene Tracht, die sich in Farbe und Modell voneinander unterscheidet. 
+
+Doch, wer trägt heute noch Tracht und wie hat sie sich im Laufe der Zeit verändert? In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben einen kleinen Einblick in die Dokumentation &quot;Die Lederhose&quot;. 
+Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20241107213000 +0100" stop="20241107215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Wintersaison ist offiziell gestartet und auch heuer werden in Südtirol wieder zehn Weltcup-Rennen in sechs verschiedenen Disziplinen ausgetragen. Die Vorbereitungen laufen bereits auf Hochtouren. 
+Am Wochenende fand in Bozen die 28. Auflage des &quot;Internationalen Swimmeetings&quot; statt. Gestern wurden die Italienpokal-Halbfinalpartien Brixen gegen Virtus Bozen und St. Georgen gegen St. Pauls gespielt.</desc>
+  </programme>
+  <programme start="20241107221000 +0100" stop="20241107223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241108180000 +0100" stop="20241108182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Südtiroler Tracht</sub-title>
+    <desc>Südtirol besitzt eine Trachtenvielfalt, die im Alpenraum einmalig ist. Jedes Tal, sogar fast jeder Ort hat seine eigene Tracht, die sich in Farbe und Modell voneinander unterscheidet. Doch, wer trägt heute noch Tracht und wie hat sie sich im Laufe der Zeit verändert? In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben einen kleinen Einblick in die Dokumentation &quot;Die Lederhose&quot;. 
+Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20241108182900 +0100" stop="20241108185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Wintersaison ist offiziell gestartet und auch heuer werden in Südtirol wieder zehn Weltcup-Rennen in sechs verschiedenen Disziplinen ausgetragen. Die Vorbereitungen laufen bereits auf Hochtouren. 
+Am Wochenende fand in Bozen die 28. Auflage des &quot;Internationalen Swimmeetings&quot; statt. Gestern wurden die Italienpokal-Halbfinalpartien Brixen gegen Virtus Bozen und St. Georgen gegen St. Pauls gespielt.</desc>
+  </programme>
+  <programme start="20241108200000 +0100" stop="20241108202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241108202100 +0100" stop="20241108212050 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine abwechslungsreiche Herbstwanderung über das Hochplateau am Ritten und ein Blick hinter gut gesicherte Mauern der Südtiroler Sicherheitskräfte, das sind die Themen in dieser Ausgabe von Erlebnis Südtirol.
+
+Moderatorin Magdalena Oberstaller klopft bei der Staatspolizei und bei den Carabinieri an und bekommt Einblicke in so manch verborgene Bereiche. Es bleibt spannend bis zum Schluss. 
+Vorher erkundet Theo Hendrich mit Wanderführer Karl Unterhofer eine schöne Rundwanderung am Rittner Hochplateau, unter anderem mit atemberaubenden Ausblicken auf die Erdpyramiden zwischen Lengmoos und Maria Saal. Danach besuchen die beiden die Kommende Lengmoos sowie eine neu angelegte Kneippanlage. Alles eingebettet in herbstlicher Atmosphäre.</desc>
+  </programme>
+  <programme start="20241108212100 +0100" stop="20241108215030 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Eine Köchin, ein Koch und zwei herbstliche Tartar-Gerichte mit und ohne Fleisch. Helene Markart aus Niederdorf und Mirko Mair aus Pfalzen machen Lust auf Kartoffeln, Pilze und Rindfleisch. 
+Helene Markart und Mirko Mair bereiten ihre beiden herbstlichen Lieblingsgerichte zu. Dabei kommen sowohl Fleischliebhaber als auch Vegetarier auf ihre Kosten. 
+Die Chefköchin des Gasthauses Adler in Niederdorf liebt Kartoffeln über alles. Je bunter sie sind umso besser. Sie erzählt von ihrer Begeisterung für das Knollengemüse, das sie in einen Tartar mit Pilzen verwandelt. 
+Der Chef des Restaurants Sichelburg in Pfalzen verrät uns, was ein guter Tartar vom Rind mit einem Senf-Eis zu tun hat und wie er einheimische Köstlichkeiten mit asiatischen Aromen mischt.</desc>
+  </programme>
+  <programme start="20241108215000 +0100" stop="20241108215830 +0100" channel="Rai Südtirol">
+    <title>Kastellane</title>
+    <sub-title>Terese Gröber von der Trostburg</sub-title>
+    <desc>Sie trägt auch den Übernamen &quot;Trostburg-Tresl&quot;, denn seit über 70 Jahren lebt und arbeitet sie auf der mächtigen Burg oberhalb von Waidbruck.</desc>
+  </programme>
+  <programme start="20241108221000 +0100" stop="20241108223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241109180000 +0100" stop="20241109185900 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine abwechslungsreiche Herbstwanderung über das Hochplateau am Ritten und ein Blick hinter gut gesicherte Mauern der Südtiroler Sicherheitskräfte, das sind die Themen in dieser Ausgabe von Erlebnis Südtirol. Moderatorin Magdalena Oberstaller klopft bei der Staatspolizei und bei den Carabinieri an und bekommt Einblicke in so manch verborgene Bereiche. Es bleibt spannend bis zum Schluss. 
+Vorher erkundet Theo Hendrich mit Wanderführer Karl Unterhofer eine schöne Rundwanderung am Rittner Hochplateau, unter anderem mit atemberaubenden Ausblicken auf die Erdpyramiden zwischen Lengmoos und Maria Saal. Danach besuchen die beiden die Kommende Lengmoos sowie eine neu angelegte Kneippanlage. Alles eingebettet in herbstlicher Atmosphäre.</desc>
+  </programme>
+  <programme start="20241109200000 +0100" stop="20241109202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241109202000 +0100" stop="20241109202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241109202400 +0100" stop="20241109205330 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Die interkulturelle Mediatorin Lulieta Hasani, Weltenbummlerin und Buchautorin Christine Losso, Hundeflüsterer Lou Blaas und Liedermacher Alfred E. Mair haben sich ihre Träume verwirklicht.
+Die interkulturelle Mediatorin und pädagogische Mitarbeiterin für Integrationsprojekte Lulieta Hasani ist überzeugt, dass Freundlichkeit und Empathie wertvolle Verbindungen zwischen den Menschen schaffen. Sie ist vor 30 Jahren als Kriegsflüchtige aus dem Kosovo nach Südtirol gekommen und weiß, wie schwierig die erste Zeit in einem neuen Land ist.
+Interkulturelle Mediation ist auch für Christine Losso unverzichtbar. Seit mehr als 3 Jahrzehnten reist die gebürtige Meranerin um die Welt und organisiert Expeditionen und Abenteuerurlaube, um Menschen füreinander zu öffnen. Seit zehn Jahren lebt sie in Thailand. Jetzt erscheint ein neues Buch von ihr.                  
+Der Hundeflüsterer Lorenz Lou Blaas wurde in seiner Jugend &quot;Bud Spencer vom Vinschgau&quot; genannt. Mit 20 hat er sein Leben komplett verändert, seit über 30 Jahren arbeitet er als Hirte in Graubünden und behandelt seine Tiere homöopathisch.
+Ein Leben ohne seine Gitarren, ohne seine Lieder ist für Alfred E. Mair aus Gais gar nicht vorstellbar. Ihn deshalb als Liedermacher festzumachen, wäre zu wenig. Er bringt sich in vielen Bereichen mit Leidenschaft ein: als Sprecher, Moderator, Rhetoriktrainer oder als Botschafter seines Glaubens.</desc>
+  </programme>
+  <programme start="20241109221000 +0100" stop="20241109223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
