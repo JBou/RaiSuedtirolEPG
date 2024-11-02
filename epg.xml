@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241101180000 +0100" stop="20241101182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Aberglaube</sub-title>
-    <desc>Glück und Pech liegen oft nah beieinander. Kreuzt eine schwarze Katze von links unseren Weg, soll sie Unglück bringen. Kommt sie aber von rechts, wartet angeblich Glück auf uns. Woher kommt der Aberglaube? Was bringt Glück, was bringt Pech? Es gibt etliche Gegenstände und Symbole, die angeblich Glück oder Unglück bringen sollen - und an deren Kraft viele Menschen glauben. In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau Archiv von 1966 und zeigen Ausschnitte aus dem Dokumentarfilm &quot;Die Lauterfresser&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241101182900 +0100" stop="20241101185830 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Frauenfreundschaften und warum sie der ganzen Gesellschaft guttun. Simonetta Nardin, eine Frau, die in die weite Welt gezogen ist und ihre Wurzeln dennoch nie verloren hat. Es ist wie Liebe auf den ersten Blick. Oder wie eine Wahlverwandtschaft: Eine Freundschaft unter Frauen zeichnet sich dadurch aus, dass frau sich ohne viele Worte versteht, sich sicher und verbunden fühlt und damit ein Stück weit auch ihr seelisches Gleichgewicht in Balance bringt. 
-dF geht der Frage nach, was genau Frauen-Freundschaften auszeichnet und warum Sisterhood, sprich der Zusammenhalt unter Frauen, nicht nur den Einzelnen guttut, sondern der ganzen Gesellschaft.
-Im dF Portrait - Simonetta Nardin. Von einer internationalen Schaltzentrale der Macht zurück ins heimatliche Bozen: Diesen Schritt hat die ehemalige Leiterin des Pressebüros des Internationalen Währungsfonds in Washington vor sechs Jahren gemacht. Hier bringt sie ihre Erfahrungen und ihr Wissen ehrenamtlich in der Kulturszene ein, im Engagement gegen Gewalt an Frauen, aber auch als Aktivistin. 
-In df Info: No woman no panel - mehr Sichtbarkeit für Frauen im öffentlichen Diskurs. Und  Finanzwirtin, Autorin und Karrierecoach Susan J. Moldenhauer spricht über Frauen und Finanzen.</desc>
-  </programme>
-  <programme start="20241101200000 +0100" stop="20241101202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241101202100 +0100" stop="20241101210630 +0100" channel="Rai Südtirol">
-    <title>Tod und Jenseitsglaube</title>
-    <sub-title/>
-    <desc>Bestattungskultur, Jenseitsglaube und Auferstehung. Von der Steinzeit bis in die Gegenwart hofften die Menschen auf ein Leben nach dem irdischen Tod. Ein Film von Christoph Wieser.
-Der Tod - er ist ein zentrales Thema im Leben eines jeden Menschen. In der römisch-katholischen Kirche wird er nicht nur als das Ende des irdischen Daseins betrachtet, sondern vielmehr als Übergang zu einem neuen Leben, dem ewigen Leben. Und weit über die hierzulande gelebte christliche Tradition hinaus, hat der Mensch schon seit der Steinzeit auf ein Leben im Jenseits gehofft.
-Der Dokumentarfilm &quot;Tod und Jenseitsglaube&quot; beschäftigt sich mit dem Thema Bestattungskultur, Jenseitsglaube und Auferstehung. Von den Anfängen bis in die Gegenwart; wo sich Archäologie und Christentum begegnen.</desc>
-  </programme>
-  <programme start="20241101210600 +0100" stop="20241101215034 +0100" channel="Rai Südtirol">
-    <title>Sterben - ein Weg zurück</title>
-    <sub-title/>
-    <desc>Die Dokumentation von Astrid Kofler macht das Tor auf zu einem weiten Feld: Abschied nehmen, gehen lassen, trauern, neu beginnen. Viele Menschen kommen zu Wort: Silke Perathoner, die sich an den letzten Abschied vor der Bergtour erinnert, von der ihr Mann nicht mehr zurückgekommen ist. Und Gabriela Mair am Tinkhof, die denkt, dass ihre verstorbene Tochter ihre Lebensaufgabe erfüllt hat, auch wenn sie nur drei Jahre alt geworden ist.</desc>
-  </programme>
-  <programme start="20241101215100 +0100" stop="20241101215923 +0100" channel="Rai Südtirol">
-    <title>Kastellane</title>
-    <sub-title>Alexander Maier von der Burg Taufers</sub-title>
-    <desc>Die mächtige Burg am Eingang ins Ahrntal hat eine 800jährige Geschichte. Viele Anekdoten aus längst vergangenen Zeiten kennt Kastellan Alexander Maier. Noch bis 3.November dauert die Sonderausstellung zum Thema Volksglaube. Die Burg selber kann das ganze Jahr über besucht werden.</desc>
-  </programme>
-  <programme start="20241101221000 +0100" stop="20241101223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241102180000 +0100" stop="20241102185900 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -274,6 +234,30 @@ Der Hundeflüsterer Lorenz Lou Blaas wurde in seiner Jugend &quot;Bud Spencer vo
 Ein Leben ohne seine Gitarren, ohne seine Lieder ist für Alfred E. Mair aus Gais gar nicht vorstellbar. Ihn deshalb als Liedermacher festzumachen, wäre zu wenig. Er bringt sich in vielen Bereichen mit Leidenschaft ein: als Sprecher, Moderator, Rhetoriktrainer oder als Botschafter seines Glaubens.</desc>
   </programme>
   <programme start="20241109221000 +0100" stop="20241109223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241110200000 +0100" stop="20241110202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241110202100 +0100" stop="20241110204530 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Jonas und seine Leidenschaft für die Kultur der Wikinger, Alexa und ihre Pirschgänge im Wald, Lernen im neuen Internationalen Klassenzug am Realgymnasium Bozen. Moderation: Mara Marth.
+
+Der Schludernser Jonas Marigo ist 23 Jahre alt. Um seinen Traum zu verwirklichen, hat er seinen Job als IT-Techniker kurzerhand an den Nagel gehängt und die Sommermonate in Schweden verbracht, um dort für ein Wikinger-Museum zu arbeiten. Wieder zurück in Südtirol lebt er nun seine Leidenschaft als Mitglied eines Wikingervereins aus. 
+Seit dem heurigen Schuljahr gibt es erstmals in Südtirol einen Internationalen Klassenzug am Realgymnasium Bozen - mit Schwerpunkt &quot;Angewandte Naturwissenschaften&quot;. In Klick erfahren wir mehr.
+Die junge Alexa streift in ihrer Freizeit durch die herbstlichen Wälder, denn die Jagdsaison hat begonnen. Diese Leidenschaft teilt sie mit ihrer Mutter Manuela, die sie oft auf ihren Pirschgängen begleitet.</desc>
+  </programme>
+  <programme start="20241110204500 +0100" stop="20241110204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241110221000 +0100" stop="20241110223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
