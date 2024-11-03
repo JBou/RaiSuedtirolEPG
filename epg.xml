@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241102180000 +0100" stop="20241102185900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Kabarett on Tour. Das elektronische Musical &quot;Der Traam&quot;. &quot;Ich, Franz Kafka&quot; vom Freien Theater Bozen. Zu Gast sind Anna Heiss von der Dekadenz, Hannes Götsch und Philipp Kieser von der IG Freie Kultur. Ab Ende November touren Lukas Lobis und Thomas Hochkofler wieder als &quot;Leo und Luis&quot; durch Südtirol. Schon jetzt steht Lukas Lobis mit einem neuen Solo-Kabarett-auf der Bühne, es trägt den Titel &quot;Verwirrt&quot;.
-&quot;Der Traam&quot; wird von den Städtetheatern Bruneck, Brixen, Meran und Bozen gemeinsam auf die Bühne gebracht. Es ist ein elektronisches Musical der Gebrüder Gamper nach einer Vorlage von Selma Mahlknecht und handelt von Liebe und Wohnen, das in Zeiten hoher Mietpreise ein leidiges Thema ist. Durch viel Musik und Humor und die Findigkeit eines unterschätzten Onkels wird das Thema leichter als erwartet.
-Das Freie Theater Bozen hat seit der Gründung vor 31 Jahren immer wieder durch besondere dramaturgische Collagen auf sich aufmerksam gemacht, aber auch durch die Inszenierung bewährter Klassiker und durch moderne Stücke über die zerrissene Welt. Zum 100. Todestag von Franz Kafka bringt es nun &quot;Ich, Franz Kafka&quot; auf die Bühne.
-Im Kompass berichtet außerdem über die Ausstellung von Fotokünstler Walter Niedermayr in Innsbruck und über den Kulturverein LURX in Sterzing, der nach vielen leisen Jahren seine Tätigkeit wieder aufgenommen hat.</desc>
-  </programme>
-  <programme start="20241102200000 +0100" stop="20241102202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241102202000 +0100" stop="20241102202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241102202400 +0100" stop="20241102205330 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Digitale Sucht</sub-title>
-    <desc>Unser Alltag wird immer mehr von der digitalen Welt dominiert. Ohne Handy können wir kein Bankgeschäft erledigen, keine Autos laden oder mit anderen kommunizieren. Doch wo beginnt ein Suchtverhalten? 
-Dr. Oskar Giovanelli betreut Digitalsüchtige und stellt fest, dass diese Art von Sucht schwer therapiert werden kann, da die digitale Welt nicht mehr wegzudenken ist.
-In Bad Bachgart, dem Zentrum für stationäre Psychotherapie, wird besonders darauf geachtet, dass Süchtige und Depressive ihr psychisches Loch nicht mit digitalen Unterhaltungsmöglichkeiten stopfen. Für Leiter Martin Fronthaler kann eine Therapie nur dann funktionieren, wenn das Handy achtsam benutzt wird.
-Aber natürlich hat die digitale Welt auch viele positive Seiten, sagt Psychiatrie-Primar Andreas Conca. Eine Reportage von Ulli Velano.</desc>
-  </programme>
-  <programme start="20241102221000 +0100" stop="20241102223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241103200000 +0100" stop="20241103202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
