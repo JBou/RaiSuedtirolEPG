@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241104180000 +0100" stop="20241104181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match der elften Runde in der Fußball-Oberliga ist das Südtiroler Derby Obermais gegen Virtus Bozen. Beide Mannschaften zählen zu den Meisterschaftsfavoriten. In der Landesliga empfängt Terlan den SSV Leifers, während Salurn auf Ahrntal trifft.</desc>
-  </programme>
-  <programme start="20241104181400 +0100" stop="20241104182830 +0100" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Sukkulenten</sub-title>
-    <desc>Zipp-Pflanzenfachfrau Karin stellt diesmal die Sukkulenten vor. Sukku was? Sukkulenten sind saftreiche Pflanzen. Sie gedeihen in trockenen und heißen Gegenden, da sie in ihren Blättern, Stämmen oder Wurzeln Wasser speichern können. Die bekanntesten unter ihnen sind Kakteen, Agaven, Aloe Vera, aber auch die Orchideen. Doch mit welchen Tricks trotzen die raffinierten Sukkulenten der Trockenheit?</desc>
-  </programme>
-  <programme start="20241104182900 +0100" stop="20241104185847 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Pustertaler Sprinzen - eine fast ausgestorbene Rinderrasse im Aufschwung. Haflinger-Fohlen - die schönsten Pferdlen im Wettbewerb. Erfolge und Rückschläge für die neuen Apfelsorten. Die Pustertaler Sprinzen waren einst sehr bekannt im Alpenraum. Vor 150 Jahren wurden sie noch auf der Weltausstellung in Wien gezeigt, aber ab der 60er Jahre drohten sie fast vollständig auszusterben. Einige Bauern im Pustertal und Gadertal aber hielten an dieser Rasse fest und züchteten sie weiter. So konnte vor 30 Jahren wieder eine eigene Vereinigung der Sprinzenzüchter gegründet werden. Seitdem erlebt diese autochthone Rinderrasse einen beachtlichen Aufschwung und heuer wird dieser Erfolg bei einer großen Jubiläumsschau gefeiert.
-Wenn ein Haflingerfohlen auf die Welt kommt, dann beginnt sofort der Wettbewerb im Vergleich mit allen anderen. Nur die schönsten kommen für die Zucht in Frage. Die erste Hürde nehmen die anmutigen, blonden Pferdlen beim jährlichen Fohlenbrennen und Fohlenchampionat.
-Cosmic Crisp, Yello, Sweetango, Redpop, Giga sind die neuen Apfelsorten, die den Bauern mehr Einkommen und den Konsumenten neue Geschmackserlebnisse versprechen. Doch können sie dies auch halten? Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20241104200000 +0100" stop="20241104202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241104202000 +0100" stop="20241104212000 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20241104212000 +0100" stop="20241104214900 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Digitale Sucht</sub-title>
-    <desc>Unser Alltag wird immer mehr von der digitalen Welt dominiert. Ohne Handy können wir kein Bankgeschäft erledigen, keine Autos laden oder mit anderen kommunizieren. Doch wo beginnt ein Suchtverhalten? Dr. Oskar Giovanelli betreut Digitalsüchtige und stellt fest, dass diese Art von Sucht schwer therapiert werden kann, da die digitale Welt nicht mehr wegzudenken ist.
-In Bad Bachgart, dem Zentrum für stationäre Psychotherapie, wird besonders darauf geachtet, dass Süchtige und Depressive ihr psychisches Loch nicht mit digitalen Unterhaltungsmöglichkeiten stopfen. Für Leiter Martin Fronthaler kann eine Therapie nur dann funktionieren, wenn das Handy achtsam benutzt wird.
-Aber natürlich hat die digitale Welt auch viele positive Seiten, sagt Psychiatrie-Primar Andreas Conca. Eine Reportage von Ulli Velano.</desc>
-  </programme>
-  <programme start="20241104214900 +0100" stop="20241104215836 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Gemeinschaftszentrum Maria Heim in Bozen</sub-title>
-    <desc>Die Geschichte der Anlage begann Anfang des 17. Jahrhunderts, als der Neustifter Propst Markus Hauser von Weissenstein in der späteren Gemeinde Gries 8 Hektar Grund erwarb, um dort Weinbau zu betreiben.
-Nach 1920 wurde der Weinbau durch die bauliche Expansion Bozens stark reduziert, auch wenn die Stiftskellerei Neustift rund um Maria Heim noch immer heimischen Lagrein anbaut. Herzstück der Anlage ist ihr ansitzartiges Hauptgebäude, das mit zahlreichen Fresken ausgestattet ist.</desc>
-  </programme>
-  <programme start="20241104221000 +0100" stop="20241104223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241105200000 +0100" stop="20241105202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
