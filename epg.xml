@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241106200000 +0100" stop="20241106202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241106202000 +0100" stop="20241106204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Die Fachoberschule Marie Curie in Meran fördert unternehmerisches Denken durch die Simulierung von Start-ups. Automatisierung und Digitalisierung im Sägewerksbetrieb Holz Pichler. 
-Die &quot;Entrepreneurship Week&quot; in der Fachoberschule für Tourismus und Biotechnologie &quot;Marie Curie&quot; in Meran will unternehmerisches Denken fördern. Zum Auftakt gibt es im Co-Working-Space &quot;Mind&quot; am Pferderennenplatz einen fiktiven Wettbewerb der Ideen. Schüler simulieren in Projektgruppen Start-ups und entwickeln Produkte, die sie einer Fachjury vorstellen, ganz nach dem Vorbild von bekannten deutschen Fernsehformaten wie  &quot;Die Höhle der Löwen&quot;. 
-Außerst innovativ präsentieren sich auch eingesessene Südtiroler Unternehmen: Im Eggental ist der Sägewerksbetrieb Holz Pichler in den letzten Jahren zum größten des Landes gewachsen. Digitalisierung und Automatisierung helfen dabei, aus den Mengen an Rundholz hochwertige Produkte zu produzieren. Das Unternehmen ist außerdem ein gutes Beispiel für die langjährige Zusammenarbeit mit lokalen innovativen Anlagen- und Maschinenbauunternehmen.</desc>
-  </programme>
-  <programme start="20241106221000 +0100" stop="20241106223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241107200000 +0100" stop="20241107202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -138,6 +121,145 @@ Die junge Alexa streift in ihrer Freizeit durch die herbstlichen Wälder, denn d
     <desc/>
   </programme>
   <programme start="20241110221000 +0100" stop="20241110223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241111180000 +0100" stop="20241111181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match der 12. Runde in der Fußball-Oberliga ist das Uralt-Derby St. Pauls gegen Tramin. Im zweiten Südtiroler Duell empfängt die Überraschungs-Elf der Meisterschaft, Partschins den Bozner FC. In der Landesliga trifft Latsch zu Hause auf Lana.</desc>
+  </programme>
+  <programme start="20241111181400 +0100" stop="20241111182830 +0100" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Nörggelen in Petersberg</sub-title>
+    <desc>Bei einer Wanderpause im nebeligen Herbstwald wirft Clownfrau Karamela ihre Jauseabfälle in den Wald und trifft damit schlafende Nörggelen. Die kleinen Waldwesen sind darüber recht verärgert und spielen Karamela einige Streiche, mit der Absicht ihr die Natur und das Leben im Wald näher zu bringen.</desc>
+  </programme>
+  <programme start="20241111182900 +0100" stop="20241111185830 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Die interkulturelle Mediatorin Lulieta Hasani, Weltenbummlerin und Buchautorin Christine Losso, Hundeflüsterer Lou Blaas und Liedermacher Alfred E. Mair haben sich ihre Träume verwirklicht.
+Die interkulturelle Mediatorin und pädagogische Mitarbeiterin für Integrationsprojekte Lulieta Hasani ist überzeugt, dass Freundlichkeit und Empathie wertvolle Verbindungen zwischen den Menschen schaffen. Sie ist vor 30 Jahren als Kriegsflüchtige aus dem Kosovo nach Südtirol gekommen und weiß, wie schwierig die erste Zeit in einem neuen Land ist.
+Interkulturelle Mediation ist auch für Christine Losso unverzichtbar. Seit mehr als 3 Jahrzehnten reist die gebürtige Meranerin um die Welt und organisiert Expeditionen und Abenteuerurlaube, um Menschen füreinander zu öffnen. Seit zehn Jahren lebt sie in Thailand. Jetzt erscheint ein neues Buch von ihr.                  
+Der Hundeflüsterer Lorenz Lou Blaas wurde in seiner Jugend &quot;Bud Spencer vom Vinschgau&quot; genannt. Mit 20 hat er sein Leben komplett verändert, seit über 30 Jahren arbeitet er als Hirte in Graubünden und behandelt seine Tiere homöopathisch.
+Ein Leben ohne seine Gitarren, ohne seine Lieder ist für Alfred E. Mair aus Gais gar nicht vorstellbar. Ihn deshalb als Liedermacher festzumachen, wäre zu wenig. Er bringt sich in vielen Bereichen mit Leidenschaft ein: als Sprecher, Moderator, Rhetoriktrainer oder als Botschafter seines Glaubens.</desc>
+  </programme>
+  <programme start="20241111200000 +0100" stop="20241111202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241111202000 +0100" stop="20241111212920 +0100" channel="Rai Südtirol">
+    <title>Schulbeispiel Südtirol</title>
+    <sub-title>Eine Be-Sonderautonomie</sub-title>
+    <desc>Was bedeutet es, in einer Grenzregion zu leben, die mehrere Sprachen und Traditionen vereint? Diese Frage hat sich ein italienisches Filmteam aus Mailand gestellt und sich auf die Suche nach Antworten gemacht. 
+
+Herausgekommen ist eine TV-Dokumentation, die eine neue Perspektive anbietet. Wiege des Films ist das Buch von Carlo von Guggenberg (&quot;L'Altro Adige&quot;, also &quot;Das andere Südtirol&quot;), das das Leben des Enkels zweier konträrer Überzeugungen schildert. Jener nämlich eines Dableibers und jener eines Optanten. Einer von diesen Großvätern war Otto von Guggenberg, der 1939 für das Dableiben optierte und einer der Gründer der Südtiroler Volkspartei war. Im Jahr 1946 überquerte er heimlich und zu Fuß die Alpen, um an der Pariser Friedenskonferenz teilzunehmen, wo das erste Autonomiestatut beschlossen wurde. Der andere Großvater, Paul Mayr, führte als Optant fast 50 Jahre die Geschäfte der Sparkasse Bozen und leitete während der nationalsozialistischen Besetzung den Bankensektor des Landes.
+Neben diesen und anderen Erzählungen des heutigen Carlo Guggenberg fängt die Doku auch Analysen von Historikern (Günther Pallaver und Andrea Di Michele), Politikern (Romano Prodi, Arno Kompatscher und Eva Klotz) und Freidenkern (Reinhold Messner) ein. 
+Eine Doku von außen für den Blick nach innen, eine Geschichte aus der Nähe, von einem Südtiroler in der Ferne.</desc>
+  </programme>
+  <programme start="20241111213000 +0100" stop="20241111215930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Depression ist ein Frauenthema. Und ein Männerleiden. Wie können Frauen helfen, dass bei Männern das Tabu Depression fällt? Die Aktivistin Majda Brecelj im Porträt. Oft bleibt die Depression bei Männern unerkannt. Wir fragen Psychiater und Betroffene: Warum sind Symptome tatsächlich weiblich oder männlich? Wie beeinflussen Rollenbilder die Diagnose und Therapie? Und wie können Frauen helfen, dass bei Männern das Tabu Depression fällt? In Brixen soll ein Zentrum für Genderpsychiatrie entstehen. Weil auch Frauen besser leben, wenn den Männern geholfen wird.
+Majda Brecelj: Sie gehörte zu den lautesten Stimmen der Umweltaktivist:innen von Fridays for future, die sie 2019 mitbegründete. Dem Aktivismus für eine bessere Zukunft galt ihr ganzes Engagement, auch bei der Aktionsgruppe &quot;No Excuses&quot; war die zweisprachige Südtirolerin die Frontfrau, steckte viel Energie in die Bewegung, die gegen eine rechte Koalition der Landesregierung mobil machte. Der Einsatz der letzten sechs Jahre ging nicht spurlos an der 25-jährigen vorüber: die große Verantwortung, die wenig konstanten Mitstreiter:innen - all das zehrte und sie merkte, dass sie eine Pause einlegen musste. Im dF Porträt lernen wir eine nachdenkliche Majda Brecelj kennen, die sich dem System nicht unterordnen will und dabei ist, sich als Fotografin und Filmproduzentin neu kennenzulernen.
+In df-Info widmen wir uns diesmal der Forschung zu Frauengeschichte und Queer History sowie dem Thema Sex, dessen patriarchale Realitäten und matriarchale Perspektiven in einer Tagung beleuchtet wurden.</desc>
+  </programme>
+  <programme start="20241111221100 +0100" stop="20241111223100 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241112200000 +0100" stop="20241112202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241112202000 +0100" stop="20241112203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241112203500 +0100" stop="20241112204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match der 12. Runde in der Fußball-Oberliga ist das Uralt-Derby St. Pauls gegen Tramin. Im zweiten Südtiroler Duell empfängt die Überraschungs-Elf der Meisterschaft, Partschins den Bozner FC. In der Landesliga trifft Latsch zu Hause auf Lana.</desc>
+  </programme>
+  <programme start="20241112221000 +0100" stop="20241112223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241113200000 +0100" stop="20241113202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241113202000 +0100" stop="20241113204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Was unterscheidet Müsli von Müsli? Ein Blick hinter die Kulissen der schnellen und günstigen Mode und deren Schattenseiten. Wie steht es um die Gastfreundschaft? Und im Fokus: Marling - ein attraktiver Ort, den wir genauer unter die Lupe nehmen.
+
+Müsli ist nicht gleich Müsli: Die Verbraucherzentrale Südtirol hat verschiedene Müsliprodukte untersucht und rät, vor dem Kauf einen Blick auf die Nährwerttabellen zu werfen.
+Internationale Studien zeigen, dass billige Mode aus Asien oft gesundheitsschädlich ist, da sie Chemikalien enthält - betroffen sind häufig Kinder.
+Seit Mai 2024 ermöglicht die sogenannte Gäste-Karte Touristen in Südtirol die Nutzung von Öffis und den Zugang zu zahlreichen Museen. Gleichzeitig verschärft der angespannte Wohnungsmarkt die Akzeptanz des Tourismus. Es bleibt zu klären, wie effektiv unsere touristischen Angebote zur positiven Gästegesinnung beitragen.
+Das quirlige Dorf Marling sticht durch Vielfalt, günstige Anbindung und bereichsübergreifende Kooperation hervor und bietet seinem großen Nachbarn Meran Paroli.</desc>
+  </programme>
+  <programme start="20241113221000 +0100" stop="20241113223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241114200000 +0100" stop="20241114202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241114202000 +0100" stop="20241114204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Reparieren oder wegwerfen?</sub-title>
+    <desc>Wer ausmistet, steht oft vor der schwierigen Frage: behalten oder wegwerfen? Aufräumen ist nicht leicht, weil wir ständig Entscheidungen treffen müssen: Brauche ich das noch? 
+
+Entrümpeln ist anstrengend, denn ständig fragt man sich: Soll ich das behalten,  verschenken oder spenden? Und was passiert eigentlich mit den Dingen, die wir wegwerfen? 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und geben außerdem einen Einblick in die Doku  von Andreas Pichler &quot;Alkohol - der globale Rausch&quot;.</desc>
+  </programme>
+  <programme start="20241114221000 +0100" stop="20241114223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241115180000 +0100" stop="20241115182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Reparieren oder wegwerfen?</sub-title>
+    <desc>Wer ausmistet, steht oft vor der schwierigen Frage: behalten oder wegwerfen? Aufräumen ist nicht leicht, weil wir ständig Entscheidungen treffen müssen: Brauche ich das noch? Entrümpeln ist anstrengend, denn ständig fragt man sich: Soll ich das behalten,  verschenken oder spenden? Und was passiert eigentlich mit den Dingen, die wir wegwerfen? 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und geben außerdem einen Einblick in die Doku  von Andreas Pichler &quot;Alkohol - der globale Rausch&quot;.</desc>
+  </programme>
+  <programme start="20241115182900 +0100" stop="20241115185830 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Die Fachoberschule Marie Curie in Meran fördert unternehmerisches Denken durch die Simulierung von Start-ups. Automatisierung und Digitalisierung im Sägewerksbetrieb Holz Pichler. Die &quot;Entrepreneurship Week&quot; in der Fachoberschule für Tourismus und Biotechnologie &quot;Marie Curie&quot; in Meran will unternehmerisches Denken fördern. Zum Auftakt gibt es im Co-Working-Space &quot;Mind&quot; am Pferderennenplatz einen fiktiven Wettbewerb der Ideen. Schüler simulieren in Projektgruppen Start-ups und entwickeln Produkte, die sie einer Fachjury vorstellen, ganz nach dem Vorbild von bekannten deutschen Fernsehformaten wie  &quot;Die Höhle der Löwen&quot;. 
+Außerst innovativ präsentieren sich auch eingesessene Südtiroler Unternehmen: Im Eggental ist der Sägewerksbetrieb Holz Pichler in den letzten Jahren zum größten des Landes gewachsen. Digitalisierung und Automatisierung helfen dabei, aus den Mengen an Rundholz hochwertige Produkte zu produzieren. Das Unternehmen ist außerdem ein gutes Beispiel für die langjährige Zusammenarbeit mit lokalen innovativen Anlagen- und Maschinenbauunternehmen.</desc>
+  </programme>
+  <programme start="20241115200000 +0100" stop="20241115202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241115202000 +0100" stop="20241115213040 +0100" channel="Rai Südtirol">
+    <title>Roland Riz</title>
+    <sub-title/>
+    <desc>Roland Riz - mittlerweile 97 Jahre alt – gilt als einer der Väter der Südtirolautonomie. Seine Tochter Veronika hatte einen Film über ihn geschaffen - aus der Sicht seiner Töchter. Dabei wird der Fokus vor allem auf den Menschen Roland Riz gelegt.
+Parallel zur Berufslaufbahn zeigt der Film das Privatleben des Senators, Anwalts, Professors und Familienvaters. Seine Töchter - jede auf ihre Art und in ihrem privaten Kontext - schildern, wie sie den Vater erlebt haben. Bislang unveröffentlichte Bilder aus dem Privatarchiv der Familie ergänzen den sehr persönlichen Blick auf das Leben des großen Politikers und Obmannes der Südtiroler Volkspartei.</desc>
+  </programme>
+  <programme start="20241115213100 +0100" stop="20241115215745 +0100" channel="Rai Südtirol">
+    <title>in memoriam: Michael Höllrigl</title>
+    <sub-title/>
+    <desc>Der Laaser Künstler Michael Höllrigl hatte zunächst als Steinmetz gearbeitet, um später die Akademie in München zu besuchen. Einige seiner Arbeiten befinden sich im öffentlichen Raum.
+Nach seinem Studium übernimmt Höllrigl den elterlichen Betrieb, arbeitet parallel dazu aber auch als Künstler. Einer breiteren Öffentlichkeit wird Höllrigl durch seine Skulpturen im öffentlichen Raum bekannt. Seine Arbeiten stehen beispielsweise am Bozner Pfarrplatz, im Atrium der Raiffeisen Landesbank. Er schuf auch die Altäre im Bozner Dom und in der St. Martinskirche in Kastelbell.
+Trotz vieler Widrigkeiten und Zweifel hat er ein Werk geschaffen, dessen Leitthema die Frage nach dem Existentiellen und die Suche nach den eigenen Fundamenten ist.
+Der Künstler starb am 18.Juni im Alter von 88 Jahren.</desc>
+  </programme>
+  <programme start="20241115221000 +0100" stop="20241115223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
