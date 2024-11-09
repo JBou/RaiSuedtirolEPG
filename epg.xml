@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241108180000 +0100" stop="20241108182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Südtiroler Tracht</sub-title>
-    <desc>Südtirol besitzt eine Trachtenvielfalt, die im Alpenraum einmalig ist. Jedes Tal, sogar fast jeder Ort hat seine eigene Tracht, die sich in Farbe und Modell voneinander unterscheidet. Doch, wer trägt heute noch Tracht und wie hat sie sich im Laufe der Zeit verändert? In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Amt für Film und Medien und geben einen kleinen Einblick in die Dokumentation &quot;Die Lederhose&quot;. 
-Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20241108182900 +0100" stop="20241108185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Wintersaison ist offiziell gestartet und auch heuer werden in Südtirol wieder zehn Weltcup-Rennen in sechs verschiedenen Disziplinen ausgetragen. Die Vorbereitungen laufen bereits auf Hochtouren. 
-Am Wochenende fand in Bozen die 28. Auflage des &quot;Internationalen Swimmeetings&quot; statt. Gestern wurden die Italienpokal-Halbfinalpartien Brixen gegen Virtus Bozen und St. Georgen gegen St. Pauls gespielt.</desc>
-  </programme>
-  <programme start="20241108200000 +0100" stop="20241108202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241108202100 +0100" stop="20241108212050 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine abwechslungsreiche Herbstwanderung über das Hochplateau am Ritten und ein Blick hinter gut gesicherte Mauern der Südtiroler Sicherheitskräfte, das sind die Themen in dieser Ausgabe von Erlebnis Südtirol.
-
-Moderatorin Magdalena Oberstaller klopft bei der Staatspolizei und bei den Carabinieri an und bekommt Einblicke in so manch verborgene Bereiche. Es bleibt spannend bis zum Schluss. 
-Vorher erkundet Theo Hendrich mit Wanderführer Karl Unterhofer eine schöne Rundwanderung am Rittner Hochplateau, unter anderem mit atemberaubenden Ausblicken auf die Erdpyramiden zwischen Lengmoos und Maria Saal. Danach besuchen die beiden die Kommende Lengmoos sowie eine neu angelegte Kneippanlage. Alles eingebettet in herbstlicher Atmosphäre.</desc>
-  </programme>
-  <programme start="20241108212100 +0100" stop="20241108215030 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Eine Köchin, ein Koch und zwei herbstliche Tartar-Gerichte mit und ohne Fleisch. Helene Markart aus Niederdorf und Mirko Mair aus Pfalzen machen Lust auf Kartoffeln, Pilze und Rindfleisch. 
-Helene Markart und Mirko Mair bereiten ihre beiden herbstlichen Lieblingsgerichte zu. Dabei kommen sowohl Fleischliebhaber als auch Vegetarier auf ihre Kosten. 
-Die Chefköchin des Gasthauses Adler in Niederdorf liebt Kartoffeln über alles. Je bunter sie sind umso besser. Sie erzählt von ihrer Begeisterung für das Knollengemüse, das sie in einen Tartar mit Pilzen verwandelt. 
-Der Chef des Restaurants Sichelburg in Pfalzen verrät uns, was ein guter Tartar vom Rind mit einem Senf-Eis zu tun hat und wie er einheimische Köstlichkeiten mit asiatischen Aromen mischt.</desc>
-  </programme>
-  <programme start="20241108215000 +0100" stop="20241108215830 +0100" channel="Rai Südtirol">
-    <title>Kastellane</title>
-    <sub-title>Terese Gröber von der Trostburg</sub-title>
-    <desc>Sie trägt auch den Übernamen &quot;Trostburg-Tresl&quot;, denn seit über 70 Jahren lebt und arbeitet sie auf der mächtigen Burg oberhalb von Waidbruck.</desc>
-  </programme>
-  <programme start="20241108221000 +0100" stop="20241108223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241109180000 +0100" stop="20241109185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -271,6 +228,29 @@ Das quirlige Dorf Marling sticht durch Vielfalt, günstige Anbindung und bereich
 Troghacken, Laubmesser, Waalhauen, Grammelmesser. Mehr als 40 verschiedene Werkzeuge und Gartengeräte fertigt Florian Waldner in seiner Schmiede in Schleis bei Mals. Er hat die Werkstatt vor über 10 Jahren von seinem Vater Arthur übernommen, weil er merkte, dass die Nachfrage nach handgemachtem Werkzeug und Geräten stieg. Derzeit kaufen die Kunden besonders oft Schindelmesser zum Bauen von Schindeldächern. Und noch weitere Bilder aus Mitteleuropa präsentiert Moderatorin Sigrid Flenger.</desc>
   </programme>
   <programme start="20241116221000 +0100" stop="20241116223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241117200000 +0100" stop="20241117202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241117202100 +0100" stop="20241117205030 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Die Dolomiten in alten Schriften</sub-title>
+    <desc>Klettern im Angesicht des Piz Popena und des Monte Cristallo auf einer historischen Route von Michl Innerkofler. Außerdem: Wandern auf den Spuren der ersten Reisenden in den Dolomiten 1864. 
+
+Die Dolomiten ganz ursprünglich und ohne Touristenmassen: Das kann man in abgelegenen Hochtälern erleben oder beim Lesen in historischen Reiseberichten und Tourenbeschreibungen. Das Bergwelt-Team ist unterwegs auf den Spuren des Sextner Bergführers Michl Innerkofler, der 1884 mit Maria &quot;Mitzl&quot; Eckarth eine Erstbegehung im Popenatal in der Cristallogruppe gemacht hat: detailliert beschrieben in einem alten Reisebericht aus dieser Zeit. Die völlig unerschlossene Route bietet ein Klettererlebnis wie zur Zeit der Pioniere.
+Danach folgen wir den Beschreibungen des ersten Reiseberichtes über die Dolomiten: verfasst von zwei englischen Gentlemen, die gemeinsam mit ihren Frauen in den sechziger Jahren des 19. Jahrhunderts die damals noch unbekannten Dolomiten bereist und beschrieben haben.</desc>
+  </programme>
+  <programme start="20241117205000 +0100" stop="20241117205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241117221000 +0100" stop="20241117223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
