@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241109180000 +0100" stop="20241109185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine abwechslungsreiche Herbstwanderung über das Hochplateau am Ritten und ein Blick hinter gut gesicherte Mauern der Südtiroler Sicherheitskräfte, das sind die Themen in dieser Ausgabe von Erlebnis Südtirol. Moderatorin Magdalena Oberstaller klopft bei der Staatspolizei und bei den Carabinieri an und bekommt Einblicke in so manch verborgene Bereiche. Es bleibt spannend bis zum Schluss. 
-Vorher erkundet Theo Hendrich mit Wanderführer Karl Unterhofer eine schöne Rundwanderung am Rittner Hochplateau, unter anderem mit atemberaubenden Ausblicken auf die Erdpyramiden zwischen Lengmoos und Maria Saal. Danach besuchen die beiden die Kommende Lengmoos sowie eine neu angelegte Kneippanlage. Alles eingebettet in herbstlicher Atmosphäre.</desc>
-  </programme>
-  <programme start="20241109200000 +0100" stop="20241109202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241109202000 +0100" stop="20241109202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241109202400 +0100" stop="20241109205330 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Die interkulturelle Mediatorin Lulieta Hasani, Weltenbummlerin und Buchautorin Christine Losso, Hundeflüsterer Lou Blaas und Liedermacher Alfred E. Mair haben sich ihre Träume verwirklicht.
-Die interkulturelle Mediatorin und pädagogische Mitarbeiterin für Integrationsprojekte Lulieta Hasani ist überzeugt, dass Freundlichkeit und Empathie wertvolle Verbindungen zwischen den Menschen schaffen. Sie ist vor 30 Jahren als Kriegsflüchtige aus dem Kosovo nach Südtirol gekommen und weiß, wie schwierig die erste Zeit in einem neuen Land ist.
-Interkulturelle Mediation ist auch für Christine Losso unverzichtbar. Seit mehr als 3 Jahrzehnten reist die gebürtige Meranerin um die Welt und organisiert Expeditionen und Abenteuerurlaube, um Menschen füreinander zu öffnen. Seit zehn Jahren lebt sie in Thailand. Jetzt erscheint ein neues Buch von ihr.                  
-Der Hundeflüsterer Lorenz Lou Blaas wurde in seiner Jugend &quot;Bud Spencer vom Vinschgau&quot; genannt. Mit 20 hat er sein Leben komplett verändert, seit über 30 Jahren arbeitet er als Hirte in Graubünden und behandelt seine Tiere homöopathisch.
-Ein Leben ohne seine Gitarren, ohne seine Lieder ist für Alfred E. Mair aus Gais gar nicht vorstellbar. Ihn deshalb als Liedermacher festzumachen, wäre zu wenig. Er bringt sich in vielen Bereichen mit Leidenschaft ein: als Sprecher, Moderator, Rhetoriktrainer oder als Botschafter seines Glaubens.</desc>
-  </programme>
-  <programme start="20241109221000 +0100" stop="20241109223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241110200000 +0100" stop="20241110202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
