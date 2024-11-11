@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241110200000 +0100" stop="20241110202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241110202100 +0100" stop="20241110204530 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Jonas und seine Leidenschaft für die Kultur der Wikinger, Alexa und ihre Pirschgänge im Wald, Lernen im neuen Internationalen Klassenzug am Realgymnasium Bozen. Moderation: Mara Marth.
-
-Der Schludernser Jonas Marigo ist 23 Jahre alt. Um seinen Traum zu verwirklichen, hat er seinen Job als IT-Techniker kurzerhand an den Nagel gehängt und die Sommermonate in Schweden verbracht, um dort für ein Wikinger-Museum zu arbeiten. Wieder zurück in Südtirol lebt er nun seine Leidenschaft als Mitglied eines Wikingervereins aus. 
-Seit dem heurigen Schuljahr gibt es erstmals in Südtirol einen Internationalen Klassenzug am Realgymnasium Bozen - mit Schwerpunkt &quot;Angewandte Naturwissenschaften&quot;. In Klick erfahren wir mehr.
-Die junge Alexa streift in ihrer Freizeit durch die herbstlichen Wälder, denn die Jagdsaison hat begonnen. Diese Leidenschaft teilt sie mit ihrer Mutter Manuela, die sie oft auf ihren Pirschgängen begleitet.</desc>
-  </programme>
-  <programme start="20241110204500 +0100" stop="20241110204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241110221000 +0100" stop="20241110223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241111180000 +0100" stop="20241111181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
