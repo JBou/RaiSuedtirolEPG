@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241112200000 +0100" stop="20241112202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241112202000 +0100" stop="20241112203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20241112203500 +0100" stop="20241112204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match der 12. Runde in der Fußball-Oberliga ist das Uralt-Derby St. Pauls gegen Tramin. Im zweiten Südtiroler Duell empfängt die Überraschungs-Elf der Meisterschaft, Partschins den Bozner FC. In der Landesliga trifft Latsch zu Hause auf Lana.</desc>
-  </programme>
-  <programme start="20241112221000 +0100" stop="20241112223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241113200000 +0100" stop="20241113202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
