@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241113200000 +0100" stop="20241113202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241113202000 +0100" stop="20241113204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Was unterscheidet Müsli von Müsli? Ein Blick hinter die Kulissen der schnellen und günstigen Mode und deren Schattenseiten. Wie steht es um die Gastfreundschaft? Und im Fokus: Marling - ein attraktiver Ort, den wir genauer unter die Lupe nehmen.
-
-Müsli ist nicht gleich Müsli: Die Verbraucherzentrale Südtirol hat verschiedene Müsliprodukte untersucht und rät, vor dem Kauf einen Blick auf die Nährwerttabellen zu werfen.
-Internationale Studien zeigen, dass billige Mode aus Asien oft gesundheitsschädlich ist, da sie Chemikalien enthält - betroffen sind häufig Kinder.
-Seit Mai 2024 ermöglicht die sogenannte Gäste-Karte Touristen in Südtirol die Nutzung von Öffis und den Zugang zu zahlreichen Museen. Gleichzeitig verschärft der angespannte Wohnungsmarkt die Akzeptanz des Tourismus. Es bleibt zu klären, wie effektiv unsere touristischen Angebote zur positiven Gästegesinnung beitragen.
-Das quirlige Dorf Marling sticht durch Vielfalt, günstige Anbindung und bereichsübergreifende Kooperation hervor und bietet seinem großen Nachbarn Meran Paroli.</desc>
-  </programme>
-  <programme start="20241113221000 +0100" stop="20241113223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241114200000 +0100" stop="20241114202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
