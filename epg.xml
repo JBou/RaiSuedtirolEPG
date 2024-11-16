@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241115180000 +0100" stop="20241115182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Reparieren oder wegwerfen?</sub-title>
-    <desc>Wer ausmistet, steht oft vor der schwierigen Frage: behalten oder wegwerfen? Aufräumen ist nicht leicht, weil wir ständig Entscheidungen treffen müssen: Brauche ich das noch? Entrümpeln ist anstrengend, denn ständig fragt man sich: Soll ich das behalten,  verschenken oder spenden? Und was passiert eigentlich mit den Dingen, die wir wegwerfen? 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und geben außerdem einen Einblick in die Doku  von Andreas Pichler &quot;Alkohol - der globale Rausch&quot;.</desc>
-  </programme>
-  <programme start="20241115182900 +0100" stop="20241115185830 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Die Fachoberschule Marie Curie in Meran fördert unternehmerisches Denken durch die Simulierung von Start-ups. Automatisierung und Digitalisierung im Sägewerksbetrieb Holz Pichler. Die &quot;Entrepreneurship Week&quot; in der Fachoberschule für Tourismus und Biotechnologie &quot;Marie Curie&quot; in Meran will unternehmerisches Denken fördern. Zum Auftakt gibt es im Co-Working-Space &quot;Mind&quot; am Pferderennenplatz einen fiktiven Wettbewerb der Ideen. Schüler simulieren in Projektgruppen Start-ups und entwickeln Produkte, die sie einer Fachjury vorstellen, ganz nach dem Vorbild von bekannten deutschen Fernsehformaten wie  &quot;Die Höhle der Löwen&quot;. 
-Außerst innovativ präsentieren sich auch eingesessene Südtiroler Unternehmen: Im Eggental ist der Sägewerksbetrieb Holz Pichler in den letzten Jahren zum größten des Landes gewachsen. Digitalisierung und Automatisierung helfen dabei, aus den Mengen an Rundholz hochwertige Produkte zu produzieren. Das Unternehmen ist außerdem ein gutes Beispiel für die langjährige Zusammenarbeit mit lokalen innovativen Anlagen- und Maschinenbauunternehmen.</desc>
-  </programme>
-  <programme start="20241115200000 +0100" stop="20241115202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241115202000 +0100" stop="20241115213040 +0100" channel="Rai Südtirol">
-    <title>Roland Riz</title>
-    <sub-title/>
-    <desc>Roland Riz - mittlerweile 97 Jahre alt – gilt als einer der Väter der Südtirolautonomie. Seine Tochter Veronika hatte einen Film über ihn geschaffen - aus der Sicht seiner Töchter. Dabei wird der Fokus vor allem auf den Menschen Roland Riz gelegt.
-Parallel zur Berufslaufbahn zeigt der Film das Privatleben des Senators, Anwalts, Professors und Familienvaters. Seine Töchter - jede auf ihre Art und in ihrem privaten Kontext - schildern, wie sie den Vater erlebt haben. Bislang unveröffentlichte Bilder aus dem Privatarchiv der Familie ergänzen den sehr persönlichen Blick auf das Leben des großen Politikers und Obmannes der Südtiroler Volkspartei.</desc>
-  </programme>
-  <programme start="20241115213100 +0100" stop="20241115215745 +0100" channel="Rai Südtirol">
-    <title>in memoriam: Michael Höllrigl</title>
-    <sub-title/>
-    <desc>Der Laaser Künstler Michael Höllrigl hatte zunächst als Steinmetz gearbeitet, um später die Akademie in München zu besuchen. Einige seiner Arbeiten befinden sich im öffentlichen Raum.
-Nach seinem Studium übernimmt Höllrigl den elterlichen Betrieb, arbeitet parallel dazu aber auch als Künstler. Einer breiteren Öffentlichkeit wird Höllrigl durch seine Skulpturen im öffentlichen Raum bekannt. Seine Arbeiten stehen beispielsweise am Bozner Pfarrplatz, im Atrium der Raiffeisen Landesbank. Er schuf auch die Altäre im Bozner Dom und in der St. Martinskirche in Kastelbell.
-Trotz vieler Widrigkeiten und Zweifel hat er ein Werk geschaffen, dessen Leitthema die Frage nach dem Existentiellen und die Suche nach den eigenen Fundamenten ist.
-Der Künstler starb am 18.Juni im Alter von 88 Jahren.</desc>
-  </programme>
-  <programme start="20241115221000 +0100" stop="20241115223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241116175900 +0100" stop="20241116182830 +0100" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -263,6 +227,31 @@ Was ist zu tun, wenn ein Haustier stirbt? Wir haben uns beim Amtstierarzt über 
 Wir zeigen weiters allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
   </programme>
   <programme start="20241123221000 +0100" stop="20241123223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241124200000 +0100" stop="20241124202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241124202100 +0100" stop="20241124205030 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Lichtverschmutzung durch Straßenbeleuchtung, menschliche Bewegungen per Computer analysieren, die Vorteile der pilzresistenten PIWI-Rebsorten, der Wirtschaftsstandort Bozen.
+
+Wie sehr trägt die öffentliche Straßenbeleuchtung zur Lichtverschmutzung in unseren Städten bei? Das Planetarium Südtirol geht in einem Forschungsprojekt dieser Frage nach. 
+An der Freien Universität Bozen erzeugen Mathematiker mit Algorythmen Computermodelle, die menschliche Bewegungen erkennen und interpretieren können. Diese Erkenntnis hilft unter anderem, Menschen beim Sportklettern zu unterstützen.
+In dieser Ausgabe erfahren wir außerdem mehr über den Forschungsstand des Versuchszentrums Laimburg, das verstärkt mit pilzresistenten sogenannten PIWI-Rebsorten experimentiert. 
+Im Studio zu Gast ist diesmal der neue Rektor der Freien Universität Bozen, Alex Weissensteiner, der über Herausforderungen und Strategien des Wissenschaftsstandortes Bozen berichten wird.</desc>
+  </programme>
+  <programme start="20241124205000 +0100" stop="20241124205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241124221000 +0100" stop="20241124223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
