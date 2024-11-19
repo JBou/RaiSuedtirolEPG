@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241118180000 +0100" stop="20241118181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Spiel der 13. Oberliga-Runde findet auf der Lahn in Meran statt: Titelanwärter Obermais empfängt Aufsteiger Brixen, beide Mannschaften stehen sich bereits zum 38. Mal in der Meisterschaft gegenüber. 
-In der Landesliga ist Derbyzeit angesagt: Der SSV Bruneck hat im Pusterer Duell Ahrntal zu Gast, Salurn trifft im Unterlandler Derby auf Weinstraße Süd.</desc>
-  </programme>
-  <programme start="20241118181400 +0100" stop="20241118183400 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Alte Tierrassen auf dem Stimpflhof</sub-title>
-    <desc>Pfote-Moderator Stefan besucht Bäuerin Kathi und ihre Familie auf dem Stimpflhof in Aldein. Kathis ganze Freude sind ihre unzähligen Tierarten, die sich auf ihrem Hof tummeln. Besonders vom Aussterben bedrohte Tierrassen haben es ihr angetan, wie  Warzenenten, Zwergesel, die Sprinzen, die Proveis-Hennen... 
-Kathis Mann Vitus zeigt Stefan voller Stolz seine mächtigen Norikerpferde und seine gescheckten Alpenschweine. Nur bei den Bretonische Zwergschafen darf Stefan nicht ins Gehege, denn die drei Widder mit ihren aufgerollten Hörnern verteidigen ihre Jungen und ihr Futter mit Nachdruck, wie Bauer Vitus aus eigener Erfahrung weiß.</desc>
-  </programme>
-  <programme start="20241118183400 +0100" stop="20241118185830 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Handgemachtes Werkzeug wie vor 100 Jahren fertigen Florian und Arthur Waldner in einer über 100 Jahre alten Schmiede in Schleis im Vinschgau. Das ist nur einer der Schauplätze bei Alpen Donau Adria.
-Troghacken, Laubmesser, Waalhauen, Grammelmesser. Mehr als 40 verschiedene Werkzeuge und Gartengeräte fertigt Florian Waldner in seiner Schmiede in Schleis bei Mals. Er hat die Werkstatt vor über 10 Jahren von seinem Vater Arthur übernommen, weil er merkte, dass die Nachfrage nach handgemachtem Werkzeug und Geräten stieg. Derzeit kaufen die Kunden besonders oft Schindelmesser zum Bauen von Schindeldächern. Und noch weitere Bilder aus Mitteleuropa präsentiert Moderatorin Sigrid Flenger.</desc>
-  </programme>
-  <programme start="20241118200000 +0100" stop="20241118202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241118202000 +0100" stop="20241118215930 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Zum 60.Todestag von Sepp Kerschbaumer</title>
-    <sub-title>Der Doku-Abend mit Film und Diskussion</sub-title>
-    <desc>Was bleibt von den Vermächtnissen der Überzeugungstäter? Welche Ideale der Südtirol-Geschichte gehören nicht mehr in unsere Zeit? Darüber wird diskutiert nach einer Doku aus der Serie &quot;Bombenjahre&quot;.
-
-Vieles hat sich verändert seit den 1960er Jahren. Südtirol ist kaum mehr wieder zu erkennen. Die Bevölkerung: vielsprachig und international. Die Lebensgestaltung: individualistisch. Das Alltags-Tempo: hektisch. Die Bindung zu Kirche, Medien und Parteien: lose. 
-Was sind neue Leitfiguren und Werte, die das Zeug haben, Zukunft zu gestalten? Was braucht Südtirol heute? Darüber diskutiert Judith Bertagnolli mit ihren Gästen live nach der Tagesschau. Den Auftakt von &quot;Nachgeschaut&quot; macht eine Doku aus der Serie &quot;Bombenjahre&quot; von Christoph Franceschini und Helmut Lechthaler.</desc>
-  </programme>
-  <programme start="20241118221000 +0100" stop="20241118223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241119200000 +0100" stop="20241119202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
