@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241119200000 +0100" stop="20241119202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241119202000 +0100" stop="20241119203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241119203500 +0100" stop="20241119204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Spiel der 13. Oberliga-Runde findet auf der Lahn in Meran statt: Titelanwärter Obermais empfängt Aufsteiger Brixen, beide Mannschaften stehen sich bereits zum 38. Mal in der Meisterschaft gegenüber. 
-In der Landesliga ist Derbyzeit angesagt: Der SSV Bruneck hat im Pusterer Duell Ahrntal zu Gast, Salurn trifft im Unterlandler Derby auf Weinstraße Süd.</desc>
-  </programme>
-  <programme start="20241119221000 +0100" stop="20241119223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241120200000 +0100" stop="20241120202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
