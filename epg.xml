@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241120200000 +0100" stop="20241120202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241120202000 +0100" stop="20241120204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Der Europäische Volksgruppenkongress in Klagenfurt, jesidisch-kurdische Aktivist:innen erzählen über die derzeitige Situation im Nord-Irak, mehr Selbstvertretung für Menschen mit Beeinträchtigung.
-
-Mitte November findet in Klagenfurt der jährliche Europäische Volksgruppenkongress statt. Ziel des Kongresses ist es, aktuelle europäische Volksgruppenthemen mit Fachbeiträgen nationaler und internationaler Referent:innen zu beleuchten. Minet war in diesem Jahr dabei. 
-Anfang August 2014 überfielen Kämpfer der Terrormiliz &quot;Islamischer Staat&quot; jesidische Dörfer und Städte im Nordirak. Die islamistischen Terroristen begingen Massaker an Zivilisten. Unter anderem die Vereinten Nationen, aber auch Deutschland erkennen die Verbrechen als Genozid an. Trotzdem beginnt Deutschland Betroffene wieder in den Irak abzuschieben. Minet hat mit jesidisch-kurdischen Aktivist:innen in Berlin gesprochen. 
-Minority Rights Group International, kurz MRG, ist eine in London ansässige internationale NGO, die sich für benachteiligte Minderheiten einsetzt. In Minet werden ausgewählte Filmbeiträge gezeigt: Diesmal das Portrait einer armenischen Schwimmerin mit Beeinträchtigung in der Türkei. Selbst-Vertretung heißt Mit-Bestimmung. In Südtirol gibt es Bestrebungen, eine solche Selbstvertretungskommission für Menschen mit Beeinträchtigung ins Leben zu rufen. Minet hat Vertreter:innen der Kommission getroffen. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20241120221000 +0100" stop="20241120223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241121200000 +0100" stop="20241121202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
