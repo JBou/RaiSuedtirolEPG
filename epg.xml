@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241121200000 +0100" stop="20241121202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241121202000 +0100" stop="20241121204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Erben</sub-title>
-    <desc>Verstirbt ein Mensch und hinterlässt keinen letzten Willen, sind die Hinterbliebenen mit der Situation häufig überfordert. Wie geht erben &quot;richtig&quot;? Es moderiert Karin Gschnitzer.  
-
-Viele Fragen wie &quot;Wer kümmert sich um den Nachlass bis zur Klärung des Erbes?&quot; oder &quot;Wer bekommt wie viel vom Nachlass?&quot; nagen an den Gemütern und führen nicht selten zu Streitigkeiten. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und zeigen Ausschnitte aus der Doku &quot;Mit lieben Grüßen…&quot;.</desc>
-  </programme>
-  <programme start="20241121213000 +0100" stop="20241121215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nicht nur bei Südtirols Athlet:innen, sondern auch bei den einheimischen Weltcup-Veranstaltern laufen die Vorbereitungen auf den Winter auf Hochtouren. Südtirol wird wieder zehn Weltcup-Rennen organisieren. Das Highlight sind die Biathlonbewerbe in der neuen, umgebauten Südtirol-Arena, wo 2026 auch erstmals Olympische Spiele stattfinden. 
-Der Landeswintersportverband unterstützt mit dem Projekt &quot;Top &amp; Talent&quot; den einheimischen Nachwuchs.</desc>
-  </programme>
-  <programme start="20241121221000 +0100" stop="20241121223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241122180000 +0100" stop="20241122182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Erben</sub-title>
