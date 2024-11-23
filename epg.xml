@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241122180000 +0100" stop="20241122182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Erben</sub-title>
-    <desc>Verstirbt ein Mensch und hinterlässt keinen letzten Willen, sind die Hinterbliebenen mit der Situation häufig überfordert. Wie geht erben &quot;richtig&quot;? Es moderiert Karin Gschnitzer.  Viele Fragen wie &quot;Wer kümmert sich um den Nachlass bis zur Klärung des Erbes?&quot; oder &quot;Wer bekommt wie viel vom Nachlass?&quot; nagen an den Gemütern und führen nicht selten zu Streitigkeiten. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und zeigen Ausschnitte aus der Doku &quot;Mit lieben Grüßen…&quot;.</desc>
-  </programme>
-  <programme start="20241122182900 +0100" stop="20241122185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nicht nur bei Südtirols Athlet:innen, sondern auch bei den einheimischen Weltcup-Veranstaltern laufen die Vorbereitungen auf den Winter auf Hochtouren. Südtirol wird wieder zehn Weltcup-Rennen organisieren. Das Highlight sind die Biathlonbewerbe in der neuen, umgebauten Südtirol-Arena, wo 2026 auch erstmals Olympische Spiele stattfinden. 
-Der Landeswintersportverband unterstützt mit dem Projekt &quot;Top &amp; Talent&quot; den einheimischen Nachwuchs.</desc>
-  </programme>
-  <programme start="20241122200000 +0100" stop="20241122202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241122202000 +0100" stop="20241122215430 +0100" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Gäste von Thomas Vonmetz und Co-Moderatorin Sharon Market sind diesmal Südtirols Rock-Queen Ina Pross, die ehemalige Kunstturnerin Carla Wieser und Musicaldarsteller Fabian Mutschlechner.
-Untertags ist sie Buchhalterin, doch wenn die Nacht hereinbricht, verwandelt sich die Traminerin Ina Pross in Südtirols Rock-Queen. Mit ihrer Powerstimme passt sie perfekt zum Rock'n'Roll und begeistert mit Rock, Blues, Soul, Rockabilly und sogar Metal. Diese vielseitige Künstlerin liebt Schallplatten und hat eine Schwäche fürs Shoppen. 
-Carla Wieser schreibt Südtiroler Sportgeschichte: Im zarten Alter von 15 Jahren nahm sie bei den Olympischen Spielen in Montreal 1976 im Kunstturnen teil - bis heute die einzige Turnerin aus Südtirol. Mit 63 Jahren ist sie dem Turnsport treu geblieben und trainiert seit über 35 Jahren den Nachwuchs. Sie ist ein echtes Sportidol für viele junge Mädchen.
-Fabian Mutschlechner tauschte nach 12 Jahren als KFZ-Techniker die Hebebühne gegen die Theaterbühne. 2013 zog er in die Musical-Metropole Hamburg und schloss dort seine Ausbildung als Bühnendarsteller ab. Seither ist er in unzähligen Produktionen zu sehen und lehrt mittlerweile als Dozent für Schauspiel, Sprechtechnik und Tanz. 
-Die legendäre Kellerkapelle, rund um Chris Kaufmann, Markus Mac Mayr und Andreas Marmsoler, sorgt für die musikalische Untermalung des Abends.</desc>
-  </programme>
-  <programme start="20241122215400 +0100" stop="20241122215841 +0100" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Lena Simonetti: Poesie als Lebensweg</sub-title>
-    <desc>Lena Simonetti ist eine junge Dichterin aus Bozen, die durch ihre Leidenschaft für Poesie und ihre Teilnahme an Poetry-Slam-Wettbewerben ihren eigenen Weg geht. Lena teilt ihre tiefsten Gedanken und Gefühle durch ihre Gedichte, die sie mit beeindruckender Leidenschaft und Präsenz auf der Bühne präsentiert. Ihr Engagement für die Poesie und die überwältigende Reaktion des Publikums auf ihre Darbietungen verdeutlichen, wie kraftvoll Worte sein können und wie sie Menschen verbinden und berühren. Lenas Reise in die Welt der Poesie ist ein leuchtendes Beispiel dafür, wie Generation Z ihre Stimme findet und nutzt, um sich auszudrücken und zu inspirieren.</desc>
-  </programme>
-  <programme start="20241122221000 +0100" stop="20241122223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241123180000 +0100" stop="20241123185900 +0100" channel="Rai Südtirol">
     <title>Toms Kellershow</title>
     <sub-title/>
@@ -94,6 +58,223 @@ Im Studio zu Gast ist diesmal der neue Rektor der Freien Universität Bozen, Ale
     <desc/>
   </programme>
   <programme start="20241124221000 +0100" stop="20241124223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241125180000 +0100" stop="20241125181430 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Vorletzter Spieltag in der Oberliga vor der Winterpause: Virtus Bozen empfängt Tramin, der SSV Brixen trifft im Jugendhort auf St. Georgen. In zwei Wochen spielen diese beiden Mannschaften auch das Landes-Finale um den Italienpokal. 
+In der Landesliga geht es in Margreid im Derby zwischen Weinstraße Süd und Kiens um wichtige Punkte im Kampf um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20241125181400 +0100" stop="20241125183400 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Wie werden Sukkulenten genutzt?</sub-title>
+    <desc>Sukkulenten werden auch als Fettpflanzen oder Saftpflanzen bezeichnet. Biologin Karin erklärt die vielseitigen Verwendungszwecke dieser faszinierenden Pflanzen. Aloe Vera-Blätter spenden ein heilendes Gel für Salben, aus den Fasern der Sisal-Agave werden hergestellt -  und die Früchte des Kletterkaktus sehen nicht nur wie kleine Drachen aus, sie schmecken auch köstlich.</desc>
+  </programme>
+  <programme start="20241125183400 +0100" stop="20241125185830 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Jonas und seine Leidenschaft für die Kultur der Wikinger, Alexa und ihre Pirschgänge im Wald, Lernen im neuen Internationalen Klassenzug am Realgymnasium Bozen. Moderation: Mara Marth.
+Der Schludernser Jonas Marigo ist 23 Jahre alt. Um seinen Traum zu verwirklichen, hat er seinen Job als IT-Techniker kurzerhand an den Nagel gehängt und die Sommermonate in Schweden verbracht, um dort für ein Wikinger-Museum zu arbeiten. Wieder zurück in Südtirol lebt er nun seine Leidenschaft als Mitglied eines Wikingervereins aus. 
+Seit dem heurigen Schuljahr gibt es erstmals in Südtirol einen Internationalen Klassenzug am Realgymnasium Bozen - mit Schwerpunkt &quot;Angewandte Naturwissenschaften&quot;. In Klick erfahren wir mehr.
+Die junge Alexa streift in ihrer Freizeit durch die herbstlichen Wälder, denn die Jagdsaison hat begonnen. Diese Leidenschaft teilt sie mit ihrer Mutter Manuela, die sie oft auf ihren Pirschgängen begleitet.</desc>
+  </programme>
+  <programme start="20241125200000 +0100" stop="20241125202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241125202000 +0100" stop="20241125212100 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>100 Jahre Theatergruppe Kortsch, der Europäische Kleinkunstwettbewerb in der Bozner Carambolage, 50 Jahre Festival für zeitgenössische Musik und Ausstellungen in Meran und Latsch.
+
+Wohl keine andere Ortschaft Südtirols kann auf eine derart durchgängige Spielleidenschaft zurückblicken wie das kleine Kortsch im Vinschgau. Nur von 1932 bis 1943 musste aufgrund des faschistischen Verbots pausiert werden. Den Abschluss des Jubiläumsjahres machte vor kurzem die Premiere des Stückes &quot;Der verreckte Hof&quot; von Georg Ringsgwandl. 
+Die 22. Ausgabe des Europäischen Kleinkunstwettbewerbs &quot;Niederstätter surPrize&quot; bot heuer viel Gefühl, Akrobatik und Comedy: Der Wahl stellten sich ein Pantomime, ein exzentrischre Performance-Künstler und multikulturelles Straßentheater.
+Kompass berichtet außerdem über das Festival für zeitgenössische Musik, das heuer sein 50jähriges Bestehen feiert und besucht die Ausstellung bei Kunst Meran und im Spazio Rizzi. 
+Gäste von Moderator Alexander Lechner sind der Regisseur Leo Ploner, der im Dezember das Folk-Musikal &quot;Franz aus Oberkrain&quot; auf die Bühne bringt und die Schriftstellerin Annemarie Pircher, deren Lyrikband &quot;Aria&quot; kürzlich erschienen ist.</desc>
+  </programme>
+  <programme start="20241125212100 +0100" stop="20241125215154 +0100" channel="Rai Südtirol">
+    <title>In memoriam Josef Feichtinger</title>
+    <sub-title>Der Vinschger Theatermacher</sub-title>
+    <desc>Er ist der meistgespielte Südtiroler Theaterautor: Josef Feichtinger Jahrgang 1938. In seinen Volksstücken bediente er sich der Satire und der Posse. Der ehemalige Germanist, Theaterwissenschaftler und Lehrer zog mit scharfsinniger Ironie und liebenswürdigem Schalk gegen die Engstirnigkeit der Gesellschaft zu Felde. Feichtinger war ein historisch interessierter Schriftsteller ist, ein heimischer Theatermacher, der sehr viel Autobiographisches in seinen Volksstücken verarbeitete. 
+Am 14. November ist Josef Feichtinger im Alter von 86 Jahren verstorben. Im filmischen Portrait von Petra Tschenett und Jochen Unterhofer aus dem Jahre 2019 blickt der damals 81-Jährige zusammen mit einigen seiner Wegbegleitern auf sein Leben und seine Werke zurück.</desc>
+  </programme>
+  <programme start="20241125215300 +0100" stop="20241125220000 +0100" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Die Dozentin und Journalistin Wittfrieda Mitterer</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20241125221100 +0100" stop="20241125223100 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241126200000 +0100" stop="20241126202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241126202000 +0100" stop="20241126203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241126203500 +0100" stop="20241126204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vorletzter Spieltag in der Oberliga vor der Winterpause: Virtus Bozen empfängt Tramin, der SSV Brixen trifft im Jugendhort auf St. Georgen. In zwei Wochen spielen diese beiden Mannschaften auch das Landes-Finale um den Italienpokal. 
+In der Landesliga geht es in Margreid im Derby zwischen Weinstraße Süd und Kiens um wichtige Punkte im Kampf um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20241126221000 +0100" stop="20241126223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241127200000 +0100" stop="20241127202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241127202000 +0100" stop="20241127204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Safran - wie das teuerste Gewürz der Welt auch im Vinschgau angebaut wird. Was den heimisch gezüchteten Christbaum von der Massenware unterscheidet und ein Besuch auf der Apfelmesse Interpoma.
+Auf einem kleinen Feld bei Tschars erntet Elisabeth Tappeiner bis in den November hinein den Safrankrokus. In seiner Blüte stecken jeweils drei orangefarbene Fäden, die seit Jahrhunderten als das teuerste Gewürz der Welt gehandelt werden. Was einst aus dem Orient kam, wird nun auch in Südtirol angebaut. Land&amp;Leben hat sich den Safrananbau vor Ort angeschaut. 
+Weitere Themen sind Christbäume, die in Südtirol gezüchtet und ab Hof verkauft werden, und die Interpoma, die internationale Apfelfachmesse, die alle zwei Jahre Apfelfachleute aus der ganzen Welt zusammenführt und über neue technische und sensorische Entwicklungen informiert. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20241127221000 +0100" stop="20241127223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241128200000 +0100" stop="20241128202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241128202000 +0100" stop="20241128204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Macht der Farben</sub-title>
+    <desc>Farben haben eine ganz besondere Wirkung auf unseren Körper und unsere Psyche - wegen ihrer Wellenlänge, die wir im Kontakt mit ihr spüren. Moderation: Magdalena Oberstaller.
+Jede Farbe hat eine andere Wirkung und eine für sie typische Wellenlänge und Energie, die sie auf den menschlichen Körper überträgt. Auch die Natur macht sich die Farben zu Nutze.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und in &quot;Wiedersehen&quot; Ausschnitte aus der Doku &quot;Der Kunst ihr Haus: Die Sammlung Eccel Kreuzer&quot;.</desc>
+  </programme>
+  <programme start="20241128213000 +0100" stop="20241128215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die &quot;FISI-Night&quot; im Felsenkeller in der Laimburg hat offiziell die Wintersaison 2024-25 eröffnet. Über 250 Wintersport-Veranstaltungen werden in den nächsten vier Monaten in Südtirol stattfinden, darunter auch zehn Weltcuprennen. Bereits gestartet ist der Marlene-Cup der Alpinen mit dem ersten Slalom am Kreuzbergpass. 
+In der Ice Hockey League läuft es derzeit für die Südtiroler Klubs Bozen und Pustertal nach Wunsch, beide stehen auf einem direkten Play-Off-Platz.</desc>
+  </programme>
+  <programme start="20241128221000 +0100" stop="20241128223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241129180000 +0100" stop="20241129182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Macht der Farben</sub-title>
+    <desc>Farben haben eine ganz besondere Wirkung auf unseren Körper und unsere Psyche - wegen ihrer Wellenlänge, die wir im Kontakt mit ihr spüren. Moderation: Magdalena Oberstaller.
+Jede Farbe hat eine andere Wirkung und eine für sie typische Wellenlänge und Energie, die sie auf den menschlichen Körper überträgt. Auch die Natur macht sich die Farben zu Nutze.
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und in &quot;Wiedersehen&quot; Ausschnitte aus der Doku &quot;Der Kunst ihr Haus: Die Sammlung Eccel Kreuzer&quot;.</desc>
+  </programme>
+  <programme start="20241129182900 +0100" stop="20241129185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die &quot;FISI-Night&quot; im Felsenkeller in der Laimburg hat offiziell die Wintersaison 2024-25 eröffnet. Über 250 Wintersport-Veranstaltungen werden in den nächsten vier Monaten in Südtirol stattfinden, darunter auch zehn Weltcuprennen. Bereits gestartet ist der Marlene-Cup der Alpinen mit dem ersten Slalom am Kreuzbergpass. 
+In der Ice Hockey League läuft es derzeit für die Südtiroler Klubs Bozen und Pustertal nach Wunsch, beide stehen auf einem direkten Play-Off-Platz.</desc>
+  </programme>
+  <programme start="20241129200000 +0100" stop="20241129202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241129202000 +0100" stop="20241129205820 +0100" channel="Rai Südtirol">
+    <title>Der Flughafen Bozen</title>
+    <sub-title/>
+    <desc>Bis vor wenigen Jahren war die Zukunft des Flughafens ungewiss. Heute tut sich
+wieder etwas im Terminal und auf dem Rollfeld. Ein filmischer Besuch auf dem Gelände des BZO.
+
+Auf 40 Hektar - das sind 56 Fußballfelder - stehen Privatjets, die Sportflieger sind hier zu Hause. Aber auch das Militär, beispielsweise mit ihren Hubschraubern. Außerdem beherbergt der Flughafen inzwischen eine eigene Südtiroler Regionalfluggesellschaft, die 2021 gegründet wurde. Sie ist aktuell die fünfte in Italien registrierte Airline.
+Mit ihrem europäischen Streckennetz will SkyAlps Geschäftsreisende ebenso ansprechen wie Urlaubsgäste. Auch zukünftig soll expandiert werden - in Bozen und darüber hinaus.
+Wir lassen uns von den Menschen am &quot;BZO&quot;, wie der Flughafen international genannt wird, zeigen, wie sie dort arbeiten und was nötig ist, bis ein Flugzeug tatsächlich abheben kann. Ein Film von Willi Rainer.</desc>
+  </programme>
+  <programme start="20241129205900 +0100" stop="20241129210836 +0100" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Gemeinschaftszentrum Maria Heim in Bozen</sub-title>
+    <desc>Die Geschichte der Anlage begann Anfang des 17. Jahrhunderts, als der Neustifter Propst Markus Hauser von Weissenstein in der späteren Gemeinde Gries 8 Hektar Grund erwarb, um dort Weinbau zu betreiben.
+Nach 1920 wurde der Weinbau durch die bauliche Expansion Bozens stark reduziert, auch wenn die Stiftskellerei Neustift rund um Maria Heim noch immer heimischen Lagrein anbaut. Herzstück der Anlage ist ihr ansitzartiges Hauptgebäude, das mit zahlreichen Fresken ausgestattet ist.</desc>
+  </programme>
+  <programme start="20241129210800 +0100" stop="20241129215359 +0100" channel="Rai Südtirol">
+    <title>Leben unterm Himmelszelt</title>
+    <sub-title>Im Sölktal</sub-title>
+    <desc>Das Sölktal zählt zu den naturbelassensten Regionen der Steiermark - hier leben und arbeiten die Menschen in der alpinen Landwirtschaft zum Teil noch so wie ihre Väter und Großväter.  Der Almabtrieb ist jedes Jahr ein besonderes Spektakel. Das Vieh wird mit Blumenschmuck auf unwegsamem Gelände ins Tal gebracht, also nicht wie mancherorts mit dem Traktor-Anhänger.  Filmemacher Alfred Ninaus stellt bemerkenswerte Menschen und ihre Lebensweise vor.</desc>
+  </programme>
+  <programme start="20241129215400 +0100" stop="20241129215905 +0100" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Rollstuhlhockeyspieler Daniel Boaru</sub-title>
+    <desc>Der junge Daniel Boaru stammt aus der Republik Moldau und lebt heute in Bozen. Er hat sich durch Rollstuhlhockey einen Namen gemacht. Er spielt im Team der Tigers Bozen, und der Kampf um den Erfolg in den Playoffs demonstrieren seinen unermüdlichen Einsatz und seine Hingabe. Daniels Geschichte ist ein inspirierendes Beispiel für die Kraft des Sports, Barrieren zu überwinden und Menschen zusammenzubringen, unabhängig von ihrer Herkunft.</desc>
+  </programme>
+  <programme start="20241129221000 +0100" stop="20241129223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241130180000 +0100" stop="20241130185900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>100 Jahre Theatergruppe Kortsch, der Europäische Kleinkunstwettbewerb in der Bozner Carambolage, 50 Jahre Festival für zeitgenössische Musik und Ausstellungen in Meran und Latsch. Wohl keine andere Ortschaft Südtirols kann auf eine derart durchgängige Spielleidenschaft zurückblicken wie das kleine Kortsch im Vinschgau. Nur von 1932 bis 1943 musste aufgrund des faschistischen Verbots pausiert werden. Den Abschluss des Jubiläumsjahres machte vor kurzem die Premiere des Stückes &quot;Der verreckte Hof&quot; von Georg Ringsgwandl. 
+Die 22. Ausgabe des Europäischen Kleinkunstwettbewerbs &quot;Niederstätter surPrize&quot; bot heuer viel Gefühl, Akrobatik und Comedy: Der Wahl stellten sich ein Pantomime, ein exzentrischre Performance-Künstler und multikulturelles Straßentheater.
+Kompass berichtet außerdem über das Festival für zeitgenössische Musik, das heuer sein 50jähriges Bestehen feiert und besucht die Ausstellung bei Kunst Meran und im Spazio Rizzi. 
+Gäste von Moderator Alexander Lechner sind der Regisseur Leo Ploner, der im Dezember das Folk-Musikal &quot;Franz aus Oberkrain&quot; auf die Bühne bringt und die Schriftstellerin Annemarie Pircher, deren Lyrikband &quot;Aria&quot; kürzlich erschienen ist.</desc>
+  </programme>
+  <programme start="20241130200000 +0100" stop="20241130202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241130202100 +0100" stop="20241130202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241130202500 +0100" stop="20241130204930 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Hidalgo-Chef Otto Mattivi hat auch mit 70 noch innovative Ideen, die Traminer Gastwirtin Rosa Pomella ist &quot;Pionierin des Jahres&quot;, die Zusammenarbeit zwischen Gastronomie und Landwirtschaft.
+
+Das Restaurant Hidalgo in Burgstall. Der Name dahinter: Otto Mattivi. Ein Visionär, der sein Leben und seinen Unternehmergeist der Gastronomie widmet. Vor 45 Jahren hat seine gastronomische Reise begonnen. Und zum 70.Geburtstag hat Otto Mattivi immer noch neue innovative Ideen.
+Im Rahmen des diesjährigen Benefizabends der Vereinigung &quot;Südtiroler Gastwirtinnen im HGV&quot; wurde zum neunten Mal die Auszeichnung &quot;Pionierin des Jahres&quot; vergeben - an Rita Pomella vom Hotel Traminerhof. 
+Außerdem geht es um die Zusammenarbeit zwischen der Gastronomie und regionalen Lebensmittel-Produzenten. Karl Oberhollenzer von der Genossenschaft Wippland erklärt das neue Konzept, regionales Frischfleisch zu vermarkten. Food Scout Markus Mair am Tinkhof verrät, woher er seine Produkte bezieht und warum ihm der direkte Kontakt zum Landwirt dabei so wichtig ist.
+Außerdem besuchen wir die Fachtagung &quot;Gustoso&quot; im Gustelier des HGV. Sie bietet Gastronomen die Möglichkeit, viele Südtiroler Produzenten vor Ort zu treffen und neue Partnerschaften einzugehen.</desc>
+  </programme>
+  <programme start="20241130221000 +0100" stop="20241130223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241201200000 +0100" stop="20241201202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241201202000 +0100" stop="20241201204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Wie viel braves Mädchen steckt noch in der emanzipierten Frau des 21. Jahrhunderts? Für Architektin Susanne Waiz ist die Planung von Häusern ein gesellschaftlicher Prozess. Moderation: Martina Kreuzer
+
+Im aktuellen dF-Bericht geht es um ein altes Rollenbild: Lieb und freundlich, nachgiebig und bescheiden sollten Mädchen und Frauen lange sein. Wir fragen nach, ob diese Prägung immer noch weitergegeben wird in Familien und unserem Bildungssystem, was sie mit Frauenleben macht und wie frau das Gegenteil von &quot;brav&quot; lebt.    
+Im dF Portrait: Susanne Waiz. Sie lebt mit einem Dilemma: Bauen ist bis heute Ausdruck von Macht - und damit eine Männerdomäne. Die Architektin Susanne Waiz dagegen versteht Architektur als gesellschaftlichen Prozess. Wenn sie plant, dürfen viele mitreden. Und wo sie baut, sind Geschichte und Nachbarn mit am Werk. 
+In df-Info: 60 Jahre Frauenvertretung im Südtiroler Landtag - außerdem: christliche Palästinenserinnen auf ihrer Friedensbotschaft in Südtirol.</desc>
+  </programme>
+  <programme start="20241201205000 +0100" stop="20241201205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241201221000 +0100" stop="20241201223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
