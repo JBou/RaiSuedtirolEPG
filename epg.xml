@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241124200000 +0100" stop="20241124202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241124202100 +0100" stop="20241124205030 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Lichtverschmutzung durch Straßenbeleuchtung, menschliche Bewegungen per Computer analysieren, die Vorteile der pilzresistenten PIWI-Rebsorten, der Wirtschaftsstandort Bozen.
-
-Wie sehr trägt die öffentliche Straßenbeleuchtung zur Lichtverschmutzung in unseren Städten bei? Das Planetarium Südtirol geht in einem Forschungsprojekt dieser Frage nach. 
-An der Freien Universität Bozen erzeugen Mathematiker mit Algorythmen Computermodelle, die menschliche Bewegungen erkennen und interpretieren können. Diese Erkenntnis hilft unter anderem, Menschen beim Sportklettern zu unterstützen.
-In dieser Ausgabe erfahren wir außerdem mehr über den Forschungsstand des Versuchszentrums Laimburg, das verstärkt mit pilzresistenten sogenannten PIWI-Rebsorten experimentiert. 
-Im Studio zu Gast ist diesmal der neue Rektor der Freien Universität Bozen, Alex Weissensteiner, der über Herausforderungen und Strategien des Wissenschaftsstandortes Bozen berichten wird.</desc>
-  </programme>
-  <programme start="20241124205000 +0100" stop="20241124205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241124221000 +0100" stop="20241124223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241125180000 +0100" stop="20241125181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
