@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241125180000 +0100" stop="20241125181430 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Oberliga vor der Winterpause: Virtus Bozen empfängt Tramin, der SSV Brixen trifft im Jugendhort auf St. Georgen. In zwei Wochen spielen diese beiden Mannschaften auch das Landes-Finale um den Italienpokal. 
-In der Landesliga geht es in Margreid im Derby zwischen Weinstraße Süd und Kiens um wichtige Punkte im Kampf um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20241125181400 +0100" stop="20241125183400 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Wie werden Sukkulenten genutzt?</sub-title>
-    <desc>Sukkulenten werden auch als Fettpflanzen oder Saftpflanzen bezeichnet. Biologin Karin erklärt die vielseitigen Verwendungszwecke dieser faszinierenden Pflanzen. Aloe Vera-Blätter spenden ein heilendes Gel für Salben, aus den Fasern der Sisal-Agave werden hergestellt -  und die Früchte des Kletterkaktus sehen nicht nur wie kleine Drachen aus, sie schmecken auch köstlich.</desc>
-  </programme>
-  <programme start="20241125183400 +0100" stop="20241125185830 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Jonas und seine Leidenschaft für die Kultur der Wikinger, Alexa und ihre Pirschgänge im Wald, Lernen im neuen Internationalen Klassenzug am Realgymnasium Bozen. Moderation: Mara Marth.
-Der Schludernser Jonas Marigo ist 23 Jahre alt. Um seinen Traum zu verwirklichen, hat er seinen Job als IT-Techniker kurzerhand an den Nagel gehängt und die Sommermonate in Schweden verbracht, um dort für ein Wikinger-Museum zu arbeiten. Wieder zurück in Südtirol lebt er nun seine Leidenschaft als Mitglied eines Wikingervereins aus. 
-Seit dem heurigen Schuljahr gibt es erstmals in Südtirol einen Internationalen Klassenzug am Realgymnasium Bozen - mit Schwerpunkt &quot;Angewandte Naturwissenschaften&quot;. In Klick erfahren wir mehr.
-Die junge Alexa streift in ihrer Freizeit durch die herbstlichen Wälder, denn die Jagdsaison hat begonnen. Diese Leidenschaft teilt sie mit ihrer Mutter Manuela, die sie oft auf ihren Pirschgängen begleitet.</desc>
-  </programme>
-  <programme start="20241125200000 +0100" stop="20241125202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241125202000 +0100" stop="20241125212100 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>100 Jahre Theatergruppe Kortsch, der Europäische Kleinkunstwettbewerb in der Bozner Carambolage, 50 Jahre Festival für zeitgenössische Musik und Ausstellungen in Meran und Latsch.
-
-Wohl keine andere Ortschaft Südtirols kann auf eine derart durchgängige Spielleidenschaft zurückblicken wie das kleine Kortsch im Vinschgau. Nur von 1932 bis 1943 musste aufgrund des faschistischen Verbots pausiert werden. Den Abschluss des Jubiläumsjahres machte vor kurzem die Premiere des Stückes &quot;Der verreckte Hof&quot; von Georg Ringsgwandl. 
-Die 22. Ausgabe des Europäischen Kleinkunstwettbewerbs &quot;Niederstätter surPrize&quot; bot heuer viel Gefühl, Akrobatik und Comedy: Der Wahl stellten sich ein Pantomime, ein exzentrischre Performance-Künstler und multikulturelles Straßentheater.
-Kompass berichtet außerdem über das Festival für zeitgenössische Musik, das heuer sein 50jähriges Bestehen feiert und besucht die Ausstellung bei Kunst Meran und im Spazio Rizzi. 
-Gäste von Moderator Alexander Lechner sind der Regisseur Leo Ploner, der im Dezember das Folk-Musikal &quot;Franz aus Oberkrain&quot; auf die Bühne bringt und die Schriftstellerin Annemarie Pircher, deren Lyrikband &quot;Aria&quot; kürzlich erschienen ist.</desc>
-  </programme>
-  <programme start="20241125212100 +0100" stop="20241125215154 +0100" channel="Rai Südtirol">
-    <title>In memoriam Josef Feichtinger</title>
-    <sub-title>Der Vinschger Theatermacher</sub-title>
-    <desc>Er ist der meistgespielte Südtiroler Theaterautor: Josef Feichtinger Jahrgang 1938. In seinen Volksstücken bediente er sich der Satire und der Posse. Der ehemalige Germanist, Theaterwissenschaftler und Lehrer zog mit scharfsinniger Ironie und liebenswürdigem Schalk gegen die Engstirnigkeit der Gesellschaft zu Felde. Feichtinger war ein historisch interessierter Schriftsteller ist, ein heimischer Theatermacher, der sehr viel Autobiographisches in seinen Volksstücken verarbeitete. 
-Am 14. November ist Josef Feichtinger im Alter von 86 Jahren verstorben. Im filmischen Portrait von Petra Tschenett und Jochen Unterhofer aus dem Jahre 2019 blickt der damals 81-Jährige zusammen mit einigen seiner Wegbegleitern auf sein Leben und seine Werke zurück.</desc>
-  </programme>
-  <programme start="20241125215300 +0100" stop="20241125220000 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Die Dozentin und Journalistin Wittfrieda Mitterer</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20241125221100 +0100" stop="20241125223100 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241126200000 +0100" stop="20241126202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
