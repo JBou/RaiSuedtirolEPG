@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241126200000 +0100" stop="20241126202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241126202000 +0100" stop="20241126203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241126203500 +0100" stop="20241126204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Oberliga vor der Winterpause: Virtus Bozen empfängt Tramin, der SSV Brixen trifft im Jugendhort auf St. Georgen. In zwei Wochen spielen diese beiden Mannschaften auch das Landes-Finale um den Italienpokal. 
-In der Landesliga geht es in Margreid im Derby zwischen Weinstraße Süd und Kiens um wichtige Punkte im Kampf um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20241126221000 +0100" stop="20241126223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241127200000 +0100" stop="20241127202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
