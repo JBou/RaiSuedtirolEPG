@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241127200000 +0100" stop="20241127202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241127202000 +0100" stop="20241127204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Safran - wie das teuerste Gewürz der Welt auch im Vinschgau angebaut wird. Was den heimisch gezüchteten Christbaum von der Massenware unterscheidet und ein Besuch auf der Apfelmesse Interpoma.
-Auf einem kleinen Feld bei Tschars erntet Elisabeth Tappeiner bis in den November hinein den Safrankrokus. In seiner Blüte stecken jeweils drei orangefarbene Fäden, die seit Jahrhunderten als das teuerste Gewürz der Welt gehandelt werden. Was einst aus dem Orient kam, wird nun auch in Südtirol angebaut. Land&amp;Leben hat sich den Safrananbau vor Ort angeschaut. 
-Weitere Themen sind Christbäume, die in Südtirol gezüchtet und ab Hof verkauft werden, und die Interpoma, die internationale Apfelfachmesse, die alle zwei Jahre Apfelfachleute aus der ganzen Welt zusammenführt und über neue technische und sensorische Entwicklungen informiert. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20241127221000 +0100" stop="20241127223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241128200000 +0100" stop="20241128202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
