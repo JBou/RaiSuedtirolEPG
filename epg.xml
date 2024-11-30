@@ -4,55 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241129180000 +0100" stop="20241129182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Macht der Farben</sub-title>
-    <desc>Farben haben eine ganz besondere Wirkung auf unseren Körper und unsere Psyche - wegen ihrer Wellenlänge, die wir im Kontakt mit ihr spüren. Moderation: Magdalena Oberstaller.
-Jede Farbe hat eine andere Wirkung und eine für sie typische Wellenlänge und Energie, die sie auf den menschlichen Körper überträgt. Auch die Natur macht sich die Farben zu Nutze.
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1966 und in &quot;Wiedersehen&quot; Ausschnitte aus der Doku &quot;Der Kunst ihr Haus: Die Sammlung Eccel Kreuzer&quot;.</desc>
-  </programme>
-  <programme start="20241129182900 +0100" stop="20241129185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die &quot;FISI-Night&quot; im Felsenkeller in der Laimburg hat offiziell die Wintersaison 2024-25 eröffnet. Über 250 Wintersport-Veranstaltungen werden in den nächsten vier Monaten in Südtirol stattfinden, darunter auch zehn Weltcuprennen. Bereits gestartet ist der Marlene-Cup der Alpinen mit dem ersten Slalom am Kreuzbergpass. 
-In der Ice Hockey League läuft es derzeit für die Südtiroler Klubs Bozen und Pustertal nach Wunsch, beide stehen auf einem direkten Play-Off-Platz.</desc>
-  </programme>
-  <programme start="20241129200000 +0100" stop="20241129202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241129202000 +0100" stop="20241129205820 +0100" channel="Rai Südtirol">
-    <title>Der Flughafen Bozen</title>
-    <sub-title/>
-    <desc>Bis vor wenigen Jahren war die Zukunft des Flughafens ungewiss. Heute tut sich
-wieder etwas im Terminal und auf dem Rollfeld. Ein filmischer Besuch auf dem Gelände des BZO.
-
-Auf 40 Hektar - das sind 56 Fußballfelder - stehen Privatjets, die Sportflieger sind hier zu Hause. Aber auch das Militär, beispielsweise mit ihren Hubschraubern. Außerdem beherbergt der Flughafen inzwischen eine eigene Südtiroler Regionalfluggesellschaft, die 2021 gegründet wurde. Sie ist aktuell die fünfte in Italien registrierte Airline.
-Mit ihrem europäischen Streckennetz will SkyAlps Geschäftsreisende ebenso ansprechen wie Urlaubsgäste. Auch zukünftig soll expandiert werden - in Bozen und darüber hinaus.
-Wir lassen uns von den Menschen am &quot;BZO&quot;, wie der Flughafen international genannt wird, zeigen, wie sie dort arbeiten und was nötig ist, bis ein Flugzeug tatsächlich abheben kann. Ein Film von Willi Rainer.</desc>
-  </programme>
-  <programme start="20241129205900 +0100" stop="20241129210836 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Gemeinschaftszentrum Maria Heim in Bozen</sub-title>
-    <desc>Die Geschichte der Anlage begann Anfang des 17. Jahrhunderts, als der Neustifter Propst Markus Hauser von Weissenstein in der späteren Gemeinde Gries 8 Hektar Grund erwarb, um dort Weinbau zu betreiben.
-Nach 1920 wurde der Weinbau durch die bauliche Expansion Bozens stark reduziert, auch wenn die Stiftskellerei Neustift rund um Maria Heim noch immer heimischen Lagrein anbaut. Herzstück der Anlage ist ihr ansitzartiges Hauptgebäude, das mit zahlreichen Fresken ausgestattet ist.</desc>
-  </programme>
-  <programme start="20241129210800 +0100" stop="20241129215359 +0100" channel="Rai Südtirol">
-    <title>Leben unterm Himmelszelt</title>
-    <sub-title>Im Sölktal</sub-title>
-    <desc>Das Sölktal zählt zu den naturbelassensten Regionen der Steiermark - hier leben und arbeiten die Menschen in der alpinen Landwirtschaft zum Teil noch so wie ihre Väter und Großväter.  Der Almabtrieb ist jedes Jahr ein besonderes Spektakel. Das Vieh wird mit Blumenschmuck auf unwegsamem Gelände ins Tal gebracht, also nicht wie mancherorts mit dem Traktor-Anhänger.  Filmemacher Alfred Ninaus stellt bemerkenswerte Menschen und ihre Lebensweise vor.</desc>
-  </programme>
-  <programme start="20241129215400 +0100" stop="20241129215905 +0100" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Rollstuhlhockeyspieler Daniel Boaru</sub-title>
-    <desc>Der junge Daniel Boaru stammt aus der Republik Moldau und lebt heute in Bozen. Er hat sich durch Rollstuhlhockey einen Namen gemacht. Er spielt im Team der Tigers Bozen, und der Kampf um den Erfolg in den Playoffs demonstrieren seinen unermüdlichen Einsatz und seine Hingabe. Daniels Geschichte ist ein inspirierendes Beispiel für die Kraft des Sports, Barrieren zu überwinden und Menschen zusammenzubringen, unabhängig von ihrer Herkunft.</desc>
-  </programme>
-  <programme start="20241129221000 +0100" stop="20241129223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241130180000 +0100" stop="20241130185900 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -283,6 +234,29 @@ Das Kurhaus Meran ist ein historisches Gebäude im einzigartigen Stil, das vom A
 Auch heute noch ist das Kurhaus eines der Wahrzeichen von Meran, Schauplatz bedeutender kultureller Veranstaltungen.</desc>
   </programme>
   <programme start="20241207221000 +0100" stop="20241207223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241208200000 +0100" stop="20241208202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241208202100 +0100" stop="20241208204530 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Antholz</sub-title>
+    <desc>Im Dorfportrait erfahren wir, wie Antholz den Biathlonsport für sich entdeckte. Wir besuchen die Heilquelle Salomonsbrunn und lernen Gottfried Leitgeb näher kennen, langjähriger Wirt der Rieserfernerhütte.
+Bis zum Zweiten Weltkrieg war Biathlon ein Militärsport. Erst 1954 wurde die Kombination aus Langlaufen und Schießen vom Internationalen Olympischen Komitee als eigenständige Sportart anerkannt. 20 Jahre später entdeckte ein aufgeschlossener Antholzer den Sport und hatte sofort das große Ziel vor Augen, in seiner Heimat Antholz ein internationales Zentrum des Biathlons zu schaffen. In der Sendung Land und Leute erfahren wir mehr über diese Entstehungsgeschichte. 
+Weiter in die Vergangenheit zurückblicken müssen wir, wenn es um die Heilquelle Salomonsbrunn in Antholz geht. Über das einstige Bad und die Bedeutung der Quelle weiß die Hotelierin Denise vom heutigen Hotel Bad Salomonsbrunn bestens Bescheid. 
+Der langjährige Hüttenwirt der Rieserfernerhütte Gottfried Leitgeb besucht einen der ältesten Höfe des Tales. Jahrzehntelang war der passionierte Bergsteiger auch Ortsstellenleiter der Bergrettung Antholzertal.</desc>
+  </programme>
+  <programme start="20241208204500 +0100" stop="20241208204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241208221000 +0100" stop="20241208223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
