@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241130180000 +0100" stop="20241130185900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>100 Jahre Theatergruppe Kortsch, der Europäische Kleinkunstwettbewerb in der Bozner Carambolage, 50 Jahre Festival für zeitgenössische Musik und Ausstellungen in Meran und Latsch. Wohl keine andere Ortschaft Südtirols kann auf eine derart durchgängige Spielleidenschaft zurückblicken wie das kleine Kortsch im Vinschgau. Nur von 1932 bis 1943 musste aufgrund des faschistischen Verbots pausiert werden. Den Abschluss des Jubiläumsjahres machte vor kurzem die Premiere des Stückes &quot;Der verreckte Hof&quot; von Georg Ringsgwandl. 
-Die 22. Ausgabe des Europäischen Kleinkunstwettbewerbs &quot;Niederstätter surPrize&quot; bot heuer viel Gefühl, Akrobatik und Comedy: Der Wahl stellten sich ein Pantomime, ein exzentrischre Performance-Künstler und multikulturelles Straßentheater.
-Kompass berichtet außerdem über das Festival für zeitgenössische Musik, das heuer sein 50jähriges Bestehen feiert und besucht die Ausstellung bei Kunst Meran und im Spazio Rizzi. 
-Gäste von Moderator Alexander Lechner sind der Regisseur Leo Ploner, der im Dezember das Folk-Musikal &quot;Franz aus Oberkrain&quot; auf die Bühne bringt und die Schriftstellerin Annemarie Pircher, deren Lyrikband &quot;Aria&quot; kürzlich erschienen ist.</desc>
-  </programme>
-  <programme start="20241130200000 +0100" stop="20241130202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241130202100 +0100" stop="20241130202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241130202500 +0100" stop="20241130204930 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Hidalgo-Chef Otto Mattivi hat auch mit 70 noch innovative Ideen, die Traminer Gastwirtin Rosa Pomella ist &quot;Pionierin des Jahres&quot;, die Zusammenarbeit zwischen Gastronomie und Landwirtschaft.
-
-Das Restaurant Hidalgo in Burgstall. Der Name dahinter: Otto Mattivi. Ein Visionär, der sein Leben und seinen Unternehmergeist der Gastronomie widmet. Vor 45 Jahren hat seine gastronomische Reise begonnen. Und zum 70.Geburtstag hat Otto Mattivi immer noch neue innovative Ideen.
-Im Rahmen des diesjährigen Benefizabends der Vereinigung &quot;Südtiroler Gastwirtinnen im HGV&quot; wurde zum neunten Mal die Auszeichnung &quot;Pionierin des Jahres&quot; vergeben - an Rita Pomella vom Hotel Traminerhof. 
-Außerdem geht es um die Zusammenarbeit zwischen der Gastronomie und regionalen Lebensmittel-Produzenten. Karl Oberhollenzer von der Genossenschaft Wippland erklärt das neue Konzept, regionales Frischfleisch zu vermarkten. Food Scout Markus Mair am Tinkhof verrät, woher er seine Produkte bezieht und warum ihm der direkte Kontakt zum Landwirt dabei so wichtig ist.
-Außerdem besuchen wir die Fachtagung &quot;Gustoso&quot; im Gustelier des HGV. Sie bietet Gastronomen die Möglichkeit, viele Südtiroler Produzenten vor Ort zu treffen und neue Partnerschaften einzugehen.</desc>
-  </programme>
-  <programme start="20241130221000 +0100" stop="20241130223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241201200000 +0100" stop="20241201202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
