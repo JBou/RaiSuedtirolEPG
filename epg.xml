@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241202180000 +0100" stop="20241202181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc> 
-Letzter Spieltag der Hinrunde in der Fußball-Oberliga: St. Georgen empfängt in Bruneck Tabellenführer Obermais, der Bozner FC hat hingegen St. Pauls zu Gast. 
-Auch in der Landesliga hofft Latzfons Verdings im Heimspiel gegen Latsch auf wichtige Punkte im Abstiegskampf.</desc>
-  </programme>
-  <programme start="20241202181400 +0100" stop="20241202182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Gullivers Reisen</sub-title>
-    <desc>Die Kinder Sophie und Maximilian besuchen das Erzählkunstfestival in Brixen und treffen kurz vor der Vorstellung Geschichtenerzählerin Silvia Freund. Sie ist schon in Kapitänskleider geschlüpft und bereit, die turbulenten Abenteuer des Kapitän Gulliver zu erzählen: Auf einer einsamen Insel namens Liliput begegnet er Winzlingen und freundet sich - nach anfänglichen Schwierigkeiten - mit ihnen an.</desc>
-  </programme>
-  <programme start="20241202182900 +0100" stop="20241202185830 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Safran - wie das teuerste Gewürz der Welt auch im Vinschgau angebaut wird. Was den heimisch gezüchteten Christbaum von der Massenware unterscheidet und ein Besuch auf der Apfelmesse Interpoma. Auf einem kleinen Feld bei Tschars erntet Elisabeth Tappeiner bis in den November hinein den Safrankrokus. In seiner Blüte stecken jeweils drei orangefarbene Fäden, die seit Jahrhunderten als das teuerste Gewürz der Welt gehandelt werden. Was einst aus dem Orient kam, wird nun auch in Südtirol angebaut. Land&amp;Leben hat sich den Safrananbau vor Ort angeschaut. 
-Weitere Themen sind Christbäume, die in Südtirol gezüchtet und ab Hof verkauft werden, und die Interpoma, die internationale Apfelfachmesse, die alle zwei Jahre Apfelfachleute aus der ganzen Welt zusammenführt und über neue technische und sensorische Entwicklungen informiert. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20241202200000 +0100" stop="20241202202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241202202000 +0100" stop="20241202213000 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20241202213000 +0100" stop="20241202215930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Wie viel braves Mädchen steckt noch in der emanzipierten Frau des 21. Jahrhunderts? Für Architektin Susanne Waiz ist die Planung von Häusern ein gesellschaftlicher Prozess. Moderation: Martina Kreuzer. Im aktuellen dF-Bericht geht es um ein altes Rollenbild: Lieb und freundlich, nachgiebig und bescheiden sollten Mädchen und Frauen lange sein. Wir fragen nach, ob diese Prägung immer noch weitergegeben wird in Familien und unserem Bildungssystem, was sie mit Frauenleben macht und wie frau das Gegenteil von &quot;brav&quot; lebt.    
-Im dF Portrait: Susanne Waiz. Sie lebt mit einem Dilemma: Bauen ist bis heute Ausdruck von Macht - und damit eine Männerdomäne. Die Architektin Susanne Waiz dagegen versteht Architektur als gesellschaftlichen Prozess. Wenn sie plant, dürfen viele mitreden. Und wo sie baut, sind Geschichte und Nachbarn mit am Werk. 
-In df-Info: 60 Jahre Frauenvertretung im Südtiroler Landtag - außerdem: christliche Palästinenserinnen auf ihrer Friedensbotschaft in Südtirol.</desc>
-  </programme>
-  <programme start="20241202221000 +0100" stop="20241202223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241203200000 +0100" stop="20241203202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
