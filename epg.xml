@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241203200000 +0100" stop="20241203202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241203202000 +0100" stop="20241203203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241203203500 +0100" stop="20241203204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc> 
-Letzter Spieltag der Hinrunde in der Fußball-Oberliga: St. Georgen empfängt in Bruneck Tabellenführer Obermais, der Bozner FC hat hingegen St. Pauls zu Gast. 
-Auch in der Landesliga hofft Latzfons Verdings im Heimspiel gegen Latsch auf wichtige Punkte im Abstiegskampf.</desc>
-  </programme>
-  <programme start="20241203221000 +0100" stop="20241203223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241204200000 +0100" stop="20241204202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
