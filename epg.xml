@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241204200000 +0100" stop="20241204202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241204202000 +0100" stop="20241204204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Immer wieder neue Maßstäbe im Wintersport - das Konsortium Dolomiti Superski wird 50. Neue Maßstäbe im Design - wie Südtiroler Designer sich ihren Platz in der Szene erarbeiten. 
-
-Dolomiti Superski ist eine wirtschaftliche Erfolgsgeschichte. 1200 Pistenkilometer und 450 Aufstiegsanlagen verzeichnet das Konsortium zum 50-jährigen Jubiläum. Trend wirft einen Blick auf die Organisation, die es fertigbrachte, 130 unabhängige Gesellschaften und Unternehmen in den zwölf Skigebieten unter einem Dach zu vereinen, eine interne Konkurrenz, um die besten Pisten und Anlagen zu pflegen und gleichzeitig weltweit führend in der technologischen Innovation zu sein. 
-Neue Maßstäbe setzt auch das Design von Produkten aus Südtirol. Dabei erreicht der Standort Südtirol auch international bereits ein gutes Renommee. Im Industrie- und Produktdesign geht es nicht einfach um Hüllen, um das Äußere von Maschinen, Möbeln oder anderen Gegenständen. Designer müssen sich intensiv mit der Funktion der Produkte beschäftigen und arbeiten dabei oft eng mit Ingenieuren und Entwicklern zusammen. Auch die Zusammenarbeit mit international tätigen Südtiroler Unternehmen trägt zu ihrem Erfolg bei. Schließlich ist das Design von Produkten entscheidend für ihren Verkaufserfolg. 
-Gerade im Winter hat das Hafnergewerbe Hochkonjunktur, denn viele Menschen lieben alte, aber auch neue Öfen.</desc>
-  </programme>
-  <programme start="20241204221000 +0100" stop="20241204223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241205200000 +0100" stop="20241205202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -138,6 +119,153 @@ Der langjährige Hüttenwirt der Rieserfernerhütte Gottfried Leitgeb besucht ei
     <desc/>
   </programme>
   <programme start="20241208221000 +0100" stop="20241208223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241209180000 +0100" stop="20241209181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Oberliga ist zwar schon in der Winterpause, vier einheimische Mannschaften standen aber am Wochenende trotzdem noch im Einsatz. St. Georgen und der SSV Brixen spielten in Freienfeld das Italienpokal-Landesfinale, während Stegen und Partschins die 14. Meisterschaftsrunde nachholten, die wegen Schneefall verschoben wurde.</desc>
+  </programme>
+  <programme start="20241209181400 +0100" stop="20241209183400 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Blumenkohl-Muffins</sub-title>
+    <desc>Linda ist kein Fan von Blumenkohl, er stinkt ihr zu viel. Doch Kochlehrerin Martina hat ein leckeres Rezept, bei dem der Geschmack des Blumenkohls in den Hintergrund tritt. Bei diesem bunten und gesunden Gericht langt dann auch Linda am Ende der Sendung herzhaft zu.
+Außerdem besuchen die beiden jungen Zipp-Reporter die junge Autorin Lea, die zusammen mit ihrer Mama das Buch &quot;Kuhnigunde rettet Weihnachten&quot; geschrieben hat.</desc>
+  </programme>
+  <programme start="20241209183400 +0100" stop="20241209190330 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Wie und und wo werden Haustiere in Südtirol beerdigt - ein Besuch bei einem Tierbestattungsunternehmen. Und wie entstehen professionelle Porträts meines geliebten Vierbeiners? Tiere vor die Linse zu bekommen und ihre individuelle Persönlichkeit einfangen - das ist Teamwork und eine echte Herausforderung, denn Tiere haben ihren eigenen Kopf, sind verspielt, bisweilen sogar schreckhaft oder wild. Wir waren bei einem professionellen Fotoshooting für Hunde mit dabei. Frauchen und Herrchen durften mit aufs Bild und alle hatten gemeinsam großen Spaß. 
+Was ist zu tun, wenn ein Haustier stirbt? Wir haben uns beim Amtstierarzt über die geltenden Vorschriften diesbezüglich und über die verschiedenen Möglichkeiten des Abschieds informiert. Wer sein verendetes Haustier nicht einfach dem Tierarzt überlassen will, wer keinen eigenen Garten hat, in dem er es begraben möchte, kann sich an das zurzeit in Südtirol einzige Unternehmen für Tierbestattung wenden. Dessen Leistungen reichen vom Abholen des Tieres, dem Transport ins Tierkrematorium bis hin zur feierlichen gestalteten Gedenkfeier.
+Wir zeigen weiters allerlei Wissenswertes aus dem Tierreich und stellen Tiere vor, die dringend auf ein neues Zuhause warten.</desc>
+  </programme>
+  <programme start="20241209200000 +0100" stop="20241209202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241209202000 +0100" stop="20241209205832 +0100" channel="Rai Südtirol">
+    <title>Alcide Berloffa</title>
+    <sub-title>Eine Vision für Südtirol</sub-title>
+    <desc>Der italienische Abgeordnete Alcide Berloffa hatte sich stets für das Zusammenleben in Südtirol eingesetzt. 2001 erhielt er dafür den Gargitter-Preis. Doch er stand oft im Schatten der großen Namen.  
+
+Silvius Magnago, Aldo Moro, Bruno Kreisky - Persönlichkeiten, die mit dem Südtiroler Autonomiestatut von 1972 in Verbindung gebracht werden. Weitaus weniger bekannt ist hingegen Alcide Berloffa, Jahrgang 1922. Er war Abgeordneter im römischen Parlament und Mitglied der 19er-Kommission. 
+Dass er oft im Schatten von Magnago und Moro stand, hat laut Zeitzeugen auch mit seinem Charakter zu tun. Er war ein sehr zurückhaltender Politiker und ging nie mit seinen Verdiensten hausieren. Dabei war er Aldo Moros engster Vertrauter, wenn es um die Lösung der Südtirolfrage ging. Aber auch mit Magnago oder der ladinischen Sprachgruppe war der Austausch eng und vertrauensvoll. 
+In dieser Dokumentation von Adina Guarnieri und Klaus Romen erinnern sich Zeitzeugen, Weggefährten und Familienangehörige an Alcide Berloffa und geben einen bislang unbekannten Einblick in sein Leben und Wirken.</desc>
+  </programme>
+  <programme start="20241209205900 +0100" stop="20241209214203 +0100" channel="Rai Südtirol">
+    <title>Das Rote Haus (Teil 1)</title>
+    <sub-title>Ein Gästehaus in Grönland</sub-title>
+    <desc>Der Südtiroler Robert Peroni überquerte in den 1980er Jahren als erster zu Fuß den Eispanzer
+Grönlands an seiner breitesten Stelle. Bei dem Weltrekord, den er bis heute hält, verliebte er sich in das Land und seine Menschen. Und er beschloss, das letzte Jägervolk Europas vor dem
+Untergang zu retten. Seit nämlich Felle und Fleisch der Wildtiere nicht mehr gehandelt werden
+dürfen, hat das Volk der Ivi ihre Existenzgrundlage verloren. Stattdessen erhalten sie Sozialhilfe aus Dänemark. Doch diese Umpolung ist bis heute nicht verdaut.In Tasiilaq, mit 2000 Einwohnern größte Siedlung Ostgrönlands, gründete Peroni das &quot;Red House&quot;, das Rote Haus. Es ist eine Auffangstation für Einheimische in Not, aber auch ein Gästehaus für Touristen. Der Südtiroler will mit Hilfe eines sanften Tourismus dem Jägervolk der Ivi eine Zukunft bieten.</desc>
+  </programme>
+  <programme start="20241209214200 +0100" stop="20241209215559 +0100" channel="Rai Südtirol">
+    <title>Pro Nepal</title>
+    <sub-title> Aus der Reihe Vereine vereinen</sub-title>
+    <desc>Nepal ist ein Land, das viele fasziniert: Hier stehen die höchsten Bergen der Welt, das Land birgt einzigartige Kulturschätze, die meisten Menschen sind herzlich und gastfreundlich.
+Doch Nepal ist ein armes Land, immer wieder heimgesucht von Erdbeben und Naturkatastrophen.
+Der Verein &quot;Pro Nepal&quot; setzt sich seit 20 Jahren für das Land und seine Leute ein - vor allem für die Kinder. Deren Zukunft liegt den Vereinsmitgliedern besonders am Herzen.
+Zum Verein zählen auch Adoptiveltern von Kindern aus Nepal.</desc>
+  </programme>
+  <programme start="20241209221100 +0100" stop="20241209223100 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241210200000 +0100" stop="20241210202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241210202000 +0100" stop="20241210203430 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.</desc>
+  </programme>
+  <programme start="20241210203500 +0100" stop="20241210204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Oberliga ist zwar schon in der Winterpause, vier einheimische Mannschaften standen aber am Wochenende trotzdem noch im Einsatz. St. Georgen und der SSV Brixen spielten in Freienfeld das Italienpokal-Landesfinale, während Stegen und Partschins die 14. Meisterschaftsrunde nachholten, die wegen Schneefall verschoben wurde.</desc>
+  </programme>
+  <programme start="20241210221000 +0100" stop="20241210223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241211200000 +0100" stop="20241211202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241211202000 +0100" stop="20241211204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wie attraktiv sind öffentlichen Arbeitsplätze in Südtirol? Wie sicher sind wir am Berg?  Sicherheit am Berg und wie wird Stadtmobiliar hergestellt.
+
+Im Dezember widmen wir uns dem öffentlichen Dienst in Südtirol. Wie gut ist er aufgestellt? Im Fokus steht die Attraktivität der Arbeitsplätze, Entlohnung, Wertschätzung und Effizienz. Besonders relevant: der aktuelle Stand zu Inflationsausgleich und Lohnerhöhungen. Gewerkschaftsvertreter:innen sowie das Arbeitsförderungsinstitut AFI liefern aktuelle Daten und Analysen.
+Wie sicher sind wir am Berg? Im November fand auf der Seiser Alm eine der größten Rettungsübungen Südtirols statt. Unsere Redakteurin schildert hautnah ihre Erfahrungen als &quot;Gerettete&quot;: 20 Meter über dem Boden wurde sie aus einer Gondel befreit. Experten erklären, worauf es bei solchen Einsätzen ankommt und welche Lehren daraus gezogen werden können.
+Wir stellen das Unternehmen Euroform aus Sand in Taufers vor: Seit über 60 Jahren entwickelt das Familienunternehmen nachhaltige Lösungen für den öffentlichen Raum - von Parkbänken bis hin zu Mülleimern. Ihr Erfolgsrezept: hochwertige Materialien, Langlebigkeit, Innovation und ökologisches Bewusstsein.</desc>
+  </programme>
+  <programme start="20241211221000 +0100" stop="20241211223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241212200000 +0100" stop="20241212202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241212202000 +0100" stop="20241212204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Advent</sub-title>
+    <desc>Adventskranz, Adventskalender und viel Grün und Rot: Die Adventszeit ist von vielen Bräuchen und Geschichten geprägt. Aber wie hat sich diese Vorbereitungszeit auf Weihnachten entwickelt? 
+Im Gespräch erzählt Sabine Holzknecht, Präsidentin vom Verein &quot;Helfen ohne Grenzen&quot;, über die Weihnachtsaktion &quot;Ein Schuljahr unterm Weihnachtsbaum&quot;. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über das Eislaufen aus dem Amt für Film und Medien - und in der Rubrik &quot;Wiedersehen&quot; Ausschnitte aus dem Dokumentarfilm &quot;Frohe Weihnachten&quot;. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20241212213000 +0100" stop="20241212215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Südtirol werden in diesem Winter wieder elf Weltcup-Rennen in acht verschiedenen Disziplinen stattfinden. Den Auftakt haben die Snowboarder in Carezza gemacht. Die einheimischen Kunstbahnrodler standen am Wochenende hingegen in Igls im Einsatz. Neue Wege mit neuem Material und neuen Bahnen wollen die Naturbahnrodler beschreiten, sie haben ihr Projekt in Hall in Tirol vorgestellt.</desc>
+  </programme>
+  <programme start="20241212221000 +0100" stop="20241212223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241213180000 +0100" stop="20241213182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Advent</sub-title>
+    <desc>Adventskranz, Adventskalender und viel Grün und Rot: Die Adventszeit ist von vielen Bräuchen und Geschichten geprägt. Aber wie hat sich diese Vorbereitungszeit auf Weihnachten entwickelt? Im Gespräch erzählt Sabine Holzknecht, Präsidentin vom Verein &quot;Helfen ohne Grenzen&quot;, über die Weihnachtsaktion &quot;Ein Schuljahr unterm Weihnachtsbaum&quot;. 
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über das Eislaufen aus dem Amt für Film und Medien - und in der Rubrik &quot;Wiedersehen&quot; Ausschnitte aus dem Dokumentarfilm &quot;Frohe Weihnachten&quot;. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20241213182900 +0100" stop="20241213185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Südtirol werden in diesem Winter wieder elf Weltcup-Rennen in acht verschiedenen Disziplinen stattfinden. Den Auftakt haben die Snowboarder in Carezza gemacht. Die einheimischen Kunstbahnrodler standen am Wochenende hingegen in Igls im Einsatz. Neue Wege mit neuem Material und neuen Bahnen wollen die Naturbahnrodler beschreiten, sie haben ihr Projekt in Hall in Tirol vorgestellt.</desc>
+  </programme>
+  <programme start="20241213200000 +0100" stop="20241213202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241213202100 +0100" stop="20241213210510 +0100" channel="Rai Südtirol">
+    <title>Hinter den Kulissen der Gärten von Schloss Trauttmansdorff</title>
+    <sub-title/>
+    <desc>Die Gärten von Schloss Trauttmansdorff zählen zu den schönsten in Europa und erweisen sich in
+Südtirol als absolutes Erfolgsmodell. Wir erleben das Gärtnerteam ein Jahr lang bei ihrer Arbeit. Doch wie ist man imstande diese Gärten so zu erhalten und weiterzuentwickeln - und das ohne
+Pflanzenschutzmittel einzusetzen? Steht die Arbeit im Winter still? Was hat es auf sich, wenn Tausende Regenwürmer angeliefert werden? Insgesamt kümmern sich 130 Menschen um die 12 Hektar großen Gärten. Petra Tschenett und Jochen Unterhofer haben hinter die Kulissen geblickt und die Arbeiten über ein ganzes Jahr begleitet.</desc>
+  </programme>
+  <programme start="20241213210500 +0100" stop="20241213215543 +0100" channel="Rai Südtirol">
+    <title>Die geheimnisvolle Welt der Bäume</title>
+    <sub-title/>
+    <desc>Bäume sind nicht einfach Bäume, sie waren schon vor Jahrhunderten da und werden oft noch Jahrhunderte überleben; sie haben sozusagen Geschichte erlebt. Den Menschen war das immer bewusst, nicht zuletzt werden viele Bäume als Heiligtümer verehrt. Sie sind aber auch Lebensraum für viele Tiere und sie liefern wertvollste Rohstoffe vom Holz über heilsame Lindenblüten bis zum antibakteriell wirkenden Harz. Der Film führt uns zur ältesten Eiche Europas bis zur Zirbe, der Königin der Alpen, vom widerstandsfähigen Gingko bis zum gigantischen Mammutbaum.</desc>
+  </programme>
+  <programme start="20241213221000 +0100" stop="20241213223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
