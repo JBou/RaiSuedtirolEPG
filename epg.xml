@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241207180000 +0100" stop="20241207185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Mut ist der rote Faden, der sich durch die Dezemberausgabe zieht: Drei Frauen erzählen offen über ihre persönlichen Leidensgeschichten und wie sie damit leben. Mutig auch eine junge Psairerin mit ihrer Hofkäserei. Karin Duregger macht sich auf die Suche nach mutigen Personen. Sie trifft auf einem Bergbauernhof in Freienfeld auf eine vierfache Mutter, die von einer postnatalen Depression regelrecht überfallen wurde. Auch in n Algund und Meran sprechen zwei Frauen sehr offen über ihre Erkrankungen: Endometriose und Multiple Sklerose. Alle drei Frauen wollen diese unsichtbaren Krankheiten sichtbar machen und anderen Betroffenen Mut machen.
-Petra Tschenett verfolgt im Anschluss die Herstellung von Käse. Im fernen 1875 entstand die &quot;Erste Schwarz'sche Sennereigenossenschaft von Hochpusterthal&quot;, heute bekannt unter dem Namen “Sennerei Drei Zinnen”. Sie zählt heute vierzig Mitglieder. Petra Tschenett war dort und in der Algunder Sennerei zu Besuch, die es auch schon seit 1899 gibt. Außerdem spricht sie mit der jungen Bäuerin vom Schupferhof im Passeiertal über deren Alltag. Mit großem Mut hat diese mit 29 Jahren den elterlichen Hof übernommen und eine Hofkäserei aufgebaut. Allen drei Käsebetrieben ist es wichtig, sich neuen Märkten anzupassen und auch nachhaltig zu arbeiten.</desc>
-  </programme>
-  <programme start="20241207200000 +0100" stop="20241207202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241207202100 +0100" stop="20241207202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241207202500 +0100" stop="20241207205300 +0100" channel="Rai Südtirol">
-    <title>Kurhaus Meran</title>
-    <sub-title>110 Jahre Kultur und Kunst an der Passer</sub-title>
-    <desc>Der Film von Roberto Condotta erzählt die Baugeschichte und die Bedeutung dieses markanten historischen Gebäudes, das zu einem wichtigen kulturellen Treffpunkt wurde - weit über Meran hinaus.
-
-Das Kurhaus Meran ist ein historisches Gebäude im einzigartigen Stil, das vom Architekten Josef Czerny entworfen wurde. Es wurde Ende des 19. Jahrhunderts erbaut, als Meran ein bekannter Kurort war, der von Aristokraten und Prominenten besucht wurde. 1914 wurde das Gebäude von dem Wiener Architekten Friedrich Ohmann erweitert und in seiner heutigen Form eingeweiht. Es ist ein faszinierendes Beispiel für die Architektur der Belle Époque mit einzigartigen dekorativen Details, die eine unverwechselbare Atmosphäre schaffen. 
-Auch heute noch ist das Kurhaus eines der Wahrzeichen von Meran, Schauplatz bedeutender kultureller Veranstaltungen.</desc>
-  </programme>
-  <programme start="20241207221000 +0100" stop="20241207223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241208200000 +0100" stop="20241208202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
