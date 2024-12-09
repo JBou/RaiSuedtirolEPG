@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241208200000 +0100" stop="20241208202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241208202100 +0100" stop="20241208204530 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Antholz</sub-title>
-    <desc>Im Dorfportrait erfahren wir, wie Antholz den Biathlonsport für sich entdeckte. Wir besuchen die Heilquelle Salomonsbrunn und lernen Gottfried Leitgeb näher kennen, langjähriger Wirt der Rieserfernerhütte.
-Bis zum Zweiten Weltkrieg war Biathlon ein Militärsport. Erst 1954 wurde die Kombination aus Langlaufen und Schießen vom Internationalen Olympischen Komitee als eigenständige Sportart anerkannt. 20 Jahre später entdeckte ein aufgeschlossener Antholzer den Sport und hatte sofort das große Ziel vor Augen, in seiner Heimat Antholz ein internationales Zentrum des Biathlons zu schaffen. In der Sendung Land und Leute erfahren wir mehr über diese Entstehungsgeschichte. 
-Weiter in die Vergangenheit zurückblicken müssen wir, wenn es um die Heilquelle Salomonsbrunn in Antholz geht. Über das einstige Bad und die Bedeutung der Quelle weiß die Hotelierin Denise vom heutigen Hotel Bad Salomonsbrunn bestens Bescheid. 
-Der langjährige Hüttenwirt der Rieserfernerhütte Gottfried Leitgeb besucht einen der ältesten Höfe des Tales. Jahrzehntelang war der passionierte Bergsteiger auch Ortsstellenleiter der Bergrettung Antholzertal.</desc>
-  </programme>
-  <programme start="20241208204500 +0100" stop="20241208204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241208221000 +0100" stop="20241208223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241209180000 +0100" stop="20241209181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
