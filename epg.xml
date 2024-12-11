@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241210200000 +0100" stop="20241210202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241210202000 +0100" stop="20241210203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.</desc>
-  </programme>
-  <programme start="20241210203500 +0100" stop="20241210204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die Oberliga ist zwar schon in der Winterpause, vier einheimische Mannschaften standen aber am Wochenende trotzdem noch im Einsatz. St. Georgen und der SSV Brixen spielten in Freienfeld das Italienpokal-Landesfinale, während Stegen und Partschins die 14. Meisterschaftsrunde nachholten, die wegen Schneefall verschoben wurde.</desc>
-  </programme>
-  <programme start="20241210221000 +0100" stop="20241210223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241211200000 +0100" stop="20241211202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
