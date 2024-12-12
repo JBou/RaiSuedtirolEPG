@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241211200000 +0100" stop="20241211202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241211202000 +0100" stop="20241211204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wie attraktiv sind öffentlichen Arbeitsplätze in Südtirol? Wie sicher sind wir am Berg?  Sicherheit am Berg und wie wird Stadtmobiliar hergestellt.
-
-Im Dezember widmen wir uns dem öffentlichen Dienst in Südtirol. Wie gut ist er aufgestellt? Im Fokus steht die Attraktivität der Arbeitsplätze, Entlohnung, Wertschätzung und Effizienz. Besonders relevant: der aktuelle Stand zu Inflationsausgleich und Lohnerhöhungen. Gewerkschaftsvertreter:innen sowie das Arbeitsförderungsinstitut AFI liefern aktuelle Daten und Analysen.
-Wie sicher sind wir am Berg? Im November fand auf der Seiser Alm eine der größten Rettungsübungen Südtirols statt. Unsere Redakteurin schildert hautnah ihre Erfahrungen als &quot;Gerettete&quot;: 20 Meter über dem Boden wurde sie aus einer Gondel befreit. Experten erklären, worauf es bei solchen Einsätzen ankommt und welche Lehren daraus gezogen werden können.
-Wir stellen das Unternehmen Euroform aus Sand in Taufers vor: Seit über 60 Jahren entwickelt das Familienunternehmen nachhaltige Lösungen für den öffentlichen Raum - von Parkbänken bis hin zu Mülleimern. Ihr Erfolgsrezept: hochwertige Materialien, Langlebigkeit, Innovation und ökologisches Bewusstsein.</desc>
-  </programme>
-  <programme start="20241211221000 +0100" stop="20241211223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241212200000 +0100" stop="20241212202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
