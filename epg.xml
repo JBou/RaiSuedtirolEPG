@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241212200000 +0100" stop="20241212202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241212202000 +0100" stop="20241212204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Advent</sub-title>
-    <desc>Adventskranz, Adventskalender und viel Grün und Rot: Die Adventszeit ist von vielen Bräuchen und Geschichten geprägt. Aber wie hat sich diese Vorbereitungszeit auf Weihnachten entwickelt? 
-Im Gespräch erzählt Sabine Holzknecht, Präsidentin vom Verein &quot;Helfen ohne Grenzen&quot;, über die Weihnachtsaktion &quot;Ein Schuljahr unterm Weihnachtsbaum&quot;. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über das Eislaufen aus dem Amt für Film und Medien - und in der Rubrik &quot;Wiedersehen&quot; Ausschnitte aus dem Dokumentarfilm &quot;Frohe Weihnachten&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241212213000 +0100" stop="20241212215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Südtirol werden in diesem Winter wieder elf Weltcup-Rennen in acht verschiedenen Disziplinen stattfinden. Den Auftakt haben die Snowboarder in Carezza gemacht. Die einheimischen Kunstbahnrodler standen am Wochenende hingegen in Igls im Einsatz. Neue Wege mit neuem Material und neuen Bahnen wollen die Naturbahnrodler beschreiten, sie haben ihr Projekt in Hall in Tirol vorgestellt.</desc>
-  </programme>
-  <programme start="20241212221000 +0100" stop="20241212223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241213180000 +0100" stop="20241213182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Advent</sub-title>
@@ -117,6 +95,206 @@ Natascha Andergassen ist die Kalterer Antwort auf Greta Thunberg. Doch nicht nur
     <desc/>
   </programme>
   <programme start="20241215221000 +0100" stop="20241215223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241216180000 +0100" stop="20241216181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball ist das letzte Match vor der Winterpause traditionell das regionale Endspiel um den Oberliga-Italienpokal. Heuer wurde der Cup im Briamasco-Stadion in Trient vergeben. Wir blicken auch auf die Meisterschaft zurück und zeigen die schönsten Tore der Hinrunde.</desc>
+  </programme>
+  <programme start="20241216181400 +0100" stop="20241216183400 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Tearna Advent und Erzählkunst</sub-title>
+    <desc>Die Zipp-Reporter besuchen den heimeligen Weihnachtsmarkt in Terenten. Gemeinsam mit den Bäuerinnen backen sie Weihnachtskekse, kuscheln mit Schafen, lauschen am offenen Feuer den Weihnachtsgeschichten, bummeln durchs Wald-Weihnachtsmarktl und bestaunen das Nikolausspiel.
+Anschließend blicken wir zurück auf das Erzählkunst-Festival, wo Annika Hofmann dem gespannten Publikum die Geschichte vom fröhlichen König erzählt.</desc>
+  </programme>
+  <programme start="20241216183400 +0100" stop="20241216185830 +0100" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Moderatorin Sigrid Flenger stellt wieder Menschen voller Leidenschaft vor: Das Herz von Petra aus Eger schlägt für Porzellan. Fünf Männer kreieren Glaskunst vom Feinsten. Rupert baut Luxus-Aufzüge. In China stellte Rupert Huber einen Panoramalift in die Landschaft, mit dem er es ins Guinness Buch der Rekorde schaffte. Der Dachauer widmete sein ganzes Leben dem Aufzugbauen. 
+Wer etwas über Porzellan aus dem deutschsprachigen Raum wissen will, der fragt am besten Petra Werner. Sie arbeitet im Museum Porzellanikon in Eger/Selb. Egal welche Form, aus welcher Zeit und von welchem Unternehmen - Petra Werner kennt alle noch so kuriosen Objekte mehrerer hundert Porzellanfirmen. 
+Die Lust, das Glas neu zu erfinden, hatten vor 30 Jahren fünf junge Glasmacher aus dem Bayerischen Wald. Quasi als nächste Generation der sogenannten Studioglas-Bewegung gründeten Ronald, Jo, Heikko, Stefan und Alexander 1991 die Künstlergruppe &quot;Männerhaut&quot;.</desc>
+  </programme>
+  <programme start="20241216200000 +0100" stop="20241216202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241216202000 +0100" stop="20241216205414 +0100" channel="Rai Südtirol">
+    <title>Schneeberg</title>
+    <sub-title>Zwei Kulturen, ein Leben</sub-title>
+    <desc>In den 1960er Jahren kamen Bergleute aus Süditalien, um im Bergwerk Schneeberg zu arbeiten, während die Einheimischen lieber ins Tal zogen. Welche Spuren haben die Süditaliener hinterlassen?
+
+Der Bergbau in Ridnaun entstand zwischen dem 18. und 19.Jahrhundert. Das Leben auf 2355 Metern war jedoch hart. Im Winter türmte sich der Schnee meterhoch auf. Es gab so gut wie keine Heizung, kein fließendes Wasser und auch keine Privatsphäre. In den 1960er Jahren waren immer weniger Bergleute bereit, unter diesen harten Bedingungen in Schneeberg zu arbeiten und zu leben.
+Gerade in diesen Jahren kamen viele Bergleute aus den Abruzzen und Kampanien nach Südtirol, meist aus den Städten. Es hieß, dass sie im hohen Norden, in den Bergen, mit harter Arbeit viel Geld verdienen könnten. 
+Bald zogen die Einheimischen zur Arbeit ins Tal. Sie waren Mechaniker für verschiedene Transportmittel oder Maschinen, für die Seilbahn, die das Erz transportierte, oder Angestellte in den Büros. Die Süditaliener arbeiteten stattdessen in den Bergwerken.
+Der Dokumentarfilm zeichnet die Spuren nach, die die süditalienischen Arbeiter im Tal hinterlassen haben.</desc>
+  </programme>
+  <programme start="20241216205400 +0100" stop="20241216213703 +0100" channel="Rai Südtirol">
+    <title>Das Rote Haus (Teil 2)</title>
+    <sub-title>Ein Gästehaus in Grönland</sub-title>
+    <desc>Der Südtiroler Robert Peroni überquerte in den 1980er Jahren zu Fuß den Eispanzer Grönlands
+an seiner breitesten Stelle. Bei dem Weltrekord, den er bis heute hält, verliebte er sich in das
+Land und seine Menschen.
+Peroni beschloss, seinen Beitrag zu leisten, um das letzte Jägervolk Europas vor dem Untergang
+zu retten. Seit nämlich Felle und Fleisch der Wildtiere nicht mehr gehandelt werden dürfen, hat
+das Volk der Ivi seine Existenzgrundlage verloren.
+Stattdessen erhalten sie Sozialhilfe aus Dänemark. Doch diese Umpolung ist bis heute nicht
+bewältigt. Junge Menschen sind ohne Perspektive, viele Grönländer verfallen dem Alkohol.
+In Tasiilaq, mit 2000 Einwohnern die größte Siedlung Ostgrönlands, gründete Peroni das &quot;Red
+House'&quot;, das Rote Haus. Es ist eine Auffangstation für Einheimische in Not, aber auch ein
+Gästehaus für Touristen. Der Südtiroler will mit einem sanften Tourismus den einheimischen Ivi
+eine Zukunft bieten.</desc>
+  </programme>
+  <programme start="20241216213700 +0100" stop="20241216215837 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Felix Tschurtschenthaler</sub-title>
+    <desc>Er ist Künstler und Bergführer. In seiner Kunst, die sich vorwiegend mit der alpinen Kultur beschäftigt, fließen diese beiden Leidenschaften ineinander. In einer Winterwanderung erzählt er Thomas Hainz mehr über sich und eine Sicht auf das Leben.</desc>
+  </programme>
+  <programme start="20241216221000 +0100" stop="20241216223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241217200000 +0100" stop="20241217202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241217202000 +0100" stop="20241217203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20241217203500 +0100" stop="20241217204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball ist das letzte Match vor der Winterpause traditionell das regionale Endspiel um den Oberliga-Italienpokal. Heuer wurde der Cup im Briamasco-Stadion in Trient vergeben. Wir blicken auch auf die Meisterschaft zurück und zeigen die schönsten Tore der Hinrunde.</desc>
+  </programme>
+  <programme start="20241217221000 +0100" stop="20241217223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241218200000 +0100" stop="20241218202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241218202000 +0100" stop="20241218204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Schritte im Glauben - warum Minderheiten pilgern. Die Ladiner Wallfahrt nach Säben, jene der Plodener nach Maria Luggau und die Wallfahrt der Roma und Sinti nach Saintes Maries de la Mer.
+
+In einer globalisierten Welt, die immer schneller ihre Bräuche und Rituale verliert, halten Minderheiten an ihren Wallfahrtstraditionen fest. Denn sie sind Ausdruck ihrer Identität, ihrer Heimat und ihrer tief verwurzelten Kultur. 
+Drei Orte, drei Minderheiten, eine gemeinsame Frage: Wie stellen sich Minderheiten-Wallfahrten den Trends der modernen Welt entgegen?
+Südfrankreich - Saintes Maries de la Mer: Dieses idyllische Küstendorf wird jedes Jahr im Mai zum Wallfahrtsort für mehrere tausend Romnia und Roma, Sinti, Manouches und Jenische. Aus ganz Europa kommen sie, um der Heiligen Sara zu huldigen. 
+&quot;De Plodar Kirchfort in de Lukkaue,&quot; sagt man in Sappada, zu Deutsch Plodn, zur jährlichen Wallfahrt. Diese kleine Gemeinde liegt an der Grenze zwischen Venetien, Friaul und Österreich. Jedes Jahr erneuert sich ein jahrhundertealtes Brauchtum auf dem Weg ins Dorf Maria Luggau in Kärnten, zu dem Plodn eine enge Verbindung hat.
+Die Ladiner-Wallfahrt findet nur alle drei Jahre statt: Die Pilger begegnen sich entlang der Route, überqueren die Jöcher bis St. Peter und wandern bis nach Kloster Säben. Diese dreitägige Reise verlangt jedem der ausschließlich männlichen Teilnehmer einiges ab. 
+Lydia Gasparini und Agostino Fuscaldo haben die drei Wallfahrten begleitet.</desc>
+  </programme>
+  <programme start="20241218221000 +0100" stop="20241218223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241219200000 +0100" stop="20241219202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241219202000 +0100" stop="20241219215900 +0100" channel="Rai Südtirol">
+    <title>Nade´ Weihnachten Natale</title>
+    <sub-title>Weihnachtsgrüße live aus Lana</sub-title>
+    <desc>Der Kapuzinergarten in Lana ist heuer Schauplatz unserer dreisprachigen Weihnachtssendung im Fernsehen von Rai Südtirol, moderiert von Gertrud Prenn, Sara Frenner und Alessandra Tortosa. 
+
+Alljährlich findet im Kapuzinergarten von Lana der stimmungsvolle Sterntaler-Weihnachtsmarkt statt - mit kleinen Ständen, wo Handwerker und Bäuerinnen ihre Besonderheiten feilbieten. Es finden auch regelmäßig Veranstaltungen für Groß und Klein statt. Auch unser Sender wird seine Weihnachtsgrüße von dort aus ins ganze Land senden.
+Musikalisch umrahmt wird der dreisprachige Abend vom Männergesangsverein Lana unter der Leitung von Julia Perkmann, vom Pfarrchor Lana unter der Leitung von Ingrid Rieder.
+Die Saxofonistin Helga Plankensteiner ist dabei, ebenso wie die Sängerin Petra Gruber, begleitet von Michl Lösch am Piano. Weitere musikalische Gäste sind das Bläserquartett der Bürgerkapelle Lana und ein Harmonika-Duo.</desc>
+  </programme>
+  <programme start="20241219221000 +0100" stop="20241219223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241220180000 +0100" stop="20241220182930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wie attraktiv sind öffentlichen Arbeitsplätze in Südtirol? Wie sicher sind wir am Berg?  Sicherheit am Berg und wie wird Stadtmobiliar hergestellt. Im Dezember widmen wir uns dem öffentlichen Dienst in Südtirol. Wie gut ist er aufgestellt? Im Fokus steht die Attraktivität der Arbeitsplätze, Entlohnung, Wertschätzung und Effizienz. Besonders relevant: der aktuelle Stand zu Inflationsausgleich und Lohnerhöhungen. Gewerkschaftsvertreter:innen sowie das Arbeitsförderungsinstitut AFI liefern aktuelle Daten und Analysen.
+Wie sicher sind wir am Berg? Im November fand auf der Seiser Alm eine der größten Rettungsübungen Südtirols statt. Unsere Redakteurin schildert hautnah ihre Erfahrungen als &quot;Gerettete&quot;: 20 Meter über dem Boden wurde sie aus einer Gondel befreit. Experten erklären, worauf es bei solchen Einsätzen ankommt und welche Lehren daraus gezogen werden können.
+Wir stellen das Unternehmen Euroform aus Sand in Taufers vor: Seit über 60 Jahren entwickelt das Familienunternehmen nachhaltige Lösungen für den öffentlichen Raum - von Parkbänken bis hin zu Mülleimern. Ihr Erfolgsrezept: hochwertige Materialien, Langlebigkeit, Innovation und ökologisches Bewusstsein.</desc>
+  </programme>
+  <programme start="20241220182900 +0100" stop="20241220185830 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Immer wieder neue Maßstäbe im Wintersport - das Konsortium Dolomiti Superski wird 50. Neue Maßstäbe im Design - wie Südtiroler Designer sich ihren Platz in der Szene erarbeiten. Dolomiti Superski ist eine wirtschaftliche Erfolgsgeschichte. 1200 Pistenkilometer und 450 Aufstiegsanlagen verzeichnet das Konsortium zum 50-jährigen Jubiläum. Trend wirft einen Blick auf die Organisation, die es fertigbrachte, 130 unabhängige Gesellschaften und Unternehmen in den zwölf Skigebieten unter einem Dach zu vereinen, eine interne Konkurrenz, um die besten Pisten und Anlagen zu pflegen und gleichzeitig weltweit führend in der technologischen Innovation zu sein. 
+Neue Maßstäbe setzt auch das Design von Produkten aus Südtirol. Dabei erreicht der Standort Südtirol auch international bereits ein gutes Renommee. Im Industrie- und Produktdesign geht es nicht einfach um Hüllen, um das Äußere von Maschinen, Möbeln oder anderen Gegenständen. Designer müssen sich intensiv mit der Funktion der Produkte beschäftigen und arbeiten dabei oft eng mit Ingenieuren und Entwicklern zusammen. Auch die Zusammenarbeit mit international tätigen Südtiroler Unternehmen trägt zu ihrem Erfolg bei. Schließlich ist das Design von Produkten entscheidend für ihren Verkaufserfolg. 
+Gerade im Winter hat das Hafnergewerbe Hochkonjunktur, denn viele Menschen lieben alte, aber auch neue Öfen.</desc>
+  </programme>
+  <programme start="20241220200000 +0100" stop="20241220202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241220202000 +0100" stop="20241220205210 +0100" channel="Rai Südtirol">
+    <title>Herzen ohne Grenzen</title>
+    <sub-title>Zwei Südtirolerinnen in Afrika</sub-title>
+    <desc>Sie engagieren sich für junge Frauen in Tansania: Irma Werth und Julia Lantschner. Die Steineggerin lebt sogar selber seit vielen Jahren dort und bemüht sich um Schulen und Berufsbildung. 
+
+Irma Werth aus Eppan unterstützt seit 15 Jahren ein Massaidorf im Nordwesten von Tansania. Dort setzt sie sich vor allem für eine gezielte Verbesserung der Lebenssituationen junger Frauen ein. Julia Lantschner aus Steinegg lebt seit vielen Jahren in Tansania und kümmert sich um junge Mädchen, die ohne ihre Unterstützung auf der Straße leben müssten. 
+Markus Frings und Josef Pichler haben die beiden Südtirolerinnen mit der Kamera nach Tansania begleitet. Mit ihrer Reportage unterstützen die beiden Filmemacher zusammen mit Rai Südtirol die Hilfsorganisationen &quot;Servus&quot; und &quot;Irma hilft&quot;.</desc>
+  </programme>
+  <programme start="20241220205200 +0100" stop="20241220214326 +0100" channel="Rai Südtirol">
+    <title>Über Österreich - Der Westen</title>
+    <sub-title/>
+    <desc>Im Tiroler Gebirge, wo sich fantastische Gipfel und tiefe, schattige Täler auftun, kennt man viele Flecken nur von der Landkarte oder vom Hörensagen. Diese winterliche Entdeckungsreise bietet erstmals die volle Pracht der Bilder. Ziele sind unter anderem die Mutter aller österreichischen Gipfel, der Großglockner, der winterliche Hochtannbergpass, der Plansee und der Heiterwangersee, sowie die Gletscherwelt am Teufelskamp.</desc>
+  </programme>
+  <programme start="20241220214400 +0100" stop="20241220215759 +0100" channel="Rai Südtirol">
+    <title>Adventgeschichten</title>
+    <sub-title>Vorfreude auf Weihnachten</sub-title>
+    <desc>Mit dem ersten Adventsonntag begann früher die sogenannte &quot;geschlossene Zeit&quot;, wo sowohl das Tanzen als auch die Hochzeiten untersagt waren. Das Feiern war zwar verboten, nicht aber das Singen, erinnern sich die Dorfältesten. Lobgesänge auf die nahestehende Geburt Jesu und Lieder über die Herbergssuche ertönen noch heute im ganzen Land nach alter Tradition. Ein Film von Christoph Wieser.</desc>
+  </programme>
+  <programme start="20241220221000 +0100" stop="20241220223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241221180000 +0100" stop="20241221185059 +0100" channel="Rai Südtirol">
+    <title>Russlands wildes Meer</title>
+    <sub-title>Kampf ums Überleben (Teil 1)</sub-title>
+    <desc>6.000 km von Moskau entfernt, im Fernen Osten Russlands, liegt eines der reichsten und
+gleichzeitig unwirtlichsten Meere der Welt: das Ochotskische Meer. Eine Universum-Dokumentation. Im Winter herrschen klirrende Kälte und Packeis, im Sommer peitschen Taifune meterhohe Wellen auf. Trotzdem ist dieses riesige Meer zwischen der Halbinsel Kamtschatka im äußersten Sibirien und Japans Insel Hokkaido eines der letzten großen Naturparadiese der Welt - mit Millionen an Wildtieren, unberührten Felsküsten, Tausenden Wildflüssen und unendlichen Urwäldern.
+Teil 1 zeigt, wie schwierig es sein kann, unter so harten Bedingungen zu überleben und welche
+Strategien die Tiere, aber auch die Menschen, dafür entwickelten. Da gibt es Molche, die jahrelang tiefgefroren im Permafrostboden überleben, um dann, wenn das Frühjahr warm genug
+ist, zu erwachen, und sich fortzupflanzen. Oder Fische, die gelernt haben stundenlang außerhalb des Wassers zu bestehen. Auch die Menschen müssen einfallsreich sein: die Kojaken etwa sind mit ihren Rentieren ständig auf Wanderschaft, um in der kargen Tundra zu überleben.</desc>
+  </programme>
+  <programme start="20241221185000 +0100" stop="20241221185751 +0100" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Schlittenunde</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20241221200000 +0100" stop="20241221202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241221202100 +0100" stop="20241221202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241221202500 +0100" stop="20241221204930 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Betreute Taubenschläge - wie die in Lana - ermöglichen eine artgerechte Haltung von Stadttauben und haben auch noch andere Vorteile. Und zu Besuch in einem Haflingergestüt im Burggrafenamt.
+
+Früher als Nutztiere gezüchtet, leben Tauben heute meist als verwilderte Haustiere und sind auf den Menschen angewiesen. In Lana gibt es zwei betreute Taubenschläge, in denen die Tiere artgerecht gefüttert und untergebracht werden. Taubenschläge gewährleisten einen artgerechten Umgang mit Stadttauben und sind eine nachhaltige Lösung gegen Taubenkot und unerwünschte Brutplätze in Häusern und auf Gemäuern. 
+In einem Haflingergestüt im Burggrafenamt werden charakterstarke Pferde gezüchtet. Die erstklassigen Zuchthengste und ein guter Stutenbestand bilden die Basis für die erfolgreiche Haflingerzucht. Die Jungpferde werden direkt auf dem Gestüt im Herdenverband aufgezogen und für Schauen und Körungen vorbereitet.
+Weiters stellt Pluto sympathische Vierbeiner vor, die dringend ein neues Zuhause brauchen.</desc>
+  </programme>
+  <programme start="20241221221000 +0100" stop="20241221223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
