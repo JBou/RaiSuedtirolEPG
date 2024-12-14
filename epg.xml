@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241213180000 +0100" stop="20241213182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Advent</sub-title>
-    <desc>Adventskranz, Adventskalender und viel Grün und Rot: Die Adventszeit ist von vielen Bräuchen und Geschichten geprägt. Aber wie hat sich diese Vorbereitungszeit auf Weihnachten entwickelt? Im Gespräch erzählt Sabine Holzknecht, Präsidentin vom Verein &quot;Helfen ohne Grenzen&quot;, über die Weihnachtsaktion &quot;Ein Schuljahr unterm Weihnachtsbaum&quot;. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Bilder über das Eislaufen aus dem Amt für Film und Medien - und in der Rubrik &quot;Wiedersehen&quot; Ausschnitte aus dem Dokumentarfilm &quot;Frohe Weihnachten&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20241213182900 +0100" stop="20241213185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Südtirol werden in diesem Winter wieder elf Weltcup-Rennen in acht verschiedenen Disziplinen stattfinden. Den Auftakt haben die Snowboarder in Carezza gemacht. Die einheimischen Kunstbahnrodler standen am Wochenende hingegen in Igls im Einsatz. Neue Wege mit neuem Material und neuen Bahnen wollen die Naturbahnrodler beschreiten, sie haben ihr Projekt in Hall in Tirol vorgestellt.</desc>
-  </programme>
-  <programme start="20241213200000 +0100" stop="20241213202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241213202100 +0100" stop="20241213210510 +0100" channel="Rai Südtirol">
-    <title>Hinter den Kulissen der Gärten von Schloss Trauttmansdorff</title>
-    <sub-title/>
-    <desc>Die Gärten von Schloss Trauttmansdorff zählen zu den schönsten in Europa und erweisen sich in
-Südtirol als absolutes Erfolgsmodell. Wir erleben das Gärtnerteam ein Jahr lang bei ihrer Arbeit. Doch wie ist man imstande diese Gärten so zu erhalten und weiterzuentwickeln - und das ohne
-Pflanzenschutzmittel einzusetzen? Steht die Arbeit im Winter still? Was hat es auf sich, wenn Tausende Regenwürmer angeliefert werden? Insgesamt kümmern sich 130 Menschen um die 12 Hektar großen Gärten. Petra Tschenett und Jochen Unterhofer haben hinter die Kulissen geblickt und die Arbeiten über ein ganzes Jahr begleitet.</desc>
-  </programme>
-  <programme start="20241213210500 +0100" stop="20241213215543 +0100" channel="Rai Südtirol">
-    <title>Die geheimnisvolle Welt der Bäume</title>
-    <sub-title/>
-    <desc>Bäume sind nicht einfach Bäume, sie waren schon vor Jahrhunderten da und werden oft noch Jahrhunderte überleben; sie haben sozusagen Geschichte erlebt. Den Menschen war das immer bewusst, nicht zuletzt werden viele Bäume als Heiligtümer verehrt. Sie sind aber auch Lebensraum für viele Tiere und sie liefern wertvollste Rohstoffe vom Holz über heilsame Lindenblüten bis zum antibakteriell wirkenden Harz. Der Film führt uns zur ältesten Eiche Europas bis zur Zirbe, der Königin der Alpen, vom widerstandsfähigen Gingko bis zum gigantischen Mammutbaum.</desc>
-  </programme>
-  <programme start="20241213221000 +0100" stop="20241213223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241214180000 +0100" stop="20241214182930 +0100" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
@@ -295,6 +262,30 @@ In einem Haflingergestüt im Burggrafenamt werden charakterstarke Pferde gezüch
 Weiters stellt Pluto sympathische Vierbeiner vor, die dringend ein neues Zuhause brauchen.</desc>
   </programme>
   <programme start="20241221221000 +0100" stop="20241221223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241222200000 +0100" stop="20241222202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241222202000 +0100" stop="20241222204930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Franz von Walther</sub-title>
+    <desc>Er war der erste Koordinator des Senders Bozen der Rai und interessiert auch mit 91 Jahren noch leidenschaftlich  für die Kultur und Geschichte Südtirols. Aber auch in der Musikwelt hatte er wichtige Akzente gesetzt.  
+
+Franz von Walther, geboren 1933 in Bozen, ist eine prägende Persönlichkeit der Südtiroler Medienlandschaft. Nach dem Studium der Rechtswissenschaften in Florenz und Rom übernahm er als erster Koordinator die Leitung des Rai-Senders Bozen, den er über 23 Jahre hinweg bis zu seinem Ruhestand im Jahr 1998 gestaltete und prägte. 
+Seine Leidenschaft für die Kultur und Geschichte Südtirols spiegelte sich auch in seinen weiteren Engagements wider: Als Vorsitzender des Konzertvereins und Präsident des Haydn-Orchesters setzte er Akzente, und durch seine Dokumentationen und beliebten Sendungen hinterließ er ein reiches Vermächtnis.
+Im Gespräch mit Markus Frings nimmt uns Franz von Walther mit auf eine Reise in die Vergangenheit: Er teilt Erinnerungen an seine Kindheit während der Optionszeit und gibt Einblicke in seinen bewegten beruflichen Werdegang und seine langjährige Medienerfahrung.</desc>
+  </programme>
+  <programme start="20241222205000 +0100" stop="20241222205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241222221000 +0100" stop="20241222223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
