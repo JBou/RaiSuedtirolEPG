@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241214180000 +0100" stop="20241214182930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Der Europäische Volksgruppenkongress in Klagenfurt, jesidisch-kurdische Aktivist:innen erzählen über die derzeitige Situation im Nord-Irak, mehr Selbstvertretung für Menschen mit Beeinträchtigung. Mitte November findet in Klagenfurt der jährliche Europäische Volksgruppenkongress statt. Ziel des Kongresses ist es, aktuelle europäische Volksgruppenthemen mit Fachbeiträgen nationaler und internationaler Referent:innen zu beleuchten. Minet war in diesem Jahr dabei. 
-Anfang August 2014 überfielen Kämpfer der Terrormiliz &quot;Islamischer Staat&quot; jesidische Dörfer und Städte im Nordirak. Die islamistischen Terroristen begingen Massaker an Zivilisten. Unter anderem die Vereinten Nationen, aber auch Deutschland erkennen die Verbrechen als Genozid an. Trotzdem beginnt Deutschland Betroffene wieder in den Irak abzuschieben. Minet hat mit jesidisch-kurdischen Aktivist:innen in Berlin gesprochen. 
-Minority Rights Group International, kurz MRG, ist eine in London ansässige internationale NGO, die sich für benachteiligte Minderheiten einsetzt. In Minet werden ausgewählte Filmbeiträge gezeigt: Diesmal das Portrait einer armenischen Schwimmerin mit Beeinträchtigung in der Türkei. Seit 2017 gibt es in Südtirol als Selbstvertretungsorgan den Monitoringausschuss für die Rechte von Menschen mit Behinderungen. Minet hat die neu ernannten Mitglieder getroffen. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20241214182900 +0100" stop="20241214185830 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Lichtverschmutzung durch Straßenbeleuchtung, menschliche Bewegungen per Computer analysieren, die Vorteile der pilzresistenten PIWI-Rebsorten, der Wirtschaftsstandort Bozen. Wie sehr trägt die öffentliche Straßenbeleuchtung zur Lichtverschmutzung in unseren Städten bei? Das Planetarium Südtirol geht in einem Forschungsprojekt dieser Frage nach. 
-An der Freien Universität Bozen erzeugen Mathematiker mit Algorythmen Computermodelle, die menschliche Bewegungen erkennen und interpretieren können. Diese Erkenntnis hilft unter anderem, Menschen beim Sportklettern zu unterstützen.
-In dieser Ausgabe erfahren wir außerdem mehr über den Forschungsstand des Versuchszentrums Laimburg, das verstärkt mit pilzresistenten sogenannten PIWI-Rebsorten experimentiert. 
-Im Studio zu Gast ist diesmal der neue Rektor der Freien Universität Bozen, Alex Weissensteiner, der über Herausforderungen und Strategien des Wissenschaftsstandortes Bozen berichten wird.</desc>
-  </programme>
-  <programme start="20241214200000 +0100" stop="20241214202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241214202100 +0100" stop="20241214202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241214202500 +0100" stop="20241214204930 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Moderatorin Sigrid Flenger stellt wieder Menschen voller Leidenschaft vor: Das Herz von Petra aus Eger schlägt für Porzellan. Fünf Männer kreieren Glaskunst vom Feinsten. Rupert baut Luxus-Aufzüge. 
-In China stellte Rupert Huber einen Panoramalift in die Landschaft, mit dem er es ins Guinness Buch der Rekorde schaffte. Der Dachauer widmete sein ganzes Leben dem Aufzugbauen. 
-Wer etwas über Porzellan aus dem deutschsprachigen Raum wissen will, der fragt am besten Petra Werner. Sie arbeitet im Museum Porzellanikon in Eger/Selb. Egal welche Form, aus welcher Zeit und von welchem Unternehmen - Petra Werner kennt alle noch so kuriosen Objekte mehrerer hundert Porzellanfirmen. 
-Die Lust, das Glas neu zu erfinden, hatten vor 30 Jahren fünf junge Glasmacher aus dem Bayerischen Wald. Quasi als nächste Generation der sogenannten Studioglas-Bewegung gründeten Ronald, Jo, Heikko, Stefan und Alexander 1991 die Künstlergruppe &quot;Männerhaut&quot;.</desc>
-  </programme>
-  <programme start="20241214221000 +0100" stop="20241214223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241215200000 +0100" stop="20241215202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
