@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241215200000 +0100" stop="20241215202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241215202100 +0100" stop="20241215204530 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der Albeinser Stefan Santifaller hat mehrere Monate Europa durchquert. Natascha Andergassen will ein Vorbild in Sachen Nachhaltigkeit sein. Ausbildungswege an der Fachschule Hannah Arendt.
-
-Abenteurer und Fotograf Stefan Santifaller aus Albeins hat seine Komfortzone verlassen: Insgesamt 7700 Kilometer ist er über mehrere Monate gelaufen, um von Portugal bis zum Nordkap zu kommen. Noch während seiner Reise wird ihm bewusst, dass er die Strecke mit einem Rad auch wieder zurückfahren könnte. Ganz auf sich allein gestellt war er ein halbes Jahr unterwegs und hat viele Geschichten zu erzählen und eine Botschaft: Ein Traum scheitert nur, wenn man es nicht bis zum Start schafft.
-Die Pädagogischen Mitarbeiter:innen begleiten Kinder zwischen 3 und 6 Jahren in ihrer Entwicklung und Bildung. Kinderbetreuer:innen hingegen betreuen Kleinkinder im Alter zwischen 0 und 3 Jahren. Mehr über diese zwei Ausbildungsmöglichkeiten erfahren wir in der Landesfachschule für Sozialberufe Hannah Arendt in Bozen.
-Natascha Andergassen ist die Kalterer Antwort auf Greta Thunberg. Doch nicht nur: Nachhaltigkeit ist zwar ihr Credo. Natascha ist darüber hinaus leidenschaftliche Humanistin und möchte mit ihrer Lebensweise Natur und Umwelt nachhaltig prägen.</desc>
-  </programme>
-  <programme start="20241215204500 +0100" stop="20241215204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241215221000 +0100" stop="20241215223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241216180000 +0100" stop="20241216181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
