@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241218200000 +0100" stop="20241218202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241218202000 +0100" stop="20241218204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Schritte im Glauben - warum Minderheiten pilgern. Die Ladiner Wallfahrt nach Säben, jene der Plodener nach Maria Luggau und die Wallfahrt der Roma und Sinti nach Saintes Maries de la Mer.
-
-In einer globalisierten Welt, die immer schneller ihre Bräuche und Rituale verliert, halten Minderheiten an ihren Wallfahrtstraditionen fest. Denn sie sind Ausdruck ihrer Identität, ihrer Heimat und ihrer tief verwurzelten Kultur. 
-Drei Orte, drei Minderheiten, eine gemeinsame Frage: Wie stellen sich Minderheiten-Wallfahrten den Trends der modernen Welt entgegen?
-Südfrankreich - Saintes Maries de la Mer: Dieses idyllische Küstendorf wird jedes Jahr im Mai zum Wallfahrtsort für mehrere tausend Romnia und Roma, Sinti, Manouches und Jenische. Aus ganz Europa kommen sie, um der Heiligen Sara zu huldigen. 
-&quot;De Plodar Kirchfort in de Lukkaue,&quot; sagt man in Sappada, zu Deutsch Plodn, zur jährlichen Wallfahrt. Diese kleine Gemeinde liegt an der Grenze zwischen Venetien, Friaul und Österreich. Jedes Jahr erneuert sich ein jahrhundertealtes Brauchtum auf dem Weg ins Dorf Maria Luggau in Kärnten, zu dem Plodn eine enge Verbindung hat.
-Die Ladiner-Wallfahrt findet nur alle drei Jahre statt: Die Pilger begegnen sich entlang der Route, überqueren die Jöcher bis St. Peter und wandern bis nach Kloster Säben. Diese dreitägige Reise verlangt jedem der ausschließlich männlichen Teilnehmer einiges ab. 
-Lydia Gasparini und Agostino Fuscaldo haben die drei Wallfahrten begleitet.</desc>
-  </programme>
-  <programme start="20241218221000 +0100" stop="20241218223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241219200000 +0100" stop="20241219202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
