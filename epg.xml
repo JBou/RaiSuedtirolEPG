@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241219200000 +0100" stop="20241219202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241219202000 +0100" stop="20241219215900 +0100" channel="Rai Südtirol">
-    <title>Nade´ Weihnachten Natale</title>
-    <sub-title>Weihnachtsgrüße live aus Lana</sub-title>
-    <desc>Der Kapuzinergarten in Lana ist heuer Schauplatz unserer dreisprachigen Weihnachtssendung im Fernsehen von Rai Südtirol, moderiert von Gertrud Prenn, Sara Frenner und Alessandra Tortosa. 
-
-Alljährlich findet im Kapuzinergarten von Lana der stimmungsvolle Sterntaler-Weihnachtsmarkt statt - mit kleinen Ständen, wo Handwerker und Bäuerinnen ihre Besonderheiten feilbieten. Es finden auch regelmäßig Veranstaltungen für Groß und Klein statt. Auch unser Sender wird seine Weihnachtsgrüße von dort aus ins ganze Land senden.
-Musikalisch umrahmt wird der dreisprachige Abend vom Männergesangsverein Lana unter der Leitung von Julia Perkmann, vom Pfarrchor Lana unter der Leitung von Ingrid Rieder.
-Die Saxofonistin Helga Plankensteiner ist dabei, ebenso wie die Sängerin Petra Gruber, begleitet von Michl Lösch am Piano. Weitere musikalische Gäste sind das Bläserquartett der Bürgerkapelle Lana und ein Harmonika-Duo.</desc>
-  </programme>
-  <programme start="20241219221000 +0100" stop="20241219223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241220180000 +0100" stop="20241220182930 +0100" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -89,7 +70,7 @@ ist, zu erwachen, und sich fortzupflanzen. Oder Fische, die gelernt haben stunde
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20241221202500 +0100" stop="20241221204930 +0100" channel="Rai Südtirol">
+  <programme start="20241221202500 +0100" stop="20241221205030 +0100" channel="Rai Südtirol">
     <title>Pluto</title>
     <sub-title>Das Tiermagazin</sub-title>
     <desc>Betreute Taubenschläge - wie die in Lana - ermöglichen eine artgerechte Haltung von Stadttauben und haben auch noch andere Vorteile. Und zu Besuch in einem Haflingergestüt im Burggrafenamt.
@@ -97,6 +78,22 @@ ist, zu erwachen, und sich fortzupflanzen. Oder Fische, die gelernt haben stunde
 Früher als Nutztiere gezüchtet, leben Tauben heute meist als verwilderte Haustiere und sind auf den Menschen angewiesen. In Lana gibt es zwei betreute Taubenschläge, in denen die Tiere artgerecht gefüttert und untergebracht werden. Taubenschläge gewährleisten einen artgerechten Umgang mit Stadttauben und sind eine nachhaltige Lösung gegen Taubenkot und unerwünschte Brutplätze in Häusern und auf Gemäuern. 
 In einem Haflingergestüt im Burggrafenamt werden charakterstarke Pferde gezüchtet. Die erstklassigen Zuchthengste und ein guter Stutenbestand bilden die Basis für die erfolgreiche Haflingerzucht. Die Jungpferde werden direkt auf dem Gestüt im Herdenverband aufgezogen und für Schauen und Körungen vorbereitet.
 Weiters stellt Pluto sympathische Vierbeiner vor, die dringend ein neues Zuhause brauchen.</desc>
+  </programme>
+  <programme start="20241221205000 +0100" stop="20241221211429 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Antholz</sub-title>
+    <desc>Im Dorfportrait erfahren wir, wie Antholz den Biathlonsport für sich entdeckte. Wir besuchen die Heilquelle Salomonsbrunn und lernen Gottfried Leitgeb näher kennen, langjähriger Wirt der Rieserfernerhütte.
+Bis zum Zweiten Weltkrieg war Biathlon ein Militärsport. Erst 1954 wurde die Kombination aus Langlaufen und Schießen vom Internationalen Olympischen Komitee als eigenständige Sportart anerkannt. 20 Jahre später entdeckte ein aufgeschlossener Antholzer den Sport und hatte sofort das große Ziel vor Augen, in seiner Heimat Antholz ein internationales Zentrum des Biathlons zu schaffen. In der Sendung Land und Leute erfahren wir mehr über diese Entstehungsgeschichte. 
+Weiter in die Vergangenheit zurückblicken müssen wir, wenn es um die Heilquelle Salomonsbrunn in Antholz geht. Über das einstige Bad und die Bedeutung der Quelle weiß die Hotelierin Denise vom heutigen Hotel Bad Salomonsbrunn bestens Bescheid. 
+Der langjährige Hüttenwirt der Rieserfernerhütte Gottfried Leitgeb besucht einen der ältesten Höfe des Tales. Jahrzehntelang war der passionierte Bergsteiger auch Ortsstellenleiter der Bergrettung Antholzertal.</desc>
+  </programme>
+  <programme start="20241221211400 +0100" stop="20241221215703 +0100" channel="Rai Südtirol">
+    <title>Das Rote Haus (Teil 1)</title>
+    <sub-title>Ein Gästehaus in Grönland</sub-title>
+    <desc>Der Südtiroler Robert Peroni überquerte in den 1980er Jahren als erster zu Fuß den Eispanzer
+Grönlands an seiner breitesten Stelle. Bei dem Weltrekord, den er bis heute hält, verliebte er sich in das Land und seine Menschen. Und er beschloss, das letzte Jägervolk Europas vor dem
+Untergang zu retten. Seit nämlich Felle und Fleisch der Wildtiere nicht mehr gehandelt werden
+dürfen, hat das Volk der Ivi ihre Existenzgrundlage verloren. Stattdessen erhalten sie Sozialhilfe aus Dänemark. Doch diese Umpolung ist bis heute nicht verdaut.In Tasiilaq, mit 2000 Einwohnern größte Siedlung Ostgrönlands, gründete Peroni das &quot;Red House&quot;, das Rote Haus. Es ist eine Auffangstation für Einheimische in Not, aber auch ein Gästehaus für Touristen. Der Südtiroler will mit Hilfe eines sanften Tourismus dem Jägervolk der Ivi eine Zukunft bieten.</desc>
   </programme>
   <programme start="20241221221000 +0100" stop="20241221223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
@@ -122,7 +119,235 @@ Im Gespräch mit Markus Frings nimmt uns Franz von Walther mit auf eine Reise in
     <sub-title/>
     <desc/>
   </programme>
+  <programme start="20241222205400 +0100" stop="20241222220000 +0100" channel="Rai Südtirol">
+    <title>Nade´ Weihnachten Natale</title>
+    <sub-title>Weihnachtsgrüße aus Lana</sub-title>
+    <desc>Der Kapuzinergarten in Lana ist heuer Schauplatz unserer dreisprachigen Weihnachtssendung im Fernsehen von Rai Südtirol, moderiert von Gertrud Prenn, Sara Frenner und Alessandra Tortosa. 
+Alljährlich findet im Kapuzinergarten von Lana der stimmungsvolle Sterntaler-Weihnachtsmarkt statt - mit kleinen Ständen, wo Handwerker und Bäuerinnen ihre Besonderheiten feilbieten. Es finden auch regelmäßig Veranstaltungen für Groß und Klein statt. Auch unser Sender wird seine Weihnachtsgrüße von dort aus ins ganze Land senden.
+Musikalisch umrahmt wird der dreisprachige Abend vom Männergesangsverein Lana unter der Leitung von Julia Perkmann, vom Pfarrchor Lana unter der Leitung von Ingrid Rieder.
+Die Saxofonistin Helga Plankensteiner ist dabei, ebenso wie die Sängerin Petra Gruber, begleitet von Michl Lösch am Piano. Weitere musikalische Gäste sind das Bläserquartett der Bürgerkapelle Lana und ein Harmonika-Duo.</desc>
+  </programme>
   <programme start="20241222221000 +0100" stop="20241222223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241223180000 +0100" stop="20241223183400 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Tiroler Schlossadvent</sub-title>
+    <desc>Zipp-Reporterin Nadja fährt mit der Kutsche von Dorf Tirol zum Schloss Tirol. Dort besichtigt sie die Krippenausstellung. Sie schaut außerdem Korbflechtern über die Schulter und lässt sich dieses Handwerk genauer erklären.</desc>
+  </programme>
+  <programme start="20241223183400 +0100" stop="20241223185830 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Der Albeinser Stefan Santifaller hat mehrere Monate Europa durchquert. Natascha Andergassen will ein Vorbild in Sachen Nachhaltigkeit sein. Ausbildungswege an der Fachschule Hannah Arendt.
+Abenteurer und Fotograf Stefan Santifaller aus Albeins hat seine Komfortzone verlassen: Insgesamt 7700 Kilometer ist er über mehrere Monate gelaufen, um von Portugal bis zum Nordkap zu kommen. Noch während seiner Reise wird ihm bewusst, dass er die Strecke mit einem Rad auch wieder zurückfahren könnte. Ganz auf sich allein gestellt war er ein halbes Jahr unterwegs und hat viele Geschichten zu erzählen und eine Botschaft: Ein Traum scheitert nur, wenn man es nicht bis zum Start schafft.
+Die Pädagogischen Mitarbeiter:innen begleiten Kinder zwischen 3 und 6 Jahren in ihrer Entwicklung und Bildung. Kinderbetreuer:innen hingegen betreuen Kleinkinder im Alter zwischen 0 und 3 Jahren. Mehr über diese zwei Ausbildungsmöglichkeiten erfahren wir in der Landesfachschule für Sozialberufe Hannah Arendt in Bozen.
+Natascha Andergassen ist die Kalterer Antwort auf Greta Thunberg. Doch nicht nur: Nachhaltigkeit ist zwar ihr Credo. Natascha ist darüber hinaus leidenschaftliche Humanistin und möchte mit ihrer Lebensweise Natur und Umwelt nachhaltig prägen.</desc>
+  </programme>
+  <programme start="20241223200000 +0100" stop="20241223202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241223202000 +0100" stop="20241223210239 +0100" channel="Rai Südtirol">
+    <title>Weihnachten im Kaiserhaus</title>
+    <sub-title/>
+    <desc>Weihnachten war immer schon das Fest der Familie - natürlich auch für die Habsburger. Franz Joseph und die Seinen versuchten, die Besinnlichkeit dieses Festes spürbar zu machen und auch nach außen hin den Anschein der glücklichen, intakten und tief katholischen Herrscherfamilie zu wahren. Vom Ablauf über den Speiseplan bis zu den Geschenken war alles minutiös vom Hofstaat vorbereitet.
+Die Dokumentation von Jasmin Baumgartner zeigt das Weihnachtsfest aus der Perspektive der kaiserlichen Familie und gibt damit einen einzigartigen Einblick in das Privatleben von Franz Joseph, Elisabeth, Rudolf und vielen anderen Mitgliedern.</desc>
+  </programme>
+  <programme start="20241223210300 +0100" stop="20241223214718 +0100" channel="Rai Südtirol">
+    <title>Wien zur Kaiserzeit</title>
+    <sub-title>Ein Blick zurück</sub-title>
+    <desc>Ein Blick zurück: Man kennt sie, man liebt sie, Wiener Ecken wie die Mariahilfer Straße, den
+Karlsplatz oder den Prater. Doch kaum wer weiß, wie diese Plätze früher ausgeschaut haben.
+Um die Jahrhundertwende bevölkern Frauen mit weiten Röcken und Männer mit Melone die
+Szene, Pferdedroschken sind das Verkehrsmittel der Wahl. Die Straßen erscheinen unendlich breit, die Menschen darauf vereinzelt und verloren. Wer den Blick schweifen lässt in die Außenbezirke, etwa zu den Gasometern oder zum Westbahnhof, sieht ländlich wirkende Gegenden, die weit von der Stadt entfernt zu sein scheinen.
+Regisseur Norman Vaughan hat einen Schatz an historischen Fotos gehoben, Bilder, die Wien
+teilweise noch so zeigen, wie es vor der Schleifung der Stadtmauer ausgesehen hat. Mit
+Computeranimation haucht er ihnen digital Leben ein und entführt uns ein Jahrhundert und mehr
+zurück in die Stadtgeschichte.</desc>
+  </programme>
+  <programme start="20241223214700 +0100" stop="20241223215924 +0100" channel="Rai Südtirol">
+    <title>Der Krippenverein Sand in Taufers</title>
+    <sub-title>Aus der Reihe Vereine vereinen</sub-title>
+    <desc>Für die Tauferer Mitglieder des Südtiroler Krippenverbandes steht fest: In jedem Südtiroler
+Haushalt sollte eine Krippe stehen. Diese Folge der Sendereihe &quot;Vereine vereinen&quot; zeigt, wie
+schon Kinder lernen, eine Krippen zu bauen, und wie der Verein die großen Weihnachtskrippen in
+den drei Tauferer Kirchen kunstvoll errichtet und sorgfältig betreut.</desc>
+  </programme>
+  <programme start="20241223221000 +0100" stop="20241223223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241224200000 +0100" stop="20241224202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241224202000 +0100" stop="20241224205042 +0100" channel="Rai Südtirol">
+    <title>Advent und Heiligabend im Oberen Pustertal</title>
+    <sub-title/>
+    <desc>Schnitzer, Krippenbauer, Sänger und Musiker aus dem Oberen Pustertal stimmen uns auf Weihnachten ein.
+
+Beim Kramerhof in Moos bei Sexten ist der Schnitzer Florian Tschurtschenthaler in der warmen Stube am Werk. Heute feilt er an einem Geschenk für Heiligabend. Georg Lanzinger hingegen findet im Wald unweit seines Berghofes ein großes Stück Baumrinde. Mit etwas Fantasie verwandelt er diese in den Stall von Bethlehem. Eingebettet in Heu werden seine Krippenfiguren von der Heiligen Nacht erzählen, als der Engel die Geburt des Jesukindes verkündet. Mit der Verheißung, dass alles besser wird. Die Wartezeit auf Weihnachten wird auch von Sängern und Musikern begleitet. Das &quot;Sexta Singa Quartettl&quot; besingt das Christkind in der Krippe und das Bläserquartett &quot;Die Blechzinnen&quot; aus Toblach tragen in der Kirche von Aufkirchen ein Hirtenlied vor.</desc>
+  </programme>
+  <programme start="20241224221000 +0100" stop="20241224223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241225100000 +0100" stop="20241225112000 +0100" channel="Rai Südtirol">
+    <title>Pontifikalamt am Weihnachtstag mit Bischof Ivo Muser</title>
+    <sub-title>Live in Hörfunk und Fernsehen aus dem Bozner Dom</sub-title>
+    <desc>Bischof Ivo Muser zelebriert das dreisprachige Pontifikalamt am Christtag im Dom zu Bozen und möchte den Gläubigen die Weihnachtsbotschaft überbringen. Das Hochamt wird musikalisch umrahmt von Domorchester und Domchor unter der Leitung von Domkapellmeister Tobias Chizzali. Aufgeführt wird die Orgelsolomesse in C-Dur KV 259 von Wolfgang Amadeus Mozart. Die Solisten sind: Stefanie Steger, Sopran; Anna Lucia Nardi, Alt; Georg Hasler, Tenor; und Michael Feichter, Bass. Organistin ist Johanna Feichter. RAI Südtirol überträgt das Pontifikalamt live in Hörfunk und Fernsehen.</desc>
+  </programme>
+  <programme start="20241225200000 +0100" stop="20241225202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241225202000 +0100" stop="20241225204930 +0100" channel="Rai Südtirol">
+    <title>Aktion Sternsingen 2025</title>
+    <sub-title>Indonesien - Inseln der Hoffnung</sub-title>
+    <desc>Unter einem guten Stern: Mit den Spenden der heurigen Sternsingeraktion werden unter anderem Kinder in Indonesien unterstützt. Sie leben in einem Waisenhaus, das jetzt neu erbaut werden soll. 
+Unter dem Titel &quot;Inseln der Hoffnung&quot; wird ein Teil der gesammelten Spendengelder Kindern im Eugene-Schmitz-Waisenhaus auf der indonesischen Insel Lembata zugutekommen. Dieses Waisenhaus dient seit über 20 Jahren verwaisten und verlassenen Kindern als sicherer Zufluchtsort. Derzeit sind 31 Kinder untergebracht, die vielfach Traumatisches erlebt haben. Das Gebäude ist jedoch nur 50 Quadratmeter groß und baufällig. Es soll jetzt neu gebaut und erweitert werden und 72 Kindern und Jugendlichen Platz bieten. 
+Alexandra Felderer und Lena Wenger von der Katholischer Jungschar Südtirols haben das Waisenhaus im vergangenen Juli besucht.  
+Die Kinder des Waisenhauses haben tausende Armbänder geknüpft, als Zeichen des Dankes für die Südtiroler Sternsinger:innen, die in diesen Tagen von Haus zu Haus gehen.</desc>
+  </programme>
+  <programme start="20241225221000 +0100" stop="20241225223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241226200000 +0100" stop="20241226202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241226202000 +0100" stop="20241226205045 +0100" channel="Rai Südtirol">
+    <title>Mahlzeit</title>
+    <sub-title>Am Tisch bei den drei Weltreligionen</sub-title>
+    <desc>So wie die drei Weisen aus dem Morgenland gemeinsam auf dem Weg waren, so treffen sich Vertreter dreier Weltreligionen um gemeinsam zu kochen und zu diskutieren - als Beitrag für den Frieden.
+Am 6. Jänner ist Dreikönigstag und die Legende erzählt, dass drei Könige aus den Erdteilen Europa, Asien und Afrika gemeinsam dem Stern von Bethlehem folgten. Ganz nach diesem Motto treffen sich drei Vertreter von den jeweiligen drei Weltreligionen um gemeinsam ein Menü zu kochen: und zwar Don Paolo Zambaldi, ein katholischer Priester, Cheema Mohammad Jamil, der Präsident vom Islamic Center Brixen und Günther Lieder, der Präsident der jüdischen Kultusgemeinde Tirol und Vorarlberg. 
+Im Sankt Anna Kloster in Eppan werden Themen wie Integration und Akzeptanz besprochen und es werden Geschichten aus dem Leben eines Gläubigen mit Humor und einem Augenzwinkern ausgetauscht.</desc>
+  </programme>
+  <programme start="20241226221000 +0100" stop="20241226223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241227180000 +0100" stop="20241227182930 +0100" channel="Rai Südtirol">
+    <title>Aktion Sternsingen 2025</title>
+    <sub-title>Indonesien - Inseln der Hoffnung</sub-title>
+    <desc>Unter einem guten Stern: Mit den Spenden der heurigen Sternsingeraktion werden unter anderem Kinder in Indonesien unterstützt. Sie leben in einem Waisenhaus, das jetzt neu erbaut werden soll. 
+Unter dem Titel &quot;Inseln der Hoffnung&quot; wird ein Teil der gesammelten Spendengelder Kindern im Eugene-Schmitz-Waisenhaus auf der indonesischen Insel Lembata zugutekommen. Dieses Waisenhaus dient seit über 20 Jahren verwaisten und verlassenen Kindern als sicherer Zufluchtsort. Derzeit sind 31 Kinder untergebracht, die vielfach Traumatisches erlebt haben. Das Gebäude ist jedoch nur 50 Quadratmeter groß und baufällig. Es soll jetzt neu gebaut und erweitert werden und 72 Kindern und Jugendlichen Platz bieten. 
+Alexandra Felderer und Lena Wenger von der Katholischer Jungschar Südtirols haben das Waisenhaus im vergangenen Juli besucht.  
+Die Kinder des Waisenhauses haben tausende Armbänder geknüpft, als Zeichen des Dankes für die Südtiroler Sternsinger:innen, die in diesen Tagen von Haus zu Haus gehen.</desc>
+  </programme>
+  <programme start="20241227182900 +0100" stop="20241227185830 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Schritte im Glauben - warum Minderheiten pilgern. Die Ladiner Wallfahrt nach Säben, jene der Plodener nach Maria Luggau und die Wallfahrt der Roma und Sinti nach Saintes Maries de la Mer. In einer globalisierten Welt, die immer schneller ihre Bräuche und Rituale verliert, halten Minderheiten an ihren Wallfahrtstraditionen fest. Denn sie sind Ausdruck ihrer Identität, ihrer Heimat und ihrer tief verwurzelten Kultur. 
+Drei Orte, drei Minderheiten, eine gemeinsame Frage: Wie stellen sich Minderheiten-Wallfahrten den Trends der modernen Welt entgegen?
+Südfrankreich - Saintes Maries de la Mer: Dieses idyllische Küstendorf wird jedes Jahr im Mai zum Wallfahrtsort für mehrere tausend Romnia und Roma, Sinti, Manouches und Jenische. Aus ganz Europa kommen sie, um der Heiligen Sara zu huldigen. 
+&quot;De Plodar Kirchfort in de Lukkaue,&quot; sagt man in Sappada, zu Deutsch Plodn, zur jährlichen Wallfahrt. Diese kleine Gemeinde liegt an der Grenze zwischen Venetien, Friaul und Österreich. Jedes Jahr erneuert sich ein jahrhundertealtes Brauchtum auf dem Weg ins Dorf Maria Luggau in Kärnten, zu dem Plodn eine enge Verbindung hat.
+Die Ladiner-Wallfahrt findet nur alle drei Jahre statt: Die Pilger begegnen sich entlang der Route, überqueren die Jöcher bis St. Peter und wandern bis nach Kloster Säben. Diese dreitägige Reise verlangt jedem der ausschließlich männlichen Teilnehmer einiges ab. 
+Lydia Gasparini und Agostino Fuscaldo haben die drei Wallfahrten begleitet.</desc>
+  </programme>
+  <programme start="20241227200000 +0100" stop="20241227202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241227202000 +0100" stop="20241227210332 +0100" channel="Rai Südtirol">
+    <title>Durch den Pinzgau</title>
+    <sub-title>Vom Raurisertal zum Hochkönig</sub-title>
+    <desc>Zu Besuch in verschneiten Hochtälern und auf Bergbauernhöfen, wo winterliche Traditionen und Bräuche gepflegt werden wie das Schnapsbrennen und das Filzen. Ein Film von Alfred Ninaus. 
+
+Wir lernen zwei urtümliche Pinzgauer Regionen und ihre Menschen kennen, z.B. Andreas Gschwandtner, vulgo Schriflingbauer, der den Bergbauernhof mit 28 Jahren übernahm. Noch heute transportiert er sein Heu mit dem Schlitten.
+Der junge Franz Schwiger freut sich über jede Ziege, die in seinem Stall zur Welt kommt. Und Mutter Klara bietet auf ihrer Skihütte nicht nur Kulinarisches an, sondern auch selbstgefilzte Patschen.</desc>
+  </programme>
+  <programme start="20241227210400 +0100" stop="20241227215247 +0100" channel="Rai Südtirol">
+    <title>Peter Turrini</title>
+    <sub-title>Eine komische Katastrophe</sub-title>
+    <desc>Peter Turrini, der Theaterdichter, Essayist, Redner, Briefeschreiber und Polemiker, kann nicht
+anders als zu schreiben. Als der dicke Tischlerbub im Alter von 13 Jahren seine ersten Gedichte verfasste, tat er es aus einer Not heraus. Daran hat sich für einen der meistgespielten
+deutschsprachigen Dramatiker bis heute wenig geändert. Auf die chronischen Leiden der Gesellschaft reagiert Turrini in seinem Bühnenwerk. Da dreht sich letztlich alles um Ausgrenzung, Unmenschlichkeit und Hass.
+Im Dokumentarfilm &quot;Peter Turrini&quot; von Danielle Proskar wird aus der Sicht des Dichters und durch seine Texte erzählt.</desc>
+  </programme>
+  <programme start="20241227215300 +0100" stop="20241227215950 +0100" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Der Obervinschger Herbert Gapp</sub-title>
+    <desc>Herbert Gapp, ein waschechter Malser, sagt er. Seit seiner Pensionierung vor 10 Jahren - als
+Lackierer in einer Tischlerwerkstatt - verbringt er den Sommer als Hirte auf den umliegenden
+Almen und in der Schweiz. Er ist gerne unter Menschen, aber bald werden sie ihm auch wieder
+zu viel. Herbert Gapp nimmt sich - um eine seiner Redensarten zu verwenden - kein Blatt vor den
+Mund. Er benutzt Wortbilder, die man kaum mehr findet. Und kennt zu fast allem Superlative.</desc>
+  </programme>
+  <programme start="20241227221000 +0100" stop="20241227223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241228180000 +0100" stop="20241228185036 +0100" channel="Rai Südtirol">
+    <title>Russlands Wildes Meer</title>
+    <sub-title>Jahre im Überfluss (Folge II)</sub-title>
+    <desc>Im Fernen Osten Russlands, 6000 Kilometer von Moskau entfernt, liegt das Ochotskische Meer,
+das reichste und gleichzeitig unwirtlichste Meer der Welt. In Folge zwei unserer Dokumentation &quot;Russlands Wildes Meer&quot; wird die geradezu paradiesische Seite der Ochotskischen See vorgestellt: Auf der japanischen Insel Hokkaido überstehen tausende Riesen-Seeadler die kalte Jahreszeit mit Hilfe der lokalen Fischer, die ihnen Fische überlassen, die sie nicht verkaufen können. Russische Fischer fangen hunderttausende Tonnen Seelachs, eine enorme Menge, doch sie
+wirtschaften nachhaltig, so reich ist das Meer. Angesichts der Millionen Heringe und Lachse werden sogar die Seebären satt - oder die Braunbären entlang der Laichflüsse, die so viel Fisch
+fressen, dass sie sich kaum mehr bewegen können.</desc>
+  </programme>
+  <programme start="20241228185000 +0100" stop="20241228185535 +0100" channel="Rai Südtirol">
+    <title>Gedankenspuren</title>
+    <sub-title>Das hohe Alter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20241228200000 +0100" stop="20241228202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241228202100 +0100" stop="20241228202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241228202500 +0100" stop="20241228205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Die &quot;Wunderbar&quot; in Brixen und das Restaurant Masatsch zeigen gelebte Inklusion. Zwei Filmportraits: über Hotelierin Linde Laimer zu ihrem 100.Geburtstag und über HGV-Künstlerin des Jahres Sarah Solderer.
+
+Das Konzept der &quot;Wunderbar&quot; in Brixen ist ein langgehegtes Herzensprojekt von Leiterin Carmen Messner und stellt ein lebendiges Beispiel für gelungene Inklusion.
+Außerdem besuchen wir Südtirols einziges Inklusionsrestaurant &quot;Masatsch&quot; im gleichnamigen Hotel in Oberplanitzing bei Kaltern. Hier zeigen uns die Mitarbeitenden mit und ohne Beeinträchtigungen, wie sie gemeinsam eine warme und einladende Atmosphäre schaffen - ein Ort, der für das Team und für seine Gäste gleichermaßen bereichernd ist.
+Die gute Seele im Hotel Zur Linde in Schlanders ist immer noch Linde Laimer. Die langjährige Hotelierin feierte erst kürzlich ihren 100. Geburtstag. Die Geschicke des Hauses haben inzwischen Sohn Peter und seine Frau übernommen, aber gut und gerne erinnert sich Linde Laimer an die Anfänge des Tourismus und an vergangene Tage.
+Alljährlich verleihen HGV und Südtiroler Künstlerbund die Ehrung &quot;Künstler/in des Jahres&quot;. Heuer überzeugte Sarah Solderer mit ihrem Werkvorschlag &quot;Pulëntes&quot;, das einen Löwenzahnsalat darstellt. Der Preis fördert die Zusammenarbeit zwischen Kunst und Tourismusbranche. Willkommen war bei der Preisverleihung dabei und hat die junge Künstlerin in ihrem Atelier in Lajen besucht.</desc>
+  </programme>
+  <programme start="20241228205400 +0100" stop="20241228211600 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>St. Walburg in Ulten</sub-title>
+    <desc>St. Walburg ist der Hauptort der Gemeinde Ulten. Am Kirchhügel befand sich eine Kultstätte mit einem außergewöhnlichen Brandopferplatz: Davon erzählt das Dokumentationszentrum Culten, das Archäologiemuseum von Ulten, das in einem jahrhundertealten Bauernhof untergebracht ist. Das Wasser des Bad Überwasser wurde früher hauptsächlich bei Blutarmut, Schwäche, Rheuma
+empfohlen. Nach einer Renovierung wird das ehemalige Badl heute von Rita Tischler als Gasthaus geführt.
+Franz Breitenberger vom Oberhaushof auf knapp 1600 m Meereshöhe erzählt aus seiner Kindheit: Im alten Bauernhaus findet man noch viele Sammlerstücke und Gerätschaften. Vorweihnachtlich wird es, wenn der 4Gsang das Ultner Hirtenlied singt.</desc>
+  </programme>
+  <programme start="20241228211600 +0100" stop="20241228215905 +0100" channel="Rai Südtirol">
+    <title>Das Rote Haus (Teil 2)</title>
+    <sub-title>Ein Gästehaus in Grönland</sub-title>
+    <desc>Der Südtiroler Robert Peroni überquerte in den 1980er Jahren zu Fuß den Eispanzer Grönlands
+an seiner breitesten Stelle. Bei dem Weltrekord, den er bis heute hält, verliebte er sich in das
+Land und seine Menschen.
+Peroni beschloss, seinen Beitrag zu leisten, um das letzte Jägervolk Europas vor dem Untergang
+zu retten. Seit nämlich Felle und Fleisch der Wildtiere nicht mehr gehandelt werden dürfen, hat
+das Volk der Ivi seine Existenzgrundlage verloren.
+Stattdessen erhalten sie Sozialhilfe aus Dänemark. Doch diese Umpolung ist bis heute nicht
+bewältigt. Junge Menschen sind ohne Perspektive, viele Grönländer verfallen dem Alkohol.
+In Tasiilaq, mit 2000 Einwohnern die größte Siedlung Ostgrönlands, gründete Peroni das &quot;Red
+House'&quot;, das Rote Haus. Es ist eine Auffangstation für Einheimische in Not, aber auch ein
+Gästehaus für Touristen. Der Südtiroler will mit einem sanften Tourismus den einheimischen Ivi
+eine Zukunft bieten.</desc>
+  </programme>
+  <programme start="20241228221000 +0100" stop="20241228223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
