@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241220180000 +0100" stop="20241220182930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wie attraktiv sind öffentlichen Arbeitsplätze in Südtirol? Wie sicher sind wir am Berg?  Sicherheit am Berg und wie wird Stadtmobiliar hergestellt. Im Dezember widmen wir uns dem öffentlichen Dienst in Südtirol. Wie gut ist er aufgestellt? Im Fokus steht die Attraktivität der Arbeitsplätze, Entlohnung, Wertschätzung und Effizienz. Besonders relevant: der aktuelle Stand zu Inflationsausgleich und Lohnerhöhungen. Gewerkschaftsvertreter:innen sowie das Arbeitsförderungsinstitut AFI liefern aktuelle Daten und Analysen.
-Wie sicher sind wir am Berg? Im November fand auf der Seiser Alm eine der größten Rettungsübungen Südtirols statt. Unsere Redakteurin schildert hautnah ihre Erfahrungen als &quot;Gerettete&quot;: 20 Meter über dem Boden wurde sie aus einer Gondel befreit. Experten erklären, worauf es bei solchen Einsätzen ankommt und welche Lehren daraus gezogen werden können.
-Wir stellen das Unternehmen Euroform aus Sand in Taufers vor: Seit über 60 Jahren entwickelt das Familienunternehmen nachhaltige Lösungen für den öffentlichen Raum - von Parkbänken bis hin zu Mülleimern. Ihr Erfolgsrezept: hochwertige Materialien, Langlebigkeit, Innovation und ökologisches Bewusstsein.</desc>
-  </programme>
-  <programme start="20241220182900 +0100" stop="20241220185830 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Immer wieder neue Maßstäbe im Wintersport - das Konsortium Dolomiti Superski wird 50. Neue Maßstäbe im Design - wie Südtiroler Designer sich ihren Platz in der Szene erarbeiten. Dolomiti Superski ist eine wirtschaftliche Erfolgsgeschichte. 1200 Pistenkilometer und 450 Aufstiegsanlagen verzeichnet das Konsortium zum 50-jährigen Jubiläum. Trend wirft einen Blick auf die Organisation, die es fertigbrachte, 130 unabhängige Gesellschaften und Unternehmen in den zwölf Skigebieten unter einem Dach zu vereinen, eine interne Konkurrenz, um die besten Pisten und Anlagen zu pflegen und gleichzeitig weltweit führend in der technologischen Innovation zu sein. 
-Neue Maßstäbe setzt auch das Design von Produkten aus Südtirol. Dabei erreicht der Standort Südtirol auch international bereits ein gutes Renommee. Im Industrie- und Produktdesign geht es nicht einfach um Hüllen, um das Äußere von Maschinen, Möbeln oder anderen Gegenständen. Designer müssen sich intensiv mit der Funktion der Produkte beschäftigen und arbeiten dabei oft eng mit Ingenieuren und Entwicklern zusammen. Auch die Zusammenarbeit mit international tätigen Südtiroler Unternehmen trägt zu ihrem Erfolg bei. Schließlich ist das Design von Produkten entscheidend für ihren Verkaufserfolg. 
-Gerade im Winter hat das Hafnergewerbe Hochkonjunktur, denn viele Menschen lieben alte, aber auch neue Öfen.</desc>
-  </programme>
-  <programme start="20241220200000 +0100" stop="20241220202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241220202000 +0100" stop="20241220205210 +0100" channel="Rai Südtirol">
-    <title>Herzen ohne Grenzen</title>
-    <sub-title>Zwei Südtirolerinnen in Afrika</sub-title>
-    <desc>Sie engagieren sich für junge Frauen in Tansania: Irma Werth und Julia Lantschner. Die Steineggerin lebt sogar selber seit vielen Jahren dort und bemüht sich um Schulen und Berufsbildung. 
-
-Irma Werth aus Eppan unterstützt seit 15 Jahren ein Massaidorf im Nordwesten von Tansania. Dort setzt sie sich vor allem für eine gezielte Verbesserung der Lebenssituationen junger Frauen ein. Julia Lantschner aus Steinegg lebt seit vielen Jahren in Tansania und kümmert sich um junge Mädchen, die ohne ihre Unterstützung auf der Straße leben müssten. 
-Markus Frings und Josef Pichler haben die beiden Südtirolerinnen mit der Kamera nach Tansania begleitet. Mit ihrer Reportage unterstützen die beiden Filmemacher zusammen mit Rai Südtirol die Hilfsorganisationen &quot;Servus&quot; und &quot;Irma hilft&quot;.</desc>
-  </programme>
-  <programme start="20241220205200 +0100" stop="20241220214326 +0100" channel="Rai Südtirol">
-    <title>Über Österreich - Der Westen</title>
-    <sub-title/>
-    <desc>Im Tiroler Gebirge, wo sich fantastische Gipfel und tiefe, schattige Täler auftun, kennt man viele Flecken nur von der Landkarte oder vom Hörensagen. Diese winterliche Entdeckungsreise bietet erstmals die volle Pracht der Bilder. Ziele sind unter anderem die Mutter aller österreichischen Gipfel, der Großglockner, der winterliche Hochtannbergpass, der Plansee und der Heiterwangersee, sowie die Gletscherwelt am Teufelskamp.</desc>
-  </programme>
-  <programme start="20241220214400 +0100" stop="20241220215759 +0100" channel="Rai Südtirol">
-    <title>Adventgeschichten</title>
-    <sub-title>Vorfreude auf Weihnachten</sub-title>
-    <desc>Mit dem ersten Adventsonntag begann früher die sogenannte &quot;geschlossene Zeit&quot;, wo sowohl das Tanzen als auch die Hochzeiten untersagt waren. Das Feiern war zwar verboten, nicht aber das Singen, erinnern sich die Dorfältesten. Lobgesänge auf die nahestehende Geburt Jesu und Lieder über die Herbergssuche ertönen noch heute im ganzen Land nach alter Tradition. Ein Film von Christoph Wieser.</desc>
-  </programme>
-  <programme start="20241220221000 +0100" stop="20241220223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241221180000 +0100" stop="20241221185059 +0100" channel="Rai Südtirol">
     <title>Russlands wildes Meer</title>
     <sub-title>Kampf ums Überleben (Teil 1)</sub-title>
@@ -348,6 +306,38 @@ Gästehaus für Touristen. Der Südtiroler will mit einem sanften Tourismus den 
 eine Zukunft bieten.</desc>
   </programme>
   <programme start="20241228221000 +0100" stop="20241228223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241229200000 +0100" stop="20241229202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241229202000 +0100" stop="20241229205046 +0100" channel="Rai Südtirol">
+    <title>So Schmeckt die Welt</title>
+    <sub-title>Sizilien</sub-title>
+    <desc>Arancini, Caponata, Cannoli - Sizilien ist ein kulinarisches Schlaraffenland. Eine kulturell-kulinarische Entdeckungsreise auf einer Insel, die auch in der kalten Jahreszeit fasziniert.
+
+Sizilien ist nicht Italien, und das stimmt auch. Wenn man die Mittelmeerinsel besucht, entdeckt man schnell, dass Sizilien von allem etwas mehr hat. Es ist lauter, hektischer, emotionaler, aber auch schöner, faszinierender und erlebnisreicher als der Rest von Italien. Und auch das Essen ist anders - Sizilien hat seine eigenen Gerichte, beeinflusst von der arabischen wie auch türkischen Küche.</desc>
+  </programme>
+  <programme start="20241229205100 +0100" stop="20241229205500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241229205500 +0100" stop="20241229211637 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Felix Tschurtschenthaler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20241229211600 +0100" stop="20241229220018 +0100" channel="Rai Südtirol">
+    <title>Wien zur Kaiserzeit</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20241229221000 +0100" stop="20241229223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
