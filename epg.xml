@@ -4,55 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241223180000 +0100" stop="20241223183400 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Tiroler Schlossadvent</sub-title>
-    <desc>Zipp-Reporterin Nadja fährt mit der Kutsche von Dorf Tirol zum Schloss Tirol. Dort besichtigt sie die Krippenausstellung. Sie schaut außerdem Korbflechtern über die Schulter und lässt sich dieses Handwerk genauer erklären.</desc>
-  </programme>
-  <programme start="20241223183400 +0100" stop="20241223185830 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der Albeinser Stefan Santifaller hat mehrere Monate Europa durchquert. Natascha Andergassen will ein Vorbild in Sachen Nachhaltigkeit sein. Ausbildungswege an der Fachschule Hannah Arendt.
-Abenteurer und Fotograf Stefan Santifaller aus Albeins hat seine Komfortzone verlassen: Insgesamt 7700 Kilometer ist er über mehrere Monate gelaufen, um von Portugal bis zum Nordkap zu kommen. Noch während seiner Reise wird ihm bewusst, dass er die Strecke mit einem Rad auch wieder zurückfahren könnte. Ganz auf sich allein gestellt war er ein halbes Jahr unterwegs und hat viele Geschichten zu erzählen und eine Botschaft: Ein Traum scheitert nur, wenn man es nicht bis zum Start schafft.
-Die Pädagogischen Mitarbeiter:innen begleiten Kinder zwischen 3 und 6 Jahren in ihrer Entwicklung und Bildung. Kinderbetreuer:innen hingegen betreuen Kleinkinder im Alter zwischen 0 und 3 Jahren. Mehr über diese zwei Ausbildungsmöglichkeiten erfahren wir in der Landesfachschule für Sozialberufe Hannah Arendt in Bozen.
-Natascha Andergassen ist die Kalterer Antwort auf Greta Thunberg. Doch nicht nur: Nachhaltigkeit ist zwar ihr Credo. Natascha ist darüber hinaus leidenschaftliche Humanistin und möchte mit ihrer Lebensweise Natur und Umwelt nachhaltig prägen.</desc>
-  </programme>
-  <programme start="20241223200000 +0100" stop="20241223202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241223202000 +0100" stop="20241223210239 +0100" channel="Rai Südtirol">
-    <title>Weihnachten im Kaiserhaus</title>
-    <sub-title/>
-    <desc>Weihnachten war immer schon das Fest der Familie - natürlich auch für die Habsburger. Franz Joseph und die Seinen versuchten, die Besinnlichkeit dieses Festes spürbar zu machen und auch nach außen hin den Anschein der glücklichen, intakten und tief katholischen Herrscherfamilie zu wahren. Vom Ablauf über den Speiseplan bis zu den Geschenken war alles minutiös vom Hofstaat vorbereitet.
-Die Dokumentation von Jasmin Baumgartner zeigt das Weihnachtsfest aus der Perspektive der kaiserlichen Familie und gibt damit einen einzigartigen Einblick in das Privatleben von Franz Joseph, Elisabeth, Rudolf und vielen anderen Mitgliedern.</desc>
-  </programme>
-  <programme start="20241223210300 +0100" stop="20241223214718 +0100" channel="Rai Südtirol">
-    <title>Wien zur Kaiserzeit</title>
-    <sub-title>Ein Blick zurück</sub-title>
-    <desc>Ein Blick zurück: Man kennt sie, man liebt sie, Wiener Ecken wie die Mariahilfer Straße, den
-Karlsplatz oder den Prater. Doch kaum wer weiß, wie diese Plätze früher ausgeschaut haben.
-Um die Jahrhundertwende bevölkern Frauen mit weiten Röcken und Männer mit Melone die
-Szene, Pferdedroschken sind das Verkehrsmittel der Wahl. Die Straßen erscheinen unendlich breit, die Menschen darauf vereinzelt und verloren. Wer den Blick schweifen lässt in die Außenbezirke, etwa zu den Gasometern oder zum Westbahnhof, sieht ländlich wirkende Gegenden, die weit von der Stadt entfernt zu sein scheinen.
-Regisseur Norman Vaughan hat einen Schatz an historischen Fotos gehoben, Bilder, die Wien
-teilweise noch so zeigen, wie es vor der Schleifung der Stadtmauer ausgesehen hat. Mit
-Computeranimation haucht er ihnen digital Leben ein und entführt uns ein Jahrhundert und mehr
-zurück in die Stadtgeschichte.</desc>
-  </programme>
-  <programme start="20241223214700 +0100" stop="20241223215924 +0100" channel="Rai Südtirol">
-    <title>Der Krippenverein Sand in Taufers</title>
-    <sub-title>Aus der Reihe Vereine vereinen</sub-title>
-    <desc>Für die Tauferer Mitglieder des Südtiroler Krippenverbandes steht fest: In jedem Südtiroler
-Haushalt sollte eine Krippe stehen. Diese Folge der Sendereihe &quot;Vereine vereinen&quot; zeigt, wie
-schon Kinder lernen, eine Krippen zu bauen, und wie der Verein die großen Weihnachtskrippen in
-den drei Tauferer Kirchen kunstvoll errichtet und sorgfältig betreut.</desc>
-  </programme>
-  <programme start="20241223221000 +0100" stop="20241223223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241224200000 +0100" stop="20241224202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
