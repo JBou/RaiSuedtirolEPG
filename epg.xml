@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241224200000 +0100" stop="20241224202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241224202000 +0100" stop="20241224205042 +0100" channel="Rai Südtirol">
-    <title>Advent und Heiligabend im Oberen Pustertal</title>
-    <sub-title/>
-    <desc>Schnitzer, Krippenbauer, Sänger und Musiker aus dem Oberen Pustertal stimmen uns auf Weihnachten ein.
-
-Beim Kramerhof in Moos bei Sexten ist der Schnitzer Florian Tschurtschenthaler in der warmen Stube am Werk. Heute feilt er an einem Geschenk für Heiligabend. Georg Lanzinger hingegen findet im Wald unweit seines Berghofes ein großes Stück Baumrinde. Mit etwas Fantasie verwandelt er diese in den Stall von Bethlehem. Eingebettet in Heu werden seine Krippenfiguren von der Heiligen Nacht erzählen, als der Engel die Geburt des Jesukindes verkündet. Mit der Verheißung, dass alles besser wird. Die Wartezeit auf Weihnachten wird auch von Sängern und Musikern begleitet. Das &quot;Sexta Singa Quartettl&quot; besingt das Christkind in der Krippe und das Bläserquartett &quot;Die Blechzinnen&quot; aus Toblach tragen in der Kirche von Aufkirchen ein Hirtenlied vor.</desc>
-  </programme>
-  <programme start="20241224221000 +0100" stop="20241224223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241225100000 +0100" stop="20241225112000 +0100" channel="Rai Südtirol">
     <title>Pontifikalamt am Weihnachtstag mit Bischof Ivo Muser</title>
     <sub-title>Live in Hörfunk und Fernsehen aus dem Bozner Dom</sub-title>
