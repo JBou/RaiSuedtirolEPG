@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241225100000 +0100" stop="20241225112000 +0100" channel="Rai Südtirol">
-    <title>Pontifikalamt am Weihnachtstag mit Bischof Ivo Muser</title>
-    <sub-title>Live in Hörfunk und Fernsehen aus dem Bozner Dom</sub-title>
-    <desc>Bischof Ivo Muser zelebriert das dreisprachige Pontifikalamt am Christtag im Dom zu Bozen und möchte den Gläubigen die Weihnachtsbotschaft überbringen. Das Hochamt wird musikalisch umrahmt von Domorchester und Domchor unter der Leitung von Domkapellmeister Tobias Chizzali. Aufgeführt wird die Orgelsolomesse in C-Dur KV 259 von Wolfgang Amadeus Mozart. Die Solisten sind: Stefanie Steger, Sopran; Anna Lucia Nardi, Alt; Georg Hasler, Tenor; und Michael Feichter, Bass. Organistin ist Johanna Feichter. RAI Südtirol überträgt das Pontifikalamt live in Hörfunk und Fernsehen.</desc>
-  </programme>
-  <programme start="20241225200000 +0100" stop="20241225202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241225202000 +0100" stop="20241225204930 +0100" channel="Rai Südtirol">
-    <title>Aktion Sternsingen 2025</title>
-    <sub-title>Indonesien - Inseln der Hoffnung</sub-title>
-    <desc>Unter einem guten Stern: Mit den Spenden der heurigen Sternsingeraktion werden unter anderem Kinder in Indonesien unterstützt. Sie leben in einem Waisenhaus, das jetzt neu erbaut werden soll. 
-Unter dem Titel &quot;Inseln der Hoffnung&quot; wird ein Teil der gesammelten Spendengelder Kindern im Eugene-Schmitz-Waisenhaus auf der indonesischen Insel Lembata zugutekommen. Dieses Waisenhaus dient seit über 20 Jahren verwaisten und verlassenen Kindern als sicherer Zufluchtsort. Derzeit sind 31 Kinder untergebracht, die vielfach Traumatisches erlebt haben. Das Gebäude ist jedoch nur 50 Quadratmeter groß und baufällig. Es soll jetzt neu gebaut und erweitert werden und 72 Kindern und Jugendlichen Platz bieten. 
-Alexandra Felderer und Lena Wenger von der Katholischer Jungschar Südtirols haben das Waisenhaus im vergangenen Juli besucht.  
-Die Kinder des Waisenhauses haben tausende Armbänder geknüpft, als Zeichen des Dankes für die Südtiroler Sternsinger:innen, die in diesen Tagen von Haus zu Haus gehen.</desc>
-  </programme>
-  <programme start="20241225221000 +0100" stop="20241225223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241226200000 +0100" stop="20241226202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
