@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241230180000 +0100" stop="20241230183400 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>&quot;Der kleine Prinz&quot; im Altstadttheater</sub-title>
-    <desc>Zipp-Reporterin Linda schaut im Theater in der Altstadt in Meran vorbei und trifft dort Regisseurin Christina. Die wundervolle Geschichte vom &quot;Kleinen Prinz&quot; steht kurz vor der Aufführung. Neben den Schauspieler:innen steht auch eine handgefertigte Puppe auf der Bühne. Anschließend erfahren wir, wie es den Waisenkindern in Indonesien geht, für die bei der heurigen Sternsingeraktion gespendet werden kann.</desc>
-  </programme>
-  <programme start="20241230183400 +0100" stop="20241230185830 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Betreute Taubenschläge - wie die in Lana - ermöglichen eine artgerechte Haltung von Stadttauben und haben auch noch andere Vorteile. Und zu Besuch in einem Haflingergestüt im Burggrafenamt. Früher als Nutztiere gezüchtet, leben Tauben heute meist als verwilderte Haustiere und sind auf den Menschen angewiesen. In Lana gibt es zwei betreute Taubenschläge, in denen die Tiere artgerecht gefüttert und untergebracht werden. Taubenschläge gewährleisten einen artgerechten Umgang mit Stadttauben und sind eine nachhaltige Lösung gegen Taubenkot und unerwünschte Brutplätze in Häusern und auf Gemäuern. 
-In einem Haflingergestüt im Burggrafenamt werden charakterstarke Pferde gezüchtet. Die erstklassigen Zuchthengste und ein guter Stutenbestand bilden die Basis für die erfolgreiche Haflingerzucht. Die Jungpferde werden direkt auf dem Gestüt im Herdenverband aufgezogen und für Schauen und Körungen vorbereitet.
-Weiters stellt Pluto sympathische Vierbeiner vor, die dringend ein neues Zuhause brauchen.</desc>
-  </programme>
-  <programme start="20241230200000 +0100" stop="20241230201200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241230201200 +0100" stop="20241230202000 +0100" channel="Rai Südtirol">
-    <title>Rückblick Kultur</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241230202000 +0100" stop="20241230211930 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die vielseitige Schauspielerin und Musikerin Eva Kuen im Porträt, &quot;Der kleine Prinz&quot; im Meraner Altstadttheater, der Lichterpark Lumagica in Trauttmansdorff. Moderation: Alexander Lechner.
-In fast allen Südtiroler Städtetheatern wird im Dezember vor allem für das junge Publikum gespielt. Im Theater in der Altstadt in Meran wird Antoine de Saint-Exupérys &quot;Kleiner Prinz&quot; von Schauspieler:innen und handgefertigten Puppen zu neuem Leben erweckt. 
-Sie ist im Kino und Fernsehen zu Hause, hierzulande vor allem als Schauspielerin, Regisseurin und Sängerin bekannt: Eva Kuen lässt sich in keine Schublade stecken. Demnächst erscheint ein Kinderbuch mit von ihr eingesungenen Liedern, und ab Jänner ist sie in der Carambolage als &quot;Die Deutschlehrerin&quot; zu sehen. 
-Das Magazin Kompass berichtet außerdem über das Popfestival in Erl, den Lichterpark Lumagica in Trauttmansdorff und über die Etrusker-Ausstellung im Bozner Kulturzentrum Trevi.
-Zu Gast sind Ursula Schnitzer, Kuratorin aus Meran, und Rudolf Frey, Intendant der Vereinigten Bühnen Bozen.</desc>
-  </programme>
-  <programme start="20241230212000 +0100" stop="20241230215737 +0100" channel="Rai Südtirol">
-    <title>Tourismus im Umbau</title>
-    <sub-title/>
-    <desc>Der Tourismus ist eine der wichtigsten Branchen in Südtirol und wächst ständig. &quot;Tourismus im Umbau&quot; zeigt Beispiele von der Fähigkeit, den &quot;Urlaubsgeist&quot; in Südtirol durch moderne und innovative Gebäude zum Leben zu erwecken. Die Tourismusarchitektur spiegelt wider, wie wir uns die Tourist:innen aber auch die Tourismusarbeiter:innen der Zukunft vorstellen. Dank hoher Qualität der heimischer Architekturbüros und der familiengeführten Betriebe, die Tradition und Innovation verbinden,
-nimmt Südtirol nimmt hier eine Vorreiterrolle ein. Die Dokumentation zeigt Beispiele wie das Hotel
-Miramonti in Hafling, das Hotel Weißes Kreuz in Burgeis, das Icaro Hotel auf der Seiser Alm, das
-Floris in Kastelruth und den Blasla-Hof in St. Martin in Gsies. Ein Film von Adina Guarnieri und
-Peter Paul Kainrath.</desc>
-  </programme>
-  <programme start="20241230221000 +0100" stop="20241230222200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241230222200 +0100" stop="20241230223000 +0100" channel="Rai Südtirol">
-    <title>Rückblick Kultur</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20241231145000 +0100" stop="20241231160000 +0100" channel="Rai Südtirol">
     <title>Bo Classic</title>
     <sub-title>Liveübertragung Silvesterlauf 2024</sub-title>
@@ -255,6 +205,15 @@ Fitnessgerät aus einem Kurbetrieb zeugen von einer langen und interessanten Sta
     <title>Nachgedacht mit Manuela Unterthiner</title>
     <sub-title/>
     <desc/>
+  </programme>
+  <programme start="20250105210900 +0100" stop="20250105220555 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die vielseitige Schauspielerin und Musikerin Eva Kuen im Porträt, &quot;Der kleine Prinz&quot; im Meraner Altstadttheater, der Lichterpark Lumagica in Trauttmansdorff. Moderation: Alexander Lechner.
+In fast allen Südtiroler Städtetheatern wird im Dezember vor allem für das junge Publikum gespielt. Im Theater in der Altstadt in Meran wird Antoine de Saint-Exupérys &quot;Kleiner Prinz&quot; von Schauspieler:innen und handgefertigten Puppen zu neuem Leben erweckt. 
+Sie ist im Kino und Fernsehen zu Hause, hierzulande vor allem als Schauspielerin, Regisseurin und Sängerin bekannt: Eva Kuen lässt sich in keine Schublade stecken. Demnächst erscheint ein Kinderbuch mit von ihr eingesungenen Liedern, und ab Jänner ist sie in der Carambolage als &quot;Die Deutschlehrerin&quot; zu sehen. 
+Das Magazin Kompass berichtet außerdem über das Popfestival in Erl, den Lichterpark Lumagica in Trauttmansdorff und über die Etrusker-Ausstellung im Bozner Kulturzentrum Trevi.
+Zu Gast sind Ursula Schnitzer, Kuratorin aus Meran, und Rudolf Frey, Intendant der Vereinigten Bühnen Bozen.</desc>
   </programme>
   <programme start="20250105221000 +0100" stop="20250105222300 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
