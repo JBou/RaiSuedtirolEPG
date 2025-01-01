@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20241231145000 +0100" stop="20241231160000 +0100" channel="Rai Südtirol">
-    <title>Bo Classic</title>
-    <sub-title>Liveübertragung Silvesterlauf 2024</sub-title>
-    <desc>Bozen beendet das Jahr wieder im Laufschritt: Seit 1975 findet in der Landeshauptstadt der Silvesterlauf statt. Nach den Freizeit- und Amateurläufen stellen die Eliterennen das Highlight dieses Lauftages dar. Die Eliterennen mit internationalen Top-Athleten werden schon seit Jahren von Rai Südtirol live übertragen. Auch im Jahr 2024 senden wir live vom Bozner Waltherplatz, um die Stimmung vom „größten Wohnzimmer“ Südtirols in die Wohnzimmer der Südtiroler:innen zu bringen.</desc>
-  </programme>
-  <programme start="20241231200000 +0100" stop="20241231201200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241231201200 +0100" stop="20241231202000 +0100" channel="Rai Südtirol">
-    <title>Rückblick Sinner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241231202000 +0100" stop="20241231202635 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Paula Wiesinger</sub-title>
-    <desc>Paula Wiesinger (1907-2001) war eine der mutigsten Alpinistinnen ihrer Zeit, eine herausragende
-Skiläuferin und eine Gastwirtin, die ihr Leben bis ins hohe Alter im Griff hatte. Auf das Gerede im
-Tal gab sie nicht viel. Wichtig war, was ihr Körper zu ihr sagte. Am Gipfel von Berg und Ruhm
-zählte die Disziplin, nach eigener Façon zu leben.</desc>
-  </programme>
-  <programme start="20241231203000 +0100" stop="20241231205000 +0100" channel="Rai Südtirol">
-    <title>Ansprache des Staatspräsidenten</title>
-    <sub-title>Sergio Mattarella zum Jahreswechsel</sub-title>
-    <desc>Staatspräsident Sergio Mattarella blickt bei seiner traditionellen Ansprache zum Jahreswechsel auf das in mehrfacher Hinsicht bewegte Jahr 2024 zurück und wirft einen Blick auf die Herausforderungen der kommenden Monate. Die Ansprache wird live ausgestrahlt und simultan ins Deutsche übersetzt.</desc>
-  </programme>
-  <programme start="20241231221000 +0100" stop="20241231222200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20241231222200 +0100" stop="20241231223000 +0100" channel="Rai Südtirol">
-    <title>Rückblick Sinner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250101200000 +0100" stop="20250101201200 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
