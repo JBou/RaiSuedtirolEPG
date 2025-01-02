@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250101200000 +0100" stop="20250101201200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250101201200 +0100" stop="20250101202000 +0100" channel="Rai Südtirol">
-    <title>Interview LH mit Gästen</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250101202000 +0100" stop="20250101204801 +0100" channel="Rai Südtirol">
-    <title>Maria Faßnauer</title>
-    <sub-title>Die Riesin von Ridnaun</sub-title>
-    <desc>Die Bauerntochter begann mit drei Jahren enorm zu wachsen und hatte mit 15 Jahren eine Körpergröße von 2,27 Metern erreicht. Bald wurde sie zur Attraktion auf Jahrmärkten in ganz Europa. Nach Abschluss der Schule arbeitete Maria in der Landwirtschaft, bis Schaubudenbetreiber auf sie aufmerksam wurden. 1906 gab die Familie den ständigen Überredungsversuchen nach und für Maria begann eine siebenjährige Tour durch ganz Europa, begleitet von ihrer Schwester. Maria wurde zur Attraktion auf Jahrmärkten und Festen, ob auf dem Kohlmarkt in Wien, dem Oktoberfest in München oder der Weltausstellung in Brüssel. Zeitungsanzeigen sollten neugierig machen auf das &quot;größte Weib, das je gelebt hat&quot;. Die Schaubudenbetreiber ließen es nicht zu, dass sie sich außerhalb ihrer Auftritte in der Öffentlichkeit zeigte und so vereinsamte die Riesin immer mehr. 1913 kehrte Maria Faßnauer zurück nach Ridnaun. Seelisch und körperlich angeschlagen verbrachte sie ihre letzten Lebensjahre auf dem elterlichen Hof, wo sie mit nur 38 Jahren am 4. Dezember 1917 verstarb.</desc>
-  </programme>
-  <programme start="20250101221000 +0100" stop="20250101222200 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250101222200 +0100" stop="20250101223000 +0100" channel="Rai Südtirol">
-    <title>Interview LH mit Gästen</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250102200000 +0100" stop="20250102201300 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
