@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250102200000 +0100" stop="20250102201300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250102202000 +0100" stop="20250102204949 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Rund um den Cevedale</sub-title>
-    <desc>Von Martell aus mit den Tourenskiern ins Cevedale-Gebiet. Reporter Thomas Hainz und seine Begleiter erkunden dabei auch einige Überreste aus dem Ersten Weltkrieg, die heute als Mahnmal dienen. Der Cevedale ist die dritthöchste Erhebung in der Ortlergruppe und zählt zu den klassischen Skitourenzielen in Südtirol. Von Martell aus bietet sich die etwas anspruchsvollere Überschreitung der Zufall-Spitzen an. Über verschneite Gletscherabbrüche und einen Felsgrat gehts bis auf über 3700 Meter Meereshöhe. Bis heute trifft man hier - entlang der Frontlinie des Ersten Weltkrieges - auf die Überreste der Gebirgsstellungen: etwa die Gipfelbaracke am Cevedale oder die drei Geschütz-Kanonen unterhalb der Casati-Hütte, die hier 1918 zurückgelassen worden sind. Heute sind sie ein Mahnmal für den Frieden und eine der bekanntesten Sehenswürdigkeiten des Martelltales und der benachbarten Valfurva in der Provinz Sondrio.</desc>
-  </programme>
-  <programme start="20250102221000 +0100" stop="20250102222300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250102222300 +0100" stop="20250102223000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Politik</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250103180000 +0100" stop="20250103184724 +0100" channel="Rai Südtirol">
     <title>75 Jahre Messe Bozen</title>
     <sub-title/>
