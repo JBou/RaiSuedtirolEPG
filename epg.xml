@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250104180000 +0100" stop="20250104184843 +0100" channel="Rai Südtirol">
-    <title>Auf Gottes Wegen</title>
-    <sub-title>Klöster.erLeben</sub-title>
-    <desc>Wer geht heute noch in ein Kloster? Und warum? Ist der Glaube aus der Zeit gefallen? Eine filmische Reise zu den Ordensgemeinschaften Südtirols. Gemeinsam mit Sr. Mirjam Volgger, Ordensreferentin Südtirols, geht diese Dokumentation den Fragen nach dem Jetzt und der Zukunft von Klöstern nach. Mit modernen Gedanken über Gott und die Welt. Wie die Gesellschaft ständig Umbrüchen unterliegt, müssen auch Institutionen, die sich dem Leben und Hüten menschlicher Werte und Traditionen verschrieben haben, sich ständig neu erfinden. Wie die Benediktiner in Marienberg das tun, die Ursulinen in Bruneck, die Klarissen in Brixen, das
-von einer Südtirolerin geführte Kloster St. Johannes in Münstertal - zeigt dieser Film von Erna Cuesta und Günther Neumair. Denn die Zeit steht weder hinter den Klostermauern still - noch davor.</desc>
-  </programme>
-  <programme start="20250104184800 +0100" stop="20250104184830 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Sarh Canali</sub-title>
-    <desc>Sara Canali - eine Frau, die immer nach vorne preschte. Die als Kind Fußball spielte, Pilotin werden wollte, aus Niederlagen Chancen machte und vor einigen Jahren ein Start-up gründete. Weil sie wollte, dass ihr Leben die richtige Passform bekommt, so wie die Radbekleidung für Frauen, die sie mit SHER produziert.</desc>
-  </programme>
-  <programme start="20250104200000 +0100" stop="20250104201300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250104201300 +0100" stop="20250104202000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Wirtschaft</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250104202100 +0100" stop="20250104202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250104202500 +0100" stop="20250104210854 +0100" channel="Rai Südtirol">
-    <title>60 Jahre Diözese Bozen-Brixen</title>
-    <sub-title/>
-    <desc>Die heutige katholische Diözese Bozen-Brixen umfasst das Gebiet der Autonomen Provinz Bozen. In den 281 Pfarreien leben Gläubige deutscher, italienischer und ladinischer Muttersprache.
-Die Diözese Bozen-Brixen entstand 1964 in der Rechtsnachfolge des Bistums Brixen, das 1921 große Teile seines Diözesangebiets in Nord- und Osttirol verloren hatte. Nun wurde die neue Diözese um die Südtiroler Anteile der Erzdiözese Trient vermehrt. Verloren gingen dabei allerdings die beiden ladinischen Dekanate Buchenstein und Ampezzo. Charakteristisch für unsere Diözese ist, dass hier Gläubige dreier Sprachgruppen leben. Die Diözese Bozen-Brixen besteht aus 281 Pfarreien bei rund 500.000 Einwohnern. Im Verlauf der 60 Jahre ihres Bestehens wurde die Diözese auch geprägt von den politischen Entwicklungen Südtirols. Das friedliche Zusammenleben stand immer im Mittelpunkt der Kirche. Die Gläubigen feiern ihren Glauben in ihrer jeweiligen Sprache, es gibt aber auch mehrsprachige Gottesdienste.</desc>
-  </programme>
-  <programme start="20250104221000 +0100" stop="20250104222300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250104222300 +0100" stop="20250104223000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Wirtschaft</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250105200000 +0100" stop="20250105201300 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
