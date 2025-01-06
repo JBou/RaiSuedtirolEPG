@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250105200000 +0100" stop="20250105201300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250105201300 +0100" stop="20250105202000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Justiz</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250105202000 +0100" stop="20250105210457 +0100" channel="Rai Südtirol">
-    <title>Palais Mamming</title>
-    <sub-title/>
-    <desc>Das Stadtmuseum im Palais Mamming erzählt die schillernde Geschichte Merans: Hier verbrachten reiche Adelige ihren Urlaub, aber auch Schriftsteller, Musiker und Kunstschaffende. Meran-Kenner wie Patrick Rina, Leo Andergassen und Sebastian Marseiler unternehmen einen Streifzug und stellen einige Ausstellungsstücke im Stadtmuseum vor und erzählen auch deren Geschichte: Handbemalte Wirtshausschilder, gotische Schnitzaltäre, aber auch ein altes
-Fitnessgerät aus einem Kurbetrieb zeugen von einer langen und interessanten Stadtgeschichte.</desc>
-  </programme>
-  <programme start="20250105210500 +0100" stop="20250105210900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250105210900 +0100" stop="20250105220555 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die vielseitige Schauspielerin und Musikerin Eva Kuen im Porträt, &quot;Der kleine Prinz&quot; im Meraner Altstadttheater, der Lichterpark Lumagica in Trauttmansdorff. Moderation: Alexander Lechner.
-In fast allen Südtiroler Städtetheatern wird im Dezember vor allem für das junge Publikum gespielt. Im Theater in der Altstadt in Meran wird Antoine de Saint-Exupérys &quot;Kleiner Prinz&quot; von Schauspieler:innen und handgefertigten Puppen zu neuem Leben erweckt. 
-Sie ist im Kino und Fernsehen zu Hause, hierzulande vor allem als Schauspielerin, Regisseurin und Sängerin bekannt: Eva Kuen lässt sich in keine Schublade stecken. Demnächst erscheint ein Kinderbuch mit von ihr eingesungenen Liedern, und ab Jänner ist sie in der Carambolage als &quot;Die Deutschlehrerin&quot; zu sehen. 
-Das Magazin Kompass berichtet außerdem über das Popfestival in Erl, den Lichterpark Lumagica in Trauttmansdorff und über die Etrusker-Ausstellung im Bozner Kulturzentrum Trevi.
-Zu Gast sind Ursula Schnitzer, Kuratorin aus Meran, und Rudolf Frey, Intendant der Vereinigten Bühnen Bozen.</desc>
-  </programme>
-  <programme start="20250105221000 +0100" stop="20250105222300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250105222300 +0100" stop="20250105223000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Justiz</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250106180000 +0100" stop="20250106184320 +0100" channel="Rai Südtirol">
     <title>Die Englischen Fräulein in Meran</title>
     <sub-title>Eine 300-jährige Geschichte</sub-title>
