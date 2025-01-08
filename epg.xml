@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250107200000 +0100" stop="20250107201300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250107201300 +0100" stop="20250107202000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250107202000 +0100" stop="20250107202930 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Pappefabrik Mittewald</sub-title>
-    <desc>110 Jahre lang wurde in Mittewald bei Franzensfeste weiße und braune Holzpappe produziert. Heute noch erinnert eine Trockenhalle aus der Gründerzeit an die Blütezeit der Fabrik.
-Es war einer der ersten Industriebetriebe in Südtirol: die von Josef Pretz 1872 gegründete Pappefabrik in Mittewald in der Gemeinde Franzensfeste. Ein ungewöhnlicher Standort, der vom Rohstoff Holz profitierte, der dort zur Genüge zur Verfügung stand. Auch die 1867 fertiggestellte Brennerbahn in der Nähe war ein großer Vorteil. 110 Jahre lang wurde in Mittewald weiße und braune Holzpappe produziert. Heute noch erinnert eine Trockenhalle aus der Gründerzeit an die Blütezeit der Fabrik.</desc>
-  </programme>
-  <programme start="20250107203000 +0100" stop="20250107204424 +0100" channel="Rai Südtirol">
-    <title>Auf den Spuren der Heiligen Drei Könige</title>
-    <sub-title>Magische Plätze in Südtirol</sub-title>
-    <desc>Darstellungen der drei Weisen aus dem Morgenland gibt es gar einige in Südtirol: im Brixner Kreuzgang, aber auch in St. Helena bei Deutschnofen und St. Martin in Kampill.Es gibt kaum einen Landstrich, in dem sich so viele Wandgemälde auf so engem Raum in alten Kirchen erhalten haben wie in Südtirol. Auch von den Heiligen Drei Königen gibt es viele Darstellungen - Fresken, aber auch Relief- und Tafelbilder. Besonders eindrucksvoll sind die Fresken im Kirchlein St. Helena bei Deutschnofen, in der Kirche St. Martin in Kampill und im Brixner Kreuzgang. Spuren der drei Weisen aus dem Morgenland findet man auch in Montiggl und Deutschnofen. Eine Dokumentation von Astrid Kofler und Günther Neumair.</desc>
-  </programme>
-  <programme start="20250107221000 +0100" stop="20250107222300 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250107222300 +0100" stop="20250107223000 +0100" channel="Rai Südtirol">
-    <title>Ausblick Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250108200000 +0100" stop="20250108202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
