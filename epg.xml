@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250108200000 +0100" stop="20250108202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250108202000 +0100" stop="20250108204854 +0100" channel="Rai Südtirol">
-    <title>Verbrannte Jugend</title>
-    <sub-title>Südtiroler Männer im Krieg</sub-title>
-    <desc>Sie kämpften und starben unter verschiedenen Fahnen in Galizien, Abessinien und am Kaukasus, obwohl sie laut eines 1511 unter Kaiser Maximilian in Kraft getreten Landlibells nur für die Verteidigung der Tiroler Heimat verpflichtet waren. 
-Doch im 20. Jahrhundert scherten sich weder das alte Vaterland Österreich, noch die neuen
-Machthaber in Italien und im deutschen Reich um die historischen Privilegien der Standschützen
-an Etsch und Eisack. Sie wurden einberufen und mussten in den Krieg ziehen: Für Gott, Kaiser
-und Vaterland, für das Impero Romano von Benito Mussolini oder für das 1000-jährige Reich des
-Adolf Hitler. Der Heldentod am Schlachtfeld wurde verklärt. In Przemysl in der heutigen Ukraine
-ebenso wie vor Addis Abeba oder in Stalingrad. Der Gefallenen wurde auf Kriegerfriedhöfen
-gedacht, Kasernen erhielten ihre Namen und Ritterkreuze schmückten ihre Heldenbrüste. Bis
-heute.</desc>
-  </programme>
-  <programme start="20250108221000 +0100" stop="20250108223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250109200000 +0100" stop="20250109202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
