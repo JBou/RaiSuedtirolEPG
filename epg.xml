@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250109200000 +0100" stop="20250109202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250109202000 +0100" stop="20250109204930 +0100" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Bozen Brass</sub-title>
-    <desc>Seit 35 Jahren begeistern sie ihr Publikum - die Bläser von Bozen Brass interpretieren Klassik, Jazz und Co. auf höchstem Niveau und haben jede Menge Spaß dabei.
-Die Bandgeschichte von Bozen Brass beginnt 1989. Im Laufe von drei Jahrzehnten hat sich musikalisch einiges getan, denn das Sextett setzt sich musikalisch keine Grenzen. Das Repertoire der Profimusiker ist vielfältig und reicht von Klassik, Jazz, Schlager, Big Band  bis zur Volksmusik. Unter dem eigenen Motto: &quot;Viel Blech und feine Töne&quot; zeigen sie auf der Bühne, dass sie auch echte Showmaster sind. Jede Menge Spaß, so manche Überraschung und das ein oder andere Augenzwinkern sind garantiert.</desc>
-  </programme>
-  <programme start="20250109221000 +0100" stop="20250109223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250110180000 +0100" stop="20250110182859 +0100" channel="Rai Südtirol">
     <title>Kurhaus Meran</title>
     <sub-title>110 Jahre Kultur und Kunst an der Passer</sub-title>
@@ -119,6 +103,185 @@ Bäume sind großartige Überlebenskünstler: Verschiedene Arten haben im Lauf d
     <desc/>
   </programme>
   <programme start="20250112221000 +0100" stop="20250112223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250113180000 +0100" stop="20250113182030 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Schlittenhunde</sub-title>
+    <desc>Zipp-Moderator Stefan besucht Elisa und Christian im winterlichen Latsch. Die Beiden sind begeisterte Schlittenhundefahrer, und mit ihren treuen Huskys haben sie schon viele Touren und Rennen bestritten. Heute ist Stefan mit von der Partie und nach dem ersten Kennenlernen und Beschnuppern geht’s schon auf die Piste, bei Minus 10 Grad Celsius. Für die Schlittenhunde ideale Temperaturen - nicht so ganz für unseren Pfote-Moderator, aber die rasante Fahrt heizt ihm dann doch noch gehörig ein.</desc>
+  </programme>
+  <programme start="20250113182000 +0100" stop="20250113185738 +0100" channel="Rai Südtirol">
+    <title>Gesundheitstourismus</title>
+    <sub-title>Das Thema</sub-title>
+    <desc>Viele Menschen nehmen weite Reisen auf sich, um Heilung und medizinische Versorgung zu erhalten. Filmemacher Andreas Niederkofler hat sich in Ungarn, Albanien, aber auch in Südtirol informiert. Helmuth Aschbacher aus St. Georgen hat sich darauf spezialisiert, Südtiroler zu einer Zahnklinik am Plattensee in Ungarn zu chauffieren. Wir begleiten ihn auf seiner Reise.
+Ein weiterer Schauplatz der Reportage ist Tirana, die Hauptstadt Albaniens. Dort fährt der Pustertaler Gynäkologe Bruno Engl einmal im Monat hin, um den Babywunsch vieler einheimischer und ausländischer Paare zu erfüllen.
+Doch auch Südtirol ist eine begehrte Destination für viele, die medizinische Betreuung in Anspruch nehmen. Im Gesundheitszentrum Adler Balance in St. Ulrich verbinden Besucher:innen ihren Urlaub mit einem umfassenden Gesundheitscheck.
+Warum nehmen Menschen für ihre Gesundheit weite Reisen in Kauf? Dieser Frage geht unsere Reportage auf den Grund und beleuchtet die verschiedenen Facetten des Gesundheitstourismus.</desc>
+  </programme>
+  <programme start="20250113200000 +0100" stop="20250113202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250113202000 +0100" stop="20250113212100 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250113212100 +0100" stop="20250113215928 +0100" channel="Rai Südtirol">
+    <title>In memoriam Stefan Geier</title>
+    <sub-title>Musigzeit - TriOle´</sub-title>
+    <desc>Die Musik und besonders die Ziehharmonika waren sein Leben. Stefan Geier unterrichtete an der Musikschule und spielte zudem in verschiedenen Ensembles. Sein Herzensprojekt war das Ensemble TriOle´, wo sich Tango und Bossa mit Volksmusik abwechseln. Die Musik und die Arrangements stammen aus seiner Feder. Die Herkunft aus den Südtiroler Bergen ist unverkennbar und auch die Liebe zur slowenischen Oberkrainer-Musik. 
+Der Akkordeonist Stefan Geier starb am 26.Dezember 2024. Im Gedenken an ihn präsentiert Rai Südtirol eine Folge der Musigzeit, wo das Ensemble TriOle´ im Mittelpunkt steht.</desc>
+  </programme>
+  <programme start="20250113221100 +0100" stop="20250113223100 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250114200000 +0100" stop="20250114202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250114202000 +0100" stop="20250114203700 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250114203700 +0100" stop="20250114204630 +0100" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Stahlbau-Pichler</sub-title>
+    <desc>Am Anfang stand die alte Schmiede im Eggental. Daraus wurde ein globaler Player im Stahlbau. Vor 45 Jahren begannen die Brüder Ferdinand und Walter Pichler aus dem Eggental ihr Erfolgsprojekt.
+Vorzeige-Projekte von &quot;Stahlbau-Pichler&quot; sind die Bergisel Sprungschanze in Innsbruck aus dem Jahr 2002 ebenso wie der Pavillon &quot;Sonne&quot; in Nur-Sultan in Kasachstan aus dem Jahr 2017.
+Auch in New York sind die Südtiroler seit 2017 mit einem Projekt der Stararchitektin Zaha Hadid vertreten. Was in einer kleinen Schmiede begann, ist heute ein international tätiges Unternehmen, das weltweit 250 Mitarbeiter zählt.</desc>
+  </programme>
+  <programme start="20250114221000 +0100" stop="20250114223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250115200000 +0100" stop="20250115202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250115202000 +0100" stop="20250115204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Mogelpackungen - Täuschung im Supermarkt, Abos, die sich automatisch verlängern, Bauarbeiten an der Luegbrücke, und im Fokus: Bozens - außerhalb des Stadtzentrums.
+
+Immer häufiger begegnen uns Produkte, die mit weniger Inhalt zum gleichen Preis verkauft werden. Wir zeigen, wie man solche Mogelpackungen erkennt und welche Grauzonen die Hersteller ausnutzen. Zudem geben wir praktische Tipps, damit man beim Einkauf nicht getäuscht wird.
+Viele Abonnements, z.B. bei Streamingdiensten, bei Software und anderen Diensten, verlängern sich automatisch. Worauf muss man achten, um unerwünschte Vertragsverlängerungen zu vermeiden? Und wie können solche Funktionen deaktiviert werden?
+Die Luegbrücke auf der A13-Brennerautobahn wird saniert und überwiegend einspurig befahrbar sein. Diese Einschränkungen stellen Südtirol vor große Herausforderungen, da die Brennerroute für den Reiseverkehr und die regionale Wirtschaft zentral ist. Der Beitrag zeigt auf, wie sehr Südtirol auf eine funktionierenden Verkehrsinfrastruktur angewiesen ist.
+Wie gestaltet sich das Leben in den Gebieten von Bozen außerhalb des Stadtzentrums? Wir werfen einen Blick auf Einzelhandel und Gastronomie und zeigen, welche Angebote und Entwicklungen es dort gibt.</desc>
+  </programme>
+  <programme start="20250115221000 +0100" stop="20250115223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250116200000 +0100" stop="20250116202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250116202000 +0100" stop="20250116205304 +0100" channel="Rai Südtirol">
+    <title>Tiefe Leidenschaft, hoher Einsatz</title>
+    <sub-title>Die Südtiroler Wasserrettung</sub-title>
+    <desc>Die Reportage von Philipp Bologna und Markus Frings gibt Einblicke in die Arbeit der vier
+Südtiroler Wasserrettungsgruppen und stellt die Freiwilligen und ihre Geschichten dahinter vor.
+Die meisten Unfälle passieren in Flüssen, aber auch beim Eistauchen braucht es mitunter den
+Einsatz der Wasserrettung. Luftkissenboot und Jetski gehören dabei zu den wichtigsten Geräten.
+Wir erleben einige Notfallübungen und zeigen, welchen Herausforderungen sich die Mitglieder
+der Wasserrettung immer wieder stellen müssen. Sie tun es aber mit Engagement und Leidenschaft.</desc>
+  </programme>
+  <programme start="20250116213000 +0100" stop="20250116215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nach dem Saisonstart in österreichischen Obdach-Winterleiten kehrt der Weltcup der Naturbahnrodler nach Südtirol zurück: In Laas wollen Evelin Lanthaler und Daniel Gruber ihre Voprjahressiege wiederholen. Auch in Antholz laufen die Vorbereitungen für den Biathlon-Weltcup auf Hochtouren. Der Alpine Skinachwuchs bestreitet hingegen in Schnals den Parallelslalom um den Athesia-Landescup.</desc>
+  </programme>
+  <programme start="20250116221000 +0100" stop="20250116223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250117180000 +0100" stop="20250117182930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nach dem Saisonstart in österreichischen Obdach-Winterleiten kehrt der Weltcup der Naturbahnrodler nach Südtirol zurück: In Laas wollen Evelin Lanthaler und Daniel Gruber ihre Voprjahressiege wiederholen. Auch in Antholz laufen die Vorbereitungen für den Biathlon-Weltcup auf Hochtouren. Der Alpine Skinachwuchs bestreitet hingegen in Schnals den Parallelslalom um den Athesia-Landescup.</desc>
+  </programme>
+  <programme start="20250117182900 +0100" stop="20250117185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Mogelpackungen - Täuschung im Supermarkt, Abos, die sich automatisch verlängern, Bauarbeiten an der Luegbrücke, und im Fokus: Bozens - außerhalb des Stadtzentrums. Immer häufiger begegnen uns Produkte, die mit weniger Inhalt zum gleichen Preis verkauft werden. Wir zeigen, wie man solche Mogelpackungen erkennt und welche Grauzonen die Hersteller ausnutzen. Zudem geben wir praktische Tipps, damit man beim Einkauf nicht getäuscht wird.
+Viele Abonnements, z.B. bei Streamingdiensten, bei Software und anderen Diensten, verlängern sich automatisch. Worauf muss man achten, um unerwünschte Vertragsverlängerungen zu vermeiden? Und wie können solche Funktionen deaktiviert werden?
+Die Luegbrücke auf der A13-Brennerautobahn wird saniert und überwiegend einspurig befahrbar sein. Diese Einschränkungen stellen Südtirol vor große Herausforderungen, da die Brennerroute für den Reiseverkehr und die regionale Wirtschaft zentral ist. Der Beitrag zeigt auf, wie sehr Südtirol auf eine funktionierenden Verkehrsinfrastruktur angewiesen ist.
+Wie gestaltet sich das Leben in den Gebieten von Bozen außerhalb des Stadtzentrums? Wir werfen einen Blick auf Einzelhandel und Gastronomie und zeigen, welche Angebote und Entwicklungen es dort gibt.</desc>
+  </programme>
+  <programme start="20250117200000 +0100" stop="20250117202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250117202100 +0100" stop="20250117210927 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Feuernacht (Folge III)</sub-title>
+    <desc>20 Jahre Fernsehreihe Bombenjahre: Die dritte Folge zeigt die Planung, die Ausführung und die Folgen der Feuernacht im Juni 1961, bei der 43 Hochspannungsmasten fallen. 
+Von Anfang an plant der Befreiungsausschuss BAS einen großen Schlag, um die Weltöffentlichkeit auf das Südtirol-Problem aufmerksam zu machen. Der Großteil des Stroms für die Industriegebiete um Mailand und Venedig wird in Südtirol produziert. Die großen Überland-Leitungen sind daher das Ziel des BAS. Gleichzeitig will man durch den Stromausfall die Hochöfen in den Bozner Stahlwerken treffen. In der Herz-Jesu-Nacht vom 11. auf den 12. Juni 1961 schlagen die Attentäter zu. Die Aktion ist von Pannen begleitet: In Salurn wird der Straßenwärter Giovanni Postal von einer Bombe getötet.
+Neben den Anschlägen und der politischen Vorgeschichte beleuchten wir auch bisher kaum bekannte geheimdienstliche Hintergründe.</desc>
+  </programme>
+  <programme start="20250117210900 +0100" stop="20250117213830 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Die &quot;Wunderbar&quot; in Brixen und das Restaurant Masatsch zeigen gelebte Inklusion. Zwei Filmportraits: über Hotelierin Linde Laimer zu ihrem 100.Geburtstag und über HGV-Künstlerin des Jahres Sarah Solderer. Das Konzept der &quot;Wunderbar&quot; in Brixen ist ein langgehegtes Herzensprojekt von Leiterin Carmen Messner und stellt ein lebendiges Beispiel für gelungene Inklusion. Außerdem besuchen wir Südtirols einziges Inklusionsrestaurant &quot;Masatsch&quot; im gleichnamigen Hotel in Oberplanitzing bei Kaltern. Hier zeigen uns die Mitarbeitenden mit und ohne Beeinträchtigungen, wie sie gemeinsam eine warme und einladende Atmosphäre schaffen - ein Ort, der für das Team und für seine Gäste gleichermaßen bereichernd ist.
+Die gute Seele im Hotel Zur Linde in Schlanders ist immer noch Linde Laimer. Die langjährige Hotelierin feierte erst kürzlich ihren 100. Geburtstag. Die Geschicke des Hauses haben inzwischen Sohn Peter und seine Frau übernommen, aber gut und gerne erinnert sich Linde Laimer an die Anfänge des Tourismus und an vergangene Tage.
+Alljährlich verleihen HGV und Südtiroler Künstlerbund die Ehrung &quot;Künstler/in des Jahres&quot;. Heuer überzeugte Sarah Solderer mit ihrem Werkvorschlag &quot;Pulëntes&quot;, das einen Löwenzahnsalat darstellt. Der Preis fördert die Zusammenarbeit zwischen Kunst und Tourismusbranche. Willkommen war bei der Preisverleihung dabei und hat die junge Künstlerin in ihrem Atelier in Lajen besucht.</desc>
+  </programme>
+  <programme start="20250117213900 +0100" stop="20250117215953 +0100" channel="Rai Südtirol">
+    <title>Iceman Ötzi Peak 3251</title>
+    <sub-title>Die Aussichtsplattform auf der Grawandspitze</sub-title>
+    <desc>Oberhalb der Bergstation der Schnalstaler Gletscherbahn wurde 2020 auf der 3.251 Meter hohen
+Grawandspitze eine Aussichtsplattform errichtet. Dort genießt man einen einmaligen Rundblick über mehr als 100 Dreitausender. Ein Fernrohr richtet den Blick der Besucher gezielt auf de nahegelegenen Similaun, wo die Gletschermumie 1991 entdeckt wurde, daher auch der Name der Plattform &quot;Iceman Ötzi Peak 3251&quot;. Der bisherige Steig auf die Grawandspitze war bisher nicht für alle begehbar. Mit der Plattform, die man über Stiegen erreicht, können nun auch weniger Sportliche einen grandiosen Ausblick über die Berge erleben.
+Der Film zeigt auf, welche Herausforderung es war, diese Metallplattform zu bauen und auf 3251 m Höhe zu transportieren.</desc>
+  </programme>
+  <programme start="20250117221000 +0100" stop="20250117223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250118180000 +0100" stop="20250118184827 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Feuernacht (Folge III)</sub-title>
+    <desc>20 Jahre Fernsehreihe Bombenjahre: Die dritte Folge zeigt die Planung, die Ausführung und die Folgen der Feuernacht im Juni 1961, bei der 43 Hochspannungsmasten fallen. 
+Von Anfang an plant der Befreiungsausschuss BAS einen großen Schlag, um die Weltöffentlichkeit auf das Südtirol-Problem aufmerksam zu machen. Der Großteil des Stroms für die Industriegebiete um Mailand und Venedig wird in Südtirol produziert. Die großen Überland-Leitungen sind daher das Ziel des BAS. Gleichzeitig will man durch den Stromausfall die Hochöfen in den Bozner Stahlwerken treffen. In der Herz-Jesu-Nacht vom 11. auf den 12. Juni 1961 schlagen die Attentäter zu. Die Aktion ist von Pannen begleitet: In Salurn wird der Straßenwärter Giovanni Postal von einer Bombe getötet.
+Neben den Anschlägen und der politischen Vorgeschichte beleuchten wir auch bisher kaum bekannte geheimdienstliche Hintergründe.</desc>
+  </programme>
+  <programme start="20250118184800 +0100" stop="20250118185446 +0100" channel="Rai Südtirol">
+    <title>dF- Frauenbilder</title>
+    <sub-title>Erika Giovanna Klien</sub-title>
+    <desc>Die Werke der Künstlerin Erika Giovanna Klien (1900-1957) hängen in angesehenen Museen. Klien war eine der wenigen Frauen der österreichischen Avantgarde. Zu Lebzeiten war sie zu modern für ihre Familie, und ihre Bilder, Objekte und Designs zu radikal für das Kunstverständnis der Zeit.</desc>
+  </programme>
+  <programme start="20250118200000 +0100" stop="20250118202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250118202100 +0100" stop="20250118202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250118202500 +0100" stop="20250118205400 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Unser Darm</sub-title>
+    <desc>Im Darm steckt die Gesundheit - das weiß man schon seit langem. Rund 100 Billionen Mikroorganismen in diesem Verdauungsorgan sind für unser Wohlbefinden und unser Immunsystem verantwortlich. 
+Im Krankenhaus Sterzing führt das Team um den Internisten Dr. Christan Wenter ca. 1000 Koloskopien im Jahr durch. Bei jeder dritten Untersuchung findet der Internist auch einen Polypen - die Vorstufe eines Tumors - oder eine Darmveränderung. Der Polyp kann schon während der Darmspiegelung entfernt werden. Dadurch ist die Gefahr, an einem Darmtumor zu erkranken, gebannt.
+Primar Guido Schumacher vom Krankenhaus Brixen ist immer wieder mit sehr jungen Darmtumor-Patienten:innen konfrontiert. Ein ungesunder Lebensstil oder eine genetische Vorbelastung könnten der Grund dafür sein. Eine Reportage von Ulli Velano und Marco Polo.</desc>
+  </programme>
+  <programme start="20250118221000 +0100" stop="20250118223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
