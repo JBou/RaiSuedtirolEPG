@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250111180000 +0100" stop="20250111184600 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Kerschbaumer bei Kreisky (Folge II)</sub-title>
-    <desc>Am 27. November 1960 sprechen drei BAS-Mitglieder in Wien mit Außenminister Bruno Kreisky. Worum geht es genau? Wenige Wochen später wird der &quot;Aluminium-Duce&quot; in Waidbruck gesprengt.
-Und in Glen bei Montan wird das Anwesen von Ettore Tolomei, Senator unter Benito Mussolini, Ziel eines Anschlages. Die Ermittler suchen von Anfang an eine Verbindung zur Politik.  Der Film geht deshalb der Frage nach, wer wohl innerhalb der SVP in die Pläne des BAS eingeweiht war. 
-Attentäter reden erstmals offen über ihre Beweggründe und ihre Erfahrungen - nicht zuletzt als Häftlinge im Kerker. Zu Wort kommen Politiker, Journalisten und Vertreter von Justiz und Polizei. Ergänzt wird die Dokumentation durch Archivmaterial, Filmbeiträge und Akten des italienischen Geheimdienstes. Eingestreut sind Spielszenen, in denen die Atmosphäre jener Zeit behutsam eingefangen wird.</desc>
-  </programme>
-  <programme start="20250111184600 +0100" stop="20250111185813 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Heini Holzer</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250111200000 +0100" stop="20250111202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250111202100 +0100" stop="20250111202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250111202500 +0100" stop="20250111210400 +0100" channel="Rai Südtirol">
-    <title>Grüne Begleiter</title>
-    <sub-title>Der Winter</sub-title>
-    <desc>Der Winter ist die Zeit der Kälte, der langen Dunkelheit und der großen Stille in der Natur. Doch tief in den Bäumen bereitet sich die Natur schon wieder auf den herannahenden Frühling vor. 
-
-Bäume sind großartige Überlebenskünstler: Verschiedene Arten haben im Lauf der Evolution unterschiedliche Strategie entwickelt, um mit Frost, Schnee und Wintertrockenheit umzugehen. Sie haben sich angepasst, um selbst die unwirtlichsten Bedingungen zu überstehen. Und während an der Oberfläche alles tot und abgestorben wirkt, stellen sich die verborgenen Kräfte der Natur bereits wieder auf den Neubeginn im Frühling ein.</desc>
-  </programme>
-  <programme start="20250111221000 +0100" stop="20250111223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250112200000 +0100" stop="20250112202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
