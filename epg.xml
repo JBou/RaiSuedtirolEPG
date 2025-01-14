@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250113180000 +0100" stop="20250113182030 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Schlittenhunde</sub-title>
-    <desc>Zipp-Moderator Stefan besucht Elisa und Christian im winterlichen Latsch. Die Beiden sind begeisterte Schlittenhundefahrer, und mit ihren treuen Huskys haben sie schon viele Touren und Rennen bestritten. Heute ist Stefan mit von der Partie und nach dem ersten Kennenlernen und Beschnuppern geht’s schon auf die Piste, bei Minus 10 Grad Celsius. Für die Schlittenhunde ideale Temperaturen - nicht so ganz für unseren Pfote-Moderator, aber die rasante Fahrt heizt ihm dann doch noch gehörig ein.</desc>
-  </programme>
-  <programme start="20250113182000 +0100" stop="20250113185738 +0100" channel="Rai Südtirol">
-    <title>Gesundheitstourismus</title>
-    <sub-title>Das Thema</sub-title>
-    <desc>Viele Menschen nehmen weite Reisen auf sich, um Heilung und medizinische Versorgung zu erhalten. Filmemacher Andreas Niederkofler hat sich in Ungarn, Albanien, aber auch in Südtirol informiert. Helmuth Aschbacher aus St. Georgen hat sich darauf spezialisiert, Südtiroler zu einer Zahnklinik am Plattensee in Ungarn zu chauffieren. Wir begleiten ihn auf seiner Reise.
-Ein weiterer Schauplatz der Reportage ist Tirana, die Hauptstadt Albaniens. Dort fährt der Pustertaler Gynäkologe Bruno Engl einmal im Monat hin, um den Babywunsch vieler einheimischer und ausländischer Paare zu erfüllen.
-Doch auch Südtirol ist eine begehrte Destination für viele, die medizinische Betreuung in Anspruch nehmen. Im Gesundheitszentrum Adler Balance in St. Ulrich verbinden Besucher:innen ihren Urlaub mit einem umfassenden Gesundheitscheck.
-Warum nehmen Menschen für ihre Gesundheit weite Reisen in Kauf? Dieser Frage geht unsere Reportage auf den Grund und beleuchtet die verschiedenen Facetten des Gesundheitstourismus.</desc>
-  </programme>
-  <programme start="20250113200000 +0100" stop="20250113202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250113202000 +0100" stop="20250113212100 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250113212100 +0100" stop="20250113215928 +0100" channel="Rai Südtirol">
-    <title>In memoriam Stefan Geier</title>
-    <sub-title>Musigzeit - TriOle´</sub-title>
-    <desc>Die Musik und besonders die Ziehharmonika waren sein Leben. Stefan Geier unterrichtete an der Musikschule und spielte zudem in verschiedenen Ensembles. Sein Herzensprojekt war das Ensemble TriOle´, wo sich Tango und Bossa mit Volksmusik abwechseln. Die Musik und die Arrangements stammen aus seiner Feder. Die Herkunft aus den Südtiroler Bergen ist unverkennbar und auch die Liebe zur slowenischen Oberkrainer-Musik. 
-Der Akkordeonist Stefan Geier starb am 26.Dezember 2024. Im Gedenken an ihn präsentiert Rai Südtirol eine Folge der Musigzeit, wo das Ensemble TriOle´ im Mittelpunkt steht.</desc>
-  </programme>
-  <programme start="20250113221100 +0100" stop="20250113223100 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250114200000 +0100" stop="20250114202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
