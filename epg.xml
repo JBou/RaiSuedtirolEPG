@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250114200000 +0100" stop="20250114202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250114202000 +0100" stop="20250114203700 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250114203700 +0100" stop="20250114204630 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Stahlbau-Pichler</sub-title>
-    <desc>Am Anfang stand die alte Schmiede im Eggental. Daraus wurde ein globaler Player im Stahlbau. Vor 45 Jahren begannen die Brüder Ferdinand und Walter Pichler aus dem Eggental ihr Erfolgsprojekt.
-Vorzeige-Projekte von &quot;Stahlbau-Pichler&quot; sind die Bergisel Sprungschanze in Innsbruck aus dem Jahr 2002 ebenso wie der Pavillon &quot;Sonne&quot; in Nur-Sultan in Kasachstan aus dem Jahr 2017.
-Auch in New York sind die Südtiroler seit 2017 mit einem Projekt der Stararchitektin Zaha Hadid vertreten. Was in einer kleinen Schmiede begann, ist heute ein international tätiges Unternehmen, das weltweit 250 Mitarbeiter zählt.</desc>
-  </programme>
-  <programme start="20250114221000 +0100" stop="20250114223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250115200000 +0100" stop="20250115202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
