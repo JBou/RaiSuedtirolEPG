@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250115200000 +0100" stop="20250115202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250115202000 +0100" stop="20250115204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Mogelpackungen - Täuschung im Supermarkt, Abos, die sich automatisch verlängern, Bauarbeiten an der Luegbrücke, und im Fokus: Bozens - außerhalb des Stadtzentrums.
-
-Immer häufiger begegnen uns Produkte, die mit weniger Inhalt zum gleichen Preis verkauft werden. Wir zeigen, wie man solche Mogelpackungen erkennt und welche Grauzonen die Hersteller ausnutzen. Zudem geben wir praktische Tipps, damit man beim Einkauf nicht getäuscht wird.
-Viele Abonnements, z.B. bei Streamingdiensten, bei Software und anderen Diensten, verlängern sich automatisch. Worauf muss man achten, um unerwünschte Vertragsverlängerungen zu vermeiden? Und wie können solche Funktionen deaktiviert werden?
-Die Luegbrücke auf der A13-Brennerautobahn wird saniert und überwiegend einspurig befahrbar sein. Diese Einschränkungen stellen Südtirol vor große Herausforderungen, da die Brennerroute für den Reiseverkehr und die regionale Wirtschaft zentral ist. Der Beitrag zeigt auf, wie sehr Südtirol auf eine funktionierenden Verkehrsinfrastruktur angewiesen ist.
-Wie gestaltet sich das Leben in den Gebieten von Bozen außerhalb des Stadtzentrums? Wir werfen einen Blick auf Einzelhandel und Gastronomie und zeigen, welche Angebote und Entwicklungen es dort gibt.</desc>
-  </programme>
-  <programme start="20250115221000 +0100" stop="20250115223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250116200000 +0100" stop="20250116202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
