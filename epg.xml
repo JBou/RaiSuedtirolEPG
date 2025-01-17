@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250116200000 +0100" stop="20250116202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250116202000 +0100" stop="20250116205304 +0100" channel="Rai Südtirol">
-    <title>Tiefe Leidenschaft, hoher Einsatz</title>
-    <sub-title>Die Südtiroler Wasserrettung</sub-title>
-    <desc>Die Reportage von Philipp Bologna und Markus Frings gibt Einblicke in die Arbeit der vier
-Südtiroler Wasserrettungsgruppen und stellt die Freiwilligen und ihre Geschichten dahinter vor.
-Die meisten Unfälle passieren in Flüssen, aber auch beim Eistauchen braucht es mitunter den
-Einsatz der Wasserrettung. Luftkissenboot und Jetski gehören dabei zu den wichtigsten Geräten.
-Wir erleben einige Notfallübungen und zeigen, welchen Herausforderungen sich die Mitglieder
-der Wasserrettung immer wieder stellen müssen. Sie tun es aber mit Engagement und Leidenschaft.</desc>
-  </programme>
-  <programme start="20250116213000 +0100" stop="20250116215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nach dem Saisonstart in österreichischen Obdach-Winterleiten kehrt der Weltcup der Naturbahnrodler nach Südtirol zurück: In Laas wollen Evelin Lanthaler und Daniel Gruber ihre Voprjahressiege wiederholen. Auch in Antholz laufen die Vorbereitungen für den Biathlon-Weltcup auf Hochtouren. Der Alpine Skinachwuchs bestreitet hingegen in Schnals den Parallelslalom um den Athesia-Landescup.</desc>
-  </programme>
-  <programme start="20250116221000 +0100" stop="20250116223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250117180000 +0100" stop="20250117182930 +0100" channel="Rai Südtirol">
     <title>SportArena</title>
     <sub-title/>
@@ -124,6 +99,187 @@ Padre Giuseppe Detomaso hat in mehreren Dörfern Brunnen und Schulen gebaut, Kra
     <desc/>
   </programme>
   <programme start="20250119221000 +0100" stop="20250119223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250120180000 +0100" stop="20250120182530 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Was spukt im Tertiarkloster von Brixen?</sub-title>
+    <desc>Im Tertiarkloster von Brixen spukt es! Drei Schabernackgeister lassen die Reliquie von Maria Huber, der Gründerin des Klosters, verschwinden. Die Schwestern sind in heller Aufregung und holen Clown Karamela zu Hilfe. Im Kloster taucht Clownfrau Karamela ins Leben der Schwestern ein: Sie hilft beim Wachschristkind basteln, beim Nähen und Besticken der Priesterkleider und im großen Garten mit und besänftigt schlussendlich auch noch die Geister im Kloster.</desc>
+  </programme>
+  <programme start="20250120182500 +0100" stop="20250120182930 +0100" channel="Rai Südtirol">
+    <title>Die Bezirksgemeinschaft Pustertal (1)</title>
+    <sub-title>Die Umweltdienste</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250120183000 +0100" stop="20250120185930 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Unser Darm</sub-title>
+    <desc>Im Darm steckt die Gesundheit - das weiß man schon seit langem. Rund 100 Billionen Mikroorganismen in diesem Verdauungsorgan sind für unser Wohlbefinden und unser Immunsystem verantwortlich. Im 
+ rankenhaus Sterzing führt das Team um den Internisten Dr. Christan Wenter ca. 1000 Koloskopien im Jahr durch. Bei jeder dritten Untersuchung findet der Internist auch einen Polypen - die Vorstufe eines Tumors - oder eine Darmveränderung. Der Polyp kann schon während der Darmspiegelung entfernt werden. Dadurch ist die Gefahr, an einem Darmtumor zu erkranken, gebannt.
+Primar Guido Schumacher vom Krankenhaus Brixen ist immer wieder mit sehr jungen Darmtumor-Patienten:innen konfrontiert. Ein ungesunder Lebensstil oder eine genetische Vorbelastung könnten der Grund dafür sein. Eine Reportage von Ulli Velano und Marco Polo.</desc>
+  </programme>
+  <programme start="20250120200000 +0100" stop="20250120202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250120202000 +0100" stop="20250120212030 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Zu Gast ist Christine Lasta vom Stadttheater Bruneck, die im Ein-Personen-Stück &quot;prima facie&quot; im Februar nochmals zu erleben ist. Ein weiterer Gast von Alex Lechner ist Museion-Direktor Bart van der Heide.
+
+Vor kurzem feierten die Kabarettisten Thomas Hochkofler und Lukas Lobis das Revival ihrer Show, &quot;Leo &amp; Luis 2&quot;.
+Mit dem Stück &quot;Die Guten&quot; beäugen die Vereinigten Bühnen Bozen auf satirische Weise das ganz allgemeine (a)soziale Handeln: Wo Jahrtausende lang Hochmut, Habgier und Wollust bei den Menschen hoch im Kurs standen, scheint eine Zeitenwende gekommen. Doch ist es tatsächlich so, dass nun Nachhaltigkeit, Empathie und solidarisches Miteinander die Gesellschaft prägen? 
+Wir blicken im Kompass außerdem zurück auf 60 Jahre der Galerie Casciaro in Bozen, stellen das Buch von Julian Peter Messner vor und blicken mit Jonas Kaufmann auf sein erstes Jahr als Intendant der Festspiele Erl.</desc>
+  </programme>
+  <programme start="20250120212100 +0100" stop="20250120215928 +0100" channel="Rai Südtirol">
+    <title>Hans Ebensperger</title>
+    <sub-title>Das Radikale der Natur</sub-title>
+    <desc>Trotz seines kurzen Lebens zählt Hans Ebensperger zu den prägendsten Künstlern der Südtiroler
+Nachkriegsmoderne. Verschiedene Einflüsse führten bei ihm zu einer individuellen Farb- und Formensprache. Es waren bewegte Jahre, als die Kunst erneut den Anschluss an ein gesamteuropäisches Kulturempfinden fand: Peter Fellin, Karl Plattner, Josef Kienlechner, Ebensperger - sie alle waren Kinder jener Zeit. Ebenspergers Werdegang gleicht einem Streifzug durch die Kunst des 20. Jahrhunderts, ohne, dass er sich jemals einer Stilrichtung verschrieben hätte. Verschiedene Einflüsse führten bei ihm zu einer individuellen Farb- und Formensprache, die vor allem in der Landschaft des Vinschgaus ihre Inspiration fand. Die Dokumentation berichtet über seine Kindheit im Vinschgau, die Jugend in Innsbruck, das Studium in Wien, die künstlerische Revolution der Meraner Zeit. Wir erleben auch das Gesamtkunstwerk der Nicolussi-Villa in Frangart und erfahren über die letzten Lebensjahre, wo Ebensperger in seinen Heimatort Prad zurückfand.</desc>
+  </programme>
+  <programme start="20250120221000 +0100" stop="20250120223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250121200000 +0100" stop="20250121202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250121202000 +0100" stop="20250121204100 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250121204100 +0100" stop="20250121204745 +0100" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Brigitte Hofer</sub-title>
+    <desc>Die neue Gleichstellungsrätin Brigitte Hofer hat viele Ideen für ihre wichtige Aufgabe: Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. In ihrer Freizeit ist Brigitte Hofer Tangotänzerin und Bergbegeisterte.</desc>
+  </programme>
+  <programme start="20250121221000 +0100" stop="20250121223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250122200000 +0100" stop="20250122202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250122202000 +0100" stop="20250122205032 +0100" channel="Rai Südtirol">
+    <title>Schuhmacher</title>
+    <sub-title>Made in Südtirol</sub-title>
+    <desc>Rund 250 Arbeitsschritte sind nötig, um einem Schuh in Handarbeit die perfekte Passform zu
+verleihen. Wir besuchen drei Südtiroler Schuhmacher in ihren Werkstätten.
+Mit Trachtenschuhen und der Reparatur von Bergschuhen hat sich der Villnösser Andreas
+Augschöll mittlerweile einen Namen gemacht hat. Die aus Klausen stammende Nora Delmonego
+ist noch in der Anfangsphase. Sie wagt sich an die Herstellung ausgefallener Damenschuhe
+heran. In der Landeshauptstadt Bozen hat sich hingegen Martin Hilpold in seiner edlen Schuhwerkstatt
+etabliert.</desc>
+  </programme>
+  <programme start="20250122221000 +0100" stop="20250122223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250123200000 +0100" stop="20250123202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250123202000 +0100" stop="20250123204305 +0100" channel="Rai Südtirol">
+    <title>Eiswasser</title>
+    <sub-title>Tauchen am Berg</sub-title>
+    <desc>Eistauchen - nicht nur eine besondere sportliche Herausforderung, sondern auch ein Eintauchen in eine andere Dimension, in eine Welt der Stille und der völligen Abgeschiedenheit inmitten der winterlichen Berge.
+Der Bozner Tauchverein Delfinsub war einer der ersten in Italien, die diesen Versuch gewagt
+haben. Das Zusammenspiel von körperlicher und mentaler Fitness, aber auch mehrfache Checks
+der Tauchausrüstung und der Vorbereitung spielen dabei eine entscheidende Rolle. Der Film dokumentiert dieses besondere Unterfangen im Durnholzer See im Sarntal. Die größte Herausforderung war dabei der überraschende Wintereinbruch.</desc>
+  </programme>
+  <programme start="20250123204300 +0100" stop="20250123205051 +0100" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Schlittenhunde</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250123213000 +0100" stop="20250123215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Antholz beginnt heute die Biathlon-Weltcup-Woche, die gleichzeitig auch die Generalprobe für die Olympischen Winterspiele 2026 ist. In Südtirol werden im nächsten Jahr erstmals Olympische Medaillen vergeben. 
+Auch der Alpine Weltcup der Damen war bei uns zu Gast: Am Kronplatz fand der traditionelle Riesentorlauf statt. In Kühtai in Nordtirol wurden die Rodel-Weltmeister auf Naturbahn gekürt.</desc>
+  </programme>
+  <programme start="20250123221000 +0100" stop="20250123223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250124175900 +0100" stop="20250124185830 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Zu Gast ist Christine Lasta vom Stadttheater Bruneck, die im Ein-Personen-Stück &quot;prima facie&quot; im Februar nochmals zu erleben ist. Ein weiterer Gast von Alex Lechner ist Museion-Direktor Bart van der Heide. Vor kurzem feierten die Kabarettisten Thomas Hochkofler und Lukas Lobis das Revival ihrer Show, &quot;Leo &amp; Luis 2&quot;.
+Mit dem Stück &quot;Die Guten&quot; beäugen die Vereinigten Bühnen Bozen auf satirische Weise das ganz allgemeine (a)soziale Handeln: Wo Jahrtausende lang Hochmut, Habgier und Wollust bei den Menschen hoch im Kurs standen, scheint eine Zeitenwende gekommen. Doch ist es tatsächlich so, dass nun Nachhaltigkeit, Empathie und solidarisches Miteinander die Gesellschaft prägen? 
+Wir blicken im Kompass außerdem zurück auf 60 Jahre der Galerie Casciaro in Bozen, stellen das Buch von Julian Peter Messner vor und blicken mit Jonas Kaufmann auf sein erstes Jahr als Intendant der Festspiele Erl.</desc>
+  </programme>
+  <programme start="20250124200000 +0100" stop="20250124202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250124202100 +0100" stop="20250124210918 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Schreie in der Nacht (Folge IV)</sub-title>
+    <desc>Attentäter schildern, wie ein Großteil der BAS-Mitglieder verhaftet und grausam gefoltert wird. Bleibt die Frage, warum die Politik so lange geschwiegen hat. 
+Nach der Feuernacht 1961 schlägt der BAS wieder zu. Diesmal sind die oberitalienischen Eisenbahnlinien das Ziel. Der Staat reagiert und verhaftet beinahe alle BAS-Mitglieder. Die Gefangenen werden vor der Überstellung ins Gefängnis in Südtiroler Carabinieri-Kasernen grausam gefoltert. Mehrere Attentäter schildern in dieser Folge ihre Verhaftung und die Misshandlungen. Trauriger Höhepunkt: zwei Tote Häftlinge. Die Filmemacher Christoph Franceschini und Helmut Lechthaler gehen auch der Frage nach, warum die Politik so lange zu den Misshandlungen geschwiegen hat.</desc>
+  </programme>
+  <programme start="20250124210900 +0100" stop="20250124215716 +0100" channel="Rai Südtirol">
+    <title>Lehrer:in sein</title>
+    <sub-title>Von der Uni an die Grundschule</sub-title>
+    <desc>Wie werden angehende Lehrkräfte auf das vorbereitet, was sie ein Berufsleben lang leisten
+sollen: Schüler:innen für das Leben und das Lernen zu begeistern? Ein Film von Angelika König.
+Was braucht eine Gesellschaft, die von Umbrüchen und Krisen, komplexen Situationen und Unsicherheiten geprägt ist? Mutige und kreative Zukunftsgestalter:innen: Das sind Lehrer:innen.
+Welche Kompetenzen sind unerlässlich für den Unterricht an der Grundschule? Wer coacht sie
+im Umgang mit jenen, die aus der Rolle fallen? Wie finden sie selbst in die Rolle?
+Dieser Film von Angelika König dokumentiert erstmals in Südtirol den Weg zur Lehrerin, zum
+Lehrer mit der Kamera. Es geht um einen der wichtigsten und umstrittensten Berufe unserer
+Gesellschaft und um einen einmaligen Einblick in die universitäre Lehrausbildung in Südtirol.</desc>
+  </programme>
+  <programme start="20250124221000 +0100" stop="20250124223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250125180000 +0100" stop="20250125184818 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Schreie in der Nacht (Folge IV)</sub-title>
+    <desc>Attentäter schildern, wie ein Großteil der BAS-Mitglieder verhaftet und grausam gefoltert wird. Bleibt die Frage, warum die Politik so lange geschwiegen hat. 
+Nach der Feuernacht 1961 schlägt der BAS wieder zu. Diesmal sind die oberitalienischen Eisenbahnlinien das Ziel. Der Staat reagiert und verhaftet beinahe alle BAS-Mitglieder. Die Gefangenen werden vor der Überstellung ins Gefängnis in Südtiroler Carabinieri-Kasernen grausam gefoltert. Mehrere Attentäter schildern in dieser Folge ihre Verhaftung und die Misshandlungen. Trauriger Höhepunkt: zwei Tote Häftlinge. Die Filmemacher Christoph Franceschini und Helmut Lechthaler gehen auch der Frage nach, warum die Politik so lange zu den Misshandlungen geschwiegen hat.</desc>
+  </programme>
+  <programme start="20250125184800 +0100" stop="20250125185503 +0100" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Melitta Pitschl</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250125200000 +0100" stop="20250125202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250125202100 +0100" stop="20250125202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250125202500 +0100" stop="20250125205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Ein Rückblick auf den Lichterpark Lumagica in den Gärten von Schloss Trauttmansdorff, ein HGV-Stern für Futurapreis-Jurorin Inga Hosp, die neue Bio-Brotbackmischung aus Regiokorn.
+Am Ritten besuchen wir die Publizistin Inga Hosp, die seit über 30 Jahren als Jurypräsidentin des Futura-Förderpreises tätig ist und für ihr ehrenamtliches Engagement mit dem HGV-Stern ausgezeichnet wurde. Der Futurapreis fördert erfolgreiche Südtiroler:innen im Ausland.
+In diesem Winter verwandelte der Lumagica-Lichterpark die Gärten von Schloss  Trauttmansdorff in ein leuchtendes Winterwunderland. Mit dieser Premiere in Italien wurde ein neuer touristischer Akzent für die Region gesetzt.
+Eine Kooperation zwischen Tourismus, Landwirtschaft und Handel in Südtirol führt zu neuen Produkten: Die Vitalpina Hotels haben eine eigene Produktlinie entwickelt, die Regionalität und Nachhaltigkeit in den Mittelpunkt stellt. In enger Zusammenarbeit mit Südtiroler Produzenten entstanden so drei neue Produkte, z.B. die Bio-Brotbackmischung, hergestellt mit Regiokorn-Getreide von über 60 Südtiroler Bauern.</desc>
+  </programme>
+  <programme start="20250125221000 +0100" stop="20250125223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
