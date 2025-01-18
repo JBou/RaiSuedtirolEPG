@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250117180000 +0100" stop="20250117182930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nach dem Saisonstart in österreichischen Obdach-Winterleiten kehrt der Weltcup der Naturbahnrodler nach Südtirol zurück: In Laas wollen Evelin Lanthaler und Daniel Gruber ihre Voprjahressiege wiederholen. Auch in Antholz laufen die Vorbereitungen für den Biathlon-Weltcup auf Hochtouren. Der Alpine Skinachwuchs bestreitet hingegen in Schnals den Parallelslalom um den Athesia-Landescup.</desc>
-  </programme>
-  <programme start="20250117182900 +0100" stop="20250117185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Mogelpackungen - Täuschung im Supermarkt, Abos, die sich automatisch verlängern, Bauarbeiten an der Luegbrücke, und im Fokus: Bozens - außerhalb des Stadtzentrums. Immer häufiger begegnen uns Produkte, die mit weniger Inhalt zum gleichen Preis verkauft werden. Wir zeigen, wie man solche Mogelpackungen erkennt und welche Grauzonen die Hersteller ausnutzen. Zudem geben wir praktische Tipps, damit man beim Einkauf nicht getäuscht wird.
-Viele Abonnements, z.B. bei Streamingdiensten, bei Software und anderen Diensten, verlängern sich automatisch. Worauf muss man achten, um unerwünschte Vertragsverlängerungen zu vermeiden? Und wie können solche Funktionen deaktiviert werden?
-Die Luegbrücke auf der A13-Brennerautobahn wird saniert und überwiegend einspurig befahrbar sein. Diese Einschränkungen stellen Südtirol vor große Herausforderungen, da die Brennerroute für den Reiseverkehr und die regionale Wirtschaft zentral ist. Der Beitrag zeigt auf, wie sehr Südtirol auf eine funktionierenden Verkehrsinfrastruktur angewiesen ist.
-Wie gestaltet sich das Leben in den Gebieten von Bozen außerhalb des Stadtzentrums? Wir werfen einen Blick auf Einzelhandel und Gastronomie und zeigen, welche Angebote und Entwicklungen es dort gibt.</desc>
-  </programme>
-  <programme start="20250117200000 +0100" stop="20250117202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250117202100 +0100" stop="20250117210927 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Feuernacht (Folge III)</sub-title>
-    <desc>20 Jahre Fernsehreihe Bombenjahre: Die dritte Folge zeigt die Planung, die Ausführung und die Folgen der Feuernacht im Juni 1961, bei der 43 Hochspannungsmasten fallen. 
-Von Anfang an plant der Befreiungsausschuss BAS einen großen Schlag, um die Weltöffentlichkeit auf das Südtirol-Problem aufmerksam zu machen. Der Großteil des Stroms für die Industriegebiete um Mailand und Venedig wird in Südtirol produziert. Die großen Überland-Leitungen sind daher das Ziel des BAS. Gleichzeitig will man durch den Stromausfall die Hochöfen in den Bozner Stahlwerken treffen. In der Herz-Jesu-Nacht vom 11. auf den 12. Juni 1961 schlagen die Attentäter zu. Die Aktion ist von Pannen begleitet: In Salurn wird der Straßenwärter Giovanni Postal von einer Bombe getötet.
-Neben den Anschlägen und der politischen Vorgeschichte beleuchten wir auch bisher kaum bekannte geheimdienstliche Hintergründe.</desc>
-  </programme>
-  <programme start="20250117210900 +0100" stop="20250117213830 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Die &quot;Wunderbar&quot; in Brixen und das Restaurant Masatsch zeigen gelebte Inklusion. Zwei Filmportraits: über Hotelierin Linde Laimer zu ihrem 100.Geburtstag und über HGV-Künstlerin des Jahres Sarah Solderer. Das Konzept der &quot;Wunderbar&quot; in Brixen ist ein langgehegtes Herzensprojekt von Leiterin Carmen Messner und stellt ein lebendiges Beispiel für gelungene Inklusion. Außerdem besuchen wir Südtirols einziges Inklusionsrestaurant &quot;Masatsch&quot; im gleichnamigen Hotel in Oberplanitzing bei Kaltern. Hier zeigen uns die Mitarbeitenden mit und ohne Beeinträchtigungen, wie sie gemeinsam eine warme und einladende Atmosphäre schaffen - ein Ort, der für das Team und für seine Gäste gleichermaßen bereichernd ist.
-Die gute Seele im Hotel Zur Linde in Schlanders ist immer noch Linde Laimer. Die langjährige Hotelierin feierte erst kürzlich ihren 100. Geburtstag. Die Geschicke des Hauses haben inzwischen Sohn Peter und seine Frau übernommen, aber gut und gerne erinnert sich Linde Laimer an die Anfänge des Tourismus und an vergangene Tage.
-Alljährlich verleihen HGV und Südtiroler Künstlerbund die Ehrung &quot;Künstler/in des Jahres&quot;. Heuer überzeugte Sarah Solderer mit ihrem Werkvorschlag &quot;Pulëntes&quot;, das einen Löwenzahnsalat darstellt. Der Preis fördert die Zusammenarbeit zwischen Kunst und Tourismusbranche. Willkommen war bei der Preisverleihung dabei und hat die junge Künstlerin in ihrem Atelier in Lajen besucht.</desc>
-  </programme>
-  <programme start="20250117213900 +0100" stop="20250117215953 +0100" channel="Rai Südtirol">
-    <title>Iceman Ötzi Peak 3251</title>
-    <sub-title>Die Aussichtsplattform auf der Grawandspitze</sub-title>
-    <desc>Oberhalb der Bergstation der Schnalstaler Gletscherbahn wurde 2020 auf der 3.251 Meter hohen
-Grawandspitze eine Aussichtsplattform errichtet. Dort genießt man einen einmaligen Rundblick über mehr als 100 Dreitausender. Ein Fernrohr richtet den Blick der Besucher gezielt auf de nahegelegenen Similaun, wo die Gletschermumie 1991 entdeckt wurde, daher auch der Name der Plattform &quot;Iceman Ötzi Peak 3251&quot;. Der bisherige Steig auf die Grawandspitze war bisher nicht für alle begehbar. Mit der Plattform, die man über Stiegen erreicht, können nun auch weniger Sportliche einen grandiosen Ausblick über die Berge erleben.
-Der Film zeigt auf, welche Herausforderung es war, diese Metallplattform zu bauen und auf 3251 m Höhe zu transportieren.</desc>
-  </programme>
-  <programme start="20250117221000 +0100" stop="20250117223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250118180000 +0100" stop="20250118184827 +0100" channel="Rai Südtirol">
     <title>Bombenjahre</title>
     <sub-title>Feuernacht (Folge III)</sub-title>
@@ -280,6 +236,30 @@ In diesem Winter verwandelte der Lumagica-Lichterpark die Gärten von Schloss  T
 Eine Kooperation zwischen Tourismus, Landwirtschaft und Handel in Südtirol führt zu neuen Produkten: Die Vitalpina Hotels haben eine eigene Produktlinie entwickelt, die Regionalität und Nachhaltigkeit in den Mittelpunkt stellt. In enger Zusammenarbeit mit Südtiroler Produzenten entstanden so drei neue Produkte, z.B. die Bio-Brotbackmischung, hergestellt mit Regiokorn-Getreide von über 60 Südtiroler Bauern.</desc>
   </programme>
   <programme start="20250125221000 +0100" stop="20250125223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250126200000 +0100" stop="20250126202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250126202100 +0100" stop="20250126205030 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Die Wissenschaftspreisträger Irene Pichler und Hermann Brugger im Porträt, der Fremdsprachenerwerb in den ladinischen Tälern und das Institut für Pflanzengesundheit der Laimburg sind diesmal Thema.
+
+In der Jänner-Ausgabe werden die beiden Träger des Wissenschaftspreises des Landes Südtirol porträtiert: Irene Pichler, Molekularbiologin an der Eurac Research, hat den Women Science Award 2024 für ihre Forschungen zur Früherkennung von Parkinson erhalten. Der Notfallmediziner Hermann Brugger hat durch seine Forschungen im hochalpinen Gelände die alpine Notfallmedizin in den vergangenen Jahrzehnten revolutioniert und dafür den Wissenschaftspreis des Landes Südtirol entgegengenommen. 
+Anschließend gehen Forschende der Fakultät für Bildungswissenschaften der Frage nach, wie Schüler:innen in den ladinischen Tälern Fremdsprachen erwerben. Das Forschungsprojekt läuft derzeit an verschiedenen ladinischen Schulen. 
+Gast im Studio ist diesmal Sabine Öttl, Leiterin des Instituts für Pflanzengesundheit am Versuchszentrum Laimburg.</desc>
+  </programme>
+  <programme start="20250126205000 +0100" stop="20250126205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250126221000 +0100" stop="20250126223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
