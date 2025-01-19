@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250118180000 +0100" stop="20250118184827 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Feuernacht (Folge III)</sub-title>
-    <desc>20 Jahre Fernsehreihe Bombenjahre: Die dritte Folge zeigt die Planung, die Ausführung und die Folgen der Feuernacht im Juni 1961, bei der 43 Hochspannungsmasten fallen. 
-Von Anfang an plant der Befreiungsausschuss BAS einen großen Schlag, um die Weltöffentlichkeit auf das Südtirol-Problem aufmerksam zu machen. Der Großteil des Stroms für die Industriegebiete um Mailand und Venedig wird in Südtirol produziert. Die großen Überland-Leitungen sind daher das Ziel des BAS. Gleichzeitig will man durch den Stromausfall die Hochöfen in den Bozner Stahlwerken treffen. In der Herz-Jesu-Nacht vom 11. auf den 12. Juni 1961 schlagen die Attentäter zu. Die Aktion ist von Pannen begleitet: In Salurn wird der Straßenwärter Giovanni Postal von einer Bombe getötet.
-Neben den Anschlägen und der politischen Vorgeschichte beleuchten wir auch bisher kaum bekannte geheimdienstliche Hintergründe.</desc>
-  </programme>
-  <programme start="20250118184800 +0100" stop="20250118185446 +0100" channel="Rai Südtirol">
-    <title>dF- Frauenbilder</title>
-    <sub-title>Erika Giovanna Klien</sub-title>
-    <desc>Die Werke der Künstlerin Erika Giovanna Klien (1900-1957) hängen in angesehenen Museen. Klien war eine der wenigen Frauen der österreichischen Avantgarde. Zu Lebzeiten war sie zu modern für ihre Familie, und ihre Bilder, Objekte und Designs zu radikal für das Kunstverständnis der Zeit.</desc>
-  </programme>
-  <programme start="20250118200000 +0100" stop="20250118202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250118202100 +0100" stop="20250118202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250118202500 +0100" stop="20250118205400 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Unser Darm</sub-title>
-    <desc>Im Darm steckt die Gesundheit - das weiß man schon seit langem. Rund 100 Billionen Mikroorganismen in diesem Verdauungsorgan sind für unser Wohlbefinden und unser Immunsystem verantwortlich. 
-Im Krankenhaus Sterzing führt das Team um den Internisten Dr. Christan Wenter ca. 1000 Koloskopien im Jahr durch. Bei jeder dritten Untersuchung findet der Internist auch einen Polypen - die Vorstufe eines Tumors - oder eine Darmveränderung. Der Polyp kann schon während der Darmspiegelung entfernt werden. Dadurch ist die Gefahr, an einem Darmtumor zu erkranken, gebannt.
-Primar Guido Schumacher vom Krankenhaus Brixen ist immer wieder mit sehr jungen Darmtumor-Patienten:innen konfrontiert. Ein ungesunder Lebensstil oder eine genetische Vorbelastung könnten der Grund dafür sein. Eine Reportage von Ulli Velano und Marco Polo.</desc>
-  </programme>
-  <programme start="20250118221000 +0100" stop="20250118223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250119200000 +0100" stop="20250119202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
