@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250119200000 +0100" stop="20250119202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250119202000 +0100" stop="20250119204849 +0100" channel="Rai Südtirol">
-    <title>Giuseppe Detomaso</title>
-    <sub-title>Missionar in Äthiopien</sub-title>
-    <desc>Der Comboni-Missionar aus Buchenstein wirkte 50 Jahre lang in Äthiopien und setzte sich für die Nöte der Menschen ein. Am 13. Jänner vor zwei Jahren verstarb er - in seiner Wahlheimat Afrika.
-Padre Giuseppe Detomaso hat in mehreren Dörfern Brunnen und Schulen gebaut, Krankenstationen und Kirchen. Er war immer für die Leute da, sah ihre Bedürfnisse und Nöte. Er mochte diese Menschen und die Menschen mochten ihn - so sehr, dass er auch in Äthiopien beerdigt werden wollte. Am 13. Jänner 2023 ist Padre Giuseppe Detomaso verstorben.</desc>
-  </programme>
-  <programme start="20250119204900 +0100" stop="20250119205300 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250119221000 +0100" stop="20250119223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250120180000 +0100" stop="20250120182530 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Was spukt im Tertiarkloster von Brixen?</sub-title>
