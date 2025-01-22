@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250121200000 +0100" stop="20250121202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250121202000 +0100" stop="20250121204100 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250121204100 +0100" stop="20250121204745 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Brigitte Hofer</sub-title>
-    <desc>Die neue Gleichstellungsrätin Brigitte Hofer hat viele Ideen für ihre wichtige Aufgabe: Diskriminierung am Arbeitsplatz und Mobbing, sowie die klassischen Vereinbarkeitsthemen nimmt sie dabei in den Fokus. In ihrer Freizeit ist Brigitte Hofer Tangotänzerin und Bergbegeisterte.</desc>
-  </programme>
-  <programme start="20250121221000 +0100" stop="20250121223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250122200000 +0100" stop="20250122202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
