@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250122200000 +0100" stop="20250122202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250122202000 +0100" stop="20250122205032 +0100" channel="Rai Südtirol">
-    <title>Schuhmacher</title>
-    <sub-title>Made in Südtirol</sub-title>
-    <desc>Rund 250 Arbeitsschritte sind nötig, um einem Schuh in Handarbeit die perfekte Passform zu
-verleihen. Wir besuchen drei Südtiroler Schuhmacher in ihren Werkstätten.
-Mit Trachtenschuhen und der Reparatur von Bergschuhen hat sich der Villnösser Andreas
-Augschöll mittlerweile einen Namen gemacht hat. Die aus Klausen stammende Nora Delmonego
-ist noch in der Anfangsphase. Sie wagt sich an die Herstellung ausgefallener Damenschuhe
-heran. In der Landeshauptstadt Bozen hat sich hingegen Martin Hilpold in seiner edlen Schuhwerkstatt
-etabliert.</desc>
-  </programme>
-  <programme start="20250122221000 +0100" stop="20250122223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250123200000 +0100" stop="20250123202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
