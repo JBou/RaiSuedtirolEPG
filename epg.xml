@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250123200000 +0100" stop="20250123202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250123202000 +0100" stop="20250123204305 +0100" channel="Rai Südtirol">
-    <title>Eiswasser</title>
-    <sub-title>Tauchen am Berg</sub-title>
-    <desc>Eistauchen - nicht nur eine besondere sportliche Herausforderung, sondern auch ein Eintauchen in eine andere Dimension, in eine Welt der Stille und der völligen Abgeschiedenheit inmitten der winterlichen Berge.
-Der Bozner Tauchverein Delfinsub war einer der ersten in Italien, die diesen Versuch gewagt
-haben. Das Zusammenspiel von körperlicher und mentaler Fitness, aber auch mehrfache Checks
-der Tauchausrüstung und der Vorbereitung spielen dabei eine entscheidende Rolle. Der Film dokumentiert dieses besondere Unterfangen im Durnholzer See im Sarntal. Die größte Herausforderung war dabei der überraschende Wintereinbruch.</desc>
-  </programme>
-  <programme start="20250123204300 +0100" stop="20250123205051 +0100" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Schlittenhunde</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250123213000 +0100" stop="20250123215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Antholz beginnt heute die Biathlon-Weltcup-Woche, die gleichzeitig auch die Generalprobe für die Olympischen Winterspiele 2026 ist. In Südtirol werden im nächsten Jahr erstmals Olympische Medaillen vergeben. 
-Auch der Alpine Weltcup der Damen war bei uns zu Gast: Am Kronplatz fand der traditionelle Riesentorlauf statt. In Kühtai in Nordtirol wurden die Rodel-Weltmeister auf Naturbahn gekürt.</desc>
-  </programme>
-  <programme start="20250123221000 +0100" stop="20250123223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250124175900 +0100" stop="20250124185830 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -122,6 +93,184 @@ Gast im Studio ist diesmal Sabine Öttl, Leiterin des Instituts für Pflanzenges
     <desc/>
   </programme>
   <programme start="20250126221000 +0100" stop="20250126223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250127180000 +0100" stop="20250127181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Fußball-Oberliga ist zwar noch in Winterpause, alle Mannschaften haben ihr Training aber längst wieder aufgenommen, denn die Rückrunde beginnt nächste Woche. Wir schauen, was sich während der Pause alles getan hat. Ein Spiel hat bereits stattgefunden: die Nachtragpartie zwischen Schlusslicht Stegen und dem Tabellenzweiten Partschins.</desc>
+  </programme>
+  <programme start="20250127181400 +0100" stop="20250127182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Theateralltag</sub-title>
+    <desc>Zipp-Reporterin Fanny platzt in die letzten Proben der Volksbühne Lana. Das Stück „Brüderchen und Schwesterchen&quot; der Gebrüder Grimm steht kurz vor der Aufführung. Alles sind schon aufgeregt.  Ein &quot;Jäger&quot; ist krank, und so muss Regisseur Walter kurzerhand seine Rolle übernehmen. Schnell werden noch die wichtigsten Szenen des Jägers geprobt, während in der Maske die Kinder zu Steinen, Sternen, Raben und Füchsen verwandelt werden. Und schon hebt sich der Vorhang, die Vorstellung beginnt...</desc>
+  </programme>
+  <programme start="20250127182900 +0100" stop="20250127185833 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Franz von Walther</sub-title>
+    <desc>Er war der erste Koordinator des Senders Bozen der Rai und interessiert auch mit 91 Jahren
+noch leidenschaftlich für die Kultur und Geschichte Südtirols. Aber auch in der Musikwelt hatte er wichtige Akzente gesetzt. Franz von Walther, geboren 1933 in Bozen, ist eine prägende Persönlichkeit der Südtiroler Medienlandschaft. Nach dem Studium der Rechtswissenschaften in Florenz und Rom übernahm er als erster Koordinator die Leitung des Rai-Senders Bozen, den er über 23 Jahre hinweg bis zu seinem Ruhestand im Jahr 1998 gestaltete und prägte. Seine Leidenschaft für die Kultur und Geschichte Südtirols spiegelte sich auch in seinen weiteren Engagements wider: Als Vorsitzender des Konzertvereins und Präsident des Haydn-Orchesters setzte er Akzente, und durch seine Dokumentationen und beliebten Sendungen hinterließ er ein reiches Vermächtnis.
+Im Gespräch mit Markus Frings nimmt uns Franz von Walther mit auf eine Reise in die Vergangenheit: Er teilt Erinnerungen an seine Kindheit während der Optionszeit und gibt Einblicke in seinen bewegten beruflichen Werdegang und seine langjährige Medienerfahrung.</desc>
+  </programme>
+  <programme start="20250127200000 +0100" stop="20250127202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250127202000 +0100" stop="20250127215930 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut: Einsamkeit - eine neue Epidemie?</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Ein Satz: Ich bin einsam. Noch immer braucht es Mut, ihn zu sagen. Dabei nimmt die Einsamkeit in der Gesellschaft zu. Selbst ein voller Terminkalender schützt nicht vor dem Gefühl der Leere. 
+Die Doku von Astrid Kofler und Helmut Lechthaler zeigt: Einsam fühlen sich Menschen in Partnerschaft, arm und reich, jung und alt, Kranke, Frauen und Männer. Forscher warnen: Das wird gefährlich, Einsamkeit macht krank und fördert rechtsradikale Ideen. 
+Was aber macht unsere Gesellschaft so anfällig für Einsamkeit? Und wie finden wir zurück in Beziehung? Darüber sprechen der Psychiater Andreas Conca, Edith Moroder von der Alzheimergesellschaft Südtirol, Brigitte Waha, Bewohnerin eines Mehrgenerationenhauses in Meran, und Josef Tappeiner, Initiator der Selbsthilfegruppe Einsamkeit. Im Interview: Brigitte Hofmann, Leiterin der Caritas Telefonseelsorge und der Maler Gotthard Bonell. Gabriele Crepaz moderiert live aus dem Grieserhof in Bozen.</desc>
+  </programme>
+  <programme start="20250127221000 +0100" stop="20250127223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250128202000 +0100" stop="20250128203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250128203500 +0100" stop="20250128204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Fußball-Oberliga ist zwar noch in Winterpause, alle Mannschaften haben ihr Training aber längst wieder aufgenommen, denn die Rückrunde beginnt nächste Woche. Wir schauen, was sich während der Pause alles getan hat. Ein Spiel hat bereits stattgefunden: die Nachtragpartie zwischen Schlusslicht Stegen und dem Tabellenzweiten Partschins.</desc>
+  </programme>
+  <programme start="20250128221000 +0100" stop="20250128223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250129200000 +0100" stop="20250129202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250129202000 +0100" stop="20250129204930 +0100" channel="Rai Südtirol">
+    <title>Der Brennerpass</title>
+    <sub-title>Ein besonderer Schauplatz</sub-title>
+    <desc>Seit jeher werden Grenzen sehr unterschiedlich wahrgenommen. Ein Grenzübergang kann eine
+Brücke sein, die verbindet, aber auch eine Barriere darstellen, die trennt. Der Brenner ist beides.
+Seit der Zerreißung Tirols vor 100 Jahren war der Brennerpass ein Schauplatz der besonderen Art. Es gab Phasen der Annäherung und Öffnung, aber auch der Konflikte und Abgrenzungen.
+Als eine der wichtigsten Verkehrsachsen zwischen Nord und Süd in Europa war der Pass seit jeher Zeuge eines kontinuierlichen Personen- und Güterflusses, ein Ort der Begegnung mit
+Reisenden auf dem Weg - nicht selten in eine hoffnungsvollere Zukunft.</desc>
+  </programme>
+  <programme start="20250129221000 +0100" stop="20250129223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250130200000 +0100" stop="20250130202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250130202000 +0100" stop="20250130205112 +0100" channel="Rai Südtirol">
+    <title>Heiße Berufe im Winter</title>
+    <sub-title>Die Reportage</sub-title>
+    <desc>Im klirrend kalten Winter gibt es viele Berufe, wo ordentlich geschwitzt wird: im Fernheizwerk, in
+der Sauna, beim Ofenbau. Eine Reportage von Filmemacher Andreas Niederkofler
+Zuverlässig wird vom Biomasse-Fernheizwerk aus Wärme in die Häuser gepumpt und Strom ins Netz eingespeist. Das Werk in Rasen ist bestrebt, sich das Material für die Verbrennung aus einem Umkreis von höchstens siebzig Kilometern liefern zu lassen. Zwar ist Holz ein nachwachsender Rohstoff, jedoch müssen sich Heizwarte wie Martin Rainer Gedanken über neue Energieträger machen.
+In Reischach in der Sauna &quot;Cron4&quot; genießen jährlich 100.000 Besucher den anregenden Wechsel zwischen Heiß und Kalt. Gleich sechs Aufgussmeister bringen die Besucher zum Schwitzen.
+Der erste Ofen aus Ziegelsteinen wurde schon Ende des 14.Jahrhunderts gebaut. Seither entwickelt sich diese Handwerkskunst immer weiter. Erwin Stolzlechner baute schon mit 18 zusammen mit seinem Vater Gottfried alte Bauernöfen aus Blauschiefer. Ihre Leidenschaft gaben sie in den vergangenen fünfundzwanzig Jahren hundertfach an ihre Kunden weiter. Denn nichts ist so anziehend, wie ein kuschelig warmer Ofen, in dem das Feuer lodert.</desc>
+  </programme>
+  <programme start="20250130213000 +0100" stop="20250130215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Südtirol ist derzeit im Biathlon-Fieber: Letzte Woche fand der renommierte Weltcup in Antholz statt, der heuer auch die Generalprobe für die Olympischen Biathlonwettkämpfe 2026 war.
+Und gestern sind in Martell die Europameisterschaften mit dem Einzelbewerb der Damen und Herren gestartet. Unter den Protagonisten sind auch viele einheimische Athleten.</desc>
+  </programme>
+  <programme start="20250130221000 +0100" stop="20250130223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250131180000 +0100" stop="20250131182930 +0100" channel="Rai Südtirol">
+    <title>Der Brennerpass</title>
+    <sub-title>Ein besonderer Schauplatz</sub-title>
+    <desc>Seit jeher werden Grenzen sehr unterschiedlich wahrgenommen. Ein Grenzübergang kann eine
+Brücke sein, die verbindet, aber auch eine Barriere darstellen, die trennt. Der Brenner ist beides. Seit der Zerreißung Tirols vor 100 Jahren war der Brennerpass ein Schauplatz der besonderen Art. Es gab Phasen der Annäherung und Öffnung, aber auch der Konflikte und Abgrenzungen.
+Als eine der wichtigsten Verkehrsachsen zwischen Nord und Süd in Europa war der Pass seit jeher Zeuge eines kontinuierlichen Personen- und Güterflusses, ein Ort der Begegnung mit
+Reisenden auf dem Weg - nicht selten in eine hoffnungsvollere Zukunft.</desc>
+  </programme>
+  <programme start="20250131182900 +0100" stop="20250131185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Südtirol ist derzeit im Biathlon-Fieber: Letzte Woche fand der renommierte Weltcup in Antholz statt, der heuer auch die Generalprobe für die Olympischen Biathlonwettkämpfe 2026 war.
+Und gestern sind in Martell die Europameisterschaften mit dem Einzelbewerb der Damen und Herren gestartet. Unter den Protagonisten sind auch viele einheimische Athleten.</desc>
+  </programme>
+  <programme start="20250131200000 +0100" stop="20250131202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250131202100 +0100" stop="20250131210845 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Mailänder Prozess (Folge V)</sub-title>
+    <desc>In einer sechsteiligen Fernsehreihe wird die Zeit der Südtirol-Attentate nachgezeichnet. Der italienische Geheimdienst unterwandert den BAS, die Mailänder Prozesse beginnen.
+Im Herbst 1961 verüben österreichische Burschenschaften Anschläge in den Bahnhöfen mehrerer italienischer Städte. Die Aktion endet in einem Fiasko. Erstmals reden beteiligte Attentäter über diese Anschläge. 
+Nach der Feuernacht beginnt der italienische Geheimdienst, den BAS zu unterwandern. Von Dezember 1963 bis Juli 1964 steht die gesamte Kerschbaumer-Gruppe in Mailand vor Gericht. Der Prozess wird für die italienische Öffentlichkeit zur Nachhilfestunde in Sachen Südtirol. 
+Ergänzt wird die Dokumentation durch Archivmaterial, darunter Filmbeiträge, die zuvor noch nie zu sehen waren und Akten des italienischen Geheimdienstes. Eingestreut sind Spielszenen, in denen die Atmosphäre jener Zeit behutsam eingefangen wird.</desc>
+  </programme>
+  <programme start="20250131210800 +0100" stop="20250131213800 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Die Wissenschaftspreisträger Irene Pichler und Hermann Brugger im Porträt, der Fremdsprachenerwerb in den ladinischen Tälern und das Institut für Pflanzengesundheit der Laimburg sind diesmal Thema. In der Jänner-Ausgabe werden die beiden Träger des Wissenschaftspreises des Landes Südtirol porträtiert: Irene Pichler, Molekularbiologin an der Eurac Research, hat den Women Science Award 2024 für ihre Forschungen zur Früherkennung von Parkinson erhalten. Der Notfallmediziner Hermann Brugger hat durch seine Forschungen im hochalpinen Gelände die alpine Notfallmedizin in den vergangenen Jahrzehnten revolutioniert und dafür den Wissenschaftspreis des Landes Südtirol entgegengenommen. 
+Anschließend gehen Forschende der Fakultät für Bildungswissenschaften der Frage nach, wie Schüler:innen in den ladinischen Tälern Fremdsprachen erwerben. Das Forschungsprojekt läuft derzeit an verschiedenen ladinischen Schulen. 
+Gast im Studio ist diesmal Sabine Öttl, Leiterin des Instituts für Pflanzengesundheit am Versuchszentrum Laimburg.</desc>
+  </programme>
+  <programme start="20250131213900 +0100" stop="20250131215932 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Eisklettern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250131221000 +0100" stop="20250131223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250201180000 +0100" stop="20250201184745 +0100" channel="Rai Südtirol">
+    <title>Bombenjahre</title>
+    <sub-title>Mailänder Prozess (Folge V)</sub-title>
+    <desc>In einer sechsteiligen Fernsehreihe wird die Zeit der Südtirol-Attentate nachgezeichnet. Der italienische Geheimdienst unterwandert den BAS, die Mailänder Prozesse beginnen. Im Herbst 1961 verüben österreichische Burschenschaften Anschläge in den Bahnhöfen mehrerer italienischer Städte. Die Aktion endet in einem Fiasko. Erstmals reden beteiligte Attentäter über diese Anschläge. 
+Nach der Feuernacht beginnt der italienische Geheimdienst, den BAS zu unterwandern. Von Dezember 1963 bis Juli 1964 steht die gesamte Kerschbaumer-Gruppe in Mailand vor Gericht. Der Prozess wird für die italienische Öffentlichkeit zur Nachhilfestunde in Sachen Südtirol. 
+Ergänzt wird die Dokumentation durch Archivmaterial, darunter Filmbeiträge, die zuvor noch nie zu sehen waren und Akten des italienischen Geheimdienstes. Eingestreut sind Spielszenen, in denen die Atmosphäre jener Zeit behutsam eingefangen wird.</desc>
+  </programme>
+  <programme start="20250201184800 +0100" stop="20250201185606 +0100" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Judith Gögele</sub-title>
+    <desc>Die 46-jährige Powerfrau führt seit einigen Jahren den Weinhof Schmid-Oberrautner in Gries. Der Kommunikationsexpertin war es immer ein Anliegen, Frauen in den Mittelpunkt zu rücken.</desc>
+  </programme>
+  <programme start="20250201200000 +0100" stop="20250201202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250201202100 +0100" stop="20250201202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250201202500 +0100" stop="20250201205026 +0100" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Der ungarische Tanzlehrer András unterrichtet vom Rollstuhl aus, der slowenische Illustrator Joze zeichnet über 10.000 Karikaturen, Rekordhalter Miran fährt seit 40 Jahren per Anhalter durch die Welt.
+
+Moderatorin Sigrid Flenger stellt den Ungar András Holló vor. Er ist nach einem Motorrad-Unfall auf den Rollstuhl angewiesen. Das hält ihn aber nicht davon ab, weiterhin als Tanzlehrer zu arbeiten. Da er die Bewegungen nicht mehr vorführen kann, erklärt er sie jetzt viel gründlicher und präziser als vor seinem Unfall. 
+Miran Ipavec reist seit 40 Jahren per Anhalter durch die Welt und hat Rekorde aufgestellt. 2018 besuchte er in gut 20 Tagen 42 Länder. In Alpen Donau Adria erzählt der Slowene von seinen Reisen. 
+Der kleine Wolf Vučko war das offizielle Maskottchen bei den Olympischen Winterspielen 1984 in Sarajevo. Er wurde wurde von dem slowenischen Maler und Illustrator Jože Trobec geschaffen. Vor Jahrzehnten zeichnete er auch für Disney. Im Laufe der Jahre hat Trobec mehr als 10.000 Karikaturen gezeichnet.</desc>
+  </programme>
+  <programme start="20250201221000 +0100" stop="20250201223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
