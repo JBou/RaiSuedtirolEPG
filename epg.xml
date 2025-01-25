@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250124175900 +0100" stop="20250124185830 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Zu Gast ist Christine Lasta vom Stadttheater Bruneck, die im Ein-Personen-Stück &quot;prima facie&quot; im Februar nochmals zu erleben ist. Ein weiterer Gast von Alex Lechner ist Museion-Direktor Bart van der Heide. Vor kurzem feierten die Kabarettisten Thomas Hochkofler und Lukas Lobis das Revival ihrer Show, &quot;Leo &amp; Luis 2&quot;.
-Mit dem Stück &quot;Die Guten&quot; beäugen die Vereinigten Bühnen Bozen auf satirische Weise das ganz allgemeine (a)soziale Handeln: Wo Jahrtausende lang Hochmut, Habgier und Wollust bei den Menschen hoch im Kurs standen, scheint eine Zeitenwende gekommen. Doch ist es tatsächlich so, dass nun Nachhaltigkeit, Empathie und solidarisches Miteinander die Gesellschaft prägen? 
-Wir blicken im Kompass außerdem zurück auf 60 Jahre der Galerie Casciaro in Bozen, stellen das Buch von Julian Peter Messner vor und blicken mit Jonas Kaufmann auf sein erstes Jahr als Intendant der Festspiele Erl.</desc>
-  </programme>
-  <programme start="20250124200000 +0100" stop="20250124202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250124202100 +0100" stop="20250124210918 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Schreie in der Nacht (Folge IV)</sub-title>
-    <desc>Attentäter schildern, wie ein Großteil der BAS-Mitglieder verhaftet und grausam gefoltert wird. Bleibt die Frage, warum die Politik so lange geschwiegen hat. 
-Nach der Feuernacht 1961 schlägt der BAS wieder zu. Diesmal sind die oberitalienischen Eisenbahnlinien das Ziel. Der Staat reagiert und verhaftet beinahe alle BAS-Mitglieder. Die Gefangenen werden vor der Überstellung ins Gefängnis in Südtiroler Carabinieri-Kasernen grausam gefoltert. Mehrere Attentäter schildern in dieser Folge ihre Verhaftung und die Misshandlungen. Trauriger Höhepunkt: zwei Tote Häftlinge. Die Filmemacher Christoph Franceschini und Helmut Lechthaler gehen auch der Frage nach, warum die Politik so lange zu den Misshandlungen geschwiegen hat.</desc>
-  </programme>
-  <programme start="20250124210900 +0100" stop="20250124215716 +0100" channel="Rai Südtirol">
-    <title>Lehrer:in sein</title>
-    <sub-title>Von der Uni an die Grundschule</sub-title>
-    <desc>Wie werden angehende Lehrkräfte auf das vorbereitet, was sie ein Berufsleben lang leisten
-sollen: Schüler:innen für das Leben und das Lernen zu begeistern? Ein Film von Angelika König.
-Was braucht eine Gesellschaft, die von Umbrüchen und Krisen, komplexen Situationen und Unsicherheiten geprägt ist? Mutige und kreative Zukunftsgestalter:innen: Das sind Lehrer:innen.
-Welche Kompetenzen sind unerlässlich für den Unterricht an der Grundschule? Wer coacht sie
-im Umgang mit jenen, die aus der Rolle fallen? Wie finden sie selbst in die Rolle?
-Dieser Film von Angelika König dokumentiert erstmals in Südtirol den Weg zur Lehrerin, zum
-Lehrer mit der Kamera. Es geht um einen der wichtigsten und umstrittensten Berufe unserer
-Gesellschaft und um einen einmaligen Einblick in die universitäre Lehrausbildung in Südtirol.</desc>
-  </programme>
-  <programme start="20250124221000 +0100" stop="20250124223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250125180000 +0100" stop="20250125184818 +0100" channel="Rai Südtirol">
     <title>Bombenjahre</title>
     <sub-title>Schreie in der Nacht (Folge IV)</sub-title>
@@ -271,6 +236,29 @@ Miran Ipavec reist seit 40 Jahren per Anhalter durch die Welt und hat Rekorde au
 Der kleine Wolf Vučko war das offizielle Maskottchen bei den Olympischen Winterspielen 1984 in Sarajevo. Er wurde wurde von dem slowenischen Maler und Illustrator Jože Trobec geschaffen. Vor Jahrzehnten zeichnete er auch für Disney. Im Laufe der Jahre hat Trobec mehr als 10.000 Karikaturen gezeichnet.</desc>
   </programme>
   <programme start="20250201221000 +0100" stop="20250201223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250202200000 +0100" stop="20250202202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250202202100 +0100" stop="20250202205317 +0100" channel="Rai Südtirol">
+    <title>Der Künstler Hubert Scheibe</title>
+    <sub-title/>
+    <desc>Für dieses Filmporträt hat Filmemacher Karl Prossliner den Maler und Zeichner Hubert Scheibe
+bei seinem Besuch in das verwaiste und von Wasserschäden verwüstete Elternhaus begleitet.
+Der Gang durch die Zimmer und die Werkstatt seines Vaters wurden so zur schonungslosen
+Auseinandersetzung mit seiner eigenen Vergangenheit.</desc>
+  </programme>
+  <programme start="20250202205300 +0100" stop="20250202205700 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250202221000 +0100" stop="20250202223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
