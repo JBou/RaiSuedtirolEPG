@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250125180000 +0100" stop="20250125184818 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Schreie in der Nacht (Folge IV)</sub-title>
-    <desc>Attentäter schildern, wie ein Großteil der BAS-Mitglieder verhaftet und grausam gefoltert wird. Bleibt die Frage, warum die Politik so lange geschwiegen hat. 
-Nach der Feuernacht 1961 schlägt der BAS wieder zu. Diesmal sind die oberitalienischen Eisenbahnlinien das Ziel. Der Staat reagiert und verhaftet beinahe alle BAS-Mitglieder. Die Gefangenen werden vor der Überstellung ins Gefängnis in Südtiroler Carabinieri-Kasernen grausam gefoltert. Mehrere Attentäter schildern in dieser Folge ihre Verhaftung und die Misshandlungen. Trauriger Höhepunkt: zwei Tote Häftlinge. Die Filmemacher Christoph Franceschini und Helmut Lechthaler gehen auch der Frage nach, warum die Politik so lange zu den Misshandlungen geschwiegen hat.</desc>
-  </programme>
-  <programme start="20250125184800 +0100" stop="20250125185503 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Melitta Pitschl</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250125200000 +0100" stop="20250125202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250125202100 +0100" stop="20250125202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250125202500 +0100" stop="20250125205430 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Ein Rückblick auf den Lichterpark Lumagica in den Gärten von Schloss Trauttmansdorff, ein HGV-Stern für Futurapreis-Jurorin Inga Hosp, die neue Bio-Brotbackmischung aus Regiokorn.
-Am Ritten besuchen wir die Publizistin Inga Hosp, die seit über 30 Jahren als Jurypräsidentin des Futura-Förderpreises tätig ist und für ihr ehrenamtliches Engagement mit dem HGV-Stern ausgezeichnet wurde. Der Futurapreis fördert erfolgreiche Südtiroler:innen im Ausland.
-In diesem Winter verwandelte der Lumagica-Lichterpark die Gärten von Schloss  Trauttmansdorff in ein leuchtendes Winterwunderland. Mit dieser Premiere in Italien wurde ein neuer touristischer Akzent für die Region gesetzt.
-Eine Kooperation zwischen Tourismus, Landwirtschaft und Handel in Südtirol führt zu neuen Produkten: Die Vitalpina Hotels haben eine eigene Produktlinie entwickelt, die Regionalität und Nachhaltigkeit in den Mittelpunkt stellt. In enger Zusammenarbeit mit Südtiroler Produzenten entstanden so drei neue Produkte, z.B. die Bio-Brotbackmischung, hergestellt mit Regiokorn-Getreide von über 60 Südtiroler Bauern.</desc>
-  </programme>
-  <programme start="20250125221000 +0100" stop="20250125223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250126200000 +0100" stop="20250126202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
