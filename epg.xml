@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250126200000 +0100" stop="20250126202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250126202100 +0100" stop="20250126205030 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Die Wissenschaftspreisträger Irene Pichler und Hermann Brugger im Porträt, der Fremdsprachenerwerb in den ladinischen Tälern und das Institut für Pflanzengesundheit der Laimburg sind diesmal Thema.
-
-In der Jänner-Ausgabe werden die beiden Träger des Wissenschaftspreises des Landes Südtirol porträtiert: Irene Pichler, Molekularbiologin an der Eurac Research, hat den Women Science Award 2024 für ihre Forschungen zur Früherkennung von Parkinson erhalten. Der Notfallmediziner Hermann Brugger hat durch seine Forschungen im hochalpinen Gelände die alpine Notfallmedizin in den vergangenen Jahrzehnten revolutioniert und dafür den Wissenschaftspreis des Landes Südtirol entgegengenommen. 
-Anschließend gehen Forschende der Fakultät für Bildungswissenschaften der Frage nach, wie Schüler:innen in den ladinischen Tälern Fremdsprachen erwerben. Das Forschungsprojekt läuft derzeit an verschiedenen ladinischen Schulen. 
-Gast im Studio ist diesmal Sabine Öttl, Leiterin des Instituts für Pflanzengesundheit am Versuchszentrum Laimburg.</desc>
-  </programme>
-  <programme start="20250126205000 +0100" stop="20250126205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250126221000 +0100" stop="20250126223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250127180000 +0100" stop="20250127181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
