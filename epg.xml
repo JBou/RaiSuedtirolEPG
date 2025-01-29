@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250128200000 +0100" stop="20250128202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250128202000 +0100" stop="20250128203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250128203500 +0100" stop="20250128204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die Fußball-Oberliga ist zwar noch in Winterpause, alle Mannschaften haben ihr Training aber längst wieder aufgenommen, denn die Rückrunde beginnt nächste Woche. Wir schauen, was sich während der Pause alles getan hat. Ein Spiel hat bereits stattgefunden: die Nachtragpartie zwischen Schlusslicht Stegen und dem Tabellenzweiten Partschins.</desc>
-  </programme>
-  <programme start="20250128221000 +0100" stop="20250128223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250129200000 +0100" stop="20250129202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
