@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250201180000 +0100" stop="20250201184745 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Mailänder Prozess (Folge V)</sub-title>
-    <desc>In einer sechsteiligen Fernsehreihe wird die Zeit der Südtirol-Attentate nachgezeichnet. Der italienische Geheimdienst unterwandert den BAS, die Mailänder Prozesse beginnen. Im Herbst 1961 verüben österreichische Burschenschaften Anschläge in den Bahnhöfen mehrerer italienischer Städte. Die Aktion endet in einem Fiasko. Erstmals reden beteiligte Attentäter über diese Anschläge. 
-Nach der Feuernacht beginnt der italienische Geheimdienst, den BAS zu unterwandern. Von Dezember 1963 bis Juli 1964 steht die gesamte Kerschbaumer-Gruppe in Mailand vor Gericht. Der Prozess wird für die italienische Öffentlichkeit zur Nachhilfestunde in Sachen Südtirol. 
-Ergänzt wird die Dokumentation durch Archivmaterial, darunter Filmbeiträge, die zuvor noch nie zu sehen waren und Akten des italienischen Geheimdienstes. Eingestreut sind Spielszenen, in denen die Atmosphäre jener Zeit behutsam eingefangen wird.</desc>
-  </programme>
-  <programme start="20250201184800 +0100" stop="20250201185606 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Judith Gögele</sub-title>
-    <desc>Die 46-jährige Powerfrau führt seit einigen Jahren den Weinhof Schmid-Oberrautner in Gries. Der Kommunikationsexpertin war es immer ein Anliegen, Frauen in den Mittelpunkt zu rücken.</desc>
-  </programme>
-  <programme start="20250201200000 +0100" stop="20250201202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250201202100 +0100" stop="20250201202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250201202500 +0100" stop="20250201205026 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Der ungarische Tanzlehrer András unterrichtet vom Rollstuhl aus, der slowenische Illustrator Joze zeichnet über 10.000 Karikaturen, Rekordhalter Miran fährt seit 40 Jahren per Anhalter durch die Welt.
-
-Moderatorin Sigrid Flenger stellt den Ungar András Holló vor. Er ist nach einem Motorrad-Unfall auf den Rollstuhl angewiesen. Das hält ihn aber nicht davon ab, weiterhin als Tanzlehrer zu arbeiten. Da er die Bewegungen nicht mehr vorführen kann, erklärt er sie jetzt viel gründlicher und präziser als vor seinem Unfall. 
-Miran Ipavec reist seit 40 Jahren per Anhalter durch die Welt und hat Rekorde aufgestellt. 2018 besuchte er in gut 20 Tagen 42 Länder. In Alpen Donau Adria erzählt der Slowene von seinen Reisen. 
-Der kleine Wolf Vučko war das offizielle Maskottchen bei den Olympischen Winterspielen 1984 in Sarajevo. Er wurde wurde von dem slowenischen Maler und Illustrator Jože Trobec geschaffen. Vor Jahrzehnten zeichnete er auch für Disney. Im Laufe der Jahre hat Trobec mehr als 10.000 Karikaturen gezeichnet.</desc>
-  </programme>
-  <programme start="20250201221000 +0100" stop="20250201223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250202200000 +0100" stop="20250202202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
