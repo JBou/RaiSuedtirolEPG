@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250203180000 +0100" stop="20250203181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Fußball-Oberliga ist die Rückrunde mit zwei Südtiroler Derby gestartet: Der Tabellenzweite Partschins empfängt St. Pauls, Tramin trifft zu Hause auf den SSV Brixen. Im Spitzenspiel dieser Runde stehen sich Levico und Virtus Bozen gegenüber.</desc>
-  </programme>
-  <programme start="20250203181400 +0100" stop="20250203183330 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Bananen-Hirse-Nuss-Brot</sub-title>
-    <desc>Vor allem in der kälteren Jahreszeit ist die Banane eine der beliebtesten Früchte in Südtirol. Und mit dieser süßen Frucht backen Hannah und Martina ein Bananen-Hirse-Nuss-Brot. 
-Anschließend geht's ums Para-Eishockey: es gilt als die anspruchsvollste und schnellste aller Sportarten für Menschen mit körperlichen Einschränkungen. Um sitzend im kleinen Metallschlitten auf zwei schmalen Kufen über das Eis zu flitzen, braucht es große Geschicklichkeit, Kraft und Ausdauer. Einziger Antrieb sind zwei abgeschnittene Hockeyschläger, die auch dazu benutzt werden, den Puck Eishockey ins Tor zu schießen. 
-Die einzige Kindermannschaft Italiens in dieser paralympischen Sportart trifft sich regelmäßig in Kaltern zum Training.</desc>
-  </programme>
-  <programme start="20250203183400 +0100" stop="20250203185830 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Der ungarische Tanzlehrer András unterrichtet vom Rollstuhl aus, der slowenische Illustrator Joze zeichnet über 10.000 Karikaturen, Rekordhalter Miran fährt seit 40 Jahren per Anhalter durch die Welt. Moderatorin Sigrid Flenger stellt den Ungar András Holló vor. Er ist nach einem Motorrad-Unfall auf den Rollstuhl angewiesen. Das hält ihn aber nicht davon ab, weiterhin als Tanzlehrer zu arbeiten. Da er die Bewegungen nicht mehr vorführen kann, erklärt er sie jetzt viel gründlicher und präziser als vor seinem Unfall. 
-Miran Ipavec reist seit 40 Jahren per Anhalter durch die Welt und hat Rekorde aufgestellt. 2018 besuchte er in gut 20 Tagen 42 Länder. In Alpen Donau Adria erzählt der Slowene von seinen Reisen. 
-Der kleine Wolf Vučko war das offizielle Maskottchen bei den Olympischen Winterspielen 1984 in Sarajevo. Er wurde wurde von dem slowenischen Maler und Illustrator Jože Trobec geschaffen. Vor Jahrzehnten zeichnete er auch für Disney. Im Laufe der Jahre hat Trobec mehr als 10.000 Karikaturen gezeichnet.</desc>
-  </programme>
-  <programme start="20250203200000 +0100" stop="20250203202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250203202000 +0100" stop="20250203211937 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20250203211900 +0100" stop="20250203215923 +0100" channel="Rai Südtirol">
-    <title>Sternenkinder</title>
-    <sub-title/>
-    <desc>Obwohl etwa jede sechste Schwangerschaft in einem Verlust endet, wird noch immer zu wenig über Fehlgeburten und Stille Geburten gesprochen. Eine Doku von Barbara Plagg und Jörg Oschmann bricht dieses Tabu.
-Eltern von Sternenkindern bekommen hier den Raum, über den Verlust eines ungeborenen Kindes zu sprechen. Sie erzählen von Trauer, Schuldgefühlen, Blutungen, Stille Geburten und über die unbeholfenen Reaktionen ihres Umfeldes. Sie schildern ihre Versuche der Aufarbeitung, was ihnen geholfen hat, was sie verletzte. Neben den Sternenkind-Eltern kommen Mediziner:innen, Hebammen, Krisenbegleiterinnen und Psychologinnen zu Wort, die Mütter und Väter während und nach einer Fehlgeburt oder einer Stillen Geburt - einer Totgeburt - begleiten. 
-Damit brechen sie das Tabu auf und schaffen eine wertvolle Hilfe für Nicht-Betroffene, wie mit Fehlgeburten und Stillen Geburt, aber auch mit Trauer besser umgegangen werden kann.</desc>
-  </programme>
-  <programme start="20250203221000 +0100" stop="20250203223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250204200000 +0100" stop="20250204202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
