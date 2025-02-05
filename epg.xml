@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250204200000 +0100" stop="20250204202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250204202000 +0100" stop="20250204203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250204203500 +0100" stop="20250204204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Fußball-Oberliga ist die Rückrunde mit zwei Südtiroler Derby gestartet: Der Tabellenzweite Partschins empfängt St. Pauls, Tramin trifft zu Hause auf den SSV Brixen. Im Spitzenspiel dieser Runde stehen sich Levico und Virtus Bozen gegenüber.</desc>
-  </programme>
-  <programme start="20250204221000 +0100" stop="20250204223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250205200000 +0100" stop="20250205202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
