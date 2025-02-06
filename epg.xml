@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250205200000 +0100" stop="20250205202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250205202000 +0100" stop="20250205204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Die Firma Loacker bedeutet nicht nur 100 Jahre Südtiroler Wirtschaftsgeschichte - der Waffelhersteller mit Stammsitz in Unterinn am Ritten zeigt, wie sich mit kontinuierlicher Innovation ein Unternehmen von Weltrang in seinem Sektor aufbauen lässt. 
-Verspielt Südtirol seinen Wohlstand? Was braucht es, um den Standort Südtirol für Unternehmen und für die Bevölkerung im Land attraktiv zu erhalten? Solche Fragen stellt Trend dem Landeshauptmann Arno Kompatscher, dem Hightech-Unternehmer Philipp Senoner von Alpitronic und Tamara Benetti, die bei der Topmanagement-Beratung McKinsey gearbeitet hat und heute als Digitalnomadin an verschiedensten Orten der Welt arbeitet und auf Südtirol blickt. Anlass für die Gespräche ist die Aufzeichnung des 100.Podcasts der Südtiroler Wirtschaftszeitung in der Messe Bozen. 
-Die Arbeit mit Künstlicher Intelligenz ist ein weiteres Thema, das den Unternehmen unter den Nägeln brennt: Wie kleine Unternehmen, so z.B. auch Handwerksbetreibe, den Einstieg in die praktische Anwendung von KI im Bereich Marketing und Kommunikation schaffen können, erklärt Barbara Herbst. Die österreichische KI-Beraterin und Medien-Expertin trifft Trend bei einem Workshop in der BASIS Schlanders.</desc>
-  </programme>
-  <programme start="20250205221000 +0100" stop="20250205223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250206200000 +0100" stop="20250206202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
