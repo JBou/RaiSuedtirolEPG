@@ -4,37 +4,11 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250206200000 +0100" stop="20250206202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250206202000 +0100" stop="20250206204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Spielen</sub-title>
-    <desc>Über den Spieltrieb von Kindern, Erwachsenen, aber auch von Tieren. Zu Gast ist die Streamerin Caroline Forer, die das Spielen zu ihrem Beruf gemacht hat. Es moderiert Karin Gschnitzer. 
-
-Kinder lernen nicht nur "spielend leicht", sondern das Spielen ist auch ihre Art zu lernen.  Denn sie sind von Natur aus neugierig und möchten die Welt entdecken. Doch nicht nur Kinder, auch Erwachsene spielen mindestens genauso gerne.
-Zu Gast im ersten Südtirol Magazin im neuen Jahr ist die Gamerin und Streamerin Caroline Forer, alias Naguuna. Sie hat ihr Hobby zum Beruf gemacht hat, indem sie online alleine oder mit anderen gemeinsam das spielt, was ihr gefällt.
-In der Rubrik "Unser Gedächtnis" zeigen wir Aufnahmen aus dem Amt für Film und Medien über die Mehrkampfmeisterschaft, und wir informieren in der Rubrik "Schon gewusst" über den Spieltrieb von Tieren.</desc>
-  </programme>
-  <programme start="20250206213000 +0100" stop="20250206215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Martell sind die Biathlon-Europameisterschaften mit den Verfolgungsrennen und den Staffel-Bewerben zu Ende gegangen. 
-Der Europacup der Snowboarder gastierte in Ratschings, in Gröden fand ein Slalom des Marlene Cup's statt. 
-Beim Raiffeisen-Langlauf-Cup in Reischach wurden die Landesmeister im Hindernissprint gekürt.</desc>
-  </programme>
-  <programme start="20250206221000 +0100" stop="20250206223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250207180000 +0100" stop="20250207182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
     <desc>Über den Spieltrieb von Kindern, Erwachsenen, aber auch von Tieren. Zu Gast ist die Streamerin Caroline Forer, die das Spielen zu ihrem Beruf gemacht hat. Es moderiert Karin Gschnitzer. Kinder lernen nicht nur "spielend leicht", sondern das Spielen ist auch ihre Art zu lernen.  Denn sie sind von Natur aus neugierig und möchten die Welt entdecken. Doch nicht nur Kinder, auch Erwachsene spielen mindestens genauso gerne.
-Zu Gast im ersten Südtirol Magazin im neuen Jahr ist die Gamerin und Streamerin Caroline Forer, alias Naguuna. Sie hat ihr Hobby zum Beruf gemacht hat, indem sie online alleine oder mit anderen gemeinsam das spielt, was ihr gefällt.
+Zu Gast im ersten Südtirol Magazin im neuen Jahr ist die Gamerin und Streamerin Caroline Forer, alias Naguura. Sie hat ihr Hobby zum Beruf gemacht hat, indem sie online alleine oder mit anderen gemeinsam das spielt, was ihr gefällt.
 In der Rubrik "Unser Gedächtnis" zeigen wir Aufnahmen aus dem Amt für Film und Medien über die Mehrkampfmeisterschaft, und wir informieren in der Rubrik "Schon gewusst" über den Spieltrieb von Tieren.</desc>
   </programme>
   <programme start="20250207182900 +0100" stop="20250207185830 +0100" channel="Rai Südtirol">
@@ -142,6 +116,195 @@ Mit dabei in der Sendung sind auch die drei Schwestern vom Gasthof Waldbichl, ei
     <desc/>
   </programme>
   <programme start="20250209221000 +0100" stop="20250209223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250210180000 +0100" stop="20250210181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Gleich drei Südtiroler Derby standen am zweiten Spieltag in der Fussball-Oberliga auf dem Programm: Tabellenführer Obermais empfing Tramin, St. Pauls hatte Schlusslicht Stegen zu Gast, und im Bozner Stadtderby standen sich Virtus und der Bozner FC gegenüber.</desc>
+  </programme>
+  <programme start="20250210181400 +0100" stop="20250210182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Karamela im Restaurant</sub-title>
+    <desc>Clownfrau Karamela wird in ein Restaurant eingeladen und ist sofort begeistert vom gemütlichen Ambiente und dem herzlichen Service. In der schaut sie den fleißigen Köchinnen über die Schulter - und versucht mitzuhelfen, soweit eine Clownfrau eben helfen kann. 
+Ein himmlischer Duft erfüllt den Raum, denn die Patissière bereitet gerade Schokoladenpudding zu.  An der Bar mixen die Baristas Cocktails und frisch gepresste Säfte. Karamela fühlt sich rundum wohl in diesem Restaurant und ist beeindruckt vom perfekten Zusammenspiel der vielen Berufe im Gastgewerbe.</desc>
+  </programme>
+  <programme start="20250210182900 +0100" stop="20250210185830 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Die VinziShower, die psychosoziale Beratung in Schlanders, Ex-Handbikerin Claudia Schuler unterwegs als Reporterin und die Bedeutung von Mariä Lichtmess. Moderation: Lisa Hintner. Bei Armut und Obdachlosigkeit geraten Selbstverständlichkeiten wie das Duschen oft in den Hintergrund. Doch die Möglichkeit zur Körperpflege gehört zu einem würdevollen Leben. In Bozen gibt es seit bald zwei Jahren die VinziShower.
+Südtirols ehemals beste Handbikerin Claudia Schuler erzählt, wie wichtig gelebte Inklusion ist. Als Reporterin wird sie in den nächsten Sendungen Beiträge gestalten und Interviews führen.
+Vor über 40 Jahren ist in Schlanders aus einer privaten Initiative der psychosoziale Dienst entstanden. Er kümmert sich nach wie vor um die Beratung und Begleitung von Menschen, die in die Abhängigkeit legaler Substanzen geraten sind, doch sein Tätigkeitsfeld ist viel größer geworden.
+Mariä Lichtmess wird von der katholischen Kirche als das "Fest der Darstellung des Herrn" gefeiert, traditionell damit verbunden waren Lichterprozessionen und Kerzenweihen. Maria Lichtmess hatte jahrhundertelang auch eine Bedeutung im bäuerlichen Leben: Mägde und Knechte bekamen ihren Jahreslohn. Die heilkräuterkundige Autorin Irene Hager Strobele verweist auf das keltische Lichterfest Imbole, das in der Nacht zum 1.Februar gefeiert wurde.</desc>
+  </programme>
+  <programme start="20250210200000 +0100" stop="20250210202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250210202000 +0100" stop="20250210211638 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Farbenfroh, lebendig und nahe dran am Kulturgeschehen in Südtirol, so präsentiert sich das Kulturmagazin "Kompass - Szenen der Kultur".
+ 
+Zu Gast ist Rudolf Frey, Intendant der Vereinigten Bühnen Bozen, der derzeit das Musical Rent inszeniert und Julia Aufderklamm, die das Jukibuz im Südtiroler Kulturinstitut leitet. 
+Das Theater in der Altstadt in Meran thematisiert mit dem mehrfach ausgezeichneten Jugendstück "Das Herz eines Boxers" die Annäherung zweier Menschen, die das Hindernis Altersunterschied erfolgreich überwinden. Der 16jährige Jojo muss in einem Seniorenheim eine Jugendstrafe absolvieren und freundet sich mit einem ehemaligen alten Boxer an, der nur einen Wunsch hat: nämlich aus dem Heim zu flüchten.
+Zum 30. Todesjahr des Politikers Alexander Langer begibt sich die Dekadenz auf eine vielschichtige Spurensuche. "Himmelfahrtsrisse" verzichtet auf eine historisch lückenlose Biografie und wählt stattdessen einen subjektiven, künstlerischen Zugang zu Langers Leben und Wirken. Inspiriert von seinen Schriften, Gesprächen mit Wegbegleiter:innen und einer Reflexion seines zeithistorischen Kontextes fragt die Inszenierung, wie ein Leben in Verantwortung gelingen kann – gegenüber der Umwelt, den Mitmenschen und sich selbst.
+Wir berichten in Kompass außerdem über die neue Ausstellung im Palais Mamming, kuratiert von Ursula Schnitzer, stellen den neuen Kurator der Stadtgalerie Brixen vor  und besuchen die Musikerin Petra Lantschner in Wien.</desc>
+  </programme>
+  <programme start="20250210211600 +0100" stop="20250210215922 +0100" channel="Rai Südtirol">
+    <title>Victoria Dejaco</title>
+    <sub-title>Die Galeristin</sub-title>
+    <desc>Von Brixen in die internationale Kunstszene. Victoria Dejaco ist aber auch eine Symbolfigur für
+ein selbstbestimmtes Frauenleben jenseits alter Geschlechterrollen. Die Brixner Kunsthistorikerin Victoria Dejaco ist als Galeristin, Kuratorin, Publizistin und Gründerin eine bekannte Persönlichkeit in Wiens Kunstszene. Sie führt mit einem Partner die Galerie Wonnerth/Dejaco im ersten Wiener Gemeindebezirk und hat das Start-up simplify.art gegründet, für das sie mehr als 1 Million Euro an Finanzierungen aufstellen konnte. Eine erfolgreiche Auslands-Südtirolerin, die aber nicht nur wegen ihrer steilen Karriere in der Tech- und Kunstszene interessant ist.
+Die Brixnerin ist auch eine beispielhafte Vertreterin einer Generation, in der die Samen des
+Kampfes um ein gleichberechtigtes und selbstbestimmtes Frauenleben aufgehen. Klare Zeichen dafür sind ihr Selbstbewusstsein, ihr Mut oder auch ihre große Stärke im Bereich Netzwerken - einer Fähigkeit, die traditionell Männern zugesprochen wird.
+Doch auch in ihrem Privatleben verlässt die Kunstexpertin herkömmliche Geschlechterrollen,
+lebte lange Zeit in gleichgeschlechtlichen Beziehungen und nun wieder mit einem Mann. Mit
+neuen Lebenskonzepten definiert sie Familienbande neu, tritt in ihrem Tun überzeugt gegen Diskriminierungen jeglicher Art auf. Ein Film von Susanne Pitro</desc>
+  </programme>
+  <programme start="20250210221000 +0100" stop="20250210223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250211200000 +0100" stop="20250211202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250211202000 +0100" stop="20250211203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250211203500 +0100" stop="20250211204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Gleich drei Südtiroler Derby standen am zweiten Spieltag in der Fussball-Oberliga auf dem Programm: Tabellenführer Obermais empfing Tramin, St. Pauls hatte Schlusslicht Stegen zu Gast, und im Bozner Stadtderby standen sich Virtus und der Bozner FC gegenüber.</desc>
+  </programme>
+  <programme start="20250211221000 +0100" stop="20250211223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250212200000 +0100" stop="20250212202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250212202000 +0100" stop="20250212204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wie geht es den heimischen Autozulieferbetrieben? Was muss ich bei der nächsten Steuererklärung beachten? Warum steht die Vinschgerbahn zwischen Laas und Mals still? Welche Innovationen gibt es im Holzbau?
+
+Wir werfen einen Blick auf die derzeitige Situation im Autozuliefersektor und analysieren mit dem ASGB die aktuellen Herausforderungen dieser wichtigen Branche.
+Wir erhalten wichtige Informationen über die neuesten steuerlichen Änderungen für das Jahr 2025. Wir informieren über die Auswirkungen der Sperrung der Vinschgerbahn zwischen Mals und Laas und beleuchten die Notwendigkeit der Sperrung und die zukünftigen Vorteile der neuen Elektrozüge.
+Innovation beginnt nicht mit Technologien, sondern immer bei den Menschen, die hinter den Ideen stehen: das ist die Firmenphilosophie bei Rubner Ingenieurholzbau.</desc>
+  </programme>
+  <programme start="20250212221000 +0100" stop="20250212223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250213200000 +0100" stop="20250213202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250213202000 +0100" stop="20250213204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fernweh</sub-title>
+    <desc>Fernweh ist die Sehnsucht nach einem Ort unseres Begehrens, verbunden mit dem Bedürfnis nach Aufbruch. Doch wie entsteht Fernweh und wie fühlt es sich an? Wir zeigen im Südtirol Magazin einige Beispiele.  
+
+Zu Gast ist Milena Favretto vom Europäischen Verbraucherzentrum. Mit ihr spricht Moderatorin Magdalena Oberstaller darüber, ob nachhaltiges Reisen möglich ist. 
+Außerdem starten wir mit der Reihe "So isst Euregio", die uns kulinarisch durch das ganze Jahr begleiten wird.</desc>
+  </programme>
+  <programme start="20250213213000 +0100" stop="20250213215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Tagen endet in Saalbach mit den Slalombewerben die alpine Skiweltmeisterschaft. Alex Vinatzer, Bronzemedaillen-Gewinner der letzten WM in Frankreich, möchte heuer erneut aufs Podest steigen. 
+Die Biathlon-WM hat hingegen gestern in Lenzerheide mit der Mixed-Staffel begonnen. Im italienischen Aufgebot stehen mit Dorothea Wierer, Hannah Auchentaller und Lukas Hofer auch drei Südtiroler:innen.</desc>
+  </programme>
+  <programme start="20250213221000 +0100" stop="20250213223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250214180000 +0100" stop="20250214182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fernweh</sub-title>
+    <desc>Fernweh ist die Sehnsucht nach einem Ort unseres Begehrens, verbunden mit dem Bedürfnis nach Aufbruch. Doch wie entsteht Fernweh und wie fühlt es sich an? Wir zeigen im Südtirol Magazin einige Beispiele.  
+Zu Gast ist Milena Favretto vom Europäischen Verbraucherzentrum. Mit ihr spricht Moderatorin Magdalena Oberstaller darüber, ob nachhaltiges Reisen möglich ist. 
+Außerdem starten wir mit der Reihe "So isst Euregio", die uns kulinarisch durch das ganze Jahr begleiten wird.</desc>
+  </programme>
+  <programme start="20250214182900 +0100" stop="20250214185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Tagen endet in Saalbach mit den Slalombewerben die alpine Skiweltmeisterschaft. Alex Vinatzer, Bronzemedaillen-Gewinner der letzten WM in Frankreich, möchte heuer erneut aufs Podest steigen. 
+Die Biathlon-WM hat hingegen gestern in Lenzerheide mit der Mixed-Staffel begonnen. Im italienischen Aufgebot stehen mit Dorothea Wierer, Hannah Auchentaller und Lukas Hofer auch drei Südtiroler:innen.</desc>
+  </programme>
+  <programme start="20250214200000 +0100" stop="20250214202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250214202100 +0100" stop="20250214211930 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol ist diesmal im Land unterwegs, um Projekten und Dingen bei ihrer Entstehung über die Schulter zu blicken: Es geht um unterschiedliche zukunftsweisende Ideen und um Geigenbau. 
+
+Karin Duregger trifft auf drei Menschen, die die Zukunft bewusst gestalten möchten: Ein Städteplaner, ein ehemaliger Lehrer und Mitglied der öko-sozialen Bewegung und eine Theaterpädagogin gewähren Einblicke in ihre Visionen, die vor allem auf ein gemeinschaftliches Miteinander in der Gesellschaft abzielen. Die Devise aller drei lautet: Weitermachen, auch wenn man mal scheitert.
+Bei "Angeklopft" erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen dbei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
+  </programme>
+  <programme start="20250214211900 +0100" stop="20250214214750 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Ein Rückblick auf den Lichterpark Lumagica in den Gärten von Schloss Trauttmansdorff, ein HGV-Stern für Futurapreis-Jurorin Inga Hosp, die neue Bio-Brotbackmischung aus Regiokorn. Am Ritten besuchen wir die Publizistin Inga Hosp, die seit über 30 Jahren als Jurypräsidentin des Futura-Förderpreises tätig ist und für ihr ehrenamtliches Engagement mit dem HGV-Stern ausgezeichnet wurde. Der Futurapreis fördert erfolgreiche Südtiroler:innen im Ausland.
+In diesem Winter verwandelte der Lumagica-Lichterpark die Gärten von Schloss  Trauttmansdorff in ein leuchtendes Winterwunderland. Mit dieser Premiere in Italien wurde ein neuer touristischer Akzent für die Region gesetzt.
+Eine Kooperation zwischen Tourismus, Landwirtschaft und Handel in Südtirol führt zu neuen Produkten: Die Vitalpina Hotels haben eine eigene Produktlinie entwickelt, die Regionalität und Nachhaltigkeit in den Mittelpunkt stellt. In enger Zusammenarbeit mit Südtiroler Produzenten entstanden so drei neue Produkte, z.B. die Bio-Brotbackmischung, hergestellt mit Regiokorn-Getreide von über 60 Südtiroler Bauern.</desc>
+  </programme>
+  <programme start="20250214214800 +0100" stop="20250214215904 +0100" channel="Rai Südtirol">
+    <title>Auf weiß roten Spuren in Frankreich</title>
+    <sub-title>Andreas Kofler</sub-title>
+    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. "Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können," sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
+  </programme>
+  <programme start="20250214221000 +0100" stop="20250214223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250215180000 +0100" stop="20250215185800 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Farbenfroh, lebendig und nahe dran am Kulturgeschehen in Südtirol, so präsentiert sich das Kulturmagazin "Kompass - Szenen der Kultur". 
+Zu Gast ist Rudolf Frey, Intendant der Vereinigten Bühnen Bozen, der derzeit das Musical Rent inszeniert und Julia Aufderklamm, die das Jukibuz im Südtiroler Kulturinstitut leitet. 
+Das Theater in der Altstadt in Meran thematisiert mit dem mehrfach ausgezeichneten Jugendstück "Das Herz eines Boxers" die Annäherung zweier Menschen, die das Hindernis Altersunterschied erfolgreich überwinden. Der 16jährige Jojo muss in einem Seniorenheim eine Jugendstrafe absolvieren und freundet sich mit einem ehemaligen alten Boxer an, der nur einen Wunsch hat: nämlich aus dem Heim zu flüchten.
+Zum 30. Todesjahr des Politikers Alexander Langer begibt sich die Dekadenz auf eine vielschichtige Spurensuche. "Himmelfahrtsrisse" verzichtet auf eine historisch lückenlose Biografie und wählt stattdessen einen subjektiven, künstlerischen Zugang zu Langers Leben und Wirken. Inspiriert von seinen Schriften, Gesprächen mit Wegbegleiter:innen und einer Reflexion seines zeithistorischen Kontextes fragt die Inszenierung, wie ein Leben in Verantwortung gelingen kann – gegenüber der Umwelt, den Mitmenschen und sich selbst.
+Wir berichten in Kompass außerdem über die neue Ausstellung im Palais Mamming, kuratiert von Ursula Schnitzer, stellen den neuen Kurator der Stadtgalerie Brixen vor  und besuchen die Musikerin Petra Lantschner in Wien.</desc>
+  </programme>
+  <programme start="20250215200000 +0100" stop="20250215202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250215202100 +0100" stop="20250215202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250215202500 +0100" stop="20250215205430 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Unsere Hände</sub-title>
+    <desc>Unsere Hände - sie sind Werkzeuge, Sinnesorgane und Ausdrucksmittel zugleich. Doch wie können wir sie gesund erhalten und was tun, wenn ihre Funktion eingeschränkt ist?
+
+Hände sind Meisterwerke der Anatomie, aber anfällig für Erkrankungen wie Morbus Dupuytren, bei dem sich die Finger zunehmend verkrümmen. Dr. Markus Mariacher zeigt im Operationssaal, wie dieser Zustand behandelt werden kann.
+Auch Probleme wie das Karpaltunnelsyndrom oder die Rhizarthrose stehen im Fokus: Innovative Lösungen kommen von Dr. Alexander Gardetto, der moderne Fingerprothesen vorstellt. Diese helfen Betroffenen, ihre Beweglichkeit und Lebensqualität zurückzugewinnen. 
+Ein weiterer Schwerpunkt liegt auf Prävention und Pflege: Von der richtigen Hand- und Nagelpflege bis hin zu Tipps, wie wir unsere Hände vor Überlastung und Verletzungen schützen können. Bei der Dermatologin Dr. Laura Butta oder dem Handspezialisten Dr. Ivo Tarfusser sind die Patient:innen dabei in besten Händen.</desc>
+  </programme>
+  <programme start="20250215221000 +0100" stop="20250215223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
