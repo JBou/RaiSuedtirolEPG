@@ -4,59 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250207180000 +0100" stop="20250207182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Über den Spieltrieb von Kindern, Erwachsenen, aber auch von Tieren. Zu Gast ist die Streamerin Caroline Forer, die das Spielen zu ihrem Beruf gemacht hat. Es moderiert Karin Gschnitzer. Kinder lernen nicht nur "spielend leicht", sondern das Spielen ist auch ihre Art zu lernen.  Denn sie sind von Natur aus neugierig und möchten die Welt entdecken. Doch nicht nur Kinder, auch Erwachsene spielen mindestens genauso gerne.
-Zu Gast im ersten Südtirol Magazin im neuen Jahr ist die Gamerin und Streamerin Caroline Forer, alias Naguura. Sie hat ihr Hobby zum Beruf gemacht hat, indem sie online alleine oder mit anderen gemeinsam das spielt, was ihr gefällt.
-In der Rubrik "Unser Gedächtnis" zeigen wir Aufnahmen aus dem Amt für Film und Medien über die Mehrkampfmeisterschaft, und wir informieren in der Rubrik "Schon gewusst" über den Spieltrieb von Tieren.</desc>
-  </programme>
-  <programme start="20250207182900 +0100" stop="20250207185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Martell sind die Biathlon-Europameisterschaften mit den Verfolgungsrennen und den Staffel-Bewerben zu Ende gegangen. 
-Der Europacup der Snowboarder gastierte in Ratschings, in Gröden fand ein Slalom des Marlene Cup's statt. 
-Beim Raiffeisen-Langlauf-Cup in Reischach wurden die Landesmeister im Hindernissprint gekürt.</desc>
-  </programme>
-  <programme start="20250207200000 +0100" stop="20250207202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250207202100 +0100" stop="20250207210746 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Der Amplatz-Mord (Folge VI)</sub-title>
-    <desc>In den frühen Morgenstunden des 6. September 1964 wird in einer Almhütte ober Saltaus im Passeiertal auf zwei Attentäter geschossen: Luis Amplatz ist sofort tot, Jörg Klotz wird schwer verletzt. 
-Der Täter ist der Nordtiroler Journalist Christian Kerbler. Er war von der Bozner Quästur als Agent angeworben und mit einer Dienstpistole der Carabinieri ausgestattet worden. Im Film werden anhand bisher kaum bekannter Geheimdienst-Dokumente die wahre Geschichte von Christian Kerbler und die Hintergründe des Mordes an Luis Amplatz nachgestellt. Zu hören ist zudem ein Zeitdokument, ein Interview, das Christian Kerbler wenige Monate vor der Tat mit Jörg Klotz geführt hat. 
-Damit endet die sechsteilige Dokureihe von Christoph Franceschini und Helmut Lechthaler, die vor 20 Jahren entstanden ist.</desc>
-  </programme>
-  <programme start="20250207210700 +0100" stop="20250207215357 +0100" channel="Rai Südtirol">
-    <title>Lernen, Leben, Kämpfen</title>
-    <sub-title> Geschichte des Studierens in Österreich</sub-title>
-    <desc>Zeitzeugen und Experten erzählen über den Alltag, die Revolten, die kreativen Triumphe von
-Studierenden in Österreich seit der Gründung der Ersten Republik vor 120 Jahren. Geschichte
-des Studierens in Österreich.
-Zu Beginn des 20. Jahrhunderts beginnt sich die Universität radikal zu verändern. Es ist eine Zeit
-großer, oft gewalttätiger Auseinandersetzungen und Kämpfe, die schließlich im Austrofaschismus
-und Nationalsozialismus in eine Periode studentischer Grabesruhe übergeht. Das Lebensgefühl von Studenten und Studentinnen wandelt sich in diesen 120 Jahren vollkommen. Sind am Anfang noch Corpsgeist, völkische, bündische und religiöse Zugehörigkeit prägend, wird die Universität ab den späten 1960er Jahren zum Raum der Freiheit, der Revolte, der Kunst, des sozialen und sexuellen Experiments. Die Dokumentation von Peter Beringer zieht Bilanz. Sie lässt Zeitzeugen
-und Experten zu Wort kommen, die über die Kämpfe, die Revolten, die kreativen Triumphe, die
-Exzesse und Irrwege des Lebens von Studenten und Studentinnen seit Gründung der Ersten Republik berichten. Der Film zeigt Archivmaterial sowie Kunst und Alltagskultur aus einem Jahrhundert Studentenleben.</desc>
-  </programme>
-  <programme start="20250207215400 +0100" stop="20250207215911 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Die Musikerin Johanna Blum</sub-title>
-    <desc>Musik war das bestimmende Element der Boznerin Johanna Blum, die als Organistin, Chorleiterin
-und Musikpädagogin gewirkt hat.
-Blum war als tatkräftige und unerschrockene Frau bekannt und geschätzt. Als Musikexpertin
-reiste sie um die Welt. Sie hat unter anderem die Musikschulen mitgegründet, wofür sie auch
-ausgezeichnet wurde.
-Ein filmisches Porträt in der Reihe "dF-Frauenbilder".</desc>
-  </programme>
-  <programme start="20250207221000 +0100" stop="20250207223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250208180000 +0100" stop="20250208184646 +0100" channel="Rai Südtirol">
     <title>Bombenjahre</title>
     <sub-title>Der Amplatz-Mord (Folge VI)</sub-title>
@@ -305,6 +252,28 @@ Auch Probleme wie das Karpaltunnelsyndrom oder die Rhizarthrose stehen im Fokus:
 Ein weiterer Schwerpunkt liegt auf Prävention und Pflege: Von der richtigen Hand- und Nagelpflege bis hin zu Tipps, wie wir unsere Hände vor Überlastung und Verletzungen schützen können. Bei der Dermatologin Dr. Laura Butta oder dem Handspezialisten Dr. Ivo Tarfusser sind die Patient:innen dabei in besten Händen.</desc>
   </programme>
   <programme start="20250215221000 +0100" stop="20250215223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250216200000 +0100" stop="20250216202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250216202100 +0100" stop="20250216205030 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Helmuth Köcher</sub-title>
+    <desc>Helmuth Köcher, geboren in Meran, wurde bereits in jungen Jahren von seinem Elternhaus in die hohe Kunst des Genusses von Essen und Wein eingeführt. Es blieb seine Leidenschaft. 
+
+Seine Großmutter stammte von einem Weingut, sein Großvater aus einer traditionsreichen Weberfamilie. Auf einer seiner zahlreichen Reisen entdeckte Köcher seine Leidenschaft für die Bordeaux-Region, ihre Weine und malerischen Weinberge. In der Sendung "Privat" mit Markus Frings gibt Helmuth Köcher spannende Einblicke in sein Leben, seine Liebe zur Weinkultur und er erzählt, wie es zur Gründung des Merano WineFestivals kam.</desc>
+  </programme>
+  <programme start="20250216205000 +0100" stop="20250216205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250216221000 +0100" stop="20250216223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
