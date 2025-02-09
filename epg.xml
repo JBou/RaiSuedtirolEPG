@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250208180000 +0100" stop="20250208184646 +0100" channel="Rai Südtirol">
-    <title>Bombenjahre</title>
-    <sub-title>Der Amplatz-Mord (Folge VI)</sub-title>
-    <desc>In den frühen Morgenstunden des 6. September 1964 wird in einer Almhütte ober Saltaus im Passeiertal auf zwei Attentäter geschossen: Luis Amplatz ist sofort tot, Jörg Klotz wird schwer verletzt. 
-Der Täter ist der Nordtiroler Journalist Christian Kerbler. Er war von der Bozner Quästur als Agent angeworben und mit einer Dienstpistole der Carabinieri ausgestattet worden. Im Film werden anhand bisher kaum bekannter Geheimdienst-Dokumente die wahre Geschichte von Christian Kerbler und die Hintergründe des Mordes an Luis Amplatz nachgestellt. Zu hören ist zudem ein Zeitdokument, ein Interview, das Christian Kerbler wenige Monate vor der Tat mit Jörg Klotz geführt hat. 
-Damit endet die sechsteilige Dokureihe von Christoph Franceschini und Helmut Lechthaler, die vor 20 Jahren entstanden ist.</desc>
-  </programme>
-  <programme start="20250208184700 +0100" stop="20250208185608 +0100" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Christine Clignon</sub-title>
-    <desc>Die Präsidentin des Vereins GEA-Kontaktstelle gegen Gewalt engagiert sich für die Rechte und
-den Schutz von Frauen.</desc>
-  </programme>
-  <programme start="20250208200000 +0100" stop="20250208202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250208202100 +0100" stop="20250208202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250208202500 +0100" stop="20250208205430 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Die VinziShower, die Kino-Freitag-Treffs für Senioren, Ex-Handbikerin Claudia Schuler unterwegs als Reporterin und die Bedeutung von Mariä Lichtmess. Moderation: Lisa Hintner.
-
-Bei Armut und Obdachlosigkeit geraten Selbstverständlichkeiten wie das Duschen oft in den Hintergrund. Doch die Möglichkeit zur Körperpflege gehört zu einem würdevollen Leben. In Bozen gibt es seit bald zwei Jahren die VinziShower.
-Ein Kinobesuch ist ein Gemeinschaftserlebnis, das besonders ältere Menschen schätzen. Der Bozner Filmclub organisiert zusammen mit der Arbeitsgemeinschaft Senioren die Kino-Freitag-Treffs, wo Komödien mit Tiefgang präsentiert werden.
-Südtirols ehemals beste Handbikerin Claudia Schuler erzählt, wie wichtig gelebte Inklusion ist. Als Reporterin wird sie in den nächsten Sendungen Beiträge gestalten und Interviews führen.
-Mariä Lichtmess wird von der katholischen Kirche als das "Fest der Darstellung des Herrn" gefeiert, traditionell damit verbunden waren Lichterprozessionen und Kerzenweihen. Maria Lichtmess hatte jahrhundertelang auch eine Bedeutung im bäuerlichen Leben: Mägde und Knechte bekamen ihren Jahreslohn. Die heilkräuterkundige Autorin Irene Hager Strobele verweist auf das keltische Lichterfest Imbole, das in der Nacht zum 1.Februar gefeiert wurde.</desc>
-  </programme>
-  <programme start="20250208221000 +0100" stop="20250208223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250209200000 +0100" stop="20250209202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
