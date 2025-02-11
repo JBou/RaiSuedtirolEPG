@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250210180000 +0100" stop="20250210181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Gleich drei Südtiroler Derby standen am zweiten Spieltag in der Fussball-Oberliga auf dem Programm: Tabellenführer Obermais empfing Tramin, St. Pauls hatte Schlusslicht Stegen zu Gast, und im Bozner Stadtderby standen sich Virtus und der Bozner FC gegenüber.</desc>
-  </programme>
-  <programme start="20250210181400 +0100" stop="20250210182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Karamela im Restaurant</sub-title>
-    <desc>Clownfrau Karamela wird in ein Restaurant eingeladen und ist sofort begeistert vom gemütlichen Ambiente und dem herzlichen Service. In der schaut sie den fleißigen Köchinnen über die Schulter - und versucht mitzuhelfen, soweit eine Clownfrau eben helfen kann. 
-Ein himmlischer Duft erfüllt den Raum, denn die Patissière bereitet gerade Schokoladenpudding zu.  An der Bar mixen die Baristas Cocktails und frisch gepresste Säfte. Karamela fühlt sich rundum wohl in diesem Restaurant und ist beeindruckt vom perfekten Zusammenspiel der vielen Berufe im Gastgewerbe.</desc>
-  </programme>
-  <programme start="20250210182900 +0100" stop="20250210185830 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Die VinziShower, die psychosoziale Beratung in Schlanders, Ex-Handbikerin Claudia Schuler unterwegs als Reporterin und die Bedeutung von Mariä Lichtmess. Moderation: Lisa Hintner. Bei Armut und Obdachlosigkeit geraten Selbstverständlichkeiten wie das Duschen oft in den Hintergrund. Doch die Möglichkeit zur Körperpflege gehört zu einem würdevollen Leben. In Bozen gibt es seit bald zwei Jahren die VinziShower.
-Südtirols ehemals beste Handbikerin Claudia Schuler erzählt, wie wichtig gelebte Inklusion ist. Als Reporterin wird sie in den nächsten Sendungen Beiträge gestalten und Interviews führen.
-Vor über 40 Jahren ist in Schlanders aus einer privaten Initiative der psychosoziale Dienst entstanden. Er kümmert sich nach wie vor um die Beratung und Begleitung von Menschen, die in die Abhängigkeit legaler Substanzen geraten sind, doch sein Tätigkeitsfeld ist viel größer geworden.
-Mariä Lichtmess wird von der katholischen Kirche als das "Fest der Darstellung des Herrn" gefeiert, traditionell damit verbunden waren Lichterprozessionen und Kerzenweihen. Maria Lichtmess hatte jahrhundertelang auch eine Bedeutung im bäuerlichen Leben: Mägde und Knechte bekamen ihren Jahreslohn. Die heilkräuterkundige Autorin Irene Hager Strobele verweist auf das keltische Lichterfest Imbole, das in der Nacht zum 1.Februar gefeiert wurde.</desc>
-  </programme>
-  <programme start="20250210200000 +0100" stop="20250210202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250210202000 +0100" stop="20250210211638 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Farbenfroh, lebendig und nahe dran am Kulturgeschehen in Südtirol, so präsentiert sich das Kulturmagazin "Kompass - Szenen der Kultur".
- 
-Zu Gast ist Rudolf Frey, Intendant der Vereinigten Bühnen Bozen, der derzeit das Musical Rent inszeniert und Julia Aufderklamm, die das Jukibuz im Südtiroler Kulturinstitut leitet. 
-Das Theater in der Altstadt in Meran thematisiert mit dem mehrfach ausgezeichneten Jugendstück "Das Herz eines Boxers" die Annäherung zweier Menschen, die das Hindernis Altersunterschied erfolgreich überwinden. Der 16jährige Jojo muss in einem Seniorenheim eine Jugendstrafe absolvieren und freundet sich mit einem ehemaligen alten Boxer an, der nur einen Wunsch hat: nämlich aus dem Heim zu flüchten.
-Zum 30. Todesjahr des Politikers Alexander Langer begibt sich die Dekadenz auf eine vielschichtige Spurensuche. "Himmelfahrtsrisse" verzichtet auf eine historisch lückenlose Biografie und wählt stattdessen einen subjektiven, künstlerischen Zugang zu Langers Leben und Wirken. Inspiriert von seinen Schriften, Gesprächen mit Wegbegleiter:innen und einer Reflexion seines zeithistorischen Kontextes fragt die Inszenierung, wie ein Leben in Verantwortung gelingen kann – gegenüber der Umwelt, den Mitmenschen und sich selbst.
-Wir berichten in Kompass außerdem über die neue Ausstellung im Palais Mamming, kuratiert von Ursula Schnitzer, stellen den neuen Kurator der Stadtgalerie Brixen vor  und besuchen die Musikerin Petra Lantschner in Wien.</desc>
-  </programme>
-  <programme start="20250210211600 +0100" stop="20250210215922 +0100" channel="Rai Südtirol">
-    <title>Victoria Dejaco</title>
-    <sub-title>Die Galeristin</sub-title>
-    <desc>Von Brixen in die internationale Kunstszene. Victoria Dejaco ist aber auch eine Symbolfigur für
-ein selbstbestimmtes Frauenleben jenseits alter Geschlechterrollen. Die Brixner Kunsthistorikerin Victoria Dejaco ist als Galeristin, Kuratorin, Publizistin und Gründerin eine bekannte Persönlichkeit in Wiens Kunstszene. Sie führt mit einem Partner die Galerie Wonnerth/Dejaco im ersten Wiener Gemeindebezirk und hat das Start-up simplify.art gegründet, für das sie mehr als 1 Million Euro an Finanzierungen aufstellen konnte. Eine erfolgreiche Auslands-Südtirolerin, die aber nicht nur wegen ihrer steilen Karriere in der Tech- und Kunstszene interessant ist.
-Die Brixnerin ist auch eine beispielhafte Vertreterin einer Generation, in der die Samen des
-Kampfes um ein gleichberechtigtes und selbstbestimmtes Frauenleben aufgehen. Klare Zeichen dafür sind ihr Selbstbewusstsein, ihr Mut oder auch ihre große Stärke im Bereich Netzwerken - einer Fähigkeit, die traditionell Männern zugesprochen wird.
-Doch auch in ihrem Privatleben verlässt die Kunstexpertin herkömmliche Geschlechterrollen,
-lebte lange Zeit in gleichgeschlechtlichen Beziehungen und nun wieder mit einem Mann. Mit
-neuen Lebenskonzepten definiert sie Familienbande neu, tritt in ihrem Tun überzeugt gegen Diskriminierungen jeglicher Art auf. Ein Film von Susanne Pitro</desc>
-  </programme>
-  <programme start="20250210221000 +0100" stop="20250210223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250211200000 +0100" stop="20250211202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
