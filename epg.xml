@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250211200000 +0100" stop="20250211202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250211202000 +0100" stop="20250211203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250211203500 +0100" stop="20250211204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Gleich drei Südtiroler Derby standen am zweiten Spieltag in der Fussball-Oberliga auf dem Programm: Tabellenführer Obermais empfing Tramin, St. Pauls hatte Schlusslicht Stegen zu Gast, und im Bozner Stadtderby standen sich Virtus und der Bozner FC gegenüber.</desc>
-  </programme>
-  <programme start="20250211221000 +0100" stop="20250211223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250212200000 +0100" stop="20250212202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
