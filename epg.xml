@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250213200000 +0100" stop="20250213202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250213202000 +0100" stop="20250213204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Fernweh</sub-title>
-    <desc>Fernweh ist die Sehnsucht nach einem Ort unseres Begehrens, verbunden mit dem Bedürfnis nach Aufbruch. Doch wie entsteht Fernweh und wie fühlt es sich an? Wir zeigen im Südtirol Magazin einige Beispiele.  
-
-Zu Gast ist Milena Favretto vom Europäischen Verbraucherzentrum. Mit ihr spricht Moderatorin Magdalena Oberstaller darüber, ob nachhaltiges Reisen möglich ist. 
-Außerdem starten wir mit der Reihe "So isst Euregio", die uns kulinarisch durch das ganze Jahr begleiten wird.</desc>
-  </programme>
-  <programme start="20250213213000 +0100" stop="20250213215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Tagen endet in Saalbach mit den Slalombewerben die alpine Skiweltmeisterschaft. Alex Vinatzer, Bronzemedaillen-Gewinner der letzten WM in Frankreich, möchte heuer erneut aufs Podest steigen. 
-Die Biathlon-WM hat hingegen gestern in Lenzerheide mit der Mixed-Staffel begonnen. Im italienischen Aufgebot stehen mit Dorothea Wierer, Hannah Auchentaller und Lukas Hofer auch drei Südtiroler:innen.</desc>
-  </programme>
-  <programme start="20250213221000 +0100" stop="20250213223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250214180000 +0100" stop="20250214182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Fernweh</sub-title>
@@ -122,6 +98,174 @@ Seine Großmutter stammte von einem Weingut, sein Großvater aus einer tradition
     <desc/>
   </programme>
   <programme start="20250216221000 +0100" stop="20250216223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250217180000 +0100" stop="20250217181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match des dritten Oberliga-Spieltages ist das Südtiroler Traditionsduell zwischen Tramin und St. Georgen. An diesem Wochenende ist auch die Landesliga mit dem Derby Tscherms-Marling gegen Lana und der Partie Terlan gegen Weinstraße Süd in die Rückrunde gestartet.</desc>
+  </programme>
+  <programme start="20250217181400 +0100" stop="20250217182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Skijöring</sub-title>
+    <desc>In dieser Ausgabe von "Pfote" trifft Stefan die begeisterte Reiterin Verena mit ihren Freunden beim täglichen Ausritt mit dem Haflinger durch den Wald. Haflinger sind besonders willensstark, trittsicher, gutmütig und daher bestens geeignet für ausgefallene Hobbys, wie das Skijöring. Diese nordische Sportart will Stefan natürlich gleich ausprobieren und hängt sich mit Skiern an den Beinen und einem Seil in der Hand gleich an Verenas Pferd.
+Anschließend stellt Nina das Buch "Wings of Olympus - Die Pferde des Himmels" vor.</desc>
+  </programme>
+  <programme start="20250217182900 +0100" stop="20250217185830 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Unsere Hände</sub-title>
+    <desc>Unsere Hände - sie sind Werkzeuge, Sinnesorgane und Ausdrucksmittel zugleich. Doch wie können wir sie gesund erhalten und was tun, wenn ihre Funktion eingeschränkt ist? Hände sind Meisterwerke der Anatomie, aber anfällig für Erkrankungen wie Morbus Dupuytren, bei dem sich die Finger zunehmend verkrümmen. Dr. Markus Mariacher zeigt im Operationssaal, wie dieser Zustand behandelt werden kann.
+Auch Probleme wie das Karpaltunnelsyndrom oder die Rhizarthrose stehen im Fokus: Innovative Lösungen kommen von Dr. Alexander Gardetto, der moderne Fingerprothesen vorstellt. Diese helfen Betroffenen, ihre Beweglichkeit und Lebensqualität zurückzugewinnen. 
+Ein weiterer Schwerpunkt liegt auf Prävention und Pflege: Von der richtigen Hand- und Nagelpflege bis hin zu Tipps, wie wir unsere Hände vor Überlastung und Verletzungen schützen können. Bei der Dermatologin Dr. Laura Butta oder dem Handspezialisten Dr. Ivo Tarfusser sind die Patient:innen dabei in besten Händen.</desc>
+  </programme>
+  <programme start="20250217200000 +0100" stop="20250217202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250217202000 +0100" stop="20250217215930 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut: Gewalt und Mobbing</title>
+    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Gewalt und Mobbing - in der Schule, auf der Straße und im Netz: Was können wir dagegen tun?
+In seiner Doku begleitet Filmemacher Wolfgang Moser den Kampfkunstmeister Roman Patuzzi, der Jugendlichen zeigt, wie sie sich ohne Gewalt behaupten, ihre Emotionen besser verstehen und Mobbing-Situationen selbstbewusst meistern können. Im Anschluss diskutiert Moderatorin Judith Bertagnolli live aus der Yoseikan-Budo-Halle in Nals mit fachkundigen Studiogästen über Erfahrungen und Lösungsstrategien: mit Schulsozialpädagogin Julia Psenner, Marco Buraschi vom Sicherheitsdienst STS, Lukas Schwienbacher vom Forum Prävention, Carabinieri-Kommandantin Alessia Paolini und mit Roman Patuzzi, Psychologe und Kampfkunstmeister.</desc>
+  </programme>
+  <programme start="20250217221000 +0100" stop="20250217223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250218200000 +0100" stop="20250218202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250218202000 +0100" stop="20250218203430 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol. Moderiert wird die Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20250218203500 +0100" stop="20250218204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match des dritten Oberliga-Spieltages ist das Südtiroler Traditionsduell zwischen Tramin und St. Georgen. An diesem Wochenende ist auch die Landesliga mit dem Derby Tscherms-Marling gegen Lana und der Partie Terlan gegen Weinstraße Süd in die Rückrunde gestartet.</desc>
+  </programme>
+  <programme start="20250218221000 +0100" stop="20250218223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250219200000 +0100" stop="20250219202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250219202000 +0100" stop="20250219204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Grenzenlose Kulturhauptstadt 2025 Görz/Nova Gorica, das kleinste Dorf Österreichs und seine slowenische Minderheit, Historiker Hannes Obermair u Gast bei Moderatorin Christina Khuen. 
+Im Dreiländereck von Österreich, Slowenien und Italien liegt eines der kleinsten Dörfer Österreichs: Achomitz/Zahomc. Durch den Bau einer Skisprungschanze hat die dort lebende slowenische Minderheit internationalen Ruhm erlangt.
+Die Stadt Görz/Nova Gorica liegt zum Teil in Italien, zum Teil in Slowenien. Beide Teile wurden zur ersten grenzüberschreitenden Kulturhauptstadt 2025 ernannt. Minet hat die slowenische Minderheit auf der italienischen Seite besucht. 
+Zu Gast im Minet Gespräch ist der Historiker Hannes Obermair. Er ist einer der Herausgeber des bei Edition Raetia erschienenen Buches "Danger Zones - eine Untersuchung zu nationalen Minderheiten in Europa". 
+Im Minet Telegramm sprechen Vertreter:innen europäischer Minderheiten über die Bedeutung von Minderheitenmedien. 
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lässt Minet auch diesmal wieder ein Volk zu Wort kommen, das auf wichtige Themen hinweist: diesmal die kambodschanische Aktivistin Pluk Phirom vom Volk der Bunong.</desc>
+  </programme>
+  <programme start="20250219221000 +0100" stop="20250219223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250220200000 +0100" stop="20250220202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250220202000 +0100" stop="20250220204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Ehrenamtlich helfen</sub-title>
+    <desc>Auch in Südtirol gibt es Ärzt:innen, Krankenpfleger:innen und freiwillige Helfer:innen, die Menschen in Armuts- und Notstandsgebieten helfen. Ihr Einsatz erfolgt aus Solidarität und sozialem Bewusstsein. 
+Zu Gast im Südtirol Magazin ist Gabriele Janssen, die Geschäftsführerin vom Verein "Südtiroler Ärzte für die Welt". 
+Wir zeigen außerdem das Portrait des diesjährigen Südtiroler Forschungspreisträgers Hermann Brugger und einen Ausschnitt aus dem Dokumentarfilm "Westbound Generation für Afrika". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250220213000 +0100" stop="20250220215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Saalbach ist die alpine Skiweltmeisterschaft mit den Slalom-Rennen zu Ende gegangen. Der Grödner Alex Vinatzer zählte zu den großen Protagonisten dieser Titelkämpfe. Gestartet ist heute auch die Snowboard-WM in der Schweiz. In Gitschberg wurden außerdem die Marlene-Cup-Landesmeistertitel im Riesentorlauf vergeben.</desc>
+  </programme>
+  <programme start="20250220221000 +0100" stop="20250220223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250221180000 +0100" stop="20250221182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Auch in Südtirol gibt es Ärzt:innen, Krankenpfleger:innen und freiwillige Helfer:innen, die Menschen in Armuts- und Notstandsgebieten helfen. Ihr Einsatz erfolgt aus Solidarität und sozialem Bewusstsein. 
+Zu Gast im Südtirol Magazin ist Gabriele Janssen, die Geschäftsführerin vom Verein "Südtiroler Ärzte für die Welt". 
+Wir zeigen außerdem das Portrait des diesjährigen Südtiroler Forschungspreisträgers Hermann Brugger und einen Ausschnitt aus dem Dokumentarfilm "Westbound Generation für Afrika". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250221182900 +0100" stop="20250221185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Saalbach ist die alpine Skiweltmeisterschaft mit den Slalom-Rennen zu Ende gegangen. Der Grödner Alex Vinatzer zählte zu den großen Protagonisten dieser Titelkämpfe. Gestartet ist heute auch die Snowboard-WM in der Schweiz. In Gitschberg wurden außerdem die Marlene-Cup-Landesmeistertitel im Riesentorlauf vergeben.</desc>
+  </programme>
+  <programme start="20250221200000 +0100" stop="20250221202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250221202000 +0100" stop="20250221215334 +0100" channel="Rai Südtirol">
+    <title>G'schroa und Krawall</title>
+    <sub-title>Das neue Millennium</sub-title>
+    <desc>Der Übergang ins neue Jahrtausend war weniger deutlich als der Übergang zwischen den Achtzigern und den Neunzigern. Doch das Niveau stieg beachtlich dank der Ausbildung in den Musikschulen. 
+Die frühen 2000er Jahre in der Südtiroler Popkultur brachten viele Talente hervor: Musiker wie Max Castlunger oder Alex Trebo touren auch heute noch durch Europa und verzaubern das Publikum. Trebo zog es in den 2000er Jahren nach Berlin, wo er zu einem international gefragten Filmmusik-Komponisten wurde. In den letzten Jahren war er als musikalischer Leiter für Hubert von Goisern tätig.
+Chris Costa, der charismatische Gadertaler, war als Keyboarder und Backgroundsänger mit Eros Ramazotti auf internationalen Bühnen unterwegs ist. Seine Band Funkchilli sorgte auch hierzulande für Furore.
+Aus der deutschen Chartwertung mittlerweile nicht mehr wegzudenken ist die Brixner Deutschrockband Frei.Wild. Ihr Startschuss war im Jahr 2000. Durch ihre Unterstützung kam auch die Band Unantastbar in die deutschen Charts und baute so einen großen Fanclub auf.</desc>
+  </programme>
+  <programme start="20250221215400 +0100" stop="20250221215924 +0100" channel="Rai Südtirol">
+    <title>UDSWA</title>
+    <sub-title>Trap-Musiker Paul Nin Lebron</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250221221000 +0100" stop="20250221223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250222180000 +0100" stop="20250222182930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Die Firma Loacker bedeutet nicht nur 100 Jahre Südtiroler Wirtschaftsgeschichte - der Waffelhersteller mit Stammsitz in Unterinn am Ritten zeigt, wie sich mit kontinuierlicher Innovation ein Unternehmen von Weltrang in seinem Sektor aufbauen lässt. Verspielt Südtirol seinen Wohlstand? Was braucht es, um den Standort Südtirol für Unternehmen und für die Bevölkerung im Land attraktiv zu erhalten? Solche Fragen stellt Trend dem Landeshauptmann Arno Kompatscher, dem Hightech-Unternehmer Philipp Senoner von Alpitronic und Tamara Benetti, die bei der Topmanagement-Beratung McKinsey gearbeitet hat und heute als Digitalnomadin an verschiedensten Orten der Welt arbeitet und auf Südtirol blickt. Anlass für die Gespräche ist die Aufzeichnung des 100.Podcasts der Südtiroler Wirtschaftszeitung in der Messe Bozen. 
+Die Arbeit mit Künstlicher Intelligenz ist ein weiteres Thema, das den Unternehmen unter den Nägeln brennt: Wie kleine Unternehmen, so z.B. auch Handwerksbetreibe, den Einstieg in die praktische Anwendung von KI im Bereich Marketing und Kommunikation schaffen können, erklärt Barbara Herbst. Die österreichische KI-Beraterin und Medien-Expertin trifft Trend bei einem Workshop in der BASIS Schlanders.</desc>
+  </programme>
+  <programme start="20250222182900 +0100" stop="20250222185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wie geht es den heimischen Autozulieferbetrieben? Was muss ich bei der nächsten Steuererklärung beachten? Warum steht die Vinschgerbahn zwischen Laas und Mals still? Welche Innovationen gibt es im Holzbau? Wir werfen einen Blick auf die derzeitige Situation im Autozuliefersektor und analysieren mit dem ASGB die aktuellen Herausforderungen dieser wichtigen Branche.
+Wir erhalten wichtige Informationen über die neuesten steuerlichen Änderungen für das Jahr 2025. Wir informieren über die Auswirkungen der Sperrung der Vinschgerbahn zwischen Mals und Laas und beleuchten die Notwendigkeit der Sperrung und die zukünftigen Vorteile der neuen Elektrozüge.
+Innovation beginnt nicht mit Technologien, sondern immer bei den Menschen, die hinter den Ideen stehen: das ist die Firmenphilosophie bei Rubner Ingenieurholzbau.</desc>
+  </programme>
+  <programme start="20250222200000 +0100" stop="20250222202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250222202100 +0100" stop="20250222202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250222202500 +0100" stop="20250222205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Sportevents als Wirtschaftsfaktor für ein Tal, Gaststuben als Orte der Begegnung, alkoholfreie Alternativen für die Fastenzeit. Das sind die Themen bei Willkommen, moderiert von Manuela Reiter.
+
+Die Biathlon-Europameisterschaften in Martell zieht nicht nur Athleten aus ganz Europa an sondern auch zahlreiche Besucher. Was bedeutet ein Event dieser Größenordnung für den Tourismus im Tal? Außerdem beleuchten wir den Gsieser Tallauf, einer der beliebtesten Skimarathons im Alpenraum. 
+Die Initiative "Dry January" hat eingeladen, 30 Tage lang auf Alkohol zu verzichten. Ähnliche Vorsätze stehen bei vielen auch in der Fastenzeit an. Das Willkommen-Team fragt bei Gastbetrieben, Barkeepern und Getränkevermarktern nach, welche alkoholfreien Alternativen den Gästen geboten werden.
+Bars und Gaststuben sind das soziale Herz vieler Gemeinden. Im Gasthof Eggwirt im Ultental, im Brauhotel Martinerhof im Passeiertal und im Hotel Post Gries in Bozen wird deutlich, wie wichtig diese Treffpunkte für das gesellschaftliche Leben sind. Hier begegnen sich Einheimische und Gäste, tauschen sich aus und pflegen Traditionen. Gerade in Zeiten gesellschaftlicher Veränderungen ist es wichtig, diese Orte der Begegnung zu erhalten und zu unterstützen.</desc>
+  </programme>
+  <programme start="20250222221000 +0100" stop="20250222223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
