@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250214180000 +0100" stop="20250214182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Fernweh</sub-title>
-    <desc>Fernweh ist die Sehnsucht nach einem Ort unseres Begehrens, verbunden mit dem Bedürfnis nach Aufbruch. Doch wie entsteht Fernweh und wie fühlt es sich an? Wir zeigen im Südtirol Magazin einige Beispiele.  
-Zu Gast ist Milena Favretto vom Europäischen Verbraucherzentrum. Mit ihr spricht Moderatorin Magdalena Oberstaller darüber, ob nachhaltiges Reisen möglich ist. 
-Außerdem starten wir mit der Reihe "So isst Euregio", die uns kulinarisch durch das ganze Jahr begleiten wird.</desc>
-  </programme>
-  <programme start="20250214182900 +0100" stop="20250214185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Tagen endet in Saalbach mit den Slalombewerben die alpine Skiweltmeisterschaft. Alex Vinatzer, Bronzemedaillen-Gewinner der letzten WM in Frankreich, möchte heuer erneut aufs Podest steigen. 
-Die Biathlon-WM hat hingegen gestern in Lenzerheide mit der Mixed-Staffel begonnen. Im italienischen Aufgebot stehen mit Dorothea Wierer, Hannah Auchentaller und Lukas Hofer auch drei Südtiroler:innen.</desc>
-  </programme>
-  <programme start="20250214200000 +0100" stop="20250214202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250214202100 +0100" stop="20250214211930 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol ist diesmal im Land unterwegs, um Projekten und Dingen bei ihrer Entstehung über die Schulter zu blicken: Es geht um unterschiedliche zukunftsweisende Ideen und um Geigenbau. 
-
-Karin Duregger trifft auf drei Menschen, die die Zukunft bewusst gestalten möchten: Ein Städteplaner, ein ehemaliger Lehrer und Mitglied der öko-sozialen Bewegung und eine Theaterpädagogin gewähren Einblicke in ihre Visionen, die vor allem auf ein gemeinschaftliches Miteinander in der Gesellschaft abzielen. Die Devise aller drei lautet: Weitermachen, auch wenn man mal scheitert.
-Bei "Angeklopft" erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen dbei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
-  </programme>
-  <programme start="20250214211900 +0100" stop="20250214214750 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Ein Rückblick auf den Lichterpark Lumagica in den Gärten von Schloss Trauttmansdorff, ein HGV-Stern für Futurapreis-Jurorin Inga Hosp, die neue Bio-Brotbackmischung aus Regiokorn. Am Ritten besuchen wir die Publizistin Inga Hosp, die seit über 30 Jahren als Jurypräsidentin des Futura-Förderpreises tätig ist und für ihr ehrenamtliches Engagement mit dem HGV-Stern ausgezeichnet wurde. Der Futurapreis fördert erfolgreiche Südtiroler:innen im Ausland.
-In diesem Winter verwandelte der Lumagica-Lichterpark die Gärten von Schloss  Trauttmansdorff in ein leuchtendes Winterwunderland. Mit dieser Premiere in Italien wurde ein neuer touristischer Akzent für die Region gesetzt.
-Eine Kooperation zwischen Tourismus, Landwirtschaft und Handel in Südtirol führt zu neuen Produkten: Die Vitalpina Hotels haben eine eigene Produktlinie entwickelt, die Regionalität und Nachhaltigkeit in den Mittelpunkt stellt. In enger Zusammenarbeit mit Südtiroler Produzenten entstanden so drei neue Produkte, z.B. die Bio-Brotbackmischung, hergestellt mit Regiokorn-Getreide von über 60 Südtiroler Bauern.</desc>
-  </programme>
-  <programme start="20250214214800 +0100" stop="20250214215904 +0100" channel="Rai Südtirol">
-    <title>Auf weiß roten Spuren in Frankreich</title>
-    <sub-title>Andreas Kofler</sub-title>
-    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. "Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können," sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
-  </programme>
-  <programme start="20250214221000 +0100" stop="20250214223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250215180000 +0100" stop="20250215185800 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -224,7 +181,7 @@ Chris Costa, der charismatische Gadertaler, war als Keyboarder und Backgroundsä
 Aus der deutschen Chartwertung mittlerweile nicht mehr wegzudenken ist die Brixner Deutschrockband Frei.Wild. Ihr Startschuss war im Jahr 2000. Durch ihre Unterstützung kam auch die Band Unantastbar in die deutschen Charts und baute so einen großen Fanclub auf.</desc>
   </programme>
   <programme start="20250221215400 +0100" stop="20250221215924 +0100" channel="Rai Südtirol">
-    <title>UDSWA</title>
+    <title>Und doch sind wir anders</title>
     <sub-title>Trap-Musiker Paul Nin Lebron</sub-title>
     <desc/>
   </programme>
@@ -266,6 +223,29 @@ Die Initiative "Dry January" hat eingeladen, 30 Tage lang auf Alkohol zu verzich
 Bars und Gaststuben sind das soziale Herz vieler Gemeinden. Im Gasthof Eggwirt im Ultental, im Brauhotel Martinerhof im Passeiertal und im Hotel Post Gries in Bozen wird deutlich, wie wichtig diese Treffpunkte für das gesellschaftliche Leben sind. Hier begegnen sich Einheimische und Gäste, tauschen sich aus und pflegen Traditionen. Gerade in Zeiten gesellschaftlicher Veränderungen ist es wichtig, diese Orte der Begegnung zu erhalten und zu unterstützen.</desc>
   </programme>
   <programme start="20250222221000 +0100" stop="20250222223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250223200000 +0100" stop="20250223202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250223202100 +0100" stop="20250223205030 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
+    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
+
+Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
+Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
+  </programme>
+  <programme start="20250223205000 +0100" stop="20250223205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250223221000 +0100" stop="20250223223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
