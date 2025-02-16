@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250215180000 +0100" stop="20250215185800 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Farbenfroh, lebendig und nahe dran am Kulturgeschehen in Südtirol, so präsentiert sich das Kulturmagazin "Kompass - Szenen der Kultur". 
-Zu Gast ist Rudolf Frey, Intendant der Vereinigten Bühnen Bozen, der derzeit das Musical Rent inszeniert und Julia Aufderklamm, die das Jukibuz im Südtiroler Kulturinstitut leitet. 
-Das Theater in der Altstadt in Meran thematisiert mit dem mehrfach ausgezeichneten Jugendstück "Das Herz eines Boxers" die Annäherung zweier Menschen, die das Hindernis Altersunterschied erfolgreich überwinden. Der 16jährige Jojo muss in einem Seniorenheim eine Jugendstrafe absolvieren und freundet sich mit einem ehemaligen alten Boxer an, der nur einen Wunsch hat: nämlich aus dem Heim zu flüchten.
-Zum 30. Todesjahr des Politikers Alexander Langer begibt sich die Dekadenz auf eine vielschichtige Spurensuche. "Himmelfahrtsrisse" verzichtet auf eine historisch lückenlose Biografie und wählt stattdessen einen subjektiven, künstlerischen Zugang zu Langers Leben und Wirken. Inspiriert von seinen Schriften, Gesprächen mit Wegbegleiter:innen und einer Reflexion seines zeithistorischen Kontextes fragt die Inszenierung, wie ein Leben in Verantwortung gelingen kann – gegenüber der Umwelt, den Mitmenschen und sich selbst.
-Wir berichten in Kompass außerdem über die neue Ausstellung im Palais Mamming, kuratiert von Ursula Schnitzer, stellen den neuen Kurator der Stadtgalerie Brixen vor  und besuchen die Musikerin Petra Lantschner in Wien.</desc>
-  </programme>
-  <programme start="20250215200000 +0100" stop="20250215202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250215202100 +0100" stop="20250215202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250215202500 +0100" stop="20250215205430 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Unsere Hände</sub-title>
-    <desc>Unsere Hände - sie sind Werkzeuge, Sinnesorgane und Ausdrucksmittel zugleich. Doch wie können wir sie gesund erhalten und was tun, wenn ihre Funktion eingeschränkt ist?
-
-Hände sind Meisterwerke der Anatomie, aber anfällig für Erkrankungen wie Morbus Dupuytren, bei dem sich die Finger zunehmend verkrümmen. Dr. Markus Mariacher zeigt im Operationssaal, wie dieser Zustand behandelt werden kann.
-Auch Probleme wie das Karpaltunnelsyndrom oder die Rhizarthrose stehen im Fokus: Innovative Lösungen kommen von Dr. Alexander Gardetto, der moderne Fingerprothesen vorstellt. Diese helfen Betroffenen, ihre Beweglichkeit und Lebensqualität zurückzugewinnen. 
-Ein weiterer Schwerpunkt liegt auf Prävention und Pflege: Von der richtigen Hand- und Nagelpflege bis hin zu Tipps, wie wir unsere Hände vor Überlastung und Verletzungen schützen können. Bei der Dermatologin Dr. Laura Butta oder dem Handspezialisten Dr. Ivo Tarfusser sind die Patient:innen dabei in besten Händen.</desc>
-  </programme>
-  <programme start="20250215221000 +0100" stop="20250215223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250216200000 +0100" stop="20250216202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
