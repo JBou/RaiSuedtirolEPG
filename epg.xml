@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250216200000 +0100" stop="20250216202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250216202100 +0100" stop="20250216205030 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Helmuth Köcher</sub-title>
-    <desc>Helmuth Köcher, geboren in Meran, wurde bereits in jungen Jahren von seinem Elternhaus in die hohe Kunst des Genusses von Essen und Wein eingeführt. Es blieb seine Leidenschaft. 
-
-Seine Großmutter stammte von einem Weingut, sein Großvater aus einer traditionsreichen Weberfamilie. Auf einer seiner zahlreichen Reisen entdeckte Köcher seine Leidenschaft für die Bordeaux-Region, ihre Weine und malerischen Weinberge. In der Sendung "Privat" mit Markus Frings gibt Helmuth Köcher spannende Einblicke in sein Leben, seine Liebe zur Weinkultur und er erzählt, wie es zur Gründung des Merano WineFestivals kam.</desc>
-  </programme>
-  <programme start="20250216205000 +0100" stop="20250216205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250216221000 +0100" stop="20250216223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250217180000 +0100" stop="20250217181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
