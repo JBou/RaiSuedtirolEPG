@@ -4,49 +4,15 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250217180000 +0100" stop="20250217181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match des dritten Oberliga-Spieltages ist das Südtiroler Traditionsduell zwischen Tramin und St. Georgen. An diesem Wochenende ist auch die Landesliga mit dem Derby Tscherms-Marling gegen Lana und der Partie Terlan gegen Weinstraße Süd in die Rückrunde gestartet.</desc>
-  </programme>
-  <programme start="20250217181400 +0100" stop="20250217182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Skijöring</sub-title>
-    <desc>In dieser Ausgabe von "Pfote" trifft Stefan die begeisterte Reiterin Verena mit ihren Freunden beim täglichen Ausritt mit dem Haflinger durch den Wald. Haflinger sind besonders willensstark, trittsicher, gutmütig und daher bestens geeignet für ausgefallene Hobbys, wie das Skijöring. Diese nordische Sportart will Stefan natürlich gleich ausprobieren und hängt sich mit Skiern an den Beinen und einem Seil in der Hand gleich an Verenas Pferd.
-Anschließend stellt Nina das Buch "Wings of Olympus - Die Pferde des Himmels" vor.</desc>
-  </programme>
-  <programme start="20250217182900 +0100" stop="20250217185830 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Unsere Hände</sub-title>
-    <desc>Unsere Hände - sie sind Werkzeuge, Sinnesorgane und Ausdrucksmittel zugleich. Doch wie können wir sie gesund erhalten und was tun, wenn ihre Funktion eingeschränkt ist? Hände sind Meisterwerke der Anatomie, aber anfällig für Erkrankungen wie Morbus Dupuytren, bei dem sich die Finger zunehmend verkrümmen. Dr. Markus Mariacher zeigt im Operationssaal, wie dieser Zustand behandelt werden kann.
-Auch Probleme wie das Karpaltunnelsyndrom oder die Rhizarthrose stehen im Fokus: Innovative Lösungen kommen von Dr. Alexander Gardetto, der moderne Fingerprothesen vorstellt. Diese helfen Betroffenen, ihre Beweglichkeit und Lebensqualität zurückzugewinnen. 
-Ein weiterer Schwerpunkt liegt auf Prävention und Pflege: Von der richtigen Hand- und Nagelpflege bis hin zu Tipps, wie wir unsere Hände vor Überlastung und Verletzungen schützen können. Bei der Dermatologin Dr. Laura Butta oder dem Handspezialisten Dr. Ivo Tarfusser sind die Patient:innen dabei in besten Händen.</desc>
-  </programme>
-  <programme start="20250217200000 +0100" stop="20250217202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250217202000 +0100" stop="20250217215930 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Gewalt und Mobbing</title>
-    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Gewalt und Mobbing - in der Schule, auf der Straße und im Netz: Was können wir dagegen tun?
-In seiner Doku begleitet Filmemacher Wolfgang Moser den Kampfkunstmeister Roman Patuzzi, der Jugendlichen zeigt, wie sie sich ohne Gewalt behaupten, ihre Emotionen besser verstehen und Mobbing-Situationen selbstbewusst meistern können. Im Anschluss diskutiert Moderatorin Judith Bertagnolli live aus der Yoseikan-Budo-Halle in Nals mit fachkundigen Studiogästen über Erfahrungen und Lösungsstrategien: mit Schulsozialpädagogin Julia Psenner, Marco Buraschi vom Sicherheitsdienst STS, Lukas Schwienbacher vom Forum Prävention, Carabinieri-Kommandantin Alessia Paolini und mit Roman Patuzzi, Psychologe und Kampfkunstmeister.</desc>
-  </programme>
-  <programme start="20250217221000 +0100" stop="20250217223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250218200000 +0100" stop="20250218202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
   <programme start="20250218202000 +0100" stop="20250218203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol. Moderiert wird die Talksendung von Hannes Senfter.</desc>
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
   </programme>
   <programme start="20250218203500 +0100" stop="20250218204930 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
