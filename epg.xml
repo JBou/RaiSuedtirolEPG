@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250219200000 +0100" stop="20250219202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250219202000 +0100" stop="20250219204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Grenzenlose Kulturhauptstadt 2025 Görz/Nova Gorica, das kleinste Dorf Österreichs und seine slowenische Minderheit, Historiker Hannes Obermair u Gast bei Moderatorin Christina Khuen. 
-Im Dreiländereck von Österreich, Slowenien und Italien liegt eines der kleinsten Dörfer Österreichs: Achomitz/Zahomc. Durch den Bau einer Skisprungschanze hat die dort lebende slowenische Minderheit internationalen Ruhm erlangt.
-Die Stadt Görz/Nova Gorica liegt zum Teil in Italien, zum Teil in Slowenien. Beide Teile wurden zur ersten grenzüberschreitenden Kulturhauptstadt 2025 ernannt. Minet hat die slowenische Minderheit auf der italienischen Seite besucht. 
-Zu Gast im Minet Gespräch ist der Historiker Hannes Obermair. Er ist einer der Herausgeber des bei Edition Raetia erschienenen Buches "Danger Zones - eine Untersuchung zu nationalen Minderheiten in Europa". 
-Im Minet Telegramm sprechen Vertreter:innen europäischer Minderheiten über die Bedeutung von Minderheitenmedien. 
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lässt Minet auch diesmal wieder ein Volk zu Wort kommen, das auf wichtige Themen hinweist: diesmal die kambodschanische Aktivistin Pluk Phirom vom Volk der Bunong.</desc>
-  </programme>
-  <programme start="20250219221000 +0100" stop="20250219223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250220200000 +0100" stop="20250220202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
