@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250220200000 +0100" stop="20250220202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250220202000 +0100" stop="20250220204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ehrenamtlich helfen</sub-title>
-    <desc>Auch in Südtirol gibt es Ärzt:innen, Krankenpfleger:innen und freiwillige Helfer:innen, die Menschen in Armuts- und Notstandsgebieten helfen. Ihr Einsatz erfolgt aus Solidarität und sozialem Bewusstsein. 
-Zu Gast im Südtirol Magazin ist Gabriele Janssen, die Geschäftsführerin vom Verein "Südtiroler Ärzte für die Welt". 
-Wir zeigen außerdem das Portrait des diesjährigen Südtiroler Forschungspreisträgers Hermann Brugger und einen Ausschnitt aus dem Dokumentarfilm "Westbound Generation für Afrika". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20250220213000 +0100" stop="20250220215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Saalbach ist die alpine Skiweltmeisterschaft mit den Slalom-Rennen zu Ende gegangen. Der Grödner Alex Vinatzer zählte zu den großen Protagonisten dieser Titelkämpfe. Gestartet ist heute auch die Snowboard-WM in der Schweiz. In Gitschberg wurden außerdem die Marlene-Cup-Landesmeistertitel im Riesentorlauf vergeben.</desc>
-  </programme>
-  <programme start="20250220221000 +0100" stop="20250220223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250221180000 +0100" stop="20250221182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
