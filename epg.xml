@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250221180000 +0100" stop="20250221182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Auch in Südtirol gibt es Ärzt:innen, Krankenpfleger:innen und freiwillige Helfer:innen, die Menschen in Armuts- und Notstandsgebieten helfen. Ihr Einsatz erfolgt aus Solidarität und sozialem Bewusstsein. 
-Zu Gast im Südtirol Magazin ist Gabriele Janssen, die Geschäftsführerin vom Verein "Südtiroler Ärzte für die Welt". 
-Wir zeigen außerdem das Portrait des diesjährigen Südtiroler Forschungspreisträgers Hermann Brugger und einen Ausschnitt aus dem Dokumentarfilm "Westbound Generation für Afrika". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20250221182900 +0100" stop="20250221185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Saalbach ist die alpine Skiweltmeisterschaft mit den Slalom-Rennen zu Ende gegangen. Der Grödner Alex Vinatzer zählte zu den großen Protagonisten dieser Titelkämpfe. Gestartet ist heute auch die Snowboard-WM in der Schweiz. In Gitschberg wurden außerdem die Marlene-Cup-Landesmeistertitel im Riesentorlauf vergeben.</desc>
-  </programme>
-  <programme start="20250221200000 +0100" stop="20250221202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250221202000 +0100" stop="20250221215334 +0100" channel="Rai Südtirol">
-    <title>G'schroa und Krawall</title>
-    <sub-title>Das neue Millennium</sub-title>
-    <desc>Der Übergang ins neue Jahrtausend war weniger deutlich als der Übergang zwischen den Achtzigern und den Neunzigern. Doch das Niveau stieg beachtlich dank der Ausbildung in den Musikschulen. 
-Die frühen 2000er Jahre in der Südtiroler Popkultur brachten viele Talente hervor: Musiker wie Max Castlunger oder Alex Trebo touren auch heute noch durch Europa und verzaubern das Publikum. Trebo zog es in den 2000er Jahren nach Berlin, wo er zu einem international gefragten Filmmusik-Komponisten wurde. In den letzten Jahren war er als musikalischer Leiter für Hubert von Goisern tätig.
-Chris Costa, der charismatische Gadertaler, war als Keyboarder und Backgroundsänger mit Eros Ramazotti auf internationalen Bühnen unterwegs ist. Seine Band Funkchilli sorgte auch hierzulande für Furore.
-Aus der deutschen Chartwertung mittlerweile nicht mehr wegzudenken ist die Brixner Deutschrockband Frei.Wild. Ihr Startschuss war im Jahr 2000. Durch ihre Unterstützung kam auch die Band Unantastbar in die deutschen Charts und baute so einen großen Fanclub auf.</desc>
-  </programme>
-  <programme start="20250221215400 +0100" stop="20250221215924 +0100" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Trap-Musiker Paul Nin Lebron</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250221221000 +0100" stop="20250221223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250222180000 +0100" stop="20250222182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -95,6 +60,207 @@ Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrte
     <desc/>
   </programme>
   <programme start="20250223221000 +0100" stop="20250223223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250224180000 +0100" stop="20250224181430 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>Am vierten Spieltag in der Fußball-Oberliga trifft der SSV Brixen im Jugendhort auf den Bozner FC. In der Landesliga kommt es zum Spitzenspiel zwischen Naturns und Tabellenführer Bruneck, während Gitschberg Jochtal in Mühlbach den SV Latsch zu Gast hat.</desc>
+  </programme>
+  <programme start="20250224181400 +0100" stop="20250224182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Bücherwelten: Die Dinoschule</sub-title>
+    <desc>Zipp-Moderatior Stefan schaut bei den Bücherwelten im Waltherhaus in Bozen vorbei und stolpert dort in die humorvolle Lesung von Kinderbuchautorin Britta Sabbag. Den vielen Kindern stellt sie gerade ihr neues Buch "Die Dinoschule" vor, das auf der Insel Sauritius spielt, wo noch echte Dinosaurier leben. In der Dinoschule lernen die Kinder, wie sie auf der Insel überleben können.
+Beim Schmökern in den vielen neuen Kinderbüchern trifft Stefan auch Julia, die Leiterin des Jukibuz, die all diese Bücher für die Ausstellung ausgewählt hat.</desc>
+  </programme>
+  <programme start="20250224182900 +0100" stop="20250224185830 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
+    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
+Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
+Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
+  </programme>
+  <programme start="20250224200000 +0100" stop="20250224202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250224202000 +0100" stop="20250224210000 +0100" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>Maschlmusig</sub-title>
+    <desc>Johanna, Elias und Robin Mader sind drei Geschwister aus dem Pflerschtal, die seit ihrer Kindheit gemeinsam musizieren. Mit Violine, Gitarre und Harmonika spielen sie echte Volksmusik, können aber auch anders. 
+
+Aufgewachsen mit alpenländischer Volksmusik, spielen sie heute in verschiedenen Formationen und gehen eigene musikalische Wege. Aber bei zwei Projekten sind die Geschwister Mader  gemeinsam zu hören: Bei ihrer Formation "Maschlmusig" sind es die einfachen und gefälligen Muster, das gemeinsame Drauflosspielen, das die Geschwister musikalisch zusammenbringt. Mit "Acustic Rojel" hingegen machen sich die drei auf die Suche nach neuen Rhythmen und Elementen und lassen sich von Pop, Rock und Folk inspirieren.</desc>
+  </programme>
+  <programme start="20250224210000 +0100" stop="20250224215200 +0100" channel="Rai Südtirol">
+    <title>Max Valier</title>
+    <sub-title>Der Raketenmann</sub-title>
+    <desc>Die tragische und gleichzeitig fantastische Geschichte des Bozners Max Valier, der in den 1920er-Jahren in Deutschland mit spektakulären Raketenversuchen international für Aufsehen sorgte. Ohne Rücksicht auf die eigene Existenz und allen Widerständen zum Trotz lebte Valier für
+seinen Traum, die Weiten des Weltalls zu erreichen - bis er 35-jährig bei einem Laborexperiment ums Leben kam. Regie: Thomas Hanifle.</desc>
+  </programme>
+  <programme start="20250224215200 +0100" stop="20250224215908 +0100" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Rollschuhfahrerin Anna Minuzzo</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250224221000 +0100" stop="20250224223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250225200000 +0100" stop="20250225202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250225202000 +0100" stop="20250225203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250225203500 +0100" stop="20250225204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am vierten Spieltag in der Fußball-Oberliga trifft der SSV Brixen im Jugendhort auf den Bozner FC. In der Landesliga kommt es zum Spitzenspiel zwischen Naturns und Tabellenführer Bruneck, während Gitschberg Jochtal in Mühlbach den SV Latsch zu Gast hat.</desc>
+  </programme>
+  <programme start="20250225221000 +0100" stop="20250225223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250226200000 +0100" stop="20250226202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250226202000 +0100" stop="20250226204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Mehr Biolebensmittel für die Mensen. Mehr Arbeit für Direktvermarkter. Mehr heimisches Getreide für Brot - das Projekt Regiokorn. Eine Sendung von Marianne Kasseroler.
+
+Der Speiseplan in der öffentlichen Verpflegung von Kindern, Jugendlichen, Heimbewohnern und Kranken müsste laut staatlichen Vorgaben mehr Biolebensmittel enthalten. In der Praxis ist die Umsetzung jedoch schwierig. Land&amp;Leben zeigt Beispiele, wo es gelingt, und wo noch Nachholbedarf besteht. Direktvermarkter haben viel Arbeit. Sie müssen vom Anbau über die Verarbeitung bis hin zur Vermarktung ihrer Produkte alles selbst machen. Daraus ergeben sich viele Chancen aber auch Risiken, wie Land&amp;Leben am Beispiel von zwei Kräuterhöfen im Wipptal und Eisacktal aufzeigt. 
+Regiokorn heißt das Getreide, das in Südtirol wächst, von einer Mühle in Meran gemahlen und von hiesigen Bäckern zu Brot verarbeitet wird. Ein Projekt, das 2011 gestartet ist, sich erfolgreich entwickelt hat, aber noch ausbaufähig ist.</desc>
+  </programme>
+  <programme start="20250226221000 +0100" stop="20250226223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250227200000 +0100" stop="20250227202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250227202000 +0100" stop="20250227204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Der Egetmann-Umzug</sub-title>
+    <desc>Der Egetmann-Umzug in Tramin zählt zu den ältesten Fastnachtsbräuchen in Tirol. Das Südtirol Magazin ist bei den Vorbereitungen dabei. Es moderiert Magdalena Oberstaller. 
+Mit dem traditionellen Faschingsumzug im Unterland soll der Winter mit großem Lärm und fantasievollen Gestalten vertrieben werden. Die Vorbereitungen beginnen schon viele Monate im Voraus. 
+In der Rubrik "So isst Euregio" besuchen wir Clemens Gesser in Ostirol, und in der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Egetmann für Kinder".</desc>
+  </programme>
+  <programme start="20250227213000 +0100" stop="20250227215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Deutschnofen fand am Wochenende das Weltcup-Finale im Naturbahnrodeln statt. Die Psairerin Evelin Lanthaler dominierte erneut die Saison und holte sich ihren neunten Gesamtsieg. 
+Auf dem Karerpass wurden hingegen die Landesmeister der Alpinen in den Altersklassen U14 und U16 gekürt.</desc>
+  </programme>
+  <programme start="20250227221000 +0100" stop="20250227223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250228180000 +0100" stop="20250228182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Der Egetmann-Umzug</sub-title>
+    <desc>Der Egetmann-Umzug in Tramin zählt zu den ältesten Fastnachtsbräuchen in Tirol. Das Südtirol Magazin ist bei den Vorbereitungen dabei. Es moderiert Magdalena Oberstaller. 
+Mit dem traditionellen Faschingsumzug im Unterland soll der Winter mit großem Lärm und fantasievollen Gestalten vertrieben werden. Die Vorbereitungen beginnen schon viele Monate im Voraus. 
+In der Rubrik "So isst Euregio" besuchen wir Clemens Gesser in Ostirol, und in der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Egetmann für Kinder".</desc>
+  </programme>
+  <programme start="20250228182900 +0100" stop="20250228185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In Deutschnofen fand am Wochenende das Weltcup-Finale im Naturbahnrodeln statt. Die Psairerin Evelin Lanthaler dominierte erneut die Saison und holte sich ihren neunten Gesamtsieg. 
+Auf dem Karerpass wurden hingegen die Landesmeister der Alpinen in den Altersklassen U14 und U16 gekürt.</desc>
+  </programme>
+  <programme start="20250228200000 +0100" stop="20250228202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250228202000 +0100" stop="20250228213900 +0100" channel="Rai Südtirol">
+    <title>So lacht Südtirol 2025</title>
+    <sub-title>Der Meraner Narrenabend</sub-title>
+    <desc>"Meran, wie es quietscht und kracht" lautet heuer das Motto des Meraner Narrenabends, organisiert vom MGV Meran, der nicht nur Vorfälle in Meran aufs Korn nimmt. Sie sehen die Höhepunkte des Abends.
+
+Buntes Treiben auf der Bühne, lustige Lieder, bissige Satire, fröhlicher Tanz - die Männer vom MGV Meran lassen die Geschehnisse des vergangenen
+Jahres im Meraner Kurhaus Revue passieren. Unter der Regie von Thomas Hochkofler werden nicht nur die Vorfälle in der Passerstadt aufs Korn genommen, sondern Politik, Wirtschaft und Kultur des ganzen Landes werden humorvoll kommentiert. Selbstverständlich wird auch international bekannten Persönlichkeiten die Ehre zuteil, beim Narrenabend vorzukommen. Darsteller sind die Männer des MGV, aber auch Schauspieler:innen wie Karin Verdorfer, Sabine Ladurner, Theo Hendrich, Stefan Drassl usw.</desc>
+  </programme>
+  <programme start="20250228213900 +0100" stop="20250228215900 +0100" channel="Rai Südtirol">
+    <title>Egetmann für Kinder</title>
+    <sub-title>Gelebtes Brauchtum in Südtirol</sub-title>
+    <desc>Der Traminer Egetmann ist der größte und urwüchsigste Umzug der Südtiroler Fasnacht. Doch
+es gibt zwei davon: einen großen Egetmann an ungeraden Jahren und einen für Kinder an
+geraden Jahren.
+Mit Begeisterung eifern die Kinder den Erwachsenen nach und poltern am Unsinnigen als Schnappviecher durchs Dorf. Am Faschingsdienstag zieht dann der junge Egetmann-Tross mit putzigen Fischern, Pfannenflickern, Zigeunern und vielen weiteren Figuren und Wägen durchs Dorf.
+Natürlich sind auch die Bären und Jäger, die Burgln und Müller mit von der Partie. Im Gegensatz zum großen Egetmann dürfen beim Traminer Kinder-Egetmann auch Mädchen mitmachen.
+Ein Film von Armin Widmann.</desc>
+  </programme>
+  <programme start="20250228221000 +0100" stop="20250228223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250301180000 +0100" stop="20250301185800 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol ist diesmal im Land unterwegs, um Projekten und Dingen bei ihrer Entstehung über die Schulter zu blicken: Es geht um unterschiedliche zukunftsweisende Ideen und um Geigenbau. Karin Duregger trifft auf drei Menschen, die die Zukunft bewusst gestalten möchten: Ein Städteplaner, ein ehemaliger Lehrer und Mitglied der öko-sozialen Bewegung und eine Theaterpädagogin gewähren Einblicke in ihre Visionen, die vor allem auf ein gemeinschaftliches Miteinander in der Gesellschaft abzielen. Die Devise aller drei lautet: Weitermachen, auch wenn man mal scheitert.
+Bei "Angeklopft" erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen dbei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
+  </programme>
+  <programme start="20250301200000 +0100" stop="20250301202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250301202100 +0100" stop="20250301202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250301202500 +0100" stop="20250301205430 +0100" channel="Rai Südtirol">
+    <title>Bergbauernpreis 2025</title>
+    <sub-title/>
+    <desc>Die heurigen Preisträger stammen aus dem Passeiertal, dem Wipptal und dem Mühlwaldertal. Sie bewirtschaften ihre Höfe und Almen mustergültig. Ein Film von Christoph Wieser.
+
+Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten. 
+Wir zeigen in St. Leonhard in Passeie, einen Erbhof mit 144 Erschwernispunkten in steilster Lage. Er besteht seit dem 14. Jahrhundert. 
+Im Wipptal bei Freienfeld lebt eine Großfamilie, die zwei Almen besitzt. Sie bewirtschaftet und erneuert die Almen in lawinengefährdeten Gebieten und versucht möglichst autark zu sein.
+Der dritte Preisträger im Mühlwaldertal ist ein rundum modernisierter Vollerwerbsbetrieb. Sein Besitzer setzt auf moderne Technik und ist gleichzeitig als Heimatkundler ein Chronist lokaler Geschichte.</desc>
+  </programme>
+  <programme start="20250301221000 +0100" stop="20250301223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250302200000 +0100" stop="20250302202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250302202100 +0100" stop="20250302205324 +0100" channel="Rai Südtirol">
+    <title>Süßes für den Fasching</title>
+    <sub-title>Die Reportage</sub-title>
+    <desc>Zur Faschingszeit dreht sich alles um den Krapfen: Rund und locker soll er sein, er muss einen
+hellen "Kragen" haben. Und darf nicht vor Fett triefen.
+In den Krapfen ist normalerweise Marmelade enthalten, doch zunehmend werden auch andere süße, köstliche Füllungen verwendet. Wie die Krapfen von Paul Götsch aus Bruneck, Christian Pupp aus Brixen, Matthäus Gatterer aus Kiens und Sandro Pellegrini aus Bozen hergestellt werden, zeigt die Reportage "Süßes für den Fasching". Nicht zuletzt werden einige bestgehütete Familien-Back Geheimnisse gelüftet. Eine Reportage, bei der einem schon mitunter das Wasser im Mund zusammenläuft...</desc>
+  </programme>
+  <programme start="20250302205300 +0100" stop="20250302205700 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250302221000 +0100" stop="20250302223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
