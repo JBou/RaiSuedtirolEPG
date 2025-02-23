@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250222180000 +0100" stop="20250222182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Die Firma Loacker bedeutet nicht nur 100 Jahre Südtiroler Wirtschaftsgeschichte - der Waffelhersteller mit Stammsitz in Unterinn am Ritten zeigt, wie sich mit kontinuierlicher Innovation ein Unternehmen von Weltrang in seinem Sektor aufbauen lässt. Verspielt Südtirol seinen Wohlstand? Was braucht es, um den Standort Südtirol für Unternehmen und für die Bevölkerung im Land attraktiv zu erhalten? Solche Fragen stellt Trend dem Landeshauptmann Arno Kompatscher, dem Hightech-Unternehmer Philipp Senoner von Alpitronic und Tamara Benetti, die bei der Topmanagement-Beratung McKinsey gearbeitet hat und heute als Digitalnomadin an verschiedensten Orten der Welt arbeitet und auf Südtirol blickt. Anlass für die Gespräche ist die Aufzeichnung des 100.Podcasts der Südtiroler Wirtschaftszeitung in der Messe Bozen. 
-Die Arbeit mit Künstlicher Intelligenz ist ein weiteres Thema, das den Unternehmen unter den Nägeln brennt: Wie kleine Unternehmen, so z.B. auch Handwerksbetreibe, den Einstieg in die praktische Anwendung von KI im Bereich Marketing und Kommunikation schaffen können, erklärt Barbara Herbst. Die österreichische KI-Beraterin und Medien-Expertin trifft Trend bei einem Workshop in der BASIS Schlanders.</desc>
-  </programme>
-  <programme start="20250222182900 +0100" stop="20250222185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wie geht es den heimischen Autozulieferbetrieben? Was muss ich bei der nächsten Steuererklärung beachten? Warum steht die Vinschgerbahn zwischen Laas und Mals still? Welche Innovationen gibt es im Holzbau? Wir werfen einen Blick auf die derzeitige Situation im Autozuliefersektor und analysieren mit dem ASGB die aktuellen Herausforderungen dieser wichtigen Branche.
-Wir erhalten wichtige Informationen über die neuesten steuerlichen Änderungen für das Jahr 2025. Wir informieren über die Auswirkungen der Sperrung der Vinschgerbahn zwischen Mals und Laas und beleuchten die Notwendigkeit der Sperrung und die zukünftigen Vorteile der neuen Elektrozüge.
-Innovation beginnt nicht mit Technologien, sondern immer bei den Menschen, die hinter den Ideen stehen: das ist die Firmenphilosophie bei Rubner Ingenieurholzbau.</desc>
-  </programme>
-  <programme start="20250222200000 +0100" stop="20250222202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250222202100 +0100" stop="20250222202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250222202500 +0100" stop="20250222205430 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Sportevents als Wirtschaftsfaktor für ein Tal, Gaststuben als Orte der Begegnung, alkoholfreie Alternativen für die Fastenzeit. Das sind die Themen bei Willkommen, moderiert von Manuela Reiter.
-
-Die Biathlon-Europameisterschaften in Martell zieht nicht nur Athleten aus ganz Europa an sondern auch zahlreiche Besucher. Was bedeutet ein Event dieser Größenordnung für den Tourismus im Tal? Außerdem beleuchten wir den Gsieser Tallauf, einer der beliebtesten Skimarathons im Alpenraum. 
-Die Initiative "Dry January" hat eingeladen, 30 Tage lang auf Alkohol zu verzichten. Ähnliche Vorsätze stehen bei vielen auch in der Fastenzeit an. Das Willkommen-Team fragt bei Gastbetrieben, Barkeepern und Getränkevermarktern nach, welche alkoholfreien Alternativen den Gästen geboten werden.
-Bars und Gaststuben sind das soziale Herz vieler Gemeinden. Im Gasthof Eggwirt im Ultental, im Brauhotel Martinerhof im Passeiertal und im Hotel Post Gries in Bozen wird deutlich, wie wichtig diese Treffpunkte für das gesellschaftliche Leben sind. Hier begegnen sich Einheimische und Gäste, tauschen sich aus und pflegen Traditionen. Gerade in Zeiten gesellschaftlicher Veränderungen ist es wichtig, diese Orte der Begegnung zu erhalten und zu unterstützen.</desc>
-  </programme>
-  <programme start="20250222221000 +0100" stop="20250222223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250223200000 +0100" stop="20250223202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
