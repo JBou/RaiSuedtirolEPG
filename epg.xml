@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250223200000 +0100" stop="20250223202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250223202100 +0100" stop="20250223205030 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
-    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
-
-Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
-Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
-  </programme>
-  <programme start="20250223205000 +0100" stop="20250223205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250223221000 +0100" stop="20250223223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250224180000 +0100" stop="20250224181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
