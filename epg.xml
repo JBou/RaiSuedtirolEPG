@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250224180000 +0100" stop="20250224181430 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>Am vierten Spieltag in der Fußball-Oberliga trifft der SSV Brixen im Jugendhort auf den Bozner FC. In der Landesliga kommt es zum Spitzenspiel zwischen Naturns und Tabellenführer Bruneck, während Gitschberg Jochtal in Mühlbach den SV Latsch zu Gast hat.</desc>
-  </programme>
-  <programme start="20250224181400 +0100" stop="20250224182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Bücherwelten: Die Dinoschule</sub-title>
-    <desc>Zipp-Moderatior Stefan schaut bei den Bücherwelten im Waltherhaus in Bozen vorbei und stolpert dort in die humorvolle Lesung von Kinderbuchautorin Britta Sabbag. Den vielen Kindern stellt sie gerade ihr neues Buch "Die Dinoschule" vor, das auf der Insel Sauritius spielt, wo noch echte Dinosaurier leben. In der Dinoschule lernen die Kinder, wie sie auf der Insel überleben können.
-Beim Schmökern in den vielen neuen Kinderbüchern trifft Stefan auch Julia, die Leiterin des Jukibuz, die all diese Bücher für die Ausstellung ausgewählt hat.</desc>
-  </programme>
-  <programme start="20250224182900 +0100" stop="20250224185830 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
-    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
-Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
-Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
-  </programme>
-  <programme start="20250224200000 +0100" stop="20250224202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250224202000 +0100" stop="20250224210000 +0100" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Maschlmusig</sub-title>
-    <desc>Johanna, Elias und Robin Mader sind drei Geschwister aus dem Pflerschtal, die seit ihrer Kindheit gemeinsam musizieren. Mit Violine, Gitarre und Harmonika spielen sie echte Volksmusik, können aber auch anders. 
-
-Aufgewachsen mit alpenländischer Volksmusik, spielen sie heute in verschiedenen Formationen und gehen eigene musikalische Wege. Aber bei zwei Projekten sind die Geschwister Mader  gemeinsam zu hören: Bei ihrer Formation "Maschlmusig" sind es die einfachen und gefälligen Muster, das gemeinsame Drauflosspielen, das die Geschwister musikalisch zusammenbringt. Mit "Acustic Rojel" hingegen machen sich die drei auf die Suche nach neuen Rhythmen und Elementen und lassen sich von Pop, Rock und Folk inspirieren.</desc>
-  </programme>
-  <programme start="20250224210000 +0100" stop="20250224215200 +0100" channel="Rai Südtirol">
-    <title>Max Valier</title>
-    <sub-title>Der Raketenmann</sub-title>
-    <desc>Die tragische und gleichzeitig fantastische Geschichte des Bozners Max Valier, der in den 1920er-Jahren in Deutschland mit spektakulären Raketenversuchen international für Aufsehen sorgte. Ohne Rücksicht auf die eigene Existenz und allen Widerständen zum Trotz lebte Valier für
-seinen Traum, die Weiten des Weltalls zu erreichen - bis er 35-jährig bei einem Laborexperiment ums Leben kam. Regie: Thomas Hanifle.</desc>
-  </programme>
-  <programme start="20250224215200 +0100" stop="20250224215908 +0100" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Rollschuhfahrerin Anna Minuzzo</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250224221000 +0100" stop="20250224223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250225200000 +0100" stop="20250225202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
