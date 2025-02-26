@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250225200000 +0100" stop="20250225202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250225202000 +0100" stop="20250225203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250225203500 +0100" stop="20250225204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am vierten Spieltag in der Fußball-Oberliga trifft der SSV Brixen im Jugendhort auf den Bozner FC. In der Landesliga kommt es zum Spitzenspiel zwischen Naturns und Tabellenführer Bruneck, während Gitschberg Jochtal in Mühlbach den SV Latsch zu Gast hat.</desc>
-  </programme>
-  <programme start="20250225221000 +0100" stop="20250225223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250226200000 +0100" stop="20250226202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
