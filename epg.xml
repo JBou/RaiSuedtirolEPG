@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250226200000 +0100" stop="20250226202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250226202000 +0100" stop="20250226204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Mehr Biolebensmittel für die Mensen. Mehr Arbeit für Direktvermarkter. Mehr heimisches Getreide für Brot - das Projekt Regiokorn. Eine Sendung von Marianne Kasseroler.
-
-Der Speiseplan in der öffentlichen Verpflegung von Kindern, Jugendlichen, Heimbewohnern und Kranken müsste laut staatlichen Vorgaben mehr Biolebensmittel enthalten. In der Praxis ist die Umsetzung jedoch schwierig. Land&amp;Leben zeigt Beispiele, wo es gelingt, und wo noch Nachholbedarf besteht. Direktvermarkter haben viel Arbeit. Sie müssen vom Anbau über die Verarbeitung bis hin zur Vermarktung ihrer Produkte alles selbst machen. Daraus ergeben sich viele Chancen aber auch Risiken, wie Land&amp;Leben am Beispiel von zwei Kräuterhöfen im Wipptal und Eisacktal aufzeigt. 
-Regiokorn heißt das Getreide, das in Südtirol wächst, von einer Mühle in Meran gemahlen und von hiesigen Bäckern zu Brot verarbeitet wird. Ein Projekt, das 2011 gestartet ist, sich erfolgreich entwickelt hat, aber noch ausbaufähig ist.</desc>
-  </programme>
-  <programme start="20250226221000 +0100" stop="20250226223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250227200000 +0100" stop="20250227202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -135,6 +117,153 @@ In den Krapfen ist normalerweise Marmelade enthalten, doch zunehmend werden auch
     <desc/>
   </programme>
   <programme start="20250302221000 +0100" stop="20250302223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250303180000 +0100" stop="20250303181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der Bozner FC empfängt am fünften Oberliga-Spieltag Titelfavorit Obermais. 
+In der Landesliga kommt es zum Spitzenspiel zwischen Tabellenführer Bruneck und Verfolger Gröden. Außerdem trifft Leifers zu Hause auf Gitschberg Jochtal.</desc>
+  </programme>
+  <programme start="20250303181400 +0100" stop="20250303182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Orangencreme aus dem Ofen</sub-title>
+    <desc>Orangensaft, Eier und viel Naturjoghurt sind die Hauptzutaten der leckeren Orangencreme, die unsere Fernsehköchinnen Linda und Martina in dieser Folge von "Kochen kinderleicht" zubereiten. Das Besondere an diesem Dessert: Es kann sowohl heiß, als auch kalt genossen werden.</desc>
+  </programme>
+  <programme start="20250303182900 +0100" stop="20250303185830 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Mehr Biolebensmittel für die Mensen. Mehr Arbeit für Direktvermarkter. Mehr heimisches Getreide für Brot - das Projekt Regiokorn. Eine Sendung von Marianne Kasseroler.
+Der Speiseplan in der öffentlichen Verpflegung von Kindern, Jugendlichen, Heimbewohnern und Kranken müsste laut staatlichen Vorgaben mehr Biolebensmittel enthalten. In der Praxis ist die Umsetzung jedoch schwierig. Land&amp;Leben zeigt Beispiele, wo es gelingt, und wo noch Nachholbedarf besteht. Direktvermarkter haben viel Arbeit. Sie müssen vom Anbau über die Verarbeitung bis hin zur Vermarktung ihrer Produkte alles selbst machen. Daraus ergeben sich viele Chancen aber auch Risiken, wie Land&amp;Leben am Beispiel von zwei Kräuterhöfen im Wipptal und Eisacktal aufzeigt. 
+Regiokorn heißt das Getreide, das in Südtirol wächst, von einer Mühle in Meran gemahlen und von hiesigen Bäckern zu Brot verarbeitet wird. Ein Projekt, das 2011 gestartet ist, sich erfolgreich entwickelt hat, aber noch ausbaufähig ist.</desc>
+  </programme>
+  <programme start="20250303200000 +0100" stop="20250303202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250303202000 +0100" stop="20250303213100 +0100" channel="Rai Südtirol">
+    <title>So lacht Südtirol 2025</title>
+    <sub-title>Das Brixner Stadtlerlàchn</sub-title>
+    <desc>Hotspot Paradies - Das diesjährige Brixner Stadtlerlåchn nimmt den Overtourism und dessen Folgen mit satirischem Scharfsinn ins Visier. Viel Spaß mit dem MGV Brixen unter der Regie von Lukas Lobis!
+
+Weil selbst der Garten Eden von Touristenscharen überrannt wird und auch verkehrstechnisch nichts mehr geht, schickt Gott eine himmlische Delegation auf die Erde. Zwei Erzengel begleitet vom Teufel begeben sich in Brixen auf die Suche nach einer leistbaren Mietwohnung...eine wahre Odyssee. Die spritzig-frechen Wortgefechte stammen großteils aus der Feder von Peter Schorn. Musikalisch setzt man heuer auf Austropop, die treffsicheren Songtexte liefert Lukas Lobis, der auch Regie führt. Für die gelungenen Sing- und Schauspielkünste auf der Bühne sorgen der Männergesangverein Brixen mit Chorleiter Christian Unterhofer sowie ein bewährtes Team aus Laienschauspielern.</desc>
+  </programme>
+  <programme start="20250303213100 +0100" stop="20250303215900 +0100" channel="Rai Südtirol">
+    <title>Süßes für den Fasching</title>
+    <sub-title>Die Reportage</sub-title>
+    <desc>Zur Faschingszeit dreht sich alles um den Krapfen: Rund und locker soll er sein, er muss einen hellen "Kragen" haben. Und darf nicht vor Fett triefen. In den Krapfen ist normalerweise Marmelade enthalten, doch zunehmend werden auch andere süße, köstliche Füllungen verwendet. Wie die Krapfen von Paul Götsch aus Bruneck, Christian Pupp aus Brixen, Matthäus Gatterer aus Kiens und Sandro Pellegrini aus Bozen hergestellt werden, zeigt die Reportage "Süßes für den Fasching". Nicht zuletzt werden einige bestgehütete Familien-Back Geheimnisse gelüftet. Eine Reportage, bei der einem schon mitunter das Wasser im Mund zusammenläuft...</desc>
+  </programme>
+  <programme start="20250303221000 +0100" stop="20250303223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250304200000 +0100" stop="20250304202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250304202000 +0100" stop="20250304203509 +0100" channel="Rai Südtirol">
+    <title>Altrei</title>
+    <sub-title>Land und Leute</sub-title>
+    <desc>Der Altreier Fasching mit seinen Schnappviechern, die verschiedenen Verwendungsmöglichkeiten der Lupinenbohne, im Porträt: Mundartdichter, Sammler und Musikant Engelbert Markio.
+Die Gemeinde Altrei ragt wie ein Sporn in das Fleimstal. Von Südtirol aus ist Altrei mit dem Auto über den San-Lugano-Sattel und über Trentiner Gebiet zu erreichen. 
+Der Anbau der Lupinenbohnen hat hier eine längere Tradition. Man macht daraus Kaffee, aber auch Schokolade, Bier, Liköre. Zudem kann mit den Bohnen Käse verfeinert werden. Kulinarisch blicken wir im Gasthaus Kürbishof auf die traditionelle lokale Küche, die ebenfalls Lupinenbohnen einsetzt und so viele Gerichte verfeinert. 
+Engelbert Markio ist Sammler und Alleinunterhalter, vor allem aber pflegt er die Mundart und hält seine Gedanken zur Heimatgemeinde in Versform fest. 
+Eine merkwürdige und zugleich rätselhafte Figur der Tiroler Fasnacht ist das Schnappvieh, das viele Südtiroler vom Egetmann-Umzug in Tramin her kennen. Die bis zu drei Meter hohen Ungetüme dürfen auch im Altreier Fasching nicht fehlen.</desc>
+  </programme>
+  <programme start="20250304203500 +0100" stop="20250304204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der Bozner FC empfängt am fünften Oberliga-Spieltag Titelfavorit Obermais. 
+In der Landesliga kommt es zum Spitzenspiel zwischen Tabellenführer Bruneck und Verfolger Gröden. Außerdem trifft Leifers zu Hause auf Gitschberg Jochtal.</desc>
+  </programme>
+  <programme start="20250304221000 +0100" stop="20250304223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250305200000 +0100" stop="20250305202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250305202000 +0100" stop="20250305204930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wie reagieren exportierende Südtiroler Unternehmen auf die angekündigten US-Zölle? Wie gehen unsere Dienstleistungsunternehmen mit High-Tech und K.I. um? Moderation: Christian Pfeifer.
+
+Heute ist alles vernetzt. Heißt das also "mitgehangen, mitgefangen"? Unsere Wirtschaft hat in den letzten Jahren große Anstrengungen unternommen, um in Sachen Internationalisierung und Digitalisierung mit den europäischen Partnern und Konkurrenten mithalten zu können. Veränderungen passieren nun aber fast über Nacht. Ein Beispiel dafür sind die angekündigten US-Zölle auf Waren aus Europa. Wie gehen exportierende Südtiroler Unternehmen damit um? 
+Aber auch das rasende Tempo der Digitalisierung bringt so manches Unternehmen an seine Grenzen. High-Tech und K.I. eröffnen Chancen, schaffen aber auch einen hohen Anpassungsdruck, auch bei lokalen und regionalen Dienstleistungsunternehmen.</desc>
+  </programme>
+  <programme start="20250305221000 +0100" stop="20250305223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250306200000 +0100" stop="20250306202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250306202000 +0100" stop="20250306204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Düfte können unsere Stimmung und Gefühle beeinflussen. Uns gefallen oft unterbewusst jene, die unserer Persönlichkeit entsprechen. Ein anregendes Thema, moderiert von Karin Gschnitzer.
+Sogar Erinnerungen lassen sich durch Düfte immer wieder hervorrufen - und das meist ein Leben lang. In der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Dokumentation "Altes Kräuterwissen neu entdeckt" und in der Rubrik „Schon gewusst“ entdecken wir spannende Fakten über die Welt der Düfte - von ihrer Wirkung auf uns bis hin zu ihrer Geschichte.</desc>
+  </programme>
+  <programme start="20250306213000 +0100" stop="20250306215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Wolkenstein feiert seinen Weltmeister Alex Vinatzer für seinen Sieg beim Team-Event in Saalbach. 
+In dieser Woche fanden die Junioren-Weltmeisterschaften im Alpinen Skisport und im Biathlon statt. Die Skifahrer Sara Thaler, Jakob Franzelin und Emanuel Lamp standen in Tarvis im Aufgebot der "Azzurri", während die Biathleten Birgit Schölzhorn, Christoph Pircher, Julian Hofer und Rafael Santer in Östersund am Start waren.</desc>
+  </programme>
+  <programme start="20250306221000 +0100" stop="20250306223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250307180000 +0100" stop="20250307182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Düfte können unsere Stimmung und Gefühle beeinflussen. Uns gefallen oft unterbewusst jene, die unserer Persönlichkeit entsprechen. Ein anregendes Thema, moderiert von Karin Gschnitzer.
+Sogar Erinnerungen lassen sich durch Düfte immer wieder hervorrufen - und das meist ein Leben lang. In der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Dokumentation "Altes Kräuterwissen neu entdeckt" und in der Rubrik „Schon gewusst“ entdecken wir spannende Fakten über die Welt der Düfte - von ihrer Wirkung auf uns bis hin zu ihrer Geschichte.</desc>
+  </programme>
+  <programme start="20250307182900 +0100" stop="20250307185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Wolkenstein feiert seinen Weltmeister Alex Vinatzer für seinen Sieg beim Team-Event in Saalbach. 
+In dieser Woche fanden die Junioren-Weltmeisterschaften im Alpinen Skisport und im Biathlon statt. Die Skifahrer Sara Thaler, Jakob Franzelin und Emanuel Lamp standen in Tarvis im Aufgebot der "Azzurri", während die Biathleten Birgit Schölzhorn, Christoph Pircher, Julian Hofer und Rafael Santer in Östersund am Start waren.</desc>
+  </programme>
+  <programme start="20250307200000 +0100" stop="20250307202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250307202100 +0100" stop="20250307212000 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Expert:innen zeigen Petra Tschenett, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen. Theo Hendrich unternimmt eine Genusswanderung rund um den Puflatsch auf der Seiser Alm.
+"Made in Südtirol" beschäftigt sich in dieser Ausgabe mit Innenraumarchitektur. Petra Tschenett trifft Architektinnen, Designer und Innenraumexpertinnen, die zeigen, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen, in der Hotellerie, in Geschäften und im privaten Bereich. Zu Besuch ist sie bei Christiana Biasi von Berg, der Firma Schweitzer in Naturns und bei Petra Tarantello.
+Anschließend unternimmt Theo Hendrich gemeinsam mit Wanderführer Diego Deiana eine Genusswanderung inmitten der atemberaubenden Berglandschaft der Seiser Alm. Abseits vom gewohnten Trubel der Touristenströme umrunden sie den Puflatsch: sanfte Hügel, einsame Wege, urige Holzhütten und ein 360-Grad Blick auf die Bergwelt Südtirols. 
+Bei einer Einkehr auf der Tschötsch-Alm verrät der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
+  </programme>
+  <programme start="20250307212000 +0100" stop="20250307214930 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Sportevents als Wirtschaftsfaktor für ein Tal, Gaststuben als Orte der Begegnung, alkoholfreie Alternativen für die Fastenzeit. Das sind die Themen bei Willkommen, moderiert von Manuela Reiter. Die Biathlon-Europameisterschaften in Martell zieht nicht nur Athleten aus ganz Europa an sondern auch zahlreiche Besucher. Was bedeutet ein Event dieser Größenordnung für den Tourismus im Tal? Außerdem beleuchten wir den Gsieser Tallauf, einer der beliebtesten Skimarathons im Alpenraum. 
+Die Initiative "Dry January" hat eingeladen, 30 Tage lang auf Alkohol zu verzichten. Ähnliche Vorsätze stehen bei vielen auch in der Fastenzeit an. Das Willkommen-Team fragt bei Gastbetrieben, Barkeepern und Getränkevermarktern nach, welche alkoholfreien Alternativen den Gästen geboten werden.
+Bars und Gaststuben sind das soziale Herz vieler Gemeinden. Im Gasthof Eggwirt im Ultental, im Brauhotel Martinerhof im Passeiertal und im Hotel Post Gries in Bozen wird deutlich, wie wichtig diese Treffpunkte für das gesellschaftliche Leben sind. Hier begegnen sich Einheimische und Gäste, tauschen sich aus und pflegen Traditionen. Gerade in Zeiten gesellschaftlicher Veränderungen ist es wichtig, diese Orte der Begegnung zu erhalten und zu unterstützen.</desc>
+  </programme>
+  <programme start="20250307214900 +0100" stop="20250307215731 +0100" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Stephen Lloyd</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250307221000 +0100" stop="20250307223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
