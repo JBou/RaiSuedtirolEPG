@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250228180000 +0100" stop="20250228182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Der Egetmann-Umzug</sub-title>
-    <desc>Der Egetmann-Umzug in Tramin zählt zu den ältesten Fastnachtsbräuchen in Tirol. Das Südtirol Magazin ist bei den Vorbereitungen dabei. Es moderiert Magdalena Oberstaller. 
-Mit dem traditionellen Faschingsumzug im Unterland soll der Winter mit großem Lärm und fantasievollen Gestalten vertrieben werden. Die Vorbereitungen beginnen schon viele Monate im Voraus. 
-In der Rubrik "So isst Euregio" besuchen wir Clemens Gesser in Ostirol, und in der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Egetmann für Kinder".</desc>
-  </programme>
-  <programme start="20250228182900 +0100" stop="20250228185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In Deutschnofen fand am Wochenende das Weltcup-Finale im Naturbahnrodeln statt. Die Psairerin Evelin Lanthaler dominierte erneut die Saison und holte sich ihren neunten Gesamtsieg. 
-Auf dem Karerpass wurden hingegen die Landesmeister der Alpinen in den Altersklassen U14 und U16 gekürt.</desc>
-  </programme>
-  <programme start="20250228200000 +0100" stop="20250228202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250228202000 +0100" stop="20250228213900 +0100" channel="Rai Südtirol">
-    <title>So lacht Südtirol 2025</title>
-    <sub-title>Der Meraner Narrenabend</sub-title>
-    <desc>"Meran, wie es quietscht und kracht" lautet heuer das Motto des Meraner Narrenabends, organisiert vom MGV Meran, der nicht nur Vorfälle in Meran aufs Korn nimmt. Sie sehen die Höhepunkte des Abends.
-
-Buntes Treiben auf der Bühne, lustige Lieder, bissige Satire, fröhlicher Tanz - die Männer vom MGV Meran lassen die Geschehnisse des vergangenen
-Jahres im Meraner Kurhaus Revue passieren. Unter der Regie von Thomas Hochkofler werden nicht nur die Vorfälle in der Passerstadt aufs Korn genommen, sondern Politik, Wirtschaft und Kultur des ganzen Landes werden humorvoll kommentiert. Selbstverständlich wird auch international bekannten Persönlichkeiten die Ehre zuteil, beim Narrenabend vorzukommen. Darsteller sind die Männer des MGV, aber auch Schauspieler:innen wie Karin Verdorfer, Sabine Ladurner, Theo Hendrich, Stefan Drassl usw.</desc>
-  </programme>
-  <programme start="20250228213900 +0100" stop="20250228215900 +0100" channel="Rai Südtirol">
-    <title>Egetmann für Kinder</title>
-    <sub-title>Gelebtes Brauchtum in Südtirol</sub-title>
-    <desc>Der Traminer Egetmann ist der größte und urwüchsigste Umzug der Südtiroler Fasnacht. Doch
-es gibt zwei davon: einen großen Egetmann an ungeraden Jahren und einen für Kinder an
-geraden Jahren.
-Mit Begeisterung eifern die Kinder den Erwachsenen nach und poltern am Unsinnigen als Schnappviecher durchs Dorf. Am Faschingsdienstag zieht dann der junge Egetmann-Tross mit putzigen Fischern, Pfannenflickern, Zigeunern und vielen weiteren Figuren und Wägen durchs Dorf.
-Natürlich sind auch die Bären und Jäger, die Burgln und Müller mit von der Partie. Im Gegensatz zum großen Egetmann dürfen beim Traminer Kinder-Egetmann auch Mädchen mitmachen.
-Ein Film von Armin Widmann.</desc>
-  </programme>
-  <programme start="20250228221000 +0100" stop="20250228223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250301180000 +0100" stop="20250301185800 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -272,6 +231,29 @@ Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikk
 In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
   </programme>
   <programme start="20250308221000 +0100" stop="20250308223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250309200000 +0100" stop="20250309202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250309202000 +0100" stop="20250309204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Diskriminierung von Frauen mit Behinderung. Hebamme Burgi Künig im Portrait. Eine preisgekrönte Masterarbeit über die Berichterstattung von Femiziden. Der Genderreport der Eurac. Moderation: Martina Kreuzer.
+Etwa 15 Prozent der weiblichen Bevölkerung lebt mit einer Behinderung. Häufig geht damit eine Mehrfachdiskriminierung einher. Das Recht auf eine selbstbestimmte Lebensführung wird oft eingeschränkt: ob in der Arbeitswelt, in der Familienplanung, im Alltag. dF trifft Aktivistinnen und intersektionale Feministinnen, die aufgrund ihrer körperlichen Behinderung, ihrer Sinnesbeeinträchtigung oder chronischen Krankheit immer wieder ihre Rechte einfordern müssen. 
+Im dF Portrait: Burgi Künig ist seit einem halben Jahrhundert Hebamme. Sie hat unzählige Geburten begleitet, in den letzten Jahren vor allem Hausgeburten und Unmengen von Geschichten dazu zu erzählen. Denn jede Geburt ist einzigartig. 
+In df-Info: Die preisgekrönte Masterarbeit von Ingrid Kapeller über die Berichterstattung von Femiziden und der Genderreport der Eurac.</desc>
+  </programme>
+  <programme start="20250309205000 +0100" stop="20250309205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250309221000 +0100" stop="20250309223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
