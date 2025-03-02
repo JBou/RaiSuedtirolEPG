@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250301180000 +0100" stop="20250301185800 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol ist diesmal im Land unterwegs, um Projekten und Dingen bei ihrer Entstehung über die Schulter zu blicken: Es geht um unterschiedliche zukunftsweisende Ideen und um Geigenbau. Karin Duregger trifft auf drei Menschen, die die Zukunft bewusst gestalten möchten: Ein Städteplaner, ein ehemaliger Lehrer und Mitglied der öko-sozialen Bewegung und eine Theaterpädagogin gewähren Einblicke in ihre Visionen, die vor allem auf ein gemeinschaftliches Miteinander in der Gesellschaft abzielen. Die Devise aller drei lautet: Weitermachen, auch wenn man mal scheitert.
-Bei "Angeklopft" erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen dbei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
-  </programme>
-  <programme start="20250301200000 +0100" stop="20250301202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250301202100 +0100" stop="20250301202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250301202500 +0100" stop="20250301205430 +0100" channel="Rai Südtirol">
-    <title>Bergbauernpreis 2025</title>
-    <sub-title/>
-    <desc>Die heurigen Preisträger stammen aus dem Passeiertal, dem Wipptal und dem Mühlwaldertal. Sie bewirtschaften ihre Höfe und Almen mustergültig. Ein Film von Christoph Wieser.
-
-Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten. 
-Wir zeigen in St. Leonhard in Passeie, einen Erbhof mit 144 Erschwernispunkten in steilster Lage. Er besteht seit dem 14. Jahrhundert. 
-Im Wipptal bei Freienfeld lebt eine Großfamilie, die zwei Almen besitzt. Sie bewirtschaftet und erneuert die Almen in lawinengefährdeten Gebieten und versucht möglichst autark zu sein.
-Der dritte Preisträger im Mühlwaldertal ist ein rundum modernisierter Vollerwerbsbetrieb. Sein Besitzer setzt auf moderne Technik und ist gleichzeitig als Heimatkundler ein Chronist lokaler Geschichte.</desc>
-  </programme>
-  <programme start="20250301221000 +0100" stop="20250301223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250302200000 +0100" stop="20250302202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
