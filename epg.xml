@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250303180000 +0100" stop="20250303181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Der Bozner FC empfängt am fünften Oberliga-Spieltag Titelfavorit Obermais. 
-In der Landesliga kommt es zum Spitzenspiel zwischen Tabellenführer Bruneck und Verfolger Gröden. Außerdem trifft Leifers zu Hause auf Gitschberg Jochtal.</desc>
-  </programme>
-  <programme start="20250303181400 +0100" stop="20250303182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Orangencreme aus dem Ofen</sub-title>
-    <desc>Orangensaft, Eier und viel Naturjoghurt sind die Hauptzutaten der leckeren Orangencreme, die unsere Fernsehköchinnen Linda und Martina in dieser Folge von "Kochen kinderleicht" zubereiten. Das Besondere an diesem Dessert: Es kann sowohl heiß, als auch kalt genossen werden.</desc>
-  </programme>
-  <programme start="20250303182900 +0100" stop="20250303185830 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Mehr Biolebensmittel für die Mensen. Mehr Arbeit für Direktvermarkter. Mehr heimisches Getreide für Brot - das Projekt Regiokorn. Eine Sendung von Marianne Kasseroler.
-Der Speiseplan in der öffentlichen Verpflegung von Kindern, Jugendlichen, Heimbewohnern und Kranken müsste laut staatlichen Vorgaben mehr Biolebensmittel enthalten. In der Praxis ist die Umsetzung jedoch schwierig. Land&amp;Leben zeigt Beispiele, wo es gelingt, und wo noch Nachholbedarf besteht. Direktvermarkter haben viel Arbeit. Sie müssen vom Anbau über die Verarbeitung bis hin zur Vermarktung ihrer Produkte alles selbst machen. Daraus ergeben sich viele Chancen aber auch Risiken, wie Land&amp;Leben am Beispiel von zwei Kräuterhöfen im Wipptal und Eisacktal aufzeigt. 
-Regiokorn heißt das Getreide, das in Südtirol wächst, von einer Mühle in Meran gemahlen und von hiesigen Bäckern zu Brot verarbeitet wird. Ein Projekt, das 2011 gestartet ist, sich erfolgreich entwickelt hat, aber noch ausbaufähig ist.</desc>
-  </programme>
-  <programme start="20250303200000 +0100" stop="20250303202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250303202000 +0100" stop="20250303213100 +0100" channel="Rai Südtirol">
-    <title>So lacht Südtirol 2025</title>
-    <sub-title>Das Brixner Stadtlerlàchn</sub-title>
-    <desc>Hotspot Paradies - Das diesjährige Brixner Stadtlerlåchn nimmt den Overtourism und dessen Folgen mit satirischem Scharfsinn ins Visier. Viel Spaß mit dem MGV Brixen unter der Regie von Lukas Lobis!
-
-Weil selbst der Garten Eden von Touristenscharen überrannt wird und auch verkehrstechnisch nichts mehr geht, schickt Gott eine himmlische Delegation auf die Erde. Zwei Erzengel begleitet vom Teufel begeben sich in Brixen auf die Suche nach einer leistbaren Mietwohnung...eine wahre Odyssee. Die spritzig-frechen Wortgefechte stammen großteils aus der Feder von Peter Schorn. Musikalisch setzt man heuer auf Austropop, die treffsicheren Songtexte liefert Lukas Lobis, der auch Regie führt. Für die gelungenen Sing- und Schauspielkünste auf der Bühne sorgen der Männergesangverein Brixen mit Chorleiter Christian Unterhofer sowie ein bewährtes Team aus Laienschauspielern.</desc>
-  </programme>
-  <programme start="20250303213100 +0100" stop="20250303215900 +0100" channel="Rai Südtirol">
-    <title>Süßes für den Fasching</title>
-    <sub-title>Die Reportage</sub-title>
-    <desc>Zur Faschingszeit dreht sich alles um den Krapfen: Rund und locker soll er sein, er muss einen hellen "Kragen" haben. Und darf nicht vor Fett triefen. In den Krapfen ist normalerweise Marmelade enthalten, doch zunehmend werden auch andere süße, köstliche Füllungen verwendet. Wie die Krapfen von Paul Götsch aus Bruneck, Christian Pupp aus Brixen, Matthäus Gatterer aus Kiens und Sandro Pellegrini aus Bozen hergestellt werden, zeigt die Reportage "Süßes für den Fasching". Nicht zuletzt werden einige bestgehütete Familien-Back Geheimnisse gelüftet. Eine Reportage, bei der einem schon mitunter das Wasser im Mund zusammenläuft...</desc>
-  </programme>
-  <programme start="20250303221000 +0100" stop="20250303223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250304200000 +0100" stop="20250304202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
