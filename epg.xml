@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250304200000 +0100" stop="20250304202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250304202000 +0100" stop="20250304203509 +0100" channel="Rai Südtirol">
-    <title>Altrei</title>
-    <sub-title>Land und Leute</sub-title>
-    <desc>Der Altreier Fasching mit seinen Schnappviechern, die verschiedenen Verwendungsmöglichkeiten der Lupinenbohne, im Porträt: Mundartdichter, Sammler und Musikant Engelbert Markio.
-Die Gemeinde Altrei ragt wie ein Sporn in das Fleimstal. Von Südtirol aus ist Altrei mit dem Auto über den San-Lugano-Sattel und über Trentiner Gebiet zu erreichen. 
-Der Anbau der Lupinenbohnen hat hier eine längere Tradition. Man macht daraus Kaffee, aber auch Schokolade, Bier, Liköre. Zudem kann mit den Bohnen Käse verfeinert werden. Kulinarisch blicken wir im Gasthaus Kürbishof auf die traditionelle lokale Küche, die ebenfalls Lupinenbohnen einsetzt und so viele Gerichte verfeinert. 
-Engelbert Markio ist Sammler und Alleinunterhalter, vor allem aber pflegt er die Mundart und hält seine Gedanken zur Heimatgemeinde in Versform fest. 
-Eine merkwürdige und zugleich rätselhafte Figur der Tiroler Fasnacht ist das Schnappvieh, das viele Südtiroler vom Egetmann-Umzug in Tramin her kennen. Die bis zu drei Meter hohen Ungetüme dürfen auch im Altreier Fasching nicht fehlen.</desc>
-  </programme>
-  <programme start="20250304203500 +0100" stop="20250304204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Der Bozner FC empfängt am fünften Oberliga-Spieltag Titelfavorit Obermais. 
-In der Landesliga kommt es zum Spitzenspiel zwischen Tabellenführer Bruneck und Verfolger Gröden. Außerdem trifft Leifers zu Hause auf Gitschberg Jochtal.</desc>
-  </programme>
-  <programme start="20250304221000 +0100" stop="20250304223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250305200000 +0100" stop="20250305202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
