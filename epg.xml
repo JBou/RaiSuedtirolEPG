@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250305200000 +0100" stop="20250305202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250305202000 +0100" stop="20250305204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wie reagieren exportierende Südtiroler Unternehmen auf die angekündigten US-Zölle? Wie gehen unsere Dienstleistungsunternehmen mit High-Tech und K.I. um? Moderation: Christian Pfeifer.
-
-Heute ist alles vernetzt. Heißt das also "mitgehangen, mitgefangen"? Unsere Wirtschaft hat in den letzten Jahren große Anstrengungen unternommen, um in Sachen Internationalisierung und Digitalisierung mit den europäischen Partnern und Konkurrenten mithalten zu können. Veränderungen passieren nun aber fast über Nacht. Ein Beispiel dafür sind die angekündigten US-Zölle auf Waren aus Europa. Wie gehen exportierende Südtiroler Unternehmen damit um? 
-Aber auch das rasende Tempo der Digitalisierung bringt so manches Unternehmen an seine Grenzen. High-Tech und K.I. eröffnen Chancen, schaffen aber auch einen hohen Anpassungsdruck, auch bei lokalen und regionalen Dienstleistungsunternehmen.</desc>
-  </programme>
-  <programme start="20250305221000 +0100" stop="20250305223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250306200000 +0100" stop="20250306202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
