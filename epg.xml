@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250306200000 +0100" stop="20250306202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250306202000 +0100" stop="20250306204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Düfte können unsere Stimmung und Gefühle beeinflussen. Uns gefallen oft unterbewusst jene, die unserer Persönlichkeit entsprechen. Ein anregendes Thema, moderiert von Karin Gschnitzer.
-Sogar Erinnerungen lassen sich durch Düfte immer wieder hervorrufen - und das meist ein Leben lang. In der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Dokumentation "Altes Kräuterwissen neu entdeckt" und in der Rubrik „Schon gewusst“ entdecken wir spannende Fakten über die Welt der Düfte - von ihrer Wirkung auf uns bis hin zu ihrer Geschichte.</desc>
-  </programme>
-  <programme start="20250306213000 +0100" stop="20250306215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Wolkenstein feiert seinen Weltmeister Alex Vinatzer für seinen Sieg beim Team-Event in Saalbach. 
-In dieser Woche fanden die Junioren-Weltmeisterschaften im Alpinen Skisport und im Biathlon statt. Die Skifahrer Sara Thaler, Jakob Franzelin und Emanuel Lamp standen in Tarvis im Aufgebot der "Azzurri", während die Biathleten Birgit Schölzhorn, Christoph Pircher, Julian Hofer und Rafael Santer in Östersund am Start waren.</desc>
-  </programme>
-  <programme start="20250306221000 +0100" stop="20250306223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250307180000 +0100" stop="20250307182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
