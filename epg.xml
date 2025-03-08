@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250307180000 +0100" stop="20250307182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Düfte können unsere Stimmung und Gefühle beeinflussen. Uns gefallen oft unterbewusst jene, die unserer Persönlichkeit entsprechen. Ein anregendes Thema, moderiert von Karin Gschnitzer.
-Sogar Erinnerungen lassen sich durch Düfte immer wieder hervorrufen - und das meist ein Leben lang. In der Rubrik "Wiedersehen" zeigen wir Ausschnitte aus der Dokumentation "Altes Kräuterwissen neu entdeckt" und in der Rubrik „Schon gewusst“ entdecken wir spannende Fakten über die Welt der Düfte - von ihrer Wirkung auf uns bis hin zu ihrer Geschichte.</desc>
-  </programme>
-  <programme start="20250307182900 +0100" stop="20250307185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Wolkenstein feiert seinen Weltmeister Alex Vinatzer für seinen Sieg beim Team-Event in Saalbach. 
-In dieser Woche fanden die Junioren-Weltmeisterschaften im Alpinen Skisport und im Biathlon statt. Die Skifahrer Sara Thaler, Jakob Franzelin und Emanuel Lamp standen in Tarvis im Aufgebot der "Azzurri", während die Biathleten Birgit Schölzhorn, Christoph Pircher, Julian Hofer und Rafael Santer in Östersund am Start waren.</desc>
-  </programme>
-  <programme start="20250307200000 +0100" stop="20250307202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250307202100 +0100" stop="20250307212000 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Expert:innen zeigen Petra Tschenett, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen. Theo Hendrich unternimmt eine Genusswanderung rund um den Puflatsch auf der Seiser Alm.
-"Made in Südtirol" beschäftigt sich in dieser Ausgabe mit Innenraumarchitektur. Petra Tschenett trifft Architektinnen, Designer und Innenraumexpertinnen, die zeigen, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen, in der Hotellerie, in Geschäften und im privaten Bereich. Zu Besuch ist sie bei Christiana Biasi von Berg, der Firma Schweitzer in Naturns und bei Petra Tarantello.
-Anschließend unternimmt Theo Hendrich gemeinsam mit Wanderführer Diego Deiana eine Genusswanderung inmitten der atemberaubenden Berglandschaft der Seiser Alm. Abseits vom gewohnten Trubel der Touristenströme umrunden sie den Puflatsch: sanfte Hügel, einsame Wege, urige Holzhütten und ein 360-Grad Blick auf die Bergwelt Südtirols. 
-Bei einer Einkehr auf der Tschötsch-Alm verrät der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
-  </programme>
-  <programme start="20250307212000 +0100" stop="20250307214930 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Sportevents als Wirtschaftsfaktor für ein Tal, Gaststuben als Orte der Begegnung, alkoholfreie Alternativen für die Fastenzeit. Das sind die Themen bei Willkommen, moderiert von Manuela Reiter. Die Biathlon-Europameisterschaften in Martell zieht nicht nur Athleten aus ganz Europa an sondern auch zahlreiche Besucher. Was bedeutet ein Event dieser Größenordnung für den Tourismus im Tal? Außerdem beleuchten wir den Gsieser Tallauf, einer der beliebtesten Skimarathons im Alpenraum. 
-Die Initiative "Dry January" hat eingeladen, 30 Tage lang auf Alkohol zu verzichten. Ähnliche Vorsätze stehen bei vielen auch in der Fastenzeit an. Das Willkommen-Team fragt bei Gastbetrieben, Barkeepern und Getränkevermarktern nach, welche alkoholfreien Alternativen den Gästen geboten werden.
-Bars und Gaststuben sind das soziale Herz vieler Gemeinden. Im Gasthof Eggwirt im Ultental, im Brauhotel Martinerhof im Passeiertal und im Hotel Post Gries in Bozen wird deutlich, wie wichtig diese Treffpunkte für das gesellschaftliche Leben sind. Hier begegnen sich Einheimische und Gäste, tauschen sich aus und pflegen Traditionen. Gerade in Zeiten gesellschaftlicher Veränderungen ist es wichtig, diese Orte der Begegnung zu erhalten und zu unterstützen.</desc>
-  </programme>
-  <programme start="20250307214900 +0100" stop="20250307215731 +0100" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Stephen Lloyd</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250307221000 +0100" stop="20250307223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250308180000 +0100" stop="20250308185800 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title/>
@@ -96,6 +54,218 @@ In df-Info: Die preisgekrönte Masterarbeit von Ingrid Kapeller über die Berich
     <desc/>
   </programme>
   <programme start="20250309221000 +0100" stop="20250309223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250310180000 +0100" stop="20250310181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Partschins empfängt am siebten Spieltag in der Fußball-Oberliga St. Georgen. In der Landesliga kommt es zum Unterlandler Derby zwischen Weinstraße Süd und Leifers, während sich im Kampf um den Klassenerhalt Lana und Kiens gegenüberstehen.</desc>
+  </programme>
+  <programme start="20250310181400 +0100" stop="20250310183230 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Rittergeschichten aus Karneid</sub-title>
+    <desc>Karamela trifft auf Schloss Karneid Ritter Dagobert, der dort einst in Saus und Braus lebte. Obwohl er von den Bauern den Zehent eintrieb, waren seine Kassen immer leer und so konnte er dem König nicht die vereinbarten Abgaben zahlen. Da machte er einen Pakt mit dem Teufel: Doch bevor dieser Dagoberts Seele holen konnte, hat Karamela die rettende Idee: Lachen anstatt Kämpfen - und kitzelnd und lachend nimmt diese Rittergeschichte ein gutes Ende.
+Anschließend stellt Lena stellt das Buch "Kein Stress, Jim" vor.</desc>
+  </programme>
+  <programme start="20250310183300 +0100" stop="20250310185730 +0100" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Kroatischen Luchsen auf der Spur. Einem Mosaik-Baumeister über die Schulter geschaut. Die Beobachtung von vulkanischen Mofetten in Slowenien. Moderation: Sigrid Flenger.
+Luchse zu erforschen ist gar nicht so einfach, weil sie äußerst scheu und zurückgezogen leben. Fotofallen und GPS-Ortung, aber auch die gute alte Sammlung von Proben im Gelände sind wertvoll für die wissenschaftliche Dokumentation. Wir beschreiben das Life Lynx-Projekt zur Rettung der Luchs-Population in Kroatien. 
+Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikkünstler Aljaž Vidrajz ist jedes Material interessant, um ein Mosaik zu machen. 
+In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
+  </programme>
+  <programme start="20250310200000 +0100" stop="20250310202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250310202000 +0100" stop="20250310213030 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20250310213000 +0100" stop="20250310215930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Diskriminierung von Frauen mit Behinderung. Hebamme Burgi Künig im Portrait. Eine preisgekrönte Masterarbeit über die Berichterstattung von Femiziden. Der Genderreport der Eurac. Moderation: Martina Kreuzer.
+Etwa 15 Prozent der weiblichen Bevölkerung lebt mit einer Behinderung. Häufig geht damit eine Mehrfachdiskriminierung einher. Das Recht auf eine selbstbestimmte Lebensführung wird oft eingeschränkt: ob in der Arbeitswelt, in der Familienplanung, im Alltag. dF trifft Aktivistinnen und intersektionale Feministinnen, die aufgrund ihrer körperlichen Behinderung, ihrer Sinnesbeeinträchtigung oder chronischen Krankheit immer wieder ihre Rechte einfordern müssen. 
+Im dF Portrait: Burgi Künig ist seit einem halben Jahrhundert Hebamme. Sie hat unzählige Geburten begleitet, in den letzten Jahren vor allem Hausgeburten und Unmengen von Geschichten dazu zu erzählen. Denn jede Geburt ist einzigartig. 
+In df-Info: Die preisgekrönte Masterarbeit von Ingrid Kapeller über die Berichterstattung von Femiziden und der Genderreport der Eurac.</desc>
+  </programme>
+  <programme start="20250310221000 +0100" stop="20250310223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250311200000 +0100" stop="20250311202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250311202000 +0100" stop="20250311203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250311203500 +0100" stop="20250311204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Partschins empfängt am siebten Spieltag in der Fußball-Oberliga St. Georgen. In der Landesliga kommt es zum Unterlandler Derby zwischen Weinstraße Süd und Leifers, während sich im Kampf um den Klassenerhalt Lana und Kiens gegenüberstehen.</desc>
+  </programme>
+  <programme start="20250311221000 +0100" stop="20250311223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250312200000 +0100" stop="20250312202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250312202000 +0100" stop="20250312204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Viele Tipps zum Verbraucherschutz wie die Echtzeitüberweisung beim Online-Banking. Die neuen Mobilitätsprojekte im Pustertal auf dem Prüfstand und ein Blick auf das Dorfleben von Innichen.
+In Italien darf es bei Unterkünften keinen Self-Check-In mehr geben, um irreguläre Vermietungen einzudämmen. Ladegeräte für Handys müssen jetzt in Italien gesondert vom Smartphone verkauft werden, um Elektromüll zu reduzieren und um den Standard USB-C für alle Geräte durchzusetzen. 
+Seit Januar müssen alle Banken in Europa die Echtzeitüberweisungen empfangen können, ab Oktober können Nutzer:innen diese dann auch überall durchführen.
+Es gibt außerdem Tipps zum Klimaschutz, die man zuhause ganz einfach beherzigen kann, wie richtiges Lüften und bedarfsgerechtes Einkaufen. 
+Südtirol investiert im Zuge von Olympia 2026 in Mobilitätsprojekte wie die Riggertalschleife. Auch der Eisenbahnübergang in Innichen soll entstehen sowie neue Radwege und Kreisverkehre. Doch welchen langfristigen Nutzen haben diese Maßnahmen für die Südtiroler Bevölkerung?
+Das Pluspunkt-Team macht auch einen Abstecher nach Innichen und schaut, wie dort die Handelstreibenden, Gastronomen und Institutionen den Spagat schaffen zwischen der quirligen Tourismusszene und der alteingesessenen Dorfgemeinschaft.</desc>
+  </programme>
+  <programme start="20250312221000 +0100" stop="20250312223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250313200000 +0100" stop="20250313202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250313202000 +0100" stop="20250313204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Am 28. Februar war der Tag der seltenen Krankheiten. Vielen Menschen ist nicht bekannt, wie viele Kinder mit einer Diagnose konfrontiert sind, die ihr Leben und das ihrer Familie für immer prägen wird. 
+Zu Gast ist die Landesschuldirektorin Sigrun Falkensteiner und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250313213000 +0100" stop="20250313215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nächste Woche finden im Engadin die Snowboard-Weltmeisterschaften statt. Südtirols Athleten zählen zu den Medaillenanwärtern. 
+Am Wochenende standen die Landesmeisterschaften im alpinen Skisport und im Biathlon auf dem Programm: Am Watles wurden im Rahmen des Marlene Cup's die U18- und U21-Titel im Super-G vergeben, in Martell fand hingegen der Massenstart der Hubert Leitgeb-Trophäe Raiffeisen statt.</desc>
+  </programme>
+  <programme start="20250313221000 +0100" stop="20250313223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250314180000 +0100" stop="20250314182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Am 28. Februar war der Tag der seltenen Krankheiten. Vielen Menschen ist nicht bekannt, wie viele Kinder mit einer Diagnose konfrontiert sind, die ihr Leben und das ihrer Familie für immer prägen wird. 
+Zu Gast ist die Landesschuldirektorin Sigrun Falkensteiner und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250314182900 +0100" stop="20250314185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nächste Woche finden im Engadin die Snowboard-Weltmeisterschaften statt. Südtirols Athleten zählen zu den Medaillenanwärtern. 
+Am Wochenende standen die Landesmeisterschaften im alpinen Skisport und im Biathlon auf dem Programm: Am Watles wurden im Rahmen des Marlene Cup's die U18- und U21-Titel im Super-G vergeben, in Martell fand hingegen der Massenstart der Hubert Leitgeb-Trophäe Raiffeisen statt.</desc>
+  </programme>
+  <programme start="20250314200000 +0100" stop="20250314202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250314202000 +0100" stop="20250314210020 +0100" channel="Rai Südtirol">
+    <title>Fenster zur Straße</title>
+    <sub-title/>
+    <desc>Ein Streifzug durch Südtirol, entlang der bewegten Geschichte unserer vielen Fenster und ihrer Bewohner davor und dahinter. Ein Film von Willi Rainer.
+
+Ohne Fenster wäre unser Alltag vermutlich kaum vorstellbar. Früher möglichst klein gehalten, können sie heute oft nicht groß genug sein. Fenster geben unserem Blick erst eine Perspektive, sie rahmen unsere Aussicht. Fenster lassen uns zwischen "drinnen" und "draußen" unterscheiden, oftmals viel subtiler als eine Tür, die sperrangelweit offen steht.
+Nicht selten ermöglichen uns Fenster und ihre Aussicht noch einmal einen Blick zurück in die Vergangenheit. Alte Gebäude existieren schon deutlich länger als der sie umgebende Verkehr. Die Straßenführung und so mancher Bebauungsplan mögen sich geändert haben, der besondere Blickwinkel blieb erhalten.</desc>
+  </programme>
+  <programme start="20250314210000 +0100" stop="20250314213014 +0100" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Wien</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250314213000 +0100" stop="20250314215926 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Grenzenlose Kulturhauptstadt 2025 Görz/Nova Gorica, das kleinste Dorf Österreichs und seine slowenische Minderheit, Historiker Hannes Obermair u Gast bei Moderatorin Christina Khuen. Im Dreiländereck von Österreich, Slowenien und Italien liegt eines der kleinsten Dörfer Österreichs: Achomitz/Zahomc. Durch den Bau einer Skisprungschanze hat die dort lebende slowenische Minderheit internationalen Ruhm erlangt.
+Die Stadt Görz/Nova Gorica liegt zum Teil in Italien, zum Teil in Slowenien. Beide Teile wurden zur ersten grenzüberschreitenden Kulturhauptstadt 2025 ernannt. Minet hat die slowenische Minderheit auf der italienischen Seite besucht. 
+Zu Gast im Minet Gespräch ist der Historiker Hannes Obermair. Er ist einer der Herausgeber des bei Edition Raetia erschienenen Buches "Danger Zones - eine Untersuchung zu nationalen Minderheiten in Europa". 
+Im Minet Telegramm sprechen Vertreter:innen europäischer Minderheiten über die Bedeutung von Minderheitenmedien. 
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lässt Minet auch diesmal wieder ein Volk zu Wort kommen, das auf wichtige Themen hinweist: diesmal die kambodschanische Aktivistin Pluk Phirom vom Volk der Bunong.</desc>
+  </programme>
+  <programme start="20250314221000 +0100" stop="20250314223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250315180000 +0100" stop="20250315182930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wie reagieren exportierende Südtiroler Unternehmen auf die angekündigten US-Zölle? Wie gehen unsere Dienstleistungsunternehmen mit High-Tech und K.I. um? Moderation: Christian Pfeifer. Heute ist alles vernetzt. Heißt das also "mitgehangen, mitgefangen"? Unsere Wirtschaft hat in den letzten Jahren große Anstrengungen unternommen, um in Sachen Internationalisierung und Digitalisierung mit den europäischen Partnern und Konkurrenten mithalten zu können. Veränderungen passieren nun aber fast über Nacht. Ein Beispiel dafür sind die angekündigten US-Zölle auf Waren aus Europa. Wie gehen exportierende Südtiroler Unternehmen damit um? 
+Aber auch das rasende Tempo der Digitalisierung bringt so manches Unternehmen an seine Grenzen. High-Tech und K.I. eröffnen Chancen, schaffen aber auch einen hohen Anpassungsdruck, auch bei lokalen und regionalen Dienstleistungsunternehmen.</desc>
+  </programme>
+  <programme start="20250315182900 +0100" stop="20250315185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Das Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Viele Tipps zum Verbraucherschutz wie die Echtzeitüberweisung beim Online-Banking. Die neuen Mobilitätsprojekte im Pustertal auf dem Prüfstand und ein Blick auf das Dorfleben von Innichen.
+In Italien darf es bei Unterkünften keinen Self-Check-In mehr geben, um irreguläre Vermietungen einzudämmen. Ladegeräte für Handys müssen jetzt in Italien gesondert vom Smartphone verkauft werden, um Elektromüll zu reduzieren und um den Standard USB-C für alle Geräte durchzusetzen. 
+Seit Januar müssen alle Banken in Europa die Echtzeitüberweisungen empfangen können, ab Oktober können Nutzer:innen diese dann auch überall durchführen.
+Es gibt außerdem Tipps zum Klimaschutz, die man zuhause ganz einfach beherzigen kann, wie richtiges Lüften und bedarfsgerechtes Einkaufen. 
+Südtirol investiert im Zuge von Olympia 2026 in Mobilitätsprojekte wie die Riggertalschleife. Auch der Eisenbahnübergang in Innichen soll entstehen sowie neue Radwege und Kreisverkehre. Doch welchen langfristigen Nutzen haben diese Maßnahmen für die Südtiroler Bevölkerung?
+Das Pluspunkt-Team macht auch einen Abstecher nach Innichen und schaut, wie dort die Handelstreibenden, Gastronomen und Institutionen den Spagat schaffen zwischen der quirligen Tourismusszene und der alteingesessenen Dorfgemeinschaft.</desc>
+  </programme>
+  <programme start="20250315200000 +0100" stop="20250315202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250315202100 +0100" stop="20250315202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250315202500 +0100" stop="20250315205430 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Der Psychosoziale Dienst in Schlanders, die Sportpsychologin Monika Niederstätter, 10 Jahre Repair-Café Meran und die Wichtigkeit einer Konflikt-Kultur - das sind die Themen, vorgestellt von Moderatorin Lisa Hintner. 
+
+Manchmal gibt es Situationen, in denen Betroffene nicht weiterwissen, zu Medikamenten greifen, im Alkohol Vergessen suchen und sich unmerklich in einer krankhaften Konsumstörung verlieren. In Schlanders ist es der psychosoziale Dienst der Caritas, an den sich Betroffene wenden können. Drei ehemals Betroffene erzählen.
+Für viele sind Bewegung und Sport ein fester Bestandteil des täglichen Lebens. Wenn Leistungsdruck und Stress überwiegen, kann Sport auch schaden. Zu Gast bei Moderatorin Claudia Schuler ist diesmal die Mentaltrainerin und Sportpsychologin Monika Niederstätter: Als ehemalige Leistungssportlerin weiß sie, wie wichtig mentale Stärke ist - für uns alle.
+Was macht man mit einem wackeligen Stuhl, oder mit einem Wollpullover mit Mottenlöchern? Im Repair-Café wird vieles repariert, das ganz und gar nicht auf den Müll müsste. Jenes in Meran ist das erste seiner Art in ganz Italien und feiert nun seinen zehnten Geburtstag. 
+Konflikte müssen gar nicht so negativ sein, sagt Dietlinde "Diete" Gummerer. Sie ist positive Konfliktberaterin im Zentrum Tau in Eppan und Botschafterin des weltweiten Friedensprojektes "The Garden of Peace".</desc>
+  </programme>
+  <programme start="20250315221000 +0100" stop="20250315223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250316202100 +0100" stop="20250316204530 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Der gemeinsame Bau eines Wagens für den Terlaner Fasching, neue Möglichkeiten des Fastens, zu Besuch in der Fachrichtung Grafikdesign des Gymme Meran. Moderation: Mara Marth.
+Wir blicken zurück auf ein Gemeinschaftsprojekt, an dem die Andrianer Jugendgruppe und die "Nalser Gitschn" wochenlang mit viel Liebe gebaut haben: einen Wagen für den Terlaner Faschingsumzug. 
+Asketischer geht es jetzt in der Fastenzeit zu: Wie leben junge Erwachsene diese Wochen und wie zeitgemäß ist das traditionelle Fasten im Sinne des Verzichts überhaupt noch? Das Vinzentinum in Brixen und eine Familie in Sarnthein finden neue Wege, die Fastenzeit sinnvoll zu leben.
+Anschließend besuchen wir die Fachrichtung Grafikdesign des Gymme Meran. Hier lernen Schüler:innen, mit verschiedenen Materialien zu arbeiten und eigene Projekte kreativ umzusetzen.</desc>
+  </programme>
+  <programme start="20250316204500 +0100" stop="20250316204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250316221000 +0100" stop="20250316223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
