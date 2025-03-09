@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250308180000 +0100" stop="20250308185800 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title/>
-    <desc>Expert:innen zeigen Petra Tschenett, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen. Theo Hendrich unternimmt eine Genusswanderung rund um den Puflatsch auf der Seiser Alm.
-"Made in Südtirol" beschäftigt sich in dieser Ausgabe mit Innenraumarchitektur. Petra Tschenett trifft Architektinnen, Designer und Innenraumexpertinnen, die zeigen, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen, in der Hotellerie, in Geschäften und im privaten Bereich. Zu Besuch ist sie bei Christiana Biasi von Berg, der Firma Schweitzer in Naturns und bei Petra Tarantello.
-Anschließend unternimmt Theo Hendrich gemeinsam mit Wanderführer Diego Deiana eine Genusswanderung inmitten der atemberaubenden Berglandschaft der Seiser Alm. Abseits vom gewohnten Trubel der Touristenströme umrunden sie den Puflatsch: sanfte Hügel, einsame Wege, urige Holzhütten und ein 360-Grad Blick auf die Bergwelt Südtirols. 
-Bei einer Einkehr auf der Tschötsch-Alm verrät der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
-  </programme>
-  <programme start="20250308200000 +0100" stop="20250308202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250308202100 +0100" stop="20250308202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250308202500 +0100" stop="20250308204930 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Kroatischen Luchsen auf der Spur. Einem Mosaik-Baumeister über die Schulter geschaut. Die Beobachtung von vulkanischen Mofetten in Slowenien. Moderation: Sigrid Flenger.
-Luchse zu erforschen ist gar nicht so einfach, weil sie äußerst scheu und zurückgezogen leben. Fotofallen und GPS-Ortung, aber auch die gute alte Sammlung von Proben im Gelände sind wertvoll für die wissenschaftliche Dokumentation. Wir beschreiben das Life Lynx-Projekt zur Rettung der Luchs-Population in Kroatien. 
-Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikkünstler Aljaž Vidrajz ist jedes Material interessant, um ein Mosaik zu machen. 
-In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
-  </programme>
-  <programme start="20250308221000 +0100" stop="20250308223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250309200000 +0100" stop="20250309202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
