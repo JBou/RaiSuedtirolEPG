@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250309200000 +0100" stop="20250309202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250309202000 +0100" stop="20250309204930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Diskriminierung von Frauen mit Behinderung. Hebamme Burgi Künig im Portrait. Eine preisgekrönte Masterarbeit über die Berichterstattung von Femiziden. Der Genderreport der Eurac. Moderation: Martina Kreuzer.
-Etwa 15 Prozent der weiblichen Bevölkerung lebt mit einer Behinderung. Häufig geht damit eine Mehrfachdiskriminierung einher. Das Recht auf eine selbstbestimmte Lebensführung wird oft eingeschränkt: ob in der Arbeitswelt, in der Familienplanung, im Alltag. dF trifft Aktivistinnen und intersektionale Feministinnen, die aufgrund ihrer körperlichen Behinderung, ihrer Sinnesbeeinträchtigung oder chronischen Krankheit immer wieder ihre Rechte einfordern müssen. 
-Im dF Portrait: Burgi Künig ist seit einem halben Jahrhundert Hebamme. Sie hat unzählige Geburten begleitet, in den letzten Jahren vor allem Hausgeburten und Unmengen von Geschichten dazu zu erzählen. Denn jede Geburt ist einzigartig. 
-In df-Info: Die preisgekrönte Masterarbeit von Ingrid Kapeller über die Berichterstattung von Femiziden und der Genderreport der Eurac.</desc>
-  </programme>
-  <programme start="20250309205000 +0100" stop="20250309205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250309221000 +0100" stop="20250309223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250310180000 +0100" stop="20250310181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
