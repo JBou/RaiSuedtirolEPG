@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250310180000 +0100" stop="20250310181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Partschins empfängt am siebten Spieltag in der Fußball-Oberliga St. Georgen. In der Landesliga kommt es zum Unterlandler Derby zwischen Weinstraße Süd und Leifers, während sich im Kampf um den Klassenerhalt Lana und Kiens gegenüberstehen.</desc>
-  </programme>
-  <programme start="20250310181400 +0100" stop="20250310183230 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Rittergeschichten aus Karneid</sub-title>
-    <desc>Karamela trifft auf Schloss Karneid Ritter Dagobert, der dort einst in Saus und Braus lebte. Obwohl er von den Bauern den Zehent eintrieb, waren seine Kassen immer leer und so konnte er dem König nicht die vereinbarten Abgaben zahlen. Da machte er einen Pakt mit dem Teufel: Doch bevor dieser Dagoberts Seele holen konnte, hat Karamela die rettende Idee: Lachen anstatt Kämpfen - und kitzelnd und lachend nimmt diese Rittergeschichte ein gutes Ende.
-Anschließend stellt Lena stellt das Buch "Kein Stress, Jim" vor.</desc>
-  </programme>
-  <programme start="20250310183300 +0100" stop="20250310185730 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Kroatischen Luchsen auf der Spur. Einem Mosaik-Baumeister über die Schulter geschaut. Die Beobachtung von vulkanischen Mofetten in Slowenien. Moderation: Sigrid Flenger.
-Luchse zu erforschen ist gar nicht so einfach, weil sie äußerst scheu und zurückgezogen leben. Fotofallen und GPS-Ortung, aber auch die gute alte Sammlung von Proben im Gelände sind wertvoll für die wissenschaftliche Dokumentation. Wir beschreiben das Life Lynx-Projekt zur Rettung der Luchs-Population in Kroatien. 
-Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikkünstler Aljaž Vidrajz ist jedes Material interessant, um ein Mosaik zu machen. 
-In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
-  </programme>
-  <programme start="20250310200000 +0100" stop="20250310202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250310202000 +0100" stop="20250310213030 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20250310213000 +0100" stop="20250310215930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Diskriminierung von Frauen mit Behinderung. Hebamme Burgi Künig im Portrait. Eine preisgekrönte Masterarbeit über die Berichterstattung von Femiziden. Der Genderreport der Eurac. Moderation: Martina Kreuzer.
-Etwa 15 Prozent der weiblichen Bevölkerung lebt mit einer Behinderung. Häufig geht damit eine Mehrfachdiskriminierung einher. Das Recht auf eine selbstbestimmte Lebensführung wird oft eingeschränkt: ob in der Arbeitswelt, in der Familienplanung, im Alltag. dF trifft Aktivistinnen und intersektionale Feministinnen, die aufgrund ihrer körperlichen Behinderung, ihrer Sinnesbeeinträchtigung oder chronischen Krankheit immer wieder ihre Rechte einfordern müssen. 
-Im dF Portrait: Burgi Künig ist seit einem halben Jahrhundert Hebamme. Sie hat unzählige Geburten begleitet, in den letzten Jahren vor allem Hausgeburten und Unmengen von Geschichten dazu zu erzählen. Denn jede Geburt ist einzigartig. 
-In df-Info: Die preisgekrönte Masterarbeit von Ingrid Kapeller über die Berichterstattung von Femiziden und der Genderreport der Eurac.</desc>
-  </programme>
-  <programme start="20250310221000 +0100" stop="20250310223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250311200000 +0100" stop="20250311202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
