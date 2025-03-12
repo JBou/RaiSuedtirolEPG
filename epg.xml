@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250311200000 +0100" stop="20250311202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250311202000 +0100" stop="20250311203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250311203500 +0100" stop="20250311204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Partschins empfängt am siebten Spieltag in der Fußball-Oberliga St. Georgen. In der Landesliga kommt es zum Unterlandler Derby zwischen Weinstraße Süd und Leifers, während sich im Kampf um den Klassenerhalt Lana und Kiens gegenüberstehen.</desc>
-  </programme>
-  <programme start="20250311221000 +0100" stop="20250311223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250312200000 +0100" stop="20250312202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
