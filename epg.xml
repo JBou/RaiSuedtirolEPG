@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250312200000 +0100" stop="20250312202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250312202000 +0100" stop="20250312204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Viele Tipps zum Verbraucherschutz wie die Echtzeitüberweisung beim Online-Banking. Die neuen Mobilitätsprojekte im Pustertal auf dem Prüfstand und ein Blick auf das Dorfleben von Innichen.
-In Italien darf es bei Unterkünften keinen Self-Check-In mehr geben, um irreguläre Vermietungen einzudämmen. Ladegeräte für Handys müssen jetzt in Italien gesondert vom Smartphone verkauft werden, um Elektromüll zu reduzieren und um den Standard USB-C für alle Geräte durchzusetzen. 
-Seit Januar müssen alle Banken in Europa die Echtzeitüberweisungen empfangen können, ab Oktober können Nutzer:innen diese dann auch überall durchführen.
-Es gibt außerdem Tipps zum Klimaschutz, die man zuhause ganz einfach beherzigen kann, wie richtiges Lüften und bedarfsgerechtes Einkaufen. 
-Südtirol investiert im Zuge von Olympia 2026 in Mobilitätsprojekte wie die Riggertalschleife. Auch der Eisenbahnübergang in Innichen soll entstehen sowie neue Radwege und Kreisverkehre. Doch welchen langfristigen Nutzen haben diese Maßnahmen für die Südtiroler Bevölkerung?
-Das Pluspunkt-Team macht auch einen Abstecher nach Innichen und schaut, wie dort die Handelstreibenden, Gastronomen und Institutionen den Spagat schaffen zwischen der quirligen Tourismusszene und der alteingesessenen Dorfgemeinschaft.</desc>
-  </programme>
-  <programme start="20250312221000 +0100" stop="20250312223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250313200000 +0100" stop="20250313202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
