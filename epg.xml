@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250313200000 +0100" stop="20250313202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250313202000 +0100" stop="20250313204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Am 28. Februar war der Tag der seltenen Krankheiten. Vielen Menschen ist nicht bekannt, wie viele Kinder mit einer Diagnose konfrontiert sind, die ihr Leben und das ihrer Familie für immer prägen wird. 
-Zu Gast ist die Landesschuldirektorin Sigrun Falkensteiner und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20250313213000 +0100" stop="20250313215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nächste Woche finden im Engadin die Snowboard-Weltmeisterschaften statt. Südtirols Athleten zählen zu den Medaillenanwärtern. 
-Am Wochenende standen die Landesmeisterschaften im alpinen Skisport und im Biathlon auf dem Programm: Am Watles wurden im Rahmen des Marlene Cup's die U18- und U21-Titel im Super-G vergeben, in Martell fand hingegen der Massenstart der Hubert Leitgeb-Trophäe Raiffeisen statt.</desc>
-  </programme>
-  <programme start="20250313221000 +0100" stop="20250313223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250314180000 +0100" stop="20250314182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -130,6 +108,196 @@ Anschließend besuchen wir die Fachrichtung Grafikdesign des Gymme Meran. Hier l
     <desc/>
   </programme>
   <programme start="20250316221000 +0100" stop="20250316223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317181430 +0100" channel="Rai Südtirol">
+    <title>FußballArena</title>
+    <sub-title/>
+    <desc>23. Spieltag in der Fußball-Oberliga, der SSV Brixen empfängt im Jugendhort St. Pauls. Es ist bereits das 63. Meisterschaftsduell zwischen diesen beiden Traditionsklubs. 
+In der Landesliga kommt es zum Vinschger Derby Latsch gegen Naturns, während Terlan zu Hause auf Salurn trifft.</desc>
+  </programme>
+  <programme start="20250317181400 +0100" stop="20250317182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Faszinierende Schweine</sub-title>
+    <desc>Pfote-Moderator Stefan ist am Jörgnerhof im Pfitschertal und besucht dort Verena und Alexander. Sie haben eine kleine Schweinezucht, und ihre vierbeinigen Freunde können sich in ihren großen Gehegen nach Lust und Laune im Schlamm wälzen oder im Wald Löcher buddeln. Und Stefan verliebt sich sofort in die putzigen Ferkel, auf die Sau Mary immer ein Auge hat.</desc>
+  </programme>
+  <programme start="20250317182900 +0100" stop="20250317185830 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Der Psychosoziale Dienst in Schlanders, die Sportpsychologin Monika Niederstätter, 10 Jahre Repair-Café Meran und die Wichtigkeit einer Konflikt-Kultur - das sind die Themen, vorgestellt von Moderatorin Lisa Hintner. Manchmal gibt es Situationen, in denen Betroffene nicht weiterwissen, zu Medikamenten greifen, im Alkohol Vergessen suchen und sich unmerklich in einer krankhaften Konsumstörung verlieren. In Schlanders ist es der psychosoziale Dienst der Caritas, an den sich Betroffene wenden können. Drei ehemals Betroffene erzählen.
+Für viele sind Bewegung und Sport ein fester Bestandteil des täglichen Lebens. Wenn Leistungsdruck und Stress überwiegen, kann Sport auch schaden. Zu Gast bei Moderatorin Claudia Schuler ist diesmal die Mentaltrainerin und Sportpsychologin Monika Niederstätter: Als ehemalige Leistungssportlerin weiß sie, wie wichtig mentale Stärke ist - für uns alle.
+Was macht man mit einem wackeligen Stuhl, oder mit einem Wollpullover mit Mottenlöchern? Im Repair-Café wird vieles repariert, das ganz und gar nicht auf den Müll müsste. Jenes in Meran ist das erste seiner Art in ganz Italien und feiert nun seinen zehnten Geburtstag. 
+Konflikte müssen gar nicht so negativ sein, sagt Dietlinde "Diete" Gummerer. Sie ist positive Konfliktberaterin im Zentrum Tau in Eppan und Botschafterin des weltweiten Friedensprojektes "The Garden of Peace".</desc>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250317202100 +0100" stop="20250317212030 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Comedian Gianluca Iocolano auf Südtiroltournee, Laura Masten als "Fräulein Braun", Luca Zanottos preisgekrönte Werbefilme, Robotik in der Musik, Barbara Romaner und Luigi Loddi zu Gast.  
+
+Der Brixner Gianluca Iocolano ist Entertainer, Autor und Kabarettist. Bekannt ist der 36jährige Comedian für seine Comedy-Talk-Show "Io.Co Show". Jetzt geht er mit seinem neuen Programm auf Südtirol-Tournee: "Echter Walscher Südtiroler" 
+Die Spielgemeinschaft Vintl/Weitental stellt sich in ihrer Stückauswahl gerne Themen der Zeit:(R)Evolution ist eine intelligente Komödie über das Leben der Zukunft. Absurd, schräg, komisch - und doch beängstigend realistisch. 
+Vor 80 Jahren endete der Zweite Weltkrieg. In Anbetracht der weltweiten Radikalisierungen inszeniert das Theater an der Etsch das Stück "Fräulein Braun" mit Laura Masten in der Rolle der Hitler-Geliebten, die am Tag vor dem gemeinsamen Suizid seine Frau wurde. 
+Lucas Zanotto, geboren in Südtirol, lebt inzwischen in Helsinki. Der Designer, Regisseur und Künstler ist vor allem durch seine humorvollen Werbefilme für Marken wie Google, Barclays oder Amazon bekannt geworden. Seine Arbeiten wurden mit mehreren Preisen ausgezeichnet, darunter dem Apple Design Award und dem Goldenen Löwen der Filmfestspiele von Cannes.
+Was kann Robotik, was kann KI in der Kunst leisten? Dieser Frage ist Hannes Mittermaier, Literaturwissenschaftler und Musiker aus Brixen, nachgegangen. Sein erster großer Song nennt sich "Tabula Rasa" und ist ein E-Gitarren-Duett zwischen ihm und Roboter Hellga Tarr.
+Zu Gast im Kompass sind die Bozner Theater- und Filmschauspielerin Barbara Romaner, derzeit im Stück "Die Entführung der Amygdala", und der Präsident des Filmclub Bozen, Luigi Loddi.</desc>
+  </programme>
+  <programme start="20250317212100 +0100" stop="20250317220000 +0100" channel="Rai Südtirol">
+    <title>Ein Teil von uns</title>
+    <sub-title>Erinnerungen aus der Villa Ibsen</sub-title>
+    <desc>Sigurd Ibsen, der Sohn des weltberühmten norwegischen Dichters Henrik Ibsen, war ein wahrer Kosmopolit. Der Diplomat kaufte schließlich eine Villa in Seis, die heute noch viele Erinnerungen enthält. Schon von klein auf hatte Sigurd Ibsen in vielen verschiedenen Orten gelebt: in Oslo, Kopenhagen, Rom und Neapel, in München und Dresden, in Paris, Wien und Washington...
+Als Sigurd Ibsen 1923 den Kaufvertrag für eine Villa in Seis unterschrieb, war er 63 Jahre alt und blickte auf ein Leben als Diplomat, Politiker, Schriftsteller und Essayist zurück.
+Und die steinerne Villa etwas oberhalb von Seis sollte nach Jahren in Hotels das lang ersehnte Heim der Familie werden. Sie trägt bis heute seinen Namen: Villa Ibsen. Und obwohl seine drei Kinder die Villa im Jahr 1968 verkauften, wirkt ihre Geschichte bis heute in Erinnerungen nach.</desc>
+  </programme>
+  <programme start="20250317221000 +0100" stop="20250317223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250318200000 +0100" stop="20250318202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250318202000 +0100" stop="20250318203430 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250318203500 +0100" stop="20250318204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>23. Spieltag in der Fußball-Oberliga, der SSV Brixen empfängt im Jugendhort St. Pauls. Es ist bereits das 63. Meisterschaftsduell zwischen diesen beiden Traditionsklubs. 
+In der Landesliga kommt es zum Vinschger Derby Latsch gegen Naturns, während Terlan zu Hause auf Salurn trifft.</desc>
+  </programme>
+  <programme start="20250318221000 +0100" stop="20250318223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250319200000 +0100" stop="20250319202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250319202000 +0100" stop="20250319204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Förderung der Friulanischen Sprache und Kultur, Rappen auf Friulanisch, Kriegsreporte Emran Feroz über die Situation in Afghanistan. Es moderiert Christina Khuen. 
+
+2007 hat Minet den Friulanischen Rapper und inzwischen Produzenten Tubet getroffen. Sein Rap auf Friulanisch war damals schon einzigartig - Minet hat nachgesehen, was aus Tubet geworden ist. 
+Friulanisch ist eine rätoromanische Sprache, die von etwa 700.000 Menschen im Nordosten Italiens gesprochen wird. Seit den 1950er Jahren besteht ein vermehrtes Interesse am Schutz und der Förderung der friulanischen Sprache und Kultur. 
+Emran Feroz ist Kriegsreporter, Buchautor und vor allem ein Brückenbauer. Der 33-jährige Tiroler mit afghanischen Wurzeln ist in den vergangenen Jahren zu einem gefragten Journalisten und Experten rund um Afghanistan und den "Krieg gegen den Terror" geworden. Minet hat mit ihm auch über das von den Taliban verhängte Musikverbot in Afghanistan gesprochen. 
+Außerdem zeigt Minet einen Ausschnitt eines Kurzfilms über die Situation der Iran-Azeris an der iranisch-türkischen Grenze und berichtet über die Situation des indigenen Volkes der Enawenê Nawê in Brasilien.</desc>
+  </programme>
+  <programme start="20250319221000 +0100" stop="20250319223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250320200000 +0100" stop="20250320202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250320202000 +0100" stop="20250320204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Generation Z</sub-title>
+    <desc>Wer ist die Generation Z und wie tickt sie? Wie kocht Tina Marcelli? Dies sind nur einige Themen dieser Ausgabe, moderiert von Karin Gschnitzer. 
+
+Sie sind zwischen 1995 und 2010 geboren, sind technologieaffin und gesundheitsbewusst. Wir haben nachgefragt, ob dem wirklich so ist und was sie von den vorhergehenden Generationen lernen können. 
+In der Reihe "So isst Euregio" besuchen wir die Köchin Tina Marcelli und in der Reihe "Wiedersehen" blicken wir in die beliebte Fernsehreihe "Gesichter mit Geschichten", wo Menschen Einblick geben in ihr besonderes Leben.</desc>
+  </programme>
+  <programme start="20250320213000 +0100" stop="20250320215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Am Glockenlift in Schnals wurden die Snowboard-Landesmeisterschaften im Parallel-Slalom ausgetragen, die gleichzeitig auch als FIS-Rennen gewertet wurden. 
+In Gröden wurden hingegen die Langlauf-Landesmeister gekürt, während Antholz Schauplatz der Biathlon-Italienmeisterschaft im Kleinkaliber war.</desc>
+  </programme>
+  <programme start="20250320221000 +0100" stop="20250320223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250321180000 +0100" stop="20250321182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Generation Z</sub-title>
+    <desc>Wer ist die Generation Z und wie tickt sie? Wie kocht Tina Marcelli? Dies sind nur einige Themen dieser Ausgabe, moderiert von Karin Gschnitzer. Sie sind zwischen 1995 und 2010 geboren, sind technologieaffin und gesundheitsbewusst. Wir haben nachgefragt, ob dem wirklich so ist und was sie von den vorhergehenden Generationen lernen können. 
+In der Reihe "So isst Euregio" besuchen wir die Köchin Tina Marcelli und in der Reihe "Wiedersehen" blicken wir in die beliebte Fernsehreihe "Gesichter mit Geschichten", wo Menschen Einblick geben in ihr besonderes Leben.</desc>
+  </programme>
+  <programme start="20250321182900 +0100" stop="20250321185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Am Glockenlift in Schnals wurden die Snowboard-Landesmeisterschaften im Parallel-Slalom ausgetragen, die gleichzeitig auch als FIS-Rennen gewertet wurden. 
+In Gröden wurden hingegen die Langlauf-Landesmeister gekürt, während Antholz Schauplatz der Biathlon-Italienmeisterschaft im Kleinkaliber war.</desc>
+  </programme>
+  <programme start="20250321200000 +0100" stop="20250321202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250321202100 +0100" stop="20250321210441 +0100" channel="Rai Südtirol">
+    <title>Hightech-Helfer in der Luft</title>
+    <sub-title>Drohnen über Südtirol</sub-title>
+    <desc>Wirft man einen Blick in den Himmel, dann entdeckt man häufig Drohnen, die ganz unterschiedlich genutzt werden: in der Bergrettung, bei Film und TV, in den Socialmedia, im Marketing. 
+
+Seit der Entwicklung dieser Hightech-Fluggeräte hat sich auf diesem Sektor viel getan - auch in Südtirol, wo sich so manche Tüftler:innen und Technikbegeisterte beruflich oder privat mit diesen unbemannten Flugobjekten beschäftigen. Die Filmemacher Claudia Bosch und Hans Peter Karbon stellen in ihrer Dokumentation ganz unterschiedliche Einsatzmöglichkeiten von Drohnen vor.</desc>
+  </programme>
+  <programme start="20250321210400 +0100" stop="20250321213330 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
+    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
+Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
+Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
+  </programme>
+  <programme start="20250321213400 +0100" stop="20250321215919 +0100" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Kroatischen Luchsen auf der Spur. Einem Mosaik-Baumeister über die Schulter geschaut. Die Beobachtung von vulkanischen Mofetten in Slowenien. Moderation: Sigrid Flenger.
+Luchse zu erforschen ist gar nicht so einfach, weil sie äußerst scheu und zurückgezogen leben. Fotofallen und GPS-Ortung, aber auch die gute alte Sammlung von Proben im Gelände sind wertvoll für die wissenschaftliche Dokumentation. Wir beschreiben das Life Lynx-Projekt zur Rettung der Luchs-Population in Kroatien. 
+Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikkünstler Aljaž Vidrajz ist jedes Material interessant, um ein Mosaik zu machen. 
+In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
+  </programme>
+  <programme start="20250321221000 +0100" stop="20250321223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250322180000 +0100" stop="20250322185830 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Comedian Gianluca Iocolano auf Südtiroltournee, Laura Masten als "Fräulein Braun", Luca Zanottos preisgekrönte Werbefilme, Robotik in der Musik, Barbara Romaner und Luigi Loddi zu Gast. Der Brixner Gianluca Iocolano ist Entertainer, Autor und Kabarettist. Bekannt ist der 36jährige Comedian für seine Comedy-Talk-Show "Io.Co Show". Jetzt geht er mit seinem neuen Programm auf Südtirol-Tournee: "Echter Walscher Südtiroler" 
+Die Spielgemeinschaft Vintl/Weitental stellt sich in ihrer Stückauswahl gerne Themen der Zeit:(R)Evolution ist eine intelligente Komödie über das Leben der Zukunft. Absurd, schräg, komisch - und doch beängstigend realistisch. 
+Vor 80 Jahren endete der Zweite Weltkrieg. In Anbetracht der weltweiten Radikalisierungen inszeniert das Theater an der Etsch das Stück "Fräulein Braun" mit Laura Masten in der Rolle der Hitler-Geliebten, die am Tag vor dem gemeinsamen Suizid seine Frau wurde. 
+Lucas Zanotto, geboren in Südtirol, lebt inzwischen in Helsinki. Der Designer, Regisseur und Künstler ist vor allem durch seine humorvollen Werbefilme für Marken wie Google, Barclays oder Amazon bekannt geworden. Seine Arbeiten wurden mit mehreren Preisen ausgezeichnet, darunter dem Apple Design Award und dem Goldenen Löwen der Filmfestspiele von Cannes.
+Was kann Robotik, was kann KI in der Kunst leisten? Dieser Frage ist Hannes Mittermaier, Literaturwissenschaftler und Musiker aus Brixen, nachgegangen. Sein erster großer Song nennt sich "Tabula Rasa" und ist ein E-Gitarren-Duett zwischen ihm und Roboter Hellga Tarr.
+Zu Gast im Kompass sind die Bozner Theater- und Filmschauspielerin Barbara Romaner, derzeit im Stück "Die Entführung der Amygdala", und der Präsident des Filmclub Bozen, Luigi Loddi.</desc>
+  </programme>
+  <programme start="20250322200000 +0100" stop="20250322202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250322202100 +0100" stop="20250322202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250322202500 +0100" stop="20250322205430 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Schauplatz Pflege</sub-title>
+    <desc>Wie können Menschen mit Demenz zuhause gut betreut werden? Wie wird in einem Meraner Seniorenwohnheim gearbeitet, wo Menschen mit sehr hohem Pflegebedarf untergebracht sind? 
+
+Pflege ist ein Thema, das uns alle beschäftigt - entweder weil man pflegebedürftige Angehörige hat oder weil man selber irgendwann im Leben Pflege braucht. Dabei geht es vor allem um die Beziehung zwischen den Beteiligten. 70 Prozent der Pflegebedürftigen werden derzeit zuhause betreut - dazu zählen nicht nur ältere, sondern auch jüngere Menschen.
+In der Reportage Gesundheit besucht Ursula Oberschmied eine Frau mit Demenz zuhause und erfährt, wie wichtig dabei eine wertschätzende Kommunikation ist. Und sie schaut sich die neue Abteilung im Pflegeheim St.Josef in Meran an, wo Menschen betreut werden, die eine hochintensive Pflege brauchen, z.B. Wachkomapatienten.</desc>
+  </programme>
+  <programme start="20250322221000 +0100" stop="20250322223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
