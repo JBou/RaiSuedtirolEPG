@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250314180000 +0100" stop="20250314182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Am 28. Februar war der Tag der seltenen Krankheiten. Vielen Menschen ist nicht bekannt, wie viele Kinder mit einer Diagnose konfrontiert sind, die ihr Leben und das ihrer Familie für immer prägen wird. 
-Zu Gast ist die Landesschuldirektorin Sigrun Falkensteiner und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau-Archiv von Rai Südtirol. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20250314182900 +0100" stop="20250314185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nächste Woche finden im Engadin die Snowboard-Weltmeisterschaften statt. Südtirols Athleten zählen zu den Medaillenanwärtern. 
-Am Wochenende standen die Landesmeisterschaften im alpinen Skisport und im Biathlon auf dem Programm: Am Watles wurden im Rahmen des Marlene Cup's die U18- und U21-Titel im Super-G vergeben, in Martell fand hingegen der Massenstart der Hubert Leitgeb-Trophäe Raiffeisen statt.</desc>
-  </programme>
-  <programme start="20250314200000 +0100" stop="20250314202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250314202000 +0100" stop="20250314210020 +0100" channel="Rai Südtirol">
-    <title>Fenster zur Straße</title>
-    <sub-title/>
-    <desc>Ein Streifzug durch Südtirol, entlang der bewegten Geschichte unserer vielen Fenster und ihrer Bewohner davor und dahinter. Ein Film von Willi Rainer.
-
-Ohne Fenster wäre unser Alltag vermutlich kaum vorstellbar. Früher möglichst klein gehalten, können sie heute oft nicht groß genug sein. Fenster geben unserem Blick erst eine Perspektive, sie rahmen unsere Aussicht. Fenster lassen uns zwischen "drinnen" und "draußen" unterscheiden, oftmals viel subtiler als eine Tür, die sperrangelweit offen steht.
-Nicht selten ermöglichen uns Fenster und ihre Aussicht noch einmal einen Blick zurück in die Vergangenheit. Alte Gebäude existieren schon deutlich länger als der sie umgebende Verkehr. Die Straßenführung und so mancher Bebauungsplan mögen sich geändert haben, der besondere Blickwinkel blieb erhalten.</desc>
-  </programme>
-  <programme start="20250314210000 +0100" stop="20250314213014 +0100" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Wien</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250314213000 +0100" stop="20250314215926 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Grenzenlose Kulturhauptstadt 2025 Görz/Nova Gorica, das kleinste Dorf Österreichs und seine slowenische Minderheit, Historiker Hannes Obermair u Gast bei Moderatorin Christina Khuen. Im Dreiländereck von Österreich, Slowenien und Italien liegt eines der kleinsten Dörfer Österreichs: Achomitz/Zahomc. Durch den Bau einer Skisprungschanze hat die dort lebende slowenische Minderheit internationalen Ruhm erlangt.
-Die Stadt Görz/Nova Gorica liegt zum Teil in Italien, zum Teil in Slowenien. Beide Teile wurden zur ersten grenzüberschreitenden Kulturhauptstadt 2025 ernannt. Minet hat die slowenische Minderheit auf der italienischen Seite besucht. 
-Zu Gast im Minet Gespräch ist der Historiker Hannes Obermair. Er ist einer der Herausgeber des bei Edition Raetia erschienenen Buches "Danger Zones - eine Untersuchung zu nationalen Minderheiten in Europa". 
-Im Minet Telegramm sprechen Vertreter:innen europäischer Minderheiten über die Bedeutung von Minderheitenmedien. 
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lässt Minet auch diesmal wieder ein Volk zu Wort kommen, das auf wichtige Themen hinweist: diesmal die kambodschanische Aktivistin Pluk Phirom vom Volk der Bunong.</desc>
-  </programme>
-  <programme start="20250314221000 +0100" stop="20250314223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250315180000 +0100" stop="20250315182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -298,6 +254,29 @@ Pflege ist ein Thema, das uns alle beschäftigt - entweder weil man pflegebedür
 In der Reportage Gesundheit besucht Ursula Oberschmied eine Frau mit Demenz zuhause und erfährt, wie wichtig dabei eine wertschätzende Kommunikation ist. Und sie schaut sich die neue Abteilung im Pflegeheim St.Josef in Meran an, wo Menschen betreut werden, die eine hochintensive Pflege brauchen, z.B. Wachkomapatienten.</desc>
   </programme>
   <programme start="20250322221000 +0100" stop="20250322223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250323200000 +0100" stop="20250323202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250323202100 +0100" stop="20250323205030 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Gottfried Ugolini</sub-title>
+    <desc>In der kommenden Ausgabe von "Privat" spricht Markus Frings mit Gottfried Ugolini, einem Priester, der sich seit Jahren für die Aufarbeitung von Missbrauchsfällen innerhalb der Kirche einsetzt.
+
+Gottfried Ugolini begann seine Laufbahn als hauptamtlicher Mitarbeiter von Südtirols Katholischer Jugend, bevor er 1987 zum Priester geweiht wurde. Heute ist er in der Diözese Bozen-Brixen sowie in der Italienischen Bischofskonferenz für die Aufarbeitung und Prävention von Missbrauch zuständig. Gleichzeitig ist er Psychologe und auch Jungschar- und Jugendseelsorger.
+Wie geht die Kirche mit diesem schwierigen Erbe um? Wie geht er persönlich damit um? Diese und weitere Fragen stehen im Mittelpunkt dieses offenen und tiefgehenden Gesprächs.</desc>
+  </programme>
+  <programme start="20250323205000 +0100" stop="20250323205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250323221000 +0100" stop="20250323223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
