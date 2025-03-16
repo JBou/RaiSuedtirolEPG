@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250315180000 +0100" stop="20250315182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wie reagieren exportierende Südtiroler Unternehmen auf die angekündigten US-Zölle? Wie gehen unsere Dienstleistungsunternehmen mit High-Tech und K.I. um? Moderation: Christian Pfeifer. Heute ist alles vernetzt. Heißt das also "mitgehangen, mitgefangen"? Unsere Wirtschaft hat in den letzten Jahren große Anstrengungen unternommen, um in Sachen Internationalisierung und Digitalisierung mit den europäischen Partnern und Konkurrenten mithalten zu können. Veränderungen passieren nun aber fast über Nacht. Ein Beispiel dafür sind die angekündigten US-Zölle auf Waren aus Europa. Wie gehen exportierende Südtiroler Unternehmen damit um? 
-Aber auch das rasende Tempo der Digitalisierung bringt so manches Unternehmen an seine Grenzen. High-Tech und K.I. eröffnen Chancen, schaffen aber auch einen hohen Anpassungsdruck, auch bei lokalen und regionalen Dienstleistungsunternehmen.</desc>
-  </programme>
-  <programme start="20250315182900 +0100" stop="20250315185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Das Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Viele Tipps zum Verbraucherschutz wie die Echtzeitüberweisung beim Online-Banking. Die neuen Mobilitätsprojekte im Pustertal auf dem Prüfstand und ein Blick auf das Dorfleben von Innichen.
-In Italien darf es bei Unterkünften keinen Self-Check-In mehr geben, um irreguläre Vermietungen einzudämmen. Ladegeräte für Handys müssen jetzt in Italien gesondert vom Smartphone verkauft werden, um Elektromüll zu reduzieren und um den Standard USB-C für alle Geräte durchzusetzen. 
-Seit Januar müssen alle Banken in Europa die Echtzeitüberweisungen empfangen können, ab Oktober können Nutzer:innen diese dann auch überall durchführen.
-Es gibt außerdem Tipps zum Klimaschutz, die man zuhause ganz einfach beherzigen kann, wie richtiges Lüften und bedarfsgerechtes Einkaufen. 
-Südtirol investiert im Zuge von Olympia 2026 in Mobilitätsprojekte wie die Riggertalschleife. Auch der Eisenbahnübergang in Innichen soll entstehen sowie neue Radwege und Kreisverkehre. Doch welchen langfristigen Nutzen haben diese Maßnahmen für die Südtiroler Bevölkerung?
-Das Pluspunkt-Team macht auch einen Abstecher nach Innichen und schaut, wie dort die Handelstreibenden, Gastronomen und Institutionen den Spagat schaffen zwischen der quirligen Tourismusszene und der alteingesessenen Dorfgemeinschaft.</desc>
-  </programme>
-  <programme start="20250315200000 +0100" stop="20250315202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250315202100 +0100" stop="20250315202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250315202500 +0100" stop="20250315205430 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Der Psychosoziale Dienst in Schlanders, die Sportpsychologin Monika Niederstätter, 10 Jahre Repair-Café Meran und die Wichtigkeit einer Konflikt-Kultur - das sind die Themen, vorgestellt von Moderatorin Lisa Hintner. 
-
-Manchmal gibt es Situationen, in denen Betroffene nicht weiterwissen, zu Medikamenten greifen, im Alkohol Vergessen suchen und sich unmerklich in einer krankhaften Konsumstörung verlieren. In Schlanders ist es der psychosoziale Dienst der Caritas, an den sich Betroffene wenden können. Drei ehemals Betroffene erzählen.
-Für viele sind Bewegung und Sport ein fester Bestandteil des täglichen Lebens. Wenn Leistungsdruck und Stress überwiegen, kann Sport auch schaden. Zu Gast bei Moderatorin Claudia Schuler ist diesmal die Mentaltrainerin und Sportpsychologin Monika Niederstätter: Als ehemalige Leistungssportlerin weiß sie, wie wichtig mentale Stärke ist - für uns alle.
-Was macht man mit einem wackeligen Stuhl, oder mit einem Wollpullover mit Mottenlöchern? Im Repair-Café wird vieles repariert, das ganz und gar nicht auf den Müll müsste. Jenes in Meran ist das erste seiner Art in ganz Italien und feiert nun seinen zehnten Geburtstag. 
-Konflikte müssen gar nicht so negativ sein, sagt Dietlinde "Diete" Gummerer. Sie ist positive Konfliktberaterin im Zentrum Tau in Eppan und Botschafterin des weltweiten Friedensprojektes "The Garden of Peace".</desc>
-  </programme>
-  <programme start="20250315221000 +0100" stop="20250315223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250316200000 +0100" stop="20250316202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
