@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250316200000 +0100" stop="20250316202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250316202100 +0100" stop="20250316204530 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der gemeinsame Bau eines Wagens für den Terlaner Fasching, neue Möglichkeiten des Fastens, zu Besuch in der Fachrichtung Grafikdesign des Gymme Meran. Moderation: Mara Marth.
-Wir blicken zurück auf ein Gemeinschaftsprojekt, an dem die Andrianer Jugendgruppe und die "Nalser Gitschn" wochenlang mit viel Liebe gebaut haben: einen Wagen für den Terlaner Faschingsumzug. 
-Asketischer geht es jetzt in der Fastenzeit zu: Wie leben junge Erwachsene diese Wochen und wie zeitgemäß ist das traditionelle Fasten im Sinne des Verzichts überhaupt noch? Das Vinzentinum in Brixen und eine Familie in Sarnthein finden neue Wege, die Fastenzeit sinnvoll zu leben.
-Anschließend besuchen wir die Fachrichtung Grafikdesign des Gymme Meran. Hier lernen Schüler:innen, mit verschiedenen Materialien zu arbeiten und eigene Projekte kreativ umzusetzen.</desc>
-  </programme>
-  <programme start="20250316204500 +0100" stop="20250316204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250316221000 +0100" stop="20250316223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250317180000 +0100" stop="20250317181430 +0100" channel="Rai Südtirol">
     <title>FußballArena</title>
     <sub-title/>
