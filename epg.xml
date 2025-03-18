@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250317180000 +0100" stop="20250317181430 +0100" channel="Rai Südtirol">
-    <title>FußballArena</title>
-    <sub-title/>
-    <desc>23. Spieltag in der Fußball-Oberliga, der SSV Brixen empfängt im Jugendhort St. Pauls. Es ist bereits das 63. Meisterschaftsduell zwischen diesen beiden Traditionsklubs. 
-In der Landesliga kommt es zum Vinschger Derby Latsch gegen Naturns, während Terlan zu Hause auf Salurn trifft.</desc>
-  </programme>
-  <programme start="20250317181400 +0100" stop="20250317182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Faszinierende Schweine</sub-title>
-    <desc>Pfote-Moderator Stefan ist am Jörgnerhof im Pfitschertal und besucht dort Verena und Alexander. Sie haben eine kleine Schweinezucht, und ihre vierbeinigen Freunde können sich in ihren großen Gehegen nach Lust und Laune im Schlamm wälzen oder im Wald Löcher buddeln. Und Stefan verliebt sich sofort in die putzigen Ferkel, auf die Sau Mary immer ein Auge hat.</desc>
-  </programme>
-  <programme start="20250317182900 +0100" stop="20250317185830 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Der Psychosoziale Dienst in Schlanders, die Sportpsychologin Monika Niederstätter, 10 Jahre Repair-Café Meran und die Wichtigkeit einer Konflikt-Kultur - das sind die Themen, vorgestellt von Moderatorin Lisa Hintner. Manchmal gibt es Situationen, in denen Betroffene nicht weiterwissen, zu Medikamenten greifen, im Alkohol Vergessen suchen und sich unmerklich in einer krankhaften Konsumstörung verlieren. In Schlanders ist es der psychosoziale Dienst der Caritas, an den sich Betroffene wenden können. Drei ehemals Betroffene erzählen.
-Für viele sind Bewegung und Sport ein fester Bestandteil des täglichen Lebens. Wenn Leistungsdruck und Stress überwiegen, kann Sport auch schaden. Zu Gast bei Moderatorin Claudia Schuler ist diesmal die Mentaltrainerin und Sportpsychologin Monika Niederstätter: Als ehemalige Leistungssportlerin weiß sie, wie wichtig mentale Stärke ist - für uns alle.
-Was macht man mit einem wackeligen Stuhl, oder mit einem Wollpullover mit Mottenlöchern? Im Repair-Café wird vieles repariert, das ganz und gar nicht auf den Müll müsste. Jenes in Meran ist das erste seiner Art in ganz Italien und feiert nun seinen zehnten Geburtstag. 
-Konflikte müssen gar nicht so negativ sein, sagt Dietlinde "Diete" Gummerer. Sie ist positive Konfliktberaterin im Zentrum Tau in Eppan und Botschafterin des weltweiten Friedensprojektes "The Garden of Peace".</desc>
-  </programme>
-  <programme start="20250317200000 +0100" stop="20250317202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250317202100 +0100" stop="20250317212030 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Comedian Gianluca Iocolano auf Südtiroltournee, Laura Masten als "Fräulein Braun", Luca Zanottos preisgekrönte Werbefilme, Robotik in der Musik, Barbara Romaner und Luigi Loddi zu Gast.  
-
-Der Brixner Gianluca Iocolano ist Entertainer, Autor und Kabarettist. Bekannt ist der 36jährige Comedian für seine Comedy-Talk-Show "Io.Co Show". Jetzt geht er mit seinem neuen Programm auf Südtirol-Tournee: "Echter Walscher Südtiroler" 
-Die Spielgemeinschaft Vintl/Weitental stellt sich in ihrer Stückauswahl gerne Themen der Zeit:(R)Evolution ist eine intelligente Komödie über das Leben der Zukunft. Absurd, schräg, komisch - und doch beängstigend realistisch. 
-Vor 80 Jahren endete der Zweite Weltkrieg. In Anbetracht der weltweiten Radikalisierungen inszeniert das Theater an der Etsch das Stück "Fräulein Braun" mit Laura Masten in der Rolle der Hitler-Geliebten, die am Tag vor dem gemeinsamen Suizid seine Frau wurde. 
-Lucas Zanotto, geboren in Südtirol, lebt inzwischen in Helsinki. Der Designer, Regisseur und Künstler ist vor allem durch seine humorvollen Werbefilme für Marken wie Google, Barclays oder Amazon bekannt geworden. Seine Arbeiten wurden mit mehreren Preisen ausgezeichnet, darunter dem Apple Design Award und dem Goldenen Löwen der Filmfestspiele von Cannes.
-Was kann Robotik, was kann KI in der Kunst leisten? Dieser Frage ist Hannes Mittermaier, Literaturwissenschaftler und Musiker aus Brixen, nachgegangen. Sein erster großer Song nennt sich "Tabula Rasa" und ist ein E-Gitarren-Duett zwischen ihm und Roboter Hellga Tarr.
-Zu Gast im Kompass sind die Bozner Theater- und Filmschauspielerin Barbara Romaner, derzeit im Stück "Die Entführung der Amygdala", und der Präsident des Filmclub Bozen, Luigi Loddi.</desc>
-  </programme>
-  <programme start="20250317212100 +0100" stop="20250317220000 +0100" channel="Rai Südtirol">
-    <title>Ein Teil von uns</title>
-    <sub-title>Erinnerungen aus der Villa Ibsen</sub-title>
-    <desc>Sigurd Ibsen, der Sohn des weltberühmten norwegischen Dichters Henrik Ibsen, war ein wahrer Kosmopolit. Der Diplomat kaufte schließlich eine Villa in Seis, die heute noch viele Erinnerungen enthält. Schon von klein auf hatte Sigurd Ibsen in vielen verschiedenen Orten gelebt: in Oslo, Kopenhagen, Rom und Neapel, in München und Dresden, in Paris, Wien und Washington...
-Als Sigurd Ibsen 1923 den Kaufvertrag für eine Villa in Seis unterschrieb, war er 63 Jahre alt und blickte auf ein Leben als Diplomat, Politiker, Schriftsteller und Essayist zurück.
-Und die steinerne Villa etwas oberhalb von Seis sollte nach Jahren in Hotels das lang ersehnte Heim der Familie werden. Sie trägt bis heute seinen Namen: Villa Ibsen. Und obwohl seine drei Kinder die Villa im Jahr 1968 verkauften, wirkt ihre Geschichte bis heute in Erinnerungen nach.</desc>
-  </programme>
-  <programme start="20250317221000 +0100" stop="20250317223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250318200000 +0100" stop="20250318202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
