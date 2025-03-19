@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250318200000 +0100" stop="20250318202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250318202000 +0100" stop="20250318203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250318203500 +0100" stop="20250318204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>23. Spieltag in der Fußball-Oberliga, der SSV Brixen empfängt im Jugendhort St. Pauls. Es ist bereits das 63. Meisterschaftsduell zwischen diesen beiden Traditionsklubs. 
-In der Landesliga kommt es zum Vinschger Derby Latsch gegen Naturns, während Terlan zu Hause auf Salurn trifft.</desc>
-  </programme>
-  <programme start="20250318221000 +0100" stop="20250318223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250319200000 +0100" stop="20250319202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
