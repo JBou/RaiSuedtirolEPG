@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250319200000 +0100" stop="20250319202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250319202000 +0100" stop="20250319204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Förderung der Friulanischen Sprache und Kultur, Rappen auf Friulanisch, Kriegsreporte Emran Feroz über die Situation in Afghanistan. Es moderiert Christina Khuen. 
-
-2007 hat Minet den Friulanischen Rapper und inzwischen Produzenten Tubet getroffen. Sein Rap auf Friulanisch war damals schon einzigartig - Minet hat nachgesehen, was aus Tubet geworden ist. 
-Friulanisch ist eine rätoromanische Sprache, die von etwa 700.000 Menschen im Nordosten Italiens gesprochen wird. Seit den 1950er Jahren besteht ein vermehrtes Interesse am Schutz und der Förderung der friulanischen Sprache und Kultur. 
-Emran Feroz ist Kriegsreporter, Buchautor und vor allem ein Brückenbauer. Der 33-jährige Tiroler mit afghanischen Wurzeln ist in den vergangenen Jahren zu einem gefragten Journalisten und Experten rund um Afghanistan und den "Krieg gegen den Terror" geworden. Minet hat mit ihm auch über das von den Taliban verhängte Musikverbot in Afghanistan gesprochen. 
-Außerdem zeigt Minet einen Ausschnitt eines Kurzfilms über die Situation der Iran-Azeris an der iranisch-türkischen Grenze und berichtet über die Situation des indigenen Volkes der Enawenê Nawê in Brasilien.</desc>
-  </programme>
-  <programme start="20250319221000 +0100" stop="20250319223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250320200000 +0100" stop="20250320202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -144,6 +124,145 @@ Wie geht die Kirche mit diesem schwierigen Erbe um? Wie geht er persönlich dami
     <desc/>
   </programme>
   <programme start="20250323221000 +0100" stop="20250323223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250324180000 +0100" stop="20250324181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>In der Fußball-Oberliga trifft im Spitzenspiel der 24. Runde Partschins zu Hause auf Tramin. In der Landesliga muss Latzfons Verdings auswärts bei Weinstraße Süd unbedingt punkten, um aus der Abstiegszone zu kommen. Und Ahrntal braucht in Vals gegen Gitschberg Jochtal einen Sieg um aufzusteigen.</desc>
+  </programme>
+  <programme start="20250324181400 +0100" stop="20250324182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Biathlon</sub-title>
+    <desc>Auch Kinder lieben Biathlon, sowohl den Skilanglauf als auch das Schießen. Beides trainieren die Sportkids aus Antholz in der Südtirolarena, in der im nächsten Jahr Olympische Rennen bestritten werden. Die Kleineren schießen noch mit winzigen Bleikugeln aus Luftdruckgewehren, die größeren allerdings bereits mit Kleinkaliberwaffen. Egal ob im Liegen oder Stehen - alle Kinder sind sich einig: Schießen ist einfach cool!</desc>
+  </programme>
+  <programme start="20250324182900 +0100" stop="20250324185830 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Schauplatz Pflege</sub-title>
+    <desc>Wie können Menschen mit Demenz zuhause gut betreut werden? Wie wird in einem Meraner Seniorenwohnheim gearbeitet, wo Menschen mit sehr hohem Pflegebedarf untergebracht sind? Pflege ist ein Thema, das uns alle beschäftigt - entweder weil man pflegebedürftige Angehörige hat oder weil man selber irgendwann im Leben Pflege braucht. Dabei geht es vor allem um die Beziehung zwischen den Beteiligten. 70 Prozent der Pflegebedürftigen werden derzeit zuhause betreut - dazu zählen nicht nur ältere, sondern auch jüngere Menschen.
+In der Reportage Gesundheit besucht Ursula Oberschmied eine Frau mit Demenz zuhause und erfährt, wie wichtig dabei eine wertschätzende Kommunikation ist. Und sie schaut sich die neue Abteilung im Pflegeheim St.Josef in Meran an, wo Menschen betreut werden, die eine hochintensive Pflege brauchen, z.B. Wachkomapatienten.</desc>
+  </programme>
+  <programme start="20250324200000 +0100" stop="20250324202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250324202000 +0100" stop="20250324220000 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut: Menschen mit Behinderung - inklusive</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Wir fühlen uns inklusiv, aber sind wir es? Wie verlieren wir die Scheu voreinander? Ein Film über Trisomie 21 regt zum Nachdenken an. Ebenso die anschließende Diskussion geleitet von Gabi Crepaz. 
+
+In der Optimierungsgesellschaft, in der Menschen wie Waren perfektioniert werden, sieht die Realität so aus: Trotz Inklusion bleiben Menschen mit Behinderung am Rand. Menschen mit Trisomie 21 z.B. kommen kaum mehr zur Welt. Der Film von Ulli Velano hingegen zeigt, was wir Menschen mit Trisomie 21 zutrauen können. 
+Zwei Gegensätze also, Inklusion versus Perfektion. Und die Frage: Wie verlieren wir die Scheu voreinander? Darüber sprechen Claudia Schuler, Handbike-Olympionikin und jetzt Reporterin für Rai Südtirol, Sonja Bacher, Präsidentin des Vereins "Il Sorriso - das Lächeln", und Mareike Sölch, Autorin des Buchs "Total behindert". 
+Im Interview: Karl Dallinger vom Theater La Ribalta, und Manuela Stecher, Geschäftsführerin der WunderBAR in Brixen, mit den Mitarbeiterinnen Miriam Oberhollenzer und Jasmin Thöni. Gabriele Crepaz moderiert aus dem T.Raum des Theaters "La Ribalta - Kunst der Vielfalt" in Bozen.</desc>
+  </programme>
+  <programme start="20250324221000 +0100" stop="20250324223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250325200000 +0100" stop="20250325202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250325202000 +0100" stop="20250325203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250325203500 +0100" stop="20250325204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>In der Fußball-Oberliga trifft im Spitzenspiel der 24. Runde Partschins zu Hause auf Tramin. In der Landesliga muss Latzfons Verdings auswärts bei Weinstraße Süd unbedingt punkten, um aus der Abstiegszone zu kommen. Und Ahrntal braucht in Vals gegen Gitschberg Jochtal einen Sieg um aufzusteigen.</desc>
+  </programme>
+  <programme start="20250325221000 +0100" stop="20250325223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250326200000 +0100" stop="20250326202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250326202000 +0100" stop="20250326204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Die Bäuerin des Jahres 2025 im Porträt, das Samenfest für lokale Samen- und Pflanzenvielfalt, ein Film von zwei freiwilligen Helfern über die Bergbauernhilfe. Moderation: Marianna Kasseroler.
+
+"Es konn lei aufwärts gian" - so lautet das Motto der Bäuerin des Jahres 2025. Trotz vieler Schicksalsschläge und Widerstände hat sie den Betrieb als Hofinhaberin mutig weitergeführt. Sie scheut weder die schwere körperliche Arbeit noch den Einsatz mit Maschinen. Land&amp;Leben zeigt das Portrait einer wahrhaftig starken Frau. 
+Weitere Berichte widmen sich den vielen Erhalterinnen von altem und lokalem Saatgut, das sie anbauen und vermehren. Damit bewahren sie wertvolles Kulturgut vor dem Verschwinden. Beim Samenfest zeigten sie ihre Schätze. 
+"Mithelfen und Miterleben" heißt der Film von zwei freiwilligen Helfern über die Bergbauernhilfe in Südtirol. Land&amp;Leben zeigt Ausschnitte daraus und spricht mit den Filmemachern sowie Helfern und Bauern.</desc>
+  </programme>
+  <programme start="20250326221000 +0100" stop="20250326223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250327200000 +0100" stop="20250327202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250327202000 +0100" stop="20250327204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Licht</sub-title>
+    <desc>Licht ist dafür verantwortlich, dass wir gut schlafen und uns am Tag wohlfühlen. Fehlt dieser wichtige Zeitgeber, kommt unsere innere Uhr aus dem Takt. Es moderiert Magdalena Oberstaller. 
+Aktuelle Studien belegen, dass der natürliche Wechsel von Tageslicht zu Dunkelheit und umgekehrt viele biologische Vorgänge im Körper steuert. Zu Gast in der Sendung ist Astronom David Gruber, der Direktor des Naturmuseums Bozen. 
+In der Rubrik "Unser Gedächtnis" blicken wir in das Tagesschau-Archiv von Rai Südtirol und zeigen in "Wiedersehen" einen Ausschnitt aus der Doku "Lichtverschmutzung".</desc>
+  </programme>
+  <programme start="20250327213000 +0100" stop="20250327215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Saison-Ausklang für den einheimischen Skinachwuchs: Auf der Seiseralm findet das Finale der VSS-Landesmeisterschaft für die Altersklassen bis 12 Jahren statt, während auf der Rinneralm der letzte Riesentorlauf des heurigen Marlene-Cup's für die Kategorien U18 und U21 ausgetragen wird Auch die Langläufer beenden die Saison in Sulden mit der Landesmeisterschaft im Massenstart.</desc>
+  </programme>
+  <programme start="20250327221000 +0100" stop="20250327223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250328180000 +0100" stop="20250328182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Licht</sub-title>
+    <desc>Licht ist dafür verantwortlich, dass wir gut schlafen und uns am Tag wohlfühlen. Fehlt dieser wichtige Zeitgeber, kommt unsere innere Uhr aus dem Takt. Es moderiert Magdalena Oberstaller. Aktuelle Studien belegen, dass der natürliche Wechsel von Tageslicht zu Dunkelheit und umgekehrt viele biologische Vorgänge im Körper steuert. Zu Gast in der Sendung ist Astronom David Gruber, der Direktor des Naturmuseums Bozen. 
+In der Rubrik "Unser Gedächtnis" blicken wir in das Tagesschau-Archiv von Rai Südtirol und zeigen in "Wiedersehen" einen Ausschnitt aus der Doku "Lichtverschmutzung".</desc>
+  </programme>
+  <programme start="20250328182900 +0100" stop="20250328185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Saison-Ausklang für den einheimischen Skinachwuchs: Auf der Seiseralm findet das Finale der VSS-Landesmeisterschaft für die Altersklassen bis 12 Jahren statt, während auf der Rinneralm der letzte Riesentorlauf des heurigen Marlene-Cup's für die Kategorien U18 und U21 ausgetragen wird. Auch die Langläufer beenden die Saison in Sulden mit der Landesmeisterschaft im Massenstart.</desc>
+  </programme>
+  <programme start="20250328200000 +0100" stop="20250328202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250328202100 +0100" stop="20250328202544 +0100" channel="Rai Südtirol">
+    <title>In memoriam Robert Fliri</title>
+    <sub-title/>
+    <desc>Der Erfinder der Barfuß-Zehenschuhe starb kürzlich bei einer Skitour in Matsch. Ein Kurzporträt erinnert an den 48Jährigen Designer, der mit seiner Familie in Gargazon lebte.
+Robert Fliri war der Erfinder der "Five Fingers", jener Barfuß-Zehenschuhe, die die New York Times 2007 als "beste Erfindung des Jahres" bezeichnet hatte. Nachdem seine Idee mehrmals abgelehnt worden war, brachte er 2005 mit einem italienischen Sohlenhersteller die ersten Barfuß-Zehenschuhe auf den Markt: Die Schuhe folgen dem Prinzip einer "künstlichen Hornhaut" und schmiegen sich wie Handschuhe an den Fuß, um den Zehen den größtmöglichen Spielraum zu schenken. Und sie kommen ohne Federung oder stabilisierende Elemente aus. Dadurch soll der Fuß wieder lernen, sich auf seine Rezeptoren zu verlassen und den Untergrund richtig zu spüren. In den USA waren die Schuhe sofortig ein Verkaufsschlager - auch in Europa setzte sich die Erfindung nach einiger Zeit durch. 
+Der gebürtige Naturnser musste seine Bergbegeisterung mit dem Leben bezahlen. Er starb am 5.März bei einer Skitour.</desc>
+  </programme>
+  <programme start="20250328202500 +0100" stop="20250328210913 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Aussteigen - Einsteigen</title>
+    <sub-title>Auf der Suche nach Mehr</sub-title>
+    <desc>Manche von ihnen hat ein Schicksalsschlag bewogen umzusteigen und anders weiterzugehen.
+Einige sind gar keine Aussteiger, weil sie immer schon anders gedacht haben. In dieser Dokumentation von Astrid Kofler und Günther Neumair erzählen sieben Menschen aus Südtirol von ihrer Suche nach Mehr: die ökologisch arbeitende Landfrau Anna Folie aus Mals, der Fotokünstler Heinrich Wegmann aus Bozen, der Bildhauer Markus Delago aus St. Ulrich, der Vinschger Liedermacher Dominik Plangger, der Natur- und Wildnistrainer Elmar Baldauf und der Baubiologe Werner Schönthaler.</desc>
+  </programme>
+  <programme start="20250328210900 +0100" stop="20250328215833 +0100" channel="Rai Südtirol">
+    <title>Über Österreich</title>
+    <sub-title>Natur und Leben aus der Luft</sub-title>
+    <desc>Einige der schönsten Flecken der Welt liegen im südlichen Österreich, in Kärnten und der
+Steiermark - die Kärntner Seenplatte etwa oder das Wechselland.
+Filmemacher Georg Riha gelingt es auch in diesem Film aus der Reihe "Über Österreich" den
+Gebirgen und Gewässern, den Tälern und Siedlungen neue, beeindruckende Perspektiven abzugewinnen. Es ist eine spannende und abwechslungsreiche filmische Landvermessung aus der Vogelperspektive.
+Sprecher und Erzähler ist der Burgschauspieler Peter Simonischek.</desc>
+  </programme>
+  <programme start="20250328221000 +0100" stop="20250328223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
