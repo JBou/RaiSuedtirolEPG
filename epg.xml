@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250320200000 +0100" stop="20250320202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250320202000 +0100" stop="20250320204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Generation Z</sub-title>
-    <desc>Wer ist die Generation Z und wie tickt sie? Wie kocht Tina Marcelli? Dies sind nur einige Themen dieser Ausgabe, moderiert von Karin Gschnitzer. 
-
-Sie sind zwischen 1995 und 2010 geboren, sind technologieaffin und gesundheitsbewusst. Wir haben nachgefragt, ob dem wirklich so ist und was sie von den vorhergehenden Generationen lernen können. 
-In der Reihe "So isst Euregio" besuchen wir die Köchin Tina Marcelli und in der Reihe "Wiedersehen" blicken wir in die beliebte Fernsehreihe "Gesichter mit Geschichten", wo Menschen Einblick geben in ihr besonderes Leben.</desc>
-  </programme>
-  <programme start="20250320213000 +0100" stop="20250320215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Am Glockenlift in Schnals wurden die Snowboard-Landesmeisterschaften im Parallel-Slalom ausgetragen, die gleichzeitig auch als FIS-Rennen gewertet wurden. 
-In Gröden wurden hingegen die Langlauf-Landesmeister gekürt, während Antholz Schauplatz der Biathlon-Italienmeisterschaft im Kleinkaliber war.</desc>
-  </programme>
-  <programme start="20250320221000 +0100" stop="20250320223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250321180000 +0100" stop="20250321182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Generation Z</sub-title>
@@ -263,6 +239,42 @@ Gebirgen und Gewässern, den Tälern und Siedlungen neue, beeindruckende Perspek
 Sprecher und Erzähler ist der Burgschauspieler Peter Simonischek.</desc>
   </programme>
   <programme start="20250328221000 +0100" stop="20250328223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250329180000 +0100" stop="20250329182930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Gottfried Ugolini</sub-title>
+    <desc>In der kommenden Ausgabe von "Privat" spricht Markus Frings mit Gottfried Ugolini, einem Priester, der sich seit Jahren für die Aufarbeitung von Missbrauchsfällen innerhalb der Kirche einsetzt. Gottfried Ugolini begann seine Laufbahn als hauptamtlicher Mitarbeiter von Südtirols Katholischer Jugend, bevor er 1987 zum Priester geweiht wurde. Heute ist er in der Diözese Bozen-Brixen sowie in der Italienischen Bischofskonferenz für die Aufarbeitung und Prävention von Missbrauch zuständig. Gleichzeitig ist er Psychologe und auch Jungschar- und Jugendseelsorger. Wie geht die Kirche mit diesem schwierigen Erbe um? Wie geht er persönlich damit um? Diese und weitere Fragen stehen im Mittelpunkt dieses offenen und tiefgehenden Gesprächs.</desc>
+  </programme>
+  <programme start="20250329182900 +0100" stop="20250329185830 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Förderung der Friulanischen Sprache und Kultur, Rappen auf Friulanisch, Kriegsreporte Emran Feroz über die Situation in Afghanistan. Es moderiert Christina Khuen. 2007 hat Minet den Friulanischen Rapper und inzwischen Produzenten Tubet getroffen. Sein Rap auf Friulanisch war damals schon einzigartig - Minet hat nachgesehen, was aus Tubet geworden ist. 
+Friulanisch ist eine rätoromanische Sprache, die von etwa 700.000 Menschen im Nordosten Italiens gesprochen wird. Seit den 1950er Jahren besteht ein vermehrtes Interesse am Schutz und der Förderung der friulanischen Sprache und Kultur. 
+Emran Feroz ist Kriegsreporter, Buchautor und vor allem ein Brückenbauer. Der 33-jährige Tiroler mit afghanischen Wurzeln ist in den vergangenen Jahren zu einem gefragten Journalisten und Experten rund um Afghanistan und den "Krieg gegen den Terror" geworden. Minet hat mit ihm auch über das von den Taliban verhängte Musikverbot in Afghanistan gesprochen. 
+Außerdem zeigt Minet einen Ausschnitt eines Kurzfilms über die Situation der Iran-Azeris an der iranisch-türkischen Grenze und berichtet über die Situation des indigenen Volkes der Enawenê Nawê in Brasilien.</desc>
+  </programme>
+  <programme start="20250329200000 +0100" stop="20250329202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250329202100 +0100" stop="20250329202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Timm Harder</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250329202500 +0100" stop="20250329205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Leon Oberrauch, der jüngste 3-Hauben-Koch Südtirols, im Porträt. Heinrich Simmerles Buch über "Südtiroler Wirtshausschilder und Gasthausgeschichten". Leckere Winterküche made in Südtirol.
+Unter allen Regionen Italiens kochen in Südtirol die meisten vom Guide Michelin ausgezeichneten Sterneköch:innen. 19 sind es aktuell. Neben den Michelin-Sternen gehören die Gault-Millau-Hauben zu den begehrtesten Auszeichnungen in der hohen Gastronomie. Der jüngste 3-Hauben-Koch Südtirols ist Leon Oberrauch, er kocht im Restaurant Le Cheval in Hafling. 
+"Südtiroler Wirtshausschilder und Gasthausgeschichten" - so nennt sich das Buch von Heinrich Simmerle, das durch die Gassen und Ortschaften Südtirols führt. Dabei stehen die kunsthandwerklichen Kleinode, sowie die Geschichten dieser Gaststätten im Mittelpunkt. Das Willkommen-Team war in Kaltern im "Goldenen Stern" und in Innichen im "Grauen Bär".
+Wie gelingt es den heimischen Betrieben, auch in der kalten Jahreszeit den Geschmack der Region auf den Teller zu bringen? Viele Gastronomen setzen auf traditionelle Methoden wie das Einlegen, Fermentieren oder Einkochen, um ihre Gäste auch in den Wintermonaten mit lokalen Spezialitäten zu verwöhnen. Wir zeigen, welche regionalen Zutaten und typischen Gerichte besonders gefragt sind.</desc>
+  </programme>
+  <programme start="20250329221000 +0100" stop="20250329223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
