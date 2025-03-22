@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250321180000 +0100" stop="20250321182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Generation Z</sub-title>
-    <desc>Wer ist die Generation Z und wie tickt sie? Wie kocht Tina Marcelli? Dies sind nur einige Themen dieser Ausgabe, moderiert von Karin Gschnitzer. Sie sind zwischen 1995 und 2010 geboren, sind technologieaffin und gesundheitsbewusst. Wir haben nachgefragt, ob dem wirklich so ist und was sie von den vorhergehenden Generationen lernen können. 
-In der Reihe "So isst Euregio" besuchen wir die Köchin Tina Marcelli und in der Reihe "Wiedersehen" blicken wir in die beliebte Fernsehreihe "Gesichter mit Geschichten", wo Menschen Einblick geben in ihr besonderes Leben.</desc>
-  </programme>
-  <programme start="20250321182900 +0100" stop="20250321185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Am Glockenlift in Schnals wurden die Snowboard-Landesmeisterschaften im Parallel-Slalom ausgetragen, die gleichzeitig auch als FIS-Rennen gewertet wurden. 
-In Gröden wurden hingegen die Langlauf-Landesmeister gekürt, während Antholz Schauplatz der Biathlon-Italienmeisterschaft im Kleinkaliber war.</desc>
-  </programme>
-  <programme start="20250321200000 +0100" stop="20250321202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250321202100 +0100" stop="20250321210441 +0100" channel="Rai Südtirol">
-    <title>Hightech-Helfer in der Luft</title>
-    <sub-title>Drohnen über Südtirol</sub-title>
-    <desc>Wirft man einen Blick in den Himmel, dann entdeckt man häufig Drohnen, die ganz unterschiedlich genutzt werden: in der Bergrettung, bei Film und TV, in den Socialmedia, im Marketing. 
-
-Seit der Entwicklung dieser Hightech-Fluggeräte hat sich auf diesem Sektor viel getan - auch in Südtirol, wo sich so manche Tüftler:innen und Technikbegeisterte beruflich oder privat mit diesen unbemannten Flugobjekten beschäftigen. Die Filmemacher Claudia Bosch und Hans Peter Karbon stellen in ihrer Dokumentation ganz unterschiedliche Einsatzmöglichkeiten von Drohnen vor.</desc>
-  </programme>
-  <programme start="20250321210400 +0100" stop="20250321213330 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Entlang der Rittner Zahnradbahn</sub-title>
-    <desc>Eine spannende Tour auf den Spuren der Rittner Zahnradbahn und der Aufbruch zu neuen Skitouren im Hohen Norden Europas. Darüber berichtet die Bergwelt mit Thomas Hainz.
-Am Beginn des 20.Jahrhunderts war sie eine Errungenschaft für den aufkommenden Tourismus in Bozen: die Rittner Zahnradbahn.  Heute ist sie längst Geschichte. Aber entlang der alten Trasse kann man diesem alten Industriedenkmal noch heute nachspüren und muss dafür auch mal die markierten Pfade auf den Ritten verlassen. 
-Ein weiterer Schwerpunkt gilt dem Bergtourismus heute: Aufstiege und Skiabfahrten im Angesicht des Nordmeeres. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
-  </programme>
-  <programme start="20250321213400 +0100" stop="20250321215919 +0100" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Kroatischen Luchsen auf der Spur. Einem Mosaik-Baumeister über die Schulter geschaut. Die Beobachtung von vulkanischen Mofetten in Slowenien. Moderation: Sigrid Flenger.
-Luchse zu erforschen ist gar nicht so einfach, weil sie äußerst scheu und zurückgezogen leben. Fotofallen und GPS-Ortung, aber auch die gute alte Sammlung von Proben im Gelände sind wertvoll für die wissenschaftliche Dokumentation. Wir beschreiben das Life Lynx-Projekt zur Rettung der Luchs-Population in Kroatien. 
-Ein Kieselstein, ein Schneckenhaus, ein Plastikteil, ein Knopf: für den Mosaikkünstler Aljaž Vidrajz ist jedes Material interessant, um ein Mosaik zu machen. 
-In Slowenien entdeckt man an vielen Stellen im Boden kleine Spalten und Löcher, aus denen Gase hervortreten. Die Austrittstellen der Gase nennt man Mofetten. Sie sind interessante Begleiterscheinungen des Vulkanismus.</desc>
-  </programme>
-  <programme start="20250321221000 +0100" stop="20250321223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250322180000 +0100" stop="20250322185830 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -275,6 +231,29 @@ Unter allen Regionen Italiens kochen in Südtirol die meisten vom Guide Michelin
 Wie gelingt es den heimischen Betrieben, auch in der kalten Jahreszeit den Geschmack der Region auf den Teller zu bringen? Viele Gastronomen setzen auf traditionelle Methoden wie das Einlegen, Fermentieren oder Einkochen, um ihre Gäste auch in den Wintermonaten mit lokalen Spezialitäten zu verwöhnen. Wir zeigen, welche regionalen Zutaten und typischen Gerichte besonders gefragt sind.</desc>
   </programme>
   <programme start="20250329221000 +0100" stop="20250329223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250330200000 +0200" stop="20250330202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250330202100 +0200" stop="20250330205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Recycling-Design gegen Ressourcenverbrauch, neue Technologien in der Lebensmittelproduktion, zu Besuch im Brennerarchiv in Innsbruck.
+Welchen Beitrag können Designer bei der Reduktion des Ressourcenverbrauchs leisten? An der Freien Universität Bozen produzieren sie Objekte aus recycelten Materialien - nachhaltig und für alle erschwinglich. 
+Dass es auch in Südtirol innovative Start-Up-Unternehmen gibt, die bei der Lebensmittelproduktion erfolgreich auf neue Technologien setzen, zeigen Unternehmen im Bereich Grüner Technologien. 
+Das Campus-Team hat zudem das Brenner-Archiv in Innsbruck besucht, das nicht nur den Nachlass vom bekannten Schriftsteller Joseph Zoderer verwahrt, sondern auch Kunstwerke des ladinischen Künstlers Ottmar Zeiller.</desc>
+  </programme>
+  <programme start="20250330205000 +0200" stop="20250330205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Timm Harder</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250330221000 +0200" stop="20250330223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
