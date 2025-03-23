@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250322180000 +0100" stop="20250322185830 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Comedian Gianluca Iocolano auf Südtiroltournee, Laura Masten als "Fräulein Braun", Luca Zanottos preisgekrönte Werbefilme, Robotik in der Musik, Barbara Romaner und Luigi Loddi zu Gast. Der Brixner Gianluca Iocolano ist Entertainer, Autor und Kabarettist. Bekannt ist der 36jährige Comedian für seine Comedy-Talk-Show "Io.Co Show". Jetzt geht er mit seinem neuen Programm auf Südtirol-Tournee: "Echter Walscher Südtiroler" 
-Die Spielgemeinschaft Vintl/Weitental stellt sich in ihrer Stückauswahl gerne Themen der Zeit:(R)Evolution ist eine intelligente Komödie über das Leben der Zukunft. Absurd, schräg, komisch - und doch beängstigend realistisch. 
-Vor 80 Jahren endete der Zweite Weltkrieg. In Anbetracht der weltweiten Radikalisierungen inszeniert das Theater an der Etsch das Stück "Fräulein Braun" mit Laura Masten in der Rolle der Hitler-Geliebten, die am Tag vor dem gemeinsamen Suizid seine Frau wurde. 
-Lucas Zanotto, geboren in Südtirol, lebt inzwischen in Helsinki. Der Designer, Regisseur und Künstler ist vor allem durch seine humorvollen Werbefilme für Marken wie Google, Barclays oder Amazon bekannt geworden. Seine Arbeiten wurden mit mehreren Preisen ausgezeichnet, darunter dem Apple Design Award und dem Goldenen Löwen der Filmfestspiele von Cannes.
-Was kann Robotik, was kann KI in der Kunst leisten? Dieser Frage ist Hannes Mittermaier, Literaturwissenschaftler und Musiker aus Brixen, nachgegangen. Sein erster großer Song nennt sich "Tabula Rasa" und ist ein E-Gitarren-Duett zwischen ihm und Roboter Hellga Tarr.
-Zu Gast im Kompass sind die Bozner Theater- und Filmschauspielerin Barbara Romaner, derzeit im Stück "Die Entführung der Amygdala", und der Präsident des Filmclub Bozen, Luigi Loddi.</desc>
-  </programme>
-  <programme start="20250322200000 +0100" stop="20250322202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250322202100 +0100" stop="20250322202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250322202500 +0100" stop="20250322205430 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Schauplatz Pflege</sub-title>
-    <desc>Wie können Menschen mit Demenz zuhause gut betreut werden? Wie wird in einem Meraner Seniorenwohnheim gearbeitet, wo Menschen mit sehr hohem Pflegebedarf untergebracht sind? 
-
-Pflege ist ein Thema, das uns alle beschäftigt - entweder weil man pflegebedürftige Angehörige hat oder weil man selber irgendwann im Leben Pflege braucht. Dabei geht es vor allem um die Beziehung zwischen den Beteiligten. 70 Prozent der Pflegebedürftigen werden derzeit zuhause betreut - dazu zählen nicht nur ältere, sondern auch jüngere Menschen.
-In der Reportage Gesundheit besucht Ursula Oberschmied eine Frau mit Demenz zuhause und erfährt, wie wichtig dabei eine wertschätzende Kommunikation ist. Und sie schaut sich die neue Abteilung im Pflegeheim St.Josef in Meran an, wo Menschen betreut werden, die eine hochintensive Pflege brauchen, z.B. Wachkomapatienten.</desc>
-  </programme>
-  <programme start="20250322221000 +0100" stop="20250322223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250323200000 +0100" stop="20250323202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
