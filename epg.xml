@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250323200000 +0100" stop="20250323202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250323202100 +0100" stop="20250323205030 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Gottfried Ugolini</sub-title>
-    <desc>In der kommenden Ausgabe von "Privat" spricht Markus Frings mit Gottfried Ugolini, einem Priester, der sich seit Jahren für die Aufarbeitung von Missbrauchsfällen innerhalb der Kirche einsetzt.
-
-Gottfried Ugolini begann seine Laufbahn als hauptamtlicher Mitarbeiter von Südtirols Katholischer Jugend, bevor er 1987 zum Priester geweiht wurde. Heute ist er in der Diözese Bozen-Brixen sowie in der Italienischen Bischofskonferenz für die Aufarbeitung und Prävention von Missbrauch zuständig. Gleichzeitig ist er Psychologe und auch Jungschar- und Jugendseelsorger.
-Wie geht die Kirche mit diesem schwierigen Erbe um? Wie geht er persönlich damit um? Diese und weitere Fragen stehen im Mittelpunkt dieses offenen und tiefgehenden Gesprächs.</desc>
-  </programme>
-  <programme start="20250323205000 +0100" stop="20250323205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250323221000 +0100" stop="20250323223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250324180000 +0100" stop="20250324181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
