@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250324180000 +0100" stop="20250324181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Fußball-Oberliga trifft im Spitzenspiel der 24. Runde Partschins zu Hause auf Tramin. In der Landesliga muss Latzfons Verdings auswärts bei Weinstraße Süd unbedingt punkten, um aus der Abstiegszone zu kommen. Und Ahrntal braucht in Vals gegen Gitschberg Jochtal einen Sieg um aufzusteigen.</desc>
-  </programme>
-  <programme start="20250324181400 +0100" stop="20250324182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Biathlon</sub-title>
-    <desc>Auch Kinder lieben Biathlon, sowohl den Skilanglauf als auch das Schießen. Beides trainieren die Sportkids aus Antholz in der Südtirolarena, in der im nächsten Jahr Olympische Rennen bestritten werden. Die Kleineren schießen noch mit winzigen Bleikugeln aus Luftdruckgewehren, die größeren allerdings bereits mit Kleinkaliberwaffen. Egal ob im Liegen oder Stehen - alle Kinder sind sich einig: Schießen ist einfach cool!</desc>
-  </programme>
-  <programme start="20250324182900 +0100" stop="20250324185830 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Schauplatz Pflege</sub-title>
-    <desc>Wie können Menschen mit Demenz zuhause gut betreut werden? Wie wird in einem Meraner Seniorenwohnheim gearbeitet, wo Menschen mit sehr hohem Pflegebedarf untergebracht sind? Pflege ist ein Thema, das uns alle beschäftigt - entweder weil man pflegebedürftige Angehörige hat oder weil man selber irgendwann im Leben Pflege braucht. Dabei geht es vor allem um die Beziehung zwischen den Beteiligten. 70 Prozent der Pflegebedürftigen werden derzeit zuhause betreut - dazu zählen nicht nur ältere, sondern auch jüngere Menschen.
-In der Reportage Gesundheit besucht Ursula Oberschmied eine Frau mit Demenz zuhause und erfährt, wie wichtig dabei eine wertschätzende Kommunikation ist. Und sie schaut sich die neue Abteilung im Pflegeheim St.Josef in Meran an, wo Menschen betreut werden, die eine hochintensive Pflege brauchen, z.B. Wachkomapatienten.</desc>
-  </programme>
-  <programme start="20250324200000 +0100" stop="20250324202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250324202000 +0100" stop="20250324220000 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Menschen mit Behinderung - inklusive</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Wir fühlen uns inklusiv, aber sind wir es? Wie verlieren wir die Scheu voreinander? Ein Film über Trisomie 21 regt zum Nachdenken an. Ebenso die anschließende Diskussion geleitet von Gabi Crepaz. 
-
-In der Optimierungsgesellschaft, in der Menschen wie Waren perfektioniert werden, sieht die Realität so aus: Trotz Inklusion bleiben Menschen mit Behinderung am Rand. Menschen mit Trisomie 21 z.B. kommen kaum mehr zur Welt. Der Film von Ulli Velano hingegen zeigt, was wir Menschen mit Trisomie 21 zutrauen können. 
-Zwei Gegensätze also, Inklusion versus Perfektion. Und die Frage: Wie verlieren wir die Scheu voreinander? Darüber sprechen Claudia Schuler, Handbike-Olympionikin und jetzt Reporterin für Rai Südtirol, Sonja Bacher, Präsidentin des Vereins "Il Sorriso - das Lächeln", und Mareike Sölch, Autorin des Buchs "Total behindert". 
-Im Interview: Karl Dallinger vom Theater La Ribalta, und Manuela Stecher, Geschäftsführerin der WunderBAR in Brixen, mit den Mitarbeiterinnen Miriam Oberhollenzer und Jasmin Thöni. Gabriele Crepaz moderiert aus dem T.Raum des Theaters "La Ribalta - Kunst der Vielfalt" in Bozen.</desc>
-  </programme>
-  <programme start="20250324221000 +0100" stop="20250324223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250325200000 +0100" stop="20250325202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
