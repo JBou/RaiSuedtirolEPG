@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250325200000 +0100" stop="20250325202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250325202000 +0100" stop="20250325203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250325203500 +0100" stop="20250325204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Fußball-Oberliga trifft im Spitzenspiel der 24. Runde Partschins zu Hause auf Tramin. In der Landesliga muss Latzfons Verdings auswärts bei Weinstraße Süd unbedingt punkten, um aus der Abstiegszone zu kommen. Und Ahrntal braucht in Vals gegen Gitschberg Jochtal einen Sieg um aufzusteigen.</desc>
-  </programme>
-  <programme start="20250325221000 +0100" stop="20250325223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250326200000 +0100" stop="20250326202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
