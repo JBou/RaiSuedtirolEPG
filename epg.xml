@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250326200000 +0100" stop="20250326202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250326202000 +0100" stop="20250326204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Die Bäuerin des Jahres 2025 im Porträt, das Samenfest für lokale Samen- und Pflanzenvielfalt, ein Film von zwei freiwilligen Helfern über die Bergbauernhilfe. Moderation: Marianna Kasseroler.
-
-"Es konn lei aufwärts gian" - so lautet das Motto der Bäuerin des Jahres 2025. Trotz vieler Schicksalsschläge und Widerstände hat sie den Betrieb als Hofinhaberin mutig weitergeführt. Sie scheut weder die schwere körperliche Arbeit noch den Einsatz mit Maschinen. Land&amp;Leben zeigt das Portrait einer wahrhaftig starken Frau. 
-Weitere Berichte widmen sich den vielen Erhalterinnen von altem und lokalem Saatgut, das sie anbauen und vermehren. Damit bewahren sie wertvolles Kulturgut vor dem Verschwinden. Beim Samenfest zeigten sie ihre Schätze. 
-"Mithelfen und Miterleben" heißt der Film von zwei freiwilligen Helfern über die Bergbauernhilfe in Südtirol. Land&amp;Leben zeigt Ausschnitte daraus und spricht mit den Filmemachern sowie Helfern und Bauern.</desc>
-  </programme>
-  <programme start="20250326221000 +0100" stop="20250326223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250327200000 +0100" stop="20250327202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -143,6 +124,150 @@ Das Campus-Team hat zudem das Brenner-Archiv in Innsbruck besucht, das nicht nur
     <desc/>
   </programme>
   <programme start="20250330221000 +0200" stop="20250330223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250331180000 +0200" stop="20250331181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>25. Spieltag in der Fußball-Oberliga: St. Georgen empfängt im "Südtiroler Derby der Dorfheiligen" St. Pauls. In der Landesliga trifft Lana zu Hause auf Terlan, während Kiens den SV Latsch zu Gast hat. Alle vier Mannschaften kämpfen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20250331181400 +0200" stop="20250331182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kochen kinderleicht</sub-title>
+    <desc>Linda zaubert gemeinsam mit Kochlehrerin Martina ein farbenfrohes Gericht: Rote-Bete-Scherennudeln. Dafür kneten sie den purpurroten Nudelteig und formen ihn zu einer großen Kugel. Mit einer Schere schneidet Linda gleichmäßige Nudeln ab, die anschließend im kochenden Wasser garen. Verfeinert mit frischem Spinat entsteht ein kinderleichtes Rezept, das nicht nur lecker schmeckt, sondern beim Kochen auch richtig Spaß macht.
+Anschließend erfahren wir von Biologin Karin Wissenswertes über Zwiebelpflanzen.</desc>
+  </programme>
+  <programme start="20250331182900 +0200" stop="20250331185830 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Die Bäuerin des Jahres 2025 im Porträt, das Samenfest für lokale Samen- und Pflanzenvielfalt, ein Film von zwei freiwilligen Helfern über die Bergbauernhilfe. Moderation: Marianna Kasseroler.
+"Es konn lei aufwärts gian" - so lautet das Motto der Bäuerin des Jahres 2025. Trotz vieler Schicksalsschläge und Widerstände hat sie den Betrieb als Hofinhaberin mutig weitergeführt. Sie scheut weder die schwere körperliche Arbeit noch den Einsatz mit Maschinen. Land&amp;Leben zeigt das Portrait einer wahrhaftig starken Frau. 
+Weitere Berichte widmen sich den vielen Erhalterinnen von altem und lokalem Saatgut, das sie anbauen und vermehren. Damit bewahren sie wertvolles Kulturgut vor dem Verschwinden. Beim Samenfest zeigten sie ihre Schätze. 
+"Mithelfen und Miterleben" heißt der Film von zwei freiwilligen Helfern über die Bergbauernhilfe in Südtirol. Land&amp;Leben zeigt Ausschnitte daraus und spricht mit den Filmemachern sowie Helfern und Bauern.</desc>
+  </programme>
+  <programme start="20250331200000 +0200" stop="20250331202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250331202000 +0200" stop="20250331212131 +0200" channel="Rai Südtirol">
+    <title>Mein Weg zurück</title>
+    <sub-title>Nach der wahren Geschichte von Paula Morandell Atz</sub-title>
+    <desc>Die Kaltererin hatte trotz Auswanderung, Flucht und Entbehrungen stets das Gefühl, dass das Glück auf ihrer Seite war. Ein Film von Hubert und Matthias Schönegger.
+
+1934 in Kaltern geboren wandert Paula Morandell Atz als kleines Mädchen im Zuge der Option mit ihren Eltern und den zwei Brüdern nach Baden bei Wien aus. 1945 flüchtet sie mit ihrer Mutter und den Brüdern vor den einmarschierenden Russen nach Bischofshofen. Weiter geht die beschwerliche Flucht nach Innsbruck .- und mit unbeschreiblichen Strapazen zurück nach Südtirol. Sie tun sich schwer, eine Bleibe zu finden. Manchmal werden sie sogar als "Zigeuner" beschimpft. Die Kinder wachsen getrennt bei verschiedenen Verwandten auf, da die Mutter sie nicht ernähren kann. Der Vater darf erst einige Jahre später nach Südtirol einreisen. Doch trotz Entbehrungen und Schicksalsschlägen fühlt sich Paula Morandell Atz stets vom Glück begleitet. In der Dokumentation mit Spielszenen wird das bewegte Leben von Paula Morandell Atz nacherzählt, die wieder in ihr Heimatdorf Kaltern zurückkehren konnte.</desc>
+  </programme>
+  <programme start="20250331212100 +0200" stop="20250331215901 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter im Jahreskreis</title>
+    <sub-title>Der Frühling</sub-title>
+    <desc>Durch die verschiedenen Höhenlagen setzt der Frühling bei uns zu unterschiedlichen Zeiten ein.
+Eine Dokumentation über besondere blühende Bäume und ihre Mythen und Legenden.
+Je nach Höhenlage und Baumart entfaltet der Frühling seine Pracht auf vielfältige Weise: von den
+samtig-zarten Mandeln und den wärmeliebenden Zürgelbäumen in südlichen Lagen bis hinauf zu
+den Lärchenweiden am Berg mit ihrem frischen Grün.
+Seit der Antike gibt es zahlreiche Mythen und Legenden, die von der tiefen Symbolik der Natur im
+Frühling erzählen, ein Inbegriff von Neuanfang, von Aufbruchstimmung und Hoffnung. Eine
+Filmreihe von Günther Haller und Margot Schwienbacher.</desc>
+  </programme>
+  <programme start="20250331221000 +0200" stop="20250331223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250401200000 +0200" stop="20250401202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250401202000 +0200" stop="20250401203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250401203500 +0200" stop="20250401204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>25. Spieltag in der Fußball-Oberliga: St. Georgen empfängt im "Südtiroler Derby der Dorfheiligen" St. Pauls. In der Landesliga trifft Lana zu Hause auf Terlan, während Kiens den SV Latsch zu Gast hat. Alle vier Mannschaften kämpfen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20250401221000 +0200" stop="20250401223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250402200000 +0200" stop="20250402202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250402202000 +0200" stop="20250402204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Handwerksunternehmen, die nachhaltig arbeiten. Es geht um Renovierung und um das Recycling von alten Baumaterialien, sowie um alte Arbeitsmethoden und Fertigkeiten. 
+
+Alle diese Handwerksbetriebe werden von Menschen geführt, die mehr als einen gewöhnlichen Beruf gewählt haben: Ihr Handwerk ist ihre Passion, und ihr Handwerk überlebt, wenn es in ihren Familienbetrieben gelingt, die Leidenschaft für ihre Arbeit auch an die junge Generation weiterzugeben. 
+Trend stellt ein Unternehmen vor, das alte historische Fenster restauriert und sie auch an die neuen Energiesparprogramme im Bauwesen anpasst, ohne dass sie ihren ursprünglichen Charakter verlieren. 
+Einem anderen Betrieb gelingt es, Mauerwerk und Putz gemäß alten Verfahren wiederherzustellen. Und eine Tischlerei restauriert und rettet alte Inneneinrichtungen mit Hilfe von alten Werkzeugen.</desc>
+  </programme>
+  <programme start="20250402221000 +0200" stop="20250402223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250403200000 +0200" stop="20250403202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250403202000 +0200" stop="20250403204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Intuition und Bauchgefühl</sub-title>
+    <desc>Der Kopf sagt ja, doch der Bauch sagt nein. Oft stellt sich heraus, dass wir mit unserem Bauchgefühl intuitiv richtig gelegen hätten. Doch meist trauen wir uns nicht, uns darauf zu verlassen.
+
+Oft gehen wir zu rational an Entscheidungen heran. Dabei kann die Intuition ein guter Ratgeber sein. Zu Gast ist die Künstlerin Katharina Theresa Mayr. Sie erzählt, wie man sich Kunstwerken intuitiv nähern kann. In der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1967. Und in "Wiedersehen" präsentieren wir Ausschnitte aus der Dokumentation "Frauen gegen Stereotype". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250403221000 +0200" stop="20250403223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250404180000 +0200" stop="20250404182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Intuition und Bauchgefühl</sub-title>
+    <desc>Der Kopf sagt ja, doch der Bauch sagt nein. Oft stellt sich heraus, dass wir mit unserem Bauchgefühl intuitiv richtig gelegen hätten. Doch meist trauen wir uns nicht, uns darauf zu verlassen. Oft gehen wir zu rational an Entscheidungen heran. Dabei kann die Intuition ein guter Ratgeber sein. Zu Gast ist die Künstlerin Katharina Theresa Mayr. Sie erzählt, wie man sich Kunstwerken intuitiv nähern kann. 
+In der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1967. Und in "Wiedersehen" präsentieren wir Ausschnitte aus der Dokumentation "Frauen gegen Stereotype". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250404182900 +0200" stop="20250404185830 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Recycling-Design gegen Ressourcenverbrauch, neue Technologien in der Lebensmittelproduktion, zu Besuch im Brennerarchiv in Innsbruck. Welchen Beitrag können Designer bei der Reduktion des Ressourcenverbrauchs leisten? An der Freien Universität Bozen produzieren sie Objekte aus recycelten Materialien - nachhaltig und für alle erschwinglich. Dass es auch in Südtirol innovative Start-Up-Unternehmen gibt, die bei der Lebensmittelproduktion erfolgreich auf neue Technologien setzen, zeigen Unternehmen im Bereich Grüner Technologien. Das Campus-Team hat zudem das Brenner-Archiv in Innsbruck besucht, das nicht nur den Nachlass vom bekannten Schriftsteller Joseph Zoderer verwahrt, sondern auch Kunstwerke des ladinischen Künstlers Ottmar Zeiller.</desc>
+  </programme>
+  <programme start="20250404200000 +0200" stop="20250404202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250404202100 +0200" stop="20250404212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Karin Duregger besucht Künstler:Innen in ihren Ateliers und Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter.
+
+Wenn alte Disziplinen wie die Literatur, das Bauwesen oder die Mode neu bespielt werden: Karin Duregger ist auf der Suche nach jungen Künstler:Innen, die genau dies auf kreative und nachhaltige Weise tun. 
+Wie werden hingegen Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, trifft Magdalena Oberstaller die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
+  </programme>
+  <programme start="20250404212000 +0200" stop="20250404214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Leon Oberrauch, der jüngste 3-Hauben-Koch Südtirols, im Porträt. Heinrich Simmerles Buch über "Südtiroler Wirtshausschilder und Gasthausgeschichten". Leckere Winterküche made in Südtirol. Unter allen Regionen Italiens kochen in Südtirol die meisten vom Guide Michelin ausgezeichneten Sterneköch:innen. 19 sind es aktuell. Neben den Michelin-Sternen gehören die Gault-Millau-Hauben zu den begehrtesten Auszeichnungen in der hohen Gastronomie. Der jüngste 3-Hauben-Koch Südtirols ist Leon Oberrauch, er kocht im Restaurant Le Cheval in Hafling. "Südtiroler Wirtshausschilder und Gasthausgeschichten" - so nennt sich das Buch von Heinrich Simmerle, das durch die Gassen und Ortschaften Südtirols führt. Dabei stehen die kunsthandwerklichen Kleinode, sowie die Geschichten dieser Gaststätten im Mittelpunkt. Das Willkommen-Team war in Kaltern im "Goldenen Stern" und in Innichen im "Grauen Bär".
+Wie gelingt es den heimischen Betrieben, auch in der kalten Jahreszeit den Geschmack der Region auf den Teller zu bringen? Viele Gastronomen setzen auf traditionelle Methoden wie das Einlegen, Fermentieren oder Einkochen, um ihre Gäste auch in den Wintermonaten mit lokalen Spezialitäten zu verwöhnen. Wir zeigen, welche regionalen Zutaten und typischen Gerichte besonders gefragt sind.</desc>
+  </programme>
+  <programme start="20250404215000 +0200" stop="20250404215921 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>P. Mathew, Dekan von Schlanders</sub-title>
+    <desc>Heimat ist ein Gefühl und kann so vieles sein, ein Ort, bestimmte Menschen, eine Sprache, eine Erinnerung. Heimaten kann es auch zwei geben, das Land der Geburt und Kindheit, - das Land der Familiengründung, des Erwachsenseins, der Arbeit. Ein Porträt über P. Mathew Kozzhuppakalam, den Dekan von Schlanders.</desc>
+  </programme>
+  <programme start="20250404221000 +0200" stop="20250404223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
