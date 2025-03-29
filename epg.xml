@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250328180000 +0100" stop="20250328182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Licht</sub-title>
-    <desc>Licht ist dafür verantwortlich, dass wir gut schlafen und uns am Tag wohlfühlen. Fehlt dieser wichtige Zeitgeber, kommt unsere innere Uhr aus dem Takt. Es moderiert Magdalena Oberstaller. Aktuelle Studien belegen, dass der natürliche Wechsel von Tageslicht zu Dunkelheit und umgekehrt viele biologische Vorgänge im Körper steuert. Zu Gast in der Sendung ist Astronom David Gruber, der Direktor des Naturmuseums Bozen. 
-In der Rubrik "Unser Gedächtnis" blicken wir in das Tagesschau-Archiv von Rai Südtirol und zeigen in "Wiedersehen" einen Ausschnitt aus der Doku "Lichtverschmutzung".</desc>
-  </programme>
-  <programme start="20250328182900 +0100" stop="20250328185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Saison-Ausklang für den einheimischen Skinachwuchs: Auf der Seiseralm findet das Finale der VSS-Landesmeisterschaft für die Altersklassen bis 12 Jahren statt, während auf der Rinneralm der letzte Riesentorlauf des heurigen Marlene-Cup's für die Kategorien U18 und U21 ausgetragen wird. Auch die Langläufer beenden die Saison in Sulden mit der Landesmeisterschaft im Massenstart.</desc>
-  </programme>
-  <programme start="20250328200000 +0100" stop="20250328202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250328202100 +0100" stop="20250328202544 +0100" channel="Rai Südtirol">
-    <title>In memoriam Robert Fliri</title>
-    <sub-title/>
-    <desc>Der Erfinder der Barfuß-Zehenschuhe starb kürzlich bei einer Skitour in Matsch. Ein Kurzporträt erinnert an den 48Jährigen Designer, der mit seiner Familie in Gargazon lebte.
-Robert Fliri war der Erfinder der "Five Fingers", jener Barfuß-Zehenschuhe, die die New York Times 2007 als "beste Erfindung des Jahres" bezeichnet hatte. Nachdem seine Idee mehrmals abgelehnt worden war, brachte er 2005 mit einem italienischen Sohlenhersteller die ersten Barfuß-Zehenschuhe auf den Markt: Die Schuhe folgen dem Prinzip einer "künstlichen Hornhaut" und schmiegen sich wie Handschuhe an den Fuß, um den Zehen den größtmöglichen Spielraum zu schenken. Und sie kommen ohne Federung oder stabilisierende Elemente aus. Dadurch soll der Fuß wieder lernen, sich auf seine Rezeptoren zu verlassen und den Untergrund richtig zu spüren. In den USA waren die Schuhe sofortig ein Verkaufsschlager - auch in Europa setzte sich die Erfindung nach einiger Zeit durch. 
-Der gebürtige Naturnser musste seine Bergbegeisterung mit dem Leben bezahlen. Er starb am 5.März bei einer Skitour.</desc>
-  </programme>
-  <programme start="20250328202500 +0100" stop="20250328210913 +0100" channel="Rai Südtirol">
-    <title>Das Thema: Aussteigen - Einsteigen</title>
-    <sub-title>Auf der Suche nach Mehr</sub-title>
-    <desc>Manche von ihnen hat ein Schicksalsschlag bewogen umzusteigen und anders weiterzugehen.
-Einige sind gar keine Aussteiger, weil sie immer schon anders gedacht haben. In dieser Dokumentation von Astrid Kofler und Günther Neumair erzählen sieben Menschen aus Südtirol von ihrer Suche nach Mehr: die ökologisch arbeitende Landfrau Anna Folie aus Mals, der Fotokünstler Heinrich Wegmann aus Bozen, der Bildhauer Markus Delago aus St. Ulrich, der Vinschger Liedermacher Dominik Plangger, der Natur- und Wildnistrainer Elmar Baldauf und der Baubiologe Werner Schönthaler.</desc>
-  </programme>
-  <programme start="20250328210900 +0100" stop="20250328215833 +0100" channel="Rai Südtirol">
-    <title>Über Österreich</title>
-    <sub-title>Natur und Leben aus der Luft</sub-title>
-    <desc>Einige der schönsten Flecken der Welt liegen im südlichen Österreich, in Kärnten und der
-Steiermark - die Kärntner Seenplatte etwa oder das Wechselland.
-Filmemacher Georg Riha gelingt es auch in diesem Film aus der Reihe "Über Österreich" den
-Gebirgen und Gewässern, den Tälern und Siedlungen neue, beeindruckende Perspektiven abzugewinnen. Es ist eine spannende und abwechslungsreiche filmische Landvermessung aus der Vogelperspektive.
-Sprecher und Erzähler ist der Burgschauspieler Peter Simonischek.</desc>
-  </programme>
-  <programme start="20250328221000 +0100" stop="20250328223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250329180000 +0100" stop="20250329182930 +0100" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Gottfried Ugolini</sub-title>
@@ -275,6 +232,30 @@ Kamelien sind das Symbol der Stadt Opatija. Die zarte Blütenpracht kam durch ei
 Auf der kroatischen Insel Krk wächst eine kontinentale Eichenart, die "Dub" genannt wird. Das Informationszentrum für maritimes Erbe "DUBoak" zeugt von der jahrhundertealten Beziehung der Inselbevölkerung zu diesem Baum. Früher wurden hier Schiffe mit Eichenholz gebaut.</desc>
   </programme>
   <programme start="20250405221000 +0200" stop="20250405223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250406200000 +0200" stop="20250406202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250406202000 +0200" stop="20250406204930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Weiblich geführte Start-ups und ihre Schwierigkeit, finanziell unterstützt zu werden. Matriarchatsforscherin Andrea Fleckinger im Porträt. Der Brixner Frauenlauf. Moderation: Martina Kreuzer.
+
+Die Lage ist paradox: Start-ups von Frauen gelten als erfolgreicher als jene von Männern. Und doch tun sich Gründerinnen blutig schwer, Investoren:innen für ihre Ideen zu finden. Wir fragen zwei Start-upperinnen, wie sie es geschafft haben, das Vertrauen von Business Angels zu gewinnen. Eine Südtiroler Investorin verrät, warum sie für weiblich geführte Start-ups voll ins Risiko geht. Dazu passt, dass im NOI Techpark gezielt Gründerinnen gefördert werden. Liegt es daran, dass Frauen nicht nur Innovation ausreizen, sondern wirklich das Leben von Menschen verbessern wollen? dF hat nachgefragt. 
+Außerdem lernen wir eine Südtirolerin kennen, die maßgeblich zur Weiterentwicklung der modernen Matriarchatsforschung beiträgt: die Wipptaler Sozialwissenschaftlerin und Forscherin der Universität Trient Andrea Fleckinger. Warum sie diese Alternative zu einem patriarchalen Gesellschaftsmodell so fasziniert und wie ihre eigene Lebensgeschichte damit verknüpft ist, erzählt die Co-Gründerin des Matriforums im dF-Porträt. 
+In df-Info: Die Initiative des Beirates für Chancengleichheit der Universität Bozen "Ain't I a woman?" und es wird der Brixner Frauenlauf vorgestellt.</desc>
+  </programme>
+  <programme start="20250406205000 +0200" stop="20250406205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250406221000 +0200" stop="20250406223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
