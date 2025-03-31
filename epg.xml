@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250330200000 +0200" stop="20250330202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250330202100 +0200" stop="20250330205030 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Recycling-Design gegen Ressourcenverbrauch, neue Technologien in der Lebensmittelproduktion, zu Besuch im Brennerarchiv in Innsbruck.
-Welchen Beitrag können Designer bei der Reduktion des Ressourcenverbrauchs leisten? An der Freien Universität Bozen produzieren sie Objekte aus recycelten Materialien - nachhaltig und für alle erschwinglich. 
-Dass es auch in Südtirol innovative Start-Up-Unternehmen gibt, die bei der Lebensmittelproduktion erfolgreich auf neue Technologien setzen, zeigen Unternehmen im Bereich Grüner Technologien. 
-Das Campus-Team hat zudem das Brenner-Archiv in Innsbruck besucht, das nicht nur den Nachlass vom bekannten Schriftsteller Joseph Zoderer verwahrt, sondern auch Kunstwerke des ladinischen Künstlers Ottmar Zeiller.</desc>
-  </programme>
-  <programme start="20250330205000 +0200" stop="20250330205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Timm Harder</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250330221000 +0200" stop="20250330223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250331180000 +0200" stop="20250331181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
