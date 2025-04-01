@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250331180000 +0200" stop="20250331181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>25. Spieltag in der Fußball-Oberliga: St. Georgen empfängt im "Südtiroler Derby der Dorfheiligen" St. Pauls. In der Landesliga trifft Lana zu Hause auf Terlan, während Kiens den SV Latsch zu Gast hat. Alle vier Mannschaften kämpfen um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20250331181400 +0200" stop="20250331182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Kochen kinderleicht</sub-title>
-    <desc>Linda zaubert gemeinsam mit Kochlehrerin Martina ein farbenfrohes Gericht: Rote-Bete-Scherennudeln. Dafür kneten sie den purpurroten Nudelteig und formen ihn zu einer großen Kugel. Mit einer Schere schneidet Linda gleichmäßige Nudeln ab, die anschließend im kochenden Wasser garen. Verfeinert mit frischem Spinat entsteht ein kinderleichtes Rezept, das nicht nur lecker schmeckt, sondern beim Kochen auch richtig Spaß macht.
-Anschließend erfahren wir von Biologin Karin Wissenswertes über Zwiebelpflanzen.</desc>
-  </programme>
-  <programme start="20250331182900 +0200" stop="20250331185830 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Die Bäuerin des Jahres 2025 im Porträt, das Samenfest für lokale Samen- und Pflanzenvielfalt, ein Film von zwei freiwilligen Helfern über die Bergbauernhilfe. Moderation: Marianna Kasseroler.
-"Es konn lei aufwärts gian" - so lautet das Motto der Bäuerin des Jahres 2025. Trotz vieler Schicksalsschläge und Widerstände hat sie den Betrieb als Hofinhaberin mutig weitergeführt. Sie scheut weder die schwere körperliche Arbeit noch den Einsatz mit Maschinen. Land&amp;Leben zeigt das Portrait einer wahrhaftig starken Frau. 
-Weitere Berichte widmen sich den vielen Erhalterinnen von altem und lokalem Saatgut, das sie anbauen und vermehren. Damit bewahren sie wertvolles Kulturgut vor dem Verschwinden. Beim Samenfest zeigten sie ihre Schätze. 
-"Mithelfen und Miterleben" heißt der Film von zwei freiwilligen Helfern über die Bergbauernhilfe in Südtirol. Land&amp;Leben zeigt Ausschnitte daraus und spricht mit den Filmemachern sowie Helfern und Bauern.</desc>
-  </programme>
-  <programme start="20250331200000 +0200" stop="20250331202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250331202000 +0200" stop="20250331212131 +0200" channel="Rai Südtirol">
-    <title>Mein Weg zurück</title>
-    <sub-title>Nach der wahren Geschichte von Paula Morandell Atz</sub-title>
-    <desc>Die Kaltererin hatte trotz Auswanderung, Flucht und Entbehrungen stets das Gefühl, dass das Glück auf ihrer Seite war. Ein Film von Hubert und Matthias Schönegger.
-
-1934 in Kaltern geboren wandert Paula Morandell Atz als kleines Mädchen im Zuge der Option mit ihren Eltern und den zwei Brüdern nach Baden bei Wien aus. 1945 flüchtet sie mit ihrer Mutter und den Brüdern vor den einmarschierenden Russen nach Bischofshofen. Weiter geht die beschwerliche Flucht nach Innsbruck .- und mit unbeschreiblichen Strapazen zurück nach Südtirol. Sie tun sich schwer, eine Bleibe zu finden. Manchmal werden sie sogar als "Zigeuner" beschimpft. Die Kinder wachsen getrennt bei verschiedenen Verwandten auf, da die Mutter sie nicht ernähren kann. Der Vater darf erst einige Jahre später nach Südtirol einreisen. Doch trotz Entbehrungen und Schicksalsschlägen fühlt sich Paula Morandell Atz stets vom Glück begleitet. In der Dokumentation mit Spielszenen wird das bewegte Leben von Paula Morandell Atz nacherzählt, die wieder in ihr Heimatdorf Kaltern zurückkehren konnte.</desc>
-  </programme>
-  <programme start="20250331212100 +0200" stop="20250331215901 +0200" channel="Rai Südtirol">
-    <title>Grüne Begleiter im Jahreskreis</title>
-    <sub-title>Der Frühling</sub-title>
-    <desc>Durch die verschiedenen Höhenlagen setzt der Frühling bei uns zu unterschiedlichen Zeiten ein.
-Eine Dokumentation über besondere blühende Bäume und ihre Mythen und Legenden.
-Je nach Höhenlage und Baumart entfaltet der Frühling seine Pracht auf vielfältige Weise: von den
-samtig-zarten Mandeln und den wärmeliebenden Zürgelbäumen in südlichen Lagen bis hinauf zu
-den Lärchenweiden am Berg mit ihrem frischen Grün.
-Seit der Antike gibt es zahlreiche Mythen und Legenden, die von der tiefen Symbolik der Natur im
-Frühling erzählen, ein Inbegriff von Neuanfang, von Aufbruchstimmung und Hoffnung. Eine
-Filmreihe von Günther Haller und Margot Schwienbacher.</desc>
-  </programme>
-  <programme start="20250331221000 +0200" stop="20250331223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250401200000 +0200" stop="20250401202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
