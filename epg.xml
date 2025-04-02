@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250401200000 +0200" stop="20250401202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250401202000 +0200" stop="20250401203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250401203500 +0200" stop="20250401204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>25. Spieltag in der Fußball-Oberliga: St. Georgen empfängt im "Südtiroler Derby der Dorfheiligen" St. Pauls. In der Landesliga trifft Lana zu Hause auf Terlan, während Kiens den SV Latsch zu Gast hat. Alle vier Mannschaften kämpfen um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20250401221000 +0200" stop="20250401223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250402200000 +0200" stop="20250402202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
