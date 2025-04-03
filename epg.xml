@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250402200000 +0200" stop="20250402202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250402202000 +0200" stop="20250402204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Handwerksunternehmen, die nachhaltig arbeiten. Es geht um Renovierung und um das Recycling von alten Baumaterialien, sowie um alte Arbeitsmethoden und Fertigkeiten. 
-
-Alle diese Handwerksbetriebe werden von Menschen geführt, die mehr als einen gewöhnlichen Beruf gewählt haben: Ihr Handwerk ist ihre Passion, und ihr Handwerk überlebt, wenn es in ihren Familienbetrieben gelingt, die Leidenschaft für ihre Arbeit auch an die junge Generation weiterzugeben. 
-Trend stellt ein Unternehmen vor, das alte historische Fenster restauriert und sie auch an die neuen Energiesparprogramme im Bauwesen anpasst, ohne dass sie ihren ursprünglichen Charakter verlieren. 
-Einem anderen Betrieb gelingt es, Mauerwerk und Putz gemäß alten Verfahren wiederherzustellen. Und eine Tischlerei restauriert und rettet alte Inneneinrichtungen mit Hilfe von alten Werkzeugen.</desc>
-  </programme>
-  <programme start="20250402221000 +0200" stop="20250402223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250403200000 +0200" stop="20250403202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
