@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250403200000 +0200" stop="20250403202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250403202000 +0200" stop="20250403204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Intuition und Bauchgefühl</sub-title>
-    <desc>Der Kopf sagt ja, doch der Bauch sagt nein. Oft stellt sich heraus, dass wir mit unserem Bauchgefühl intuitiv richtig gelegen hätten. Doch meist trauen wir uns nicht, uns darauf zu verlassen.
-
-Oft gehen wir zu rational an Entscheidungen heran. Dabei kann die Intuition ein guter Ratgeber sein. Zu Gast ist die Künstlerin Katharina Theresa Mayr. Sie erzählt, wie man sich Kunstwerken intuitiv nähern kann. In der Rubrik "Unser Gedächtnis" zeigen wir Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1967. Und in "Wiedersehen" präsentieren wir Ausschnitte aus der Dokumentation "Frauen gegen Stereotype". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20250403221000 +0200" stop="20250403223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250404180000 +0200" stop="20250404182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Intuition und Bauchgefühl</sub-title>
@@ -110,6 +93,181 @@ In df-Info: Die Initiative des Beirates für Chancengleichheit der Universität 
     <desc/>
   </programme>
   <programme start="20250406221000 +0200" stop="20250406223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250407180000 +0200" stop="20250407181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Fünf Runden sind in der Fußball-Oberliga noch ausständig. Tabellenführer Obermais will in Bozen bei Virtus einen wichtigen Schritt in Richtung Meistertitel machen. Auch im Top-Spiel der Landesliga zwischen Ahrntal und Naturns geht es um den Aufstieg. Tscherms Marling hat hingegen Salurn zu Gast.</desc>
+  </programme>
+  <programme start="20250407181400 +0200" stop="20250407183230 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Blasmusik in Meransen</sub-title>
+    <desc>Die Kinder von Meransen lieben Blasmusik und laufen voller Freude ins Probelokal der Musikkapelle. Doch oh Schreck, einige Teile ihrer Instrumente fehlen! Jemand muss das Mundstück der Trompete und das Flügelhorn versteckt haben. Inmitten der großen Aufregung taucht Clownfrau Karamela auf und entdeckt sehr bald die Übeltäter: Es waren Mäuse! Sie möchten auch gern musizieren, trauen sich aber nicht, die Kinder anzusprechen. Karamela hilft - und bald spielen alle zusammen - Kinder und Mäuse - fröhlich auf ihren Instrumenten.</desc>
+  </programme>
+  <programme start="20250407183300 +0200" stop="20250407185730 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Blühendes Symbol - wie die Kamelie die Herzen im kroatischen Opatija eroberte. Für den Schiffbau verwendet - die kroatische Eiche auf Krk. Moderation: Sigrid Flenger
+Kamelien sind das Symbol der Stadt Opatija. Die zarte Blütenpracht kam durch eine Liebesgeschichte in die Stadt und ist heute weit verbreitet. Dafür sorgt vor allem auch der 2008 gegründete lokale Verein der Kamelien-Freunde. 
+Auf der kroatischen Insel Krk wächst eine kontinentale Eichenart, die "Dub" genannt wird. Das Informationszentrum für maritimes Erbe "DUBoak" zeugt von der jahrhundertealten Beziehung der Inselbevölkerung zu diesem Baum. Früher wurden hier Schiffe mit Eichenholz gebaut.</desc>
+  </programme>
+  <programme start="20250407200000 +0200" stop="20250407202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250407202000 +0200" stop="20250407213000 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20250407213000 +0200" stop="20250407220000 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Weiblich geführte Start-ups und ihre Schwierigkeit, finanziell unterstützt zu werden. Matriarchatsforscherin Andrea Fleckinger im Porträt. Der Brixner Frauenlauf. Moderation: Martina Kreuzer.
+Die Lage ist paradox: Start-ups von Frauen gelten als erfolgreicher als jene von Männern. Und doch tun sich Gründerinnen blutig schwer, Investoren:innen für ihre Ideen zu finden. Wir fragen zwei Start-upperinnen, wie sie es geschafft haben, das Vertrauen von Business Angels zu gewinnen. Eine Südtiroler Investorin verrät, warum sie für weiblich geführte Start-ups voll ins Risiko geht. Dazu passt, dass im NOI Techpark gezielt Gründerinnen gefördert werden. Liegt es daran, dass Frauen nicht nur Innovation ausreizen, sondern wirklich das Leben von Menschen verbessern wollen? dF hat nachgefragt. 
+Außerdem lernen wir eine Südtirolerin kennen, die maßgeblich zur Weiterentwicklung der modernen Matriarchatsforschung beiträgt: die Wipptaler Sozialwissenschaftlerin und Forscherin der Universität Trient Andrea Fleckinger. Warum sie diese Alternative zu einem patriarchalen Gesellschaftsmodell so fasziniert und wie ihre eigene Lebensgeschichte damit verknüpft ist, erzählt die Co-Gründerin des Matriforums im dF-Porträt. 
+In df-Info: Die Initiative des Beirates für Chancengleichheit der Universität Bozen "Ain't I a woman?" und es wird der Brixner Frauenlauf vorgestellt.</desc>
+  </programme>
+  <programme start="20250407221000 +0200" stop="20250407223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250408200000 +0200" stop="20250408202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250408202000 +0200" stop="20250408203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250408203500 +0200" stop="20250408204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Fünf Runden sind in der Fußball-Oberliga noch ausständig. Tabellenführer Obermais will in Bozen bei Virtus einen wichtigen Schritt in Richtung Meistertitel machen. Auch im Top-Spiel der Landesliga zwischen Ahrntal und Naturns geht es um den Aufstieg. Tscherms Marling hat hingegen Salurn zu Gast.</desc>
+  </programme>
+  <programme start="20250408221000 +0200" stop="20250408223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250409200000 +0200" stop="20250409202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250409202000 +0200" stop="20250409204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Eine Plakataktion für faire Löhne, Tipps zur Zusatzrente, geplante Verkehrsmaßnahmen zwischen Eppan und Sigmundskron, Fruchtmus made in Südtirol. Moderation: Markus Frings.
+
+Mit einer groß angelegten Plakataktion fordert die Gewerkschaft ASGB faire Löhne für alle - besonders für junge Menschen. Denn: Wer heute schlecht verdient, zahlt morgen zu wenig in die Rentenkasse ein - mit dem Risiko der Altersarmut.
+Passend dazu werfen wir einen Blick auf die Vorteile einer Zusatzrente. Warum es sich lohnt, heute schon an morgen zu denken - und wie man mit kleinen Beträgen für die Zukunft vorsorgen kann.
+In der Rubrik Mobilität geht es um konkrete Verbesserungen auf einer der meistbefahrenen Strecken des Landes: Geplant ist der Ausbau der Bus-Vorzugsspur von Eppan bis zur MEBO-Auffahrt - außerdem zwei neue Kreisverkehre. Wir zeigen, was das für den Verkehrsfluss bedeutet.
+Und zum Schluss: Innovation made in Südtirol. Wir besuchen den Obstverarbeitungsbetrieb Fructus Meran, der Fruchtbrei in praktischen Quetschbeuteln herstellt - und dabei moderne Technik mit lokaler Qualität verbindet.</desc>
+  </programme>
+  <programme start="20250409221000 +0200" stop="20250409223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250410200000 +0200" stop="20250410202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250410202000 +0200" stop="20250410204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Schönheitsideale</sub-title>
+    <desc>Bin ich schön? Körperbilder im Internet und in den sozialen Medien setzen uns unter Druck. Wie kann man sich dem entziehen? Es moderiert Magdalena Oberstaller. 
+
+Makellose Haut, perfektes Lächeln, sportlicher Körper: Das gilt heutzutage als schön. Doch das war nicht immer so. Wir erzählen, wie sich das Verständnis von Schönheit im Laufe der Zeit gewandelt hat. Und wie man sich dem sogenannten Schönheitsideal entziehen kann. Zu Gast ist der Plastische Chirurg Lorenz Larcher. 
+In der Rubrik "So isst Euregio" besuchen wir den Koch Stefano Goller in Trient. Und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Reportage Schönheit und ihre Schattenseiten".</desc>
+  </programme>
+  <programme start="20250410213000 +0200" stop="20250410215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Wintersaison wird traditionell mit den Italienmeisterschaften abgeschlossen. In Toblach werden die Titel im Ski-Langlauf vergeben, während in Cortina die heuer so erfolgreichen Snowboarder im Einsatz stehen. Auch Weltmeister Roland Fischnaller ist am Start. 
+Die SportArena blickt außerdem auf den HCB Südtirol in der Ice Hockey League und den FC Südtirol in der Serie B im Fußball.</desc>
+  </programme>
+  <programme start="20250410221000 +0200" stop="20250410223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250411180000 +0200" stop="20250411182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Schönheitsideale</sub-title>
+    <desc>Bin ich schön? Körperbilder im Internet und in den sozialen Medien setzen uns unter Druck. Wie kann man sich dem entziehen? Es moderiert Magdalena Oberstaller. 
+Makellose Haut, perfektes Lächeln, sportlicher Körper: Das gilt heutzutage als schön. Doch das war nicht immer so. Wir erzählen, wie sich das Verständnis von Schönheit im Laufe der Zeit gewandelt hat. Und wie man sich dem sogenannten Schönheitsideal entziehen kann. Zu Gast ist der Plastische Chirurg Lorenz Larcher. 
+In der Rubrik "So isst Euregio" besuchen wir den Koch Stefano Goller in Trient. Und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Reportage Schönheit und ihre Schattenseiten".</desc>
+  </programme>
+  <programme start="20250411182900 +0200" stop="20250411185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Wintersaison wird traditionell mit den Italienmeisterschaften abgeschlossen. In Toblach werden die Titel im Ski-Langlauf vergeben, während in Cortina die heuer so erfolgreichen Snowboarder im Einsatz stehen. Auch Weltmeister Roland Fischnaller ist am Start. 
+Die SportArena blickt außerdem auf den HCB Südtirol in der Ice Hockey League und den FC Südtirol in der Serie B im Fußball.</desc>
+  </programme>
+  <programme start="20250411200000 +0200" stop="20250411202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250411202000 +0200" stop="20250411215930 +0200" channel="Rai Südtirol">
+    <title>Tränen - Träume - Triumphe</title>
+    <sub-title>RAI Südtirol und der Sport</sub-title>
+    <desc>Anlässlich der Sportlergala der Südtiroler Sporthilfe und der Wahl der Dolomiten Sportler des Jahres blicken wir auf die sportlichen Highlights der letzten 12 Monate. Moderation: Claudia Schuler und Anna Zangerle.
+
+Moderatorin Claudia Schuler wird mit den wichtigsten Sportlerinnen und Sportlern sprechen, Anna Zangerle als Live-Korrespondentin von der Sporthilfe Gala berichten. Wer bekommt den Ossi-Pircherpreis, wer wird für sein Lebenswerk ausgezeichnet? Und wer wird Sportler mit Herz? Rai Südtirol und der Sport: Live aus dem Meraner Kursaal. Es moderieren Claudia Schuler und Anna Zangerle.</desc>
+  </programme>
+  <programme start="20250411221000 +0200" stop="20250411223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250412180000 +0200" stop="20250412182930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Handwerksunternehmen, die nachhaltig arbeiten. Es geht um Renovierung und um das Recycling von alten Baumaterialien, sowie um alte Arbeitsmethoden und Fertigkeiten. Alle diese Handwerksbetriebe werden von Menschen geführt, die mehr als einen gewöhnlichen Beruf gewählt haben: Ihr Handwerk ist ihre Passion, und ihr Handwerk überlebt, wenn es in ihren Familienbetrieben gelingt, die Leidenschaft für ihre Arbeit auch an die junge Generation weiterzugeben. 
+Trend stellt ein Unternehmen vor, das alte historische Fenster restauriert und sie auch an die neuen Energiesparprogramme im Bauwesen anpasst, ohne dass sie ihren ursprünglichen Charakter verlieren. 
+Einem anderen Betrieb gelingt es, Mauerwerk und Putz gemäß alten Verfahren wiederherzustellen. Und eine Tischlerei restauriert und rettet alte Inneneinrichtungen mit Hilfe von alten Werkzeugen.</desc>
+  </programme>
+  <programme start="20250412182900 +0200" stop="20250412185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Eine Plakataktion für faire Löhne, Tipps zur Zusatzrente, geplante Verkehrsmaßnahmen zwischen Eppan und Sigmundskron, Fruchtmus made in Südtirol. Moderation: Markus Frings.
+Mit einer groß angelegten Plakataktion fordert die Gewerkschaft ASGB faire Löhne für alle - besonders für junge Menschen. Denn: Wer heute schlecht verdient, zahlt morgen zu wenig in die Rentenkasse ein - mit dem Risiko der Altersarmut.
+Passend dazu werfen wir einen Blick auf die Vorteile einer Zusatzrente. Warum es sich lohnt, heute schon an morgen zu denken - und wie man mit kleinen Beträgen für die Zukunft vorsorgen kann.
+In der Rubrik Mobilität geht es um konkrete Verbesserungen auf einer der meistbefahrenen Strecken des Landes: Geplant ist der Ausbau der Bus-Vorzugsspur von Eppan bis zur MEBO-Auffahrt - außerdem zwei neue Kreisverkehre. Wir zeigen, was das für den Verkehrsfluss bedeutet.
+Und zum Schluss: Innovation made in Südtirol. Wir besuchen den Obstverarbeitungsbetrieb Fructus Meran, der Fruchtbrei in praktischen Quetschbeuteln herstellt - und dabei moderne Technik mit lokaler Qualität verbindet.</desc>
+  </programme>
+  <programme start="20250412200000 +0200" stop="20250412202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250412202000 +0200" stop="20250412202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250412202400 +0200" stop="20250412205330 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Sozialpädagogik im Kindergarten, Resilienz bis ins hohe Alter, Kirchtagskrapfenbacken im Seniorenwohnheim Terlan, Fotografin Ingrid Heiss im Interview. Moderation: Lisa Hintner.
+
+In rund zehn der 260 Kindergärten in Südtirol gibt es eine sozialpädagogische Unterstützung. Es ist ein Pilotprojekt, das auch Eltern in ihrer Erziehungskompetenz stärkt. Einer dieser Kindergärten ist der Mozart-Kindergarten in Brixen.
+Resilienz ist nicht etwas, das einem in die Wiege gelegt wird. Es ist ein dynamischer Prozess: Er hängt vom Umfeld ab, in dem Menschen aufwachsen und von den Lernerfahrungen, die sie machen. Dazu spricht der Sozialpädagoge Andreas Edinger.
+Eine, die die Lebenserfahrung resilient gemacht hat, ist Moidl Gasser: Auch jetzt noch im Seniorenwohnheim in Terlan sucht sich die 94jährige täglich eine Beschäftigung. Auch Rosa Obrist hat das Leben nicht verwöhnt. Wenn Moidl ihre Eisacktaler Kirchtagskrapfen zubereitet, hilft sie gern.
+Die Stärken eines Menschen beleuchten, auf das Wesentliche achten - das ist es, was die Fotografin Ingrid Heiss seit jeher interessiert. Die Brixnerin ist heute Gast in Plaus bei Claudia Schuler.</desc>
+  </programme>
+  <programme start="20250412221000 +0200" stop="20250412223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
