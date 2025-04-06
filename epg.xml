@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250405180000 +0200" stop="20250405185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Karin Duregger besucht Künstler:Innen in ihren Ateliers und Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter. Wenn alte Disziplinen wie die Literatur, das Bauwesen oder die Mode neu bespielt werden: Karin Duregger ist auf der Suche nach jungen Künstler:Innen, die genau dies auf kreative und nachhaltige Weise tun. 
-Wie werden hingegen Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, trifft Magdalena Oberstaller die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
-  </programme>
-  <programme start="20250405200000 +0200" stop="20250405202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250405202000 +0200" stop="20250405202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250405202400 +0200" stop="20250405204830 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Blühendes Symbol - wie die Kamelie die Herzen im kroatischen Opatija eroberte. Für den Schiffbau verwendet - die kroatische Eiche auf Krk. Moderation: Sigrid Flenger
-
-Kamelien sind das Symbol der Stadt Opatija. Die zarte Blütenpracht kam durch eine Liebesgeschichte in die Stadt und ist heute weit verbreitet. Dafür sorgt vor allem auch der 2008 gegründete lokale Verein der Kamelien-Freunde. 
-Auf der kroatischen Insel Krk wächst eine kontinentale Eichenart, die "Dub" genannt wird. Das Informationszentrum für maritimes Erbe "DUBoak" zeugt von der jahrhundertealten Beziehung der Inselbevölkerung zu diesem Baum. Früher wurden hier Schiffe mit Eichenholz gebaut.</desc>
-  </programme>
-  <programme start="20250405221000 +0200" stop="20250405223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250406200000 +0200" stop="20250406202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
