@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250406200000 +0200" stop="20250406202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250406202000 +0200" stop="20250406204930 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Weiblich geführte Start-ups und ihre Schwierigkeit, finanziell unterstützt zu werden. Matriarchatsforscherin Andrea Fleckinger im Porträt. Der Brixner Frauenlauf. Moderation: Martina Kreuzer.
-
-Die Lage ist paradox: Start-ups von Frauen gelten als erfolgreicher als jene von Männern. Und doch tun sich Gründerinnen blutig schwer, Investoren:innen für ihre Ideen zu finden. Wir fragen zwei Start-upperinnen, wie sie es geschafft haben, das Vertrauen von Business Angels zu gewinnen. Eine Südtiroler Investorin verrät, warum sie für weiblich geführte Start-ups voll ins Risiko geht. Dazu passt, dass im NOI Techpark gezielt Gründerinnen gefördert werden. Liegt es daran, dass Frauen nicht nur Innovation ausreizen, sondern wirklich das Leben von Menschen verbessern wollen? dF hat nachgefragt. 
-Außerdem lernen wir eine Südtirolerin kennen, die maßgeblich zur Weiterentwicklung der modernen Matriarchatsforschung beiträgt: die Wipptaler Sozialwissenschaftlerin und Forscherin der Universität Trient Andrea Fleckinger. Warum sie diese Alternative zu einem patriarchalen Gesellschaftsmodell so fasziniert und wie ihre eigene Lebensgeschichte damit verknüpft ist, erzählt die Co-Gründerin des Matriforums im dF-Porträt. 
-In df-Info: Die Initiative des Beirates für Chancengleichheit der Universität Bozen "Ain't I a woman?" und es wird der Brixner Frauenlauf vorgestellt.</desc>
-  </programme>
-  <programme start="20250406205000 +0200" stop="20250406205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250406221000 +0200" stop="20250406223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250407180000 +0200" stop="20250407181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
