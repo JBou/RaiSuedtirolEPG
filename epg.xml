@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250407180000 +0200" stop="20250407181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Fünf Runden sind in der Fußball-Oberliga noch ausständig. Tabellenführer Obermais will in Bozen bei Virtus einen wichtigen Schritt in Richtung Meistertitel machen. Auch im Top-Spiel der Landesliga zwischen Ahrntal und Naturns geht es um den Aufstieg. Tscherms Marling hat hingegen Salurn zu Gast.</desc>
-  </programme>
-  <programme start="20250407181400 +0200" stop="20250407183230 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Blasmusik in Meransen</sub-title>
-    <desc>Die Kinder von Meransen lieben Blasmusik und laufen voller Freude ins Probelokal der Musikkapelle. Doch oh Schreck, einige Teile ihrer Instrumente fehlen! Jemand muss das Mundstück der Trompete und das Flügelhorn versteckt haben. Inmitten der großen Aufregung taucht Clownfrau Karamela auf und entdeckt sehr bald die Übeltäter: Es waren Mäuse! Sie möchten auch gern musizieren, trauen sich aber nicht, die Kinder anzusprechen. Karamela hilft - und bald spielen alle zusammen - Kinder und Mäuse - fröhlich auf ihren Instrumenten.</desc>
-  </programme>
-  <programme start="20250407183300 +0200" stop="20250407185730 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Blühendes Symbol - wie die Kamelie die Herzen im kroatischen Opatija eroberte. Für den Schiffbau verwendet - die kroatische Eiche auf Krk. Moderation: Sigrid Flenger
-Kamelien sind das Symbol der Stadt Opatija. Die zarte Blütenpracht kam durch eine Liebesgeschichte in die Stadt und ist heute weit verbreitet. Dafür sorgt vor allem auch der 2008 gegründete lokale Verein der Kamelien-Freunde. 
-Auf der kroatischen Insel Krk wächst eine kontinentale Eichenart, die "Dub" genannt wird. Das Informationszentrum für maritimes Erbe "DUBoak" zeugt von der jahrhundertealten Beziehung der Inselbevölkerung zu diesem Baum. Früher wurden hier Schiffe mit Eichenholz gebaut.</desc>
-  </programme>
-  <programme start="20250407200000 +0200" stop="20250407202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250407202000 +0200" stop="20250407213000 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20250407213000 +0200" stop="20250407220000 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Weiblich geführte Start-ups und ihre Schwierigkeit, finanziell unterstützt zu werden. Matriarchatsforscherin Andrea Fleckinger im Porträt. Der Brixner Frauenlauf. Moderation: Martina Kreuzer.
-Die Lage ist paradox: Start-ups von Frauen gelten als erfolgreicher als jene von Männern. Und doch tun sich Gründerinnen blutig schwer, Investoren:innen für ihre Ideen zu finden. Wir fragen zwei Start-upperinnen, wie sie es geschafft haben, das Vertrauen von Business Angels zu gewinnen. Eine Südtiroler Investorin verrät, warum sie für weiblich geführte Start-ups voll ins Risiko geht. Dazu passt, dass im NOI Techpark gezielt Gründerinnen gefördert werden. Liegt es daran, dass Frauen nicht nur Innovation ausreizen, sondern wirklich das Leben von Menschen verbessern wollen? dF hat nachgefragt. 
-Außerdem lernen wir eine Südtirolerin kennen, die maßgeblich zur Weiterentwicklung der modernen Matriarchatsforschung beiträgt: die Wipptaler Sozialwissenschaftlerin und Forscherin der Universität Trient Andrea Fleckinger. Warum sie diese Alternative zu einem patriarchalen Gesellschaftsmodell so fasziniert und wie ihre eigene Lebensgeschichte damit verknüpft ist, erzählt die Co-Gründerin des Matriforums im dF-Porträt. 
-In df-Info: Die Initiative des Beirates für Chancengleichheit der Universität Bozen "Ain't I a woman?" und es wird der Brixner Frauenlauf vorgestellt.</desc>
-  </programme>
-  <programme start="20250407221000 +0200" stop="20250407223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250408200000 +0200" stop="20250408202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
