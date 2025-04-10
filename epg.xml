@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250409200000 +0200" stop="20250409202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250409202000 +0200" stop="20250409204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Eine Plakataktion für faire Löhne, Tipps zur Zusatzrente, geplante Verkehrsmaßnahmen zwischen Eppan und Sigmundskron, Fruchtmus made in Südtirol. Moderation: Markus Frings.
-
-Mit einer groß angelegten Plakataktion fordert die Gewerkschaft ASGB faire Löhne für alle - besonders für junge Menschen. Denn: Wer heute schlecht verdient, zahlt morgen zu wenig in die Rentenkasse ein - mit dem Risiko der Altersarmut.
-Passend dazu werfen wir einen Blick auf die Vorteile einer Zusatzrente. Warum es sich lohnt, heute schon an morgen zu denken - und wie man mit kleinen Beträgen für die Zukunft vorsorgen kann.
-In der Rubrik Mobilität geht es um konkrete Verbesserungen auf einer der meistbefahrenen Strecken des Landes: Geplant ist der Ausbau der Bus-Vorzugsspur von Eppan bis zur MEBO-Auffahrt - außerdem zwei neue Kreisverkehre. Wir zeigen, was das für den Verkehrsfluss bedeutet.
-Und zum Schluss: Innovation made in Südtirol. Wir besuchen den Obstverarbeitungsbetrieb Fructus Meran, der Fruchtbrei in praktischen Quetschbeuteln herstellt - und dabei moderne Technik mit lokaler Qualität verbindet.</desc>
-  </programme>
-  <programme start="20250409221000 +0200" stop="20250409223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250410200000 +0200" stop="20250410202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
