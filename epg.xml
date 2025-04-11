@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250410200000 +0200" stop="20250410202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250410202000 +0200" stop="20250410204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Schönheitsideale</sub-title>
-    <desc>Bin ich schön? Körperbilder im Internet und in den sozialen Medien setzen uns unter Druck. Wie kann man sich dem entziehen? Es moderiert Magdalena Oberstaller. 
-
-Makellose Haut, perfektes Lächeln, sportlicher Körper: Das gilt heutzutage als schön. Doch das war nicht immer so. Wir erzählen, wie sich das Verständnis von Schönheit im Laufe der Zeit gewandelt hat. Und wie man sich dem sogenannten Schönheitsideal entziehen kann. Zu Gast ist der Plastische Chirurg Lorenz Larcher. 
-In der Rubrik "So isst Euregio" besuchen wir den Koch Stefano Goller in Trient. Und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Reportage Schönheit und ihre Schattenseiten".</desc>
-  </programme>
-  <programme start="20250410213000 +0200" stop="20250410215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Wintersaison wird traditionell mit den Italienmeisterschaften abgeschlossen. In Toblach werden die Titel im Ski-Langlauf vergeben, während in Cortina die heuer so erfolgreichen Snowboarder im Einsatz stehen. Auch Weltmeister Roland Fischnaller ist am Start. 
-Die SportArena blickt außerdem auf den HCB Südtirol in der Ice Hockey League und den FC Südtirol in der Serie B im Fußball.</desc>
-  </programme>
-  <programme start="20250410221000 +0200" stop="20250410223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250411180000 +0200" stop="20250411182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Schönheitsideale</sub-title>
@@ -119,6 +95,184 @@ Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrer
     <desc/>
   </programme>
   <programme start="20250413221000 +0200" stop="20250413223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250414180000 +0200" stop="20250414181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Ober- und Landesliga pausieren, da die Jugend-Landesauswahlen bei der Regionen-Trophäe in Sizilien im Einsatz stehen. Deshalb werfen wir einen Blick auf die Spitzenspiele der 1. Amateurliga: Im Kreis A ist Tabellenführer Gargazon bei Tirol zu Gast, im Kreis B empfängt hingegen Spitzenreiter Natz den Tabellenzweiten Freienfeld.</desc>
+  </programme>
+  <programme start="20250414181400 +0200" stop="20250414182830 +0200" channel="Rai Südtirol">
+    <title>Zipp</title>
+    <sub-title>Das Kindermagazin</sub-title>
+    <desc>Diesmal geht es in Zipp um richtig große und um winzig kleine Tiere. Moderator Stefan besucht den Reierhof im Gsiesertal. Dort lebt die größte Pferderasse der Welt aber auch die kleinsten Pferdchen. Bauer Albin gefallen vor allem die richtig starken Tiere auf seinem Erlebnishof wie die schottischen Hochlandrinder, Zebus oder auch Wasserbüffel.</desc>
+  </programme>
+  <programme start="20250414182900 +0200" stop="20250414185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Sozialpädagogik im Kindergarten, Resilienz bis ins hohe Alter, Kirchtagskrapfenbacken im Seniorenwohnheim Terlan, Fotografin Ingrid Heiss im Interview. Moderation: Lisa Hintner. In rund zehn der 260 Kindergärten in Südtirol gibt es eine sozialpädagogische Unterstützung. Es ist ein Pilotprojekt, das auch Eltern in ihrer Erziehungskompetenz stärkt. Einer dieser Kindergärten ist der Mozart-Kindergarten in Brixen.
+Resilienz ist nicht etwas, das einem in die Wiege gelegt wird. Es ist ein dynamischer Prozess: Er hängt vom Umfeld ab, in dem Menschen aufwachsen und von den Lernerfahrungen, die sie machen. Dazu spricht der Sozialpädagoge Andreas Edinger.
+Eine, die die Lebenserfahrung resilient gemacht hat, ist Moidl Gasser: Auch jetzt noch im Seniorenwohnheim in Terlan sucht sich die 94jährige täglich eine Beschäftigung. Auch Rosa Obrist hat das Leben nicht verwöhnt. Wenn Moidl ihre Eisacktaler Kirchtagskrapfen zubereitet, hilft sie gern.
+Die Stärken eines Menschen beleuchten, auf das Wesentliche achten - das ist es, was die Fotografin Ingrid Heiss seit jeher interessiert. Die Brixnerin ist heute Gast in Plaus bei Claudia Schuler.</desc>
+  </programme>
+  <programme start="20250414200000 +0200" stop="20250414202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250414202000 +0200" stop="20250414211930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Schauspielerin Helga Pedross im Porträt, "Jugend ohne Gott" vom Rotierenden Theater, Malls "Ein Hund kam in die Küche" als Bühnenstück, das neue Landesjugendorchester. Moderation: Alex Lechner.
+Die Vinschger Schauspielerin Helga Pedross hat schon Vieles ausprobiert und kehrt nach über 20 Jahren erstmals wieder auf Südtirols Bühnen zurück. 
+In Ödön von Horvaths Roman "Jugend ohne Gott" aus dem Jahr 1937 geht es um Jugendliche, die zu Gehorsam und Rassenhass erzogen werden. Das Rotierende Theater sucht in seiner Inszenierung nach Parallelen zu heute.
+Sepp Malls Roman "Ein Hund kam in die Küche" handelt von Abschied, Heimatsuche und Rückkehr aus der Perspektive eines Kindes. Am 3.Mai hat es als Bühnenstück Uraufführung. Wie aber wird aus einem Roman ein Theaterstück?
+In Bozen fand eine Tagung der Deutschen Akademie für Sprache und Dichtung statt, die sich mit dem Umgang mit Grenzen beschäftigt hat. Zudem wird das neue Landesjugendorchester Südtirol als inklusives Projekt vorgestellt, das alle Sprachgruppen und musikalischen Bildungseinrichtungen vereint. 
+Zu Gast bei Alex Lechner sind die Künstlerin und Präsidentin der ar/ge kunst Karin Welponer und die Filmschauspielerin und Kommunikationstrainerin Katja Lechthaler.</desc>
+  </programme>
+  <programme start="20250414211900 +0200" stop="20250414214423 +0200" channel="Rai Südtirol">
+    <title>25 Jahre LanaArt</title>
+    <sub-title/>
+    <desc>Der Verein LanaArt feiert dieses Jahr sein 25-jähriges Bestehen. Er blickt auf ein Vierteljahrhundert zurück, in dem Kunst und Natur auf einzigartige Art und Weise miteinander verbunden wurden. Organisatoren und Künstler:innen stellen das Herzstück des Vereins vor, den Skulpturenweg Lana, der im Laufe der Jahre ständig gewachsen ist. LanaArt bezieht aber auch Literat:innen mit ein, die sich mit dem Thema Natur und Kunst beschäftigen.</desc>
+  </programme>
+  <programme start="20250414214400 +0200" stop="20250414215907 +0200" channel="Rai Südtirol">
+    <title>Das Fastentuch aus der St. Jakobskirche in Gröden</title>
+    <sub-title/>
+    <desc>Das Passionstuch- wie es im Ladinischen genannt wird - ist eines der späten alpenländischen Exemplare eines in Bilderfeldern eingeteilten Fastentuches. In 24 Feldern wird hier in aller Ausführlichkeit der Passionszyklus geschildert: vom Einzug Jesu in Jerusalem bis zur Auferstehung. 
+Ursprünglich wurde das Passionstuch während der vierzigtägigen Fastenzeit vor Ostern am Chorbogen der St. Jakobskirche aufgehängt. Seit 1960 wird es im Museum Gröden in St. Ulrich aufbewahrt. 2001 wurde es sorgfältig und fachgerecht restauriert. Ein seltenes Zeugnis religiöser Frömmigkeit. Ein Film von Paulina Moroder und Hanspeter Karbon.</desc>
+  </programme>
+  <programme start="20250414221000 +0200" stop="20250414223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250415200000 +0200" stop="20250415202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250415202000 +0200" stop="20250415203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250415203500 +0200" stop="20250415204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die Ober- und Landesliga pausieren, da die Jugend-Landesauswahlen bei der Regionen-Trophäe in Sizilien im Einsatz stehen. Deshalb werfen wir einen Blick auf die Spitzenspiele der 1. Amateurliga: Im Kreis A ist Tabellenführer Gargazon bei Tirol zu Gast, im Kreis B empfängt hingegen Spitzenreiter Natz den Tabellenzweiten Freienfeld.</desc>
+  </programme>
+  <programme start="20250415221000 +0200" stop="20250415223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250416200000 +0200" stop="20250416202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250416202000 +0200" stop="20250416204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Minderheitensprache Mirandés in Portugal, die sudetendeutsche Schriftstellerin Iris Wolff im Porträt, die verzweifelte Lage der Karen, die in einem Weltnaturerbe in Thailand leben. Es moderiert Christina Khuen.
+
+Das Portugiesische ist die offizielle Amtssprache Portugals. Im Nordosten wird zudem der Dialekt Mirandés gesprochen, der linguistisch zum Asturianischen gehört. 2001 wurde Mirandés als Minderheitensprache anerkannt, um den Erhalt der Sprache sichern. 
+Die sudetendeutsche Schriftstellerin Iris Wolff wurde heuer mit dem Literaturpreis der Konrad-Adenauer-Stiftung ausgezeichnet. Ihre Romane seien "Lichtblicke in die Zeitgeschichte und ein wegweisender Beitrag zur europäischen Erinnerungskultur". 
+Das INV wird 100: Es ist ein öffentliches Forschungsinstitut in Slowenien, das sich mit der Stellung der Slowenen in den Nachfolgestaaten des ehemaligen Jugoslawiens auseinandersetzt, aber auch mit der Situation der ethnischen Gemeinschaften in Slowenien. 
+In der Reihe "Tribal Voices" berichtet Minet über Kampu, einen indigenen Karen-Jugendlichen aus dem Kaeng-Krachan-Nationalpark in Thailand. Er beschreibt die verzweifelte Lage seines Volkes, seit seine Heimat zum Weltnaturerbe erklärt wurde.</desc>
+  </programme>
+  <programme start="20250416221000 +0200" stop="20250416223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250417200000 +0200" stop="20250417202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250417202000 +0200" stop="20250417204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Naturheilkunde</sub-title>
+    <desc>Der Boom von Kräuterwissen und Naturheilkunde und die Gründe dafür. Bildungsberufe im Fokus: Wie arbeiten Musikschullehrer:innen und Förster mit Jugendlichen. Es moderiert Karin Gschnitzer.
+Zurück zur Natur, Eisbaden, Kräutertees und Naturkosmetik - immer mehr Menschen interessieren sich für altes Kräuterwissen. Sie vertrauen mehr der Naturheilkunde, als dem Gesundheitssystem und suchen einen Rückzug in die Natur. Woher kommt das? 
+In der Rubrik "Bildung real" schauen wir uns besondere Bildungsberufe an - Förster und Musiklehrer:innen - und in der Rubrik „Wiedersehen“ zeigen wir einen Ausschnitt aus der Doku "Vegan in Südtirol - Ernährung ohne Tierprodukte".</desc>
+  </programme>
+  <programme start="20250417221000 +0200" stop="20250417223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250418180000 +0200" stop="20250418182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Naturheilkunde</sub-title>
+    <desc>Der Boom von Kräuterwissen und Naturheilkunde und die Gründe dafür. Bildungsberufe im Fokus: Wie arbeiten Musikschullehrer:innen und Förster mit Jugendlichen. Es moderiert Karin Gschnitzer. Zurück zur Natur, Eisbaden, Kräutertees und Naturkosmetik - immer mehr Menschen interessieren sich für altes Kräuterwissen. Sie vertrauen mehr der Naturheilkunde, als dem Gesundheitssystem und suchen einen Rückzug in die Natur. Woher kommt das? 
+In der Rubrik "Bildung real" schauen wir uns besondere Bildungsberufe an - Förster und Musiklehrer:innen - und in der Rubrik „Wiedersehen“ zeigen wir einen Ausschnitt aus der Doku "Vegan in Südtirol - Ernährung ohne Tierprodukte".</desc>
+  </programme>
+  <programme start="20250418182900 +0200" stop="20250418185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Minderheitensprache Mirandés in Portugal, die sudetendeutsche Schriftstellerin Iris Wolff im Porträt, die verzweifelte Lage der Karen, die in einem Weltnaturerbe in Thailand leben. Es moderiert Christina Khuen.
+Das Portugiesische ist die offizielle Amtssprache Portugals. Im Nordosten wird zudem der Dialekt Mirandés gesprochen, der linguistisch zum Asturianischen gehört. 2001 wurde Mirandés als Minderheitensprache anerkannt, um den Erhalt der Sprache sichern. 
+Die sudetendeutsche Schriftstellerin Iris Wolff wurde heuer mit dem Literaturpreis der Konrad-Adenauer-Stiftung ausgezeichnet. Ihre Romane seien "Lichtblicke in die Zeitgeschichte und ein wegweisender Beitrag zur europäischen Erinnerungskultur". 
+Das INV wird 100: Es ist ein öffentliches Forschungsinstitut in Slowenien, das sich mit der Stellung der Slowenen in den Nachfolgestaaten des ehemaligen Jugoslawiens auseinandersetzt, aber auch mit der Situation der ethnischen Gemeinschaften in Slowenien. 
+In der Reihe "Tribal Voices" berichtet Minet über Kampu, einen indigenen Karen-Jugendlichen aus dem Kaeng-Krachan-Nationalpark in Thailand. Er beschreibt die verzweifelte Lage seines Volkes, seit seine Heimat zum Weltnaturerbe erklärt wurde.</desc>
+  </programme>
+  <programme start="20250418200000 +0200" stop="20250418202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250418202000 +0200" stop="20250418214927 +0200" channel="Rai Südtirol">
+    <title>Kloster Säben</title>
+    <sub-title/>
+    <desc>Kloster Säben ist das Wahrzeichen von Klausen und ein beeindruckender Blickfang für alle Reisenden, die das Eisacktal durchqueren. Ein Film von Edith Eisenstecken und Evi Oberkofler.
+Säben ist Geschichte und religiöser Anziehungspunkt zugleich. Vor Jahrtausenden erstmals besiedelt und seither immer wieder bewohnt und verlassen. Ähnlich einer Burg und umgeben von Weinhügeln, liegt es auf einem markanten Felshügel und ist durch seine exponierte Lage ein Rückzugs- und Zufluchtsort. 
+Auf seinem Felsen entstand im 17. Jahrhundert eine religiöse Enklave. Sie ist heute Ausflugsziel für Gläubige, kulturhistorisch Interessierte, und Menschen, die sich nach einem stillen, entrückten Ort sehnen. 
+Drei Jahre lang stand das Kloster leer. Die Filmemacherinnen Edith Eisenstecken und Evi Oberkofler haben die Stimmung dieses besonderen Ortes in einem Film eingefangen, aber auch seine Geschichte. 
+Seit September 2024 leben die Zisterzienser von Heiligenkreuz auf Kloster Säben.</desc>
+  </programme>
+  <programme start="20250418214900 +0200" stop="20250418220003 +0200" channel="Rai Südtirol">
+    <title>Das Heilige Grab in Albeins</title>
+    <sub-title>Höhepunkt der Osterzeit</sub-title>
+    <desc>Die Heiligen Gräber mit ihren bunten Kugeln erinnern an ein mystisches Schauspiel, das in den Passions- und Osterspielen seinen Höhepunkt erreicht. Die Pfarrei Albeins bei Brixen, eine der ältesten unseres Landes, besitzt ein spezielles Heiliges Grab, das alljährlich in der Margarethenkirche aufgestellt wird. Teile aus der späten Barockzeit wurden durch Kulissen des österreichischen Künstlers Josef Kramer ergänzt. 
+Auffallend sind neben seiner Liebe zum Detail die kräftigen Farben. Wir erleben die Liturgie der Karwoche, die durch das Heilige Grab besonders feierlich ausfällt. Eine Dokumentation von Ulrich Fistill und Willi Rainer.</desc>
+  </programme>
+  <programme start="20250418221100 +0200" stop="20250418223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250419180000 +0200" stop="20250419185930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Schauspielerin Helga Pedross im Porträt, "Jugend ohne Gott" vom Rotierenden Theater, Malls "Ein Hund kam in die Küche" als Bühnenstück, das neue Landesjugendorchester. Moderation: Alex Lechner.
+Die Vinschger Schauspielerin Helga Pedross hat schon Vieles ausprobiert und kehrt nach über 20 Jahren erstmals wieder auf Südtirols Bühnen zurück. In Ödön von Horvaths Roman "Jugend ohne Gott" aus dem Jahr 1937 geht es um Jugendliche, die zu Gehorsam und Rassenhass erzogen werden. Das Rotierende Theater sucht in seiner Inszenierung nach Parallelen zu heute.
+Sepp Malls Roman "Ein Hund kam in die Küche" handelt von Abschied, Heimatsuche und Rückkehr aus der Perspektive eines Kindes. Am 3.Mai hat es als Bühnenstück Uraufführung. Wie aber wird aus einem Roman ein Theaterstück?
+In Bozen fand eine Tagung der Deutschen Akademie für Sprache und Dichtung statt, die sich mit dem Umgang mit Grenzen beschäftigt hat. Zudem wird das neue Landesjugendorchester Südtirol als inklusives Projekt vorgestellt, das alle Sprachgruppen und musikalischen Bildungseinrichtungen vereint. 
+Zu Gast bei Alex Lechner sind die Künstlerin und Präsidentin der ar/ge kunst Karin Welponer und die Filmschauspielerin und Kommunikationstrainerin Katja Lechthaler.</desc>
+  </programme>
+  <programme start="20250419200000 +0200" stop="20250419202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250419202100 +0200" stop="20250419202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250419202500 +0200" stop="20250419205430 +0200" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Die Schilddrüse</sub-title>
+    <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
+Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
+Auch Knoten oder Vergrößerungen der Schilddrüse (Struma) sind häufig und müssen ärztlich abgeklärt werden. 
+Im Krankenhaus Meran werden Schilddrüsenerkrankungen in der Abteilung für Innere Medizin diagnostiziert und behandelt. Ulli Velano und Marco Polo begleiteten die Schilddrüsenexperten und Primare Sieglinde Kofler und Alexander Perathoner bei ihrer Arbeit.</desc>
+  </programme>
+  <programme start="20250419221000 +0200" stop="20250419223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
