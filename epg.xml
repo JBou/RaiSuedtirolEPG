@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250412180000 +0200" stop="20250412182930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Handwerksunternehmen, die nachhaltig arbeiten. Es geht um Renovierung und um das Recycling von alten Baumaterialien, sowie um alte Arbeitsmethoden und Fertigkeiten. Alle diese Handwerksbetriebe werden von Menschen geführt, die mehr als einen gewöhnlichen Beruf gewählt haben: Ihr Handwerk ist ihre Passion, und ihr Handwerk überlebt, wenn es in ihren Familienbetrieben gelingt, die Leidenschaft für ihre Arbeit auch an die junge Generation weiterzugeben. 
-Trend stellt ein Unternehmen vor, das alte historische Fenster restauriert und sie auch an die neuen Energiesparprogramme im Bauwesen anpasst, ohne dass sie ihren ursprünglichen Charakter verlieren. 
-Einem anderen Betrieb gelingt es, Mauerwerk und Putz gemäß alten Verfahren wiederherzustellen. Und eine Tischlerei restauriert und rettet alte Inneneinrichtungen mit Hilfe von alten Werkzeugen.</desc>
-  </programme>
-  <programme start="20250412182900 +0200" stop="20250412185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Eine Plakataktion für faire Löhne, Tipps zur Zusatzrente, geplante Verkehrsmaßnahmen zwischen Eppan und Sigmundskron, Fruchtmus made in Südtirol. Moderation: Markus Frings.
-Mit einer groß angelegten Plakataktion fordert die Gewerkschaft ASGB faire Löhne für alle - besonders für junge Menschen. Denn: Wer heute schlecht verdient, zahlt morgen zu wenig in die Rentenkasse ein - mit dem Risiko der Altersarmut.
-Passend dazu werfen wir einen Blick auf die Vorteile einer Zusatzrente. Warum es sich lohnt, heute schon an morgen zu denken - und wie man mit kleinen Beträgen für die Zukunft vorsorgen kann.
-In der Rubrik Mobilität geht es um konkrete Verbesserungen auf einer der meistbefahrenen Strecken des Landes: Geplant ist der Ausbau der Bus-Vorzugsspur von Eppan bis zur MEBO-Auffahrt - außerdem zwei neue Kreisverkehre. Wir zeigen, was das für den Verkehrsfluss bedeutet.
-Und zum Schluss: Innovation made in Südtirol. Wir besuchen den Obstverarbeitungsbetrieb Fructus Meran, der Fruchtbrei in praktischen Quetschbeuteln herstellt - und dabei moderne Technik mit lokaler Qualität verbindet.</desc>
-  </programme>
-  <programme start="20250412200000 +0200" stop="20250412202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250412202000 +0200" stop="20250412202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250412202400 +0200" stop="20250412205330 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Sozialpädagogik im Kindergarten, Resilienz bis ins hohe Alter, Kirchtagskrapfenbacken im Seniorenwohnheim Terlan, Fotografin Ingrid Heiss im Interview. Moderation: Lisa Hintner.
-
-In rund zehn der 260 Kindergärten in Südtirol gibt es eine sozialpädagogische Unterstützung. Es ist ein Pilotprojekt, das auch Eltern in ihrer Erziehungskompetenz stärkt. Einer dieser Kindergärten ist der Mozart-Kindergarten in Brixen.
-Resilienz ist nicht etwas, das einem in die Wiege gelegt wird. Es ist ein dynamischer Prozess: Er hängt vom Umfeld ab, in dem Menschen aufwachsen und von den Lernerfahrungen, die sie machen. Dazu spricht der Sozialpädagoge Andreas Edinger.
-Eine, die die Lebenserfahrung resilient gemacht hat, ist Moidl Gasser: Auch jetzt noch im Seniorenwohnheim in Terlan sucht sich die 94jährige täglich eine Beschäftigung. Auch Rosa Obrist hat das Leben nicht verwöhnt. Wenn Moidl ihre Eisacktaler Kirchtagskrapfen zubereitet, hilft sie gern.
-Die Stärken eines Menschen beleuchten, auf das Wesentliche achten - das ist es, was die Fotografin Ingrid Heiss seit jeher interessiert. Die Brixnerin ist heute Gast in Plaus bei Claudia Schuler.</desc>
-  </programme>
-  <programme start="20250412221000 +0200" stop="20250412223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250413200000 +0200" stop="20250413202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
