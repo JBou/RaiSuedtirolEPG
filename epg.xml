@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250413200000 +0200" stop="20250413202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250413202100 +0200" stop="20250413204530 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zwei junge Künstlerinnen am Schnittpunkt der Kulturen, Menstruation zwischen Tabu und Normalität, ein Aufklärungsvideo als Maturaprojekt über den Alltag im Rollstuhl. Moderation: Mara Marth.
-
-In einer Zeit, in der kulturelle Vielfalt immer mehr an Bedeutung gewinnt, setzen die beiden Oberschülerinnen Rumina Kornilova und Marissa Hörmann ein Zeichen: Gemeinsam haben sie eine Kunstaustellung auf die Beine gestellt, die nicht nur ihre eigene Geschichte widerspiegelt, sondern auch die ihrer Wurzeln...
-Tabuthema Menstruation: Besonders junge Mädchen, die ihre erste Periode erleben, sind mit vielen Fragen und Unsicherheiten konfrontiert. Wie gehen sie mit Menstruationsbeschwerden um, wie haben sie ihre erste Periode erlebt und warum wird über den Zyklus oft wenig gesprochen?
-Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrern: Jessica Ceska, Noemi Wallnöfer und Melanie Klotz, drei Schülerinnen des Berufsbildungszentrums Luis Zuegg in Meran, haben sich in ihrem Maturaprojekt mit dem Thema der Barrierefreiheit auseinandergesetzt. Ihr Film "Ungebremst mobil" zeigt, welchen Hürden Rollstuhlfahrer im Alltag begegnen. Klick war bei den Dreharbeiten dabei.</desc>
-  </programme>
-  <programme start="20250413204500 +0200" stop="20250413204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250413221000 +0200" stop="20250413223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250414180000 +0200" stop="20250414181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
