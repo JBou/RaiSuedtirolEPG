@@ -4,63 +4,14 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250414180000 +0200" stop="20250414181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die Ober- und Landesliga pausieren, da die Jugend-Landesauswahlen bei der Regionen-Trophäe in Sizilien im Einsatz stehen. Deshalb werfen wir einen Blick auf die Spitzenspiele der 1. Amateurliga: Im Kreis A ist Tabellenführer Gargazon bei Tirol zu Gast, im Kreis B empfängt hingegen Spitzenreiter Natz den Tabellenzweiten Freienfeld.</desc>
-  </programme>
-  <programme start="20250414181400 +0200" stop="20250414182830 +0200" channel="Rai Südtirol">
-    <title>Zipp</title>
-    <sub-title>Das Kindermagazin</sub-title>
-    <desc>Diesmal geht es in Zipp um richtig große und um winzig kleine Tiere. Moderator Stefan besucht den Reierhof im Gsiesertal. Dort lebt die größte Pferderasse der Welt aber auch die kleinsten Pferdchen. Bauer Albin gefallen vor allem die richtig starken Tiere auf seinem Erlebnishof wie die schottischen Hochlandrinder, Zebus oder auch Wasserbüffel.</desc>
-  </programme>
-  <programme start="20250414182900 +0200" stop="20250414185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Sozialpädagogik im Kindergarten, Resilienz bis ins hohe Alter, Kirchtagskrapfenbacken im Seniorenwohnheim Terlan, Fotografin Ingrid Heiss im Interview. Moderation: Lisa Hintner. In rund zehn der 260 Kindergärten in Südtirol gibt es eine sozialpädagogische Unterstützung. Es ist ein Pilotprojekt, das auch Eltern in ihrer Erziehungskompetenz stärkt. Einer dieser Kindergärten ist der Mozart-Kindergarten in Brixen.
-Resilienz ist nicht etwas, das einem in die Wiege gelegt wird. Es ist ein dynamischer Prozess: Er hängt vom Umfeld ab, in dem Menschen aufwachsen und von den Lernerfahrungen, die sie machen. Dazu spricht der Sozialpädagoge Andreas Edinger.
-Eine, die die Lebenserfahrung resilient gemacht hat, ist Moidl Gasser: Auch jetzt noch im Seniorenwohnheim in Terlan sucht sich die 94jährige täglich eine Beschäftigung. Auch Rosa Obrist hat das Leben nicht verwöhnt. Wenn Moidl ihre Eisacktaler Kirchtagskrapfen zubereitet, hilft sie gern.
-Die Stärken eines Menschen beleuchten, auf das Wesentliche achten - das ist es, was die Fotografin Ingrid Heiss seit jeher interessiert. Die Brixnerin ist heute Gast in Plaus bei Claudia Schuler.</desc>
-  </programme>
-  <programme start="20250414200000 +0200" stop="20250414202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250414202000 +0200" stop="20250414211930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Schauspielerin Helga Pedross im Porträt, "Jugend ohne Gott" vom Rotierenden Theater, Malls "Ein Hund kam in die Küche" als Bühnenstück, das neue Landesjugendorchester. Moderation: Alex Lechner.
-Die Vinschger Schauspielerin Helga Pedross hat schon Vieles ausprobiert und kehrt nach über 20 Jahren erstmals wieder auf Südtirols Bühnen zurück. 
-In Ödön von Horvaths Roman "Jugend ohne Gott" aus dem Jahr 1937 geht es um Jugendliche, die zu Gehorsam und Rassenhass erzogen werden. Das Rotierende Theater sucht in seiner Inszenierung nach Parallelen zu heute.
-Sepp Malls Roman "Ein Hund kam in die Küche" handelt von Abschied, Heimatsuche und Rückkehr aus der Perspektive eines Kindes. Am 3.Mai hat es als Bühnenstück Uraufführung. Wie aber wird aus einem Roman ein Theaterstück?
-In Bozen fand eine Tagung der Deutschen Akademie für Sprache und Dichtung statt, die sich mit dem Umgang mit Grenzen beschäftigt hat. Zudem wird das neue Landesjugendorchester Südtirol als inklusives Projekt vorgestellt, das alle Sprachgruppen und musikalischen Bildungseinrichtungen vereint. 
-Zu Gast bei Alex Lechner sind die Künstlerin und Präsidentin der ar/ge kunst Karin Welponer und die Filmschauspielerin und Kommunikationstrainerin Katja Lechthaler.</desc>
-  </programme>
-  <programme start="20250414211900 +0200" stop="20250414214423 +0200" channel="Rai Südtirol">
-    <title>25 Jahre LanaArt</title>
-    <sub-title/>
-    <desc>Der Verein LanaArt feiert dieses Jahr sein 25-jähriges Bestehen. Er blickt auf ein Vierteljahrhundert zurück, in dem Kunst und Natur auf einzigartige Art und Weise miteinander verbunden wurden. Organisatoren und Künstler:innen stellen das Herzstück des Vereins vor, den Skulpturenweg Lana, der im Laufe der Jahre ständig gewachsen ist. LanaArt bezieht aber auch Literat:innen mit ein, die sich mit dem Thema Natur und Kunst beschäftigen.</desc>
-  </programme>
-  <programme start="20250414214400 +0200" stop="20250414215907 +0200" channel="Rai Südtirol">
-    <title>Das Fastentuch aus der St. Jakobskirche in Gröden</title>
-    <sub-title/>
-    <desc>Das Passionstuch- wie es im Ladinischen genannt wird - ist eines der späten alpenländischen Exemplare eines in Bilderfeldern eingeteilten Fastentuches. In 24 Feldern wird hier in aller Ausführlichkeit der Passionszyklus geschildert: vom Einzug Jesu in Jerusalem bis zur Auferstehung. 
-Ursprünglich wurde das Passionstuch während der vierzigtägigen Fastenzeit vor Ostern am Chorbogen der St. Jakobskirche aufgehängt. Seit 1960 wird es im Museum Gröden in St. Ulrich aufbewahrt. 2001 wurde es sorgfältig und fachgerecht restauriert. Ein seltenes Zeugnis religiöser Frömmigkeit. Ein Film von Paulina Moroder und Hanspeter Karbon.</desc>
-  </programme>
-  <programme start="20250414221000 +0200" stop="20250414223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250415200000 +0200" stop="20250415202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
     <desc/>
   </programme>
   <programme start="20250415202000 +0200" stop="20250415203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
     <desc/>
   </programme>
   <programme start="20250415203500 +0200" stop="20250415204930 +0200" channel="Rai Südtirol">
@@ -170,7 +121,7 @@ Zu Gast bei Alex Lechner sind die Künstlerin und Präsidentin der ar/ge kunst K
     <desc/>
   </programme>
   <programme start="20250419202500 +0200" stop="20250419205430 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
+    <title>Gesundheit - die Reportage</title>
     <sub-title>Die Schilddrüse</sub-title>
     <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
 Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
