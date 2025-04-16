@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250415200000 +0200" stop="20250415202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250415202000 +0200" stop="20250415203430 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250415203500 +0200" stop="20250415204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die Ober- und Landesliga pausieren, da die Jugend-Landesauswahlen bei der Regionen-Trophäe in Sizilien im Einsatz stehen. Deshalb werfen wir einen Blick auf die Spitzenspiele der 1. Amateurliga: Im Kreis A ist Tabellenführer Gargazon bei Tirol zu Gast, im Kreis B empfängt hingegen Spitzenreiter Natz den Tabellenzweiten Freienfeld.</desc>
-  </programme>
-  <programme start="20250415221000 +0200" stop="20250415223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250416200000 +0200" stop="20250416202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
