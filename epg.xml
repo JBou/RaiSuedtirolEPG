@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250416200000 +0200" stop="20250416202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250416202000 +0200" stop="20250416204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Minderheitensprache Mirandés in Portugal, die sudetendeutsche Schriftstellerin Iris Wolff im Porträt, die verzweifelte Lage der Karen, die in einem Weltnaturerbe in Thailand leben. Es moderiert Christina Khuen.
-
-Das Portugiesische ist die offizielle Amtssprache Portugals. Im Nordosten wird zudem der Dialekt Mirandés gesprochen, der linguistisch zum Asturianischen gehört. 2001 wurde Mirandés als Minderheitensprache anerkannt, um den Erhalt der Sprache sichern. 
-Die sudetendeutsche Schriftstellerin Iris Wolff wurde heuer mit dem Literaturpreis der Konrad-Adenauer-Stiftung ausgezeichnet. Ihre Romane seien "Lichtblicke in die Zeitgeschichte und ein wegweisender Beitrag zur europäischen Erinnerungskultur". 
-Das INV wird 100: Es ist ein öffentliches Forschungsinstitut in Slowenien, das sich mit der Stellung der Slowenen in den Nachfolgestaaten des ehemaligen Jugoslawiens auseinandersetzt, aber auch mit der Situation der ethnischen Gemeinschaften in Slowenien. 
-In der Reihe "Tribal Voices" berichtet Minet über Kampu, einen indigenen Karen-Jugendlichen aus dem Kaeng-Krachan-Nationalpark in Thailand. Er beschreibt die verzweifelte Lage seines Volkes, seit seine Heimat zum Weltnaturerbe erklärt wurde.</desc>
-  </programme>
-  <programme start="20250416221000 +0200" stop="20250416223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250417200000 +0200" stop="20250417202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
