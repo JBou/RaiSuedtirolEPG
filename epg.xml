@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250417200000 +0200" stop="20250417202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250417202000 +0200" stop="20250417204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Naturheilkunde</sub-title>
-    <desc>Der Boom von Kräuterwissen und Naturheilkunde und die Gründe dafür. Bildungsberufe im Fokus: Wie arbeiten Musikschullehrer:innen und Förster mit Jugendlichen. Es moderiert Karin Gschnitzer.
-Zurück zur Natur, Eisbaden, Kräutertees und Naturkosmetik - immer mehr Menschen interessieren sich für altes Kräuterwissen. Sie vertrauen mehr der Naturheilkunde, als dem Gesundheitssystem und suchen einen Rückzug in die Natur. Woher kommt das? 
-In der Rubrik "Bildung real" schauen wir uns besondere Bildungsberufe an - Förster und Musiklehrer:innen - und in der Rubrik „Wiedersehen“ zeigen wir einen Ausschnitt aus der Doku "Vegan in Südtirol - Ernährung ohne Tierprodukte".</desc>
-  </programme>
-  <programme start="20250417221000 +0200" stop="20250417223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250418180000 +0200" stop="20250418182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Naturheilkunde</sub-title>
@@ -117,6 +100,197 @@ Maximilian Raffl ist einer der jüngsten Mesner Südtirols und zeigt uns, wie er
     <desc/>
   </programme>
   <programme start="20250420221000 +0200" stop="20250420223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250421180000 +0200" stop="20250421181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vier Runden sind in der Oberliga noch ausständig: Im Derby Bozner FC gegen Partschins kämpfen die Talferstädter um den Klassenerhalt, die Untervinschger hingegen spielen noch um den Titelgewinn. Auch Virtus Bozen muss im Auswärtsmatch gegen St. Georgen gewinnen, um vorne dran zu bleiben. 
+In der Landesliga empfängt im Spitzenspiel der 25. Runde der Tabellenzweite Gröden den Tabellenführer Ahrntal.</desc>
+  </programme>
+  <programme start="20250421181400 +0200" stop="20250421183030 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Piz Ciavazes - Abramkante</sub-title>
+    <desc>Ernst Müller, Künstler aus Lana, malt seit 60 Jahren alte Höfe und Berglandschaften. Im Alter von 50 Jahren hatte er das Klettern für sich entdeckt. Diesmal geht?s über die Abramkante im
+Sellastock. Mit 71 Jahren klettert Ernst Müller eine der bekanntesten und schönsten Routen der Dolomiten: die sogenannte Abramkante am Piz Ciavazes in der Sellagruppe. Beim Bergsteigen tankt Müller Energie für seine Arbeit im Atelier und erzählt uns, wie er mit starken Farben seinem Leben einen Ton gibt. Geführt wird er dabei vom Grödner Bergführer Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20250421183100 +0200" stop="20250421185830 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Die Schilddrüse</sub-title>
+    <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
+Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
+Auch Knoten oder Vergrößerungen der Schilddrüse (Struma) sind häufig und müssen ärztlich abgeklärt werden. 
+Im Krankenhaus Meran werden Schilddrüsenerkrankungen in der Abteilung für Innere Medizin diagnostiziert und behandelt. Ulli Velano und Marco Polo begleiteten die Schilddrüsenexperten und Primare Sieglinde Kofler und Alexander Perathoner bei ihrer Arbeit.</desc>
+  </programme>
+  <programme start="20250421200000 +0200" stop="20250421202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250421202000 +0200" stop="20250421211823 +0200" channel="Rai Südtirol">
+    <title>Lieder der Dolomiten</title>
+    <sub-title/>
+    <desc>Wie klingt Heimat? Wie klingen die Dolomiten? Die Dokumentation "Lieder der Dolomiten" begibt sich auf Spurensuche nach den Volksliedern der Dolomiten, die zu verstummen drohen. 
+Die Dokumentation beleuchtet, wie ursprüngliche Musik einst spontan bei Festen und im Alltag erklang und fragt, warum sie heute oft als verstaubt gilt. Dabei zeigt der Film, dass ursprüngliche Klänge noch immer eine Quelle der Inspiration und Kraft sein können. Zwischen Tradition und Moderne begleitet die Reise leidenschaftliche Sängerinnen und Sänger – von Volksmusiklegenden bis zu jungen Talenten – und zeigt, wie lebendig und vielfältig Lieder der Dolomiten auch heute noch klingen. Ein Film, der Heimatklänge in die Gegenwart holt und sich auf die Suche nach Menschen macht, die sie bewahren.</desc>
+  </programme>
+  <programme start="20250421211900 +0200" stop="20250421215032 +0200" channel="Rai Südtirol">
+    <title>In memoriam Anna Matscher</title>
+    <sub-title>Südtirols einzige Sterneköchin</sub-title>
+    <desc>Am 27.März verstarb sie erst 63jährig nach kurzer Krankheit. Sie hat 1997 den Michelin-Stern verliehen bekommen, als sie dachte: "Nein, so weit sind wir noch nicht." Und vier Jahre später, als er ihr gebührt hätte, war der Stern wieder weg. Sechs lange Jahre hatte sie geschuftet, um wieder eine Sterneköchin zu werden. Stress pur. 2007 kommt der Stern dann endlich zurück. Und der Stress bleibt. Anna Matscher ist sich gar nicht mehr so sicher, dass sie ihn noch will. Aber was wäre die Alternative? Ein Film von Traudi Messini und Gabriele Crepaz.</desc>
+  </programme>
+  <programme start="20250421215000 +0200" stop="20250421215830 +0200" channel="Rai Südtirol">
+    <title>Kastellane</title>
+    <sub-title>Terese Gröber von der Trostburg</sub-title>
+    <desc>Sie trägt auch den Übernamen "Trostburg-Tresl", denn seit über 70 Jahren lebt und arbeitet sie auf der mächtigen Burg oberhalb von Waidbruck.</desc>
+  </programme>
+  <programme start="20250421221000 +0200" stop="20250421223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250422200000 +0200" stop="20250422202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250422202000 +0200" stop="20250422203104 +0200" channel="Rai Südtirol">
+    <title>Auf weißroten Spuren in Frankreich</title>
+    <sub-title>Andreas Kofler</sub-title>
+    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. "Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können," sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
+  </programme>
+  <programme start="20250422203100 +0200" stop="20250422204530 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vier Runden sind in der Oberliga noch ausständig: Im Derby Bozner FC gegen Partschins kämpfen die Talferstädter um den Klassenerhalt, die Untervinschger hingegen spielen noch um den Titelgewinn. Auch Virtus Bozen muss im Auswärtsmatch gegen St. Georgen gewinnen, um vorne dran zu bleiben. 
+In der Landesliga empfängt im Spitzenspiel der 25. Runde der Tabellenzweite Gröden den Tabellenführer Ahrntal.</desc>
+  </programme>
+  <programme start="20250422221000 +0200" stop="20250422223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250423200000 +0200" stop="20250423202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250423202000 +0200" stop="20250423204930 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Überleben wie zu Ötzis Zeiten</sub-title>
+    <desc>SchachMax ist zurück - und diesmal geht’s ums Überleben! Kann Max von Milland der Wildnis trotzen? Ohne moderne Hilfsmittel, nur mit Kompass, Karte und seinem Überlebenswillen?
+In dieser spannenden Folge seiner Challenge-Show trifft Max auf den Südtiroler Steinzeit- und Survival-Experten Philipp Schraut, der ihm alles abverlangt. Die Mission: Orientierung in unwegsamem Gelände, Trinkwasser und essbare Pflanzen finden - und dann eine Nacht allein in der Wildnis überstehen. Kein Zelt, kein Feuerzeug, kein Handy - nur Instinkt und purer Überlebenskampf. Wird Max es schaffen, sich in der rauen Natur zu behaupten? Finde es heraus - in der neuen Folge von SchachMax!</desc>
+  </programme>
+  <programme start="20250423210900 +0200" stop="20250423211600 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahlen 2025 - Belangsendungen</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250423221000 +0200" stop="20250423223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250424200000 +0200" stop="20250424202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250424202000 +0200" stop="20250424204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Soziale Isolation</sub-title>
+    <desc>Einsamkeit hat viele Gesichter. Sie betrifft alle, ist unabhängig von Alter, Geschlecht, Hautfarbe oder sozialen Verhältnissen. Und sie hat unterschiedliche Ursachen. Moderation: Magdalena Oberstaller. 
+Einsamkeit kann durch den Verlust von Angehörigen, durch Familienkonflikte, durch Mobbing, Krankheit oder durch plötzliche Arbeitslosigkeit entstehen. Die Frage, ab wann ein Mensch einsam ist, kann nicht einfach beantwortet werden. Denn die Empfindung ist individuell. 
+In der Kurzreihe "Tassie" tauchen wir in die Welt der Sagen im Fassatal ein und erzählen die Legende des Hirten Salvan. In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Abschied vom Stress".</desc>
+  </programme>
+  <programme start="20250424210800 +0200" stop="20250424211500 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahlen 2025 - Belangsendungen</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250424221000 +0200" stop="20250424223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250425180000 +0200" stop="20250425182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Soziale Isolation</sub-title>
+    <desc>Einsamkeit hat viele Gesichter. Sie betrifft alle, ist unabhängig von Alter, Geschlecht, Hautfarbe oder sozialen Verhältnissen. Und sie hat unterschiedliche Ursachen. Moderation: Magdalena Oberstaller. 
+Einsamkeit kann durch den Verlust von Angehörigen, durch Familienkonflikte, durch Mobbing, Krankheit oder durch plötzliche Arbeitslosigkeit entstehen. Die Frage, ab wann ein Mensch einsam ist, kann nicht einfach beantwortet werden. Denn die Empfindung ist individuell. 
+In der Kurzreihe "Tassie" tauchen wir in die Welt der Sagen im Fassatal ein und erzählen die Legende des Hirten Salvan. In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Abschied vom Stress".</desc>
+  </programme>
+  <programme start="20250425182900 +0200" stop="20250425185330 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Kuens</sub-title>
+    <desc>Kuens im Burggrafenamt ist die kleinste Gemeinde Südtirols mit dem jüngsten Mesner, der ältesten Gaststätte, einer Sammlung von historischen Traktoren und interessanten Schildkrötpuppen. In Kuens gibt es einiges zu entdecken: Franz Laimer Pixner präsentiert seine umfangreiche Sammlung historischer Traktoren, während Erika Laimer Pixner seit rund 30 Jahren Schildkrötpuppen sammelt und eine beeindruckende Kollektion besitzt. 
+Der Hilberkeller zählt zu den ältesten Gaststätten Südtirols. Im über 600 Jahre alten Steinkeller werden heimische Spezialitäten serviert.
+Maximilian Raffl ist einer der jüngsten Mesner Südtirols und zeigt uns, wie er die Pfarrkirche von Kuens österlich schmückt. Gedanken zum Osterfest kommen von Pfarrer Edmund Ungerer.</desc>
+  </programme>
+  <programme start="20250425185400 +0200" stop="20250425185915 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Geschichte der Berghotels</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250425200000 +0200" stop="20250425202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250425202000 +0200" stop="20250425215500 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title>Sport, Kunst, Mut und Musik</sub-title>
+    <desc>Gäste von Moderator Thomas Vonmetz sind Naturbahnrodlerin Evelin Lanthaler, der Künstler und Extremsportler Stefan Santifaller und Schauspielerin und Kabarettistin Karin Verdorfer. 
+Evelin Lanthaler - mit über 50 Weltcupsiegen und acht Weltmeistertiteln erfolgreichste Naturbahnrodlerin aller Zeiten - spricht über ihre spektakuläre Karriere, den Abschied vom Profisport und warum sie sich künftig für den Nachwuchs engagieren will.
+Stefan Santifaller - Fotograf, Künstler und Extremsportler - hat eine Geschichte, die unter die Haut geht. Nach einer Krebsdiagnose läuft er sich zurück ins Leben: quer durch Europa, zu Fuß, allein und ohne Unterstützung. Seine "Odyssee" ist nicht nur ein sportlicher Triumph, sondern eine Reise zu sich selbst.
+Karin Verdorfer wiederum steht seit vielen Jahren als Schauspielerin, Autorin und Kabarettistin auf Südtirols Bühnen. In der Toms Kellershow erzählt sie von ihrer Liebe zum Theater, schrägen Paartherapien, kreativen Gartenexperimenten - und davon, warum sie sich auf der Bühne manchmal weniger "patschet" fühlt als im echten Leben.
+Für musikalische Highlights sorgen die Santoni Family aus dem Passeiertal und Sibylle Siller, die junge Singer-Songwriterin aus Algund.
+Nicht fehlen darf das Spiel-Highlight: der Kellershow-Rumpler - ein altes Bauernspiel aus Ulten, bei dem sich alle Gäste ins Zeug legen müssen. Denn 2025 wird erstmals ein Jahressieger gesucht!</desc>
+  </programme>
+  <programme start="20250425215500 +0200" stop="20250425215930 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Radiogeschichte</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250425221000 +0200" stop="20250425223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250426180000 +0200" stop="20250426182930 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Überleben wie zu Ötzis Zeiten</sub-title>
+    <desc>SchachMax ist zurück - und diesmal geht’s ums Überleben! Kann Max von Milland der Wildnis trotzen? Ohne moderne Hilfsmittel, nur mit Kompass, Karte und seinem Überlebenswillen?
+In dieser spannenden Folge seiner Challenge-Show trifft Max auf den Südtiroler Steinzeit- und Survival-Experten Philipp Schraut, der ihm alles abverlangt. Die Mission: Orientierung in unwegsamem Gelände, Trinkwasser und essbare Pflanzen finden - und dann eine Nacht allein in der Wildnis überstehen. Kein Zelt, kein Feuerzeug, kein Handy - nur Instinkt und purer Überlebenskampf. Wird Max es schaffen, sich in der rauen Natur zu behaupten? Finde es heraus - in der neuen Folge von SchachMax!</desc>
+  </programme>
+  <programme start="20250426182900 +0200" stop="20250426185800 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Zwei junge Künstlerinnen am Schnittpunkt der Kulturen, Menstruation zwischen Tabu und Normalität, ein Aufklärungsvideo als Maturaprojekt über den Alltag im Rollstuhl. Moderation: Mara Marth. In einer Zeit, in der kulturelle Vielfalt immer mehr an Bedeutung gewinnt, setzen die beiden Oberschülerinnen Rumina Kornilova und Marissa Hörmann ein Zeichen: Gemeinsam haben sie eine Kunstaustellung auf die Beine gestellt, die nicht nur ihre eigene Geschichte widerspiegelt, sondern auch die ihrer Wurzeln...
+Tabuthema Menstruation: Besonders junge Mädchen, die ihre erste Periode erleben, sind mit vielen Fragen und Unsicherheiten konfrontiert. Wie gehen sie mit Menstruationsbeschwerden um, wie haben sie ihre erste Periode erlebt und warum wird über den Zyklus oft wenig gesprochen?
+Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrern: Jessica Ceska, Noemi Wallnöfer und Melanie Klotz, drei Schülerinnen des Berufsbildungszentrums Luis Zuegg in Meran, haben sich in ihrem Maturaprojekt mit dem Thema der Barrierefreiheit auseinandergesetzt. Ihr Film "Ungebremst mobil" zeigt, welchen Hürden Rollstuhlfahrer im Alltag begegnen. Klick war bei den Dreharbeiten dabei.</desc>
+  </programme>
+  <programme start="20250426200000 +0200" stop="20250426202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250426202100 +0200" stop="20250426202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250426202500 +0200" stop="20250426205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Wie kann man Lebensmittelabfälle vermeiden? Worauf kommt es bei der Meisterprüfung der Köch:innen an? Was macht einen guten Kaffee aus? Moderation: Manuela Reiter.
+
+Lebensmittelabfälle entstehen überall: bei der Herstellung, in der Landwirtschaft, im Handel, im Supermarkt und in lokalen Geschäften und Restaurants. Weitaus am meisten Lebensmittel werden allerdings in privaten Haushalten verschwendet. Südtirolweit entsorgt jeder Bürger jährlich 27,5 kg Lebensmittel ungenutzt. Wir haben Gastbetriebe und Hotels besucht, um mehr über Lebensmittelverschwendung zu erfahren - und sind dabei auf gute Lösungsansätze gestoßen.
+Im Berufsbildungszentrum für Gastronomie und Kulinarik Emma Hellenstainer in Brixen absolvieren junge Köche ihre Meisterprüfung. Welches sind dabei die kulinarischen Herausforderungen?
+Außerdem werfen wir einen Blick hinter die Kulissen der Südtiroler Kaffeekultur. Von der sorgfältigen Herstellung bis zur Kunst des Barista zeigen wir, was einen wirklich guten Kaffee ausmacht. Wir begleiten Experten bei ihrer Arbeit und fragen Gäste, wie sie ihren Kaffee am liebsten genießen.</desc>
+  </programme>
+  <programme start="20250426221000 +0200" stop="20250426223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
