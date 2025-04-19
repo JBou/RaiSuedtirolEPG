@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250418180000 +0200" stop="20250418182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Naturheilkunde</sub-title>
-    <desc>Der Boom von Kräuterwissen und Naturheilkunde und die Gründe dafür. Bildungsberufe im Fokus: Wie arbeiten Musikschullehrer:innen und Förster mit Jugendlichen. Es moderiert Karin Gschnitzer. Zurück zur Natur, Eisbaden, Kräutertees und Naturkosmetik - immer mehr Menschen interessieren sich für altes Kräuterwissen. Sie vertrauen mehr der Naturheilkunde, als dem Gesundheitssystem und suchen einen Rückzug in die Natur. Woher kommt das? 
-In der Rubrik "Bildung real" schauen wir uns besondere Bildungsberufe an - Förster und Musiklehrer:innen - und in der Rubrik „Wiedersehen“ zeigen wir einen Ausschnitt aus der Doku "Vegan in Südtirol - Ernährung ohne Tierprodukte".</desc>
-  </programme>
-  <programme start="20250418182900 +0200" stop="20250418185830 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Minderheitensprache Mirandés in Portugal, die sudetendeutsche Schriftstellerin Iris Wolff im Porträt, die verzweifelte Lage der Karen, die in einem Weltnaturerbe in Thailand leben. Es moderiert Christina Khuen.
-Das Portugiesische ist die offizielle Amtssprache Portugals. Im Nordosten wird zudem der Dialekt Mirandés gesprochen, der linguistisch zum Asturianischen gehört. 2001 wurde Mirandés als Minderheitensprache anerkannt, um den Erhalt der Sprache sichern. 
-Die sudetendeutsche Schriftstellerin Iris Wolff wurde heuer mit dem Literaturpreis der Konrad-Adenauer-Stiftung ausgezeichnet. Ihre Romane seien "Lichtblicke in die Zeitgeschichte und ein wegweisender Beitrag zur europäischen Erinnerungskultur". 
-Das INV wird 100: Es ist ein öffentliches Forschungsinstitut in Slowenien, das sich mit der Stellung der Slowenen in den Nachfolgestaaten des ehemaligen Jugoslawiens auseinandersetzt, aber auch mit der Situation der ethnischen Gemeinschaften in Slowenien. 
-In der Reihe "Tribal Voices" berichtet Minet über Kampu, einen indigenen Karen-Jugendlichen aus dem Kaeng-Krachan-Nationalpark in Thailand. Er beschreibt die verzweifelte Lage seines Volkes, seit seine Heimat zum Weltnaturerbe erklärt wurde.</desc>
-  </programme>
-  <programme start="20250418200000 +0200" stop="20250418202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250418202000 +0200" stop="20250418214927 +0200" channel="Rai Südtirol">
-    <title>Kloster Säben</title>
-    <sub-title/>
-    <desc>Kloster Säben ist das Wahrzeichen von Klausen und ein beeindruckender Blickfang für alle Reisenden, die das Eisacktal durchqueren. Ein Film von Edith Eisenstecken und Evi Oberkofler.
-Säben ist Geschichte und religiöser Anziehungspunkt zugleich. Vor Jahrtausenden erstmals besiedelt und seither immer wieder bewohnt und verlassen. Ähnlich einer Burg und umgeben von Weinhügeln, liegt es auf einem markanten Felshügel und ist durch seine exponierte Lage ein Rückzugs- und Zufluchtsort. 
-Auf seinem Felsen entstand im 17. Jahrhundert eine religiöse Enklave. Sie ist heute Ausflugsziel für Gläubige, kulturhistorisch Interessierte, und Menschen, die sich nach einem stillen, entrückten Ort sehnen. 
-Drei Jahre lang stand das Kloster leer. Die Filmemacherinnen Edith Eisenstecken und Evi Oberkofler haben die Stimmung dieses besonderen Ortes in einem Film eingefangen, aber auch seine Geschichte. 
-Seit September 2024 leben die Zisterzienser von Heiligenkreuz auf Kloster Säben.</desc>
-  </programme>
-  <programme start="20250418214900 +0200" stop="20250418220003 +0200" channel="Rai Südtirol">
-    <title>Das Heilige Grab in Albeins</title>
-    <sub-title>Höhepunkt der Osterzeit</sub-title>
-    <desc>Die Heiligen Gräber mit ihren bunten Kugeln erinnern an ein mystisches Schauspiel, das in den Passions- und Osterspielen seinen Höhepunkt erreicht. Die Pfarrei Albeins bei Brixen, eine der ältesten unseres Landes, besitzt ein spezielles Heiliges Grab, das alljährlich in der Margarethenkirche aufgestellt wird. Teile aus der späten Barockzeit wurden durch Kulissen des österreichischen Künstlers Josef Kramer ergänzt. 
-Auffallend sind neben seiner Liebe zum Detail die kräftigen Farben. Wir erleben die Liturgie der Karwoche, die durch das Heilige Grab besonders feierlich ausfällt. Eine Dokumentation von Ulrich Fistill und Willi Rainer.</desc>
-  </programme>
-  <programme start="20250418221100 +0200" stop="20250418223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250419180000 +0200" stop="20250419185930 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -291,6 +251,29 @@ Im Berufsbildungszentrum für Gastronomie und Kulinarik Emma Hellenstainer in Br
 Außerdem werfen wir einen Blick hinter die Kulissen der Südtiroler Kaffeekultur. Von der sorgfältigen Herstellung bis zur Kunst des Barista zeigen wir, was einen wirklich guten Kaffee ausmacht. Wir begleiten Experten bei ihrer Arbeit und fragen Gäste, wie sie ihren Kaffee am liebsten genießen.</desc>
   </programme>
   <programme start="20250426221000 +0200" stop="20250426223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250427200000 +0200" stop="20250427202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250427202100 +0200" stop="20250427205030 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Frühjahrstouren</sub-title>
+    <desc>Klettern auf den Spuren der Vergangenheit und ein neuer Trend im Gebirge: Hike and Fly - bergwärts laufen und retour mit dem Gleitschirm. Moderiert wird die Sendung von Thomas Hainz.
+
+Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino. 
+Danach gehts möglichst schnell bergan und noch schneller wieder zurück ins Tal. Berglauf kombiniert mit einem leichten Gleitschirm: Die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem Paraglider fasziniert inzwischen auch immer mehr Südtiroler. Der neue Trend birgt aber auch Gefahren.</desc>
+  </programme>
+  <programme start="20250427205000 +0200" stop="20250427205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250427221000 +0200" stop="20250427223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
