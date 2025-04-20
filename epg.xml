@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250419180000 +0200" stop="20250419185930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Schauspielerin Helga Pedross im Porträt, "Jugend ohne Gott" vom Rotierenden Theater, Malls "Ein Hund kam in die Küche" als Bühnenstück, das neue Landesjugendorchester. Moderation: Alex Lechner.
-Die Vinschger Schauspielerin Helga Pedross hat schon Vieles ausprobiert und kehrt nach über 20 Jahren erstmals wieder auf Südtirols Bühnen zurück. In Ödön von Horvaths Roman "Jugend ohne Gott" aus dem Jahr 1937 geht es um Jugendliche, die zu Gehorsam und Rassenhass erzogen werden. Das Rotierende Theater sucht in seiner Inszenierung nach Parallelen zu heute.
-Sepp Malls Roman "Ein Hund kam in die Küche" handelt von Abschied, Heimatsuche und Rückkehr aus der Perspektive eines Kindes. Am 3.Mai hat es als Bühnenstück Uraufführung. Wie aber wird aus einem Roman ein Theaterstück?
-In Bozen fand eine Tagung der Deutschen Akademie für Sprache und Dichtung statt, die sich mit dem Umgang mit Grenzen beschäftigt hat. Zudem wird das neue Landesjugendorchester Südtirol als inklusives Projekt vorgestellt, das alle Sprachgruppen und musikalischen Bildungseinrichtungen vereint. 
-Zu Gast bei Alex Lechner sind die Künstlerin und Präsidentin der ar/ge kunst Karin Welponer und die Filmschauspielerin und Kommunikationstrainerin Katja Lechthaler.</desc>
-  </programme>
-  <programme start="20250419200000 +0200" stop="20250419202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250419202100 +0200" stop="20250419202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250419202500 +0200" stop="20250419205430 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - die Reportage</title>
-    <sub-title>Die Schilddrüse</sub-title>
-    <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
-Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
-Auch Knoten oder Vergrößerungen der Schilddrüse (Struma) sind häufig und müssen ärztlich abgeklärt werden. 
-Im Krankenhaus Meran werden Schilddrüsenerkrankungen in der Abteilung für Innere Medizin diagnostiziert und behandelt. Ulli Velano und Marco Polo begleiteten die Schilddrüsenexperten und Primare Sieglinde Kofler und Alexander Perathoner bei ihrer Arbeit.</desc>
-  </programme>
-  <programme start="20250419221000 +0200" stop="20250419223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250420100000 +0200" stop="20250420113000 +0200" channel="Rai Südtirol">
     <title>Pontifikalamt am Ostersonntag</title>
     <sub-title>Live in HF und TV aus dem Bozner Dom</sub-title>
