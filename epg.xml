@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250422200000 +0200" stop="20250422202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250422202000 +0200" stop="20250422203104 +0200" channel="Rai Südtirol">
-    <title>Auf weißroten Spuren in Frankreich</title>
-    <sub-title>Andreas Kofler</sub-title>
-    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. "Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können," sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
-  </programme>
-  <programme start="20250422203100 +0200" stop="20250422204530 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vier Runden sind in der Oberliga noch ausständig: Im Derby Bozner FC gegen Partschins kämpfen die Talferstädter um den Klassenerhalt, die Untervinschger hingegen spielen noch um den Titelgewinn. Auch Virtus Bozen muss im Auswärtsmatch gegen St. Georgen gewinnen, um vorne dran zu bleiben. 
-In der Landesliga empfängt im Spitzenspiel der 25. Runde der Tabellenzweite Gröden den Tabellenführer Ahrntal.</desc>
-  </programme>
-  <programme start="20250422221000 +0200" stop="20250422223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250423200000 +0200" stop="20250423202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
