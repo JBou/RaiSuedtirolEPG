@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250423200000 +0200" stop="20250423202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250423202000 +0200" stop="20250423204930 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Überleben wie zu Ötzis Zeiten</sub-title>
-    <desc>SchachMax ist zurück - und diesmal geht’s ums Überleben! Kann Max von Milland der Wildnis trotzen? Ohne moderne Hilfsmittel, nur mit Kompass, Karte und seinem Überlebenswillen?
-In dieser spannenden Folge seiner Challenge-Show trifft Max auf den Südtiroler Steinzeit- und Survival-Experten Philipp Schraut, der ihm alles abverlangt. Die Mission: Orientierung in unwegsamem Gelände, Trinkwasser und essbare Pflanzen finden - und dann eine Nacht allein in der Wildnis überstehen. Kein Zelt, kein Feuerzeug, kein Handy - nur Instinkt und purer Überlebenskampf. Wird Max es schaffen, sich in der rauen Natur zu behaupten? Finde es heraus - in der neuen Folge von SchachMax!</desc>
-  </programme>
-  <programme start="20250423210900 +0200" stop="20250423211600 +0200" channel="Rai Südtirol">
-    <title>Gemeindewahlen 2025 - Belangsendungen</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250423221000 +0200" stop="20250423223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250424200000 +0200" stop="20250424202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
