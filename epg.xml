@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250424200000 +0200" stop="20250424202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250424202000 +0200" stop="20250424204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Soziale Isolation</sub-title>
-    <desc>Einsamkeit hat viele Gesichter. Sie betrifft alle, ist unabhängig von Alter, Geschlecht, Hautfarbe oder sozialen Verhältnissen. Und sie hat unterschiedliche Ursachen. Moderation: Magdalena Oberstaller. 
-Einsamkeit kann durch den Verlust von Angehörigen, durch Familienkonflikte, durch Mobbing, Krankheit oder durch plötzliche Arbeitslosigkeit entstehen. Die Frage, ab wann ein Mensch einsam ist, kann nicht einfach beantwortet werden. Denn die Empfindung ist individuell. 
-In der Kurzreihe "Tassie" tauchen wir in die Welt der Sagen im Fassatal ein und erzählen die Legende des Hirten Salvan. In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Abschied vom Stress".</desc>
-  </programme>
-  <programme start="20250424210800 +0200" stop="20250424211500 +0200" channel="Rai Südtirol">
-    <title>Gemeindewahlen 2025 - Belangsendungen</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250424221000 +0200" stop="20250424223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250425180000 +0200" stop="20250425182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Soziale Isolation</sub-title>
@@ -126,6 +104,191 @@ Danach gehts möglichst schnell bergan und noch schneller wieder zurück ins Tal
     <desc/>
   </programme>
   <programme start="20250427221000 +0200" stop="20250427223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250428175900 +0200" stop="20250428181330 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Drei Runden sind in der Fußball-Oberliga noch ausständig: Tabellenführer Obermais möchte sich im Auswärtsspiel in Brixen zum neuen Meister küren. 
+In der Landesliga braucht Bruneck auswärts gegen Tscherms Marling einen Sieg, um noch von Titel träumen zu können. Im Duell zwischen Latzfons Verdings und Kiens geht es hingegen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20250428181300 +0200" stop="20250428183130 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Auf der BBT-Baustelle</sub-title>
+    <desc>Als der Bau des Brenner-Basistunnels vor 18 Jahren begonnen hat, war Zipp-Reporterin Hannah noch gar nicht auf der Welt. Und wenn er in ungefähr acht Jahren endlich fertig sein wird, kann sie ganz bequem mit dem Zug nach Innsbruck zum Studieren fahren. 
+Aber so lange will Hannah nicht warten. Sie will schon jetzt wissen, wie so ein riesiger Tunnel gebaut wird. Auf der Baustelle trifft sie Julia, die sie mit ins Infozentrum nimmt. Dort erfährt Hannah, wie das verzweigte Tunnelsystem tief im Berg aussieht, wie die Züge später mal durch die Alpen sausen werden und wie eine gigantische Tunnelbohrmaschine funktioniert.</desc>
+  </programme>
+  <programme start="20250428183200 +0200" stop="20250428185936 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Zwei junge Künstlerinnen am Schnittpunkt der Kulturen, Menstruation zwischen Tabu und Normalität, ein Aufklärungsvideo als Maturaprojekt über den Alltag im Rollstuhl. Moderation: Mara Marth. In einer Zeit, in der kulturelle Vielfalt immer mehr an Bedeutung gewinnt, setzen die beiden Oberschülerinnen Rumina Kornilova und Marissa Hörmann ein Zeichen: Gemeinsam haben sie eine Kunstaustellung auf die Beine gestellt, die nicht nur ihre eigene Geschichte widerspiegelt, sondern auch die ihrer Wurzeln...
+Tabuthema Menstruation: Besonders junge Mädchen, die ihre erste Periode erleben, sind mit vielen Fragen und Unsicherheiten konfrontiert. Wie gehen sie mit Menstruationsbeschwerden um, wie haben sie ihre erste Periode erlebt und warum wird über den Zyklus oft wenig gesprochen?
+Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrern: Jessica Ceska, Noemi Wallnöfer und Melanie Klotz, drei Schülerinnen des Berufsbildungszentrums Luis Zuegg in Meran, haben sich in ihrem Maturaprojekt mit dem Thema der Barrierefreiheit auseinandergesetzt. Ihr Film "Ungebremst mobil" zeigt, welchen Hürden Rollstuhlfahrer im Alltag begegnen. Klick war bei den Dreharbeiten dabei.</desc>
+  </programme>
+  <programme start="20250428200000 +0200" stop="20250428202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250428202000 +0200" stop="20250428220000 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut - Der Monatslohn</title>
+    <sub-title>Der DokuAbend mit Film und Diskussion</sub-title>
+    <desc>Früher reichte ein Gehalt für eine Familie, ein Eigenheim und ein sorgenfreies Leben. Und heute? Für viele Arbeitnehmer:innen ist das Monatsende längst ein finanzieller Drahtseilakt. 
+Der preisgekrönte Dokumentarfilm "Worüber man nicht sprechen kann, darüber muss man reden" von Karl Prossliner zeigt eindrücklich auf, wie schwierig es für viele ist, mit dem Monatslohn über die Runden zu kommen. Danach fragen wir:  Was muss sich ändern? Darüber diskutieren unter anderem Petra Priller (Caritas Schuldenberatung), Leonhard Resch (KVW - Arche), Tony Tschenett vom ASGB und Heiner Oberrauch (Südtiroler Unternehmerverband) - live aus dem Kolpinghaus in Brixen. Es moderiert Judith Bertagnolli.</desc>
+  </programme>
+  <programme start="20250428221000 +0200" stop="20250428223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250429200000 +0200" stop="20250429202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250429202000 +0200" stop="20250429203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250429203500 +0200" stop="20250429204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Drei Runden sind in der Fußball-Oberliga noch ausständig: Tabellenführer Obermais möchte sich im Auswärtsspiel in Brixen zum neuen Meister küren. 
+In der Landesliga braucht Bruneck auswärts gegen Tscherms Marling einen Sieg, um noch von Titel träumen zu können. Im Duell zwischen Latzfons Verdings und Kiens geht es hingegen um den Klassenerhalt.</desc>
+  </programme>
+  <programme start="20250429210800 +0200" stop="20250429211600 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahlen 2025 - Interviews</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250429221000 +0200" stop="20250429223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250430200000 +0200" stop="20250430202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250430202000 +0200" stop="20250430204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wachteleier und Wachtelfleisch ab Hof, Gsieser Almochsen als Publikumsmagnet,
+Milchsammelfahrten - aufwändig, aber wichtig. Eine Sendung von Marianne Kasseroler.
+
+Wachteln sind die kleinsten Hühnervögel. Sie sind als Heimtiere beliebt und werden auch wegen ihrer Eier und ihres Fleisches gehalten. Mit 600 Wachteln kann sich deren Haltung sogar zu einem interessanten Betriebszweig entwickeln, wie dies auf einem Hof in Jenesien gezeigt wird.  
+Die Gsieser Almochsen fallen hingegen vor allem wegen ihrer Größe und ihres Gewichtes auf. Damit sind sie bei der jährlichen Osterochsenversteigerung der Publikumsmagnet und erzielen höchste Preise.  
+Weniger Milchbauern und sinkende Milchmengen zeigen eine besorgniserregende Entwicklung an. Umso wichtiger sind die täglichen Milchsammelfahrten bis hinauf zu den höchsten Hofstellen. Diese Fahrten sind aufwändig und teuer, aber notwendig, um die kostbare Milch zur Weiterverarbeitung ins Tal zu bringen.</desc>
+  </programme>
+  <programme start="20250430210800 +0200" stop="20250430211600 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahlen 2025 - Interviews</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250430221000 +0200" stop="20250430223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250501200000 +0200" stop="20250501202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250501202000 +0200" stop="20250501204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die junge Comedy-Szene</sub-title>
+    <desc>Südtirols Comedy-Szene wächst. Junge Talente bringen mit Witz und Charme ihr Publikum zum Lachen - ob auf der Bühne oder in den sozialen Medien. Es moderiert Karin Gschnitzer. 
+
+Comedy ist oft frech, manchmal provokant, aber immer unterhaltsam. Doch wo hört Spaß auf und wo beginnt Kritik? Dieser Frage geht das Südtirol Magazin auf den Grund. 
+In der Reihe "Unser Gedächtnis" zeigen wir Bilder aus dem Amt für Film und Medien über ein Volksradfahren, das am 1. Mai 1973 stattgefunden hat. 
+In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Asfaltart".</desc>
+  </programme>
+  <programme start="20250501210800 +0200" stop="20250501214500 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahlen 2025 - Diskussionsrunden der Bürgermeisterkandidaten</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250501221000 +0200" stop="20250501223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250502180000 +0200" stop="20250502182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die junge Comedy-Szene</sub-title>
+    <desc>Südtirols Comedy-Szene wächst. Junge Talente bringen mit Witz und Charme ihr Publikum zum Lachen - ob auf der Bühne oder in den sozialen Medien. Es moderiert Karin Gschnitzer. 
+Comedy ist oft frech, manchmal provokant, aber immer unterhaltsam. Doch wo hört Spaß auf und wo beginnt Kritik? Dieser Frage geht das Südtirol Magazin auf den Grund. 
+In der Reihe "Unser Gedächtnis" zeigen wir Bilder aus dem Amt für Film und Medien über ein Volksradfahren, das am 1. Mai 1973 stattgefunden hat. 
+In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku „Asfaltart". 
+"</desc>
+  </programme>
+  <programme start="20250502182900 +0200" stop="20250502185830 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Frühjahrstouren</sub-title>
+    <desc>Klettern auf den Spuren der Vergangenheit und ein neuer Trend im Gebirge: Hike and Fly - bergwärts laufen und retour mit dem Gleitschirm. Moderiert wird die Sendung von Thomas Hainz. Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino. 
+Danach gehts möglichst schnell bergan und noch schneller wieder zurück ins Tal. Berglauf kombiniert mit einem leichten Gleitschirm: Die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem Paraglider fasziniert inzwischen auch immer mehr Südtiroler. Der neue Trend birgt aber auch Gefahren.</desc>
+  </programme>
+  <programme start="20250502200000 +0200" stop="20250502202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250502202100 +0200" stop="20250502212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Theo Hendrich unternimmt eine Wanderung durch den Altenburger Wald und die Rastenbachklamm. Und Petra Tschenett besucht kreative Köpfe im Bereich der visuellen Gestaltung. 
+ 
+Täglich sind wir von Grafiken, Schriften und Farben umgeben - auf der Straße, in Büchern, in der Werbung. Diese visuellen Elemente beachten wir meist nicht bewusst, obwohl sie einen Einfluss auf unsere Entscheidungen haben. Petra Tschenett stellt kreative Köpfe vor, die mit ihren Arbeiten die Welt der visuellen Gestaltung mitprägen. 
+Zuvor wandern wir gemeinsam mit Theo Hendrich von Kaltern über den Friedensweg Richtung Altenburg mit wunderbarem Blick zum Kalterer See. Bei den Ruinen der St.Peter-Basilika führt der Weg hinunter in die abenteuerliche Rastenbachklamm. Mit ihren Wasserfällen, den efeubewachsenen Bäumen, umgefallenen Stämmen stellt sie ein beeindruckendes Naturdenkmal dar. Selbstverständlich darf auf dieser Wanderung ein Abstecher zu einem typischen Familienweingut nicht fehlen.</desc>
+  </programme>
+  <programme start="20250502212000 +0200" stop="20250502214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Wie kann man Lebensmittelabfälle vermeiden? Worauf kommt es bei der Meisterprüfung der Köch:innen an? Was macht einen guten Kaffee aus? Moderation: Manuela Reiter. Lebensmittelabfälle entstehen überall: bei der Herstellung, in der Landwirtschaft, im Handel, im Supermarkt und in lokalen Geschäften und Restaurants. Weitaus am meisten Lebensmittel werden allerdings in privaten Haushalten verschwendet. Südtirolweit entsorgt jeder Bürger jährlich 27,5 kg Lebensmittel ungenutzt. Wir haben Gastbetriebe und Hotels besucht, um mehr über Lebensmittelverschwendung zu erfahren - und sind dabei auf gute Lösungsansätze gestoßen.
+Im Berufsbildungszentrum für Gastronomie und Kulinarik Emma Hellenstainer in Brixen absolvieren junge Köche ihre Meisterprüfung. Welches sind dabei die kulinarischen Herausforderungen?
+Außerdem werfen wir einen Blick hinter die Kulissen der Südtiroler Kaffeekultur. Von der sorgfältigen Herstellung bis zur Kunst des Barista zeigen wir, was einen wirklich guten Kaffee ausmacht. Wir begleiten Experten bei ihrer Arbeit und fragen Gäste, wie sie ihren Kaffee am liebsten genießen.</desc>
+  </programme>
+  <programme start="20250502214900 +0200" stop="20250502215902 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Gretl und Josef Oberrauch</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250502221000 +0200" stop="20250502223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250503180000 +0200" stop="20250503185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Theo Hendrich unternimmt eine Wanderung durch den Altenburger Wald und die Rastenbachklamm. Und Petra Tschenett besucht kreative Köpfe im Bereich der visuellen Gestaltung. Täglich sind wir von Grafiken, Schriften und Farben umgeben - auf der Straße, in Büchern, in der Werbung. Diese visuellen Elemente beachten wir meist nicht bewusst, obwohl sie einen Einfluss auf unsere Entscheidungen haben. Petra Tschenett stellt kreative Köpfe vor, die mit ihren Arbeiten die Welt der visuellen Gestaltung mitprägen. 
+Zuvor wandern wir gemeinsam mit Theo Hendrich von Kaltern über den Friedensweg Richtung Altenburg mit wunderbarem Blick zum Kalterer See. Bei den Ruinen der St.Peter-Basilika führt der Weg hinunter in die abenteuerliche Rastenbachklamm. Mit ihren Wasserfällen, den efeubewachsenen Bäumen, umgefallenen Stämmen stellt sie ein beeindruckendes Naturdenkmal dar. Selbstverständlich darf auf dieser Wanderung ein Abstecher zu einem typischen Familienweingut nicht fehlen.</desc>
+  </programme>
+  <programme start="20250503200000 +0200" stop="20250503202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250503202100 +0200" stop="20250503202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250503202500 +0200" stop="20250503204930 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Canyoning oder ab in den Abgrund. Streicheleinheiten für einen 1000-Kilo-Büffel. Wie Edle Steckmuscheln vor dem Aussterben gerettet werden. Moderation: Sigrid Flenger.
+
+Klettern, Rutschen, Abseilen, Springen und Schwimmen – Canyoning ist auch in Neumarkt eine Erlebnissportart, bei der Menschen ihre eigenen Grenzen austesten wollen. 
+Auf einer Büffelfarm in Westungarn bleiben die Wasserbüffel das ganze Jahr über auf der Weide. Bemerkenswert ist die innige Beziehung zwischen den Büffeln und der Bauersfamilie. Kuscheln gehört zum Tagesablauf. 
+Die Edle Steckmuschel kommt nur im Mittelmeer vor und ist mit bis zu 1,20 Metern Höhe die größte Muschel in Europa. Aber sie ist vom Aussterben bedroht. Wir stellen ein Programm zur Rettung der Edlen Steckmuschel vor.</desc>
+  </programme>
+  <programme start="20250503221000 +0200" stop="20250503223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
