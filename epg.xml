@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250425180000 +0200" stop="20250425182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Soziale Isolation</sub-title>
-    <desc>Einsamkeit hat viele Gesichter. Sie betrifft alle, ist unabhängig von Alter, Geschlecht, Hautfarbe oder sozialen Verhältnissen. Und sie hat unterschiedliche Ursachen. Moderation: Magdalena Oberstaller. 
-Einsamkeit kann durch den Verlust von Angehörigen, durch Familienkonflikte, durch Mobbing, Krankheit oder durch plötzliche Arbeitslosigkeit entstehen. Die Frage, ab wann ein Mensch einsam ist, kann nicht einfach beantwortet werden. Denn die Empfindung ist individuell. 
-In der Kurzreihe "Tassie" tauchen wir in die Welt der Sagen im Fassatal ein und erzählen die Legende des Hirten Salvan. In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Abschied vom Stress".</desc>
-  </programme>
-  <programme start="20250425182900 +0200" stop="20250425185330 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Kuens</sub-title>
-    <desc>Kuens im Burggrafenamt ist die kleinste Gemeinde Südtirols mit dem jüngsten Mesner, der ältesten Gaststätte, einer Sammlung von historischen Traktoren und interessanten Schildkrötpuppen. In Kuens gibt es einiges zu entdecken: Franz Laimer Pixner präsentiert seine umfangreiche Sammlung historischer Traktoren, während Erika Laimer Pixner seit rund 30 Jahren Schildkrötpuppen sammelt und eine beeindruckende Kollektion besitzt. 
-Der Hilberkeller zählt zu den ältesten Gaststätten Südtirols. Im über 600 Jahre alten Steinkeller werden heimische Spezialitäten serviert.
-Maximilian Raffl ist einer der jüngsten Mesner Südtirols und zeigt uns, wie er die Pfarrkirche von Kuens österlich schmückt. Gedanken zum Osterfest kommen von Pfarrer Edmund Ungerer.</desc>
-  </programme>
-  <programme start="20250425185400 +0200" stop="20250425185915 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Die Geschichte der Berghotels</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250425200000 +0200" stop="20250425202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250425202000 +0200" stop="20250425215500 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title>Sport, Kunst, Mut und Musik</sub-title>
-    <desc>Gäste von Moderator Thomas Vonmetz sind Naturbahnrodlerin Evelin Lanthaler, der Künstler und Extremsportler Stefan Santifaller und Schauspielerin und Kabarettistin Karin Verdorfer. 
-Evelin Lanthaler - mit über 50 Weltcupsiegen und acht Weltmeistertiteln erfolgreichste Naturbahnrodlerin aller Zeiten - spricht über ihre spektakuläre Karriere, den Abschied vom Profisport und warum sie sich künftig für den Nachwuchs engagieren will.
-Stefan Santifaller - Fotograf, Künstler und Extremsportler - hat eine Geschichte, die unter die Haut geht. Nach einer Krebsdiagnose läuft er sich zurück ins Leben: quer durch Europa, zu Fuß, allein und ohne Unterstützung. Seine "Odyssee" ist nicht nur ein sportlicher Triumph, sondern eine Reise zu sich selbst.
-Karin Verdorfer wiederum steht seit vielen Jahren als Schauspielerin, Autorin und Kabarettistin auf Südtirols Bühnen. In der Toms Kellershow erzählt sie von ihrer Liebe zum Theater, schrägen Paartherapien, kreativen Gartenexperimenten - und davon, warum sie sich auf der Bühne manchmal weniger "patschet" fühlt als im echten Leben.
-Für musikalische Highlights sorgen die Santoni Family aus dem Passeiertal und Sibylle Siller, die junge Singer-Songwriterin aus Algund.
-Nicht fehlen darf das Spiel-Highlight: der Kellershow-Rumpler - ein altes Bauernspiel aus Ulten, bei dem sich alle Gäste ins Zeug legen müssen. Denn 2025 wird erstmals ein Jahressieger gesucht!</desc>
-  </programme>
-  <programme start="20250425215500 +0200" stop="20250425215930 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Radiogeschichte</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250425221000 +0200" stop="20250425223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250426180000 +0200" stop="20250426182930 +0200" channel="Rai Südtirol">
     <title>Schach Max</title>
     <sub-title>Überleben wie zu Ötzis Zeiten</sub-title>
@@ -289,6 +245,25 @@ Auf einer Büffelfarm in Westungarn bleiben die Wasserbüffel das ganze Jahr üb
 Die Edle Steckmuschel kommt nur im Mittelmeer vor und ist mit bis zu 1,20 Metern Höhe die größte Muschel in Europa. Aber sie ist vom Aussterben bedroht. Wir stellen ein Programm zur Rettung der Edlen Steckmuschel vor.</desc>
   </programme>
   <programme start="20250503221000 +0200" stop="20250503223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250504200000 +0200" stop="20250504202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250504202000 +0200" stop="20250504204930 +0200" channel="Rai Südtirol">
+    <title>df</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Wie kam die Bozner Regisseurin Evi Romen zum Film? Wie viel Gleichberechtigung gibt es in unseren Schlafzimmern? Wie entdecken Frauen ihre eigenen Bedürfnisse? Moderation: Martina Kreuzer.
+
+Wenn es um weibliche Sexualität geht, scheint im 21. Jahrhundert alles möglich zu sein. Doch was läuft tatsächlich und wie selbstbestimmt leben Frauen ihre Lust? Im df-Bericht suchen wir Antworten - und sind nicht nur auf die Unterschiede im sexuellen Vergnügen und der sexuellen Zufriedenheit zwischen Männern und Frauen gestoßen, sondern auch auf neue Wege, diese Lustlücke durch Entdeckung der eigenen Bedürfnisse zu schließen.  
+Im dF Portrait: Evi Romen - die Regisseurin hat im Filmclub in Bozen ihre Liebe zum Film entdeckt, in Wien Kamera und Schnitt studiert, als Editorin über 20 Jahre lang dem Drehmaterial Leben eingehaucht. 2020 wechselte sie ins Regiefach und war jetzt kürzlich mit ihrem zweiten Spielfilm "Happyland" am Filmfestival in Bozen zu Gast. Wir haben Evi Romen für dF bei einem Steifzug durch Bozen begleitet. 
+In df-Info: Die Veranstaltungsreihe: in memoriam Elisabeth Baumgartner und die Aktionstage Politische Bildung 2025 zum diesjährigen Schwerpunktthema: Chancen.Gerechtigkeit.</desc>
+  </programme>
+  <programme start="20250504221000 +0200" stop="20250504223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
