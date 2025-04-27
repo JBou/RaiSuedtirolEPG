@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250426180000 +0200" stop="20250426182930 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Überleben wie zu Ötzis Zeiten</sub-title>
-    <desc>SchachMax ist zurück - und diesmal geht’s ums Überleben! Kann Max von Milland der Wildnis trotzen? Ohne moderne Hilfsmittel, nur mit Kompass, Karte und seinem Überlebenswillen?
-In dieser spannenden Folge seiner Challenge-Show trifft Max auf den Südtiroler Steinzeit- und Survival-Experten Philipp Schraut, der ihm alles abverlangt. Die Mission: Orientierung in unwegsamem Gelände, Trinkwasser und essbare Pflanzen finden - und dann eine Nacht allein in der Wildnis überstehen. Kein Zelt, kein Feuerzeug, kein Handy - nur Instinkt und purer Überlebenskampf. Wird Max es schaffen, sich in der rauen Natur zu behaupten? Finde es heraus - in der neuen Folge von SchachMax!</desc>
-  </programme>
-  <programme start="20250426182900 +0200" stop="20250426185800 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zwei junge Künstlerinnen am Schnittpunkt der Kulturen, Menstruation zwischen Tabu und Normalität, ein Aufklärungsvideo als Maturaprojekt über den Alltag im Rollstuhl. Moderation: Mara Marth. In einer Zeit, in der kulturelle Vielfalt immer mehr an Bedeutung gewinnt, setzen die beiden Oberschülerinnen Rumina Kornilova und Marissa Hörmann ein Zeichen: Gemeinsam haben sie eine Kunstaustellung auf die Beine gestellt, die nicht nur ihre eigene Geschichte widerspiegelt, sondern auch die ihrer Wurzeln...
-Tabuthema Menstruation: Besonders junge Mädchen, die ihre erste Periode erleben, sind mit vielen Fragen und Unsicherheiten konfrontiert. Wie gehen sie mit Menstruationsbeschwerden um, wie haben sie ihre erste Periode erlebt und warum wird über den Zyklus oft wenig gesprochen?
-Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrern: Jessica Ceska, Noemi Wallnöfer und Melanie Klotz, drei Schülerinnen des Berufsbildungszentrums Luis Zuegg in Meran, haben sich in ihrem Maturaprojekt mit dem Thema der Barrierefreiheit auseinandergesetzt. Ihr Film "Ungebremst mobil" zeigt, welchen Hürden Rollstuhlfahrer im Alltag begegnen. Klick war bei den Dreharbeiten dabei.</desc>
-  </programme>
-  <programme start="20250426200000 +0200" stop="20250426202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250426202100 +0200" stop="20250426202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250426202500 +0200" stop="20250426205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Wie kann man Lebensmittelabfälle vermeiden? Worauf kommt es bei der Meisterprüfung der Köch:innen an? Was macht einen guten Kaffee aus? Moderation: Manuela Reiter.
-
-Lebensmittelabfälle entstehen überall: bei der Herstellung, in der Landwirtschaft, im Handel, im Supermarkt und in lokalen Geschäften und Restaurants. Weitaus am meisten Lebensmittel werden allerdings in privaten Haushalten verschwendet. Südtirolweit entsorgt jeder Bürger jährlich 27,5 kg Lebensmittel ungenutzt. Wir haben Gastbetriebe und Hotels besucht, um mehr über Lebensmittelverschwendung zu erfahren - und sind dabei auf gute Lösungsansätze gestoßen.
-Im Berufsbildungszentrum für Gastronomie und Kulinarik Emma Hellenstainer in Brixen absolvieren junge Köche ihre Meisterprüfung. Welches sind dabei die kulinarischen Herausforderungen?
-Außerdem werfen wir einen Blick hinter die Kulissen der Südtiroler Kaffeekultur. Von der sorgfältigen Herstellung bis zur Kunst des Barista zeigen wir, was einen wirklich guten Kaffee ausmacht. Wir begleiten Experten bei ihrer Arbeit und fragen Gäste, wie sie ihren Kaffee am liebsten genießen.</desc>
-  </programme>
-  <programme start="20250426221000 +0200" stop="20250426223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250427200000 +0200" stop="20250427202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
