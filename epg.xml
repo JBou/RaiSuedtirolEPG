@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250427200000 +0200" stop="20250427202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250427202100 +0200" stop="20250427205030 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Frühjahrstouren</sub-title>
-    <desc>Klettern auf den Spuren der Vergangenheit und ein neuer Trend im Gebirge: Hike and Fly - bergwärts laufen und retour mit dem Gleitschirm. Moderiert wird die Sendung von Thomas Hainz.
-
-Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino. 
-Danach gehts möglichst schnell bergan und noch schneller wieder zurück ins Tal. Berglauf kombiniert mit einem leichten Gleitschirm: Die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem Paraglider fasziniert inzwischen auch immer mehr Südtiroler. Der neue Trend birgt aber auch Gefahren.</desc>
-  </programme>
-  <programme start="20250427205000 +0200" stop="20250427205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250427221000 +0200" stop="20250427223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250428175900 +0200" stop="20250428181330 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
