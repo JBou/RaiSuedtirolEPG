@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250428175900 +0200" stop="20250428181330 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Drei Runden sind in der Fußball-Oberliga noch ausständig: Tabellenführer Obermais möchte sich im Auswärtsspiel in Brixen zum neuen Meister küren. 
-In der Landesliga braucht Bruneck auswärts gegen Tscherms Marling einen Sieg, um noch von Titel träumen zu können. Im Duell zwischen Latzfons Verdings und Kiens geht es hingegen um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20250428181300 +0200" stop="20250428183130 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Auf der BBT-Baustelle</sub-title>
-    <desc>Als der Bau des Brenner-Basistunnels vor 18 Jahren begonnen hat, war Zipp-Reporterin Hannah noch gar nicht auf der Welt. Und wenn er in ungefähr acht Jahren endlich fertig sein wird, kann sie ganz bequem mit dem Zug nach Innsbruck zum Studieren fahren. 
-Aber so lange will Hannah nicht warten. Sie will schon jetzt wissen, wie so ein riesiger Tunnel gebaut wird. Auf der Baustelle trifft sie Julia, die sie mit ins Infozentrum nimmt. Dort erfährt Hannah, wie das verzweigte Tunnelsystem tief im Berg aussieht, wie die Züge später mal durch die Alpen sausen werden und wie eine gigantische Tunnelbohrmaschine funktioniert.</desc>
-  </programme>
-  <programme start="20250428183200 +0200" stop="20250428185936 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zwei junge Künstlerinnen am Schnittpunkt der Kulturen, Menstruation zwischen Tabu und Normalität, ein Aufklärungsvideo als Maturaprojekt über den Alltag im Rollstuhl. Moderation: Mara Marth. In einer Zeit, in der kulturelle Vielfalt immer mehr an Bedeutung gewinnt, setzen die beiden Oberschülerinnen Rumina Kornilova und Marissa Hörmann ein Zeichen: Gemeinsam haben sie eine Kunstaustellung auf die Beine gestellt, die nicht nur ihre eigene Geschichte widerspiegelt, sondern auch die ihrer Wurzeln...
-Tabuthema Menstruation: Besonders junge Mädchen, die ihre erste Periode erleben, sind mit vielen Fragen und Unsicherheiten konfrontiert. Wie gehen sie mit Menstruationsbeschwerden um, wie haben sie ihre erste Periode erlebt und warum wird über den Zyklus oft wenig gesprochen?
-Ein Aufklärungsvideo über die täglichen Herausforderungen von Rollstuhlfahrern: Jessica Ceska, Noemi Wallnöfer und Melanie Klotz, drei Schülerinnen des Berufsbildungszentrums Luis Zuegg in Meran, haben sich in ihrem Maturaprojekt mit dem Thema der Barrierefreiheit auseinandergesetzt. Ihr Film "Ungebremst mobil" zeigt, welchen Hürden Rollstuhlfahrer im Alltag begegnen. Klick war bei den Dreharbeiten dabei.</desc>
-  </programme>
-  <programme start="20250428200000 +0200" stop="20250428202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250428202000 +0200" stop="20250428220000 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut - Der Monatslohn</title>
-    <sub-title>Der DokuAbend mit Film und Diskussion</sub-title>
-    <desc>Früher reichte ein Gehalt für eine Familie, ein Eigenheim und ein sorgenfreies Leben. Und heute? Für viele Arbeitnehmer:innen ist das Monatsende längst ein finanzieller Drahtseilakt. 
-Der preisgekrönte Dokumentarfilm "Worüber man nicht sprechen kann, darüber muss man reden" von Karl Prossliner zeigt eindrücklich auf, wie schwierig es für viele ist, mit dem Monatslohn über die Runden zu kommen. Danach fragen wir:  Was muss sich ändern? Darüber diskutieren unter anderem Petra Priller (Caritas Schuldenberatung), Leonhard Resch (KVW - Arche), Tony Tschenett vom ASGB und Heiner Oberrauch (Südtiroler Unternehmerverband) - live aus dem Kolpinghaus in Brixen. Es moderiert Judith Bertagnolli.</desc>
-  </programme>
-  <programme start="20250428221000 +0200" stop="20250428223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250429200000 +0200" stop="20250429202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
