@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250429200000 +0200" stop="20250429202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250429202000 +0200" stop="20250429203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250429203500 +0200" stop="20250429204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Drei Runden sind in der Fußball-Oberliga noch ausständig: Tabellenführer Obermais möchte sich im Auswärtsspiel in Brixen zum neuen Meister küren. 
-In der Landesliga braucht Bruneck auswärts gegen Tscherms Marling einen Sieg, um noch von Titel träumen zu können. Im Duell zwischen Latzfons Verdings und Kiens geht es hingegen um den Klassenerhalt.</desc>
-  </programme>
-  <programme start="20250429210800 +0200" stop="20250429211600 +0200" channel="Rai Südtirol">
-    <title>Gemeindewahlen 2025 - Interviews</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250429221000 +0200" stop="20250429223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250430200000 +0200" stop="20250430202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
