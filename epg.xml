@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250430200000 +0200" stop="20250430202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250430202000 +0200" stop="20250430204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wachteleier und Wachtelfleisch ab Hof, Gsieser Almochsen als Publikumsmagnet,
-Milchsammelfahrten - aufwändig, aber wichtig. Eine Sendung von Marianne Kasseroler.
-
-Wachteln sind die kleinsten Hühnervögel. Sie sind als Heimtiere beliebt und werden auch wegen ihrer Eier und ihres Fleisches gehalten. Mit 600 Wachteln kann sich deren Haltung sogar zu einem interessanten Betriebszweig entwickeln, wie dies auf einem Hof in Jenesien gezeigt wird.  
-Die Gsieser Almochsen fallen hingegen vor allem wegen ihrer Größe und ihres Gewichtes auf. Damit sind sie bei der jährlichen Osterochsenversteigerung der Publikumsmagnet und erzielen höchste Preise.  
-Weniger Milchbauern und sinkende Milchmengen zeigen eine besorgniserregende Entwicklung an. Umso wichtiger sind die täglichen Milchsammelfahrten bis hinauf zu den höchsten Hofstellen. Diese Fahrten sind aufwändig und teuer, aber notwendig, um die kostbare Milch zur Weiterverarbeitung ins Tal zu bringen.</desc>
-  </programme>
-  <programme start="20250430210800 +0200" stop="20250430211600 +0200" channel="Rai Südtirol">
-    <title>Gemeindewahlen 2025 - Interviews</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250430221000 +0200" stop="20250430223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250501200000 +0200" stop="20250501202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -143,6 +118,147 @@ Im dF Portrait: Evi Romen - die Regisseurin hat im Filmclub in Bozen ihre Liebe 
 In df-Info: Die Veranstaltungsreihe: in memoriam Elisabeth Baumgartner und die Aktionstage Politische Bildung 2025 zum diesjährigen Schwerpunktthema: Chancen.Gerechtigkeit.</desc>
   </programme>
   <programme start="20250504221000 +0200" stop="20250504223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250505180000 +0200" stop="20250505181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vorletzter Spieltag in der Fußball-Oberliga: Während der SSV Brixen im Kampf um den Klassenerhalt unbedingt in St. Georgen punkten muss, geht es im Duell zwischen Tramin und Virtus Bozen noch um den zweiten Tabellenplatz. 
+In der Landesliga empfängt Salurn Gitschberg Jochtal.</desc>
+  </programme>
+  <programme start="20250505181400 +0200" stop="20250505182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Im Innern des BBT</sub-title>
+    <desc>Zipp-Hannah möchte hautnah erleben, wie der längste Eisenbahntunnel der Welt gebaut wird. Geologe Stefan nimmt sie mit auf eine spannende Fahrt durch das riesige Tunnelsystem. Er zeigt ihr, wie die riesigen Röhren gebohrt und die Kavernen mit lautem Knall aus dem Felsen gesprengt werden.</desc>
+  </programme>
+  <programme start="20250505182900 +0200" stop="20250505185830 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wachteleier und Wachtelfleisch ab Hof, Gsieser Almochsen als Publikumsmagnet,
+Milchsammelfahrten - aufwändig, aber wichtig. Eine Sendung von Marianne Kasseroler.
+Wachteln sind die kleinsten Hühnervögel. Sie sind als Heimtiere beliebt und werden auch wegen ihrer Eier und ihres Fleisches gehalten. Mit 600 Wachteln kann sich deren Haltung sogar zu einem interessanten Betriebszweig entwickeln, wie dies auf einem Hof in Jenesien gezeigt wird.  
+Die Gsieser Almochsen fallen hingegen vor allem wegen ihrer Größe und ihres Gewichtes auf. Damit sind sie bei der jährlichen Osterochsenversteigerung der Publikumsmagnet und erzielen höchste Preise.  
+Weniger Milchbauern und sinkende Milchmengen zeigen eine besorgniserregende Entwicklung an. Umso wichtiger sind die täglichen Milchsammelfahrten bis hinauf zu den höchsten Hofstellen. Diese Fahrten sind aufwändig und teuer, aber notwendig, um die kostbare Milch zur Weiterverarbeitung ins Tal zu bringen.</desc>
+  </programme>
+  <programme start="20250505200000 +0200" stop="20250505202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250505202000 +0200" stop="20250505213330 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Wahlstudio</sub-title>
+    <desc>Ergebnisse und Kommentare zu den Gemeinderatswahlen. Moderation: Christian Bassani</desc>
+  </programme>
+  <programme start="20250505213300 +0200" stop="20250505215851 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Die Schilddrüse</sub-title>
+    <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
+Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
+Auch Knoten oder Vergrößerungen der Schilddrüse (Struma) sind häufig und müssen ärztlich abgeklärt werden. 
+Im Krankenhaus Meran werden Schilddrüsenerkrankungen in der Abteilung für Innere Medizin diagnostiziert und behandelt. Ulli Velano und Marco Polo begleiteten die Schilddrüsenexperten und Primare Sieglinde Kofler und Alexander Perathoner bei ihrer Arbeit.</desc>
+  </programme>
+  <programme start="20250505221000 +0200" stop="20250505223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250506200000 +0200" stop="20250506202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250506202000 +0200" stop="20250506205930 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250506210000 +0200" stop="20250506211430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vorletzter Spieltag in der Fußball-Oberliga: Während der SSV Brixen im Kampf um den Klassenerhalt unbedingt in St. Georgen punkten muss, geht es im Duell zwischen Tramin und Virtus Bozen noch um den zweiten Tabellenplatz. 
+In der Landesliga empfängt Salurn Gitschberg Jochtal.</desc>
+  </programme>
+  <programme start="20250506221000 +0200" stop="20250506223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250507200000 +0200" stop="20250507202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250507202000 +0200" stop="20250507204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wer begleitet unsere Sportler:innen, wer organisiert Sportevents? Im Porträt die Sportmanager Georg Pircher und Marco Fontanesi, außerdem Gerhard Vanzi, der internationale Sportevents organisiert.
+
+Der Sport spielt für viele Bereiche der Südtiroler Wirtschaft eine große Rolle, daran besteht kein Zweifel, wenn sich dies auch nicht immer in exakten Zahlen messen lässt.
+Daher wirft Trend einen Blick auf Unternehmer und Manager, die hinter erfolgreichen Sportlern stehen und sie in ihrer Karriere begleiten und professionell beraten. 
+Aber nicht nur hinter den Sportler:innen, auch hinter großen Sportveranstaltungen stehen Unternehmer und Manager, die diese Events erst möglich gemacht haben und ihre Lehrjahre in Südtirol genutzt haben, um heute auch international tätig zu sein. Dabei werden Sportler und Sportveranstaltungen gleichermaßen zu wertvollen Aushängeschildern und Marken gemacht.</desc>
+  </programme>
+  <programme start="20250507221000 +0200" stop="20250507223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250508200000 +0200" stop="20250508202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250508202000 +0200" stop="20250508204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Minimalismus</sub-title>
+    <desc>Minimalismus gilt als Alternative zum Überfluss. Was zählt zu unseren Grundbedürfnissen und warum spielt Besitz so eine große Rolle? Ein spannendes Thema, moderiert von Karin Gschnitzer. 
+
+Das Südtirol Magazin geht der Frage nach, was und wieviel der Mensch zum Leben braucht: einen gesunden Körper, Nahrung, Wasser, ein Dach über dem Kopf, Kleidungsstücke, ein sicheres Umfeld und Gesundheitsversorgung. Doch die Grundbedürfnisse gelten in großen Teilen der westlichen Welt als selbstverständlich. Warum halten sich Menschen an Besitztümern fest, oder sehen diese als Voraussetzung zum Glück an? 
+In der Reihe "Schon gewusst" informieren wir über Wissenswertes zum Thema Bücher. Und der mobile Reporter Philipp Bologna hat sich anlässlich des Europatages am 9. Mai in Eppan umgehört, was den Menschen zum Thema Identität einfällt.</desc>
+  </programme>
+  <programme start="20250508221000 +0200" stop="20250508223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250509180000 +0200" stop="20250509182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Minimalismus</sub-title>
+    <desc>Minimalismus gilt als Alternative zum Überfluss. Was zählt zu unseren Grundbedürfnissen und warum spielt Besitz so eine große Rolle? Ein spannendes Thema, moderiert von Karin Gschnitzer. Das Südtirol Magazin geht der Frage nach, was und wieviel der Mensch zum Leben braucht: einen gesunden Körper, Nahrung, Wasser, ein Dach über dem Kopf, Kleidungsstücke, ein sicheres Umfeld und Gesundheitsversorgung. Doch die Grundbedürfnisse gelten in großen Teilen der westlichen Welt als selbstverständlich. Warum halten sich Menschen an Besitztümern fest, oder sehen diese als Voraussetzung zum Glück an? 
+In der Reihe "Schon gewusst" informieren wir über Wissenswertes zum Thema Bücher. Und der mobile Reporter Philipp Bologna hat sich anlässlich des Europatages am 9. Mai in Eppan umgehört, was den Menschen zum Thema Identität einfällt.</desc>
+  </programme>
+  <programme start="20250509182900 +0200" stop="20250509185830 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Wie kam die Bozner Regisseurin Evi Romen zum Film? Wie viel Gleichberechtigung gibt es in unseren Schlafzimmern? Wie entdecken Frauen ihre eigenen Bedürfnisse? Moderation: Martina Kreuzer.
+Wenn es um weibliche Sexualität geht, scheint im 21. Jahrhundert alles möglich zu sein. Doch was läuft tatsächlich und wie selbstbestimmt leben Frauen ihre Lust? Im df-Bericht suchen wir Antworten - und sind nicht nur auf die Unterschiede im sexuellen Vergnügen und der sexuellen Zufriedenheit zwischen Männern und Frauen gestoßen, sondern auch auf neue Wege, diese Lustlücke durch Entdeckung der eigenen Bedürfnisse zu schließen.  
+Im dF Portrait: Evi Romen - die Regisseurin hat im Filmclub in Bozen ihre Liebe zum Film entdeckt, in Wien Kamera und Schnitt studiert, als Editorin über 20 Jahre lang dem Drehmaterial Leben eingehaucht. 2020 wechselte sie ins Regiefach und war jetzt kürzlich mit ihrem zweiten Spielfilm "Happyland" am Filmfestival in Bozen zu Gast. Wir haben Evi Romen für dF bei einem Steifzug durch Bozen begleitet. 
+In df-Info: Die Veranstaltungsreihe: in memoriam Elisabeth Baumgartner und die Aktionstage Politische Bildung 2025 zum diesjährigen Schwerpunktthema: Chancen.Gerechtigkeit.</desc>
+  </programme>
+  <programme start="20250509200000 +0200" stop="20250509202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250509202000 +0200" stop="20250509213108 +0200" channel="Rai Südtirol">
+    <title>Michael Gaismayr</title>
+    <sub-title>500 Jahre Tiroler Bauernkriege</sub-title>
+    <desc>Der 9.Mai vor 1525 Jahren ist der Auftakt der Tiroler Bauernkriege. Ihr Anführer ist Michael Gaismayr, der sein privilegiertes Leben aufgibt, um für Gerechtigkeit zu kämpfen. Ein Spielfilm von Wolfgang Moser.
+
+Die Bauernkriege beginnen vor genau 500 Jahren mit der Befreiung von Peter Passler, der in Brixen hingerichtet werden soll. Feldhauptmann wird Michael Gaismayr, damals im Dienst des Bischofs von Brixen. Er stammt aus der gebildeten Schicht, hat eine außerordentliche Weitsicht und wagt es, die Vormachtstellung von Kirche und Adel grundlegend in Frage zu stellen - zu jener Zeit ein riskantes Unterfangen.
+Verrat und Gefangenschaft fachen Gaismayrs Leidenschaft für die Belange der Bauern nur noch mehr an und sorgen dafür, dass er sich nicht mehr mit Reformen begnügt.
+In seinem Denken und Handeln steht er Martin Luther und Thomas Müntzer in nichts nach. Seine Pläne und Handlungen bringen ihn mit dem Schweizer Reformator Ulrich Zwingli zusammen.
+Unter den Herrschern Europas gilt Michael Gaismayr als genialer Feldherr. Und so kommt es, dass sich die Republik Venedig die militärischen Fähigkeiten des Tiroler Anführers sicherte.
+Angeblich entkommt Gaismayr 200 Mordversuchen. Doch am 15. April 1532 wird er in seiner Villa in Padua ermordet.</desc>
+  </programme>
+  <programme start="20250509213100 +0200" stop="20250509215904 +0200" channel="Rai Südtirol">
+    <title>Gaismayr - das Making Of</title>
+    <sub-title/>
+    <desc>Ein Blick hinter die Kulissen der Produktion von Wolfgang Moser. Die beiden Hauptdarsteller Peter Schorn und Günther Götsch erinnern sich zurück an die Dreharbeiten im Jahr 2022. Zwölf Tage wurde ausschließlich in Südtirol gedreht, meist an Originalschauplätzen. Am Set waren bis zu hundert Menschen, alle aus Südtirol: Darsteller:innen und das Filmteam.</desc>
+  </programme>
+  <programme start="20250509221000 +0200" stop="20250509223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
