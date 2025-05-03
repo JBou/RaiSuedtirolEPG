@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250502180000 +0200" stop="20250502182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die junge Comedy-Szene</sub-title>
-    <desc>Südtirols Comedy-Szene wächst. Junge Talente bringen mit Witz und Charme ihr Publikum zum Lachen - ob auf der Bühne oder in den sozialen Medien. Es moderiert Karin Gschnitzer. 
-Comedy ist oft frech, manchmal provokant, aber immer unterhaltsam. Doch wo hört Spaß auf und wo beginnt Kritik? Dieser Frage geht das Südtirol Magazin auf den Grund. 
-In der Reihe "Unser Gedächtnis" zeigen wir Bilder aus dem Amt für Film und Medien über ein Volksradfahren, das am 1. Mai 1973 stattgefunden hat. 
-In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku „Asfaltart". 
-"</desc>
-  </programme>
-  <programme start="20250502182900 +0200" stop="20250502185830 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Frühjahrstouren</sub-title>
-    <desc>Klettern auf den Spuren der Vergangenheit und ein neuer Trend im Gebirge: Hike and Fly - bergwärts laufen und retour mit dem Gleitschirm. Moderiert wird die Sendung von Thomas Hainz. Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino. 
-Danach gehts möglichst schnell bergan und noch schneller wieder zurück ins Tal. Berglauf kombiniert mit einem leichten Gleitschirm: Die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem Paraglider fasziniert inzwischen auch immer mehr Südtiroler. Der neue Trend birgt aber auch Gefahren.</desc>
-  </programme>
-  <programme start="20250502200000 +0200" stop="20250502202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250502202100 +0200" stop="20250502212000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Theo Hendrich unternimmt eine Wanderung durch den Altenburger Wald und die Rastenbachklamm. Und Petra Tschenett besucht kreative Köpfe im Bereich der visuellen Gestaltung. 
- 
-Täglich sind wir von Grafiken, Schriften und Farben umgeben - auf der Straße, in Büchern, in der Werbung. Diese visuellen Elemente beachten wir meist nicht bewusst, obwohl sie einen Einfluss auf unsere Entscheidungen haben. Petra Tschenett stellt kreative Köpfe vor, die mit ihren Arbeiten die Welt der visuellen Gestaltung mitprägen. 
-Zuvor wandern wir gemeinsam mit Theo Hendrich von Kaltern über den Friedensweg Richtung Altenburg mit wunderbarem Blick zum Kalterer See. Bei den Ruinen der St.Peter-Basilika führt der Weg hinunter in die abenteuerliche Rastenbachklamm. Mit ihren Wasserfällen, den efeubewachsenen Bäumen, umgefallenen Stämmen stellt sie ein beeindruckendes Naturdenkmal dar. Selbstverständlich darf auf dieser Wanderung ein Abstecher zu einem typischen Familienweingut nicht fehlen.</desc>
-  </programme>
-  <programme start="20250502212000 +0200" stop="20250502214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Wie kann man Lebensmittelabfälle vermeiden? Worauf kommt es bei der Meisterprüfung der Köch:innen an? Was macht einen guten Kaffee aus? Moderation: Manuela Reiter. Lebensmittelabfälle entstehen überall: bei der Herstellung, in der Landwirtschaft, im Handel, im Supermarkt und in lokalen Geschäften und Restaurants. Weitaus am meisten Lebensmittel werden allerdings in privaten Haushalten verschwendet. Südtirolweit entsorgt jeder Bürger jährlich 27,5 kg Lebensmittel ungenutzt. Wir haben Gastbetriebe und Hotels besucht, um mehr über Lebensmittelverschwendung zu erfahren - und sind dabei auf gute Lösungsansätze gestoßen.
-Im Berufsbildungszentrum für Gastronomie und Kulinarik Emma Hellenstainer in Brixen absolvieren junge Köche ihre Meisterprüfung. Welches sind dabei die kulinarischen Herausforderungen?
-Außerdem werfen wir einen Blick hinter die Kulissen der Südtiroler Kaffeekultur. Von der sorgfältigen Herstellung bis zur Kunst des Barista zeigen wir, was einen wirklich guten Kaffee ausmacht. Wir begleiten Experten bei ihrer Arbeit und fragen Gäste, wie sie ihren Kaffee am liebsten genießen.</desc>
-  </programme>
-  <programme start="20250502214900 +0200" stop="20250502215902 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Gretl und Josef Oberrauch</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250502221000 +0200" stop="20250502223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250503180000 +0200" stop="20250503185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -273,6 +228,30 @@ Ein Weg zur mentalen Gesundheit führt über die Meditation, davon ist Pater Pla
 Trödelläden, Flohmärkte, Second-Hand-Shops werden zunehmend beliebter, weil Gefühle angeregt und Erinnerungen geweckt werden. Seit der V-Markt, der Second-Hand-Laden der Verbraucherzentrale ins Stadtzentrum gezogen ist, herrscht hier ein reges Kommen und Gehen.</desc>
   </programme>
   <programme start="20250510221000 +0200" stop="20250510223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250511200000 +0200" stop="20250511202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250511202100 +0200" stop="20250511204530 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Männliche Mentoren sind wichtige Vorbilder, der Party-Bus Südtirol vom Forum Prävention, "Message on a bottle" - Jugendliche gestalten Mehrwegflaschen mit FairTrade-Botschaften.
+
+Ob auf dem Sportplatz oder im sozialen Umfeld - junge Männer leisten einen wertvollen Beitrag als Vorbilder und helfen so Jugendlichen, ihre Potentiale zu entfalten. Wir haben Hockey-Coach Benjamin beim Training begleitet und Jugendarbeiter Phillip bei der Arbeit besucht.
+Seit vier Monaten tourt eine mobile Disco durch viele kleine Dörfer Südtirols. Ziel der Aktion ist es, Jugendlichen eine unbeschwerte Freizeitmöglichkeit zu bieten, die sie zusammenbringt. Nach den Auswirkungen von Corona eine dringende Maßnahme.
+Die Südtiroler Weltläden und die OEW veranstalten auch heuer wieder den FairTrend Design Contest, um Jugendliche zu sensibilisieren. Dieses Jahr stand die kreative Gestaltung einer wiederverwendbaren Flasche im Mittelpunkt. Auch Schüler:innen der Mittelschule Brixen beteiligten sich und setzten mit ihren Designs ein Zeichen für Nachhaltigkeit und soziale Gerechtigkeit. Klick schaute den jungen Kreativen bei der Gestaltung ihrer "Message on a bottle" über die Schulter.</desc>
+  </programme>
+  <programme start="20250511204500 +0200" stop="20250511204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250511221000 +0200" stop="20250511223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
