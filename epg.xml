@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250503180000 +0200" stop="20250503185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Theo Hendrich unternimmt eine Wanderung durch den Altenburger Wald und die Rastenbachklamm. Und Petra Tschenett besucht kreative Köpfe im Bereich der visuellen Gestaltung. Täglich sind wir von Grafiken, Schriften und Farben umgeben - auf der Straße, in Büchern, in der Werbung. Diese visuellen Elemente beachten wir meist nicht bewusst, obwohl sie einen Einfluss auf unsere Entscheidungen haben. Petra Tschenett stellt kreative Köpfe vor, die mit ihren Arbeiten die Welt der visuellen Gestaltung mitprägen. 
-Zuvor wandern wir gemeinsam mit Theo Hendrich von Kaltern über den Friedensweg Richtung Altenburg mit wunderbarem Blick zum Kalterer See. Bei den Ruinen der St.Peter-Basilika führt der Weg hinunter in die abenteuerliche Rastenbachklamm. Mit ihren Wasserfällen, den efeubewachsenen Bäumen, umgefallenen Stämmen stellt sie ein beeindruckendes Naturdenkmal dar. Selbstverständlich darf auf dieser Wanderung ein Abstecher zu einem typischen Familienweingut nicht fehlen.</desc>
-  </programme>
-  <programme start="20250503200000 +0200" stop="20250503202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250503202100 +0200" stop="20250503202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250503202500 +0200" stop="20250503204930 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Canyoning oder ab in den Abgrund. Streicheleinheiten für einen 1000-Kilo-Büffel. Wie Edle Steckmuscheln vor dem Aussterben gerettet werden. Moderation: Sigrid Flenger.
-
-Klettern, Rutschen, Abseilen, Springen und Schwimmen – Canyoning ist auch in Neumarkt eine Erlebnissportart, bei der Menschen ihre eigenen Grenzen austesten wollen. 
-Auf einer Büffelfarm in Westungarn bleiben die Wasserbüffel das ganze Jahr über auf der Weide. Bemerkenswert ist die innige Beziehung zwischen den Büffeln und der Bauersfamilie. Kuscheln gehört zum Tagesablauf. 
-Die Edle Steckmuschel kommt nur im Mittelmeer vor und ist mit bis zu 1,20 Metern Höhe die größte Muschel in Europa. Aber sie ist vom Aussterben bedroht. Wir stellen ein Programm zur Rettung der Edlen Steckmuschel vor.</desc>
-  </programme>
-  <programme start="20250503221000 +0200" stop="20250503223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250504200000 +0200" stop="20250504202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
