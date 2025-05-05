@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250504200000 +0200" stop="20250504202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250504202000 +0200" stop="20250504204930 +0200" channel="Rai Südtirol">
-    <title>df</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Wie kam die Bozner Regisseurin Evi Romen zum Film? Wie viel Gleichberechtigung gibt es in unseren Schlafzimmern? Wie entdecken Frauen ihre eigenen Bedürfnisse? Moderation: Martina Kreuzer.
-
-Wenn es um weibliche Sexualität geht, scheint im 21. Jahrhundert alles möglich zu sein. Doch was läuft tatsächlich und wie selbstbestimmt leben Frauen ihre Lust? Im df-Bericht suchen wir Antworten - und sind nicht nur auf die Unterschiede im sexuellen Vergnügen und der sexuellen Zufriedenheit zwischen Männern und Frauen gestoßen, sondern auch auf neue Wege, diese Lustlücke durch Entdeckung der eigenen Bedürfnisse zu schließen.  
-Im dF Portrait: Evi Romen - die Regisseurin hat im Filmclub in Bozen ihre Liebe zum Film entdeckt, in Wien Kamera und Schnitt studiert, als Editorin über 20 Jahre lang dem Drehmaterial Leben eingehaucht. 2020 wechselte sie ins Regiefach und war jetzt kürzlich mit ihrem zweiten Spielfilm "Happyland" am Filmfestival in Bozen zu Gast. Wir haben Evi Romen für dF bei einem Steifzug durch Bozen begleitet. 
-In df-Info: Die Veranstaltungsreihe: in memoriam Elisabeth Baumgartner und die Aktionstage Politische Bildung 2025 zum diesjährigen Schwerpunktthema: Chancen.Gerechtigkeit.</desc>
-  </programme>
-  <programme start="20250504221000 +0200" stop="20250504223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250505180000 +0200" stop="20250505181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
