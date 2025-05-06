@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250505180000 +0200" stop="20250505181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Fußball-Oberliga: Während der SSV Brixen im Kampf um den Klassenerhalt unbedingt in St. Georgen punkten muss, geht es im Duell zwischen Tramin und Virtus Bozen noch um den zweiten Tabellenplatz. 
-In der Landesliga empfängt Salurn Gitschberg Jochtal.</desc>
-  </programme>
-  <programme start="20250505181400 +0200" stop="20250505182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Im Innern des BBT</sub-title>
-    <desc>Zipp-Hannah möchte hautnah erleben, wie der längste Eisenbahntunnel der Welt gebaut wird. Geologe Stefan nimmt sie mit auf eine spannende Fahrt durch das riesige Tunnelsystem. Er zeigt ihr, wie die riesigen Röhren gebohrt und die Kavernen mit lautem Knall aus dem Felsen gesprengt werden.</desc>
-  </programme>
-  <programme start="20250505182900 +0200" stop="20250505185830 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wachteleier und Wachtelfleisch ab Hof, Gsieser Almochsen als Publikumsmagnet,
-Milchsammelfahrten - aufwändig, aber wichtig. Eine Sendung von Marianne Kasseroler.
-Wachteln sind die kleinsten Hühnervögel. Sie sind als Heimtiere beliebt und werden auch wegen ihrer Eier und ihres Fleisches gehalten. Mit 600 Wachteln kann sich deren Haltung sogar zu einem interessanten Betriebszweig entwickeln, wie dies auf einem Hof in Jenesien gezeigt wird.  
-Die Gsieser Almochsen fallen hingegen vor allem wegen ihrer Größe und ihres Gewichtes auf. Damit sind sie bei der jährlichen Osterochsenversteigerung der Publikumsmagnet und erzielen höchste Preise.  
-Weniger Milchbauern und sinkende Milchmengen zeigen eine besorgniserregende Entwicklung an. Umso wichtiger sind die täglichen Milchsammelfahrten bis hinauf zu den höchsten Hofstellen. Diese Fahrten sind aufwändig und teuer, aber notwendig, um die kostbare Milch zur Weiterverarbeitung ins Tal zu bringen.</desc>
-  </programme>
-  <programme start="20250505200000 +0200" stop="20250505202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250505202000 +0200" stop="20250505213330 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Wahlstudio</sub-title>
-    <desc>Ergebnisse und Kommentare zu den Gemeinderatswahlen. Moderation: Christian Bassani</desc>
-  </programme>
-  <programme start="20250505213300 +0200" stop="20250505215851 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Die Schilddrüse</sub-title>
-    <desc>Die Schilddrüse ist eine schmetterlingsförmige Drüse am Hals, die wichtige Hormone für den Stoffwechsel produziert. Wir erleben, wie Knoten und andere Schilddrüsenprobleme behandelt werden.
-Schilddrüsenprobleme entstehen, wenn die Drüse zu viele oder zu wenige Hormone produziert. Eine Unterfunktion kann zu Müdigkeit und Gewichtszunahme führen, während eine Überfunktion Herzrasen, Nervosität und Gewichtsverlust verursacht. 
-Auch Knoten oder Vergrößerungen der Schilddrüse (Struma) sind häufig und müssen ärztlich abgeklärt werden. 
-Im Krankenhaus Meran werden Schilddrüsenerkrankungen in der Abteilung für Innere Medizin diagnostiziert und behandelt. Ulli Velano und Marco Polo begleiteten die Schilddrüsenexperten und Primare Sieglinde Kofler und Alexander Perathoner bei ihrer Arbeit.</desc>
-  </programme>
-  <programme start="20250505221000 +0200" stop="20250505223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250506200000 +0200" stop="20250506202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
