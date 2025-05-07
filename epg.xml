@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250506200000 +0200" stop="20250506202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250506202000 +0200" stop="20250506205930 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250506210000 +0200" stop="20250506211430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vorletzter Spieltag in der Fußball-Oberliga: Während der SSV Brixen im Kampf um den Klassenerhalt unbedingt in St. Georgen punkten muss, geht es im Duell zwischen Tramin und Virtus Bozen noch um den zweiten Tabellenplatz. 
-In der Landesliga empfängt Salurn Gitschberg Jochtal.</desc>
-  </programme>
-  <programme start="20250506221000 +0200" stop="20250506223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250507200000 +0200" stop="20250507202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
