@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250507200000 +0200" stop="20250507202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250507202000 +0200" stop="20250507204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wer begleitet unsere Sportler:innen, wer organisiert Sportevents? Im Porträt die Sportmanager Georg Pircher und Marco Fontanesi, außerdem Gerhard Vanzi, der internationale Sportevents organisiert.
-
-Der Sport spielt für viele Bereiche der Südtiroler Wirtschaft eine große Rolle, daran besteht kein Zweifel, wenn sich dies auch nicht immer in exakten Zahlen messen lässt.
-Daher wirft Trend einen Blick auf Unternehmer und Manager, die hinter erfolgreichen Sportlern stehen und sie in ihrer Karriere begleiten und professionell beraten. 
-Aber nicht nur hinter den Sportler:innen, auch hinter großen Sportveranstaltungen stehen Unternehmer und Manager, die diese Events erst möglich gemacht haben und ihre Lehrjahre in Südtirol genutzt haben, um heute auch international tätig zu sein. Dabei werden Sportler und Sportveranstaltungen gleichermaßen zu wertvollen Aushängeschildern und Marken gemacht.</desc>
-  </programme>
-  <programme start="20250507221000 +0200" stop="20250507223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250508200000 +0200" stop="20250508202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
