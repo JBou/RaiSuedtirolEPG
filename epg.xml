@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250508200000 +0200" stop="20250508202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250508202000 +0200" stop="20250508204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Minimalismus</sub-title>
-    <desc>Minimalismus gilt als Alternative zum Überfluss. Was zählt zu unseren Grundbedürfnissen und warum spielt Besitz so eine große Rolle? Ein spannendes Thema, moderiert von Karin Gschnitzer. 
-
-Das Südtirol Magazin geht der Frage nach, was und wieviel der Mensch zum Leben braucht: einen gesunden Körper, Nahrung, Wasser, ein Dach über dem Kopf, Kleidungsstücke, ein sicheres Umfeld und Gesundheitsversorgung. Doch die Grundbedürfnisse gelten in großen Teilen der westlichen Welt als selbstverständlich. Warum halten sich Menschen an Besitztümern fest, oder sehen diese als Voraussetzung zum Glück an? 
-In der Reihe "Schon gewusst" informieren wir über Wissenswertes zum Thema Bücher. Und der mobile Reporter Philipp Bologna hat sich anlässlich des Europatages am 9. Mai in Eppan umgehört, was den Menschen zum Thema Identität einfällt.</desc>
-  </programme>
-  <programme start="20250508221000 +0200" stop="20250508223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250509180000 +0200" stop="20250509182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Minimalismus</sub-title>
