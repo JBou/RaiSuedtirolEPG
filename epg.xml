@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250510180000 +0200" stop="20250510182930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wer begleitet unsere Sportler:innen, wer organisiert Sportevents? Im Porträt die Sportmanager Georg Pircher und Marco Fontanesi, außerdem Gerhard Vanzi, der internationale Sportevents organisiert.
-Der Sport spielt für viele Bereiche der Südtiroler Wirtschaft eine große Rolle, daran besteht kein Zweifel, wenn sich dies auch nicht immer in exakten Zahlen messen lässt.
-Daher wirft Trend einen Blick auf Unternehmer und Manager, die hinter erfolgreichen Sportlern stehen und sie in ihrer Karriere begleiten und professionell beraten. 
-Aber nicht nur hinter den Sportler:innen, auch hinter großen Sportveranstaltungen stehen Unternehmer und Manager, die diese Events erst möglich gemacht haben und ihre Lehrjahre in Südtirol genutzt haben, um heute auch international tätig zu sein. Dabei werden Sportler und Sportveranstaltungen gleichermaßen zu wertvollen Aushängeschildern und Marken gemacht.</desc>
-  </programme>
-  <programme start="20250510182900 +0200" stop="20250510185430 +0200" channel="Rai Südtirol">
-    <title>25 Jahre LanaArt</title>
-    <sub-title/>
-    <desc>Der Verein LanaArt feiert dieses Jahr sein 25-jähriges Bestehen. Er blickt auf ein Vierteljahrhundert zurück, in dem Kunst und Natur auf einzigartige Art und Weise miteinander verbunden wurden. Organisatoren und Künstler:innen stellen das Herzstück des Vereins vor, den Skulpturenweg Lana, der im Laufe der Jahre ständig gewachsen ist. LanaArt bezieht aber auch Literat:innen mit ein, die sich mit dem Thema Natur und Kunst beschäftigen.</desc>
-  </programme>
-  <programme start="20250510200000 +0200" stop="20250510202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250510202100 +0200" stop="20250510202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250510202500 +0200" stop="20250510205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Der Tages-Club in Meran, die überwundene Depression eines jungen Mannes, das tägliche Meditieren und der V-Markt der Verbraucherzentrale sind Themen dieser Sendung.
-
-Menschen mit psychischen Problemen brauchen oft Unterstützung, um den Alltag zu bewältigen. Vor rund 30 Jahren wurde in Meran der Tagesclub gegründet, der erste seiner Art in Südtirol.
-Sein dürfen, wie ich bin - dieser Satz half dem jungen Emanuel Gemassmer, als er 18jährig an einer Depression erkrankte. Heute, vier Jahre später, unterrichtet er in einer Oberschule in Schlanders und versucht dem Thema "Jugend und psychische Gesundheit" viel Platz einzuräumen.
-Ein Weg zur mentalen Gesundheit führt über die Meditation, davon ist Pater Plazidus überzeugt. Seit 55 Jahren meditiert der Benediktiner aus Muri Gries täglich und beobachtet dabei seinen Atem.
-Trödelläden, Flohmärkte, Second-Hand-Shops werden zunehmend beliebter, weil Gefühle angeregt und Erinnerungen geweckt werden. Seit der V-Markt, der Second-Hand-Laden der Verbraucherzentrale ins Stadtzentrum gezogen ist, herrscht hier ein reges Kommen und Gehen.</desc>
-  </programme>
-  <programme start="20250510221000 +0200" stop="20250510223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250511200000 +0200" stop="20250511202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
