@@ -4,28 +4,4 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250511200000 +0200" stop="20250511202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250511202100 +0200" stop="20250511204530 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Männliche Mentoren sind wichtige Vorbilder, der Party-Bus Südtirol vom Forum Prävention, "Message on a bottle" - Jugendliche gestalten Mehrwegflaschen mit FairTrade-Botschaften.
-
-Ob auf dem Sportplatz oder im sozialen Umfeld - junge Männer leisten einen wertvollen Beitrag als Vorbilder und helfen so Jugendlichen, ihre Potentiale zu entfalten. Wir haben Hockey-Coach Benjamin beim Training begleitet und Jugendarbeiter Phillip bei der Arbeit besucht.
-Seit vier Monaten tourt eine mobile Disco durch viele kleine Dörfer Südtirols. Ziel der Aktion ist es, Jugendlichen eine unbeschwerte Freizeitmöglichkeit zu bieten, die sie zusammenbringt. Nach den Auswirkungen von Corona eine dringende Maßnahme.
-Die Südtiroler Weltläden und die OEW veranstalten auch heuer wieder den FairTrend Design Contest, um Jugendliche zu sensibilisieren. Dieses Jahr stand die kreative Gestaltung einer wiederverwendbaren Flasche im Mittelpunkt. Auch Schüler:innen der Mittelschule Brixen beteiligten sich und setzten mit ihren Designs ein Zeichen für Nachhaltigkeit und soziale Gerechtigkeit. Klick schaute den jungen Kreativen bei der Gestaltung ihrer "Message on a bottle" über die Schulter.</desc>
-  </programme>
-  <programme start="20250511204500 +0200" stop="20250511204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250511221000 +0200" stop="20250511223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
 </tv>
