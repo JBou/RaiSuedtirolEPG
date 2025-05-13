@@ -4,4 +4,171 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
+  <programme start="20250513200000 +0200" stop="20250513202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250513202000 +0200" stop="20250513203430 +0200" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250513203500 +0200" stop="20250513204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Zwei Südtiroler Derby stehen am letzten Spieltag in der Fußball-Oberliga auf dem Programm: Tabellenführer Obermais empfängt auf der Lahn St. Georgen, während St. Pauls in Rungg auf den Bozner FC trifft. In der Landesliga sind noch drei Runden ausständig: Als Top-Match gilt das Pusterer Duell Ahrntal gegen Bruneck.</desc>
+  </programme>
+  <programme start="20250513221000 +0200" stop="20250513223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250514200000 +0200" stop="20250514202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250514202000 +0200" stop="20250514204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Was muss man bei einer Onlinebuchung beachten? Wie lange müssen Dokumente aufbewahrt werden? Welche Regeln gelten in Südtirol für Dashcams, die Autokameras am Armaturenbrett?
+
+Worin unterscheiden sich Angeld und Akkonto - und habe ich ein Rücktrittsrecht? Pluspunkt liefert Antworten auf viele Fragen rund ums Verreisen und zeigt, wie man bei Reklamationen richtig vorgeht.
+Auch zuhause kann's kompliziert werden: Wer den Überblick über seine Unterlagen behalten will, sollte wissen, welche Dokumente wie lange aufbewahrt werden müssen - besonders bei Garantiefällen oder amtlichen Kontrollen.
+Technisch wird’s mit dem Thema Dashcams, den Kameras auf dem Armaturenbrett im Auto: Welche Regeln gelten in Südtirol und wie steht es um den Datenschutz?
+Zum Abschluss führt die Sendung ins Sarntal: Ein Blick auf die traditionsreiche Gemeinde Sarnthein, bekannt für Lebensqualität, Innovationsgeist und echte Unikate wie die Sarnar Toppar.</desc>
+  </programme>
+  <programme start="20250514221000 +0200" stop="20250514223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250515200000 +0200" stop="20250515202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250515202000 +0200" stop="20250515204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Angst versus Mut</sub-title>
+    <desc>Mut tut gut! Doch es fällt schwer, mutig zu sein, wenn einen die Angst hindern will, etwas zu wagen. Mut und Angst sollten sich die Waage halten. Es moderiert Magdalena Oberstaller.
+
+Im Südtirol Magazin zeigen wir, dass Mut und Angst eine innere Spannungseinheit bilden. 
+Nur in ihrem Zusammenspiel schützen sie uns vor unverantwortlichem Leichtsinn.
+In der Reihe "Bildung real" steht das Motto „Von der Theorie in die Praxis“ im Fokus: Wie funktioniert Praxisunterreicht und welche Rolle spielt K.I. im Unterricht?  
+In der Rubrik "Wiedersehen" sind wir hingegen dem Gletscherschwund auf der Spur und zeigen einen Ausschnitt aus "Klimaindikator Gletscher".</desc>
+  </programme>
+  <programme start="20250515213000 +0200" stop="20250515215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nach dem Auswärtsspiel in Pisa trifft der FC Südtirol am Dienstag - am letzten Meisterschaftsspieltag der Serie B - zu Hause auf Bari. Die Weiß-Roten hatten bisher eine besonders schwierige Saison. 
+Inzwischen hat für die Eishockey-Nationalmannschaft die Sommerpause begonnen. Nach der WM in Rumänien blickt sie schon voraus auf die Olympischen Spiele 2026. Die sind auch für die italienische Para-Hockey-Auswahl - mit vielen Südtirolern im Kader - das Highlight des nächsten Winters.</desc>
+  </programme>
+  <programme start="20250515221000 +0200" stop="20250515223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250516180000 +0200" stop="20250516182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Angst versus Mut</sub-title>
+    <desc>Mut tut gut! Doch es fällt schwer, mutig zu sein, wenn einen die Angst hindern will, etwas zu wagen. Mut und Angst sollten sich die Waage halten. Es moderiert Magdalena Oberstaller.
+
+Im Südtirol Magazin zeigen wir, dass Mut und Angst eine innere Spannungseinheit bilden. 
+Nur in ihrem Zusammenspiel schützen sie uns vor unverantwortlichem Leichtsinn.
+In der Reihe "Bildung real" steht das Motto „Von der Theorie in die Praxis“ im Fokus: Wie funktioniert Praxisunterreicht und welche Rolle spielt K.I. im Unterricht?  
+In der Rubrik "Wiedersehen" sind wir hingegen dem Gletscherschwund auf der Spur und zeigen einen Ausschnitt aus "Klimaindikator Gletscher".</desc>
+  </programme>
+  <programme start="20250516182900 +0200" stop="20250516185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Nach dem Auswärtsspiel in Pisa trifft der FC Südtirol am Dienstag - am letzten Meisterschaftsspieltag der Serie B - zu Hause auf Bari. Die Weiß-Roten hatten bisher eine besonders schwierige Saison. 
+Inzwischen hat für die Eishockey-Nationalmannschaft die Sommerpause begonnen. Nach der WM in Rumänien blickt sie schon voraus auf die Olympischen Spiele 2026. Die sind auch für die italienische Para-Hockey-Auswahl - mit vielen Südtirolern im Kader - das Highlight des nächsten Winters.</desc>
+  </programme>
+  <programme start="20250516200000 +0200" stop="20250516202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250516202100 +0200" stop="20250516211527 +0200" channel="Rai Südtirol">
+    <title>Stilfser Joch</title>
+    <sub-title>Kreuzweg des Friedens</sub-title>
+    <desc>Vom einstigen Kriegsschauplatz an der Ortlerfront hat sich der Pass zu einem Ort der Begegnung entwickelt, wo sich unterschiedlichste Wege kreuzen. Menschen erzählen ihre Geschichten.
+
+Am Stilfser Joch begegnen sich Gegenwart und Vergangenheit. Die Straße, die vor genau 200 Jahren unter Österreich-Ungarn gebaut wurde, gilt als Wunder der Ingenieurskunst.
+Im Ersten Weltkrieg, waren die Gipfel rund um das Stilfser Joch blutig umkämpft. Noch heute werden im Eis sowohl Waffen und Munition als auch Geschirr und Kleidungsstücke der Soldaten gefunden. Ein Protagonist des Films, Mario, spürt diesen Funden nach. Seine Geschichte ist eine von vielen aus der Region. Ob Försterin oder Hotelier, Schamane, Radsportler oder Skiläufer - das Stilfser Joch ist reich an Schicksalen und Erinnerungen.</desc>
+  </programme>
+  <programme start="20250516211500 +0200" stop="20250516215637 +0200" channel="Rai Südtirol">
+    <title>Nationalpark Stilfser Joch</title>
+    <sub-title>Erstaunliche Vielfalt der Natur</sub-title>
+    <desc>Die Landschaft wirkt auf den ersten Blick karg - doch der Nationalpark Stilfser Joch besticht durch seine erstaunliche Vielfalt. Von der Ortlergruppe mit ihrem Panzer aus Eis verzweigen sich mehrere Bergketten, aber auch blühende Täler. Die Gipfel des Parks sind schroff und ragen nicht selten über 3000 Meter hoch in den Himmel.
+Mensch und Natur haben hier schon immer in enger Wechselwirkung gelebt. Diese Beziehung schlägt sich in der Bewirtschaftung des Gebietes nieder.
+Der Nationalpark versteht sich als Refugium, als Rückzugsort für Mensch und Tier. Einige Arten kehren zurück - der Bartgeier beispielsweise, der über Jahrzehnte verschwunden war.
+Von den Gletschern bis in die klimatisch begünstigten Niederungen ist der Nationalpark Stilfser Joch eine Modellregion. Heute wird er nicht mehr vom Staat, sondern vom Land verwaltet. Die Filmemacher Marco Polo und Thomas Vonmetz stellen uns dieses einzigartige Schutzgebiet im Westen Südtirols in eindrucksvollen Bildern vor.</desc>
+  </programme>
+  <programme start="20250516221000 +0200" stop="20250516223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250517180000 +0200" stop="20250517185900 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Das aktuelle Stück "Unerhört" der Seniorentheatergruppe Überholsspur, die erfolgreiche Südtiroler Dramatikerin Miriam Unterthiner, die aktuelle Ausstellung in der Festung Franzensfeste.
+"Unerhört! Sex im Alter ein Tabu?" So heißt die aktuelle Eigenproduktion der Seniorentheatergruppe des Südtiroler Theaterverbandes. Für die vier Darstellerinnen und den Darsteller ist das Thema jedoch kein Tabu.
+Gleich mehrere Auszeichnungen hat die aus Latzfons stammende und in Wien lebende Dramatikerin Miriam Unterthiner heuer erhalten. Für ihr Stück "Blutbrot" wurde sie mit dem Kleist-Förderpreis und mit dem Literaturpreis der Universität Innsbruck ausgezeichnet. Ihr Stück "mundtot" wurde ebenfalls prämiert. Demnächst wird am Tiroler Landestheater ihr Stück "Vaterzunge" uraufgeführt. 
+Das Antiquariat der Buchhandlung Alte Mühle in Meran hat Ende April seine Tore geschlossen. Damit geht ein Stück Lese-Kultur zu Ende. 
+Wir besuchen außerdem die Ausstellung "Hitler entsorgen" in der Festung Franzensfeste und die Frühjahrsausstellung auf Schloss Kastelbell, die der Künstlerin Margareth Dorigatti gewidmet ist. 
+Zu Gast bei Moderator Alex Lechner sind die Theaterpädagogin und Regisseurin Alexandra Hofer und die Leiterin des Eck Museum in Bruneck, Lisa Leonie.</desc>
+  </programme>
+  <programme start="20250517200000 +0200" stop="20250517202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250517202100 +0200" stop="20250517202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250517202500 +0200" stop="20250517205430 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - die Reportage</title>
+    <sub-title>Sonne auf der Haut</sub-title>
+    <desc>Sonne tut unserer Haut gut, doch die UV-Strahlen können auch gefährlich werden: weißer Hautkrebs und Melanome können die Folge sein. Deshalb ist regelmäßige Kontrolle wichtig.
+
+Die Haut ist unser größtes Organ und misst bei Erwachsenen bis zu zwei Quadratmeter. Besonders im Sommer ist sie gefordert. UV-Strahlen dringen in die oberste Hautschicht ein, Pigmentzellen werden aktiviert, Melanin gebildet - die Haut bräunt sich. Ein Schutzmechanismus, der jedoch seine Grenzen hat.
+Vor allem die sonnenhungrigen Menschen in Südtirol sollten sich gut vor der Sonne schützen. Denn die Hautkrebsrate ist bei uns besonders hoch. Wie man weißen Hautkrebs rechtzeitig erkennt und wie man problematische Muttermale von harmlosen unterscheidet, das erklären zwei Dermatologen. 
+Harmlos hingegen sind Pigmentflecken auf der Hand. Wenn sie dennoch stören, kann man sie mit verschiedenen Methoden entfernen lassen. 
+Und schließlich räumen wir mit einigen Binsenweisheiten auf, zB dass man sich bei bewölktem Himmel nicht eincremen muss. Denn vor allem im Sommer sollte man die Sonnencreme immer dabeihaben. Eine Reportage von Jana Weissteiner und Ursula Oberschmied.</desc>
+  </programme>
+  <programme start="20250517221000 +0200" stop="20250517223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250518200000 +0200" stop="20250518202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250518202100 +0200" stop="20250518205030 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Heiner Oberrauch</sub-title>
+    <desc>Er zählt zu den prägendsten Unternehmerpersönlichkeiten Südtirols. Oberrauch erzählt über seine Leidenschaft für Sport, Mode, Wein und Käse, aber auch über sein soziales Engagement.
+
+Bereits mit 19 Jahren übernahm er mit seinem Bruder das Sportfachgeschäft "Sportler" unter den Bozner Lauben. Seine Unternehmen Oberalp und Salewa formte er zu einem der führenden Anbieter im internationalen Outdoor- und Bergsportsektor. 
+Als Präsident des Unternehmerverbandes stellte er Weichen für die wirtschaftliche Entwicklung unseres Landes. 
+Im Gespräch mit Markus Frings gibt der gebürtige Bozner Einblick in sein facettenreiches Leben - von seiner Leidenschaft für Mode, Wein und Käse bis hin zu seinem sozialen Engagement, etwa für das Winterhaus für Obdachlose oder das Haus der Familie am Ritten. Aber auch über persönliche Rückschläge spricht Oberrauch offen.</desc>
+  </programme>
+  <programme start="20250518205000 +0200" stop="20250518205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250518221000 +0200" stop="20250518223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
 </tv>
