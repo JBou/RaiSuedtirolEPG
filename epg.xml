@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250513200000 +0200" stop="20250513202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250513202000 +0200" stop="20250513203430 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250513203500 +0200" stop="20250513204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Zwei Südtiroler Derby stehen am letzten Spieltag in der Fußball-Oberliga auf dem Programm: Tabellenführer Obermais empfängt auf der Lahn St. Georgen, während St. Pauls in Rungg auf den Bozner FC trifft. In der Landesliga sind noch drei Runden ausständig: Als Top-Match gilt das Pusterer Duell Ahrntal gegen Bruneck.</desc>
-  </programme>
-  <programme start="20250513221000 +0200" stop="20250513223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250514200000 +0200" stop="20250514202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -38,6 +18,11 @@ Worin unterscheiden sich Angeld und Akkonto - und habe ich ein Rücktrittsrecht?
 Auch zuhause kann's kompliziert werden: Wer den Überblick über seine Unterlagen behalten will, sollte wissen, welche Dokumente wie lange aufbewahrt werden müssen - besonders bei Garantiefällen oder amtlichen Kontrollen.
 Technisch wird’s mit dem Thema Dashcams, den Kameras auf dem Armaturenbrett im Auto: Welche Regeln gelten in Südtirol und wie steht es um den Datenschutz?
 Zum Abschluss führt die Sendung ins Sarntal: Ein Blick auf die traditionsreiche Gemeinde Sarnthein, bekannt für Lebensqualität, Innovationsgeist und echte Unikate wie die Sarnar Toppar.</desc>
+  </programme>
+  <programme start="20250514210600 +0200" stop="20250514212100 +0200" channel="Rai Südtirol">
+    <title>Gemeindewahl 2025</title>
+    <sub-title>Stichwahldebatte Meran</sub-title>
+    <desc/>
   </programme>
   <programme start="20250514221000 +0200" stop="20250514223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
