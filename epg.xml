@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250515200000 +0200" stop="20250515202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250515202000 +0200" stop="20250515204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Angst versus Mut</sub-title>
-    <desc>Mut tut gut! Doch es fällt schwer, mutig zu sein, wenn einen die Angst hindern will, etwas zu wagen. Mut und Angst sollten sich die Waage halten. Es moderiert Magdalena Oberstaller.
-
-Im Südtirol Magazin zeigen wir, dass Mut und Angst eine innere Spannungseinheit bilden. 
-Nur in ihrem Zusammenspiel schützen sie uns vor unverantwortlichem Leichtsinn.
-In der Reihe "Bildung real" steht das Motto „Von der Theorie in die Praxis“ im Fokus: Wie funktioniert Praxisunterreicht und welche Rolle spielt K.I. im Unterricht?  
-In der Rubrik "Wiedersehen" sind wir hingegen dem Gletscherschwund auf der Spur und zeigen einen Ausschnitt aus "Klimaindikator Gletscher".</desc>
-  </programme>
-  <programme start="20250515213000 +0200" stop="20250515215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nach dem Auswärtsspiel in Pisa trifft der FC Südtirol am Dienstag - am letzten Meisterschaftsspieltag der Serie B - zu Hause auf Bari. Die Weiß-Roten hatten bisher eine besonders schwierige Saison. 
-Inzwischen hat für die Eishockey-Nationalmannschaft die Sommerpause begonnen. Nach der WM in Rumänien blickt sie schon voraus auf die Olympischen Spiele 2026. Die sind auch für die italienische Para-Hockey-Auswahl - mit vielen Südtirolern im Kader - das Highlight des nächsten Winters.</desc>
-  </programme>
-  <programme start="20250515221000 +0200" stop="20250515223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250516180000 +0200" stop="20250516182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Angst versus Mut</sub-title>
@@ -127,6 +101,195 @@ Im Gespräch mit Markus Frings gibt der gebürtige Bozner Einblick in sein facet
     <desc/>
   </programme>
   <programme start="20250518221000 +0200" stop="20250518223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250519180000 +0200" stop="20250519181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Obermais und Partschins stehen sich im Finale des Landespokal gegenüber. Die Meraner wollen nach dem Meistertitel und dem Aufstieg in die Serie D auch den Cup holen. 
+In der Landesliga könnte am vorletzten Meisterschafts-Spieltag die Entscheidung im Aufstiegskampf fallen: Naturns ist in St. Christina bei Gröden zu Gast, Ahrntal trifft hingegen auswärts auf Terlan.</desc>
+  </programme>
+  <programme start="20250519181400 +0200" stop="20250519182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Araber Pferde</sub-title>
+    <desc>Ivans große Leidenschaft sind die Araber Pferde. Mit seinem ersten Araber Freddy Feuerstein hat er viele erfolgreiche Turniere bestritten, nach ihm ist auch sein Gestüt "Feuerstein" benannt. Kürzlich ist ein kleines Fohlen auf die Welt gekommen. 
+Pfote-Moderator Stefan entdeckt aber auch noch eine andere große Leidenschaft von Ivan: Er bringt einigen seiner Pferde Zirkuskunststücke bei, die er vor kleinem Publikum vorführt.</desc>
+  </programme>
+  <programme start="20250519182900 +0200" stop="20250519185730 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - die Reportage</title>
+    <sub-title>Sonne auf der Haut</sub-title>
+    <desc>Sonne tut unserer Haut gut, doch die UV-Strahlen können auch gefährlich werden: weißer Hautkrebs und Melanome können die Folge sein. Deshalb ist regelmäßige Kontrolle wichtig. Die Haut ist unser größtes Organ und misst bei Erwachsenen bis zu zwei Quadratmeter. Besonders im Sommer ist sie gefordert. UV-Strahlen dringen in die oberste Hautschicht ein, Pigmentzellen werden aktiviert, Melanin gebildet - die Haut bräunt sich. Ein Schutzmechanismus, der jedoch seine Grenzen hat.
+Vor allem die sonnenhungrigen Menschen in Südtirol sollten sich gut vor der Sonne schützen. Denn die Hautkrebsrate ist bei uns besonders hoch. Wie man weißen Hautkrebs rechtzeitig erkennt und wie man problematische Muttermale von harmlosen unterscheidet, das erklären zwei Dermatologen. 
+Harmlos hingegen sind Pigmentflecken auf der Hand. Wenn sie dennoch stören, kann man sie mit verschiedenen Methoden entfernen lassen. 
+Und schließlich räumen wir mit einigen Binsenweisheiten auf, zB dass man sich bei bewölktem Himmel nicht eincremen muss. Denn vor allem im Sommer sollte man die Sonnencreme immer dabeihaben. Eine Reportage von Jana Weissteiner und Ursula Oberschmied.</desc>
+  </programme>
+  <programme start="20250519200000 +0200" stop="20250519202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250519202000 +0200" stop="20250519220000 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Nationalismus - warum schon wieder?</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Ja, Nationalismus. Er ist wieder da. Mit der Angst, Wohlstand und Identität zu verlieren. Mit Fake Facts. 100 Jahre nach Ettore Tolomei &amp; Co. sind die alten Vorbilder quicklebendig. 
+
+In einem Filmporträt seziert Audrey Schwarz die politische Fantasie von Ettore Tolomei: Er bleibt der Erfinder des Alto Adige. 
+In die Runde fragen wir: Wie zeigt sich Nationalismus heute? Wie gefährlich ist er? Ist der Begriff Heimat schon verdächtig, ist das Milch-Emoji rechtextrem? Es sprechen der Historiker Hannes Obermair, der Zukunftsforscher Roland Benedikter, SH-Vorsitzender Alexander von Walther und Simonetta Nardin, Chefredakteurin von salto.bz. 
+Im Interview: Filmemacherin Audrey Schwarz, Karin Dalla Torre, Direktorin des Landesdenkmalamts, und Sozialpädagoge Thomas Kobler. 
+Gabriele Crepaz moderiert live aus dem Ansitz Rottenbuch, dem Sitz des Landesdenkmalamts in Bozen.</desc>
+  </programme>
+  <programme start="20250519221000 +0200" stop="20250519223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250520200000 +0200" stop="20250520202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250520202000 +0200" stop="20250520203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250520203500 +0200" stop="20250520204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Obermais und Partschins stehen sich im Finale des Landespokal gegenüber. Die Meraner wollen nach dem Meistertitel und dem Aufstieg in die Serie D auch den Cup holen. 
+In der Landesliga könnte am vorletzten Meisterschafts-Spieltag die Entscheidung im Aufstiegskampf fallen: Naturns ist in St. Christina bei Gröden zu Gast, Ahrntal trifft hingegen auswärts auf Terlan.</desc>
+  </programme>
+  <programme start="20250520221000 +0200" stop="20250520223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250521200000 +0200" stop="20250521202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250521202000 +0200" stop="20250521204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Situation der Minderheitensprache Galicisch, der Südtiroler Musiker Alan Preims in Irland, Günther Rautz über die Ergebnisse von Minority Rights Lecture, der Kampf um die Rechte indigener Frauen.
+
+Im Nordwesten Spaniens, in Galicien, wird die Minderheitensprache Galicisch gesprochen. Sie wird in Schulen unterrichtet und über Medien und Kulturinitiativen verbreitet. Minet hat sich vor Ort ein Bild über die Geschichte und die Zukunft dieser Minderheitensprache gemacht. 
+Minet hat außerdem den Südtiroler Musiker Alan Preims in der irischen Kulturstadt Galway besucht.  Er ist vor vielen Jahren nach Irland gezogen und erzählt über seine Liebe zur irischen Musik und zur irischen Sprache, die nur noch von wenigen Menschen gesprochen wird. 
+Der Leiter des Institutes für Minderheitenrecht an der Eurac, Günther Rautz, spricht mit Moderatorin Christina Khuen über die Ergebnisse der jährlichen Minority Rights Lecture. 
+In der Reihe "Tribal Voices" berichten wir über Jéssica Tupinambá vom Volk der Tupinambá in Brasilien und über ihre führende Rolle im Kampf um Rechte der indigenen Frauen.</desc>
+  </programme>
+  <programme start="20250521221000 +0200" stop="20250521223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250522200000 +0200" stop="20250522202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250522202000 +0200" stop="20250522204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Endlich in Rente!</sub-title>
+    <desc>Der Eintritt in den Ruhestand markiert einen bedeutsamen Übergang im Leben. Nach jahrzehntelanger Arbeit steht nun eine Phase der Freiheit, der Selbstbestimmung und der neuen Möglichkeiten bevor. 
+Doch der Übergang vom Arbeitsleben in den Ruhestand birgt auch Herausforderungen und Fragen. Wie gestaltet man diesen neuen Lebensabschnitt sinnvoll und erfüllend? 
+In der Reihe "So isst Euregio" besuchen wir Michael Ploner in seinem 4-Hauben-Gourmetrestaurant s'kammerli in Nauders. 
+Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Pension - Ende der Dienstzeit". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250522221000 +0200" stop="20250522223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250523180000 +0200" stop="20250523182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Endlich in Rente!</sub-title>
+    <desc>Der Eintritt in den Ruhestand markiert einen bedeutsamen Übergang im Leben. Nach jahrzehntelanger Arbeit steht nun eine Phase der Freiheit, der Selbstbestimmung und der neuen Möglichkeiten bevor. 
+Doch der Übergang vom Arbeitsleben in den Ruhestand birgt auch Herausforderungen und Fragen. Wie gestaltet man diesen neuen Lebensabschnitt sinnvoll und erfüllend? 
+In der Reihe "So isst Euregio" besuchen wir Michael Ploner in seinem 4-Hauben-Gourmetrestaurant s'kammerli in Nauders. 
+Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Pension - Ende der Dienstzeit". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250523182900 +0200" stop="20250523185830 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Heiner Oberrauch</sub-title>
+    <desc>Er zählt zu den prägendsten Unternehmerpersönlichkeiten Südtirols. Oberrauch erzählt über seine Leidenschaft für Sport, Mode, Wein und Käse, aber auch über sein soziales Engagement. Bereits mit 19 Jahren übernahm er mit seinem Bruder das Sportfachgeschäft "Sportler" unter den Bozner Lauben. Seine Unternehmen Oberalp und Salewa formte er zu einem der führenden Anbieter im internationalen Outdoor- und Bergsportsektor. 
+Als Präsident des Unternehmerverbandes stellte er Weichen für die wirtschaftliche Entwicklung unseres Landes. 
+Im Gespräch mit Markus Frings gibt der gebürtige Bozner Einblick in sein facettenreiches Leben - von seiner Leidenschaft für Mode, Wein und Käse bis hin zu seinem sozialen Engagement, etwa für das Winterhaus für Obdachlose oder das Haus der Familie am Ritten. Aber auch über persönliche Rückschläge spricht Oberrauch offen.</desc>
+  </programme>
+  <programme start="20250523200000 +0200" stop="20250523202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250523202000 +0200" stop="20250523214900 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title>Leben, Lachen und Lieder im Sudwerk-Keller</sub-title>
+    <desc>Eine Sendung voller berührender Geschichten mit Autor Meinhard Feichter, dem Duo Verena Huber &amp; Robert Benedetti &amp; Äffchen Bobby und mit Social-Media-Comedian Jakob Messner.
+
+Der ehemalige Buchhändler Meinhard Feichter erzählt von seinem Leben mit einer unheilbaren Krankheit und vom Zauber des Schreibens - und präsentiert auf der Bühne sein "Tangram des Lebens".
+Mit viel Witz und einem frechen Äffchen kommt das Duo Verena Huber &amp; Robert Benedetti auf die Bühne. Seit 25 Jahren begeistern sie mit "Bobby" Kinder und Familien im ganzen Land - heute feiern sie Jubiläum im Keller.
+Aus Gufidaun kommt Jakob Messner, Social-Media-Comedian der Stunde. Als "Windschnur" bringt er Alltagsszenen aus Südtirol auf den Punkt - zwischen Bildschirm und Bühne findet er gerade seinen ganz eigenen Ton.
+Musikalisch wird es gefühlvoll mit der jungen Singer-Songwriterin Bita aus Neumarkt und groovig mit dem Indie-Duo Since11, die mit ihren lässigen Surfer-Vibes das Publikum mitreißen.
+Wie immer mit dabei: die sensationelle Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Dominik Told.</desc>
+  </programme>
+  <programme start="20250523214900 +0200" stop="20250523215651 +0200" channel="Rai Südtirol">
+    <title>Der Puppenspieler Gernot Nagelschmied</title>
+    <sub-title/>
+    <desc>Der Kärntner Gernot Nagelschmied, gelernter Programmierer, lebt heute in Bruneck. Er
+hat seinen Job an den Nagel gehängt um Puppenspieler zu werden, ein nicht alltäglicher
+Männerberuf. Er ist mit seinem Puppentheater "namlos" im In- und Ausland unterwegs.
+Seine Puppen sowie sein Bühnenbild fertigt er selber, und auch seine Theaterstücke
+schreibt er zum Teil selbst. Er liebt Märchen und lässt damit nicht nur Kinderherzen
+höherschlagen.</desc>
+  </programme>
+  <programme start="20250523221000 +0200" stop="20250523223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250524180000 +0200" stop="20250524182930 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Der Tages-Club in Meran, die überwundene Depression eines jungen Mannes, das tägliche Meditieren und der V-Markt der Verbraucherzentrale sind Themen dieser Sendung.
+
+Menschen mit psychischen Problemen brauchen oft Unterstützung, um den Alltag zu bewältigen. Vor rund 30 Jahren wurde in Meran der Tagesclub gegründet, der erste seiner Art in Südtirol.
+Sein dürfen, wie ich bin - dieser Satz half dem jungen Emanuel Gemassmer, als er 18jährig an einer Depression erkrankte. Heute, vier Jahre später, unterrichtet er in einer Oberschule in Schlanders und versucht dem Thema "Jugend und psychische Gesundheit" viel Platz einzuräumen.
+Ein Weg zur mentalen Gesundheit führt über die Meditation, davon ist Pater Plazidus überzeugt. Seit 55 Jahren meditiert der Benediktiner aus Muri Gries täglich und beobachtet dabei seinen Atem.
+Trödelläden, Flohmärkte, Second-Hand-Shops werden zunehmend beliebter, weil Gefühle angeregt und Erinnerungen geweckt werden. Seit der V-Markt, der Second-Hand-Laden der Verbraucherzentrale ins Stadtzentrum gezogen ist, herrscht hier ein reges Kommen und Gehen.</desc>
+  </programme>
+  <programme start="20250524182900 +0200" stop="20250524185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Was muss man bei einer Onlinebuchung beachten? Wie lange müssen Dokumente aufbewahrt werden? Welche Regeln gelten in Südtirol für Dashcams, die Autokameras am Armaturenbrett?
+
+Worin unterscheiden sich Angeld und Akkonto - und habe ich ein Rücktrittsrecht? Pluspunkt liefert Antworten auf viele Fragen rund ums Verreisen und zeigt, wie man bei Reklamationen richtig vorgeht.
+Auch zuhause kann's kompliziert werden: Wer den Überblick über seine Unterlagen behalten will, sollte wissen, welche Dokumente wie lange aufbewahrt werden müssen - besonders bei Garantiefällen oder amtlichen Kontrollen.
+Technisch wird’s mit dem Thema Dashcams, den Kameras auf dem Armaturenbrett im Auto: Welche Regeln gelten in Südtirol und wie steht es um den Datenschutz?
+Zum Abschluss führt die Sendung ins Sarntal: Ein Blick auf die traditionsreiche Gemeinde Sarnthein, bekannt für Lebensqualität, Innovationsgeist und echte Unikate wie die Sarnar Toppar.</desc>
+  </programme>
+  <programme start="20250524200000 +0200" stop="20250524202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250524202100 +0200" stop="20250524202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250524202500 +0200" stop="20250524205430 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Wo und wie leben unsere heimischen Spinnen? Zu Besuch in einer Südtiroler Büffelzucht. Vierbeiner, die dringend ein neues Zuhause suchen. Moderation: Christine Lasta.
+
+Zusammen mit einem Spinnenexperten begeben wir uns in die Natur, beobachten die heimischen Spinnen aus der Nähe und erfahren Interessantes über deren Lebensweise.
+Wasserbüffel sind zwar Rinder, sie unterscheiden sich aber von unseren heimischen Rindern durch ihr imposantes Aussehen und ihre unkomplizierte Haltung. Wir haben eine Büffelzucht besucht, wo ein geschlechtsreifer Bulle gerade für Nachwuchs sorgt.
+Weiters zeigen wir Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die dringend ein neues Zuhause suchen.</desc>
+  </programme>
+  <programme start="20250524221000 +0200" stop="20250524223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
