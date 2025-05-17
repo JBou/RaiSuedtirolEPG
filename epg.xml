@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250516180000 +0200" stop="20250516182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Angst versus Mut</sub-title>
-    <desc>Mut tut gut! Doch es fällt schwer, mutig zu sein, wenn einen die Angst hindern will, etwas zu wagen. Mut und Angst sollten sich die Waage halten. Es moderiert Magdalena Oberstaller.
-
-Im Südtirol Magazin zeigen wir, dass Mut und Angst eine innere Spannungseinheit bilden. 
-Nur in ihrem Zusammenspiel schützen sie uns vor unverantwortlichem Leichtsinn.
-In der Reihe "Bildung real" steht das Motto „Von der Theorie in die Praxis“ im Fokus: Wie funktioniert Praxisunterreicht und welche Rolle spielt K.I. im Unterricht?  
-In der Rubrik "Wiedersehen" sind wir hingegen dem Gletscherschwund auf der Spur und zeigen einen Ausschnitt aus "Klimaindikator Gletscher".</desc>
-  </programme>
-  <programme start="20250516182900 +0200" stop="20250516185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Nach dem Auswärtsspiel in Pisa trifft der FC Südtirol am Dienstag - am letzten Meisterschaftsspieltag der Serie B - zu Hause auf Bari. Die Weiß-Roten hatten bisher eine besonders schwierige Saison. 
-Inzwischen hat für die Eishockey-Nationalmannschaft die Sommerpause begonnen. Nach der WM in Rumänien blickt sie schon voraus auf die Olympischen Spiele 2026. Die sind auch für die italienische Para-Hockey-Auswahl - mit vielen Südtirolern im Kader - das Highlight des nächsten Winters.</desc>
-  </programme>
-  <programme start="20250516200000 +0200" stop="20250516202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250516202100 +0200" stop="20250516211527 +0200" channel="Rai Südtirol">
-    <title>Stilfser Joch</title>
-    <sub-title>Kreuzweg des Friedens</sub-title>
-    <desc>Vom einstigen Kriegsschauplatz an der Ortlerfront hat sich der Pass zu einem Ort der Begegnung entwickelt, wo sich unterschiedlichste Wege kreuzen. Menschen erzählen ihre Geschichten.
-
-Am Stilfser Joch begegnen sich Gegenwart und Vergangenheit. Die Straße, die vor genau 200 Jahren unter Österreich-Ungarn gebaut wurde, gilt als Wunder der Ingenieurskunst.
-Im Ersten Weltkrieg, waren die Gipfel rund um das Stilfser Joch blutig umkämpft. Noch heute werden im Eis sowohl Waffen und Munition als auch Geschirr und Kleidungsstücke der Soldaten gefunden. Ein Protagonist des Films, Mario, spürt diesen Funden nach. Seine Geschichte ist eine von vielen aus der Region. Ob Försterin oder Hotelier, Schamane, Radsportler oder Skiläufer - das Stilfser Joch ist reich an Schicksalen und Erinnerungen.</desc>
-  </programme>
-  <programme start="20250516211500 +0200" stop="20250516215637 +0200" channel="Rai Südtirol">
-    <title>Nationalpark Stilfser Joch</title>
-    <sub-title>Erstaunliche Vielfalt der Natur</sub-title>
-    <desc>Die Landschaft wirkt auf den ersten Blick karg - doch der Nationalpark Stilfser Joch besticht durch seine erstaunliche Vielfalt. Von der Ortlergruppe mit ihrem Panzer aus Eis verzweigen sich mehrere Bergketten, aber auch blühende Täler. Die Gipfel des Parks sind schroff und ragen nicht selten über 3000 Meter hoch in den Himmel.
-Mensch und Natur haben hier schon immer in enger Wechselwirkung gelebt. Diese Beziehung schlägt sich in der Bewirtschaftung des Gebietes nieder.
-Der Nationalpark versteht sich als Refugium, als Rückzugsort für Mensch und Tier. Einige Arten kehren zurück - der Bartgeier beispielsweise, der über Jahrzehnte verschwunden war.
-Von den Gletschern bis in die klimatisch begünstigten Niederungen ist der Nationalpark Stilfser Joch eine Modellregion. Heute wird er nicht mehr vom Staat, sondern vom Land verwaltet. Die Filmemacher Marco Polo und Thomas Vonmetz stellen uns dieses einzigartige Schutzgebiet im Westen Südtirols in eindrucksvollen Bildern vor.</desc>
-  </programme>
-  <programme start="20250516221000 +0200" stop="20250516223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250517180000 +0200" stop="20250517185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -290,6 +248,30 @@ Wasserbüffel sind zwar Rinder, sie unterscheiden sich aber von unseren heimisch
 Weiters zeigen wir Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die dringend ein neues Zuhause suchen.</desc>
   </programme>
   <programme start="20250524221000 +0200" stop="20250524223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250525200000 +0200" stop="20250525202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250525202100 +0200" stop="20250525205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Zipline-Anlagen und leistungsstarke Drohnen aus Südtirol, eine Studie über weniger Fleischkonsum im Urlaub, Genforschung im Weinbau und Armin Torggler übers Landesmuseum Bergbau.
+
+In dieser Ausgabe werden zwei Südtiroler Start-Up-Unternehmen vorgestellt, die international konkurrenzfähig sind. Das eine Unternehmen stellt schlüsselfertige Zipline-Anlagen her, das andere leistungsstarke Drohnen. 
+Zudem präsentieren wir die Ergebnisse einer Studie der Freien Universität Bozen, die zeigt, wie man auch im Urlaub den Fleischkonsum reduzieren und damit Tiere und Klima schonen kann. 
+Schließlich geht es um ein Forschungsprojekt, das durch Genforschung den falschen Mehltau in Südtirols Rebanlagen bekämpft und den Einsatz von Pestiziden verringert. Studiogast diesmal ist Armin Torggler, wissenschaftlicher Kurator des Landesmuseums Bergbau.</desc>
+  </programme>
+  <programme start="20250525205000 +0200" stop="20250525205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250525221000 +0200" stop="20250525223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
