@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250517180000 +0200" stop="20250517185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Das aktuelle Stück "Unerhört" der Seniorentheatergruppe Überholsspur, die erfolgreiche Südtiroler Dramatikerin Miriam Unterthiner, die aktuelle Ausstellung in der Festung Franzensfeste.
-"Unerhört! Sex im Alter ein Tabu?" So heißt die aktuelle Eigenproduktion der Seniorentheatergruppe des Südtiroler Theaterverbandes. Für die vier Darstellerinnen und den Darsteller ist das Thema jedoch kein Tabu.
-Gleich mehrere Auszeichnungen hat die aus Latzfons stammende und in Wien lebende Dramatikerin Miriam Unterthiner heuer erhalten. Für ihr Stück "Blutbrot" wurde sie mit dem Kleist-Förderpreis und mit dem Literaturpreis der Universität Innsbruck ausgezeichnet. Ihr Stück "mundtot" wurde ebenfalls prämiert. Demnächst wird am Tiroler Landestheater ihr Stück "Vaterzunge" uraufgeführt. 
-Das Antiquariat der Buchhandlung Alte Mühle in Meran hat Ende April seine Tore geschlossen. Damit geht ein Stück Lese-Kultur zu Ende. 
-Wir besuchen außerdem die Ausstellung "Hitler entsorgen" in der Festung Franzensfeste und die Frühjahrsausstellung auf Schloss Kastelbell, die der Künstlerin Margareth Dorigatti gewidmet ist. 
-Zu Gast bei Moderator Alex Lechner sind die Theaterpädagogin und Regisseurin Alexandra Hofer und die Leiterin des Eck Museum in Bruneck, Lisa Leonie.</desc>
-  </programme>
-  <programme start="20250517200000 +0200" stop="20250517202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250517202100 +0200" stop="20250517202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250517202500 +0200" stop="20250517205430 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - die Reportage</title>
-    <sub-title>Sonne auf der Haut</sub-title>
-    <desc>Sonne tut unserer Haut gut, doch die UV-Strahlen können auch gefährlich werden: weißer Hautkrebs und Melanome können die Folge sein. Deshalb ist regelmäßige Kontrolle wichtig.
-
-Die Haut ist unser größtes Organ und misst bei Erwachsenen bis zu zwei Quadratmeter. Besonders im Sommer ist sie gefordert. UV-Strahlen dringen in die oberste Hautschicht ein, Pigmentzellen werden aktiviert, Melanin gebildet - die Haut bräunt sich. Ein Schutzmechanismus, der jedoch seine Grenzen hat.
-Vor allem die sonnenhungrigen Menschen in Südtirol sollten sich gut vor der Sonne schützen. Denn die Hautkrebsrate ist bei uns besonders hoch. Wie man weißen Hautkrebs rechtzeitig erkennt und wie man problematische Muttermale von harmlosen unterscheidet, das erklären zwei Dermatologen. 
-Harmlos hingegen sind Pigmentflecken auf der Hand. Wenn sie dennoch stören, kann man sie mit verschiedenen Methoden entfernen lassen. 
-Und schließlich räumen wir mit einigen Binsenweisheiten auf, zB dass man sich bei bewölktem Himmel nicht eincremen muss. Denn vor allem im Sommer sollte man die Sonnencreme immer dabeihaben. Eine Reportage von Jana Weissteiner und Ursula Oberschmied.</desc>
-  </programme>
-  <programme start="20250517221000 +0200" stop="20250517223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250518200000 +0200" stop="20250518202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
