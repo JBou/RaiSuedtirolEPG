@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250518200000 +0200" stop="20250518202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250518202100 +0200" stop="20250518205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Heiner Oberrauch</sub-title>
-    <desc>Er zählt zu den prägendsten Unternehmerpersönlichkeiten Südtirols. Oberrauch erzählt über seine Leidenschaft für Sport, Mode, Wein und Käse, aber auch über sein soziales Engagement.
-
-Bereits mit 19 Jahren übernahm er mit seinem Bruder das Sportfachgeschäft "Sportler" unter den Bozner Lauben. Seine Unternehmen Oberalp und Salewa formte er zu einem der führenden Anbieter im internationalen Outdoor- und Bergsportsektor. 
-Als Präsident des Unternehmerverbandes stellte er Weichen für die wirtschaftliche Entwicklung unseres Landes. 
-Im Gespräch mit Markus Frings gibt der gebürtige Bozner Einblick in sein facettenreiches Leben - von seiner Leidenschaft für Mode, Wein und Käse bis hin zu seinem sozialen Engagement, etwa für das Winterhaus für Obdachlose oder das Haus der Familie am Ritten. Aber auch über persönliche Rückschläge spricht Oberrauch offen.</desc>
-  </programme>
-  <programme start="20250518205000 +0200" stop="20250518205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250518221000 +0200" stop="20250518223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250519180000 +0200" stop="20250519181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
