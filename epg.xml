@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250519180000 +0200" stop="20250519181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Obermais und Partschins stehen sich im Finale des Landespokal gegenüber. Die Meraner wollen nach dem Meistertitel und dem Aufstieg in die Serie D auch den Cup holen. 
-In der Landesliga könnte am vorletzten Meisterschafts-Spieltag die Entscheidung im Aufstiegskampf fallen: Naturns ist in St. Christina bei Gröden zu Gast, Ahrntal trifft hingegen auswärts auf Terlan.</desc>
-  </programme>
-  <programme start="20250519181400 +0200" stop="20250519182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Araber Pferde</sub-title>
-    <desc>Ivans große Leidenschaft sind die Araber Pferde. Mit seinem ersten Araber Freddy Feuerstein hat er viele erfolgreiche Turniere bestritten, nach ihm ist auch sein Gestüt "Feuerstein" benannt. Kürzlich ist ein kleines Fohlen auf die Welt gekommen. 
-Pfote-Moderator Stefan entdeckt aber auch noch eine andere große Leidenschaft von Ivan: Er bringt einigen seiner Pferde Zirkuskunststücke bei, die er vor kleinem Publikum vorführt.</desc>
-  </programme>
-  <programme start="20250519182900 +0200" stop="20250519185730 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - die Reportage</title>
-    <sub-title>Sonne auf der Haut</sub-title>
-    <desc>Sonne tut unserer Haut gut, doch die UV-Strahlen können auch gefährlich werden: weißer Hautkrebs und Melanome können die Folge sein. Deshalb ist regelmäßige Kontrolle wichtig. Die Haut ist unser größtes Organ und misst bei Erwachsenen bis zu zwei Quadratmeter. Besonders im Sommer ist sie gefordert. UV-Strahlen dringen in die oberste Hautschicht ein, Pigmentzellen werden aktiviert, Melanin gebildet - die Haut bräunt sich. Ein Schutzmechanismus, der jedoch seine Grenzen hat.
-Vor allem die sonnenhungrigen Menschen in Südtirol sollten sich gut vor der Sonne schützen. Denn die Hautkrebsrate ist bei uns besonders hoch. Wie man weißen Hautkrebs rechtzeitig erkennt und wie man problematische Muttermale von harmlosen unterscheidet, das erklären zwei Dermatologen. 
-Harmlos hingegen sind Pigmentflecken auf der Hand. Wenn sie dennoch stören, kann man sie mit verschiedenen Methoden entfernen lassen. 
-Und schließlich räumen wir mit einigen Binsenweisheiten auf, zB dass man sich bei bewölktem Himmel nicht eincremen muss. Denn vor allem im Sommer sollte man die Sonnencreme immer dabeihaben. Eine Reportage von Jana Weissteiner und Ursula Oberschmied.</desc>
-  </programme>
-  <programme start="20250519200000 +0200" stop="20250519202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250519202000 +0200" stop="20250519220000 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Nationalismus - warum schon wieder?</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Ja, Nationalismus. Er ist wieder da. Mit der Angst, Wohlstand und Identität zu verlieren. Mit Fake Facts. 100 Jahre nach Ettore Tolomei &amp; Co. sind die alten Vorbilder quicklebendig. 
-
-In einem Filmporträt seziert Audrey Schwarz die politische Fantasie von Ettore Tolomei: Er bleibt der Erfinder des Alto Adige. 
-In die Runde fragen wir: Wie zeigt sich Nationalismus heute? Wie gefährlich ist er? Ist der Begriff Heimat schon verdächtig, ist das Milch-Emoji rechtextrem? Es sprechen der Historiker Hannes Obermair, der Zukunftsforscher Roland Benedikter, SH-Vorsitzender Alexander von Walther und Simonetta Nardin, Chefredakteurin von salto.bz. 
-Im Interview: Filmemacherin Audrey Schwarz, Karin Dalla Torre, Direktorin des Landesdenkmalamts, und Sozialpädagoge Thomas Kobler. 
-Gabriele Crepaz moderiert live aus dem Ansitz Rottenbuch, dem Sitz des Landesdenkmalamts in Bozen.</desc>
-  </programme>
-  <programme start="20250519221000 +0200" stop="20250519223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250520200000 +0200" stop="20250520202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
