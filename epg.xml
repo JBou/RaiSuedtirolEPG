@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250520200000 +0200" stop="20250520202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250520202000 +0200" stop="20250520203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250520203500 +0200" stop="20250520204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Obermais und Partschins stehen sich im Finale des Landespokal gegenüber. Die Meraner wollen nach dem Meistertitel und dem Aufstieg in die Serie D auch den Cup holen. 
-In der Landesliga könnte am vorletzten Meisterschafts-Spieltag die Entscheidung im Aufstiegskampf fallen: Naturns ist in St. Christina bei Gröden zu Gast, Ahrntal trifft hingegen auswärts auf Terlan.</desc>
-  </programme>
-  <programme start="20250520221000 +0200" stop="20250520223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250521200000 +0200" stop="20250521202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
