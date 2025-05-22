@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250521200000 +0200" stop="20250521202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250521202000 +0200" stop="20250521204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Situation der Minderheitensprache Galicisch, der Südtiroler Musiker Alan Preims in Irland, Günther Rautz über die Ergebnisse von Minority Rights Lecture, der Kampf um die Rechte indigener Frauen.
-
-Im Nordwesten Spaniens, in Galicien, wird die Minderheitensprache Galicisch gesprochen. Sie wird in Schulen unterrichtet und über Medien und Kulturinitiativen verbreitet. Minet hat sich vor Ort ein Bild über die Geschichte und die Zukunft dieser Minderheitensprache gemacht. 
-Minet hat außerdem den Südtiroler Musiker Alan Preims in der irischen Kulturstadt Galway besucht.  Er ist vor vielen Jahren nach Irland gezogen und erzählt über seine Liebe zur irischen Musik und zur irischen Sprache, die nur noch von wenigen Menschen gesprochen wird. 
-Der Leiter des Institutes für Minderheitenrecht an der Eurac, Günther Rautz, spricht mit Moderatorin Christina Khuen über die Ergebnisse der jährlichen Minority Rights Lecture. 
-In der Reihe "Tribal Voices" berichten wir über Jéssica Tupinambá vom Volk der Tupinambá in Brasilien und über ihre führende Rolle im Kampf um Rechte der indigenen Frauen.</desc>
-  </programme>
-  <programme start="20250521221000 +0200" stop="20250521223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250522200000 +0200" stop="20250522202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -152,6 +132,146 @@ Schließlich geht es um ein Forschungsprojekt, das durch Genforschung den falsch
     <desc/>
   </programme>
   <programme start="20250525221000 +0200" stop="20250525223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250526180000 +0200" stop="20250526181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Letzter Spieltag in der Fußball-Landesliga: Gröden und Ahrntal kämpfen noch um den Titelgewinn, die Ladiner empfangen in St. Christina den SV Lana, während Ahrntal Absteiger Riffian/Kuens zu Gast hat. Der SSV Bruneck ist hingegen in Kurtatsch bei Weinstraße Süd zu Gast.</desc>
+  </programme>
+  <programme start="20250526181400 +0200" stop="20250526183330 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Orientierungslauf</sub-title>
+    <desc>Ein kurzer Blick auf Karte und Kompass und schon laufen die Sportkids aus Innichen los. Sie finden zielsicher die orange-weißen Posten, die sie im Laufe des Rennens passieren und elektronisch abstempeln müssen. Welche Gasse oder welche Abkürzung im Wald sie dabei nehmen, das ist jedem selbst überlassen. Ein Sport, bei dem es um Orientierung, Ausdauer und Köpfchen geht.
+Anschließend Linda ist kein Fan von Blumenkohl. Doch Kochlehrerin Martina hat ein leckeres Rezept, bei dem der starke Geschmack des Blumenkohls in den Hintergrund tritt.</desc>
+  </programme>
+  <programme start="20250526183400 +0200" stop="20250526185830 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Männliche Mentoren sind wichtige Vorbilder, der Party-Bus Südtirol vom Forum Prävention, "Message on a bottle" - Jugendliche gestalten Mehrwegflaschen mit FairTrade-Botschaften.
+Ob auf dem Sportplatz oder im sozialen Umfeld - junge Männer leisten einen wertvollen Beitrag als Vorbilder und helfen so Jugendlichen, ihre Potentiale zu entfalten. Wir haben Hockey-Coach Benjamin beim Training begleitet und Jugendarbeiter Phillip bei der Arbeit besucht.
+Seit vier Monaten tourt eine mobile Disco durch viele kleine Dörfer Südtirols. Ziel der Aktion ist es, Jugendlichen eine unbeschwerte Freizeitmöglichkeit zu bieten, die sie zusammenbringt. Nach den Auswirkungen von Corona eine dringende Maßnahme.
+Die Südtiroler Weltläden und die OEW veranstalten auch heuer wieder den FairTrend Design Contest, um Jugendliche zu sensibilisieren. Dieses Jahr stand die kreative Gestaltung einer wiederverwendbaren Flasche im Mittelpunkt. Auch Schüler:innen der Mittelschule Brixen beteiligten sich und setzten mit ihren Designs ein Zeichen für Nachhaltigkeit und soziale Gerechtigkeit. Klick schaute den jungen Kreativen bei der Gestaltung ihrer "Message on a bottle" über die Schulter.</desc>
+  </programme>
+  <programme start="20250526200000 +0200" stop="20250526202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250526202000 +0200" stop="20250526211700 +0200" channel="Rai Südtirol">
+    <title>Silvius Magnago</title>
+    <sub-title>Das Erbe</sub-title>
+    <desc>Anlässlich seines 15.Todestages am 25.Mai stellt der Film von Adina Guarnieri und Klaus Romen das Leben und Wirken von Silvius Magnago in den Mittelpunkt.
+
+Silvius Magnago wurde in einem Land geboren, das es nicht mehr gibt. Und so wie ihm erging es vielen in diesem "kurzen Jahrhundert", wie der Historiker Eric J. Hobsbawn die Zeit zwischen 1914 und 1991 definiert hat: Zwei Weltkriege, Genozide, Kalter Krieg - aber auch Widerstand, Demokratisierung, die Einigung Europas. 
+Und mittendrin Südtirol - geografisch als auch politisch. Mittendrin war auch Silvius Magnago. "Vater der Autonomie" wird er genannt. Ihm und seinen Mitstreitern ist es zu verdanken, dass Südtirol heute als Paradebeispiel für Minderheitenschutz gilt. Doch es war ein steiniger Weg - der Weg der Diplomatie. Unsere Autonomie war ein Gemeinschaftsprojekt zwischen Bozen, Rom und Wien, das nur realisiert werden konnte, weil alle Beteiligten ein gemeinsames Ziel vor Augen hatten: eine gewaltfreie Lösung der Südtirolfrage. 
+Was bleibt von seinem Leben? Wo ist der Mensch hinter der Geschichte und was hat uns Silvius Magnago heute noch zu sagen?</desc>
+  </programme>
+  <programme start="20250526211700 +0200" stop="20250526215837 +0200" channel="Rai Südtirol">
+    <title>Über die Jöcher</title>
+    <sub-title>Den Schmugglern auf der Spur</sub-title>
+    <desc>An der Grenze zu Österreich und der Schweiz floriert bis in die 1970er Jahre hinauf ein
+gesellschaftlich akzeptiertes Massenphänomen. War der Schleichhandel mehr als nur Ausdruck eines Überlebenskampfes? Von frühem Unternehmertum und ersten Marketing-Strategien. Von Überlebensgeist und Innovation. Letzte Zeitzeugen erzählen. Ein Dokumentarfilm von Christoph Wieser.</desc>
+  </programme>
+  <programme start="20250526221000 +0200" stop="20250526223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250527200000 +0200" stop="20250527202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250527202000 +0200" stop="20250527203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250527203500 +0200" stop="20250527204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Letzter Spieltag in der Fußball-Landesliga: Gröden und Ahrntal kämpfen noch um den Titelgewinn, die Ladiner empfangen in St. Christina den SV Lana, während Ahrntal Absteiger Riffian/Kuens zu Gast hat. Der SSV Bruneck ist hingegen in Kurtatsch bei Weinstraße Süd zu Gast.</desc>
+  </programme>
+  <programme start="20250527221000 +0200" stop="20250527223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250528200000 +0200" stop="20250528202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250528202000 +0200" stop="20250528204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Mithelfen und Miterleben am Bergbauernhof: Ein Film über die harte Arbeit der Bauernfamilien und die unschätzbare Mitarbeit der Freiwilligen.
+
+Der Film "Mithelfen und Miterleben am Bergbauernhof" zeigt in bewegenden Bildern die besondere Verbindung zwischen freiwilligen Helferinnen und Helfern und den Bergbauernfamilien. Die Freiwilligen leisten einen unschätzbaren Beitrag, um diese Höfe am Berg zu bewahren und die täglichen Herausforderungen zu meistern. 
+Der Film entstand aus einer spontanen Initiative des Fernseh-Journalisten Ulrich Franz und seines Freundes Christian Eisele. Sie stellten den Film dem Verein Freiwillige Arbeitseinsätze zu ihrem 30-jährigen Bestehen kostenlos zur Verfügung. 
+Der Film ist mehr als nur ein Einblick in den Alltag auf Südtirols Höfen, er ist eine Hommage an all jene, die ihre Zeit und Energie für die Erhaltung der Landwirtschaft im Berggebiet einsetzen.</desc>
+  </programme>
+  <programme start="20250528221000 +0200" stop="20250528223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250529200000 +0200" stop="20250529202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250529202000 +0200" stop="20250529204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Qual der Wahl</sub-title>
+    <desc>Von der Frühstücksmarmelade bis zum Musiktitel - wofür sollen wir uns entscheiden? Allzu viele Möglichkeiten schmälern häufig unsere Zufriedenheit. Doch es gibt Tipps, wie Entscheidungen leichter fallen. Zu Gast ist die Psychologin und Psychotherapeutin Sonia Fischnaller. 
+
+In der Reihe "Und doch sind wir anders" erzählen wir die Geschichte von Daniel Boaru aus Moldawien, der sich als Rollstuhl-Hockeyspieler  einen Namen gemacht hat. Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Hans Ebensperger - Das Radikale der Natur". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250529221000 +0200" stop="20250529223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250530180000 +0200" stop="20250530182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Qual der Wahl</sub-title>
+    <desc>Von der Frühstücksmarmelade bis zum Musiktitel - wofür sollen wir uns entscheiden? Allzu viele Möglichkeiten schmälern häufig unsere Zufriedenheit. Doch es gibt Tipps, wie Entscheidungen leichter fallen. Zu Gast ist die Psychologin und Psychotherapeutin Sonia Fischnaller. In der Reihe "Und doch sind wir anders" erzählen wir die Geschichte von Daniel Boaru aus Moldawien, der sich als Rollstuhl-Hockeyspieler  einen Namen gemacht hat. Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Hans Ebensperger - Das Radikale der Natur". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20250530182900 +0200" stop="20250530185830 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Zipline-Anlagen und leistungsstarke Drohnen aus Südtirol, eine Studie über weniger Fleischkonsum im Urlaub, Genforschung im Weinbau und Armin Torggler übers Landesmuseum Bergbau. In dieser Ausgabe werden zwei Südtiroler Start-Up-Unternehmen vorgestellt, die international konkurrenzfähig sind. Das eine Unternehmen stellt schlüsselfertige Zipline-Anlagen her, das andere leistungsstarke Drohnen. 
+Zudem präsentieren wir die Ergebnisse einer Studie der Freien Universität Bozen, die zeigt, wie man auch im Urlaub den Fleischkonsum reduzieren und damit Tiere und Klima schonen kann. 
+Schließlich geht es um ein Forschungsprojekt, das durch Genforschung den falschen Mehltau in Südtirols Rebanlagen bekämpft und den Einsatz von Pestiziden verringert. Studiogast diesmal ist Armin Torggler, wissenschaftlicher Kurator des Landesmuseums Bergbau.</desc>
+  </programme>
+  <programme start="20250530200000 +0200" stop="20250530202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250530202000 +0200" stop="20250530204831 +0200" channel="Rai Südtirol">
+    <title>Elisabeth Baumgartner</title>
+    <sub-title>Eine Wiener Südtirolerin und ihr Vermächtnis</sub-title>
+    <desc>Sie war eine Vollblutjournalistin im wahrsten Sinn des Wortes. Während ihre Kolleginnen mit Themen rund um Küche und Familie betraut wurden, recherchierte sie zu Politik, Wirtschaft und Kultur.
+Geboren 1938 in Wien erlebte sie trotz des Kriegsgeschehens eine unbeschwerte Kindheit in ihrem Elternhaus im Grünen. In der Oberschule wurde bald ihr künstlerisches Talent entdeckt und sie besuchte die Akademie für Bildende Künste. 1960 heiratete sie  den Südtiroler Maler Robert Scherer und übersiedelte nach Südtirol, wo sie in Brixen Kunst unterrichtete. Es folgten erste kunstkritische Veröffentlichungen. Nach der Trennung von ihrem Mann begann Elisabeth Baumgartner ihre Radio- und TV-Tätigkeit beim damaligen Sender Bozen.
+In den 1980er Jahren setzte sie neue Akzente bei der Erforschung der Südtiroler Filmgeschichte mit Kontakten zu Luis Trenker, Fred Zinnemann und Leni Riefenstahl. Sie führte Interviews zur Südtirolgeschichte mit Silvius Magnago, Friedl Volgger, Alfons Benedikter und Bruno Kreisky. Sie veröffentlichte außerdem Bücher über technische Kulturgüter und hinterließ eine Reihe zeitgeschichtlicher TV-Dokumentationen. Elisabeth Baumgartner starb am 31. Mai 2005.</desc>
+  </programme>
+  <programme start="20250530204900 +0200" stop="20250530213414 +0200" channel="Rai Südtirol">
+    <title>Wiener Milieus</title>
+    <sub-title>Teil 1:  Verdrängte Welten</sub-title>
+    <desc>Wien im 19. Jahrhundert. In einem rasanten Tempo wandelt sich die Stadt zu einer aufstrebenden Metropole. Unaufhaltsam verändert der technologische Fortschritt die Gesellschaft. Der Reichtum von Wenigen wächst, und gleichsam schlittern immer mehr Menschen in bittere Armut. Ausgebeutet in den Fabriken und ohne jegliche Rechte erhebt sich eine Bewegung aus diesem Elend. 
+Die Klasse der Arbeiterinnen und Arbeiter wird geboren. Trotz vieler Niederlagen, Widerstände und Verfolgung kämpften Viktor Adler, Adelheid Popp, Franz Schuhmeier oder auch Anna Boschek für Errungenschaften wie den 8-Stunden-Tag und eine Krankenversicherung. In der zweiteiligen Dokureihe "Wiener Milieus" zeichnen Mona Krisch und Bernhard Riener die Entstehung dieser Bewegung nach.</desc>
+  </programme>
+  <programme start="20250530213400 +0200" stop="20250530215945 +0200" channel="Rai Südtirol">
+    <title>Wien</title>
+    <sub-title>Metropolen der Welt</sub-title>
+    <desc>Wien ist mehr als Hotel Sacher und Kaiser Franz und Sissi. Wir entdecken den Designer von Lady Gaga ebenso wie den Essig-Papst, den Schneckenkönig und den Schuhmacher vieler Dynastien. Wir blicken hinter die Kulissen der österreichischen Hauptstadt und präsentieren Menschen mit Kultfaktor, aber auch den wohl besten Apfelstrudel der Welt. Wien ist eine Diva – sie will entdeckt und erobert werden.</desc>
+  </programme>
+  <programme start="20250530221000 +0200" stop="20250530223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
