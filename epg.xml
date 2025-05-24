@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250523180000 +0200" stop="20250523182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Endlich in Rente!</sub-title>
-    <desc>Der Eintritt in den Ruhestand markiert einen bedeutsamen Übergang im Leben. Nach jahrzehntelanger Arbeit steht nun eine Phase der Freiheit, der Selbstbestimmung und der neuen Möglichkeiten bevor. 
-Doch der Übergang vom Arbeitsleben in den Ruhestand birgt auch Herausforderungen und Fragen. Wie gestaltet man diesen neuen Lebensabschnitt sinnvoll und erfüllend? 
-In der Reihe "So isst Euregio" besuchen wir Michael Ploner in seinem 4-Hauben-Gourmetrestaurant s'kammerli in Nauders. 
-Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Pension - Ende der Dienstzeit". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20250523182900 +0200" stop="20250523185830 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Heiner Oberrauch</sub-title>
-    <desc>Er zählt zu den prägendsten Unternehmerpersönlichkeiten Südtirols. Oberrauch erzählt über seine Leidenschaft für Sport, Mode, Wein und Käse, aber auch über sein soziales Engagement. Bereits mit 19 Jahren übernahm er mit seinem Bruder das Sportfachgeschäft "Sportler" unter den Bozner Lauben. Seine Unternehmen Oberalp und Salewa formte er zu einem der führenden Anbieter im internationalen Outdoor- und Bergsportsektor. 
-Als Präsident des Unternehmerverbandes stellte er Weichen für die wirtschaftliche Entwicklung unseres Landes. 
-Im Gespräch mit Markus Frings gibt der gebürtige Bozner Einblick in sein facettenreiches Leben - von seiner Leidenschaft für Mode, Wein und Käse bis hin zu seinem sozialen Engagement, etwa für das Winterhaus für Obdachlose oder das Haus der Familie am Ritten. Aber auch über persönliche Rückschläge spricht Oberrauch offen.</desc>
-  </programme>
-  <programme start="20250523200000 +0200" stop="20250523202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250523202000 +0200" stop="20250523214900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title>Leben, Lachen und Lieder im Sudwerk-Keller</sub-title>
-    <desc>Eine Sendung voller berührender Geschichten mit Autor Meinhard Feichter, dem Duo Verena Huber &amp; Robert Benedetti &amp; Äffchen Bobby und mit Social-Media-Comedian Jakob Messner.
-
-Der ehemalige Buchhändler Meinhard Feichter erzählt von seinem Leben mit einer unheilbaren Krankheit und vom Zauber des Schreibens - und präsentiert auf der Bühne sein "Tangram des Lebens".
-Mit viel Witz und einem frechen Äffchen kommt das Duo Verena Huber &amp; Robert Benedetti auf die Bühne. Seit 25 Jahren begeistern sie mit "Bobby" Kinder und Familien im ganzen Land - heute feiern sie Jubiläum im Keller.
-Aus Gufidaun kommt Jakob Messner, Social-Media-Comedian der Stunde. Als "Windschnur" bringt er Alltagsszenen aus Südtirol auf den Punkt - zwischen Bildschirm und Bühne findet er gerade seinen ganz eigenen Ton.
-Musikalisch wird es gefühlvoll mit der jungen Singer-Songwriterin Bita aus Neumarkt und groovig mit dem Indie-Duo Since11, die mit ihren lässigen Surfer-Vibes das Publikum mitreißen.
-Wie immer mit dabei: die sensationelle Kellerkapelle rund um Chris Kaufmann, Markus Mac Mayr und Dominik Told.</desc>
-  </programme>
-  <programme start="20250523214900 +0200" stop="20250523215651 +0200" channel="Rai Südtirol">
-    <title>Der Puppenspieler Gernot Nagelschmied</title>
-    <sub-title/>
-    <desc>Der Kärntner Gernot Nagelschmied, gelernter Programmierer, lebt heute in Bruneck. Er
-hat seinen Job an den Nagel gehängt um Puppenspieler zu werden, ein nicht alltäglicher
-Männerberuf. Er ist mit seinem Puppentheater "namlos" im In- und Ausland unterwegs.
-Seine Puppen sowie sein Bühnenbild fertigt er selber, und auch seine Theaterstücke
-schreibt er zum Teil selbst. Er liebt Märchen und lässt damit nicht nur Kinderherzen
-höherschlagen.</desc>
-  </programme>
-  <programme start="20250523221000 +0200" stop="20250523223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250524180000 +0200" stop="20250524182930 +0200" channel="Rai Südtirol">
     <title>Beziehungsweise</title>
     <sub-title>einfach.ethisch.leben</sub-title>
@@ -292,6 +246,30 @@ Auf der Haselburg oberhalb von Bozen kann der Gast zu jedem Gang auch eine alkoh
 Innenausstattung bedeutet weit mehr als nur Möbel und Dekoration. Es geht darum, den Gästen Wohlgefühl und Entspannung zu bieten. Im Trend liegen oft zeitlose Designs, die durch gezielte Akzente wie neue Kissen, Vorhänge oder Beleuchtung immer wieder aufgefrischt werden können. Durch kleine Veränderungen kann oft alte Bausubstanz zu neuem Leben erweckt werden. So bleibt nicht nur der Charme der Geschichte erhalten, sondern es werden auch Ressourcen geschont.</desc>
   </programme>
   <programme start="20250531221000 +0200" stop="20250531223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250601200000 +0200" stop="20250601202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250601202100 +0200" stop="20250601205030 +0200" channel="Rai Südtirol">
+    <title>Architektur in Bewegung</title>
+    <sub-title/>
+    <desc>Welche Anforderungen muss Architektur im Hinblick auf Sportgebäude erfüllen? Beispiele im Land zeigen, dass sie eine wichtige Vermittlerrolle spielt, um die Generationen zusammenzubringen.
+
+Vom öffentlichen Schwimmbad in Bozen aus unternimmt die TV-Dokumentation von Martin Hanni eine Reise zu diversen Sportgebäuden im ländlichen Raum und zeigt punktuelle Eingriffe. Die architektonischen Abstecher führen auf den Fußballplatz von Laag im Unterland, in die Naherholungszone Santenwaldele in St. Pankraz in Ulten, nach Steinmannwald bei Leifers und ins Zentrum von St. Martin in Passeier. 
+Außerdem geht es ans Ufer des Reschensees, wo zwei Architekten der Wassersportart Kiten verfallen sind. Da es keinen geeigneten Treffpunkt für Kiter gab, haben die beiden Planer die Umsetzung eines passenden Mehrzweckgebäudes realisiert. 
+Die unterschiedlichen Baubeispiele zeigen, wie Sportanlagen - zeitgemäß gedacht - zu kleinen Zentren werden, in denen sich junge und ältere Generationen begegnen und wo Architektur die Rolle einer Vermittlerin einnimmt.</desc>
+  </programme>
+  <programme start="20250601205000 +0200" stop="20250601205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250601221000 +0200" stop="20250601223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
