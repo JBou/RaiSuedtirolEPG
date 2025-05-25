@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250524180000 +0200" stop="20250524182930 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Der Tages-Club in Meran, die überwundene Depression eines jungen Mannes, das tägliche Meditieren und der V-Markt der Verbraucherzentrale sind Themen dieser Sendung.
-
-Menschen mit psychischen Problemen brauchen oft Unterstützung, um den Alltag zu bewältigen. Vor rund 30 Jahren wurde in Meran der Tagesclub gegründet, der erste seiner Art in Südtirol.
-Sein dürfen, wie ich bin - dieser Satz half dem jungen Emanuel Gemassmer, als er 18jährig an einer Depression erkrankte. Heute, vier Jahre später, unterrichtet er in einer Oberschule in Schlanders und versucht dem Thema "Jugend und psychische Gesundheit" viel Platz einzuräumen.
-Ein Weg zur mentalen Gesundheit führt über die Meditation, davon ist Pater Plazidus überzeugt. Seit 55 Jahren meditiert der Benediktiner aus Muri Gries täglich und beobachtet dabei seinen Atem.
-Trödelläden, Flohmärkte, Second-Hand-Shops werden zunehmend beliebter, weil Gefühle angeregt und Erinnerungen geweckt werden. Seit der V-Markt, der Second-Hand-Laden der Verbraucherzentrale ins Stadtzentrum gezogen ist, herrscht hier ein reges Kommen und Gehen.</desc>
-  </programme>
-  <programme start="20250524182900 +0200" stop="20250524185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Was muss man bei einer Onlinebuchung beachten? Wie lange müssen Dokumente aufbewahrt werden? Welche Regeln gelten in Südtirol für Dashcams, die Autokameras am Armaturenbrett?
-
-Worin unterscheiden sich Angeld und Akkonto - und habe ich ein Rücktrittsrecht? Pluspunkt liefert Antworten auf viele Fragen rund ums Verreisen und zeigt, wie man bei Reklamationen richtig vorgeht.
-Auch zuhause kann's kompliziert werden: Wer den Überblick über seine Unterlagen behalten will, sollte wissen, welche Dokumente wie lange aufbewahrt werden müssen - besonders bei Garantiefällen oder amtlichen Kontrollen.
-Technisch wird’s mit dem Thema Dashcams, den Kameras auf dem Armaturenbrett im Auto: Welche Regeln gelten in Südtirol und wie steht es um den Datenschutz?
-Zum Abschluss führt die Sendung ins Sarntal: Ein Blick auf die traditionsreiche Gemeinde Sarnthein, bekannt für Lebensqualität, Innovationsgeist und echte Unikate wie die Sarnar Toppar.</desc>
-  </programme>
-  <programme start="20250524200000 +0200" stop="20250524202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250524202100 +0200" stop="20250524202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250524202500 +0200" stop="20250524205430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Wo und wie leben unsere heimischen Spinnen? Zu Besuch in einer Südtiroler Büffelzucht. Vierbeiner, die dringend ein neues Zuhause suchen. Moderation: Christine Lasta.
-
-Zusammen mit einem Spinnenexperten begeben wir uns in die Natur, beobachten die heimischen Spinnen aus der Nähe und erfahren Interessantes über deren Lebensweise.
-Wasserbüffel sind zwar Rinder, sie unterscheiden sich aber von unseren heimischen Rindern durch ihr imposantes Aussehen und ihre unkomplizierte Haltung. Wir haben eine Büffelzucht besucht, wo ein geschlechtsreifer Bulle gerade für Nachwuchs sorgt.
-Weiters zeigen wir Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die dringend ein neues Zuhause suchen.</desc>
-  </programme>
-  <programme start="20250524221000 +0200" stop="20250524223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250525200000 +0200" stop="20250525202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
