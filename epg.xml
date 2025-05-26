@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250525200000 +0200" stop="20250525202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250525202100 +0200" stop="20250525205030 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Zipline-Anlagen und leistungsstarke Drohnen aus Südtirol, eine Studie über weniger Fleischkonsum im Urlaub, Genforschung im Weinbau und Armin Torggler übers Landesmuseum Bergbau.
-
-In dieser Ausgabe werden zwei Südtiroler Start-Up-Unternehmen vorgestellt, die international konkurrenzfähig sind. Das eine Unternehmen stellt schlüsselfertige Zipline-Anlagen her, das andere leistungsstarke Drohnen. 
-Zudem präsentieren wir die Ergebnisse einer Studie der Freien Universität Bozen, die zeigt, wie man auch im Urlaub den Fleischkonsum reduzieren und damit Tiere und Klima schonen kann. 
-Schließlich geht es um ein Forschungsprojekt, das durch Genforschung den falschen Mehltau in Südtirols Rebanlagen bekämpft und den Einsatz von Pestiziden verringert. Studiogast diesmal ist Armin Torggler, wissenschaftlicher Kurator des Landesmuseums Bergbau.</desc>
-  </programme>
-  <programme start="20250525205000 +0200" stop="20250525205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250525221000 +0200" stop="20250525223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250526180000 +0200" stop="20250526181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
