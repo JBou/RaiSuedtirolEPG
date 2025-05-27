@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250526180000 +0200" stop="20250526181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Letzter Spieltag in der Fußball-Landesliga: Gröden und Ahrntal kämpfen noch um den Titelgewinn, die Ladiner empfangen in St. Christina den SV Lana, während Ahrntal Absteiger Riffian/Kuens zu Gast hat. Der SSV Bruneck ist hingegen in Kurtatsch bei Weinstraße Süd zu Gast.</desc>
-  </programme>
-  <programme start="20250526181400 +0200" stop="20250526183330 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Orientierungslauf</sub-title>
-    <desc>Ein kurzer Blick auf Karte und Kompass und schon laufen die Sportkids aus Innichen los. Sie finden zielsicher die orange-weißen Posten, die sie im Laufe des Rennens passieren und elektronisch abstempeln müssen. Welche Gasse oder welche Abkürzung im Wald sie dabei nehmen, das ist jedem selbst überlassen. Ein Sport, bei dem es um Orientierung, Ausdauer und Köpfchen geht.
-Anschließend Linda ist kein Fan von Blumenkohl. Doch Kochlehrerin Martina hat ein leckeres Rezept, bei dem der starke Geschmack des Blumenkohls in den Hintergrund tritt.</desc>
-  </programme>
-  <programme start="20250526183400 +0200" stop="20250526185830 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Männliche Mentoren sind wichtige Vorbilder, der Party-Bus Südtirol vom Forum Prävention, "Message on a bottle" - Jugendliche gestalten Mehrwegflaschen mit FairTrade-Botschaften.
-Ob auf dem Sportplatz oder im sozialen Umfeld - junge Männer leisten einen wertvollen Beitrag als Vorbilder und helfen so Jugendlichen, ihre Potentiale zu entfalten. Wir haben Hockey-Coach Benjamin beim Training begleitet und Jugendarbeiter Phillip bei der Arbeit besucht.
-Seit vier Monaten tourt eine mobile Disco durch viele kleine Dörfer Südtirols. Ziel der Aktion ist es, Jugendlichen eine unbeschwerte Freizeitmöglichkeit zu bieten, die sie zusammenbringt. Nach den Auswirkungen von Corona eine dringende Maßnahme.
-Die Südtiroler Weltläden und die OEW veranstalten auch heuer wieder den FairTrend Design Contest, um Jugendliche zu sensibilisieren. Dieses Jahr stand die kreative Gestaltung einer wiederverwendbaren Flasche im Mittelpunkt. Auch Schüler:innen der Mittelschule Brixen beteiligten sich und setzten mit ihren Designs ein Zeichen für Nachhaltigkeit und soziale Gerechtigkeit. Klick schaute den jungen Kreativen bei der Gestaltung ihrer "Message on a bottle" über die Schulter.</desc>
-  </programme>
-  <programme start="20250526200000 +0200" stop="20250526202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250526202000 +0200" stop="20250526211700 +0200" channel="Rai Südtirol">
-    <title>Silvius Magnago</title>
-    <sub-title>Das Erbe</sub-title>
-    <desc>Anlässlich seines 15.Todestages am 25.Mai stellt der Film von Adina Guarnieri und Klaus Romen das Leben und Wirken von Silvius Magnago in den Mittelpunkt.
-
-Silvius Magnago wurde in einem Land geboren, das es nicht mehr gibt. Und so wie ihm erging es vielen in diesem "kurzen Jahrhundert", wie der Historiker Eric J. Hobsbawn die Zeit zwischen 1914 und 1991 definiert hat: Zwei Weltkriege, Genozide, Kalter Krieg - aber auch Widerstand, Demokratisierung, die Einigung Europas. 
-Und mittendrin Südtirol - geografisch als auch politisch. Mittendrin war auch Silvius Magnago. "Vater der Autonomie" wird er genannt. Ihm und seinen Mitstreitern ist es zu verdanken, dass Südtirol heute als Paradebeispiel für Minderheitenschutz gilt. Doch es war ein steiniger Weg - der Weg der Diplomatie. Unsere Autonomie war ein Gemeinschaftsprojekt zwischen Bozen, Rom und Wien, das nur realisiert werden konnte, weil alle Beteiligten ein gemeinsames Ziel vor Augen hatten: eine gewaltfreie Lösung der Südtirolfrage. 
-Was bleibt von seinem Leben? Wo ist der Mensch hinter der Geschichte und was hat uns Silvius Magnago heute noch zu sagen?</desc>
-  </programme>
-  <programme start="20250526211700 +0200" stop="20250526215837 +0200" channel="Rai Südtirol">
-    <title>Über die Jöcher</title>
-    <sub-title>Den Schmugglern auf der Spur</sub-title>
-    <desc>An der Grenze zu Österreich und der Schweiz floriert bis in die 1970er Jahre hinauf ein
-gesellschaftlich akzeptiertes Massenphänomen. War der Schleichhandel mehr als nur Ausdruck eines Überlebenskampfes? Von frühem Unternehmertum und ersten Marketing-Strategien. Von Überlebensgeist und Innovation. Letzte Zeitzeugen erzählen. Ein Dokumentarfilm von Christoph Wieser.</desc>
-  </programme>
-  <programme start="20250526221000 +0200" stop="20250526223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250527200000 +0200" stop="20250527202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
