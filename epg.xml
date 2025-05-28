@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250527200000 +0200" stop="20250527202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250527202000 +0200" stop="20250527203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250527203500 +0200" stop="20250527204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Letzter Spieltag in der Fußball-Landesliga: Gröden und Ahrntal kämpfen noch um den Titelgewinn, die Ladiner empfangen in St. Christina den SV Lana, während Ahrntal Absteiger Riffian/Kuens zu Gast hat. Der SSV Bruneck ist hingegen in Kurtatsch bei Weinstraße Süd zu Gast.</desc>
-  </programme>
-  <programme start="20250527221000 +0200" stop="20250527223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250528200000 +0200" stop="20250528202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
