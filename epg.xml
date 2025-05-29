@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250528200000 +0200" stop="20250528202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250528202000 +0200" stop="20250528204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Mithelfen und Miterleben am Bergbauernhof: Ein Film über die harte Arbeit der Bauernfamilien und die unschätzbare Mitarbeit der Freiwilligen.
-
-Der Film "Mithelfen und Miterleben am Bergbauernhof" zeigt in bewegenden Bildern die besondere Verbindung zwischen freiwilligen Helferinnen und Helfern und den Bergbauernfamilien. Die Freiwilligen leisten einen unschätzbaren Beitrag, um diese Höfe am Berg zu bewahren und die täglichen Herausforderungen zu meistern. 
-Der Film entstand aus einer spontanen Initiative des Fernseh-Journalisten Ulrich Franz und seines Freundes Christian Eisele. Sie stellten den Film dem Verein Freiwillige Arbeitseinsätze zu ihrem 30-jährigen Bestehen kostenlos zur Verfügung. 
-Der Film ist mehr als nur ein Einblick in den Alltag auf Südtirols Höfen, er ist eine Hommage an all jene, die ihre Zeit und Energie für die Erhaltung der Landwirtschaft im Berggebiet einsetzen.</desc>
-  </programme>
-  <programme start="20250528221000 +0200" stop="20250528223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250529200000 +0200" stop="20250529202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
