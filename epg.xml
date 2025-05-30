@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250529200000 +0200" stop="20250529202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250529202000 +0200" stop="20250529204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Qual der Wahl</sub-title>
-    <desc>Von der Frühstücksmarmelade bis zum Musiktitel - wofür sollen wir uns entscheiden? Allzu viele Möglichkeiten schmälern häufig unsere Zufriedenheit. Doch es gibt Tipps, wie Entscheidungen leichter fallen. Zu Gast ist die Psychologin und Psychotherapeutin Sonia Fischnaller. 
-
-In der Reihe "Und doch sind wir anders" erzählen wir die Geschichte von Daniel Boaru aus Moldawien, der sich als Rollstuhl-Hockeyspieler  einen Namen gemacht hat. Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Hans Ebensperger - Das Radikale der Natur". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20250529221000 +0200" stop="20250529223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250530180000 +0200" stop="20250530182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Die Qual der Wahl</sub-title>
@@ -119,6 +102,189 @@ Die unterschiedlichen Baubeispiele zeigen, wie Sportanlagen - zeitgemäß gedach
     <desc/>
   </programme>
   <programme start="20250601221000 +0200" stop="20250601223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250602180000 +0200" stop="20250602181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball stehen die Entscheidungsspiele auf dem Programm: Virtus Bozen will in die Serie D aufsteigen und trifft im Rückspiel der ersten Play-Off-Runde auf die zweitplatzierte Mannschaft der Oberliga des Piemonts. 
+Die beiden Landesliga Vize-Meister aus Südtirol und dem Trentino, Gröden und Ravinense, spielen hingegen um den Aufstieg in die Oberliga.</desc>
+  </programme>
+  <programme start="20250602181400 +0200" stop="20250602182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Musical School Bozen</sub-title>
+    <desc>Die Zipp-Reporter Olivia und Ruben fiebern ihrem großen Auftritt im Waltherhaus in Bozen entgegen. Seit Monaten proben sie gemeinsam mit ihrer Musicalgruppe für die Aufführungen von "Matilda" und "School of Rock". 
+Bei den letzten Proben wird noch einmal alles gegeben: Licht und Mikrofone werden getestet, Choreografien geübt und Texte bis ins Detail abgestimmt. Wird bei der Premiere alles klappen?</desc>
+  </programme>
+  <programme start="20250602182900 +0200" stop="20250602185830 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Mithelfen und Miterleben am Bergbauernhof: Ein Film über die harte Arbeit der Bauernfamilien und die unschätzbare Mitarbeit der Freiwilligen. Der Film "Mithelfen und Miterleben am Bergbauernhof" zeigt in bewegenden Bildern die besondere Verbindung zwischen freiwilligen Helferinnen und Helfern und den Bergbauernfamilien. Die Freiwilligen leisten einen unschätzbaren Beitrag, um diese Höfe am Berg zu bewahren und die täglichen Herausforderungen zu meistern. 
+Der Film entstand aus einer spontanen Initiative des Fernseh-Journalisten Ulrich Franz und seines Freundes Christian Eisele. Sie stellten den Film dem Verein Freiwillige Arbeitseinsätze zu ihrem 30-jährigen Bestehen kostenlos zur Verfügung. 
+Der Film ist mehr als nur ein Einblick in den Alltag auf Südtirols Höfen, er ist eine Hommage an all jene, die ihre Zeit und Energie für die Erhaltung der Landwirtschaft im Berggebiet einsetzen.</desc>
+  </programme>
+  <programme start="20250602200000 +0200" stop="20250602202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250602202100 +0200" stop="20250602211923 +0200" channel="Rai Südtirol">
+    <title>Lieder der Dolomiten</title>
+    <sub-title/>
+    <desc>Wie klingt Heimat? Wie klingen die Dolomiten? Die Dokumentation "Lieder der Dolomiten" begibt sich auf Spurensuche nach den Volksliedern der Dolomiten, die zu verstummen drohen.
+
+Die Dokumentation beleuchtet, wie ursprüngliche Musik einst spontan bei Festen und im Alltag
+erklang und fragt, warum sie heute oft als verstaubt gilt. Dabei zeigt der Film, dass ursprüngliche Klänge noch immer eine Quelle der Inspiration und Kraft sein können. Zwischen Tradition und Moderne begleitet die Reise leidenschaftliche Sängerinnen und Sänger - von
+Volksmusiklegenden bis zu jungen Talenten - und zeigt, wie lebendig und vielfältig Lieder der
+Dolomiten auch heute noch klingen. Ein Film, der Heimatklänge in die Gegenwart holt und sich auf die Suche nach Menschen macht, die sie bewahren.</desc>
+  </programme>
+  <programme start="20250602211900 +0200" stop="20250602215032 +0200" channel="Rai Südtirol">
+    <title>In memoriam Anna Matscher</title>
+    <sub-title>Südtirols einzige Sterneköchin</sub-title>
+    <desc>Am 27.März verstarb sie erst 63jährig nach kurzer Krankheit. Sie hat 1997 den Michelin-Stern
+verliehen bekommen, als sie dachte: "Nein, so weit sind wir noch nicht." Und vier Jahre später, als er ihr gebührt hätte, war der Stern wieder weg. Sechs lange Jahre hatte sie geschuftet, um wieder eine Sterneköchin zu werden. Stress pur. 2007 kommt der Stern dann endlich zurück. Und der Stress bleibt. Anna Matscher ist sich gar nicht mehr so sicher, dass sie ihn noch will. Aber
+was wäre die Alternative? Ein Film von Traudi Messini und Gabriele Crepaz.</desc>
+  </programme>
+  <programme start="20250602215000 +0200" stop="20250602215830 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Terese Gröber von der Trostburg</sub-title>
+    <desc>Sie trägt auch den Übernamen "Trostburg-Tresl", denn seit über 70 Jahren lebt und arbeitet sie auf der mächtigen Burg oberhalb von Waidbruck.</desc>
+  </programme>
+  <programme start="20250602221000 +0200" stop="20250602223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250603200000 +0200" stop="20250603202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250603202000 +0200" stop="20250603203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250603203500 +0200" stop="20250603204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball stehen die Entscheidungsspiele auf dem Programm: Virtus Bozen will in die Serie D aufsteigen und trifft im Rückspiel der ersten Play-Off-Runde auf die zweitplatzierte Mannschaft der Oberliga des Piemonts. 
+Die beiden Landesliga Vize-Meister aus Südtirol und dem Trentino, Gröden und Ravinense, spielen hingegen um den Aufstieg in die Oberliga.</desc>
+  </programme>
+  <programme start="20250603221000 +0200" stop="20250603223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250604200000 +0200" stop="20250604202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250604202000 +0200" stop="20250604204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Unternehmer mit Passion für Kunst, Architektur - zertifizierte Nachhaltigkeit im Handwerk und deren wirtschaftlicher Nutzen. Das sind die Themen im Juni. Moderation: Christian Pfeifer.
+
+Florian Gartner ist leidenschaftlicher Hotelier, Kunstfreund und Designliebhaber. Immer wieder lädt er namhafte Schriftsteller:innen zu exklusiven Lesungen ein und verbindet so auf einzigartige Weise Gastfreundschaft mit Literatur. Wir werfen einen Blick hinter die Kulissen eines besonderen Hotels in Dorf Tirol und beobachten, wie Kultur zum wirtschaftlichen Erfolgsfaktor werden kann.
+Walter Rizzi hat mit Fleiß und Weitblick sein Unternehmen zu einem internationalen Vermittler im Obst-, Gemüse- und Lebensmittelhandel gemacht. Rizzi ist auch ein leidenschaftlicher Förderer von Kunst- und Architektur. Seine Investitionen in außergewöhnliche Bauprojekte und sein Engagement für verschiedenste Künstler spiegeln sich in seiner Unternehmensphilosophie wider: Ästhetik und Innovationsgeist als Teil des wirtschaftlichen Handelns.
+Das Südtiroler Nachhaltigkeitslabel "S" soll Handwerksbetriebe dabei unterstützen, umweltbewusst, sozial verantwortlich und wirtschaftlich zukunftsfähig zu handeln. Konkrete Vorteile für gewerbliche Betriebe sind Kosteneinsparungen, gesteigerte Wettbewerbsfähigkeit bis hin zu mehr Kundenvertrauen.</desc>
+  </programme>
+  <programme start="20250604221000 +0200" stop="20250604223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250605200000 +0200" stop="20250605202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250605202000 +0200" stop="20250605204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Endlich Urlaub!</sub-title>
+    <desc>Unberührte Naturlandschaften, beeindruckende Bergwelten, klare Gewässer und Opferplätze: Mystische Orte faszinieren und strahlen Kraft aus. Es moderiert Karin Gschnitzer.
+
+Das Südtirol Magazin hat einige dieser sogenannten Kraftorte in Südtirol besucht. 
+Zu Gast ist außerdem Astrid Amico. Seit jeher befasst sie sich mit mystischen Orten und gesundheitsfördernden Techniken. Gemeinsam mit Martin Ruepp betreibt sie die Facebookseite "Mystische Orte in Südtirol", auf der sie die schönsten Plätze in Wort und Bild porträtieren.
+In der Reihe "Unser Gedächtnis" tauchen wir mit Bildern aus dem Amt für Film und Medien in einen Sommerurlaub ein, und in der Rubrik "Wiedersehen" geht es in dieser Ausgabe um einen Film rund um Mystik.</desc>
+  </programme>
+  <programme start="20250605221000 +0200" stop="20250605223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250606180000 +0200" stop="20250606182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Unberührte Naturlandschaften, beeindruckende Bergwelten, klare Gewässer und Opferplätze: Mystische Orte faszinieren und strahlen Kraft aus. Es moderiert Karin Gschnitzer. Das Südtirol Magazin hat einige dieser sogenannten Kraftorte in Südtirol besucht. Zu Gast ist außerdem Astrid Amico. Seit jeher befasst sie sich mit mystischen Orten und gesundheitsfördernden Techniken. Gemeinsam mit Martin Ruepp betreibt sie die Facebookseite "Mystische Orte in Südtirol", auf der sie die schönsten Plätze in Wort und Bild porträtieren. 
+In der Reihe "Unser Gedächtnis" tauchen wir mit Bildern aus dem Amt für Film und Medien in einen Sommerurlaub ein, und in der Rubrik "Wiedersehen" geht es in dieser Ausgabe um einen Film rund um Mystik.</desc>
+  </programme>
+  <programme start="20250606182900 +0200" stop="20250606185830 +0200" channel="Rai Südtirol">
+    <title>In memoriam Anna Matscher</title>
+    <sub-title>Südtirols einzige Sterneköchin</sub-title>
+    <desc>Am 27.März verstarb sie erst 63jährig nach kurzer Krankheit. Sie hat 1997 den Michelin-Stern verliehen bekommen, als sie dachte: "Nein, so weit sind wir noch nicht." Und vier Jahre später, als er ihr gebührt hätte, war der Stern wieder weg. 
+Sechs lange Jahre hatte sie geschuftet, um wieder eine Sterneköchin zu werden. Stress pur. 2007 kommt der Stern dann endlich zurück. Und der Stress bleibt. Anna Matscher ist sich gar nicht mehr so sicher, dass sie ihn noch will. Aber was wäre die Alternative? Ein Film von Traudi Messini und Gabriele Crepaz.</desc>
+  </programme>
+  <programme start="20250606200000 +0200" stop="20250606202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250606202000 +0200" stop="20250606211930 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Musik und Kunst als kreative Heilmethoden. Ein Blick hinter den Gartenzaun und in grüne Oasen, wo unterschiedliche Menschen zusammenkommen. 
+
+Klänge, Rhythmen, Pinselstriche, bunte Farbtöpfe, Rollenspiele und das pure kreative Arbeiten tun nicht nur gut, sie unterstützen auch komplexe Heilungsprozesse in unserem Körper. In der Rubrik Angeklopft besucht Magdalena Oberstaller kreative Kraftorte und lernt dabei faszinierende Persönlichkeiten kennen, die alle eines gemeinsam haben: Sie schöpfen Energie und Kraft aus kreativen Momenten.
+Doch auch Gärten sind ein Ort der Kraft, wo Menschen zusammen kommen. Karin Duregger schlüpft wieder durch Gartentore: in eine grüne Oase voller Kuriositäten in Kortsch, in einen Privatgarten in Terlan, der demenzkranken Menschen zur Verfügung steht und in den Gemeinschaftsgarten in Glurns.</desc>
+  </programme>
+  <programme start="20250606211900 +0200" stop="20250606214800 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Das Prinzip der ganzheitlichen Fleischverwertung, die alkoholfreie Essenbegleitung, kreative Innenausstattung von Hotels und Gastronomiebetrieben - das sind die Themen bei Willkommen.
+Auf dem Lukashof in Barbian züchtet Thomas Zanon den sogenannten Barbianer Hornochs. Sein Anspruch: eine nachhaltige Tierhaltung, bei der das gesamte Tier genutzt wird - vom Filet bis hin zu Zunge, Herz oder Schulter. Auf der Haselburg oberhalb von Bozen kann der Gast zu jedem Gang auch eine alkoholfreie Alternative wählen - fein abgestimmt auf Aromen, Speisenfolge und sogar Glasform. Wie vielfältig alkoholfreier Genuss sein kann, zeigt auch die Expertin für alkoholfreie Pairings, Nicole Klauß, bei der Fachtagung COOLinaria in Bozen. 
+Innenausstattung bedeutet weit mehr als nur Möbel und Dekoration. Es geht darum, den Gästen Wohlgefühl und Entspannung zu bieten. Im Trend liegen oft zeitlose Designs, die durch gezielte Akzente wie neue Kissen, Vorhänge oder Beleuchtung immer wieder aufgefrischt werden können. Durch kleine Veränderungen kann oft alte Bausubstanz zu neuem Leben erweckt werden. So bleibt nicht nur der Charme der Geschichte erhalten, sondern es werden auch Ressourcen geschont.</desc>
+  </programme>
+  <programme start="20250606214900 +0200" stop="20250606215907 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten: Tamara und Michael Stauder</title>
+    <sub-title>Kastellane der Churburg</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250606221000 +0200" stop="20250606223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250607180000 +0200" stop="20250607185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Musik und Kunst als kreative Heilmethoden. Ein Blick hinter den Gartenzaun und in grüne Oasen, wo unterschiedliche Menschen zusammenkommen. 
+Klänge, Rhythmen, Pinselstriche, bunte Farbtöpfe, Rollenspiele und das pure kreative Arbeiten tun nicht nur gut, sie unterstützen auch komplexe Heilungsprozesse in unserem Körper. In der Rubrik Angeklopft besucht Magdalena Oberstaller kreative Kraftorte und lernt dabei faszinierende Persönlichkeiten kennen, die alle eines gemeinsam haben: Sie schöpfen Energie und Kraft aus kreativen Momenten.
+Doch auch Gärten sind ein Ort der Kraft, wo Menschen zusammen kommen. Karin Duregger schlüpft wieder durch Gartentore: in eine grüne Oase voller Kuriositäten in Kortsch, in einen Privatgarten in Terlan, der demenzkranken Menschen zur Verfügung steht und in den Gemeinschaftsgarten in Glurns.</desc>
+  </programme>
+  <programme start="20250607200000 +0200" stop="20250607202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250607202100 +0200" stop="20250607202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250607202500 +0200" stop="20250607204930 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Wie die Puppen der Sammlerin Edith Winkler in Sand in Taufers ein neues Zuhause bekommen. Moderation: Sigrid Flenger.
+
+Immer wieder klopfen Menschen an die Tür der Puppenmutter Edith Winkler. Sie haben keine Verwendung für ihre Puppen, wollen sie aber auch nicht wegwerfen. Weil sie ein großes Herz für jede Puppe hat, nimmt Edith Winkler alle in ihre Sammlung auf. 
+Vor einigen Monaten platzte ihr Puppenmuseum in Sand in Taufers aus allen Nähten. Deshalb baten Redakteurin Sigrid Flenger und Kameramann Agostino Fuscaldo den Bürgermeister vor die Kamera. Josef Nöckler versprach, für die 1500 Puppen ein neues Zuhause zu finden: Sie bezogen jetzt zwei Räume in der Villa Mutschlechner in Sand in Taufers. 
+Zwei bis drei Mal die Woche geht Edith Winkler ins Museum, um die Puppen zu kämmen, zu waschen und einzucremen. Dies sei nötig, sagt sie, da das Material sonst spröde werde. Denn viele der Puppen sind Raritäten.</desc>
+  </programme>
+  <programme start="20250607221000 +0200" stop="20250607223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
