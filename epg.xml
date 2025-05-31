@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250530180000 +0200" stop="20250530182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Qual der Wahl</sub-title>
-    <desc>Von der Frühstücksmarmelade bis zum Musiktitel - wofür sollen wir uns entscheiden? Allzu viele Möglichkeiten schmälern häufig unsere Zufriedenheit. Doch es gibt Tipps, wie Entscheidungen leichter fallen. Zu Gast ist die Psychologin und Psychotherapeutin Sonia Fischnaller. In der Reihe "Und doch sind wir anders" erzählen wir die Geschichte von Daniel Boaru aus Moldawien, der sich als Rollstuhl-Hockeyspieler  einen Namen gemacht hat. Und in der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Hans Ebensperger - Das Radikale der Natur". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20250530182900 +0200" stop="20250530185830 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Zipline-Anlagen und leistungsstarke Drohnen aus Südtirol, eine Studie über weniger Fleischkonsum im Urlaub, Genforschung im Weinbau und Armin Torggler übers Landesmuseum Bergbau. In dieser Ausgabe werden zwei Südtiroler Start-Up-Unternehmen vorgestellt, die international konkurrenzfähig sind. Das eine Unternehmen stellt schlüsselfertige Zipline-Anlagen her, das andere leistungsstarke Drohnen. 
-Zudem präsentieren wir die Ergebnisse einer Studie der Freien Universität Bozen, die zeigt, wie man auch im Urlaub den Fleischkonsum reduzieren und damit Tiere und Klima schonen kann. 
-Schließlich geht es um ein Forschungsprojekt, das durch Genforschung den falschen Mehltau in Südtirols Rebanlagen bekämpft und den Einsatz von Pestiziden verringert. Studiogast diesmal ist Armin Torggler, wissenschaftlicher Kurator des Landesmuseums Bergbau.</desc>
-  </programme>
-  <programme start="20250530200000 +0200" stop="20250530202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250530202000 +0200" stop="20250530204831 +0200" channel="Rai Südtirol">
-    <title>Elisabeth Baumgartner</title>
-    <sub-title>Eine Wiener Südtirolerin und ihr Vermächtnis</sub-title>
-    <desc>Sie war eine Vollblutjournalistin im wahrsten Sinn des Wortes. Während ihre Kolleginnen mit Themen rund um Küche und Familie betraut wurden, recherchierte sie zu Politik, Wirtschaft und Kultur.
-Geboren 1938 in Wien erlebte sie trotz des Kriegsgeschehens eine unbeschwerte Kindheit in ihrem Elternhaus im Grünen. In der Oberschule wurde bald ihr künstlerisches Talent entdeckt und sie besuchte die Akademie für Bildende Künste. 1960 heiratete sie  den Südtiroler Maler Robert Scherer und übersiedelte nach Südtirol, wo sie in Brixen Kunst unterrichtete. Es folgten erste kunstkritische Veröffentlichungen. Nach der Trennung von ihrem Mann begann Elisabeth Baumgartner ihre Radio- und TV-Tätigkeit beim damaligen Sender Bozen.
-In den 1980er Jahren setzte sie neue Akzente bei der Erforschung der Südtiroler Filmgeschichte mit Kontakten zu Luis Trenker, Fred Zinnemann und Leni Riefenstahl. Sie führte Interviews zur Südtirolgeschichte mit Silvius Magnago, Friedl Volgger, Alfons Benedikter und Bruno Kreisky. Sie veröffentlichte außerdem Bücher über technische Kulturgüter und hinterließ eine Reihe zeitgeschichtlicher TV-Dokumentationen. Elisabeth Baumgartner starb am 31. Mai 2005.</desc>
-  </programme>
-  <programme start="20250530204900 +0200" stop="20250530213414 +0200" channel="Rai Südtirol">
-    <title>Wiener Milieus</title>
-    <sub-title>Teil 1:  Verdrängte Welten</sub-title>
-    <desc>Wien im 19. Jahrhundert. In einem rasanten Tempo wandelt sich die Stadt zu einer aufstrebenden Metropole. Unaufhaltsam verändert der technologische Fortschritt die Gesellschaft. Der Reichtum von Wenigen wächst, und gleichsam schlittern immer mehr Menschen in bittere Armut. Ausgebeutet in den Fabriken und ohne jegliche Rechte erhebt sich eine Bewegung aus diesem Elend. 
-Die Klasse der Arbeiterinnen und Arbeiter wird geboren. Trotz vieler Niederlagen, Widerstände und Verfolgung kämpften Viktor Adler, Adelheid Popp, Franz Schuhmeier oder auch Anna Boschek für Errungenschaften wie den 8-Stunden-Tag und eine Krankenversicherung. In der zweiteiligen Dokureihe "Wiener Milieus" zeichnen Mona Krisch und Bernhard Riener die Entstehung dieser Bewegung nach.</desc>
-  </programme>
-  <programme start="20250530213400 +0200" stop="20250530215945 +0200" channel="Rai Südtirol">
-    <title>Wien</title>
-    <sub-title>Metropolen der Welt</sub-title>
-    <desc>Wien ist mehr als Hotel Sacher und Kaiser Franz und Sissi. Wir entdecken den Designer von Lady Gaga ebenso wie den Essig-Papst, den Schneckenkönig und den Schuhmacher vieler Dynastien. Wir blicken hinter die Kulissen der österreichischen Hauptstadt und präsentieren Menschen mit Kultfaktor, aber auch den wohl besten Apfelstrudel der Welt. Wien ist eine Diva – sie will entdeckt und erobert werden.</desc>
-  </programme>
-  <programme start="20250530221000 +0200" stop="20250530223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250531180000 +0200" stop="20250531182430 +0200" channel="Rai Südtirol">
     <title>Pluto</title>
     <sub-title>Das Tiermagazin</sub-title>
@@ -285,6 +245,31 @@ Vor einigen Monaten platzte ihr Puppenmuseum in Sand in Taufers aus allen Nähte
 Zwei bis drei Mal die Woche geht Edith Winkler ins Museum, um die Puppen zu kämmen, zu waschen und einzucremen. Dies sei nötig, sagt sie, da das Material sonst spröde werde. Denn viele der Puppen sind Raritäten.</desc>
   </programme>
   <programme start="20250607221000 +0200" stop="20250607223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250608200000 +0200" stop="20250608202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250608202100 +0200" stop="20250608204530 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Tanas</sub-title>
+    <desc>Das kleine Dorf oberhalb von Laas, mit knapp 150 Einwohnern, hat einige Besonderheiten: Kirschenanbau, eine Zwergschule, ein Dorfgasthaus, die zentrale Rolle der Feuerwehr.
+
+In der kleinen Dorfschule werden derzeit etwa zehn Kinder in den Klassen 1, 2 und 4 unterrichtet. Neben der Schule spielt die Feuerwehr eine zentrale Rolle, denn fast jede Familie ist hier Mitglied und sorgt für die Sicherheit in diesem abgelegenen Dorf. 
+Eine weitere Besonderheit: Seit einigen Jahren werden hier Kirschen angebaut. 
+Im einzigen Gasthaus erinnern sich die älteren Einwohner an längst vergangene Tage, als der Ort nur über die Materialseilbahn erreichbar war. Heute hat Tanas eine Straße, die Abwanderung ist deshalb zurückgegangen. 
+Auf dem höchsten bewirtschafteten Hof der gesamten Gemeinde Laas lebt eine Bäuerin mit über 1000 Hennen und einigen Kühen.</desc>
+  </programme>
+  <programme start="20250608204500 +0200" stop="20250608204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250608221000 +0200" stop="20250608223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
