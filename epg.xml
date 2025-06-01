@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250531180000 +0200" stop="20250531182430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Wo und wie leben unsere heimischen Spinnen? Zu Besuch in einer Südtiroler Büffelzucht. Vierbeiner, die dringend ein neues Zuhause suchen. Moderation: Christine Lasta. Zusammen mit einem Spinnenexperten begeben wir uns in die Natur, beobachten die heimischen Spinnen aus der Nähe und erfahren Interessantes über deren Lebensweise.
-Wasserbüffel sind zwar Rinder, sie unterscheiden sich aber von unseren heimischen Rindern durch ihr imposantes Aussehen und ihre unkomplizierte Haltung. Wir haben eine Büffelzucht besucht, wo ein geschlechtsreifer Bulle gerade für Nachwuchs sorgt.
-Weiters zeigen wir Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die dringend ein neues Zuhause suchen.</desc>
-  </programme>
-  <programme start="20250531182400 +0200" stop="20250531185330 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Situation der Minderheitensprache Galicisch, der Südtiroler Musiker Alan Preims in Irland, Günther Rautz über die Ergebnisse von Minority Rights Lecture, der Kampf um die Rechte indigener Frauen. Im Nordwesten Spaniens, in Galicien, wird die Minderheitensprache Galicisch gesprochen. Sie wird in Schulen unterrichtet und über Medien und Kulturinitiativen verbreitet. Minet hat sich vor Ort ein Bild über die Geschichte und die Zukunft dieser Minderheitensprache gemacht. 
-Minet hat außerdem den Südtiroler Musiker Alan Preims in der irischen Kulturstadt Galway besucht.  Er ist vor vielen Jahren nach Irland gezogen und erzählt über seine Liebe zur irischen Musik und zur irischen Sprache, die nur noch von wenigen Menschen gesprochen wird. 
-Der Leiter des Institutes für Minderheitenrecht an der Eurac, Günther Rautz, spricht mit Moderatorin Christina Khuen über die Ergebnisse der jährlichen Minority Rights Lecture. 
-In der Reihe "Tribal Voices" berichten wir über Jéssica Tupinambá vom Volk der Tupinambá in Brasilien und über ihre führende Rolle im Kampf um Rechte der indigenen Frauen.</desc>
-  </programme>
-  <programme start="20250531200000 +0200" stop="20250531202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250531202100 +0200" stop="20250531202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250531202500 +0200" stop="20250531205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Das Prinzip der ganzheitlichen Fleischverwertung, die alkoholfreie Essenbegleitung, kreative Innenausstattung von Hotels und Gastronomiebetrieben - das sind die Themen bei Willkommen.
-Auf dem Lukashof in Barbian züchtet Thomas Zanon den sogenannten Barbianer Hornochs. Sein Anspruch: eine nachhaltige Tierhaltung, bei der das gesamte Tier genutzt wird - vom Filet bis hin zu Zunge, Herz oder Schulter.
-Auf der Haselburg oberhalb von Bozen kann der Gast zu jedem Gang auch eine alkoholfreie Alternative wählen - fein abgestimmt auf Aromen, Speisenfolge und sogar Glasform. Wie vielfältig alkoholfreier Genuss sein kann, zeigt auch die Expertin für alkoholfreie Pairings, Nicole Klauß, bei der Fachtagung COOLinaria in Bozen. 
-Innenausstattung bedeutet weit mehr als nur Möbel und Dekoration. Es geht darum, den Gästen Wohlgefühl und Entspannung zu bieten. Im Trend liegen oft zeitlose Designs, die durch gezielte Akzente wie neue Kissen, Vorhänge oder Beleuchtung immer wieder aufgefrischt werden können. Durch kleine Veränderungen kann oft alte Bausubstanz zu neuem Leben erweckt werden. So bleibt nicht nur der Charme der Geschichte erhalten, sondern es werden auch Ressourcen geschont.</desc>
-  </programme>
-  <programme start="20250531221000 +0200" stop="20250531223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250601200000 +0200" stop="20250601202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
