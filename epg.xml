@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250601200000 +0200" stop="20250601202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250601202100 +0200" stop="20250601205030 +0200" channel="Rai Südtirol">
-    <title>Architektur in Bewegung</title>
-    <sub-title/>
-    <desc>Welche Anforderungen muss Architektur im Hinblick auf Sportgebäude erfüllen? Beispiele im Land zeigen, dass sie eine wichtige Vermittlerrolle spielt, um die Generationen zusammenzubringen.
-
-Vom öffentlichen Schwimmbad in Bozen aus unternimmt die TV-Dokumentation von Martin Hanni eine Reise zu diversen Sportgebäuden im ländlichen Raum und zeigt punktuelle Eingriffe. Die architektonischen Abstecher führen auf den Fußballplatz von Laag im Unterland, in die Naherholungszone Santenwaldele in St. Pankraz in Ulten, nach Steinmannwald bei Leifers und ins Zentrum von St. Martin in Passeier. 
-Außerdem geht es ans Ufer des Reschensees, wo zwei Architekten der Wassersportart Kiten verfallen sind. Da es keinen geeigneten Treffpunkt für Kiter gab, haben die beiden Planer die Umsetzung eines passenden Mehrzweckgebäudes realisiert. 
-Die unterschiedlichen Baubeispiele zeigen, wie Sportanlagen - zeitgemäß gedacht - zu kleinen Zentren werden, in denen sich junge und ältere Generationen begegnen und wo Architektur die Rolle einer Vermittlerin einnimmt.</desc>
-  </programme>
-  <programme start="20250601205000 +0200" stop="20250601205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250601221000 +0200" stop="20250601223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250602180000 +0200" stop="20250602181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
