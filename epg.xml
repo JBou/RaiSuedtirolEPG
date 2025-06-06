@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250605200000 +0200" stop="20250605202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250605202000 +0200" stop="20250605204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Endlich Urlaub!</sub-title>
-    <desc>Unberührte Naturlandschaften, beeindruckende Bergwelten, klare Gewässer und Opferplätze: Mystische Orte faszinieren und strahlen Kraft aus. Es moderiert Karin Gschnitzer.
-
-Das Südtirol Magazin hat einige dieser sogenannten Kraftorte in Südtirol besucht. 
-Zu Gast ist außerdem Astrid Amico. Seit jeher befasst sie sich mit mystischen Orten und gesundheitsfördernden Techniken. Gemeinsam mit Martin Ruepp betreibt sie die Facebookseite "Mystische Orte in Südtirol", auf der sie die schönsten Plätze in Wort und Bild porträtieren.
-In der Reihe "Unser Gedächtnis" tauchen wir mit Bildern aus dem Amt für Film und Medien in einen Sommerurlaub ein, und in der Rubrik "Wiedersehen" geht es in dieser Ausgabe um einen Film rund um Mystik.</desc>
-  </programme>
-  <programme start="20250605221000 +0200" stop="20250605223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250606180000 +0200" stop="20250606182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -117,6 +98,186 @@ Auf dem höchsten bewirtschafteten Hof der gesamten Gemeinde Laas lebt eine Bäu
     <desc/>
   </programme>
   <programme start="20250608221000 +0200" stop="20250608223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250609180000 +0200" stop="20250609181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die 51. Oberliga-Saison ist Geschichte. Obermais gewinnt zum ersten Mal die Meisterschaft und steigt in die Serie D auf. Virtus Bozen und die Überraschungs-Elf aus Partschins steigen ebenfalls auf das Podium. 
+Als einzige Südtiroler Mannschaft steigt Stegen in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. 
+Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
+  </programme>
+  <programme start="20250609181400 +0200" stop="20250609183330 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kindergemeinderat in Girlan</sub-title>
+    <desc>Einmal im Jahr wird es spannend in Eppan: Dann treffen sich Kinder aus den Grundschulen zum Kindergemeinderat. Sie werden demokratisch gewählt und dürfen dem Bürgermeister ihre Ideen vorstellen: zum Beispiel, wie man die Gemeinde kinderfreundlicher und sicherer machen kann. 
+Clownfrau Karamela trifft in Girlan engagierte Kinder-Suchtrupps. Die spüren Probleme auf - wie defekte Spielgeräte am Kinderspielplatz, Müll auf den Straßen - und sammeln einfache Lösungsvorschläge. Dies wird dann beim Kindergemeinderat besprochen.</desc>
+  </programme>
+  <programme start="20250609183400 +0200" stop="20250609185830 +0200" channel="Rai Südtirol">
+    <title>Alpen Donau Adria</title>
+    <sub-title/>
+    <desc>Wie die Puppen der Sammlerin Edith Winkler in Sand in Taufers ein neues Zuhause bekommen. Moderation: Sigrid Flenger.Immer wieder klopfen Menschen an die Tür der Puppenmutter Edith Winkler. Sie haben keine Verwendung für ihre Puppen, wollen sie aber auch nicht wegwerfen. Weil sie ein großes Herz für jede Puppe hat, nimmt Edith Winkler alle in ihre Sammlung auf. 
+Vor einigen Monaten platzte ihr Puppenmuseum in Sand in Taufers aus allen Nähten. Deshalb baten Redakteurin Sigrid Flenger und Kameramann Agostino Fuscaldo den Bürgermeister vor die Kamera. Josef Nöckler versprach, für die 1500 Puppen ein neues Zuhause zu finden: Sie bezogen jetzt zwei Räume in der Villa Mutschlechner in Sand in Taufers. 
+Zwei bis drei Mal die Woche geht Edith Winkler ins Museum, um die Puppen zu kämmen, zu waschen und einzucremen. Dies sei nötig, sagt sie, da das Material sonst spröde werde. Denn viele der Puppen sind Raritäten.</desc>
+  </programme>
+  <programme start="20250609200000 +0200" stop="20250609202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250609202000 +0200" stop="20250609214000 +0200" channel="Rai Südtirol">
+    <title>Klangliches Erbe</title>
+    <sub-title>Die Geschichte einer Glocke</sub-title>
+    <desc>Mit ihrem tiefen "Des" zählt die "Große von Taufers" noch heute zu den wohlklingendsten Glocken im Lande. Sie wurde 1796 in Mühlen in Taufers gegossen und hat eine bewegende Geschichte.
+
+Glockengießen ist eine uralte Handwerkskunst, die in Südtirol mittlerweile gänzlich verschwunden ist. Wie aufwändig und komplex die Herstellung von Kirchenglocken ist, davon erzählt die große Glocke der Pfarrkirche von Taufers. Diese zweieinhalb Tonnen schwere Glocke wird 1796 in der Ortschaft Mühlen in Taufers von einem Müller und findigen Tüftler namens Sebastian Feichter - Müller-Waschtl genannt - neu gegossen. Trotz eines Zwischenfalls während der Gussarbeiten gilt die "Große von Taufers" als ein klangliches Musterbeispiel heimischer Glockengießerkunst. Die Glockengießerei von Sebastian Feichter und seinen Nachfahren ist die einzig dokumentierte, über mehrere Generationen tätige, Kirchenglockengießerei des Pustertals. Ein Dokumentarfilm von Manfred Feichter, einem Ururururenkel von Sebastian Feichter.</desc>
+  </programme>
+  <programme start="20250609214000 +0200" stop="20250609215910 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Der Penauder Höhenweg</sub-title>
+    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
+  </programme>
+  <programme start="20250609221000 +0200" stop="20250609223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250610200000 +0200" stop="20250610202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250610202000 +0200" stop="20250610203456 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Die roten Gipfel</sub-title>
+    <desc>Wie kommt Laura aus Ligurien nach Gröden? Das erzählt die sprachbegabte Lehrerin und Sängerin dem Bergführer Manni Stuffer bei einer Klettertour an den Roten Gipfeln im Naturpark Puez-Geisler.
+
+Sie ist in Genua aufgewachsen und arbeitet heute in St. Ulrich als Mittelschullehrerin: Laura Bavastro. Mittlerweile spricht sie fließend Deutsch und Ladinisch und singt in der erfolgreichen Musikgruppe "Die Ladiner" mit. Laura liebt auch das Wandern in den Dolomiten. Beim Klettern an den Roten Gipfeln im Naturpark Puez-Geisler erzählt sie uns, was sie von Ligurien nach Südtirol gebracht hat. Zusammen mit Bergführer Manfred Stuffer macht sie eine der seltenen Begehungen des sogenannten "Fünften Roten Gipfels". Gipfelerlebnisse ist eine Sendereihe von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20250610203500 +0200" stop="20250610204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die 51. Oberliga-Saison ist Geschichte. Obermais gewinnt zum ersten Mal die Meisterschaft und steigt in die Serie D auf. Virtus Bozen und die Überraschungs-Elf aus Partschins steigen ebenfalls auf das Podium. Als einzige Südtiroler Mannschaft steigt Stegen in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. 
+Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
+  </programme>
+  <programme start="20250610221000 +0200" stop="20250610223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250611200000 +0200" stop="20250611202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250611202000 +0200" stop="20250611204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Arbeitsverhältnisse im Sommer, junge Menschen und die Steuererklärung, die Waldbrände im Vinschgau und ihre Folgen, der Werkstoff Corian für modernes Südtiroler Design.
+
+Viele Jugendliche nutzen die Sommermonate, um erste Schritte ins Berufsleben zu wagen. Doch Ferienjob ist nicht gleich Ferienjob: Was unterscheidet einen Ferialvertrag von einem Sommerpraktikum? Und warum sind frühe Arbeitserfahrungen so wertvoll? Wir fragen bei der ASGB-Jugend nach, und bei jungen Menschen.
+Wer arbeitet, zahlt Steuern - aber gilt das auch für Jugendliche mit Ferienjob oder Praktikum? Die Expertinnen des ASGB-Steuerbeistandszentrums Bozen erklären, was es zu beachten gibt und welche Vorteile eine Steuererklärung jungen Menschen bringen kann.
+Die schweren Waldbrände im Vinschgau im Frühjahr 2025 haben deutliche Spuren hinterlassen. Wir blicken auf die ökologischen und gesellschaftlichen Folgen - von Luft und Boden bis hin zu den betroffenen Menschen.
+Handwerk trifft Hightech: Seit über 20 Jahren setzt die Firma Planit in Auer auf den Werkstoff Corian und entwickelt individuelle Lösungen für modernes Design.</desc>
+  </programme>
+  <programme start="20250611221000 +0200" stop="20250611223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250612200000 +0200" stop="20250612202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250612202000 +0200" stop="20250612204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Endlich Urlaub!</sub-title>
+    <desc>Immer mehr Menschen verreisen heute mit Camper oder Wohnwagen. Warum ist das so beliebt und welche Urlaubstrends gibt es im heurigen Sommer? Moderation: Karin Gschnitzer.
+
+Camping hat sich längst von einem Nischenhobby zu einem Urlaubstrend entwickelt. Neue Ansätze wie nachhaltiges Reisen, Komfort-Camping und Abenteuer zu allen Jahreszeiten machen es so beliebt. Welche Trends es heuer gibt, hat das Südtirol Magazin recherchiert. 
+Mit unserem mobilen Reporter hören wir uns um, wo die Südtiroler:innen heuer Urlaub machen. Und in der Rubrik "Schon gewusst" bringen wir Fakten rund ums Thema Reisen.</desc>
+  </programme>
+  <programme start="20250612213000 +0200" stop="20250612215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Mit der traditionellen FISI-Night und der Prämierung der erfolgreichsten Nachwuchssportler:innen ist die Wintersaison endgültig abgeschlossen worden. Alle blicken jetzt auf die Olympischen Winterspiele 2026. Bis zur Eröffnungsfeier sind es noch mehr als 200 Tage, jedoch die Vorbereitungen laufen schon seit langem auf Hochtouren. Kürzlich waren 80 Sportjournalisten aus der ganzen Welt bei uns zu Besuch, um die Olympiaanlagen in Antholz und im Fleimstal begutachten.</desc>
+  </programme>
+  <programme start="20250612221000 +0200" stop="20250612223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250613180000 +0200" stop="20250613182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title/>
+    <desc>Immer mehr Menschen verreisen heute mit Camper oder Wohnwagen. Warum ist das so beliebt und welche Urlaubstrends gibt es im heurigen Sommer? Moderation: Karin Gschnitzer.
+
+Camping hat sich längst von einem Nischenhobby zu einem Urlaubstrend entwickelt. Neue Ansätze wie nachhaltiges Reisen, Komfort-Camping und Abenteuer zu allen Jahreszeiten machen es so beliebt. Welche Trends es heuer gibt, hat das Südtirol Magazin recherchiert. Mit unserem mobilen Reporter hören wir uns um, wo die Südtiroler:innen heuer Urlaub machen. Und in der Rubrik "Schon gewusst" bringen wir Fakten rund ums Thema Reisen.</desc>
+  </programme>
+  <programme start="20250613182900 +0200" stop="20250613185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Mit der traditionellen FISI-Night und der Prämierung der erfolgreichsten Nachwuchssportler:innen ist die Wintersaison endgültig abgeschlossen worden. Alle blicken jetzt auf die Olympischen Winterspiele 2026. Bis zur Eröffnungsfeier sind es noch mehr als 200 Tage, jedoch die Vorbereitungen laufen schon seit langem auf Hochtouren. Kürzlich waren 80 Sportjournalisten aus der ganzen Welt bei uns zu Besuch, um die Olympiaanlagen in Antholz und im Fleimstal begutachten.</desc>
+  </programme>
+  <programme start="20250613200000 +0200" stop="20250613202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250613202100 +0200" stop="20250613211100 +0200" channel="Rai Südtirol">
+    <title>Entgleist</title>
+    <sub-title>Die Vinschgerbahn R-108</sub-title>
+    <desc>Der Dokumentarfilm stellt unbequeme Fragen zum schwersten Zugunglück in der Geschichte Südtirols, am 12. April 2010. Es zeigt das fragile Gleichgewicht zwischen Mensch, Technik und Natur.
+
+Kein Politiker spricht gern über eine Katastrophe auf jener Vinschger Bahnstrecke, die er einst als Meilenstein feiert. Kein Hinterbliebener über die Zugfahrt, auf der er seine Tochter verlor. Kein Richter über die Frage, die bleibt, wenn ein Verfahren eine unerwartete Wendung nimmt. Kein unschuldig Angeklagter über ein Kapitel, das nie hätte geschrieben werden müssen. Kein Überlebender über das Leben danach und keine Rettungskraft über die Bilder, die nie mehr verschwinden. 
+Und doch brechen sie alle gemeinsam das Schweigen. Aus Verantwortung. Aus Erinnerung. Als Mahnung. Der Dokumentarfilm analysiert erstmals die politischen, juristischen und menschlichen Verflechtungen einer Tragödie und macht ihre Tragweite sichtbar. Das Unglück zeigt, wie fragil das Gleichgewicht zwischen Technik, Natur und Mensch in einer sensiblen, alpinen Kulturlandschaft ist. Ein Film von Michael Schweigkofler und Lisa Hintner über Verantwortung, Macht und Ohnmacht. Und über die Hoffnung, die bleibt.</desc>
+  </programme>
+  <programme start="20250613211100 +0200" stop="20250613215909 +0200" channel="Rai Südtirol">
+    <title>Face to Face</title>
+    <sub-title>Männlich, weiblich, divers</sub-title>
+    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag.</desc>
+  </programme>
+  <programme start="20250613221000 +0200" stop="20250613223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250614180000 +0200" stop="20250614182930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Unternehmer mit Passion für Kunst, Architektur - zertifizierte Nachhaltigkeit im Handwerk und deren wirtschaftlicher Nutzen. Das sind die Themen im Juni. Moderation: Christian Pfeifer. Florian Gartner ist leidenschaftlicher Hotelier, Kunstfreund und Designliebhaber. Immer wieder lädt er namhafte Schriftsteller:innen zu exklusiven Lesungen ein und verbindet so auf einzigartige Weise Gastfreundschaft mit Literatur. Wir werfen einen Blick hinter die Kulissen eines besonderen Hotels in Dorf Tirol und beobachten, wie Kultur zum wirtschaftlichen Erfolgsfaktor werden kann.
+Walter Rizzi hat mit Fleiß und Weitblick sein Unternehmen zu einem internationalen Vermittler im Obst-, Gemüse- und Lebensmittelhandel gemacht. Rizzi ist auch ein leidenschaftlicher Förderer von Kunst- und Architektur. Seine Investitionen in außergewöhnliche Bauprojekte und sein Engagement für verschiedenste Künstler spiegeln sich in seiner Unternehmensphilosophie wider: Ästhetik und Innovationsgeist als Teil des wirtschaftlichen Handelns.
+Das Südtiroler Nachhaltigkeitslabel "S" soll Handwerksbetriebe dabei unterstützen, umweltbewusst, sozial verantwortlich und wirtschaftlich zukunftsfähig zu handeln. Konkrete Vorteile für gewerbliche Betriebe sind Kosteneinsparungen, gesteigerte Wettbewerbsfähigkeit bis hin zu mehr Kundenvertrauen.</desc>
+  </programme>
+  <programme start="20250614182900 +0200" stop="20250614185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Arbeitsverhältnisse im Sommer, junge Menschen und die Steuererklärung, die Waldbrände im Vinschgau und ihre Folgen, der Werkstoff Corian für modernes Südtiroler Design. Viele Jugendliche nutzen die Sommermonate, um erste Schritte ins Berufsleben zu wagen. Doch Ferienjob ist nicht gleich Ferienjob: Was unterscheidet einen Ferialvertrag von einem Sommerpraktikum? Und warum sind frühe Arbeitserfahrungen so wertvoll? Wir fragen bei der ASGB-Jugend nach, und bei jungen Menschen. Wer arbeitet, zahlt Steuern - aber gilt das auch für Jugendliche mit Ferienjob oder Praktikum? Die Expertinnen des ASGB-Steuerbeistandszentrums Bozen erklären, was es zu beachten gibt und welche Vorteile eine Steuererklärung jungen Menschen bringen kann. Die schweren Waldbrände im Vinschgau im Frühjahr 2025 haben deutliche Spuren hinterlassen. Wir blicken auf die ökologischen und gesellschaftlichen Folgen - von Luft und Boden bis hin zu den betroffenen Menschen. Handwerk trifft Hightech: Seit über 20 Jahren setzt die Firma Planit in Auer auf den Werkstoff Corian und entwickelt individuelle Lösungen für modernes Design.</desc>
+  </programme>
+  <programme start="20250614200000 +0200" stop="20250614202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250614202100 +0200" stop="20250614202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250614202500 +0200" stop="20250614205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Die Girlaner Nähgruppe Fadenlauf, ein Unfall als Lebenseinschnitt, die Kraft aus der Schweigemeditation und das Schicksal einer Frau, die in verschiedenen Pflegefamilien aufgewachsen ist.
+
+Nach der Matura beginnt der Plauser Johannes Huber die Lehre zum Kfz-Mechatroniker. Mit 22 zwingt ihn ein schwerer Unfall, seinen Traum in Frage zu stellen. Heute ist der Harley-Davidson-Fan zu Gast bei Moderatorin Claudia Schuler.
+Benediktinerpater Plazidus aus Gries schöpft seine Kraft aus dem Schweigen. Täglich zieht er sich zurück, um seinem Herzen zu lauschen. 
+Stephanie Trebo aus Onach war sechs Jahre alt, als ihre Mutter stirbt. Für Stephanie ist dies der Beginn einer mühseligen Suche nach Heimat. Als Dirn kommt sie von einem Hof zum anderen. Wenn sie sich lautstark wehrt, muss sie gehen. Trotz dieser Erfahrung hat sie sich das Reden nie verbieten lassen.
+Die Nähgruppe Fadenlauf in Girlan besteht seit 2009 und ist in ihrer Form die einzige in Südtirol.</desc>
+  </programme>
+  <programme start="20250614221000 +0200" stop="20250614223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
