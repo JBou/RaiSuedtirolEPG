@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250607180000 +0200" stop="20250607185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Musik und Kunst als kreative Heilmethoden. Ein Blick hinter den Gartenzaun und in grüne Oasen, wo unterschiedliche Menschen zusammenkommen. 
-Klänge, Rhythmen, Pinselstriche, bunte Farbtöpfe, Rollenspiele und das pure kreative Arbeiten tun nicht nur gut, sie unterstützen auch komplexe Heilungsprozesse in unserem Körper. In der Rubrik Angeklopft besucht Magdalena Oberstaller kreative Kraftorte und lernt dabei faszinierende Persönlichkeiten kennen, die alle eines gemeinsam haben: Sie schöpfen Energie und Kraft aus kreativen Momenten.
-Doch auch Gärten sind ein Ort der Kraft, wo Menschen zusammen kommen. Karin Duregger schlüpft wieder durch Gartentore: in eine grüne Oase voller Kuriositäten in Kortsch, in einen Privatgarten in Terlan, der demenzkranken Menschen zur Verfügung steht und in den Gemeinschaftsgarten in Glurns.</desc>
-  </programme>
-  <programme start="20250607200000 +0200" stop="20250607202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250607202100 +0200" stop="20250607202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250607202500 +0200" stop="20250607204930 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Wie die Puppen der Sammlerin Edith Winkler in Sand in Taufers ein neues Zuhause bekommen. Moderation: Sigrid Flenger.
-
-Immer wieder klopfen Menschen an die Tür der Puppenmutter Edith Winkler. Sie haben keine Verwendung für ihre Puppen, wollen sie aber auch nicht wegwerfen. Weil sie ein großes Herz für jede Puppe hat, nimmt Edith Winkler alle in ihre Sammlung auf. 
-Vor einigen Monaten platzte ihr Puppenmuseum in Sand in Taufers aus allen Nähten. Deshalb baten Redakteurin Sigrid Flenger und Kameramann Agostino Fuscaldo den Bürgermeister vor die Kamera. Josef Nöckler versprach, für die 1500 Puppen ein neues Zuhause zu finden: Sie bezogen jetzt zwei Räume in der Villa Mutschlechner in Sand in Taufers. 
-Zwei bis drei Mal die Woche geht Edith Winkler ins Museum, um die Puppen zu kämmen, zu waschen und einzucremen. Dies sei nötig, sagt sie, da das Material sonst spröde werde. Denn viele der Puppen sind Raritäten.</desc>
-  </programme>
-  <programme start="20250607221000 +0200" stop="20250607223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250608200000 +0200" stop="20250608202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
