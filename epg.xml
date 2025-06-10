@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250609180000 +0200" stop="20250609181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die 51. Oberliga-Saison ist Geschichte. Obermais gewinnt zum ersten Mal die Meisterschaft und steigt in die Serie D auf. Virtus Bozen und die Überraschungs-Elf aus Partschins steigen ebenfalls auf das Podium. 
-Als einzige Südtiroler Mannschaft steigt Stegen in die Landesliga ab. Bewährt hat sich die oberste regionale Spielklasse einmal mehr als Publikumsmagnet. 
-Wir ziehen mit den Protagonisten der Meisterschaft Bilanz.</desc>
-  </programme>
-  <programme start="20250609181400 +0200" stop="20250609183330 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Kindergemeinderat in Girlan</sub-title>
-    <desc>Einmal im Jahr wird es spannend in Eppan: Dann treffen sich Kinder aus den Grundschulen zum Kindergemeinderat. Sie werden demokratisch gewählt und dürfen dem Bürgermeister ihre Ideen vorstellen: zum Beispiel, wie man die Gemeinde kinderfreundlicher und sicherer machen kann. 
-Clownfrau Karamela trifft in Girlan engagierte Kinder-Suchtrupps. Die spüren Probleme auf - wie defekte Spielgeräte am Kinderspielplatz, Müll auf den Straßen - und sammeln einfache Lösungsvorschläge. Dies wird dann beim Kindergemeinderat besprochen.</desc>
-  </programme>
-  <programme start="20250609183400 +0200" stop="20250609185830 +0200" channel="Rai Südtirol">
-    <title>Alpen Donau Adria</title>
-    <sub-title/>
-    <desc>Wie die Puppen der Sammlerin Edith Winkler in Sand in Taufers ein neues Zuhause bekommen. Moderation: Sigrid Flenger.Immer wieder klopfen Menschen an die Tür der Puppenmutter Edith Winkler. Sie haben keine Verwendung für ihre Puppen, wollen sie aber auch nicht wegwerfen. Weil sie ein großes Herz für jede Puppe hat, nimmt Edith Winkler alle in ihre Sammlung auf. 
-Vor einigen Monaten platzte ihr Puppenmuseum in Sand in Taufers aus allen Nähten. Deshalb baten Redakteurin Sigrid Flenger und Kameramann Agostino Fuscaldo den Bürgermeister vor die Kamera. Josef Nöckler versprach, für die 1500 Puppen ein neues Zuhause zu finden: Sie bezogen jetzt zwei Räume in der Villa Mutschlechner in Sand in Taufers. 
-Zwei bis drei Mal die Woche geht Edith Winkler ins Museum, um die Puppen zu kämmen, zu waschen und einzucremen. Dies sei nötig, sagt sie, da das Material sonst spröde werde. Denn viele der Puppen sind Raritäten.</desc>
-  </programme>
-  <programme start="20250609200000 +0200" stop="20250609202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250609202000 +0200" stop="20250609214000 +0200" channel="Rai Südtirol">
-    <title>Klangliches Erbe</title>
-    <sub-title>Die Geschichte einer Glocke</sub-title>
-    <desc>Mit ihrem tiefen "Des" zählt die "Große von Taufers" noch heute zu den wohlklingendsten Glocken im Lande. Sie wurde 1796 in Mühlen in Taufers gegossen und hat eine bewegende Geschichte.
-
-Glockengießen ist eine uralte Handwerkskunst, die in Südtirol mittlerweile gänzlich verschwunden ist. Wie aufwändig und komplex die Herstellung von Kirchenglocken ist, davon erzählt die große Glocke der Pfarrkirche von Taufers. Diese zweieinhalb Tonnen schwere Glocke wird 1796 in der Ortschaft Mühlen in Taufers von einem Müller und findigen Tüftler namens Sebastian Feichter - Müller-Waschtl genannt - neu gegossen. Trotz eines Zwischenfalls während der Gussarbeiten gilt die "Große von Taufers" als ein klangliches Musterbeispiel heimischer Glockengießerkunst. Die Glockengießerei von Sebastian Feichter und seinen Nachfahren ist die einzig dokumentierte, über mehrere Generationen tätige, Kirchenglockengießerei des Pustertals. Ein Dokumentarfilm von Manfred Feichter, einem Ururururenkel von Sebastian Feichter.</desc>
-  </programme>
-  <programme start="20250609214000 +0200" stop="20250609215910 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Der Penauder Höhenweg</sub-title>
-    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
-  </programme>
-  <programme start="20250609221000 +0200" stop="20250609223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250610200000 +0200" stop="20250610202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
