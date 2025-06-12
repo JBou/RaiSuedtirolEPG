@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250611200000 +0200" stop="20250611202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250611202000 +0200" stop="20250611204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Arbeitsverhältnisse im Sommer, junge Menschen und die Steuererklärung, die Waldbrände im Vinschgau und ihre Folgen, der Werkstoff Corian für modernes Südtiroler Design.
-
-Viele Jugendliche nutzen die Sommermonate, um erste Schritte ins Berufsleben zu wagen. Doch Ferienjob ist nicht gleich Ferienjob: Was unterscheidet einen Ferialvertrag von einem Sommerpraktikum? Und warum sind frühe Arbeitserfahrungen so wertvoll? Wir fragen bei der ASGB-Jugend nach, und bei jungen Menschen.
-Wer arbeitet, zahlt Steuern - aber gilt das auch für Jugendliche mit Ferienjob oder Praktikum? Die Expertinnen des ASGB-Steuerbeistandszentrums Bozen erklären, was es zu beachten gibt und welche Vorteile eine Steuererklärung jungen Menschen bringen kann.
-Die schweren Waldbrände im Vinschgau im Frühjahr 2025 haben deutliche Spuren hinterlassen. Wir blicken auf die ökologischen und gesellschaftlichen Folgen - von Luft und Boden bis hin zu den betroffenen Menschen.
-Handwerk trifft Hightech: Seit über 20 Jahren setzt die Firma Planit in Auer auf den Werkstoff Corian und entwickelt individuelle Lösungen für modernes Design.</desc>
-  </programme>
-  <programme start="20250611221000 +0200" stop="20250611223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250612200000 +0200" stop="20250612202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
