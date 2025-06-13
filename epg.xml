@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250612200000 +0200" stop="20250612202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250612202000 +0200" stop="20250612204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Endlich Urlaub!</sub-title>
-    <desc>Immer mehr Menschen verreisen heute mit Camper oder Wohnwagen. Warum ist das so beliebt und welche Urlaubstrends gibt es im heurigen Sommer? Moderation: Karin Gschnitzer.
-
-Camping hat sich längst von einem Nischenhobby zu einem Urlaubstrend entwickelt. Neue Ansätze wie nachhaltiges Reisen, Komfort-Camping und Abenteuer zu allen Jahreszeiten machen es so beliebt. Welche Trends es heuer gibt, hat das Südtirol Magazin recherchiert. 
-Mit unserem mobilen Reporter hören wir uns um, wo die Südtiroler:innen heuer Urlaub machen. Und in der Rubrik "Schon gewusst" bringen wir Fakten rund ums Thema Reisen.</desc>
-  </programme>
-  <programme start="20250612213000 +0200" stop="20250612215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Mit der traditionellen FISI-Night und der Prämierung der erfolgreichsten Nachwuchssportler:innen ist die Wintersaison endgültig abgeschlossen worden. Alle blicken jetzt auf die Olympischen Winterspiele 2026. Bis zur Eröffnungsfeier sind es noch mehr als 200 Tage, jedoch die Vorbereitungen laufen schon seit langem auf Hochtouren. Kürzlich waren 80 Sportjournalisten aus der ganzen Welt bei uns zu Besuch, um die Olympiaanlagen in Antholz und im Fleimstal begutachten.</desc>
-  </programme>
-  <programme start="20250612221000 +0200" stop="20250612223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250613180000 +0200" stop="20250613182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
@@ -117,6 +94,197 @@ Der Bittgang über das Niederjöchl hat seine Wurzeln im 16. Jahrhundert. Bis he
     <desc/>
   </programme>
   <programme start="20250615221000 +0200" stop="20250615223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250616180000 +0200" stop="20250616181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Für die Südtiroler Amateurfußballer hat die Sommerpause begonnen. Wir blicken mit den Aufsteigern der Saison auf ein sehr erfolgreiches Jahr zurück: Der FC Obermais hat die Oberliga gewonnen und erstmals in seiner Vereinsgeschichte den Sprung in die Serie D geschafft. Landesliga-Meister Ahrntal und Vizemeister Gröden steigen in die Oberliga auf, beide mit großen Ambitionen.</desc>
+  </programme>
+  <programme start="20250616181400 +0200" stop="20250616182500 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Erinnerungen an Luis Runer</sub-title>
+    <desc>Die Werkstatt vom Terlaner Luis Runer - er verstarb vor einem Jahr im Alter von 98 Jahren - ist ein Archiv an Bohrern, Zangen und Fräsmaschinen, an Winkelschlüsseln, Gewinden, Schraubendrehern, Schleifgeräten, an Nägeln, Klebern, Drähten. Viele können damit nichts mehr anfangen. Für ihn ist sein Universum Alltag, Geschichte und Gegenwart in einem. Seine Werkstatt ist ein antiquierter Computer, hier ist alles gespeichert, und er weiß, wo er was findet - meistens.</desc>
+  </programme>
+  <programme start="20250616182500 +0200" stop="20250616185430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Die Girlaner Nähgruppe Fadenlauf, ein Unfall als Lebenseinschnitt, die Kraft aus der Schweigemeditation und das Schicksal einer Frau, die in verschiedenen Pflegefamilien aufgewachsen ist. Nach der Matura beginnt der Plauser Johannes Huber die Lehre zum Kfz-Mechatroniker. Mit 22 zwingt ihn ein schwerer Unfall, seinen Traum in Frage zu stellen. Heute ist der Harley-Davidson-Fan zu Gast bei Moderatorin Claudia Schuler.
+Benediktinerpater Plazidus aus Gries schöpft seine Kraft aus dem Schweigen. Täglich zieht er sich zurück, um seinem Herzen zu lauschen. 
+Stephanie Trebo aus Onach war sechs Jahre alt, als ihre Mutter stirbt. Für Stephanie ist dies der Beginn einer mühseligen Suche nach Heimat. Als Dirn kommt sie von einem Hof zum anderen. Wenn sie sich lautstark wehrt, muss sie gehen. Trotz dieser Erfahrung hat sie sich das Reden nie verbieten lassen.
+Die Nähgruppe Fadenlauf in Girlan besteht seit 2009 und ist in ihrer Form die einzige in Südtirol.</desc>
+  </programme>
+  <programme start="20250616200000 +0200" stop="20250616202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250616202000 +0200" stop="20250616211830 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der Meraner Schauspieler Fabian Mair Mitterer, eine moderne Adaptierung des Märchens Der Froschkönig in der Villa Freischütz, die Architektur-Biennale in Venedig. Moderation: Alex Lechner.
+
+Er ist 24, spielt bereits beim Berliner Ensemble und möchte noch lange auf der Suche sein: Der gebürtige Meraner Fabian Mair Mitterer spielt mit Hingabe, Neugierde und dem Mut, nicht perfekt zu sein. Jeder Abend wird anders, weil das Publikum ein anderes ist. "Der Froschkönig. Ein Märchen für morgen" ist in Zusammenarbeit mit dem Ensemble des Theatervereins Praxnknecht entstanden und wird in der Villa Freischütz in Meran aufgeführt. Der sprechende Frosch hilft der Prinzessin, ihre Sicht auf die Welt zu verändern. Gemeinsam entscheiden sie, keinen pompösen Geburtstag, sondern ein Fest für die Natur zu feiern. 
+Ende Mai haben Südtiroler Künstlerbund und SAAV die Vielfalt der heimischen Literaturszene gefeiert. 30 Mitglieder haben aus ihren Werken gelesen und gezeigt, was Literatur alles kann.
+"Orchestriamoci! Musik und Wohlbefinden für ein aktives Altern" ist eine neue Initiative der Weiterbildungsorganisation CESFOR zusammen mit der Stiftung Haydn und weiteren Partnern. Im Mittelpunkt stehen musiktherapeutische Workshops für Senior:innen in Bozner Pflegeeinrichtungen. 
+Kürzlich wurde in Venedig, die 19.Architekturbiennale eröffnet. Das Thema lautet: Intelligens.Natürlich.Künstlich.Kollektiv. 
+Gäste von Moderator Alex Lechner sind diesmal Max von Pretz, künstlerischer Leiter des Südtirol Jazz Festivals und der Regisseur, Schauspieler und Coach Franz Braun.</desc>
+  </programme>
+  <programme start="20250616211900 +0200" stop="20250616213222 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Angelika König und Simone Mayr fühlen Motorsportbegeisterten auf den Zahn bzw. auf die Zahnräder. 
+Mit 1988 enden die Bergrennen in Südtirol per Dekret. Eine Attraktion bis dahin war das Mendelrennen, das seit 1930 Rennfahrer:innen aus ganz Europa an den Start lockte und ein Publikumsmagnet war. Und heute? 
+Motorsportbegeisterte messen sich seit 2018 auf einem Teil der alten Rennstrecke im Bergslalom Kaltern-Eppan Mendel und bringen den Asphalt zum Beben. Simone Mayr und Angelika fühlen den Rennfahrer:innen auf die Zahnräder und bringen ihre Giulia auf die Rennpiste.</desc>
+  </programme>
+  <programme start="20250616213200 +0200" stop="20250616215938 +0200" channel="Rai Südtirol">
+    <title>Architektur in Bewegung</title>
+    <sub-title/>
+    <desc>Welche Anforderungen muss Architektur im Hinblick auf Sportgebäude erfüllen? Beispiele im Land zeigen, dass sie eine wichtige Vermittlerrolle spielt, um die Generationen zusammenzubringen. Vom öffentlichen Schwimmbad in Bozen aus unternimmt die TV-Dokumentation von Martin Hanni eine Reise zu diversen Sportgebäuden im ländlichen Raum und zeigt punktuelle Eingriffe. Die architektonischen Abstecher führen auf den Fußballplatz von Laag im Unterland, in die Naherholungszone Santenwaldele in St. Pankraz in Ulten, nach Steinmannwald bei Leifers und ins Zentrum von St. Martin in Passeier. 
+Außerdem geht es ans Ufer des Reschensees, wo zwei Architekten der Wassersportart Kiten verfallen sind. Da es keinen geeigneten Treffpunkt für Kiter gab, haben die beiden Planer die Umsetzung eines passenden Mehrzweckgebäudes realisiert. 
+Die unterschiedlichen Baubeispiele zeigen, wie Sportanlagen - zeitgemäß gedacht - zu kleinen Zentren werden, in denen sich junge und ältere Generationen begegnen und wo Architektur die Rolle einer Vermittlerin einnimmt.</desc>
+  </programme>
+  <programme start="20250616221000 +0200" stop="20250616223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250617200000 +0200" stop="20250617202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250617202000 +0200" stop="20250617202918 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Apfelexpress-Konservierung</sub-title>
+    <desc>Die Bahnstrecke zwischen Burgstall und Oberlana war Anfang des 20. Jahrhunderts mit gerade einmal 4,35 km die kürzeste Bahnstrecke Südtirols.
+
+Für die Wirtschaft freilich von großer Bedeutung, denn mit dem sogenannten Apfelexpress erreichten die Obstbauern der Gemeinde die 1881 errichtete Bozen-Meraner-Bahn und damit den Zugang zu den Märkten in ganz Europa. Die Güterzüge wurden von 100 PS starken 20 Tonnenschweren E-Loks gezogen. Zwei Apfelexpress Lokomotiven sind noch erhalten.</desc>
+  </programme>
+  <programme start="20250617202900 +0200" stop="20250617204330 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Für die Südtiroler Amateurfußballer hat die Sommerpause begonnen. Wir blicken mit den Aufsteigern der Saison auf ein sehr erfolgreiches Jahr zurück: Der FC Obermais hat die Oberliga gewonnen und erstmals in seiner Vereinsgeschichte den Sprung in die Serie D geschafft. Landesliga-Meister Ahrntal und Vizemeister Gröden steigen in die Oberliga auf, beide mit großen Ambitionen.</desc>
+  </programme>
+  <programme start="20250617221000 +0200" stop="20250617223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250618200000 +0200" stop="20250618202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250618202000 +0200" stop="20250618204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Das Journalismus-Fest in Innsbruck und die Anliegen von Minderheiten - 25 Jahre Caritas-Dienst für Mediation für Roma und Sinti - kleine Volksstämme, die ums Überleben kämpfen.
+
+Das Journalismus-Fest kürzlich in Innsbruck ist ein Ort der Begegnung, des kulturellen Austauschs und des Vertiefens von Inhalten. Unter dem Minderheiten-Fokus gab es kritische Diskussionen und Einblicke, etwa zur Anerkennung der Jenischen in der Schweiz und in Österreich, zu einem kurdischen Graswurzel-Medienprojekt in Syrien und zum Konflikt um Bergkarabach zwischen Armenien und Aserbaidschan. 
+Seit 25 Jahren unterstützt der Caritas-Dienst für Interkulturelle Mediation junge Sinti und Roma bei Schulproblemen. Sie unterstützen bei fehlendem Selbstvertrauen, engagieren sich aber auch für mehr Toleranz und Solidarität. 
+Auf der indonesischen Insel Lebowa kämpft ein kleiner Volksstamm um den Erhalt seiner Sprache und Kultur. Filmemacher Wolfgang Penn hat sie besucht. 
+In der Reihe "Tribal Voices" berichten wir über die verheerenden Auswirkungen des Kohleabbaus für das Volk der Adivasi in Zentralindien. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20250618221000 +0200" stop="20250618223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250619200000 +0200" stop="20250619202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250619202000 +0200" stop="20250619205316 +0200" channel="Rai Südtirol">
+    <title>Hüter der Luft</title>
+    <sub-title/>
+    <desc>Vom ersten bis zum letzten Atemzug begleitet uns die Luft. Etwa 20.000 Mal am Tag atmen wir
+ein und aus. Doch was wissen wir über das Element Luft? Und wie sauber ist sie in Südtirol? 
+
+In der Reportage "Hüter der Luft" widmet sich Filmemacher Andreas Niederkofler gemeinsam mit dem Labor für Luftanalysen und Strahlenschutz der Luftqualität in Südtirol. Wir besuchen die
+Messstationen am Ritten und in Bozen, begleiten Wissenschaftler bei der Untersuchung von
+Luftproben in Klassenzimmern und gewähren detaillierte Einblicke in die Prozesse der
+Müllverbrennungsanlage. Die Reportage zeigt auch die Bedeutung sauberer Luft für unsere
+Gesundheit.</desc>
+  </programme>
+  <programme start="20250619221000 +0200" stop="20250619223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250620180700 +0200" stop="20250620182830 +0200" channel="Rai Südtirol">
+    <title>Betend übers Joch DOKU und Making of</title>
+    <sub-title>Von St. Martin im Kofel nach Schnals</sub-title>
+    <desc>Seit dem 16.Jh. gibt es am Johannistag diesen Bittgang, wo Menschen aus ganz Südtirol teilnehmen. Der Amateurfilmer-Verein Vinschgau hat diese jährliche Tradition dokumentiert.
+Der Bittgang übers Joch beginnt mit einer Seilbahnfahrt von Latsch nach St. Martin im Kofel. Etwa 60 Pilger aus dem ganzen Land sind dabei. Es ist Ende Juni, der Tag des Heiligen Johannes des Täufers. Früher wurde bei der Wallfahrt um eine gute Kornernte gebetet. Heute beten die Gläubigen vor allem zum Schutzengel. Er möge sie bei der harten Arbeit am Berg vor Unglück bewahren. 
+Der Bittgang über das Niederjöchl hat seine Wurzeln im 16. Jahrhundert. Bis heute ist der Bittgang so gut wie nie ausgefallen. Sogar in den Kriegsjahren sind die Menschen übers Joch gepilgert. Aus Lärchenzweigen und Blüten winden die Frauen einen Kranz für das Bittgang-Kreuz. Nach über sieben Stunden Fußmarsch und nach 15 Rosenkränzen ist das Ziel in Sicht: der Aufstieg zur Kirche in Unsere Liebe Frau in Schnals.</desc>
+  </programme>
+  <programme start="20250620182900 +0200" stop="20250620185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Das Journalismus-Fest in Innsbruck und die Anliegen von Minderheiten - 25 Jahre Caritas-Dienst für Mediation für Roma und Sinti - kleine Volksstämme, die ums Überleben kämpfen.
+Das Journalismus-Fest kürzlich in Innsbruck ist ein Ort der Begegnung, des kulturellen Austauschs und des Vertiefens von Inhalten. Unter dem Minderheiten-Fokus gab es kritische Diskussionen und Einblicke, etwa zur Anerkennung der Jenischen in der Schweiz und in Österreich, zu einem kurdischen Graswurzel-Medienprojekt in Syrien und zum Konflikt um Bergkarabach zwischen Armenien und Aserbaidschan. 
+Seit 25 Jahren unterstützt der Caritas-Dienst für Interkulturelle Mediation junge Sinti und Roma bei Schulproblemen. Sie unterstützen bei fehlendem Selbstvertrauen, engagieren sich aber auch für mehr Toleranz und Solidarität. 
+Auf der indonesischen Insel Lebowa kämpft ein kleiner Volksstamm um den Erhalt seiner Sprache und Kultur. Filmemacher Wolfgang Penn hat sie besucht. 
+In der Reihe "Tribal Voices" berichten wir über die verheerenden Auswirkungen des Kohleabbaus für das Volk der Adivasi in Zentralindien. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20250620200000 +0200" stop="20250620202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250620202100 +0200" stop="20250620205848 +0200" channel="Rai Südtirol">
+    <title>Bäuerliche Kapellen</title>
+    <sub-title/>
+    <desc>Kapellen bei Höfen, in entlegenen Weilern und entlang von Wegen sind typisch für Südtirols Kulturlandschaft. Eine Dokumentation von Margot Schwienbacher und Günther Haller.
+ 
+Manche dieser Kapellen sind schlicht und liegen fast ein wenig versteckt. Andere sind ausgeschmückt und sehr persönlich gestaltet und stellen einen richtigen Blickfang in der Landschaft dar. Doch allen bäuerlichen Kapellen ist eines gemeinsam: Sie sind besondere Zeugnisse des Glaubens und der Volksreligiosität und erzählen viele interessante Geschichten.</desc>
+  </programme>
+  <programme start="20250620205800 +0200" stop="20250620215502 +0200" channel="Rai Südtirol">
+    <title>Silvius Magnago</title>
+    <sub-title>Das Erbe</sub-title>
+    <desc>Anlässlich seines 15.Todestages am 25.Mai stellt der Film von Adina Guarnieri und Klaus Romen das Leben und Wirken von Silvius Magnago in den Mittelpunkt. Silvius Magnago wurde in einem Land geboren, das es nicht mehr gibt. Und so wie ihm erging es vielen in diesem "kurzen Jahrhundert", wie der Historiker Eric J. Hobsbawn die Zeit zwischen 1914 und 1991 definiert hat: Zwei Weltkriege, Genozide, Kalter Krieg - aber auch Widerstand, Demokratisierung, die Einigung Europas. 
+Und mittendrin Südtirol - geografisch als auch politisch. Mittendrin war auch Silvius Magnago. "Vater der Autonomie" wird er genannt. Ihm und seinen Mitstreitern ist es zu verdanken, dass Südtirol heute als Paradebeispiel für Minderheitenschutz gilt. Doch es war ein steiniger Weg - der Weg der Diplomatie. Unsere Autonomie war ein Gemeinschaftsprojekt zwischen Bozen, Rom und Wien, das nur realisiert werden konnte, weil alle Beteiligten ein gemeinsames Ziel vor Augen hatten: eine gewaltfreie Lösung der Südtirolfrage. 
+Was bleibt von seinem Leben? Wo ist der Mensch hinter der Geschichte und was hat uns Silvius Magnago heute noch zu sagen?</desc>
+  </programme>
+  <programme start="20250620221000 +0200" stop="20250620223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250621180000 +0200" stop="20250621185930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der Meraner Schauspieler Fabian Mair Mitterer, eine moderne Adaptierung des Märchens Der Froschkönig in der Villa Freischütz, die Architektur-Biennale in Venedig. Moderation: Alex Lechner.
+Er ist 24, spielt bereits beim Berliner Ensemble und möchte noch lange auf der Suche sein: Der gebürtige Meraner Fabian Mair Mitterer spielt mit Hingabe, Neugierde und dem Mut, nicht perfekt zu sein. Jeder Abend wird anders, weil das Publikum ein anderes ist. "Der Froschkönig. Ein Märchen für morgen" ist in Zusammenarbeit mit dem Ensemble des Theatervereins Praxnknecht entstanden und wird in der Villa Freischütz in Meran aufgeführt. Der sprechende Frosch hilft der Prinzessin, ihre Sicht auf die Welt zu verändern. Gemeinsam entscheiden sie, keinen pompösen Geburtstag, sondern ein Fest für die Natur zu feiern. 
+Ende Mai haben Südtiroler Künstlerbund und SAAV die Vielfalt der heimischen Literaturszene gefeiert. 30 Mitglieder haben aus ihren Werken gelesen und gezeigt, was Literatur alles kann.
+"Orchestriamoci! Musik und Wohlbefinden für ein aktives Altern" ist eine neue Initiative der Weiterbildungsorganisation CESFOR zusammen mit der Stiftung Haydn und weiteren Partnern. Im Mittelpunkt stehen musiktherapeutische Workshops für Senior:innen in Bozner Pflegeeinrichtungen. 
+Kürzlich wurde in Venedig, die 19.Architekturbiennale eröffnet. Das Thema lautet: Intelligens.Natürlich.Künstlich.Kollektiv. 
+Gäste von Moderator Alex Lechner sind diesmal Max von Pretz, künstlerischer Leiter des Südtirol Jazz Festivals und der Regisseur, Schauspieler und Coach Franz Braun.</desc>
+  </programme>
+  <programme start="20250621200000 +0200" stop="20250621202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250621202100 +0200" stop="20250621202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250621202500 +0200" stop="20250621204930 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Ein Genpool des gefährdeten Dohlenkrebses im Aquatischen Artenschutzzentrum in Schenna, Papageien und Wildtiere im Artenschutzzentrum in St. Georgen. Moderation: Christine Lasta.
+
+Gebietsfremde Krebsarten bedrohen den einheimischen Dohlenkrebs, von dem es nur mehr einige wenige Populationen in Südtirol gibt. Im Aquatischen Artenschutzzentrum des Landes in Schenna entsteht zurzeit ein Genpool des Dohlenkrebses. Sein großer Feind ist der rote amerikanische Sumpfkrebs, der aus dem Süden eingewandert ist. Dessen Ausbreitung soll durch Information der Bevölkerung eingeschränkt werden.
+In St.Georgen im Pustertal gibt es ebenfalls ein Artenschutzzentum. Farbenprächtige Papageien werden dort in riesigen Volieren betreut, und im angrenzenden Biodiversitätsgarten haben Wildtiere einen idealen Lebensraum.
+Weiters berichtet Pluto über Wissenswertes aus dem Tierreich und stellt Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20250621221000 +0200" stop="20250621223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
