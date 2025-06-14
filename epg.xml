@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250613180000 +0200" stop="20250613182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Immer mehr Menschen verreisen heute mit Camper oder Wohnwagen. Warum ist das so beliebt und welche Urlaubstrends gibt es im heurigen Sommer? Moderation: Karin Gschnitzer.
-
-Camping hat sich längst von einem Nischenhobby zu einem Urlaubstrend entwickelt. Neue Ansätze wie nachhaltiges Reisen, Komfort-Camping und Abenteuer zu allen Jahreszeiten machen es so beliebt. Welche Trends es heuer gibt, hat das Südtirol Magazin recherchiert. Mit unserem mobilen Reporter hören wir uns um, wo die Südtiroler:innen heuer Urlaub machen. Und in der Rubrik "Schon gewusst" bringen wir Fakten rund ums Thema Reisen.</desc>
-  </programme>
-  <programme start="20250613182900 +0200" stop="20250613185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Mit der traditionellen FISI-Night und der Prämierung der erfolgreichsten Nachwuchssportler:innen ist die Wintersaison endgültig abgeschlossen worden. Alle blicken jetzt auf die Olympischen Winterspiele 2026. Bis zur Eröffnungsfeier sind es noch mehr als 200 Tage, jedoch die Vorbereitungen laufen schon seit langem auf Hochtouren. Kürzlich waren 80 Sportjournalisten aus der ganzen Welt bei uns zu Besuch, um die Olympiaanlagen in Antholz und im Fleimstal begutachten.</desc>
-  </programme>
-  <programme start="20250613200000 +0200" stop="20250613202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250613202100 +0200" stop="20250613211100 +0200" channel="Rai Südtirol">
-    <title>Entgleist</title>
-    <sub-title>Die Vinschgerbahn R-108</sub-title>
-    <desc>Der Dokumentarfilm stellt unbequeme Fragen zum schwersten Zugunglück in der Geschichte Südtirols, am 12. April 2010. Es zeigt das fragile Gleichgewicht zwischen Mensch, Technik und Natur.
-
-Kein Politiker spricht gern über eine Katastrophe auf jener Vinschger Bahnstrecke, die er einst als Meilenstein feiert. Kein Hinterbliebener über die Zugfahrt, auf der er seine Tochter verlor. Kein Richter über die Frage, die bleibt, wenn ein Verfahren eine unerwartete Wendung nimmt. Kein unschuldig Angeklagter über ein Kapitel, das nie hätte geschrieben werden müssen. Kein Überlebender über das Leben danach und keine Rettungskraft über die Bilder, die nie mehr verschwinden. 
-Und doch brechen sie alle gemeinsam das Schweigen. Aus Verantwortung. Aus Erinnerung. Als Mahnung. Der Dokumentarfilm analysiert erstmals die politischen, juristischen und menschlichen Verflechtungen einer Tragödie und macht ihre Tragweite sichtbar. Das Unglück zeigt, wie fragil das Gleichgewicht zwischen Technik, Natur und Mensch in einer sensiblen, alpinen Kulturlandschaft ist. Ein Film von Michael Schweigkofler und Lisa Hintner über Verantwortung, Macht und Ohnmacht. Und über die Hoffnung, die bleibt.</desc>
-  </programme>
-  <programme start="20250613211100 +0200" stop="20250613215909 +0200" channel="Rai Südtirol">
-    <title>Face to Face</title>
-    <sub-title>Männlich, weiblich, divers</sub-title>
-    <desc>Erfolgreich ist, wer den Stereotypen von Frau und Mann entspricht. Und wenn man anders ist? Im Film Face to Face wehren sich sechs Protagonist:innen gegen die normalen Ausgrenzungen im Alltag.</desc>
-  </programme>
-  <programme start="20250613221000 +0200" stop="20250613223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250614180000 +0200" stop="20250614182930 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -285,6 +250,29 @@ In St.Georgen im Pustertal gibt es ebenfalls ein Artenschutzzentum. Farbenpräch
 Weiters berichtet Pluto über Wissenswertes aus dem Tierreich und stellt Vierbeiner vor, die ein Zuhause suchen.</desc>
   </programme>
   <programme start="20250621221000 +0200" stop="20250621223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250622200000 +0200" stop="20250622202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250622202000 +0200" stop="20250622204930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Judith Gögele</sub-title>
+    <desc>Eine Frau, die durch Leidenschaft, Bodenständigkeit und Visionen beeindruckt: Judith Gögele, Unternehmerin, Weinbäuerin, Business-Coachin, Präsidentin von VBB und Kommunikationsbeirat.
+
+Als ältestes von fünf Kindern auf einem Bergbauernhof in St. Leonhard in Passeier aufgewachsen, hat sie viele Wege beschritten - und gestaltet auch heute aktiv mit: als Unternehmerin, Life- und Business-Coachin, Kulturvermittlerin sowie Präsidentin der Vereinigten Bühnen Bozen und des Kommunikationsbeirates des Landes.
+Heute lebt sie als Weinbäuerin in Bozen. Im Gespräch mit Markus Frings spricht Judith Gögele über ihre Wurzeln, ihren unkonventionellen Lebensweg und die Kraft, sich selbst treu zu bleiben. Ihr Motto: "Es gibt im Leben nur eine Person, der du es recht machen kannst - und das bist du selbst. Und selbst das gelingt nicht immer."</desc>
+  </programme>
+  <programme start="20250622205000 +0200" stop="20250622205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250622221000 +0200" stop="20250622223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
