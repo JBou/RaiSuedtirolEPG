@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250614180000 +0200" stop="20250614182930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Unternehmer mit Passion für Kunst, Architektur - zertifizierte Nachhaltigkeit im Handwerk und deren wirtschaftlicher Nutzen. Das sind die Themen im Juni. Moderation: Christian Pfeifer. Florian Gartner ist leidenschaftlicher Hotelier, Kunstfreund und Designliebhaber. Immer wieder lädt er namhafte Schriftsteller:innen zu exklusiven Lesungen ein und verbindet so auf einzigartige Weise Gastfreundschaft mit Literatur. Wir werfen einen Blick hinter die Kulissen eines besonderen Hotels in Dorf Tirol und beobachten, wie Kultur zum wirtschaftlichen Erfolgsfaktor werden kann.
-Walter Rizzi hat mit Fleiß und Weitblick sein Unternehmen zu einem internationalen Vermittler im Obst-, Gemüse- und Lebensmittelhandel gemacht. Rizzi ist auch ein leidenschaftlicher Förderer von Kunst- und Architektur. Seine Investitionen in außergewöhnliche Bauprojekte und sein Engagement für verschiedenste Künstler spiegeln sich in seiner Unternehmensphilosophie wider: Ästhetik und Innovationsgeist als Teil des wirtschaftlichen Handelns.
-Das Südtiroler Nachhaltigkeitslabel "S" soll Handwerksbetriebe dabei unterstützen, umweltbewusst, sozial verantwortlich und wirtschaftlich zukunftsfähig zu handeln. Konkrete Vorteile für gewerbliche Betriebe sind Kosteneinsparungen, gesteigerte Wettbewerbsfähigkeit bis hin zu mehr Kundenvertrauen.</desc>
-  </programme>
-  <programme start="20250614182900 +0200" stop="20250614185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Arbeitsverhältnisse im Sommer, junge Menschen und die Steuererklärung, die Waldbrände im Vinschgau und ihre Folgen, der Werkstoff Corian für modernes Südtiroler Design. Viele Jugendliche nutzen die Sommermonate, um erste Schritte ins Berufsleben zu wagen. Doch Ferienjob ist nicht gleich Ferienjob: Was unterscheidet einen Ferialvertrag von einem Sommerpraktikum? Und warum sind frühe Arbeitserfahrungen so wertvoll? Wir fragen bei der ASGB-Jugend nach, und bei jungen Menschen. Wer arbeitet, zahlt Steuern - aber gilt das auch für Jugendliche mit Ferienjob oder Praktikum? Die Expertinnen des ASGB-Steuerbeistandszentrums Bozen erklären, was es zu beachten gibt und welche Vorteile eine Steuererklärung jungen Menschen bringen kann. Die schweren Waldbrände im Vinschgau im Frühjahr 2025 haben deutliche Spuren hinterlassen. Wir blicken auf die ökologischen und gesellschaftlichen Folgen - von Luft und Boden bis hin zu den betroffenen Menschen. Handwerk trifft Hightech: Seit über 20 Jahren setzt die Firma Planit in Auer auf den Werkstoff Corian und entwickelt individuelle Lösungen für modernes Design.</desc>
-  </programme>
-  <programme start="20250614200000 +0200" stop="20250614202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250614202100 +0200" stop="20250614202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250614202500 +0200" stop="20250614205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Die Girlaner Nähgruppe Fadenlauf, ein Unfall als Lebenseinschnitt, die Kraft aus der Schweigemeditation und das Schicksal einer Frau, die in verschiedenen Pflegefamilien aufgewachsen ist.
-
-Nach der Matura beginnt der Plauser Johannes Huber die Lehre zum Kfz-Mechatroniker. Mit 22 zwingt ihn ein schwerer Unfall, seinen Traum in Frage zu stellen. Heute ist der Harley-Davidson-Fan zu Gast bei Moderatorin Claudia Schuler.
-Benediktinerpater Plazidus aus Gries schöpft seine Kraft aus dem Schweigen. Täglich zieht er sich zurück, um seinem Herzen zu lauschen. 
-Stephanie Trebo aus Onach war sechs Jahre alt, als ihre Mutter stirbt. Für Stephanie ist dies der Beginn einer mühseligen Suche nach Heimat. Als Dirn kommt sie von einem Hof zum anderen. Wenn sie sich lautstark wehrt, muss sie gehen. Trotz dieser Erfahrung hat sie sich das Reden nie verbieten lassen.
-Die Nähgruppe Fadenlauf in Girlan besteht seit 2009 und ist in ihrer Form die einzige in Südtirol.</desc>
-  </programme>
-  <programme start="20250614221000 +0200" stop="20250614223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250615200000 +0200" stop="20250615202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
