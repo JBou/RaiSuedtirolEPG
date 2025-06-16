@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250615200000 +0200" stop="20250615202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250615202800 +0200" stop="20250615204800 +0200" channel="Rai Südtirol">
-    <title>Betend übers Joch DOKU und Making of</title>
-    <sub-title>Von St. Martin im Kofel nach Schnals</sub-title>
-    <desc>Seit dem 16.Jh. gibt es am Johannistag diesen Bittgang, wo Menschen aus ganz Südtirol teilnehmen. Der Amateurfilmer-Verein Vinschgau hat diese jährliche Tradition dokumentiert.
-Der Bittgang übers Joch beginnt mit einer Seilbahnfahrt von Latsch nach St. Martin im Kofel. Etwa 60 Pilger aus dem ganzen Land sind dabei. Es ist Ende Juni, der Tag des Heiligen Johannes des Täufers. Früher wurde bei der Wallfahrt um eine gute Kornernte gebetet. Heute beten die Gläubigen vor allem zum Schutzengel. Er möge sie bei der harten Arbeit am Berg vor Unglück bewahren. 
-Der Bittgang über das Niederjöchl hat seine Wurzeln im 16. Jahrhundert. Bis heute ist der Bittgang so gut wie nie ausgefallen. Sogar in den Kriegsjahren sind die Menschen übers Joch gepilgert. Aus Lärchenzweigen und Blüten winden die Frauen einen Kranz für das Bittgang-Kreuz. Nach über sieben Stunden Fußmarsch und nach 15 Rosenkränzen ist das Ziel in Sicht: der Aufstieg zur Kirche in Unsere Liebe Frau in Schnals.</desc>
-  </programme>
-  <programme start="20250615204800 +0200" stop="20250615205200 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250615221000 +0200" stop="20250615223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250616180000 +0200" stop="20250616181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
