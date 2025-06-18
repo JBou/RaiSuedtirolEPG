@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250617200000 +0200" stop="20250617202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250617202000 +0200" stop="20250617202918 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Apfelexpress-Konservierung</sub-title>
-    <desc>Die Bahnstrecke zwischen Burgstall und Oberlana war Anfang des 20. Jahrhunderts mit gerade einmal 4,35 km die kürzeste Bahnstrecke Südtirols.
-
-Für die Wirtschaft freilich von großer Bedeutung, denn mit dem sogenannten Apfelexpress erreichten die Obstbauern der Gemeinde die 1881 errichtete Bozen-Meraner-Bahn und damit den Zugang zu den Märkten in ganz Europa. Die Güterzüge wurden von 100 PS starken 20 Tonnenschweren E-Loks gezogen. Zwei Apfelexpress Lokomotiven sind noch erhalten.</desc>
-  </programme>
-  <programme start="20250617202900 +0200" stop="20250617204330 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Für die Südtiroler Amateurfußballer hat die Sommerpause begonnen. Wir blicken mit den Aufsteigern der Saison auf ein sehr erfolgreiches Jahr zurück: Der FC Obermais hat die Oberliga gewonnen und erstmals in seiner Vereinsgeschichte den Sprung in die Serie D geschafft. Landesliga-Meister Ahrntal und Vizemeister Gröden steigen in die Oberliga auf, beide mit großen Ambitionen.</desc>
-  </programme>
-  <programme start="20250617221000 +0200" stop="20250617223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250618200000 +0200" stop="20250618202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
