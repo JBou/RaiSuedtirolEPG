@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250618200000 +0200" stop="20250618202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250618202000 +0200" stop="20250618204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Journalismus-Fest in Innsbruck und die Anliegen von Minderheiten - 25 Jahre Caritas-Dienst für Mediation für Roma und Sinti - kleine Volksstämme, die ums Überleben kämpfen.
-
-Das Journalismus-Fest kürzlich in Innsbruck ist ein Ort der Begegnung, des kulturellen Austauschs und des Vertiefens von Inhalten. Unter dem Minderheiten-Fokus gab es kritische Diskussionen und Einblicke, etwa zur Anerkennung der Jenischen in der Schweiz und in Österreich, zu einem kurdischen Graswurzel-Medienprojekt in Syrien und zum Konflikt um Bergkarabach zwischen Armenien und Aserbaidschan. 
-Seit 25 Jahren unterstützt der Caritas-Dienst für Interkulturelle Mediation junge Sinti und Roma bei Schulproblemen. Sie unterstützen bei fehlendem Selbstvertrauen, engagieren sich aber auch für mehr Toleranz und Solidarität. 
-Auf der indonesischen Insel Lebowa kämpft ein kleiner Volksstamm um den Erhalt seiner Sprache und Kultur. Filmemacher Wolfgang Penn hat sie besucht. 
-In der Reihe "Tribal Voices" berichten wir über die verheerenden Auswirkungen des Kohleabbaus für das Volk der Adivasi in Zentralindien. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20250618221000 +0200" stop="20250618223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250619200000 +0200" stop="20250619202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
