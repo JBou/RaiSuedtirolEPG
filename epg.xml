@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250620180700 +0200" stop="20250620182830 +0200" channel="Rai Südtirol">
-    <title>Betend übers Joch DOKU und Making of</title>
-    <sub-title>Von St. Martin im Kofel nach Schnals</sub-title>
-    <desc>Seit dem 16.Jh. gibt es am Johannistag diesen Bittgang, wo Menschen aus ganz Südtirol teilnehmen. Der Amateurfilmer-Verein Vinschgau hat diese jährliche Tradition dokumentiert.
-Der Bittgang übers Joch beginnt mit einer Seilbahnfahrt von Latsch nach St. Martin im Kofel. Etwa 60 Pilger aus dem ganzen Land sind dabei. Es ist Ende Juni, der Tag des Heiligen Johannes des Täufers. Früher wurde bei der Wallfahrt um eine gute Kornernte gebetet. Heute beten die Gläubigen vor allem zum Schutzengel. Er möge sie bei der harten Arbeit am Berg vor Unglück bewahren. 
-Der Bittgang über das Niederjöchl hat seine Wurzeln im 16. Jahrhundert. Bis heute ist der Bittgang so gut wie nie ausgefallen. Sogar in den Kriegsjahren sind die Menschen übers Joch gepilgert. Aus Lärchenzweigen und Blüten winden die Frauen einen Kranz für das Bittgang-Kreuz. Nach über sieben Stunden Fußmarsch und nach 15 Rosenkränzen ist das Ziel in Sicht: der Aufstieg zur Kirche in Unsere Liebe Frau in Schnals.</desc>
-  </programme>
-  <programme start="20250620182900 +0200" stop="20250620185830 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Journalismus-Fest in Innsbruck und die Anliegen von Minderheiten - 25 Jahre Caritas-Dienst für Mediation für Roma und Sinti - kleine Volksstämme, die ums Überleben kämpfen.
-Das Journalismus-Fest kürzlich in Innsbruck ist ein Ort der Begegnung, des kulturellen Austauschs und des Vertiefens von Inhalten. Unter dem Minderheiten-Fokus gab es kritische Diskussionen und Einblicke, etwa zur Anerkennung der Jenischen in der Schweiz und in Österreich, zu einem kurdischen Graswurzel-Medienprojekt in Syrien und zum Konflikt um Bergkarabach zwischen Armenien und Aserbaidschan. 
-Seit 25 Jahren unterstützt der Caritas-Dienst für Interkulturelle Mediation junge Sinti und Roma bei Schulproblemen. Sie unterstützen bei fehlendem Selbstvertrauen, engagieren sich aber auch für mehr Toleranz und Solidarität. 
-Auf der indonesischen Insel Lebowa kämpft ein kleiner Volksstamm um den Erhalt seiner Sprache und Kultur. Filmemacher Wolfgang Penn hat sie besucht. 
-In der Reihe "Tribal Voices" berichten wir über die verheerenden Auswirkungen des Kohleabbaus für das Volk der Adivasi in Zentralindien. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20250620200000 +0200" stop="20250620202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250620202100 +0200" stop="20250620205848 +0200" channel="Rai Südtirol">
-    <title>Bäuerliche Kapellen</title>
-    <sub-title/>
-    <desc>Kapellen bei Höfen, in entlegenen Weilern und entlang von Wegen sind typisch für Südtirols Kulturlandschaft. Eine Dokumentation von Margot Schwienbacher und Günther Haller.
- 
-Manche dieser Kapellen sind schlicht und liegen fast ein wenig versteckt. Andere sind ausgeschmückt und sehr persönlich gestaltet und stellen einen richtigen Blickfang in der Landschaft dar. Doch allen bäuerlichen Kapellen ist eines gemeinsam: Sie sind besondere Zeugnisse des Glaubens und der Volksreligiosität und erzählen viele interessante Geschichten.</desc>
-  </programme>
-  <programme start="20250620205800 +0200" stop="20250620215502 +0200" channel="Rai Südtirol">
-    <title>Silvius Magnago</title>
-    <sub-title>Das Erbe</sub-title>
-    <desc>Anlässlich seines 15.Todestages am 25.Mai stellt der Film von Adina Guarnieri und Klaus Romen das Leben und Wirken von Silvius Magnago in den Mittelpunkt. Silvius Magnago wurde in einem Land geboren, das es nicht mehr gibt. Und so wie ihm erging es vielen in diesem "kurzen Jahrhundert", wie der Historiker Eric J. Hobsbawn die Zeit zwischen 1914 und 1991 definiert hat: Zwei Weltkriege, Genozide, Kalter Krieg - aber auch Widerstand, Demokratisierung, die Einigung Europas. 
-Und mittendrin Südtirol - geografisch als auch politisch. Mittendrin war auch Silvius Magnago. "Vater der Autonomie" wird er genannt. Ihm und seinen Mitstreitern ist es zu verdanken, dass Südtirol heute als Paradebeispiel für Minderheitenschutz gilt. Doch es war ein steiniger Weg - der Weg der Diplomatie. Unsere Autonomie war ein Gemeinschaftsprojekt zwischen Bozen, Rom und Wien, das nur realisiert werden konnte, weil alle Beteiligten ein gemeinsames Ziel vor Augen hatten: eine gewaltfreie Lösung der Südtirolfrage. 
-Was bleibt von seinem Leben? Wo ist der Mensch hinter der Geschichte und was hat uns Silvius Magnago heute noch zu sagen?</desc>
-  </programme>
-  <programme start="20250620221000 +0200" stop="20250620223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250621180000 +0200" stop="20250621185930 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -275,6 +235,31 @@ Zwei Köche, die mit viel Gefühl für Herkunft und Tradition kochen: Thomas Ort
 Beide Gerichte stehen für eine Küche, die tief in der Region verwurzelt ist. Sie erzählen Geschichte und machen Kultur schmeckbar.</desc>
   </programme>
   <programme start="20250628221000 +0200" stop="20250628223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250629202000 +0200" stop="20250629204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Nals</sub-title>
+    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt.
+
+Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt.
+Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. 
+Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. 
+Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
+  </programme>
+  <programme start="20250629204500 +0200" stop="20250629204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250629221000 +0200" stop="20250629223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
