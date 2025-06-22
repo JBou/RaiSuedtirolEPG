@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250621180000 +0200" stop="20250621185930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der Meraner Schauspieler Fabian Mair Mitterer, eine moderne Adaptierung des Märchens Der Froschkönig in der Villa Freischütz, die Architektur-Biennale in Venedig. Moderation: Alex Lechner.
-Er ist 24, spielt bereits beim Berliner Ensemble und möchte noch lange auf der Suche sein: Der gebürtige Meraner Fabian Mair Mitterer spielt mit Hingabe, Neugierde und dem Mut, nicht perfekt zu sein. Jeder Abend wird anders, weil das Publikum ein anderes ist. "Der Froschkönig. Ein Märchen für morgen" ist in Zusammenarbeit mit dem Ensemble des Theatervereins Praxnknecht entstanden und wird in der Villa Freischütz in Meran aufgeführt. Der sprechende Frosch hilft der Prinzessin, ihre Sicht auf die Welt zu verändern. Gemeinsam entscheiden sie, keinen pompösen Geburtstag, sondern ein Fest für die Natur zu feiern. 
-Ende Mai haben Südtiroler Künstlerbund und SAAV die Vielfalt der heimischen Literaturszene gefeiert. 30 Mitglieder haben aus ihren Werken gelesen und gezeigt, was Literatur alles kann.
-"Orchestriamoci! Musik und Wohlbefinden für ein aktives Altern" ist eine neue Initiative der Weiterbildungsorganisation CESFOR zusammen mit der Stiftung Haydn und weiteren Partnern. Im Mittelpunkt stehen musiktherapeutische Workshops für Senior:innen in Bozner Pflegeeinrichtungen. 
-Kürzlich wurde in Venedig, die 19.Architekturbiennale eröffnet. Das Thema lautet: Intelligens.Natürlich.Künstlich.Kollektiv. 
-Gäste von Moderator Alex Lechner sind diesmal Max von Pretz, künstlerischer Leiter des Südtirol Jazz Festivals und der Regisseur, Schauspieler und Coach Franz Braun.</desc>
-  </programme>
-  <programme start="20250621200000 +0200" stop="20250621202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250621202100 +0200" stop="20250621202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250621202500 +0200" stop="20250621204930 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Ein Genpool des gefährdeten Dohlenkrebses im Aquatischen Artenschutzzentrum in Schenna, Papageien und Wildtiere im Artenschutzzentrum in St. Georgen. Moderation: Christine Lasta.
-
-Gebietsfremde Krebsarten bedrohen den einheimischen Dohlenkrebs, von dem es nur mehr einige wenige Populationen in Südtirol gibt. Im Aquatischen Artenschutzzentrum des Landes in Schenna entsteht zurzeit ein Genpool des Dohlenkrebses. Sein großer Feind ist der rote amerikanische Sumpfkrebs, der aus dem Süden eingewandert ist. Dessen Ausbreitung soll durch Information der Bevölkerung eingeschränkt werden.
-In St.Georgen im Pustertal gibt es ebenfalls ein Artenschutzzentum. Farbenprächtige Papageien werden dort in riesigen Volieren betreut, und im angrenzenden Biodiversitätsgarten haben Wildtiere einen idealen Lebensraum.
-Weiters berichtet Pluto über Wissenswertes aus dem Tierreich und stellt Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20250621221000 +0200" stop="20250621223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250622200000 +0200" stop="20250622202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
