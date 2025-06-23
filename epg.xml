@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250622200000 +0200" stop="20250622202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250622202000 +0200" stop="20250622204930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Judith Gögele</sub-title>
-    <desc>Eine Frau, die durch Leidenschaft, Bodenständigkeit und Visionen beeindruckt: Judith Gögele, Unternehmerin, Weinbäuerin, Business-Coachin, Präsidentin von VBB und Kommunikationsbeirat.
-
-Als ältestes von fünf Kindern auf einem Bergbauernhof in St. Leonhard in Passeier aufgewachsen, hat sie viele Wege beschritten - und gestaltet auch heute aktiv mit: als Unternehmerin, Life- und Business-Coachin, Kulturvermittlerin sowie Präsidentin der Vereinigten Bühnen Bozen und des Kommunikationsbeirates des Landes.
-Heute lebt sie als Weinbäuerin in Bozen. Im Gespräch mit Markus Frings spricht Judith Gögele über ihre Wurzeln, ihren unkonventionellen Lebensweg und die Kraft, sich selbst treu zu bleiben. Ihr Motto: "Es gibt im Leben nur eine Person, der du es recht machen kannst - und das bist du selbst. Und selbst das gelingt nicht immer."</desc>
-  </programme>
-  <programme start="20250622205000 +0200" stop="20250622205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250622221000 +0200" stop="20250622223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250623180000 +0200" stop="20250623182430 +0200" channel="Rai Südtirol">
     <title>Pluto</title>
     <sub-title>Das Tiermagazin</sub-title>
