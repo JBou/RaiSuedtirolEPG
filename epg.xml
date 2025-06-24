@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250623180000 +0200" stop="20250623182430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Ein Genpool des gefährdeten Dohlenkrebses im Aquatischen Artenschutzzentrum in Schenna, Papageien und Wildtiere im Artenschutzzentrum in St. Georgen. Moderation: Christine Lasta.
-Gebietsfremde Krebsarten bedrohen den einheimischen Dohlenkrebs, von dem es nur mehr einige wenige Populationen in Südtirol gibt. Im Aquatischen Artenschutzzentrum des Landes in Schenna entsteht zurzeit ein Genpool des Dohlenkrebses. Sein großer Feind ist der rote amerikanische Sumpfkrebs, der aus dem Süden eingewandert ist. Dessen Ausbreitung soll durch Information der Bevölkerung eingeschränkt werden.
-In St.Georgen im Pustertal gibt es ebenfalls ein Artenschutzzentum. Farbenprächtige Papageien werden dort in riesigen Volieren betreut, und im angrenzenden Biodiversitätsgarten haben Wildtiere einen idealen Lebensraum.
-Weiters berichtet Pluto über Wissenswertes aus dem Tierreich und stellt Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20250623182400 +0200" stop="20250623182845 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Parkour-Sportler Alex Oberhofer</sub-title>
-    <desc>Wenn man für sich das richtige Hobby gefunden hat, kann das das ganze Leben verändern. So erging es dem 26jährigen Alex Oberhofer früher. Parkour und Freerunning haben aus ihm einen anderen Menschen gemacht. Beides sind spektakuläre Sportarten, wo man vom Stand einen Salto macht oder wie ein Äffchen eine Fassade hochklettert. Dazu braucht es natürlich viel Training, damit man sich nicht verletzt. In der Fernsehreihe "Und doch sind wir anders" wird der Jungbauer Alex porträtiert.</desc>
-  </programme>
-  <programme start="20250623182900 +0200" stop="20250623185814 +0200" channel="Rai Südtirol">
-    <title>Bergbauernpreis 2025</title>
-    <sub-title/>
-    <desc>Sie bewirtschaften ihre Höfe und Almen mustergültig. Ein Film von Christoph Wieser. Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für
-besondere Menschen, die Außergewöhnliches leisten.
-Wir zeigen in St. Leonhard in Passeier, einen Erbhof mit 144 Erschwernispunkten in steilster Lage. Er besteht seit dem 14. Jahrhundert.
-Im Wipptal bei Freienfeld lebt eine Großfamilie, die zwei Almen besitzt. Sie bewirtschaftet und
-erneuert die Almen in lawinengefährdeten Gebieten und versucht möglichst autark zu sein.
-Der dritte Preisträger im Mühlwaldertal ist ein rundum modernisierter Vollerwerbsbetrieb. Sein
-Besitzer setzt auf moderne Technik und ist gleichzeitig als Heimatkundler ein Chronist lokaler Geschichte.</desc>
-  </programme>
-  <programme start="20250623200000 +0200" stop="20250623202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250623202000 +0200" stop="20250623215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut:</title>
-    <sub-title>Höfe-Schicksale: Wem gehört die Zukunft auf Südtirols Höfen?</sub-title>
-    <desc>Wer erbt den Hof? Wer findet überhaupt noch einen? Und was bremst den Neuanfang?
-Die Doku "Bauernland in Bauernhand" von Andreas Niederkofler und Jutta Kusstatscher wirft einen kritischen Blick auf Erbrecht, geschlossene Höfe und Denkmalschutz.
-Direkt danach reden Betroffene und Fachleute Tacheles - live aus dem Ansitz Zimmerlehen in Völs. Moderation: Judith Bertagnolli.</desc>
-  </programme>
-  <programme start="20250623221000 +0200" stop="20250623223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250624200000 +0200" stop="20250624202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
