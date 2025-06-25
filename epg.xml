@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250624200000 +0200" stop="20250624202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250624202000 +0200" stop="20250624204600 +0200" channel="Rai Südtirol">
-    <title>Kontrovers: das Südtirol von morgen</title>
-    <sub-title>Identität</sub-title>
-    <desc>Zwei junge Menschen aus Südtirol treffen aufeinander, um über aktuelle und brisante Themen zu diskutieren, die das Land und seine Zukunft betreffen. Moderation: Maddalena Quaia.
-
-Was bedeutet es, bedeutet Südtirolerin und Südtiroler zu sein? Ein Gespräch über Identität, die Zukunft unseres Landes, die Bedeutung von Tradition und Weltoffenheit. Es diskutieren: der Politikwissenschaftler Thomas Kobler vom Ost-West-Club in Meran und die Juristin und Jugendsprecherin der Südtiroler Freiheit Melanie Mair.</desc>
-  </programme>
-  <programme start="20250624221000 +0200" stop="20250624223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250625200000 +0200" stop="20250625202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
