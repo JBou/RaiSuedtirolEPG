@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250625200000 +0200" stop="20250625202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250625202000 +0200" stop="20250625204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Aufbruch in eine neue Heimat: Zu Besuch bei Südtirolern auf ihren Bio-Höfen in Österreich. Patrizia und David Oberkofler und Daniela und Peter Pircher haben einen Neustart gewagt.
-
-Ihre Suche nach einem Hof in Südtirol war erfolglos, und so machten sich Patrizia und David Oberkofler vor 20 Jahren auf ins Burgenland. Dort erwarben sie ein Hofgebäude mit fruchtbaren Grundstücken, die sich die damals 30-Jährigen leisten konnten. Inzwischen betreiben sie ein erfolgreiches Bio-Weingut. 
-Ähnlich erging es Familie Pircher. Ihren Traum vom eigenen Hof mit Vieh und Gästeangebot konnten sie sich in Südtirol nicht erfüllen. Deshalb zogen Daniela und Peter Pircher mit ihren Kindern vor vier Jahren in die Ost-Steiermark auf ein großes landwirtschaftliches Gut bei Pöllau. Der Anfang war nicht einfach für die Quereinsteiger, aber mittlerweile hat sich der Bio-Hof mit Urlaub am Bauernhof zu einem Vorzeigebetrieb entwickelt. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20250625221000 +0200" stop="20250625223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250626200000 +0200" stop="20250626202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
