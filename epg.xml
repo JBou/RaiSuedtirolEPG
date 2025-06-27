@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250626200000 +0200" stop="20250626202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250626202000 +0200" stop="20250626205457 +0200" channel="Rai Südtirol">
-    <title>Master Up - 1</title>
-    <sub-title/>
-    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo zwei Startupper ihr innovatives Produkt vorstellen und um die Gunst der strengen Jury buhlen. Moderation: Simon Waldner.
-
-Der Gewinner bzw. die Gewinnerin zieht dann am Ende ins große Finale ein. In dieser ersten Folge messen sich Andreas Inama von Coontent und Susanne Waldthaler von Nomos Suite, die beide eine K.I.-Software entwickelt haben.</desc>
-  </programme>
-  <programme start="20250626221000 +0200" stop="20250626223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250627180000 +0200" stop="20250627183457 +0200" channel="Rai Südtirol">
     <title>Master Up - 1</title>
     <sub-title/>
@@ -127,6 +110,194 @@ Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien al
     <desc/>
   </programme>
   <programme start="20250629221000 +0200" stop="20250629223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250630180000 +0200" stop="20250630182430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Nals</sub-title>
+    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt.
+Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt.
+Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. 
+Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. 
+Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
+  </programme>
+  <programme start="20250630182400 +0200" stop="20250630182841 +0200" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Lena Simonetti: Poesie als Lebensweg</sub-title>
+    <desc>Lena Simonetti ist eine junge Dichterin aus Bozen, die durch ihre Leidenschaft für Poesie und ihre Teilnahme an Poetry-Slam-Wettbewerben ihren eigenen Weg geht. Lena teilt ihre tiefsten Gedanken und Gefühle durch ihre Gedichte, die sie mit beeindruckender Leidenschaft und Präsenz auf der Bühne präsentiert. Ihr Engagement für die Poesie und die überwältigende Reaktion des Publikums auf ihre Darbietungen verdeutlichen, wie kraftvoll Worte sein können und wie sie Menschen verbinden und berühren. Lenas Reise in die Welt der Poesie ist ein leuchtendes Beispiel dafür, wie Generation Z ihre Stimme findet und nutzt, um sich auszudrücken und zu inspirieren.</desc>
+  </programme>
+  <programme start="20250630182900 +0200" stop="20250630185830 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Aufbruch in eine neue Heimat: Zu Besuch bei Südtirolern auf ihren Bio-Höfen in Österreich. Patrizia und David Oberkofler und Daniela und Peter Pircher haben einen Neustart gewagt.
+
+Ihre Suche nach einem Hof in Südtirol war erfolglos, und so machten sich Patrizia und David Oberkofler vor 20 Jahren auf ins Burgenland. Dort erwarben sie ein Hofgebäude mit fruchtbaren Grundstücken, die sich die damals 30-Jährigen leisten konnten. Inzwischen betreiben sie ein erfolgreiches Bio-Weingut. 
+Ähnlich erging es Familie Pircher. Ihren Traum vom eigenen Hof mit Vieh und Gästeangebot konnten sie sich in Südtirol nicht erfüllen. Deshalb zogen Daniela und Peter Pircher mit ihren Kindern vor vier Jahren in die Ost-Steiermark auf ein großes landwirtschaftliches Gut bei Pöllau. Der Anfang war nicht einfach für die Quereinsteiger, aber mittlerweile hat sich der Bio-Hof mit Urlaub am Bauernhof zu einem Vorzeigebetrieb entwickelt. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20250630200000 +0200" stop="20250630202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250630202000 +0200" stop="20250630220000 +0200" channel="Rai Südtirol">
+    <title>Logenplatz Rai Südtirol</title>
+    <sub-title>Das Gespenst von Canterville nach Oskar Wilde</sub-title>
+    <desc>Die Schlossfestspiele Dorf Tirol haben im Sommer 2024 einen komödiantischen Klassiker auf die Bühne gebracht: Furchtlose Amerikaner treffen in Schloss Canterville auf ein Schlossgespenst.
+
+Die amerikanische Familie Otis lässt sich trotz zahlreicher Warnungen auf Schloss Canterville nieder. Dort spukt der schuldbeladene Geist von Sir Simon schon jahrhundertelang durch die Hallen. Doch zum Schrecken dieses altehrwürdigen Gespenstes fehlt den "kulturlosen Amerikanern" jeglicher Respekt vor dem ausgefeilten Repertoire an Gruselattacken. Es ist also durchaus fraglich, ob die turbulenten Begegnungen dennoch zum Happy End für alle führen können. Regie führte Torsten Schilling.</desc>
+  </programme>
+  <programme start="20250630221000 +0200" stop="20250630223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250701200000 +0200" stop="20250701202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250701202000 +0200" stop="20250701204600 +0200" channel="Rai Südtirol">
+    <title>Kontrovers 2</title>
+    <sub-title>Wie reden wir morgen?</sub-title>
+    <desc>Kommunikation im digitalen Zeitalter zwischen Effizienz und Empathie. Was verlieren wir durch die Digitalisierung - und was gewinnen wir dafür? Moderation: Maddalena Quaia.
+
+Kommunikation verändert sich rasant: Sie wird kürzer, emotionaler, oft oberflächlicher - aber auch zugänglicher, flexibler und globaler. Was macht das mit uns als Gesellschaft? Verlieren wir an Tiefe oder lernen wir einfach nur neu zu kommunizieren?
+In der zweiten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: David Peintner, Social-Media-Unternehmer und Performance-Marketing-Spezialist, und Florian Pallua, Psychologe und Koordinator der Fachstelle Jugend im Forum Prävention. 
+Die Diskussion wurde im Kulturzentrum Captain Kehl's in Bozen aufgezeichnet - einem Ort, an dem junge Menschen ganz bewusst offline zusammenkommen.</desc>
+  </programme>
+  <programme start="20250701221000 +0200" stop="20250701223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250702200000 +0200" stop="20250702202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250702202000 +0200" stop="20250702204930 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Jetzt wird geplattlt!</sub-title>
+    <desc>In der neuen Folge seiner Challenge-Show stellt sich Liedermacher Max von Milland einer echten Traditionsprüfung: Schuhplattln mit den Algunder Bergplattler-Gitschn. Für Max völliges Neuland.
+
+Bisher hat Max weder geplattlt noch gewusst, wie schweißtreibend, wild und stellenweise schmerzhaft dieser urige Tanz sein kann. Ob Platteln mit Sensen, waghalsige Figuren auf Bänken oder der obligatorische Klaps auf den Hintern - Max muss alles mitmachen.
+Schafft er es, im Takt zu bleiben und die Gitschn zu beeindrucken? Oder tanzt er sich ins Chaos? Finde es heraus - in der neuen, garantiert zünftigen Folge von SchachMax!</desc>
+  </programme>
+  <programme start="20250702221000 +0200" stop="20250702223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250703200000 +0200" stop="20250703202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250703202000 +0200" stop="20250703205611 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo diesmal zwei Startupperinnen ihr innovatives Produkt vorstellen: Elisabeth Tocca spricht über Pipo und Valeria Told über Fortissimo. 
+
+Master Up, die neue Talkshow von Rai Südtirol, widmet sich dem Thema Innovation. Zwei Startupper treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
+In dieser zweiten Folge messen sich Elisabeth Tocca und Valeria Told. Tocca hat ein spezielles Alarm-Pflaster für Menschen mit Inkontinenz entwickelt. Valeria Tolds Fortissimo ist ein interaktives Bildungsprogramm, um Kindern die Musik näherzubringen. Moderation: Simon Waldner.</desc>
+  </programme>
+  <programme start="20250703213000 +0200" stop="20250703215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Am Wochenende findet im Bozner Lido das traditionelle internationale Meeting im Wasserspringen statt. Legenden dieses Sports wie Klaus Dibiasi, Giorgio und Tania Cagnotto, die insgesamt 11 Olympiamedaillen gewonnen haben, starteten hier ihre erfolgreiche Karriere. Wir zeigen auch ein Portrait der Hindernis-Läuferin Katja Pattis aus Steinegg, die nach vier Jahren in Amerika nach Südtirol zurückgekehrt ist.</desc>
+  </programme>
+  <programme start="20250703221000 +0200" stop="20250703223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250704180000 +0200" stop="20250704183611 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo diesmal zwei Startupperinnen ihr innovatives Produkt vorstellen: Elisabeth Tocca spricht über Pipo und Valeria Told über Fortissimo. 
+
+Master Up, die neue Talkshow von Rai Südtirol, widmet sich dem Thema Innovation. Zwei Startupper treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
+In dieser zweiten Folge messen sich Elisabeth Tocca und Valeria Told. Tocca hat ein spezielles Alarm-Pflaster für Menschen mit Inkontinenz entwickelt. Valeria Tolds Fortissimo ist ein interaktives Bildungsprogramm, um Kindern die Musik näherzubringen. Moderation: Simon Waldner.</desc>
+  </programme>
+  <programme start="20250704183600 +0200" stop="20250704185923 +0200" channel="Rai Südtirol">
+    <title>Zwischengas  2</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Wie gute Autofahrer:innen sind wir hier in Südtirol, warum sind junge Männer die größte
+Gefahrenquelle auf der Straße und in welchen Situationen ist das Unfallrisiko bei Frauen am
+höchsten?
+
+Wir meistern unsere Bergstraßen mit Eleganz, schlängeln uns durch den Stadtverkehr und treten
+oft stark aufs Gaspedal, auch wenn wir es nicht sollten. Ja, sind wir nicht gut am Steuer?
+Trotzdem gibt es in Italien mehr Verkehrstote als beispielsweise in der Schweiz, in Deutschland
+oder in Schweden. Simone Mayr und Angelika König gehen der Frage nach, wie gut wir
+Südtiroler:innen am Steuer sind und geben dabei nicht nur Zwischengas, sondern versuchen
+auch Vollgas zu geben. Sie besuchen den Safety Park in Pfatten, probieren mit ihrer 48jährigen
+Alfa Giulia eine brenzlige Fahrsituation aus und begleiten ein "Traktor-Training".</desc>
+  </programme>
+  <programme start="20250704200000 +0200" stop="20250704202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250704202100 +0200" stop="20250704212030 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Lederhosen und ein Wetterfleck für Jäger - Generationenbekleidung aus Südtirol. Außerdem eine Wanderung zum einstigen Kummersee in Hinterpasseier, der im 18.Jh. das Tal verwüstet hat.
+
+Diesmal stehen Handwerksbetriebe im Mittelpunkt, die Kleidung mit Geschichte fertigen. Petra Tschenett stellt Südtirols einzige Lederhosenmanufaktur vor, eine Trachtenschneiderin und eine Schneiderei, die unter anderem den traditionellen Wetterfleck für Jäger herstellt. Alle Produkte sind sogenannte Generationenbekleidung - hochwertig, langlebig und mit Liebe zum Detail gefertigt. Und in allen drei Betrieben hat das Schneiderhandwerk eine lange Familientradition. 
+Bei "Erlebnis Südtirol" führt uns Theo Hendrich zu einer Sommerwanderung ins hinterste Passeiertal. Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. 
+Entlang der Passer führt der Weg bis nach Rabenstein zum Kummersee. Ein See, den es heute zwar nicht mehr gibt, der aber über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten hat. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
+  </programme>
+  <programme start="20250704212000 +0200" stop="20250704214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen,entdecken,genießen</sub-title>
+    <desc>Gerichte mit Geschichte, das Hotel Tirolensis in Prissian und die Entwicklung des Fremdenverkehrs in Südtirol, wie man junge Menschen für das Gastgewerbe begeistern kann.
+Der Fachkräftemangel stellt das Gastgewerbe vor große Herausforderungen - umso wichtiger wird es, junge Menschen für die Branche zu begeistern und sie auf ihrem Weg professionell zu begleiten. Dabei geht es auch um persönliche Entwicklung, Wertschätzung und ein Arbeitsumfeld, das Perspektiven bietet. Das Hotel Tirolensis in Prissian blickt auf eine lange Geschichte zurück: Bei der Eröffnung 1978 war es eines der wenigen Fünf-Sterne-Hotels im Burggrafenamt. Das Haus hat Höhen und Tiefen erlebt, mehrfach den Besitzer gewechselt und wurde erst kürzlich behutsam renoviert. Die Hotelgeschichte widerspiegelt auch die Entwicklung des Fremdenverkehrs im Land. Zwei Köche, die mit viel Gefühl für Herkunft und Tradition kochen: Thomas Ortler serviert in Glurns eine Vinschger Schneemilch, Herbert Hintner bereitet in Eppan ein Stockfischgröstl zu. Beide Gerichte stehen für eine Küche, die tief in der Region verwurzelt ist. Sie erzählen Geschichte und machen Kultur schmeckbar.</desc>
+  </programme>
+  <programme start="20250704215000 +0200" stop="20250704215759 +0200" channel="Rai Südtirol">
+    <title>Riversurfen in Brixen</title>
+    <sub-title/>
+    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
+  </programme>
+  <programme start="20250704221000 +0200" stop="20250704223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250705180000 +0200" stop="20250705182930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Am Wochenende findet im Bozner Lido das traditionelle internationale Meeting im Wasserspringen statt. Legenden dieses Sports wie Klaus Dibiasi, Giorgio und Tania Cagnotto, die insgesamt 11 Olympiamedaillen gewonnen haben, starteten hier ihre erfolgreiche Karriere. Wir zeigen auch ein Portrait der Hindernis-Läuferin Katja Pattis aus Steinegg, die nach vier Jahren in Amerika nach Südtirol zurückgekehrt ist.</desc>
+  </programme>
+  <programme start="20250705182900 +0200" stop="20250705185830 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Jetzt wird geplattlt!</sub-title>
+    <desc>In der neuen Folge seiner Challenge-Show stellt sich Liedermacher Max von Milland einer echten Traditionsprüfung: Schuhplattln mit den Algunder Bergplattler-Gitschn. Für Max völliges Neuland.
+
+Bisher hat Max weder geplattlt noch gewusst, wie schweißtreibend, wild und stellenweise schmerzhaft dieser urige Tanz sein kann. Ob Platteln mit Sensen, waghalsige Figuren auf Bänken oder der obligatorische Klaps auf den Hintern - Max muss alles mitmachen.
+Schafft er es, im Takt zu bleiben und die Gitschn zu beeindrucken? Oder tanzt er sich ins Chaos? Finde es heraus - in der neuen, garantiert zünftigen Folge von SchachMax!</desc>
+  </programme>
+  <programme start="20250705200000 +0200" stop="20250705202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250705202100 +0200" stop="20250705202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250705202500 +0200" stop="20250705205430 +0200" channel="Rai Südtirol">
+    <title>Karriereleitern</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland - Folge 1</sub-title>
+    <desc>Stefan Perkmann Berger aus Meran ist ein Netzwerker und Unternehmensberater, der auch selbst ein Unternehmen leitet. Whataventure mit Sitz in Wien hilft dabei, Innovationsprojekte umzusetzen. 
+
+Derzeit ist Stefan Perkmann Berger vor allem mit dem Aufbau des Holzbau-Unternehmens Woodspace beschäftigt. Stefan ist Mitglied von Südstern, dem Netzwerk der Südtiroler im Ausland, und wurde 2014 mit dem Futura-Förderpreis ausgezeichnet.
+Auch Nora Dejaco ist Mitglied bei Südstern. Sie stammt aus Bruneck und lebt in Wien. Sie setzt sich für Chancengleichheit und Selbstbestimmung ein. Zum Beispiel mit der Gründung von Thrive+, eine Bewegung, die sich für eine chancengerechtere Welt einsetzt. Außerdem leitet Nora Dejaco das Netzwerk AES - IN MOTION für Innovation im Produktionssektor. Als zertifizierte Mentaltrainerin hilft sie anderen, ihr volles Potenzial zu entfalten.</desc>
+  </programme>
+  <programme start="20250705221000 +0200" stop="20250705223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
