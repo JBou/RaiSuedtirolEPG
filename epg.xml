@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250627180000 +0200" stop="20250627183457 +0200" channel="Rai Südtirol">
-    <title>Master Up - 1</title>
-    <sub-title/>
-    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo zwei Startupper ihr innovatives Produkt vorstellen und um die Gunst der strengen Jury buhlen. Moderation: Simon Waldner.
-Der Gewinner bzw. die Gewinnerin zieht dann am Ende ins große Finale ein. In dieser ersten Folge messen sich Andreas Inama von Coontent und Susanne Waldthaler von Nomos Suite, die beide eine K.I.-Software entwickelt haben.</desc>
-  </programme>
-  <programme start="20250627183400 +0200" stop="20250627185830 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Tanas</sub-title>
-    <desc>Das kleine Dorf oberhalb von Laas, mit knapp 150 Einwohnern, hat einige Besonderheiten: Kirschenanbau, eine Zwergschule, ein Dorfgasthaus, die zentrale Rolle der Feuerwehr.
-In der kleinen Dorfschule werden derzeit etwa zehn Kinder in den Klassen 1, 2 und 4 unterrichtet. Neben der Schule spielt die Feuerwehr eine zentrale Rolle, denn fast jede Familie ist hier Mitglied und sorgt für die Sicherheit in diesem abgelegenen Dorf. 
-Eine weitere Besonderheit: Seit einigen Jahren werden hier Kirschen angebaut. 
-Im einzigen Gasthaus erinnern sich die älteren Einwohner an längst vergangene Tage, als der Ort nur über die Materialseilbahn erreichbar war. Heute hat Tanas eine Straße, die Abwanderung ist deshalb zurückgegangen. 
-Auf dem höchsten bewirtschafteten Hof der gesamten Gemeinde Laas lebt eine Bäuerin mit über 1000 Hennen und einigen Kühen.</desc>
-  </programme>
-  <programme start="20250627200000 +0200" stop="20250627202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250627202000 +0200" stop="20250627210403 +0200" channel="Rai Südtirol">
-    <title>Die Fledermaus</title>
-    <sub-title>Auf den Spuren eines faszinierenden Säugetiers</sub-title>
-    <desc>Fledermäuse sind in vielerlei Hinsicht besonders, weil sie nachtaktiv sind und sich mit Hilfe einer Ultraschall-Echo-Ortung orientieren. Ein Film von Claudia Bosch über Lebensraum und Schutz der Fledermaus. 
-
-Obwohl die widerstandsfähigen Flattertiere erstaunlich anpassungsfähig sind, gehören sie zu den gefährdeten Arten und werden daher streng geschützt.
-Fledermaus-Exper:tinnen wie die Biologin Eva Ladurner suchen unermüdlich nach Möglichkeiten, um ihre Lebensräume zu schützen.
-Filmemacherin Claudia Bosch beschäftigt sich in ihrer Dokumentation mit allerlei interessanten Aspekten rund um diese faszinierenden Säugetiere.</desc>
-  </programme>
-  <programme start="20250627210400 +0200" stop="20250627211350 +0200" channel="Rai Südtirol">
-    <title>Beherzt</title>
-    <sub-title>Herz-Jesu-Feuer im Schlerngebiet</sub-title>
-    <desc>In St. Michael bei Kastelruth sammeln die Freiwilligen der Jungfeuerwehr Äste- und Brennholz und stapeln es zu einem Haufen, den sie bei Einbruch der Dunkelheit entzünden. Das gemeinsame Erlebnis fördert den Zusammenhalt und das Verantwortungsbewusstsein.
-Ähnliches erfahren ein paar Freunde des Bergrettungsdienstes Seis. Am Herz-Jesu-Sonntag packen sie ihre Rucksäcke und starten zur Klettertour auf die Santnerspitze. So führen sie die Tradition fort, bei Einbruch der Dunkelheit am Gipfel ein Feuer zu entfachen. Ein Film von Regina Mayrl und Günther Neumair.</desc>
-  </programme>
-  <programme start="20250627211400 +0200" stop="20250627215914 +0200" channel="Rai Südtirol">
-    <title>Wiener Milieus</title>
-    <sub-title>Teil 2: Aufstand von unten</sub-title>
-    <desc>In einem rasanten Tempo wandelt sich Wien im 19.Jahrhundert zu einer aufstrebenden Metropole. Millionen von Menschen aus dem gesamten Vielvölkerstaat strömen dorthin auf der Suche nach Arbeit. Gleichzeitig verändert der technologische Fortschritt die Gesellschaft. 
-Der Reichtum von Wenigen wächst, immer mehr Menschen geraten in bittere Armut. Ausgebeutet in den Fabriken und ohne jegliche Rechte erhebt sich eine Bewegung aus diesem Elend: Ein Kampf für Gerechtigkeit beginnt, und gibt eine unterdrückten Masse ihre Stimme. 
-Massenquartiere, menschenunwürdige Arbeitsbedingungen, ein unterdrückender Staatsapparat - all dies erzeugt eine explosive Mischung im Inneren der Monarchie.
-Mona Krisch und Bernhard Riener zeichnen die Entstehung dieser Bewegung nach.</desc>
-  </programme>
-  <programme start="20250627221100 +0200" stop="20250627223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250628180000 +0200" stop="20250628182930 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Judith Gögele</sub-title>
@@ -298,6 +250,29 @@ Derzeit ist Stefan Perkmann Berger vor allem mit dem Aufbau des Holzbau-Unterneh
 Auch Nora Dejaco ist Mitglied bei Südstern. Sie stammt aus Bruneck und lebt in Wien. Sie setzt sich für Chancengleichheit und Selbstbestimmung ein. Zum Beispiel mit der Gründung von Thrive+, eine Bewegung, die sich für eine chancengerechtere Welt einsetzt. Außerdem leitet Nora Dejaco das Netzwerk AES - IN MOTION für Innovation im Produktionssektor. Als zertifizierte Mentaltrainerin hilft sie anderen, ihr volles Potenzial zu entfalten.</desc>
   </programme>
   <programme start="20250705221000 +0200" stop="20250705223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250706200000 +0200" stop="20250706202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250706202000 +0200" stop="20250706205410 +0200" channel="Rai Südtirol">
+    <title>Das Thema</title>
+    <sub-title>Hinter dem Abzug</sub-title>
+    <desc>Faszination, Hobby oder Gefahr? Schusswaffen sind für einige Menschen ein Ausdruck von Freude, Kunst und Geschichte. Eine Reportage von Andreas Niederkofler und Daniela Thaler.
+
+Wir begegnen Menschen, die das Thema Waffen aus verschiedenen Blickwinkeln sehen: Ein Waffenbauer und Sportschütze schmieden mit Hingabe seine eigenen Waffen, ein Sammler entführt uns in die Welt seiner seltenen Schätze, eine junge Frau liebt die Präzision und Disziplin des Sportschießens. Die Staatspolizei schließlich gewährt uns einen exklusiven Einblick in ihre spezielle Ausbildung und den Umgang mit Waffen. 
+Wie empfinden diese Menschen das Schießen? Was begeistert sie an Waffen? Und wie bewältigen sie die Herausforderungen und die Verantwortung, die Waffen mit sich bringen? Diese und weitere Fragen werden in dieser Reportage beleuchtet.</desc>
+  </programme>
+  <programme start="20250706205400 +0200" stop="20250706205800 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250706221000 +0200" stop="20250706223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
