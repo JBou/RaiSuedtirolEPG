@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250628180000 +0200" stop="20250628182930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Judith Gögele</sub-title>
-    <desc>Eine Frau, die durch Leidenschaft, Bodenständigkeit und Visionen beeindruckt: Judith Gögele, Unternehmerin, Weinbäuerin, Business-Coachin, Präsidentin von VBB und Kommunikationsbeirat.</desc>
-  </programme>
-  <programme start="20250628182900 +0200" stop="20250628185731 +0200" channel="Rai Südtirol">
-    <title>Elisabeth Baumgartner</title>
-    <sub-title/>
-    <desc>Sie war eine Vollblutjournalistin im wahrsten Sinn des Wortes. Während ihre Kolleginnen mit Themen rund um Küche und Familie betraut wurden, recherchierte sie zu Politik, Wirtschaft und Kultur.
-Geboren 1938 in Wien erlebte sie trotz des Kriegsgeschehens eine unbeschwerte Kindheit in ihrem Elternhaus im Grünen. In der Oberschule wurde bald ihr künstlerisches Talent entdeckt und sie besuchte die Akademie für Bildende Künste. 1960 heiratete sie  den Südtiroler Maler Robert Scherer und übersiedelte nach Südtirol, wo sie in Brixen Kunst unterrichtete. Es folgten erste kunstkritische Veröffentlichungen. Nach der Trennung von ihrem Mann begann Elisabeth Baumgartner ihre Radio- und TV-Tätigkeit beim damaligen Sender Bozen.
-In den 1980er Jahren setzte sie neue Akzente bei der Erforschung der Südtiroler Filmgeschichte mit Kontakten zu Luis Trenker, Fred Zinnemann und Leni Riefenstahl. Sie führte Interviews zur Südtirolgeschichte mit Silvius Magnago, Friedl Volgger, Alfons Benedikter und Bruno Kreisky. Sie veröffentlichte außerdem Bücher über technische Kulturgüter und hinterließ eine Reihe zeitgeschichtlicher TV-Dokumentationen. Elisabeth Baumgartner starb am 31. Mai 2005.</desc>
-  </programme>
-  <programme start="20250628200000 +0200" stop="20250628202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250628202100 +0200" stop="20250628202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250628202500 +0200" stop="20250628205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen,entdecken,genießen</sub-title>
-    <desc>Gerichte mit Geschichte, das Hotel Tirolensis in Prissian und die Entwicklung des Fremdenverkehrs in Südtirol, wie man junge Menschen für das Gastgewerbe begeistern kann.
-
-Der Fachkräftemangel stellt das Gastgewerbe vor große Herausforderungen - umso wichtiger wird es, junge Menschen für die Branche zu begeistern und sie auf ihrem Weg professionell zu begleiten. Dabei geht es auch um persönliche Entwicklung, Wertschätzung und ein Arbeitsumfeld, das Perspektiven bietet. 
-Das Hotel Tirolensis in Prissian blickt auf eine lange Geschichte zurück: Bei der Eröffnung 1978 war es eines der wenigen Fünf-Sterne-Hotels im Burggrafenamt. Das Haus hat Höhen und Tiefen erlebt, mehrfach den Besitzer gewechselt und wurde erst kürzlich behutsam renoviert. Die Hotelgeschichte widerspiegelt auch die Entwicklung des Fremdenverkehrs im Land.
-Zwei Köche, die mit viel Gefühl für Herkunft und Tradition kochen: Thomas Ortler serviert in Glurns eine Vinschger Schneemilch, Herbert Hintner bereitet in Eppan ein Stockfischgröstl zu.
-Beide Gerichte stehen für eine Küche, die tief in der Region verwurzelt ist. Sie erzählen Geschichte und machen Kultur schmeckbar.</desc>
-  </programme>
-  <programme start="20250628221000 +0200" stop="20250628223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250629200000 +0200" stop="20250629202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
