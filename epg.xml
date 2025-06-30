@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250629200000 +0200" stop="20250629202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250629202000 +0200" stop="20250629204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Nals</sub-title>
-    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt.
-
-Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt.
-Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. 
-Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. 
-Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
-  </programme>
-  <programme start="20250629204500 +0200" stop="20250629204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250629221000 +0200" stop="20250629223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250630180000 +0200" stop="20250630182430 +0200" channel="Rai Südtirol">
     <title>Land und Leute</title>
     <sub-title>Nals</sub-title>
