@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250630180000 +0200" stop="20250630182430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Nals</sub-title>
-    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt.
-Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt.
-Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. 
-Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. 
-Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
-  </programme>
-  <programme start="20250630182400 +0200" stop="20250630182841 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Lena Simonetti: Poesie als Lebensweg</sub-title>
-    <desc>Lena Simonetti ist eine junge Dichterin aus Bozen, die durch ihre Leidenschaft für Poesie und ihre Teilnahme an Poetry-Slam-Wettbewerben ihren eigenen Weg geht. Lena teilt ihre tiefsten Gedanken und Gefühle durch ihre Gedichte, die sie mit beeindruckender Leidenschaft und Präsenz auf der Bühne präsentiert. Ihr Engagement für die Poesie und die überwältigende Reaktion des Publikums auf ihre Darbietungen verdeutlichen, wie kraftvoll Worte sein können und wie sie Menschen verbinden und berühren. Lenas Reise in die Welt der Poesie ist ein leuchtendes Beispiel dafür, wie Generation Z ihre Stimme findet und nutzt, um sich auszudrücken und zu inspirieren.</desc>
-  </programme>
-  <programme start="20250630182900 +0200" stop="20250630185830 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Aufbruch in eine neue Heimat: Zu Besuch bei Südtirolern auf ihren Bio-Höfen in Österreich. Patrizia und David Oberkofler und Daniela und Peter Pircher haben einen Neustart gewagt.
-
-Ihre Suche nach einem Hof in Südtirol war erfolglos, und so machten sich Patrizia und David Oberkofler vor 20 Jahren auf ins Burgenland. Dort erwarben sie ein Hofgebäude mit fruchtbaren Grundstücken, die sich die damals 30-Jährigen leisten konnten. Inzwischen betreiben sie ein erfolgreiches Bio-Weingut. 
-Ähnlich erging es Familie Pircher. Ihren Traum vom eigenen Hof mit Vieh und Gästeangebot konnten sie sich in Südtirol nicht erfüllen. Deshalb zogen Daniela und Peter Pircher mit ihren Kindern vor vier Jahren in die Ost-Steiermark auf ein großes landwirtschaftliches Gut bei Pöllau. Der Anfang war nicht einfach für die Quereinsteiger, aber mittlerweile hat sich der Bio-Hof mit Urlaub am Bauernhof zu einem Vorzeigebetrieb entwickelt. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20250630200000 +0200" stop="20250630202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250630202000 +0200" stop="20250630220000 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Das Gespenst von Canterville nach Oskar Wilde</sub-title>
-    <desc>Die Schlossfestspiele Dorf Tirol haben im Sommer 2024 einen komödiantischen Klassiker auf die Bühne gebracht: Furchtlose Amerikaner treffen in Schloss Canterville auf ein Schlossgespenst.
-
-Die amerikanische Familie Otis lässt sich trotz zahlreicher Warnungen auf Schloss Canterville nieder. Dort spukt der schuldbeladene Geist von Sir Simon schon jahrhundertelang durch die Hallen. Doch zum Schrecken dieses altehrwürdigen Gespenstes fehlt den "kulturlosen Amerikanern" jeglicher Respekt vor dem ausgefeilten Repertoire an Gruselattacken. Es ist also durchaus fraglich, ob die turbulenten Begegnungen dennoch zum Happy End für alle führen können. Regie führte Torsten Schilling.</desc>
-  </programme>
-  <programme start="20250630221000 +0200" stop="20250630223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250701200000 +0200" stop="20250701202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
