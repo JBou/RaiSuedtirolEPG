@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250701200000 +0200" stop="20250701202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250701202000 +0200" stop="20250701204600 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 2</title>
-    <sub-title>Wie reden wir morgen?</sub-title>
-    <desc>Kommunikation im digitalen Zeitalter zwischen Effizienz und Empathie. Was verlieren wir durch die Digitalisierung - und was gewinnen wir dafür? Moderation: Maddalena Quaia.
-
-Kommunikation verändert sich rasant: Sie wird kürzer, emotionaler, oft oberflächlicher - aber auch zugänglicher, flexibler und globaler. Was macht das mit uns als Gesellschaft? Verlieren wir an Tiefe oder lernen wir einfach nur neu zu kommunizieren?
-In der zweiten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: David Peintner, Social-Media-Unternehmer und Performance-Marketing-Spezialist, und Florian Pallua, Psychologe und Koordinator der Fachstelle Jugend im Forum Prävention. 
-Die Diskussion wurde im Kulturzentrum Captain Kehl's in Bozen aufgezeichnet - einem Ort, an dem junge Menschen ganz bewusst offline zusammenkommen.</desc>
-  </programme>
-  <programme start="20250701221000 +0200" stop="20250701223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250702200000 +0200" stop="20250702202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
