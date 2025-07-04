@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250703200000 +0200" stop="20250703202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250703202000 +0200" stop="20250703205611 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 2</sub-title>
-    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo diesmal zwei Startupperinnen ihr innovatives Produkt vorstellen: Elisabeth Tocca spricht über Pipo und Valeria Told über Fortissimo. 
-
-Master Up, die neue Talkshow von Rai Südtirol, widmet sich dem Thema Innovation. Zwei Startupper treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
-In dieser zweiten Folge messen sich Elisabeth Tocca und Valeria Told. Tocca hat ein spezielles Alarm-Pflaster für Menschen mit Inkontinenz entwickelt. Valeria Tolds Fortissimo ist ein interaktives Bildungsprogramm, um Kindern die Musik näherzubringen. Moderation: Simon Waldner.</desc>
-  </programme>
-  <programme start="20250703213000 +0200" stop="20250703215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Am Wochenende findet im Bozner Lido das traditionelle internationale Meeting im Wasserspringen statt. Legenden dieses Sports wie Klaus Dibiasi, Giorgio und Tania Cagnotto, die insgesamt 11 Olympiamedaillen gewonnen haben, starteten hier ihre erfolgreiche Karriere. Wir zeigen auch ein Portrait der Hindernis-Läuferin Katja Pattis aus Steinegg, die nach vier Jahren in Amerika nach Südtirol zurückgekehrt ist.</desc>
-  </programme>
-  <programme start="20250703221000 +0200" stop="20250703223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250704180000 +0200" stop="20250704183611 +0200" channel="Rai Südtirol">
     <title>Master Up</title>
     <sub-title>Folge 2</sub-title>
@@ -140,6 +117,171 @@ Wie empfinden diese Menschen das Schießen? Was begeistert sie an Waffen? Und wi
     <desc/>
   </programme>
   <programme start="20250706221000 +0200" stop="20250706223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250707180000 +0200" stop="20250707184558 +0200" channel="Rai Südtirol">
+    <title>Frühsommer im steirischen Joglland</title>
+    <sub-title>Bergdörfer</sub-title>
+    <desc>Nahe Fürstenfeld erstreckt sich im Nordosten der Steiermark eine sanfte und bewaldete Region, die die Menschen dort liebevoll „Joglland“ nennen. Der höchste Gipfel, der Rabenwaldkogel, ist 1300m hoch. Ähnlich wie die Waldheimat verdankt auch diese Gegend ihre Bekanntheit dem Volksdichter Peter Rosegger, der in Krieglach als Bergbauernkind aufgewachsen ist.
+Filmemacher Alfred Ninaus legt sein Augenmerk auf die Menschen, die hier leben: die Bergbauern Silvia und Peter Karelly aus Fischbach oder Gerald und Martina Hofreiter aus St. Jakob im Walde.</desc>
+  </programme>
+  <programme start="20250707184500 +0200" stop="20250707185840 +0200" channel="Rai Südtirol">
+    <title>Auf weiß-roten Spuren in Frankreich</title>
+    <sub-title>Rafaella Russo-Ricci</sub-title>
+    <desc>Die Bozner Kinderbuchautorin und Kulturvermittlerin Raffaela Russo-Ricci lässt uns teilhaben an ihrem Alltag in Paris. Sie erzählt vom Leben im Ausland und von den bleibenden Linien zu ihrem Heimatland.</desc>
+  </programme>
+  <programme start="20250707200000 +0200" stop="20250707202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250707202000 +0200" stop="20250707210438 +0200" channel="Rai Südtirol">
+    <title>Sicheres Südtirol?</title>
+    <sub-title>Zwischen Wahrnehmung und Realität</sub-title>
+    <desc>Wie sicher ist Südtirol wirklich? Und warum weicht das persönliche Sicherheitsgefühl oft von der tatsächlichen Lage ab? Philipp Bologna geht in einer spannenden Reportage diesen Fragen auf den Grund. 
+Wir erhalten exklusive Einblicke in die vielfältige Arbeit von Polizei und Sicherheitskräften, begleiten Streifen im Einsatz und sprechen mit Experten über die aktuelle Sicherheitslage im Südtirol.</desc>
+  </programme>
+  <programme start="20250707210500 +0200" stop="20250707215024 +0200" channel="Rai Südtirol">
+    <title>Tokyo</title>
+    <sub-title>Auf der Reihe Stadt in der Zukunft</sub-title>
+    <desc>Tokyo, die größte Metropole der Welt, ist eine junge Stadt. Das ist ihr großer Vorteil. Denn als immer mehr Menschen in den Großraum Tokyo zogen, war die Stadt bereits technisch gerüstet. Tokyo will ein Vorbild für ganz Asien sein. Man möchte zeigen, wie in einer modernen Großstadt gleichzeitig kleinstädtisch wirkende Strukturen ihren Platz finden. Zurück in die Zukunft.</desc>
+  </programme>
+  <programme start="20250707215000 +0200" stop="20250707215850 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title/>
+    <desc>Die Marokkanerin Siham Mouflih hat im Überetsch eine zweite Heimat gefunden und verwöhnt ihre Kunden mit Süßigkeiten und Eis.</desc>
+  </programme>
+  <programme start="20250707221000 +0200" stop="20250707223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250708200000 +0200" stop="20250708202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250708202000 +0200" stop="20250708204600 +0200" channel="Rai Südtirol">
+    <title>Kontrovers 3</title>
+    <sub-title>Landwirtschaft im Wandel</sub-title>
+    <desc>Technik oder Nachhaltigkeit - wie kann unsere Landwirtschaft zukunftsfähig bleiben? Zwei junge Bauern, Jakob Haller und Raffael Peer, und ihre unterschiedlichen Ansätze. Moderation: Maddalena Quaia.
+
+Die Landwirtschaft verändert sich rasant: Klimakrise, Kostendruck und Nachhaltigkeitsforderungen zwingen Südtirols Bauern zum Umdenken. Sichern Hightech und Chemie die Erträge oder führt regenerativer Anbau in die Zukunft?
+In der dritten Ausgabe von Kontrovers treffen zwei Perspektiven aufeinander: Jakob Haller, ehemaliger Spitzenkoch und heute regenerativer Landwirt, und Raffael Peer, Obstbauer, Weinbauberater und Landesobmann der Südtiroler Bauernjugend.
+Die Diskussion wurde am Hof des Wandels in St. Pauls aufgezeichnet. Ein Ort, an dem Landwirtschaft bereits neu gedacht wird.</desc>
+  </programme>
+  <programme start="20250708221000 +0200" stop="20250708223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250709200000 +0200" stop="20250709202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250709202000 +0200" stop="20250709204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Zuviel des Guten - unser Salzkonsum, das Fleisch unserer Supermärkte unter der Lupe, Vorsicht bei Onlinekäufen im TikTok Shop, Dorfporträt Mals - ein Ort im Aufbruch. Moderation: Markus Frings.
+
+Internationale Studien zeigen: Wir essen doppelt so viel Salz wie medizinisch empfohlen. Die Ernährungsexpertin der Verbraucherzentrale Südtirol hat 50 gängige Supermarktprodukte analysiert. Wo versteckt sich das meiste Salz und wie kann man es reduzieren?
+Immer mehr Konsumenten lassen sich von Social-Media-Videos zum Kauf verleiten – besonders über neue Plattformen wie den TikTok Shop. Doch nicht alles, was gut inszeniert ist, hält, was es verspricht. Worauf man beim digitalen Einkauf achten sollte.
+Woher kommt das Fleisch in unseren Supermärkten - und wie werden die Tiere gehalten und geschlachtet? Pluspunkt wirft einen kritischen Blick auf Herkunft, Tierwohl und Preisbewusstsein. Was zählt an der Fleischtheke mehr: das Gewissen oder der Geldbeutel?
+Zum Abschluss besuchen wir Mals im Obervinschgau - ein Dorf an der Schnittstelle von Südtirol, Nordtirol und der Schweiz, das durch Innovationsgeist, Nachhaltigkeit und Naturverbundenheit begeistert.</desc>
+  </programme>
+  <programme start="20250709221000 +0200" stop="20250709223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250710200000 +0200" stop="20250710201800 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250710201800 +0200" stop="20250710205641 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 3</sub-title>
+    <desc>Eine spannende Talkshow zum Thema Innovation. Zwei Startupper präsentieren ihre Geschäftsidee: Martin Stauder hat einen Bettentrenner entwickelt, Sebastian Betz einen Audioguide für Museen.
+
+Zwei Geschäftsgründer treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
+In der dritten Folge stellt der Sarner Hotelier Martin Stauder den praktischen Bettentrenner Cliwo vor, der in Hotel-Doppelbetten für mehr Privatsphäre sorgt. Anschließend präsentiert Sebastian Betz Storyblox - das ist ein Audioguide für kleinere Museen. Moderation: Simon Waldner.</desc>
+  </programme>
+  <programme start="20250710221000 +0200" stop="20250710223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250711175800 +0200" stop="20250711183641 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 3</sub-title>
+    <desc>Eine spannende Talkshow zum Thema Innovation. Zwei Startupper präsentieren ihre Geschäftsidee: Martin Stauder hat einen Bettentrenner entwickelt, Sebastian Betz einen Audioguide für Museen.
+
+Zwei Geschäftsgründer treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
+In der dritten Folge stellt der Sarner Hotelier Martin Stauder den praktischen Bettentrenner Cliwo vor, der in Hotel-Doppelbetten für mehr Privatsphäre sorgt. Anschließend präsentiert Sebastian Betz Storyblox - das ist ein Audioguide für kleinere Museen. Moderation: Simon Waldner.</desc>
+  </programme>
+  <programme start="20250711183600 +0200" stop="20250711185830 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Wie gute Autofahrer:innen sind wir hier in Südtirol, warum sind junge Männer die größte
+Gefahrenquelle auf der Straße und in welchen Situationen ist das Unfallrisiko bei Frauen am
+höchsten?
+Wir meistern unsere Bergstraßen mit Eleganz, schlängeln uns durch den Stadtverkehr und treten
+oft stark aufs Gaspedal, auch wenn wir es nicht sollten. Ja, sind wir nicht gut am Steuer?
+Trotzdem gibt es in Italien mehr Verkehrstote als beispielsweise in der Schweiz, in Deutschland oder in Schweden. Simone Mayr und Angelika König gehen der Frage nach, wie gut wir Südtiroler:innen am Steuer sind und geben dabei nicht nur Zwischengas, sondern versuchen auch Vollgas zu geben. Sie besuchen den Safety Park in Pfatten, probieren mit ihrer 48jährigen Alfa Giulia eine brenzlige Fahrsituation aus und begleiten ein "Traktor Training".</desc>
+  </programme>
+  <programme start="20250711200000 +0200" stop="20250711202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250711202100 +0200" stop="20250711210842 +0200" channel="Rai Südtirol">
+    <title>Zurück in die Einfachheit</title>
+    <sub-title/>
+    <desc>Der Fuchs-Ferdl lebt als Pächter und Selbstversorger auf einem abgeschiedenen Hof mit seinen Tieren. Als der Hof abbrennt, kämpft Ferdl für den Wiederaufbau und lebt lange in einem Wohnwagen.
+Am abgeschiedenen Berghof zi Lärchegg in Mühlwald auf 1600 m Meereshöhe eingebettet im Hochwald wohnt der Pächter Ferdinand Holzer, der Fuchs-Ferdl. Er hat sich dort seine eigene Welt geschaffen, lebt die Genügsamkeit und die Einfachheit. Die Abgeschiedenheit sucht er ganz bewusst. Als Selbstversorger nutzt er alles, was auf den steilen Feldern wächst: Gemüse, Getreide, Kartoffeln werden angebaut, das Heu für die Ziegen und Schafe eingebracht. 
+Im Jänner 2023 vernichtet ein Brand über Nacht den gesamten Hof mit Maschinen und Einrichtungen. Ferdl kann sich mit seinen Tieren retten, der Schock sitzt tief. Aber er gibt nicht auf. Im Frühjahr kehrt er mit den Tieren zurück und richtet sich provisorisch ein. Für das Vieh errichtet er einen Unterstand, er selber lebt in einem Wohnwagen. In der Zwischenzeit wird am neuen Haus und am Wirtschaftsgebäude gearbeitet. Ein Film von Hans Rieder.</desc>
+  </programme>
+  <programme start="20250711210800 +0200" stop="20250711215902 +0200" channel="Rai Südtirol">
+    <title>Über Österreich</title>
+    <sub-title>Der Osten</sub-title>
+    <desc>Eine faszinierende Flugreise aus der Vogelperspektive über die schönsten Landschaften und Sehenswürdigkeiten Österreichs mit Fotograf und Filmemacher Georg Riha. Sprecher ist der bekannte Schauspieler Peter Simonischek. 
+Gemeinsam erkunden wir von oben das Barockjuwel Schloss Hof, die Donauschlinge bei Ybbs und den Zentralverschiebebahnhof Kledering. Außerdem erleben wir den Ersten Wiener Gemeindebezirk in der Dämmerung mit ungeahnt schönen Einblicken.</desc>
+  </programme>
+  <programme start="20250711221000 +0200" stop="20250711223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250712180000 +0200" stop="20250712185930 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Lederhosen und ein Wetterfleck für Jäger - Generationenbekleidung aus Südtirol. Außerdem eine
+Wanderung zum einstigen Kummersee in Hinterpasseier, der im 18.Jh. das Tal verwüstet hat. Diesmal stehen Handwerksbetriebe im Mittelpunkt, die Kleidung mit Geschichte fertigen. Petra Tschenett stellt Südtirols einzige Lederhosenmanufaktur vor, eine Trachtenschneiderin und eine Schneiderei, die unter anderem den traditionellen Wetterfleck für Jäger herstellt. Alle Produkte sind sogenannte Generationenbekleidung - hochwertig, langlebig und mit Liebe zum Detail gefertigt. Und in allen drei Betrieben hat das Schneiderhandwerk eine lange Familientradition. Bei "Erlebnis Südtirol" führt uns Theo Hendrich zu einer Sommerwanderung ins hinterste Passeiertal. Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. Entlang der Passer führt der Weg bis nach Rabenstein zum Kummersee. Ein See, den es heute zwar nicht mehr gibt, der aber über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten hat. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
+  </programme>
+  <programme start="20250712200000 +0200" stop="20250712202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250712202100 +0200" stop="20250712202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250712202500 +0200" stop="20250712205650 +0200" channel="Rai Südtirol">
+    <title>Herzen ohne Grenzen</title>
+    <sub-title>Zwei Südtirolerinnen in Afrika</sub-title>
+    <desc>Sie engagieren sich seit Jahren für junge Frauen in Tansania: Irma Werth aus Eppan und Julia Lantschner aus Steinegg. Sie bemühen sich um Schulen und berufliche Weiterbildung. 
+
+Irma Werth aus Eppan unterstützt seit 15 Jahren ein Massaidorf im Nordwesten von Tansania. Dort setzt sie sich vor allem für eine gezielte Verbesserung der Lebenssituationen junger Frauen ein. 
+Julia Lantschner aus Steinegg lebt seit vielen Jahren in Tansania und kümmert sich um junge Mädchen, die ohne ihre Unterstützung auf der Straße leben müssten. 
+Markus Frings und Josef Pichler haben die beiden Südtirolerinnen mit der Kamera nach Tansania begleitet. Mit ihrer Reportage unterstützen die beiden Filmemacher zusammen mit Rai Südtirol die Hilfsorganisationen "Servus" und "Irma hilft".</desc>
+  </programme>
+  <programme start="20250712221000 +0200" stop="20250712223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
