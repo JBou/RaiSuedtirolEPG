@@ -4,59 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250704180000 +0200" stop="20250704183611 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 2</sub-title>
-    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo diesmal zwei Startupperinnen ihr innovatives Produkt vorstellen: Elisabeth Tocca spricht über Pipo und Valeria Told über Fortissimo. 
-
-Master Up, die neue Talkshow von Rai Südtirol, widmet sich dem Thema Innovation. Zwei Startupper treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
-In dieser zweiten Folge messen sich Elisabeth Tocca und Valeria Told. Tocca hat ein spezielles Alarm-Pflaster für Menschen mit Inkontinenz entwickelt. Valeria Tolds Fortissimo ist ein interaktives Bildungsprogramm, um Kindern die Musik näherzubringen. Moderation: Simon Waldner.</desc>
-  </programme>
-  <programme start="20250704183600 +0200" stop="20250704185923 +0200" channel="Rai Südtirol">
-    <title>Zwischengas  2</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Wie gute Autofahrer:innen sind wir hier in Südtirol, warum sind junge Männer die größte
-Gefahrenquelle auf der Straße und in welchen Situationen ist das Unfallrisiko bei Frauen am
-höchsten?
-
-Wir meistern unsere Bergstraßen mit Eleganz, schlängeln uns durch den Stadtverkehr und treten
-oft stark aufs Gaspedal, auch wenn wir es nicht sollten. Ja, sind wir nicht gut am Steuer?
-Trotzdem gibt es in Italien mehr Verkehrstote als beispielsweise in der Schweiz, in Deutschland
-oder in Schweden. Simone Mayr und Angelika König gehen der Frage nach, wie gut wir
-Südtiroler:innen am Steuer sind und geben dabei nicht nur Zwischengas, sondern versuchen
-auch Vollgas zu geben. Sie besuchen den Safety Park in Pfatten, probieren mit ihrer 48jährigen
-Alfa Giulia eine brenzlige Fahrsituation aus und begleiten ein "Traktor-Training".</desc>
-  </programme>
-  <programme start="20250704200000 +0200" stop="20250704202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250704202100 +0200" stop="20250704212030 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Lederhosen und ein Wetterfleck für Jäger - Generationenbekleidung aus Südtirol. Außerdem eine Wanderung zum einstigen Kummersee in Hinterpasseier, der im 18.Jh. das Tal verwüstet hat.
-
-Diesmal stehen Handwerksbetriebe im Mittelpunkt, die Kleidung mit Geschichte fertigen. Petra Tschenett stellt Südtirols einzige Lederhosenmanufaktur vor, eine Trachtenschneiderin und eine Schneiderei, die unter anderem den traditionellen Wetterfleck für Jäger herstellt. Alle Produkte sind sogenannte Generationenbekleidung - hochwertig, langlebig und mit Liebe zum Detail gefertigt. Und in allen drei Betrieben hat das Schneiderhandwerk eine lange Familientradition. 
-Bei "Erlebnis Südtirol" führt uns Theo Hendrich zu einer Sommerwanderung ins hinterste Passeiertal. Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. 
-Entlang der Passer führt der Weg bis nach Rabenstein zum Kummersee. Ein See, den es heute zwar nicht mehr gibt, der aber über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten hat. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
-  </programme>
-  <programme start="20250704212000 +0200" stop="20250704214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen,entdecken,genießen</sub-title>
-    <desc>Gerichte mit Geschichte, das Hotel Tirolensis in Prissian und die Entwicklung des Fremdenverkehrs in Südtirol, wie man junge Menschen für das Gastgewerbe begeistern kann.
-Der Fachkräftemangel stellt das Gastgewerbe vor große Herausforderungen - umso wichtiger wird es, junge Menschen für die Branche zu begeistern und sie auf ihrem Weg professionell zu begleiten. Dabei geht es auch um persönliche Entwicklung, Wertschätzung und ein Arbeitsumfeld, das Perspektiven bietet. Das Hotel Tirolensis in Prissian blickt auf eine lange Geschichte zurück: Bei der Eröffnung 1978 war es eines der wenigen Fünf-Sterne-Hotels im Burggrafenamt. Das Haus hat Höhen und Tiefen erlebt, mehrfach den Besitzer gewechselt und wurde erst kürzlich behutsam renoviert. Die Hotelgeschichte widerspiegelt auch die Entwicklung des Fremdenverkehrs im Land. Zwei Köche, die mit viel Gefühl für Herkunft und Tradition kochen: Thomas Ortler serviert in Glurns eine Vinschger Schneemilch, Herbert Hintner bereitet in Eppan ein Stockfischgröstl zu. Beide Gerichte stehen für eine Küche, die tief in der Region verwurzelt ist. Sie erzählen Geschichte und machen Kultur schmeckbar.</desc>
-  </programme>
-  <programme start="20250704215000 +0200" stop="20250704215759 +0200" channel="Rai Südtirol">
-    <title>Riversurfen in Brixen</title>
-    <sub-title/>
-    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
-  </programme>
-  <programme start="20250704221000 +0200" stop="20250704223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250705180000 +0200" stop="20250705182930 +0200" channel="Rai Südtirol">
     <title>SportArena</title>
     <sub-title/>
@@ -282,6 +229,28 @@ Julia Lantschner aus Steinegg lebt seit vielen Jahren in Tansania und kümmert s
 Markus Frings und Josef Pichler haben die beiden Südtirolerinnen mit der Kamera nach Tansania begleitet. Mit ihrer Reportage unterstützen die beiden Filmemacher zusammen mit Rai Südtirol die Hilfsorganisationen "Servus" und "Irma hilft".</desc>
   </programme>
   <programme start="20250712221000 +0200" stop="20250712223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250713200000 +0200" stop="20250713202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250713202000 +0200" stop="20250713205022 +0200" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Bordeaux</sub-title>
+    <desc>Eine kulinarische Rundreise durch eines der berühmtesten Weinanbaugebiete der Welt. Schon zu Zeiten der Römer wurden hier Rebstöcke kultiviert. Heute gibt es hier 1000 Weinsorten.
+
+Die Dokumentation erzählt die Geschichte von Bordeaux aus der Sicht von vier völlig unterschiedlichen Winzern, die mit ihrem Streben und Wissen zur Vielfalt aber auch zur Qualität beitragen. Das Ergebnis sind über 1000 verschiedene Weine - doch jeder steht für das Markenzeichen Bordeaux. Ein Film von und für Weinliebhaber.</desc>
+  </programme>
+  <programme start="20250713205000 +0200" stop="20250713205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250713221000 +0200" stop="20250713223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
