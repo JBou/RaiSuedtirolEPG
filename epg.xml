@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250705180000 +0200" stop="20250705182930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Am Wochenende findet im Bozner Lido das traditionelle internationale Meeting im Wasserspringen statt. Legenden dieses Sports wie Klaus Dibiasi, Giorgio und Tania Cagnotto, die insgesamt 11 Olympiamedaillen gewonnen haben, starteten hier ihre erfolgreiche Karriere. Wir zeigen auch ein Portrait der Hindernis-Läuferin Katja Pattis aus Steinegg, die nach vier Jahren in Amerika nach Südtirol zurückgekehrt ist.</desc>
-  </programme>
-  <programme start="20250705182900 +0200" stop="20250705185830 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Jetzt wird geplattlt!</sub-title>
-    <desc>In der neuen Folge seiner Challenge-Show stellt sich Liedermacher Max von Milland einer echten Traditionsprüfung: Schuhplattln mit den Algunder Bergplattler-Gitschn. Für Max völliges Neuland.
-
-Bisher hat Max weder geplattlt noch gewusst, wie schweißtreibend, wild und stellenweise schmerzhaft dieser urige Tanz sein kann. Ob Platteln mit Sensen, waghalsige Figuren auf Bänken oder der obligatorische Klaps auf den Hintern - Max muss alles mitmachen.
-Schafft er es, im Takt zu bleiben und die Gitschn zu beeindrucken? Oder tanzt er sich ins Chaos? Finde es heraus - in der neuen, garantiert zünftigen Folge von SchachMax!</desc>
-  </programme>
-  <programme start="20250705200000 +0200" stop="20250705202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250705202100 +0200" stop="20250705202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250705202500 +0200" stop="20250705205430 +0200" channel="Rai Südtirol">
-    <title>Karriereleitern</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland - Folge 1</sub-title>
-    <desc>Stefan Perkmann Berger aus Meran ist ein Netzwerker und Unternehmensberater, der auch selbst ein Unternehmen leitet. Whataventure mit Sitz in Wien hilft dabei, Innovationsprojekte umzusetzen. 
-
-Derzeit ist Stefan Perkmann Berger vor allem mit dem Aufbau des Holzbau-Unternehmens Woodspace beschäftigt. Stefan ist Mitglied von Südstern, dem Netzwerk der Südtiroler im Ausland, und wurde 2014 mit dem Futura-Förderpreis ausgezeichnet.
-Auch Nora Dejaco ist Mitglied bei Südstern. Sie stammt aus Bruneck und lebt in Wien. Sie setzt sich für Chancengleichheit und Selbstbestimmung ein. Zum Beispiel mit der Gründung von Thrive+, eine Bewegung, die sich für eine chancengerechtere Welt einsetzt. Außerdem leitet Nora Dejaco das Netzwerk AES - IN MOTION für Innovation im Produktionssektor. Als zertifizierte Mentaltrainerin hilft sie anderen, ihr volles Potenzial zu entfalten.</desc>
-  </programme>
-  <programme start="20250705205500 +0200" stop="20250705215114 +0200" channel="Rai Südtirol">
-    <title>Alexander Langer zum 30. Todestag</title>
-    <sub-title>"...macht weiter, was gut war"</sub-title>
-    <desc>Zeit seines Lebens war der Politiker und Publizist Alexander Langer umstritten: von den einen verehrt, von den anderen stark angefeindet. Im Film von Christoph Franceschini anlässlich seines Todes 1995  kommen Weggefährten und Freunde, aber auch politische Gegner zu Wort.</desc>
-  </programme>
-  <programme start="20250705221000 +0200" stop="20250705223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250706200000 +0200" stop="20250706202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
