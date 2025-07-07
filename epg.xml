@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250706200000 +0200" stop="20250706202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250706202000 +0200" stop="20250706205410 +0200" channel="Rai Südtirol">
-    <title>Das Thema</title>
-    <sub-title>Hinter dem Abzug</sub-title>
-    <desc>Faszination, Hobby oder Gefahr? Schusswaffen sind für einige Menschen ein Ausdruck von Freude, Kunst und Geschichte. Eine Reportage von Andreas Niederkofler und Daniela Thaler.
-
-Wir begegnen Menschen, die das Thema Waffen aus verschiedenen Blickwinkeln sehen: Ein Waffenbauer und Sportschütze schmieden mit Hingabe seine eigenen Waffen, ein Sammler entführt uns in die Welt seiner seltenen Schätze, eine junge Frau liebt die Präzision und Disziplin des Sportschießens. Die Staatspolizei schließlich gewährt uns einen exklusiven Einblick in ihre spezielle Ausbildung und den Umgang mit Waffen. 
-Wie empfinden diese Menschen das Schießen? Was begeistert sie an Waffen? Und wie bewältigen sie die Herausforderungen und die Verantwortung, die Waffen mit sich bringen? Diese und weitere Fragen werden in dieser Reportage beleuchtet.</desc>
-  </programme>
-  <programme start="20250706205400 +0200" stop="20250706205800 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250706221000 +0200" stop="20250706223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250707180000 +0200" stop="20250707184558 +0200" channel="Rai Südtirol">
     <title>Frühsommer im steirischen Joglland</title>
     <sub-title>Bergdörfer</sub-title>
