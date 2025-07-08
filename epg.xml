@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250707180000 +0200" stop="20250707184558 +0200" channel="Rai Südtirol">
-    <title>Frühsommer im steirischen Joglland</title>
-    <sub-title>Bergdörfer</sub-title>
-    <desc>Nahe Fürstenfeld erstreckt sich im Nordosten der Steiermark eine sanfte und bewaldete Region, die die Menschen dort liebevoll „Joglland“ nennen. Der höchste Gipfel, der Rabenwaldkogel, ist 1300m hoch. Ähnlich wie die Waldheimat verdankt auch diese Gegend ihre Bekanntheit dem Volksdichter Peter Rosegger, der in Krieglach als Bergbauernkind aufgewachsen ist.
-Filmemacher Alfred Ninaus legt sein Augenmerk auf die Menschen, die hier leben: die Bergbauern Silvia und Peter Karelly aus Fischbach oder Gerald und Martina Hofreiter aus St. Jakob im Walde.</desc>
-  </programme>
-  <programme start="20250707184500 +0200" stop="20250707185840 +0200" channel="Rai Südtirol">
-    <title>Auf weiß-roten Spuren in Frankreich</title>
-    <sub-title>Rafaella Russo-Ricci</sub-title>
-    <desc>Die Bozner Kinderbuchautorin und Kulturvermittlerin Raffaela Russo-Ricci lässt uns teilhaben an ihrem Alltag in Paris. Sie erzählt vom Leben im Ausland und von den bleibenden Linien zu ihrem Heimatland.</desc>
-  </programme>
-  <programme start="20250707200000 +0200" stop="20250707202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250707202000 +0200" stop="20250707210438 +0200" channel="Rai Südtirol">
-    <title>Sicheres Südtirol?</title>
-    <sub-title>Zwischen Wahrnehmung und Realität</sub-title>
-    <desc>Wie sicher ist Südtirol wirklich? Und warum weicht das persönliche Sicherheitsgefühl oft von der tatsächlichen Lage ab? Philipp Bologna geht in einer spannenden Reportage diesen Fragen auf den Grund. 
-Wir erhalten exklusive Einblicke in die vielfältige Arbeit von Polizei und Sicherheitskräften, begleiten Streifen im Einsatz und sprechen mit Experten über die aktuelle Sicherheitslage im Südtirol.</desc>
-  </programme>
-  <programme start="20250707210500 +0200" stop="20250707215024 +0200" channel="Rai Südtirol">
-    <title>Tokyo</title>
-    <sub-title>Auf der Reihe Stadt in der Zukunft</sub-title>
-    <desc>Tokyo, die größte Metropole der Welt, ist eine junge Stadt. Das ist ihr großer Vorteil. Denn als immer mehr Menschen in den Großraum Tokyo zogen, war die Stadt bereits technisch gerüstet. Tokyo will ein Vorbild für ganz Asien sein. Man möchte zeigen, wie in einer modernen Großstadt gleichzeitig kleinstädtisch wirkende Strukturen ihren Platz finden. Zurück in die Zukunft.</desc>
-  </programme>
-  <programme start="20250707215000 +0200" stop="20250707215850 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title/>
-    <desc>Die Marokkanerin Siham Mouflih hat im Überetsch eine zweite Heimat gefunden und verwöhnt ihre Kunden mit Süßigkeiten und Eis.</desc>
-  </programme>
-  <programme start="20250707221000 +0200" stop="20250707223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250708200000 +0200" stop="20250708202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
