@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250708200000 +0200" stop="20250708202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250708202000 +0200" stop="20250708204600 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 3</title>
-    <sub-title>Landwirtschaft im Wandel</sub-title>
-    <desc>Technik oder Nachhaltigkeit - wie kann unsere Landwirtschaft zukunftsfähig bleiben? Zwei junge Bauern, Jakob Haller und Raffael Peer, und ihre unterschiedlichen Ansätze. Moderation: Maddalena Quaia.
-
-Die Landwirtschaft verändert sich rasant: Klimakrise, Kostendruck und Nachhaltigkeitsforderungen zwingen Südtirols Bauern zum Umdenken. Sichern Hightech und Chemie die Erträge oder führt regenerativer Anbau in die Zukunft?
-In der dritten Ausgabe von Kontrovers treffen zwei Perspektiven aufeinander: Jakob Haller, ehemaliger Spitzenkoch und heute regenerativer Landwirt, und Raffael Peer, Obstbauer, Weinbauberater und Landesobmann der Südtiroler Bauernjugend.
-Die Diskussion wurde am Hof des Wandels in St. Pauls aufgezeichnet. Ein Ort, an dem Landwirtschaft bereits neu gedacht wird.</desc>
-  </programme>
-  <programme start="20250708221000 +0200" stop="20250708223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250709200000 +0200" stop="20250709202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
