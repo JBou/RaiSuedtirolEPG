@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250709200000 +0200" stop="20250709202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250709202000 +0200" stop="20250709204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Zuviel des Guten - unser Salzkonsum, das Fleisch unserer Supermärkte unter der Lupe, Vorsicht bei Onlinekäufen im TikTok Shop, Dorfporträt Mals - ein Ort im Aufbruch. Moderation: Markus Frings.
-
-Internationale Studien zeigen: Wir essen doppelt so viel Salz wie medizinisch empfohlen. Die Ernährungsexpertin der Verbraucherzentrale Südtirol hat 50 gängige Supermarktprodukte analysiert. Wo versteckt sich das meiste Salz und wie kann man es reduzieren?
-Immer mehr Konsumenten lassen sich von Social-Media-Videos zum Kauf verleiten – besonders über neue Plattformen wie den TikTok Shop. Doch nicht alles, was gut inszeniert ist, hält, was es verspricht. Worauf man beim digitalen Einkauf achten sollte.
-Woher kommt das Fleisch in unseren Supermärkten - und wie werden die Tiere gehalten und geschlachtet? Pluspunkt wirft einen kritischen Blick auf Herkunft, Tierwohl und Preisbewusstsein. Was zählt an der Fleischtheke mehr: das Gewissen oder der Geldbeutel?
-Zum Abschluss besuchen wir Mals im Obervinschgau - ein Dorf an der Schnittstelle von Südtirol, Nordtirol und der Schweiz, das durch Innovationsgeist, Nachhaltigkeit und Naturverbundenheit begeistert.</desc>
-  </programme>
-  <programme start="20250709221000 +0200" stop="20250709223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250710200000 +0200" stop="20250710201800 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
