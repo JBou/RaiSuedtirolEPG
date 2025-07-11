@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250710200000 +0200" stop="20250710201800 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250710201800 +0200" stop="20250710205641 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Eine spannende Talkshow zum Thema Innovation. Zwei Startupper präsentieren ihre Geschäftsidee: Martin Stauder hat einen Bettentrenner entwickelt, Sebastian Betz einen Audioguide für Museen.
-
-Zwei Geschäftsgründer treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
-In der dritten Folge stellt der Sarner Hotelier Martin Stauder den praktischen Bettentrenner Cliwo vor, der in Hotel-Doppelbetten für mehr Privatsphäre sorgt. Anschließend präsentiert Sebastian Betz Storyblox - das ist ein Audioguide für kleinere Museen. Moderation: Simon Waldner.</desc>
-  </programme>
-  <programme start="20250710221000 +0200" stop="20250710223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250711175800 +0200" stop="20250711183641 +0200" channel="Rai Südtirol">
     <title>Master Up</title>
     <sub-title>Folge 3</sub-title>
@@ -111,6 +93,195 @@ Die Dokumentation erzählt die Geschichte von Bordeaux aus der Sicht von vier v�
     <desc/>
   </programme>
   <programme start="20250713221000 +0200" stop="20250713223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250714180000 +0200" stop="20250714184316 +0200" channel="Rai Südtirol">
+    <title>Bergleben</title>
+    <sub-title>Rund um den Großglockner</sub-title>
+    <desc>Der Film von Peter Ninaus dokumentiert authentisch und glaubwürdig den Wandel der Zeit in Kärntens Bergdörfern ab den 1950er Jahren bis heute.
+Am Fuße des Großglockners liegt eines der bekanntesten Bergdörfer Österreichs - Heiligenblut. Bergführer Peter Suntinger weiß über die Geschichte und die Bedeutung der Großglockner-Hochalpenstraße, die hier ihren Ausgangspunkt hat, einiges zu berichten. Er erzählt auch vom Wandel des Tourismus im Ort. Bergbauer Peter Wallner vulgo Pfeifer bewirtschaftet seinen Hof seit den frühen 1960er Jahren. Über die Jahre hat er so ziemlich alles an bäuerlichem Werkzeug zusammengetragen. Das Film-Team war auch bei Hans Pichler zu Gast, dessen Vater in den 1960er Jahren 200 Steinböcke angesiedelt hat, die zuvor im Gebiet der Hohen Tauern bereits ausgerottet waren.</desc>
+  </programme>
+  <programme start="20250714184300 +0200" stop="20250714185027 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Hermine Orian</sub-title>
+    <desc>"Ich bin als Österreicherin geboren und will als Österreicherin sterben", sagt die Traminerin Hermine Orian. Auch mit über 100 Jahren hoffte sie immer noch, die österreichische Staatsbürgerschaft zu erhalten. Hermine Orian ist am 15. Mai im Alter von 106 Jahren verstorben.</desc>
+  </programme>
+  <programme start="20250714185000 +0200" stop="20250714185533 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Kumar Anil</sub-title>
+    <desc>Der blaue Bauernschurz ist unverzichtbarer Teil seiner Werktags-Garderobe geworden: Kumar Anil betreibt gleich drei Obststände im Zentrum von Bozen. Neben Chili, Currypulver und Kreuzkümmel verkauft er auch getrocknete Steinpilze und Gewürze für die Pizza.</desc>
+  </programme>
+  <programme start="20250714200000 +0200" stop="20250714202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250714202100 +0200" stop="20250714212050 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Musical-Darstellerin Anna Fink, "Verkaufte Heimat" der Freilichtspiele Lana, ein Porträt der kürzlich verstorbenen Theaterfrau Magdalena Schwellensattl und die erste Pride in Südtirol. Moderation: Alex Lechner
+Die Musical-Darstellerin Anna Fink war zuletzt beim Musical "Rent" der VBB zu sehen. Derzeit mimt sie die Lysistrata in der gleichnamigen Komödie von Aristophanes bei den Schlossfestspielen Dorf Tirol: Die Frauen Griechenlands haben genug von den ewigen Kriegen ihrer Männer und organisieren eine kollektiven Sex-Streik, um ihre Männer zum Frieden zu zwingen
+Die Freilichtspiele Lana bringen heuer ein historisches Theaterstück auf die Bühne: Verkaufte Heimat, eine Südtiroler Familiensaga aus der Optionszeit von Felix Mitterer. Der Theatertext regt das Publikum an, sich auf die Suche nach einem zeitgemäßen Heimatbegriff zu begeben.
+Im Juni ist Magdalena Schwellensattl, Schauspielerin, Regisseurin, Moderatorin und langjährige Mitarbeiterin von Rai Südtirol verstorben. Seit den 1990er Jahren stand sie immer wieder mit sehr engagierten, auch selbst entworfenen Stücken auf der Bühne.
+Mit "psychokolonialen Räumen" beschäftigt sich die Künstlerin und Wissenschaftlerin Samia Henni. Im Raum der Ar/Ge Kunst in Bozen ist eine informelle Reise in Geschichte und Gegenwart entstanden. 
+Vielfalt - lautet das Motto der ersten Pride in Südtirol - für eine offene und inklusive Gesellschaft, die queere Menschen akzeptiert. Mit dabei auch die Szene der Drag Queens, einer Kunstform, die bewusst mit Geschlechtsidentitäten spielt, zwischen künstlerischem Ausdruck und politischem Protest.
+Gäste der Sendung sind die Schauspielerin Brigitte Jaufenthaler und Birgit Mayr vom NOI Techpark.</desc>
+  </programme>
+  <programme start="20250714212000 +0200" stop="20250714213357 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Simone Mayr und Angelika König suchen im Unterland nach besonderen Stilblüten und einzigartigen Wortwechseln. Das Italienische hat dort im Südtiroler Dialekt Niederschlag gefunden, man sagt zum Nummernschild "Targa", zum Einschreiben "raccomandata". Außerdem gibt es im südlichen Landesteil Mez per sort, Krautwalsch oder Varietäten wie Laivesòt, was für die Sprachwissenschaft Beweis für ein wahrhaftiges Zusammenleben der verschiedenen Sprachgruppen ist. Angelika König und Simone Mayr machen mit ihrer Giulia einen "giro" im Südtiroler Unterland, zwischen Leifers und Salurn.</desc>
+  </programme>
+  <programme start="20250714213400 +0200" stop="20250714215652 +0200" channel="Rai Südtirol">
+    <title>Lois Steger</title>
+    <sub-title>Die Kunst ist eine Brücke</sub-title>
+    <desc>Lois Steger ist Künstler, Lehrer und Bergretter. Er stammt aus Kasern im hintersten Ahrntal aus einer kinderreichen Familie. Lois Steger organisiert seit Jahren das Überschreiten des Krimmler Tauern und das Treffen am Gipfel. Es ist ein Gedenken an die Juden, die diesen Weg 1947 als Fluchtweg benutzt hatten. Steger geht barfuß auf die Berge - auch durch den Schnee, um die Energie zu spüren. Er ist nicht nur ein Aussteiger. Der Südtiroler Künstlerbund hat dem kreativen Kopf nämlich den Preis "Kunst am Bau - Kunst im öffentlichen Raum" zuerkannt. Ein Film von Astrid Kofler und Helmut Lechthaler.</desc>
+  </programme>
+  <programme start="20250714221000 +0200" stop="20250714223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250715200000 +0200" stop="20250715202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250715202000 +0200" stop="20250715204630 +0200" channel="Rai Südtirol">
+    <title>Kontrovers 4</title>
+    <sub-title>Wie reden wir übers Klima?</sub-title>
+    <desc>Klimadebatten zwischen Alarmismus und Gleichgültigkeit - was braucht eine wirksame Klimakommunikation? Gäste: Aktivist Jakob Dellago und Biologe Lukas Neuwirth. Moderation: Maddalena Quaia.
+
+Die Debatte rund um den Klimawandel ist emotional aufgeladen: Während die einen vor dem Kollaps warnen, verharren andere in Gleichgültigkeit. Doch weder Panik noch Ignoranz führen zu nachhaltigem Handeln. Wie gelingt es, Menschen zu mobilisieren ohne sie zu überfordern? Braucht es lauten Protest - oder leise Bildung?
+In der vierten Ausgabe von „Kontrovers“ treffen zwei Perspektiven aufeinander: Jakob Dellago, Klimaaktivist der Letzten Generation, und Lukas Neuwirth, Biologe und Bildungsreferent im Kloster Neustift.</desc>
+  </programme>
+  <programme start="20250715221000 +0200" stop="20250715223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250716200000 +0200" stop="20250716202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250716202000 +0200" stop="20250716204930 +0200" channel="Rai Südtirol">
+    <title>Minet - Das Minderheitenmagazin</title>
+    <sub-title>Die Pfeifsprache auf La Gomera</sub-title>
+    <desc>Der Silbo Gomero auf der kanarischen Insel La Gomera ist die einzige Pfeifsprache der Welt, die tatsächlich "gesprochen" wird. Sie baut auf dem lateinischen Alphabet auf und ist Pflichtfach in der Schule. 
+
+Als eine der weltweit 70 Pfeifsprachen war der Silbo Gomero vom Aussterben bedroht. Die Bevölkerung hat die Rettung selbst in die Hand genommen: Seit 1999 ist die Pfeifsprache als Pflichtfach an den Schulen etabliert. 2009 erklärt die UNESCO dieses Kommunikationssystem, das von etwa 22.000 "Silbadores" beherrscht wird, zu einem Stück immateriellen Weltkulturerbes.
+Wie lebt man nun mit dieser Pfeifsprache in der heutigen Zeit? Wie ist sie entstanden und warum? Und vor allem wie funktioniert sie?
+Fest steht, dass der Silbo Gomero fixer Bestandteil der kulturellen Identität der Inselbewohner ist, in ihren Alltag integriert wird, und den meisten Heimatgefühl bedeutet. 
+"Ich pfeif dir was" ist eine Minet-Dokumentation von Erna Cuesta und Agostino Fuscaldo auf den Spuren dieser einzigartigen Sprache.</desc>
+  </programme>
+  <programme start="20250716221000 +0200" stop="20250716223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250717200000 +0200" stop="20250717201800 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250717201800 +0200" stop="20250717205559 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 4</sub-title>
+    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo zwei Startupper ihr innovatives Produkt vorstellen und um die Gunst der strengen Jury buhlen. Moderation: Simon Waldner.
+
+Kathrin Pichler aus Kurtatsch hat einen analogen Terminplaner namens Wentiquattro entwickelt in Kombination mit einem Selbstlernkurs für besseres Zeitmanagement.
+Ivan Angerers Geschäftsidee ist die App Clava Sport, eine Plattform für Live-Resultate und Statistiken im Amateursport. Wer von den beiden wird am Ende die Jury überzeugen?</desc>
+  </programme>
+  <programme start="20250717221000 +0200" stop="20250717223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250718175800 +0200" stop="20250718183559 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 4</sub-title>
+    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo zwei Startupper ihr innovatives Produkt vorstellen und um die Gunst der strengen Jury buhlen. Moderation: Simon Waldner.
+
+Kathrin Pichler aus Kurtatsch hat einen analogen Terminplaner namens Wentiquattro entwickelt in Kombination mit einem Selbstlernkurs für besseres Zeitmanagement.
+Ivan Angerers Geschäftsidee ist die App Clava Sport, eine Plattform für Live-Resultate und Statistiken im Amateursport. Wer von den beiden wird am Ende die Jury überzeugen?</desc>
+  </programme>
+  <programme start="20250718183500 +0200" stop="20250718185800 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Freier Zugang zum Kalterer See - ein heißes Eisen. An diesem Ort der Superlative inmitten einer malerischen Landschaft versuchen Angelika König und Simone Mayr Schattenseiten
+einzufangen.
+Der Herrgott ist - der Legende nach - ein Kalterer Bürger, und die Kalterer:innen sind somit Herrgottskinder. Ein Sehnsuchtsort für Urlauber, eines der schönsten Weindörfer der Welt, die Perle des Südens - ein Ort, der leicht zu bewerben ist. Viel schwieriger ist es, Motive abseits der Postkartenidylle zu finden. In der filmischen Kolumne nehmen Simone Mayr und Angelika König diese Herausforderung an.</desc>
+  </programme>
+  <programme start="20250718200000 +0200" stop="20250718202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250718202100 +0200" stop="20250718210551 +0200" channel="Rai Südtirol">
+    <title>Der Eisack</title>
+    <sub-title>Leben am Fluss</sub-title>
+    <desc>Von der Quelle am Brenner bis zur Mündung in die Etsch bei Bozen legt der Eisack 100 km zurück. Die Filmemacher Willi Rainer und Benjamin Zwack erkunden seine Geschichte und seine Bedeutung. 
+
+Der Eisack hat im Laufe der Jahrhunderte auch immer wieder Überschwemmungen verursacht. Wir sprechen mit Expert:innen über die Herausforderungen durch den Klimawandel und wie die Flussregulierung heute professionell gelingt.
+Der Eisack lockt aber auch Naturfreunde an, die entlang des Flusslaufes vieles erleben können. 
+In Sterzing, Brixen, Klausen und Bozen erfahren wir mehr über die kulturelle und wirtschaftliche Bedeutung des Eisacks für die Bevölkerung.</desc>
+  </programme>
+  <programme start="20250718210500 +0200" stop="20250718214523 +0200" channel="Rai Südtirol">
+    <title>Rittner Sommerspiele</title>
+    <sub-title/>
+    <desc>Die Rittner Sommerspiele sind aus der Südtiroler Theaterlandschaft nicht mehr wegzudenken.
+Bereits mit dem ersten Stück "Birnbam und Hollerstauden" wurden die Rittner Sommerspiele vom Publikum mit Begeisterung angenommen. Ganz bewusst legte man den Schwerpunkt auf Volksstücke mit Tiefgang. Die meiste Zeit war die Kommende Lengmoos der Spielort.
+2023 feierten die Rittner Sommerspiele ihr 50-Jahr-Jubiläum. Anlass zurückzublicken: Zu Wort kommen Schauspielgrößen wie Peter Mitterrutzner und die mittlerweile verstorbene Julia Gschnitzer. Aber auch Obmänner und Mitwirkende geben Anekdoten und Erinnerungen zum Besten.
+Eine Zeitreise - gestaltet von Regisseur Alexander Kratzer und Filmemacher Georg Penn.</desc>
+  </programme>
+  <programme start="20250718214600 +0200" stop="20250718215423 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Sophie Tscholl</sub-title>
+    <desc>Sophie Tscholl hat 2024 den Wettbewerb rock-net gewonnen, mit einem eigenen Song. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat.</desc>
+  </programme>
+  <programme start="20250718215400 +0200" stop="20250718215905 +0200" channel="Rai Südtirol">
+    <title>Gedankenspuren: Kultur</title>
+    <sub-title>Fernsehreihe von Karl Mittermaier</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250718221000 +0200" stop="20250718223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250719180000 +0200" stop="20250719185930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Musical-Darstellerin Anna Fink, "Verkaufte Heimat" der Freilichtspiele Lana, ein Porträt der kürzlich verstorbenen Theaterfrau Magdalena Schwellensattl und die erste Pride in Südtirol. Moderation: Alex Lechner
+Die Musical-Darstellerin Anna Fink war zuletzt beim Musical "Rent" der VBB zu sehen. Derzeit mimt sie die Lysistrata in der gleichnamigen Komödie von Aristophanes bei den Schlossfestspielen Dorf Tirol: Die Frauen Griechenlands haben genug von den ewigen Kriegen ihrer Männer und organisieren eine kollektiven Sex-Streik, um ihre Männer zum Frieden zu zwingen
+Die Freilichtspiele Lana bringen heuer ein historisches Theaterstück auf die Bühne: Verkaufte Heimat, eine Südtiroler Familiensaga aus der Optionszeit von Felix Mitterer. Der Theatertext regt das Publikum an, sich auf die Suche nach einem zeitgemäßen Heimatbegriff zu begeben.
+Im Juni ist Magdalena Schwellensattl, Schauspielerin, Regisseurin, Moderatorin und langjährige Mitarbeiterin von Rai Südtirol verstorben. Seit den 1990er Jahren stand sie immer wieder mit sehr engagierten, auch selbst entworfenen Stücken auf der Bühne.
+Mit "psychokolonialen Räumen" beschäftigt sich die Künstlerin und Wissenschaftlerin Samia Henni. Im Raum der Ar/Ge Kunst in Bozen ist eine informelle Reise in Geschichte und Gegenwart entstanden. 
+Vielfalt - lautet das Motto der ersten Pride in Südtirol - für eine offene und inklusive Gesellschaft, die queere Menschen akzeptiert. Mit dabei auch die Szene der Drag Queens, einer Kunstform, die bewusst mit Geschlechtsidentitäten spielt, zwischen künstlerischem Ausdruck und politischem Protest.
+Gäste der Sendung sind die Schauspielerin Brigitte Jaufenthaler und Birgit Mayr vom NOI Techpark.</desc>
+  </programme>
+  <programme start="20250719200000 +0200" stop="20250719202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250719202100 +0200" stop="20250719202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250719202500 +0200" stop="20250719205650 +0200" channel="Rai Südtirol">
+    <title>Karriereleitern 2</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Die Harfenistin Isabel Goller und der Jungunternehmer Alexander Rech geben Einblick in ihren besonderen Beruf, der sie von Südtirol weggeführt hat, wohin sie aber immer wieder gerne zurückkehren.
+
+Isabel Goller aus Mellaun bei Brixen verließ mit 15 Jahren den elterlichen Hof, um Harfenistin zu werden. Sie musiziert unter anderem mit den Wiener Philharmonikern, dem Musikkollegium Winterthur und der Philharmonie Zürich. Die Musikerin ist zudem Mitbegründerin der "Südtirol Filarmonica", wo gebürtige Südtirol:innen zusammenkommen und gemeinsam musizieren. Isabel liebt Vintage-Kleidung, und in ihrer Freizeit gestaltet sie ihren eigenen Schmuck. 
+Alexander Rech aus Bruneck ist Computerwissenschaftler und Start Up-Unternehmer. Als solcher wurde er im Vorjahr mit dem Futura-Preis ausgezeichnet. Er hat mit Flasher - einer intelligenten Fahrradbeleuchtung - aus einer Studenten-Idee ein Unternehmen gemacht.</desc>
+  </programme>
+  <programme start="20250719221000 +0200" stop="20250719223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
