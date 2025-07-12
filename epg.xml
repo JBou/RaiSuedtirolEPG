@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250711175800 +0200" stop="20250711183641 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Eine spannende Talkshow zum Thema Innovation. Zwei Startupper präsentieren ihre Geschäftsidee: Martin Stauder hat einen Bettentrenner entwickelt, Sebastian Betz einen Audioguide für Museen.
-
-Zwei Geschäftsgründer treten mit innovativen Ideen im Wettbewerb gegeneinander an, bewertet von drei gestrengen Juror:innen. Der Gewinner zieht dann ins große Finale ein. 
-In der dritten Folge stellt der Sarner Hotelier Martin Stauder den praktischen Bettentrenner Cliwo vor, der in Hotel-Doppelbetten für mehr Privatsphäre sorgt. Anschließend präsentiert Sebastian Betz Storyblox - das ist ein Audioguide für kleinere Museen. Moderation: Simon Waldner.</desc>
-  </programme>
-  <programme start="20250711183600 +0200" stop="20250711185830 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Wie gute Autofahrer:innen sind wir hier in Südtirol, warum sind junge Männer die größte
-Gefahrenquelle auf der Straße und in welchen Situationen ist das Unfallrisiko bei Frauen am
-höchsten?
-Wir meistern unsere Bergstraßen mit Eleganz, schlängeln uns durch den Stadtverkehr und treten
-oft stark aufs Gaspedal, auch wenn wir es nicht sollten. Ja, sind wir nicht gut am Steuer?
-Trotzdem gibt es in Italien mehr Verkehrstote als beispielsweise in der Schweiz, in Deutschland oder in Schweden. Simone Mayr und Angelika König gehen der Frage nach, wie gut wir Südtiroler:innen am Steuer sind und geben dabei nicht nur Zwischengas, sondern versuchen auch Vollgas zu geben. Sie besuchen den Safety Park in Pfatten, probieren mit ihrer 48jährigen Alfa Giulia eine brenzlige Fahrsituation aus und begleiten ein "Traktor Training".</desc>
-  </programme>
-  <programme start="20250711200000 +0200" stop="20250711202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250711202100 +0200" stop="20250711210842 +0200" channel="Rai Südtirol">
-    <title>Zurück in die Einfachheit</title>
-    <sub-title/>
-    <desc>Der Fuchs-Ferdl lebt als Pächter und Selbstversorger auf einem abgeschiedenen Hof mit seinen Tieren. Als der Hof abbrennt, kämpft Ferdl für den Wiederaufbau und lebt lange in einem Wohnwagen.
-Am abgeschiedenen Berghof zi Lärchegg in Mühlwald auf 1600 m Meereshöhe eingebettet im Hochwald wohnt der Pächter Ferdinand Holzer, der Fuchs-Ferdl. Er hat sich dort seine eigene Welt geschaffen, lebt die Genügsamkeit und die Einfachheit. Die Abgeschiedenheit sucht er ganz bewusst. Als Selbstversorger nutzt er alles, was auf den steilen Feldern wächst: Gemüse, Getreide, Kartoffeln werden angebaut, das Heu für die Ziegen und Schafe eingebracht. 
-Im Jänner 2023 vernichtet ein Brand über Nacht den gesamten Hof mit Maschinen und Einrichtungen. Ferdl kann sich mit seinen Tieren retten, der Schock sitzt tief. Aber er gibt nicht auf. Im Frühjahr kehrt er mit den Tieren zurück und richtet sich provisorisch ein. Für das Vieh errichtet er einen Unterstand, er selber lebt in einem Wohnwagen. In der Zwischenzeit wird am neuen Haus und am Wirtschaftsgebäude gearbeitet. Ein Film von Hans Rieder.</desc>
-  </programme>
-  <programme start="20250711210800 +0200" stop="20250711215902 +0200" channel="Rai Südtirol">
-    <title>Über Österreich</title>
-    <sub-title>Der Osten</sub-title>
-    <desc>Eine faszinierende Flugreise aus der Vogelperspektive über die schönsten Landschaften und Sehenswürdigkeiten Österreichs mit Fotograf und Filmemacher Georg Riha. Sprecher ist der bekannte Schauspieler Peter Simonischek. 
-Gemeinsam erkunden wir von oben das Barockjuwel Schloss Hof, die Donauschlinge bei Ybbs und den Zentralverschiebebahnhof Kledering. Außerdem erleben wir den Ersten Wiener Gemeindebezirk in der Dämmerung mit ungeahnt schönen Einblicken.</desc>
-  </programme>
-  <programme start="20250711221000 +0200" stop="20250711223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250712180000 +0200" stop="20250712185930 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -282,6 +241,29 @@ Isabel Goller aus Mellaun bei Brixen verließ mit 15 Jahren den elterlichen Hof,
 Alexander Rech aus Bruneck ist Computerwissenschaftler und Start Up-Unternehmer. Als solcher wurde er im Vorjahr mit dem Futura-Preis ausgezeichnet. Er hat mit Flasher - einer intelligenten Fahrradbeleuchtung - aus einer Studenten-Idee ein Unternehmen gemacht.</desc>
   </programme>
   <programme start="20250719221000 +0200" stop="20250719223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250720200000 +0200" stop="20250720202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250720202000 +0200" stop="20250720204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Teis</sub-title>
+    <desc>Teis ist ein Bergdorf auf 940 Metern Höhe am Eingang ins Villnößtal. Es ist weitum bekannt wegen seiner glitzernden Teiser Kugeln, interessant ist auch die Entwicklung des Dorfes.
+
+Wir erfahren, wie sich Teis vom abgeschiedenen Dorf hin zu einer aktiven Gemeinschaft mit moderner Landwirtschaft und Tourismus entwickelt hat. Dorfbewohner geben Einblicke in die Geschichte des Dorfladens und in die Sagenwelt der Gegend. Sie besuchen auch die Pfarrkirche und die Kapelle am Heiligen Grab, sowie die historischen Schützengräben aus dem Ersten Weltkrieg.
+Eine Besonderheit von Teis ist der Geopfad und das Museum mit seiner reichen Mineralienwelt.</desc>
+  </programme>
+  <programme start="20250720204500 +0200" stop="20250720204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250720221000 +0200" stop="20250720223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
