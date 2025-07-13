@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250712180000 +0200" stop="20250712185930 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Lederhosen und ein Wetterfleck für Jäger - Generationenbekleidung aus Südtirol. Außerdem eine
-Wanderung zum einstigen Kummersee in Hinterpasseier, der im 18.Jh. das Tal verwüstet hat. Diesmal stehen Handwerksbetriebe im Mittelpunkt, die Kleidung mit Geschichte fertigen. Petra Tschenett stellt Südtirols einzige Lederhosenmanufaktur vor, eine Trachtenschneiderin und eine Schneiderei, die unter anderem den traditionellen Wetterfleck für Jäger herstellt. Alle Produkte sind sogenannte Generationenbekleidung - hochwertig, langlebig und mit Liebe zum Detail gefertigt. Und in allen drei Betrieben hat das Schneiderhandwerk eine lange Familientradition. Bei "Erlebnis Südtirol" führt uns Theo Hendrich zu einer Sommerwanderung ins hinterste Passeiertal. Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. Entlang der Passer führt der Weg bis nach Rabenstein zum Kummersee. Ein See, den es heute zwar nicht mehr gibt, der aber über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten hat. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
-  </programme>
-  <programme start="20250712200000 +0200" stop="20250712202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250712202100 +0200" stop="20250712202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250712202500 +0200" stop="20250712205650 +0200" channel="Rai Südtirol">
-    <title>Herzen ohne Grenzen</title>
-    <sub-title>Zwei Südtirolerinnen in Afrika</sub-title>
-    <desc>Sie engagieren sich seit Jahren für junge Frauen in Tansania: Irma Werth aus Eppan und Julia Lantschner aus Steinegg. Sie bemühen sich um Schulen und berufliche Weiterbildung. 
-
-Irma Werth aus Eppan unterstützt seit 15 Jahren ein Massaidorf im Nordwesten von Tansania. Dort setzt sie sich vor allem für eine gezielte Verbesserung der Lebenssituationen junger Frauen ein. 
-Julia Lantschner aus Steinegg lebt seit vielen Jahren in Tansania und kümmert sich um junge Mädchen, die ohne ihre Unterstützung auf der Straße leben müssten. 
-Markus Frings und Josef Pichler haben die beiden Südtirolerinnen mit der Kamera nach Tansania begleitet. Mit ihrer Reportage unterstützen die beiden Filmemacher zusammen mit Rai Südtirol die Hilfsorganisationen "Servus" und "Irma hilft".</desc>
-  </programme>
-  <programme start="20250712221000 +0200" stop="20250712223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250713200000 +0200" stop="20250713202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
