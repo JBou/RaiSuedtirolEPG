@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250713200000 +0200" stop="20250713202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250713202000 +0200" stop="20250713205022 +0200" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Bordeaux</sub-title>
-    <desc>Eine kulinarische Rundreise durch eines der berühmtesten Weinanbaugebiete der Welt. Schon zu Zeiten der Römer wurden hier Rebstöcke kultiviert. Heute gibt es hier 1000 Weinsorten.
-
-Die Dokumentation erzählt die Geschichte von Bordeaux aus der Sicht von vier völlig unterschiedlichen Winzern, die mit ihrem Streben und Wissen zur Vielfalt aber auch zur Qualität beitragen. Das Ergebnis sind über 1000 verschiedene Weine - doch jeder steht für das Markenzeichen Bordeaux. Ein Film von und für Weinliebhaber.</desc>
-  </programme>
-  <programme start="20250713205000 +0200" stop="20250713205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250713221000 +0200" stop="20250713223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250714180000 +0200" stop="20250714184316 +0200" channel="Rai Südtirol">
     <title>Bergleben</title>
     <sub-title>Rund um den Großglockner</sub-title>
