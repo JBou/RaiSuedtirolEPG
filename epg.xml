@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250715200000 +0200" stop="20250715202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250715202000 +0200" stop="20250715204630 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 4</title>
-    <sub-title>Wie reden wir übers Klima?</sub-title>
-    <desc>Klimadebatten zwischen Alarmismus und Gleichgültigkeit - was braucht eine wirksame Klimakommunikation? Gäste: Aktivist Jakob Dellago und Biologe Lukas Neuwirth. Moderation: Maddalena Quaia.
-
-Die Debatte rund um den Klimawandel ist emotional aufgeladen: Während die einen vor dem Kollaps warnen, verharren andere in Gleichgültigkeit. Doch weder Panik noch Ignoranz führen zu nachhaltigem Handeln. Wie gelingt es, Menschen zu mobilisieren ohne sie zu überfordern? Braucht es lauten Protest - oder leise Bildung?
-In der vierten Ausgabe von „Kontrovers“ treffen zwei Perspektiven aufeinander: Jakob Dellago, Klimaaktivist der Letzten Generation, und Lukas Neuwirth, Biologe und Bildungsreferent im Kloster Neustift.</desc>
-  </programme>
-  <programme start="20250715221000 +0200" stop="20250715223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250716200000 +0200" stop="20250716202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
