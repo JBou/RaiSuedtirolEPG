@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250716200000 +0200" stop="20250716202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250716202000 +0200" stop="20250716204930 +0200" channel="Rai Südtirol">
-    <title>Minet - Das Minderheitenmagazin</title>
-    <sub-title>Die Pfeifsprache auf La Gomera</sub-title>
-    <desc>Der Silbo Gomero auf der kanarischen Insel La Gomera ist die einzige Pfeifsprache der Welt, die tatsächlich "gesprochen" wird. Sie baut auf dem lateinischen Alphabet auf und ist Pflichtfach in der Schule. 
-
-Als eine der weltweit 70 Pfeifsprachen war der Silbo Gomero vom Aussterben bedroht. Die Bevölkerung hat die Rettung selbst in die Hand genommen: Seit 1999 ist die Pfeifsprache als Pflichtfach an den Schulen etabliert. 2009 erklärt die UNESCO dieses Kommunikationssystem, das von etwa 22.000 "Silbadores" beherrscht wird, zu einem Stück immateriellen Weltkulturerbes.
-Wie lebt man nun mit dieser Pfeifsprache in der heutigen Zeit? Wie ist sie entstanden und warum? Und vor allem wie funktioniert sie?
-Fest steht, dass der Silbo Gomero fixer Bestandteil der kulturellen Identität der Inselbewohner ist, in ihren Alltag integriert wird, und den meisten Heimatgefühl bedeutet. 
-"Ich pfeif dir was" ist eine Minet-Dokumentation von Erna Cuesta und Agostino Fuscaldo auf den Spuren dieser einzigartigen Sprache.</desc>
-  </programme>
-  <programme start="20250716221000 +0200" stop="20250716223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250717200000 +0200" stop="20250717201800 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -147,6 +127,154 @@ Eine Besonderheit von Teis ist der Geopfad und das Museum mit seiner reichen Min
     <desc/>
   </programme>
   <programme start="20250720221000 +0200" stop="20250720223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250721175900 +0200" stop="20250721184327 +0200" channel="Rai Südtirol">
+    <title>Bergleben</title>
+    <sub-title>Hoch über dem Murtal</sub-title>
+    <desc>Das Leben in den Bergen kann beglückend sein. Es kann aber auch entbehrungsreich und hart sein, wenn in dem kargen Land Wind und Wetter das Sagen haben. So ist es auch heute noch in den höheren Regionen, die das obere Murtal einsäumen. Es befindet sich in der Steiermark, an der Grenze zu Kärnten. Die Bewohner haben sich bewusst gegen den städtischen Komfort und für die Herausforderungen am Berg entschieden. Ein Film von Matthias und Stephanie Ninaus.</desc>
+  </programme>
+  <programme start="20250721184300 +0200" stop="20250721185129 +0200" channel="Rai Südtirol">
+    <title>Kunst und Landwirtschaft</title>
+    <sub-title>Paul Thuiles Rosengartenhof in Gargazon</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250721185100 +0200" stop="20250721185604 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital 1</title>
+    <sub-title/>
+    <desc>Online-Einschreibungen, Arzttermine und Befunde - diese Dinge gehören mittlerweile zu unserem Alltag. Die Digitalisierung betrifft vor allem die öffentliche Verwaltung, aber auch die Medizin, die Schule, den Verkehr. Die Fernsehreihe von Manuela Reiter und Gottfried Deghenghi zeigt auf, wie Digitalisierung in diesen Bereichen konkret funktioniert.</desc>
+  </programme>
+  <programme start="20250721200000 +0200" stop="20250721202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250721202100 +0200" stop="20250721210800 +0200" channel="Rai Südtirol">
+    <title>Unter dem Regenbogen</title>
+    <sub-title>Vielfalt und Queerness in Südtirol</sub-title>
+    <desc>Diversität entsteht, wenn Menschen aufeinandertreffen. Gelebte Vielfalt ist eine Realität, eine Selbstverständlichkeit ist sie nicht. Ein Film von Astrid Kofler und Helmut Lechthaler rund um die erste Pride in Südtirol.
+
+Aktivismus im Zeichen des Regenbogens heißt nicht Einsatz für besondere Rechte für queere Menschen, sondern gleiche Menschenrechte für alle.
+Astrid Kofler und Helmut Lechthaler haben sich unter die erste Pride in Bozen gemischt und zuvor schon bei unterschiedlichsten Veranstaltungen gefilmt. Sie haben mit verschiedenen Personen über Themen wie Queersein gesprochen, über Diskriminierung und Gewalt, Coming-out und Familie, traditionelle Rollenbilder und Dragkultur.</desc>
+  </programme>
+  <programme start="20250721210800 +0200" stop="20250721215207 +0200" channel="Rai Südtirol">
+    <title>Der Körper als Kunstwerk</title>
+    <sub-title/>
+    <desc>Wir tauchen ein in die faszinierende Welt der Body Art in Südtirol, die viele verschiedene Facetten hat: nicht nur Tattoo und Piercing, sondern auch Ausdruckstanz gehören dazu.
+Filmemacherin Caterina Ferrari trifft Martin, einen renommierten Tätowierer aus Bozen, der mit
+Nadel und Farben lebendige Kunstwerke auf die Haut zaubert. Auch Piercingkünstler Tommy aus Brixen teilt seine Leidenschaft und sein Wissen über diese uralte Praxis, die er als Ausdruck von
+Individualität sieht. Ein Blick in die Geschichte zeigt, dass Körperkunst tief verwurzelt ist: Bereits Ötzi, die älteste Mumie Europas, trug vor Jahrtausenden Tätowierungen. Neben diesen klassischen Formen der Body Art entdecken wir mit der Tänzerin Giulia, wie der menschliche Körper durch fließende Bewegungen Geschichten erzählt und Emotionen ausdrückt. "Der Körper als Kunstwerk" ist eine anregende Dokumentation, die auch von Akzeptanz erzählt und vom Bruch mit dem Konformismus. Sie führt uns in eine Welt voller Kreativität und Leidenschaft.</desc>
+  </programme>
+  <programme start="20250721215200 +0200" stop="20250721215903 +0200" channel="Rai Südtirol">
+    <title>dF-Frauenbilder: Melitta Pitschl</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250721221000 +0200" stop="20250721223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250722200000 +0200" stop="20250722202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250722202000 +0200" stop="20250722204630 +0200" channel="Rai Südtirol">
+    <title>Kontrovers 5</title>
+    <sub-title>KI - Zwischen Kontrolle und Kontrollverlust</sub-title>
+    <desc>Künstliche Intelligenz ist längst Realität - in Bildern, Texten, Diagnosen und Entscheidungen. Aber wissen wir eigentlich, was wir da geschaffen haben? Moderation: Maddalena Quaia.
+
+Die Künstliche Intelligenz kann Texte schreiben, Bilder malen, Menschen simulieren. Sie spart Zeit, optimiert Prozesse - und stellt unser Verständnis von Kreativität, Bildung und Verantwortung auf den Kopf. Ist sie ein Werkzeug der Befreiung oder der Beginn unserer Entmündigung? Was passiert mit einer Gesellschaft, wenn Maschinen Entscheidungen treffen, ohne dass wir es merken? 
+In der fünften Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Alex Rehbichler, kreativer KI-Anwender, der in Algorithmen Potenzial für neue Ausdrucksformen sieht, und Lukas Pixner, KI-Experte und Berater, der die Chancen nutzt - aber auch vor ihren Grenzen und Gefahren warnt.</desc>
+  </programme>
+  <programme start="20250722221000 +0200" stop="20250722223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250723200000 +0200" stop="20250723202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250723202000 +0200" stop="20250723204813 +0200" channel="Rai Südtirol">
+    <title>Traumberuf Auslandsjornalsimus</title>
+    <sub-title>Andreas Pfeifer</sub-title>
+    <desc>Der Bozner Journalist hat eine steile Karriere im ORF gemacht. Nach Jahren in Rom und in den USA hat sich Pfeifers Jugendtraum erfüllt: Seit 2021 ist er Auslandkorrespondent in Berlin.
+
+Sie erklären uns die Welt. Im Radio und im Fernsehen, in Talksendungen, in Zeitungen und in Büchern. Sie liefern uns Berichte, Reportagen und Kommentare zu den Brennpunkten des Weltgeschehens. Mit dabei auch Journalist:innen aus Südtirol. Einige wenige sind zu nationalen Stars geworden. Im italienischen wie im deutschen Sprachraum. So auch Andreas Pfeifer. Er wurde 1965 in Bozen geboren. Er arbeitete für den ORF in Innsbruck und Bozen, war dann Auslandskorrespondent in den USA. 2001 hat er das ORF-Büro in Rom neu eröffnet. Ab Juli 2007 war Pfeifer außenpolitischer Ressortleiter im Aktuellen Dienst des ORF-Fernsehens Seit 2021 leitet er das ORF-Büro in Berlin. Damit hat er sich einen Jugendtraum erfüllt. Wir erleben seinen beruflichen Werdegang und seinen spannenden Alltag.</desc>
+  </programme>
+  <programme start="20250723221000 +0200" stop="20250723223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250724200000 +0200" stop="20250724202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250724202000 +0200" stop="20250724203716 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Erste Sellaturm</sub-title>
+    <desc>Spätestens seit seinem Sieg beim Rock Master in Arco 2024 ist er der erfolgreichste Sportkletterer Südtirols: Filip Schenk aus St. Christina. Wir erleben ihn an der Südwand des Ersten Sellaturms.
+
+Beim Klettern erzählt uns Filip Schenk aus St. Christina, was es bedeutet ein Kletterprofi zu sein. Am anderen Ende von Filips Kletterseil bindet sich Bergführer Manfred Stuffer ein und zusammen begehen sie die "choberführe" an der Südwand des Ersten Sellaturmes, eine Route mit Schwierigkeiten bis zum 7. Grad.
+Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20250724203700 +0200" stop="20250724204951 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>MMM Ripa</sub-title>
+    <desc>Schloss Bruneck, einst Sommerresidenz der Fürstbischöfe, ist heute das MMM Ripa. Es ist eines der sechs Museen von Reinhold Messner und widmet sich den Bergkulturen aus aller Welt. Ziel des Museums ist es, eine Botschaft des Respekts und des Verständnisses für die unterschiedlichen Bergvölker zu vermitteln. Ihre Herausforderungen, ihre Traditionen und ihr harmonisches Verhältnis zur Natur. Durch Ausstellungen und Schautafeln erzählt das MMM Ripa Geschichten vom Leben und Überleben und unterstreicht die Bedeutung der kulturellen und ökologischen Erhaltung der Berge. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20250724221000 +0200" stop="20250724223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250725180000 +0200" stop="20250725183017 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Zuviel des Guten - unser Salzkonsum, das Fleisch unserer Supermärkte unter der Lupe, Vorsicht bei Onlinekäufen im TikTok Shop, Dorfporträt Mals - ein Ort im Aufbruch. Moderation: Markus Frings.
+Internationale Studien zeigen: Wir essen doppelt so viel Salz wie medizinisch empfohlen. Die Ernährungsexpertin der Verbraucherzentrale Südtirol hat 50 gängige Supermarktprodukte analysiert. Wo versteckt sich das meiste Salz und wie kann man es reduzieren?
+Immer mehr Konsumenten lassen sich von Social-Media-Videos zum Kauf verleiten – besonders über neue Plattformen wie den TikTok Shop. Doch nicht alles, was gut inszeniert ist, hält, was es verspricht. Worauf man beim digitalen Einkauf achten sollte.
+Woher kommt das Fleisch in unseren Supermärkten - und wie werden die Tiere gehalten und geschlachtet? Pluspunkt wirft einen kritischen Blick auf Herkunft, Tierwohl und Preisbewusstsein. Was zählt an der Fleischtheke mehr: das Gewissen oder der Geldbeutel?
+Zum Abschluss besuchen wir Mals im Obervinschgau - ein Dorf an der Schnittstelle von Südtirol, Nordtirol und der Schweiz, das durch Innovationsgeist, Nachhaltigkeit und Naturverbundenheit begeistert.</desc>
+  </programme>
+  <programme start="20250725183000 +0200" stop="20250725185407 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Was haben Jodeln und Rappen mit der Südtiroler Einsilbigkeit zu tun? Angelika König und Simone Mayr sinnieren über Wortkargheit und Sprachlosigkeit zwischen unseren Berggipfeln und fragen sich, ob das Jodeln Ausdruck davon ist? Die Abfolge von textfreien Silben, die ganz ohne Worte daherkommt, passt gut zu unserer Einsilbigkeit und ist vielleicht sogar ein Relikt aus Ötzis Zeiten. Mit ihrer Alfa Giulia treffen sie die beiden Sängerinnen Heidi Clementi und Brigitte Knapp im urbanen Raum, in Bozens Manhattan, und spannen dann den Bogen zum Rappen im Dialekt.</desc>
+  </programme>
+  <programme start="20250725185400 +0200" stop="20250725185750 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Schriftstellerin Tanja Raich</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250725200000 +0200" stop="20250725202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250725202100 +0200" stop="20250725203300 +0200" channel="Rai Südtirol">
+    <title>Christophorus-Aktion 2025</title>
+    <sub-title>Mobilität als Brücke der Hoffnung</sub-title>
+    <desc>Ein Motorrad für ein besonderes Projekt auf der indonesischen Insel Lembata. Ordensschwestern fahren damit in entlegene Dörfer, sie hören zu, unterrichten, organisieren Nahrung. 
+Mobilität verbindet, schafft Nähe, ermöglicht Hilfe, auch über weite Distanzen hinweg. Die Christophorus-Aktion steht seit Jahren für dieses gelebte Prinzip: Fahrzeuge, finanziert durch Spenden, bringen Menschen zusammen, eröffnen Perspektiven.
+2024 konnten durch die Christophorus-Aktion von Missio Bozen-Brixen und der Katholischen Männerbewegung 34 Fahrzeuge für Hilfsprojekte in aller Welt finanziert werden - darunter auch ein Motorrad für ein besonderes Projekt in Indonesien. Die Ordensschwestern sind damit unterwegs in entlegene Dörfer, zu Bauernfamilien. Sie hören zu, unterrichten, organisieren Nahrung, bringen Mut und Zuversicht.
+Christophorus ist der Patron der Reisenden. Auch an diesem Wochenende findet wieder eine Spendensammlung statt, denn überall auf der Welt werden Fahrzeuge gebraucht. Was wie ein einfaches Fortbewegungsmittel wirkt, ist der Schlüssel zu Beziehung, zu Versorgung, zu gelebter Nächstenliebe.</desc>
+  </programme>
+  <programme start="20250725203300 +0200" stop="20250725215700 +0200" channel="Rai Südtirol">
+    <title>Gschroa und Krawall</title>
+    <sub-title>Die 90er</sub-title>
+    <desc>Durch das Aufkommen von immer mehr Pubs und Lokalen, die den Bands zahlreiche Liveauftritte
+ermöglichten, veränderte sich auch die Musik: Statt eigenen Songs wurden Coverversionen gespielt.Man wollte vor allem junge Publikum unterhalten und man wollte feiern. Es war zwar einerseits ein Verlust an Kreativität, doch auf der anderen Seite ergriffen immer mehr junge Bands diese Chance, um auch ohne eigene Songs auf der Bühne zu stehen. Viele dieser Gruppen brachten ihren eigenen Fanclub mit auf die Konzerte. Das wiederum sorgte für ein kollektives "Miteinander" und rühriges Konzertleben im ganzen Land. Man traf sich zu den sog. Gigs im Sugar Shak in Meran, im Latino und Papperlapap in Bozen, im Dampfkessel und im Max in Brixen, um nur einige zu nennen.
+Showbands wie Tabaluga oder die Alpen Yuppies bescherten dem Publikum eine aufwändige Bühnenshow. Neue Festivals und Open Airs wurden ins Leben gerufen. Die meisten dieser Festivals existieren noch heute, so wie "Rock im Ring" am Ritten, das "Gaulschlucht Open Air" in Lana, oder "Steinegg Live". Zu den bekanntesten Südtiroler Coverbands gehörten Sitting Bull, Chainless, Four Roses, Pantinity und Cherry Moon. Letztere feierten mit ihrer CD "Live from Sugar Shak" einen großen Erfolg. Mehr als 10.000 Stück wurden verkauft. Doch natürlich gab es auch weiterhin Künstler und Bands, die ihre eigenen Songs vorantrieben. Denn auch die Anzahl an Aufnahmestudios stieg an und sorgte für die Produktion zahlreicher Tonträger, erinnert sich Werner Costabiei vom Newport Studio im Pustertal an diese bewegten Jahre. Eine Doku von Wolfgang Moser.</desc>
+  </programme>
+  <programme start="20250725221000 +0200" stop="20250725223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
