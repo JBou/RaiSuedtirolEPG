@@ -4,58 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250718175800 +0200" stop="20250718183559 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 4</sub-title>
-    <desc>Eine spannende Talkshow im Stil von "Die Höhle der Löwen", wo zwei Startupper ihr innovatives Produkt vorstellen und um die Gunst der strengen Jury buhlen. Moderation: Simon Waldner.
-
-Kathrin Pichler aus Kurtatsch hat einen analogen Terminplaner namens Wentiquattro entwickelt in Kombination mit einem Selbstlernkurs für besseres Zeitmanagement.
-Ivan Angerers Geschäftsidee ist die App Clava Sport, eine Plattform für Live-Resultate und Statistiken im Amateursport. Wer von den beiden wird am Ende die Jury überzeugen?</desc>
-  </programme>
-  <programme start="20250718183500 +0200" stop="20250718185800 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Freier Zugang zum Kalterer See - ein heißes Eisen. An diesem Ort der Superlative inmitten einer malerischen Landschaft versuchen Angelika König und Simone Mayr Schattenseiten
-einzufangen.
-Der Herrgott ist - der Legende nach - ein Kalterer Bürger, und die Kalterer:innen sind somit Herrgottskinder. Ein Sehnsuchtsort für Urlauber, eines der schönsten Weindörfer der Welt, die Perle des Südens - ein Ort, der leicht zu bewerben ist. Viel schwieriger ist es, Motive abseits der Postkartenidylle zu finden. In der filmischen Kolumne nehmen Simone Mayr und Angelika König diese Herausforderung an.</desc>
-  </programme>
-  <programme start="20250718200000 +0200" stop="20250718202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250718202100 +0200" stop="20250718210551 +0200" channel="Rai Südtirol">
-    <title>Der Eisack</title>
-    <sub-title>Leben am Fluss</sub-title>
-    <desc>Von der Quelle am Brenner bis zur Mündung in die Etsch bei Bozen legt der Eisack 100 km zurück. Die Filmemacher Willi Rainer und Benjamin Zwack erkunden seine Geschichte und seine Bedeutung. 
-
-Der Eisack hat im Laufe der Jahrhunderte auch immer wieder Überschwemmungen verursacht. Wir sprechen mit Expert:innen über die Herausforderungen durch den Klimawandel und wie die Flussregulierung heute professionell gelingt.
-Der Eisack lockt aber auch Naturfreunde an, die entlang des Flusslaufes vieles erleben können. 
-In Sterzing, Brixen, Klausen und Bozen erfahren wir mehr über die kulturelle und wirtschaftliche Bedeutung des Eisacks für die Bevölkerung.</desc>
-  </programme>
-  <programme start="20250718210500 +0200" stop="20250718214523 +0200" channel="Rai Südtirol">
-    <title>Rittner Sommerspiele</title>
-    <sub-title/>
-    <desc>Die Rittner Sommerspiele sind aus der Südtiroler Theaterlandschaft nicht mehr wegzudenken.
-Bereits mit dem ersten Stück "Birnbam und Hollerstauden" wurden die Rittner Sommerspiele vom Publikum mit Begeisterung angenommen. Ganz bewusst legte man den Schwerpunkt auf Volksstücke mit Tiefgang. Die meiste Zeit war die Kommende Lengmoos der Spielort.
-2023 feierten die Rittner Sommerspiele ihr 50-Jahr-Jubiläum. Anlass zurückzublicken: Zu Wort kommen Schauspielgrößen wie Peter Mitterrutzner und die mittlerweile verstorbene Julia Gschnitzer. Aber auch Obmänner und Mitwirkende geben Anekdoten und Erinnerungen zum Besten.
-Eine Zeitreise - gestaltet von Regisseur Alexander Kratzer und Filmemacher Georg Penn.</desc>
-  </programme>
-  <programme start="20250718214600 +0200" stop="20250718215423 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Sophie Tscholl</sub-title>
-    <desc>Sophie Tscholl hat 2024 den Wettbewerb rock-net gewonnen, mit einem eigenen Song. In Klick erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen Lebenssituationen herausgefunden hat.</desc>
-  </programme>
-  <programme start="20250718215400 +0200" stop="20250718215905 +0200" channel="Rai Südtirol">
-    <title>Gedankenspuren: Kultur</title>
-    <sub-title>Fernsehreihe von Karl Mittermaier</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250718221000 +0200" stop="20250718223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250719180000 +0200" stop="20250719185930 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -302,6 +250,32 @@ Immer mehr Südtiroler Hütten überraschen ihre Gäste mit besonderen Gerichten
 In Pufels bei St. Ulrich lernen wir Lotte Zemmer kennen, pensionierte Gastwirtin und Hotelierin. Heute widmet sie sich ganz ihrem liebevoll angelegten Rosengarten. Das Rosarium Uhrerhof gilt als der höchstgelegene Rosengarten Europas und beherbergt über 6.000 Rosenstöcke in mehr als 250 Sorten. Ein besonderer Kraftplatz mitten in den Grödner Dolomiten.</desc>
   </programme>
   <programme start="20250726221000 +0200" stop="20250726223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250727200000 +0200" stop="20250727202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250727202000 +0200" stop="20250727204930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Zwei Südtiroler Startups im Porträt, die Erforschung von Ablassbriefen im Gadertal, unreifes Traubengut als Alternative zu Zitronensäure, das neue Kompetenzzentrum für Genossenschaften.
+
+Mit fortschreitender Klimaerwärmung werden Daten über den Zustand der Bäume im öffentlichen Grün immer wichtiger. So greifen Stadtgärtnereien auf mobile Anwendungen zurück, welche die Firma R3GIS entwickelt, um Geodaten zu verwalten. 
+Ein weiteres Startup-Unternehmen präsentiert eine Web-Applikation für Transportunternehmen, mit der das Betanken von LKW erleichtert wird und Betrügern das Handwerk gelegt.
+Im Rahmen eines Forschungsprojekts im Museum Ladin in St. Martin in Thurn wurden die Ablassbriefe im Gadertal erstmals wissenschaftlich erforscht. Sie geben einen vertieften Einblick in die Talgeschichte.
+Ein altbewährtes Mittel gegen Erkältungssymptome wie Husten, Schnupfen und Halsschmerzen ist Holunderblütensirup. Viele Produzenten verwenden dafür Zitronensäure. Nun haben Forscher im Versuchszentrum Laimburg unreifes Traubengut getestet, das sich als vielversprechende Alternative herausstellen könnte.
+Im Studio zu Gast ist Prof. Richard Lang von der Freien Universität Bozen, Leiter des neuen Kompetenzzentrums für das Management von Genossenschaften.</desc>
+  </programme>
+  <programme start="20250727205000 +0200" stop="20250727205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250727221000 +0200" stop="20250727223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
