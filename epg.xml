@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250719180000 +0200" stop="20250719185930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Musical-Darstellerin Anna Fink, "Verkaufte Heimat" der Freilichtspiele Lana, ein Porträt der kürzlich verstorbenen Theaterfrau Magdalena Schwellensattl und die erste Pride in Südtirol. Moderation: Alex Lechner
-Die Musical-Darstellerin Anna Fink war zuletzt beim Musical "Rent" der VBB zu sehen. Derzeit mimt sie die Lysistrata in der gleichnamigen Komödie von Aristophanes bei den Schlossfestspielen Dorf Tirol: Die Frauen Griechenlands haben genug von den ewigen Kriegen ihrer Männer und organisieren eine kollektiven Sex-Streik, um ihre Männer zum Frieden zu zwingen
-Die Freilichtspiele Lana bringen heuer ein historisches Theaterstück auf die Bühne: Verkaufte Heimat, eine Südtiroler Familiensaga aus der Optionszeit von Felix Mitterer. Der Theatertext regt das Publikum an, sich auf die Suche nach einem zeitgemäßen Heimatbegriff zu begeben.
-Im Juni ist Magdalena Schwellensattl, Schauspielerin, Regisseurin, Moderatorin und langjährige Mitarbeiterin von Rai Südtirol verstorben. Seit den 1990er Jahren stand sie immer wieder mit sehr engagierten, auch selbst entworfenen Stücken auf der Bühne.
-Mit "psychokolonialen Räumen" beschäftigt sich die Künstlerin und Wissenschaftlerin Samia Henni. Im Raum der Ar/Ge Kunst in Bozen ist eine informelle Reise in Geschichte und Gegenwart entstanden. 
-Vielfalt - lautet das Motto der ersten Pride in Südtirol - für eine offene und inklusive Gesellschaft, die queere Menschen akzeptiert. Mit dabei auch die Szene der Drag Queens, einer Kunstform, die bewusst mit Geschlechtsidentitäten spielt, zwischen künstlerischem Ausdruck und politischem Protest.
-Gäste der Sendung sind die Schauspielerin Brigitte Jaufenthaler und Birgit Mayr vom NOI Techpark.</desc>
-  </programme>
-  <programme start="20250719200000 +0200" stop="20250719202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250719202100 +0200" stop="20250719202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250719202500 +0200" stop="20250719205650 +0200" channel="Rai Südtirol">
-    <title>Karriereleitern 2</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
-    <desc>Die Harfenistin Isabel Goller und der Jungunternehmer Alexander Rech geben Einblick in ihren besonderen Beruf, der sie von Südtirol weggeführt hat, wohin sie aber immer wieder gerne zurückkehren.
-
-Isabel Goller aus Mellaun bei Brixen verließ mit 15 Jahren den elterlichen Hof, um Harfenistin zu werden. Sie musiziert unter anderem mit den Wiener Philharmonikern, dem Musikkollegium Winterthur und der Philharmonie Zürich. Die Musikerin ist zudem Mitbegründerin der "Südtirol Filarmonica", wo gebürtige Südtirol:innen zusammenkommen und gemeinsam musizieren. Isabel liebt Vintage-Kleidung, und in ihrer Freizeit gestaltet sie ihren eigenen Schmuck. 
-Alexander Rech aus Bruneck ist Computerwissenschaftler und Start Up-Unternehmer. Als solcher wurde er im Vorjahr mit dem Futura-Preis ausgezeichnet. Er hat mit Flasher - einer intelligenten Fahrradbeleuchtung - aus einer Studenten-Idee ein Unternehmen gemacht.</desc>
-  </programme>
-  <programme start="20250719221000 +0200" stop="20250719223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250720200000 +0200" stop="20250720202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
