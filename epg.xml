@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250720200000 +0200" stop="20250720202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250720202000 +0200" stop="20250720204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Teis</sub-title>
-    <desc>Teis ist ein Bergdorf auf 940 Metern Höhe am Eingang ins Villnößtal. Es ist weitum bekannt wegen seiner glitzernden Teiser Kugeln, interessant ist auch die Entwicklung des Dorfes.
-
-Wir erfahren, wie sich Teis vom abgeschiedenen Dorf hin zu einer aktiven Gemeinschaft mit moderner Landwirtschaft und Tourismus entwickelt hat. Dorfbewohner geben Einblicke in die Geschichte des Dorfladens und in die Sagenwelt der Gegend. Sie besuchen auch die Pfarrkirche und die Kapelle am Heiligen Grab, sowie die historischen Schützengräben aus dem Ersten Weltkrieg.
-Eine Besonderheit von Teis ist der Geopfad und das Museum mit seiner reichen Mineralienwelt.</desc>
-  </programme>
-  <programme start="20250720204500 +0200" stop="20250720204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250720221000 +0200" stop="20250720223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250721175900 +0200" stop="20250721184327 +0200" channel="Rai Südtirol">
     <title>Bergleben</title>
     <sub-title>Hoch über dem Murtal</sub-title>
