@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250721175900 +0200" stop="20250721184327 +0200" channel="Rai Südtirol">
-    <title>Bergleben</title>
-    <sub-title>Hoch über dem Murtal</sub-title>
-    <desc>Das Leben in den Bergen kann beglückend sein. Es kann aber auch entbehrungsreich und hart sein, wenn in dem kargen Land Wind und Wetter das Sagen haben. So ist es auch heute noch in den höheren Regionen, die das obere Murtal einsäumen. Es befindet sich in der Steiermark, an der Grenze zu Kärnten. Die Bewohner haben sich bewusst gegen den städtischen Komfort und für die Herausforderungen am Berg entschieden. Ein Film von Matthias und Stephanie Ninaus.</desc>
-  </programme>
-  <programme start="20250721184300 +0200" stop="20250721185129 +0200" channel="Rai Südtirol">
-    <title>Kunst und Landwirtschaft</title>
-    <sub-title>Paul Thuiles Rosengartenhof in Gargazon</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250721185100 +0200" stop="20250721185604 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital 1</title>
-    <sub-title/>
-    <desc>Online-Einschreibungen, Arzttermine und Befunde - diese Dinge gehören mittlerweile zu unserem Alltag. Die Digitalisierung betrifft vor allem die öffentliche Verwaltung, aber auch die Medizin, die Schule, den Verkehr. Die Fernsehreihe von Manuela Reiter und Gottfried Deghenghi zeigt auf, wie Digitalisierung in diesen Bereichen konkret funktioniert.</desc>
-  </programme>
-  <programme start="20250721200000 +0200" stop="20250721202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250721202100 +0200" stop="20250721210800 +0200" channel="Rai Südtirol">
-    <title>Unter dem Regenbogen</title>
-    <sub-title>Vielfalt und Queerness in Südtirol</sub-title>
-    <desc>Diversität entsteht, wenn Menschen aufeinandertreffen. Gelebte Vielfalt ist eine Realität, eine Selbstverständlichkeit ist sie nicht. Ein Film von Astrid Kofler und Helmut Lechthaler rund um die erste Pride in Südtirol.
-
-Aktivismus im Zeichen des Regenbogens heißt nicht Einsatz für besondere Rechte für queere Menschen, sondern gleiche Menschenrechte für alle.
-Astrid Kofler und Helmut Lechthaler haben sich unter die erste Pride in Bozen gemischt und zuvor schon bei unterschiedlichsten Veranstaltungen gefilmt. Sie haben mit verschiedenen Personen über Themen wie Queersein gesprochen, über Diskriminierung und Gewalt, Coming-out und Familie, traditionelle Rollenbilder und Dragkultur.</desc>
-  </programme>
-  <programme start="20250721210800 +0200" stop="20250721215207 +0200" channel="Rai Südtirol">
-    <title>Der Körper als Kunstwerk</title>
-    <sub-title/>
-    <desc>Wir tauchen ein in die faszinierende Welt der Body Art in Südtirol, die viele verschiedene Facetten hat: nicht nur Tattoo und Piercing, sondern auch Ausdruckstanz gehören dazu.
-Filmemacherin Caterina Ferrari trifft Martin, einen renommierten Tätowierer aus Bozen, der mit
-Nadel und Farben lebendige Kunstwerke auf die Haut zaubert. Auch Piercingkünstler Tommy aus Brixen teilt seine Leidenschaft und sein Wissen über diese uralte Praxis, die er als Ausdruck von
-Individualität sieht. Ein Blick in die Geschichte zeigt, dass Körperkunst tief verwurzelt ist: Bereits Ötzi, die älteste Mumie Europas, trug vor Jahrtausenden Tätowierungen. Neben diesen klassischen Formen der Body Art entdecken wir mit der Tänzerin Giulia, wie der menschliche Körper durch fließende Bewegungen Geschichten erzählt und Emotionen ausdrückt. "Der Körper als Kunstwerk" ist eine anregende Dokumentation, die auch von Akzeptanz erzählt und vom Bruch mit dem Konformismus. Sie führt uns in eine Welt voller Kreativität und Leidenschaft.</desc>
-  </programme>
-  <programme start="20250721215200 +0200" stop="20250721215903 +0200" channel="Rai Südtirol">
-    <title>dF-Frauenbilder: Melitta Pitschl</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250721221000 +0200" stop="20250721223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250722200000 +0200" stop="20250722202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
