@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250722200000 +0200" stop="20250722202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250722202000 +0200" stop="20250722204630 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 5</title>
-    <sub-title>KI - Zwischen Kontrolle und Kontrollverlust</sub-title>
-    <desc>Künstliche Intelligenz ist längst Realität - in Bildern, Texten, Diagnosen und Entscheidungen. Aber wissen wir eigentlich, was wir da geschaffen haben? Moderation: Maddalena Quaia.
-
-Die Künstliche Intelligenz kann Texte schreiben, Bilder malen, Menschen simulieren. Sie spart Zeit, optimiert Prozesse - und stellt unser Verständnis von Kreativität, Bildung und Verantwortung auf den Kopf. Ist sie ein Werkzeug der Befreiung oder der Beginn unserer Entmündigung? Was passiert mit einer Gesellschaft, wenn Maschinen Entscheidungen treffen, ohne dass wir es merken? 
-In der fünften Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Alex Rehbichler, kreativer KI-Anwender, der in Algorithmen Potenzial für neue Ausdrucksformen sieht, und Lukas Pixner, KI-Experte und Berater, der die Chancen nutzt - aber auch vor ihren Grenzen und Gefahren warnt.</desc>
-  </programme>
-  <programme start="20250722221000 +0200" stop="20250722223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250723200000 +0200" stop="20250723202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
