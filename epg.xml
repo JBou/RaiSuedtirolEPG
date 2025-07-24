@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250723200000 +0200" stop="20250723202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250723202000 +0200" stop="20250723204813 +0200" channel="Rai Südtirol">
-    <title>Traumberuf Auslandsjornalsimus</title>
-    <sub-title>Andreas Pfeifer</sub-title>
-    <desc>Der Bozner Journalist hat eine steile Karriere im ORF gemacht. Nach Jahren in Rom und in den USA hat sich Pfeifers Jugendtraum erfüllt: Seit 2021 ist er Auslandkorrespondent in Berlin.
-
-Sie erklären uns die Welt. Im Radio und im Fernsehen, in Talksendungen, in Zeitungen und in Büchern. Sie liefern uns Berichte, Reportagen und Kommentare zu den Brennpunkten des Weltgeschehens. Mit dabei auch Journalist:innen aus Südtirol. Einige wenige sind zu nationalen Stars geworden. Im italienischen wie im deutschen Sprachraum. So auch Andreas Pfeifer. Er wurde 1965 in Bozen geboren. Er arbeitete für den ORF in Innsbruck und Bozen, war dann Auslandskorrespondent in den USA. 2001 hat er das ORF-Büro in Rom neu eröffnet. Ab Juli 2007 war Pfeifer außenpolitischer Ressortleiter im Aktuellen Dienst des ORF-Fernsehens Seit 2021 leitet er das ORF-Büro in Berlin. Damit hat er sich einen Jugendtraum erfüllt. Wir erleben seinen beruflichen Werdegang und seinen spannenden Alltag.</desc>
-  </programme>
-  <programme start="20250723221000 +0200" stop="20250723223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250724200000 +0200" stop="20250724202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
