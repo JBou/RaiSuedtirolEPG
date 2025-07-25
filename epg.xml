@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250724200000 +0200" stop="20250724202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250724202000 +0200" stop="20250724203716 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Erste Sellaturm</sub-title>
-    <desc>Spätestens seit seinem Sieg beim Rock Master in Arco 2024 ist er der erfolgreichste Sportkletterer Südtirols: Filip Schenk aus St. Christina. Wir erleben ihn an der Südwand des Ersten Sellaturms.
-
-Beim Klettern erzählt uns Filip Schenk aus St. Christina, was es bedeutet ein Kletterprofi zu sein. Am anderen Ende von Filips Kletterseil bindet sich Bergführer Manfred Stuffer ein und zusammen begehen sie die "choberführe" an der Südwand des Ersten Sellaturmes, eine Route mit Schwierigkeiten bis zum 7. Grad.
-Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20250724203700 +0200" stop="20250724204951 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>MMM Ripa</sub-title>
-    <desc>Schloss Bruneck, einst Sommerresidenz der Fürstbischöfe, ist heute das MMM Ripa. Es ist eines der sechs Museen von Reinhold Messner und widmet sich den Bergkulturen aus aller Welt. Ziel des Museums ist es, eine Botschaft des Respekts und des Verständnisses für die unterschiedlichen Bergvölker zu vermitteln. Ihre Herausforderungen, ihre Traditionen und ihr harmonisches Verhältnis zur Natur. Durch Ausstellungen und Schautafeln erzählt das MMM Ripa Geschichten vom Leben und Überleben und unterstreicht die Bedeutung der kulturellen und ökologischen Erhaltung der Berge. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20250724221000 +0200" stop="20250724223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250725180000 +0200" stop="20250725183017 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -138,6 +115,192 @@ Im Studio zu Gast ist Prof. Richard Lang von der Freien Universität Bozen, Leit
     <desc/>
   </programme>
   <programme start="20250727221000 +0200" stop="20250727223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250728175900 +0200" stop="20250728184336 +0200" channel="Rai Südtirol">
+    <title>Bergleben</title>
+    <sub-title>Gipfel im Pinzgau</sub-title>
+    <desc>Diese Folge der Fernsehreihe "Bergleben", gestaltet von Alfred Ninaus und Fritz Aigner, führt in den Salzburger Pinzgau: nach Krimml, Stuhlfelden, Dienten, Embach bei Lend und Rauris.
+Abseits der bekannten Salzburger Skiorte liegt das beschauliche Dienten, das sich in den vergangenen Jahrzehnten zu einem Geheimtipp auf der touristischen Landkarte entwickelt hat.
+Hier lebt die Familie von Peter Burgschwaiger, genannt Schnegg. Sie hat sich für den Tourismus entschieden, weil ein Standbein allein nicht ausreichen würde, um den Hof im Vollerwerb zu bewirtschaften. Die Familie bietet Urlaub am Bauernhof an und bewirtschaftet im Winter eine Schihütte auf der Liebenau-Alm. Sohn Lukas wird den Hof übernehmen. Sein großes Ziel ist die weitgehende Digitalisierung des Betriebes.</desc>
+  </programme>
+  <programme start="20250728184300 +0200" stop="20250728185105 +0200" channel="Rai Südtirol">
+    <title>Kunst und Landwirtschaft</title>
+    <sub-title>Gabriela Oberkofler am Taberhof in Flaas</sub-title>
+    <desc>Die Künstlerin pendelt zwischen Stuttgart und dem Taberhof in Flaas. Dort hat sie im Jahr 2022 das Institut für alternative Landwirtschaft, zeitgenössische Kunst und Leben in der Peripherie eingerichtet. In ihren Werken geht es um das komplexe Verhältnis zwischen Mensch, Pflanze und Tier.</desc>
+  </programme>
+  <programme start="20250728185100 +0200" stop="20250728185621 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital 2</title>
+    <sub-title>ChatGPT</sub-title>
+    <desc>Man spricht davon oder nutzt es bereits, das digitale Sprachmodell ChatGPT. Wie funktioniert und was kann ChatGPT? Von Experten erfahren wir, wie dieses Sprachmodell verantwortungsbewusst eingesetzt werden kann, wie zuverlässig es ist und inwieweit es die verschiedensten Arbeitsprozesse in Zukunft beeinflussen wird.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250728202100 +0200" stop="20250728210409 +0200" channel="Rai Südtirol">
+    <title>Stimmung, Party und Musik</title>
+    <sub-title>Unterwegs mit Südtiroler DJs und DJanes</sub-title>
+    <desc>DJs und DJanes gelten als Partyfreaks und Stimmungsmacher, doch so einfach, wie es klingt, ist es keineswegs. Der Weg zum "professionellen Auflegen" ist oft ein langer und steiniger. 
+
+Wie wird man DJ bzw. DJane und welche Herausforderungen muss man im nächtlichen Berufsleben bewältigen? Südtiroler DJs und DJanes geben Einblick in ihren spannenden Arbeitsalltag "am Plattenteller". Eine Dokumentation von Claudia Bosch.</desc>
+  </programme>
+  <programme start="20250728210400 +0200" stop="20250728214935 +0200" channel="Rai Südtirol">
+    <title>Sehnsuchtsort Meran</title>
+    <sub-title/>
+    <desc>Den "Sehnsuchtsort Meran" stellen sich die Einheimischen anders vor. Und die Forscher warnen: Ohne Zustimmung der Südtiroler:innen wird Tourismus nicht funktionieren. Wie also sieht Tourismus aus, wenn man die Rechnung mit den Einheimischen macht? Und wie nimmt man auch die Gäste in die Pflicht? In dieser Dokumentation von Verena Gruber und Günther Neumair werden verschiedene Positionen beleuchtet. Zu Wort kommen Johanna Porcheddu, Leiterin des Theaters in der Altstadt in Meran, die Autorin Selma Mahlknecht, Wolfgang Töchterle von IDM Südtirol und Markus Promberger, Geschäftsführer des Hotels Ama Stay in St. Vigil.</desc>
+  </programme>
+  <programme start="20250728214900 +0200" stop="20250728215830 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Rosa Ramoser</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250728221000 +0200" stop="20250728223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250729200000 +0200" stop="20250729202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250729202000 +0200" stop="20250729204630 +0200" channel="Rai Südtirol">
+    <title>Kontrovers 6</title>
+    <sub-title>Nachtleben: laut, lebendig, limitiert?</sub-title>
+    <desc>Das Nachtleben ist mehr als Feiern - es ist ein wichtiger Teil von Jugendkultur, Kreativität und sozialem Miteinander. Doch es steht unter Druck. Moderation: Maddalena Quaia.
+
+Zwischen Sperrstunden, Lärmbeschwerden und fehlenden Freiräumen wird es für junge Menschen und Veranstalter:innen immer schwieriger, Nachtkultur zu bieten. Gleichzeitig verändern Digitalisierung, Sicherheitsbedenken und gesellschaftliche Trends das Ausgehverhalten. Wie kann Südtirol ein Nachtleben ermöglichen, das offen, vielfältig und zukunftsfähig bleibt?
+In der sechsten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Anna Hilber, Kulturarbeiterin und Expertin für Nachtkultur, und Dominik Alber, einer der jüngsten Bürgermeister Südtirols und langjähriger Jugendbetreuer.</desc>
+  </programme>
+  <programme start="20250729221000 +0200" stop="20250729223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250730200000 +0200" stop="20250730202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250730202000 +0200" stop="20250730204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Alkoholfreie Weine - kurzfristiger Trend oder bewusster Konsum? Villnöss und sein Motto Sanft und Slow. Bauern-Power früher und heute - zwei Ausstellungen mit Überlegungen zum Bauernstand.
+
+Ein neuer Trend sorgt für Diskussionen: alkoholfreier Wein. Zwischen Innovation, Tradition und der Frage, wie viel Wein noch bleibt, wenn der Alkohol fehlt. Wir besuchen Winzer, die zu den Vorreitern von alkoholfreien Weinen in Südtirol gehören, und fragen Weinfachleute, wie aufwändig diese Weine hergestellt werden und welches Potential alkoholfreie Weine haben. 
+Sanft und Slow - unter diesem Motto hat sich Villnöss trotz seiner Hotspot-Tagestouristen dem nachhaltigen Tourismus verschrieben. Als erste Slow Food-Destination Südtirols arbeiten hier Bauern und Gastwirte eng zusammen und vermitteln den Gästen ihre Produkte und ihr Können. 
+Im Landesmuseum Schloss Tirol widmen sich gleich zwei Ausstellungen dem Bauernstand, in einer geschichtlichen Betrachtung und in einer kritischen Auseinandersetzung. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20250730221000 +0200" stop="20250730223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250731200000 +0200" stop="20250731202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250731202000 +0200" stop="20250731204930 +0200" channel="Rai Südtirol">
+    <title>Route der Romanik 1</title>
+    <sub-title>Vom Vinschgau bis ins Unterland</sub-title>
+    <desc>Moderator Mirko Frainer begibt sich auf die Spuren der romanischen Kunst in Südtirol beginnend in Taufers im Münstertal bis in den unteren Vinschgau und besucht Burgen, Kirchen und Klöster.
+
+Diese romanischen Kulturzeugnisse aus dem 10. bis 12.Jh. liegen an den einstigen Handels- und Pilgerwegen, die einst über die Alpen geführt haben. 
+Auf dieser filmischen Reise werden wir von Kunsthistoriker Florian Hofer und Elke Larcher begleitet. Sie ist die Koordinatorin des Projekts "Alpine Straße der Romanik". 
+Vom Münstertal bis in den Untervinschgau werden wir die schönsten Beispiele der Romanik näher kennenlernen, z.B. St. Johann in Prad, aber auch Kloster Marienberg. Und wir erfahren viele spannende Geschichten, die sich um diese Kulturschätze ranken. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20250731221000 +0200" stop="20250731223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250801180000 +0200" stop="20250801182930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Zwei Südtiroler Startups im Porträt, die Erforschung von Ablassbriefen im Gadertal, unreifes Traubengut als Alternative zu Zitronensäure, das neue Kompetenzzentrum für Genossenschaften. Mit fortschreitender Klimaerwärmung werden Daten über den Zustand der Bäume im öffentlichen Grün immer wichtiger. So greifen Stadtgärtnereien auf mobile Anwendungen zurück, welche die Firma R3GIS entwickelt, um Geodaten zu verwalten. 
+Ein weiteres Startup-Unternehmen präsentiert eine Web-Applikation für Transportunternehmen, mit der das Betanken von LKW erleichtert wird und Betrügern das Handwerk gelegt.
+Im Rahmen eines Forschungsprojekts im Museum Ladin in St. Martin in Thurn wurden die Ablassbriefe im Gadertal erstmals wissenschaftlich erforscht. Sie geben einen vertieften Einblick in die Talgeschichte.
+Ein altbewährtes Mittel gegen Erkältungssymptome wie Husten, Schnupfen und Halsschmerzen ist Holunderblütensirup. Viele Produzenten verwenden dafür Zitronensäure. Nun haben Forscher im Versuchszentrum Laimburg unreifes Traubengut getestet, das sich als vielversprechende Alternative herausstellen könnte.
+Im Studio zu Gast ist Prof. Richard Lang von der Freien Universität Bozen, Leiter des neuen Kompetenzzentrums für das Management von Genossenschaften.</desc>
+  </programme>
+  <programme start="20250801182900 +0200" stop="20250801185331 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne über Zukunftswelten</sub-title>
+    <desc>Angelika König und Simone Mayr werfen einen Blick in die Zukunft. Wird diese düster oder rosig sein? Es wird wärmer und unsere Gletscher werden in Zukunft Schnee von gestern sein. Wie aber schaut es mit den Nationalstaaten aus oder mit der klassischen Zweierbeziehung oder unseren Apfelkulturen? Mit einer Politikwissenschaftlerin, einer Astrophysikerin und einem Musiker zeichnen Simone Mayr und Angelika König Zukunftswelten. Was ist denkbar und was Fantasterei?</desc>
+  </programme>
+  <programme start="20250801185400 +0200" stop="20250801185925 +0200" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Trap-Musiker Paul Nin Lebron</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250801200000 +0200" stop="20250801202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250801202100 +0200" stop="20250801210000 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title> Heidi Troi - Die stille Macherin</sub-title>
+    <desc>Momentum, die neue Doku-Reihe auf Rai Südtirol begleitet Menschen aus Südtirol, die ihren eigenen Weg gegangen sind - mit Rückschlägen, Mut und Haltung. Den Anfang macht Buchautorin Heidi Troi.
+Heidi Troi hat 2024 vierzehn Bücher veröffentlicht, leitet mit ihrer Familie das Theaterpädagogische Zentrum Brixen und war über zwei Jahrzehnte lang Grundschullehrerin. In der ersten Folge von Momentum erzählt sie von ihrem Weg zwischen Bühne und Rückzug, zwischen Kreativität und Selbstschutz - und davon, wie man sich selbst treu bleibt, auch wenn es unbequem wird.</desc>
+  </programme>
+  <programme start="20250801210000 +0200" stop="20250801214400 +0200" channel="Rai Südtirol">
+    <title>Traumrouten der USA</title>
+    <sub-title>Entlang der großen Seen</sub-title>
+    <desc>Die Großen Seen gehören zu den beeindruckendsten Plätzen Nordamerikas. Man trifft auf schier endlose Wasserflächen und Wälder. Hier leben noch immer viele Indianerstämme. Die Route beginnt am Lake Huron mit der Überfahrt nach Manitoulin Island und führt bis nach Chicago, der Welthauptstadt des Blues. In den Orten finden sich Spuren indianischer und europäischer Einflüsse. Den weißen Jägern und Fallenstellern folgten später die Siedler aus Europa. Sie jagten in den Wäldern und transportierten ihre Felle und Waren über das Wasser nach Süden. Von dort führt
+ein kleiner Fluss am Südzipfel des Lake Michigan weiter in Richtung Süden der USA. Die Siedlung, die dort entstanden ist, nannten die Indianer "Checagou". Daraus wurde später die erste Hochhausstadt der Welt: Chicago, die Megacity</desc>
+  </programme>
+  <programme start="20250801214400 +0200" stop="20250801215923 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Lidia De Campi - langjährige Schuldienerin in Kaltern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250801221000 +0200" stop="20250801223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250802175900 +0200" stop="20250802183800 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Heidi Troi - Die stille Macherin</sub-title>
+    <desc>Momentum, die neue Doku-Reihe auf Rai Südtirol begleitet Menschen aus Südtirol, die ihren eigenen Weg gegangen sind - mit Rückschlägen, Mut und Haltung. Den Anfang macht Buchautorin Heidi Troi.
+Heidi Troi hat 2024 vierzehn Bücher veröffentlicht, leitet mit ihrer Familie das Theaterpädagogische Zentrum Brixen und war über zwei Jahrzehnte lang Grundschullehrerin. In der ersten Folge von Momentum erzählt sie von ihrem Weg zwischen Bühne und Rückzug, zwischen Kreativität und Selbstschutz - und davon, wie man sich selbst treu bleibt, auch wenn es unbequem wird.</desc>
+  </programme>
+  <programme start="20250802183800 +0200" stop="20250802185323 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Lidia De Campi - langjährige Schuldienerin in Kaltern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250802185300 +0200" stop="20250802185859 +0200" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Die Cosplayerin Ava Hansmann</sub-title>
+    <desc>Die Deutsche Ava Hansmann studiert an der Uni Bozen und absolviert ihr Praktikum im FabLab. In diesem Laboratorium hat sie die Möglichkeit, mithilfe des 3D-Druckers ihre eigenen Cosplay-Kostüme zu gestalten. Sie verkleidet sich nämlich gerne als Figur aus einem Anime, Manga oder Computerspiel.</desc>
+  </programme>
+  <programme start="20250802200000 +0200" stop="20250802202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250802202100 +0200" stop="20250802202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250802202500 +0200" stop="20250802205430 +0200" channel="Rai Südtirol">
+    <title>Karriereleitern 3</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Literaturwissenschaftler und Theaterautor Toni Bernhart und Wirtschaftsmanager Thomas Pittschieler erzählen von ihrem beruflichen Weg, der sie aus Südtirol in die Welt geführt hat.
+
+Toni Bernhart lebt in Berlin und Stuttgart, lehrt an der Universität Stuttgart und forscht in Berlin zur quantitativen Literaturwissenschaft. Ein besonderes Projekt ist seine Seilbahnseil-Akustik, wo er Klänge aus den Südtiroler Bergen in einen neuen Kontext stellt.
+Thomas Pittschieler lebt in Riad und begleitet als Manager eines internationalen Dienstleistungsunternehmens den Markteintritt globaler Firmen in Saudi-Arabien.
+Beide sind eng mit Südtirol verbunden und kehren regelmäßig in ihre Heimat zurück. "Karriereleitern" ist ein Gemeinschaftsprojekt von RAI Südtirol, dem Netzwerk Südstern und der Stiftung Futura.</desc>
+  </programme>
+  <programme start="20250802221000 +0200" stop="20250802223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
