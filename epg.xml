@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250727200000 +0200" stop="20250727202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250727202000 +0200" stop="20250727204930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Zwei Südtiroler Startups im Porträt, die Erforschung von Ablassbriefen im Gadertal, unreifes Traubengut als Alternative zu Zitronensäure, das neue Kompetenzzentrum für Genossenschaften.
-
-Mit fortschreitender Klimaerwärmung werden Daten über den Zustand der Bäume im öffentlichen Grün immer wichtiger. So greifen Stadtgärtnereien auf mobile Anwendungen zurück, welche die Firma R3GIS entwickelt, um Geodaten zu verwalten. 
-Ein weiteres Startup-Unternehmen präsentiert eine Web-Applikation für Transportunternehmen, mit der das Betanken von LKW erleichtert wird und Betrügern das Handwerk gelegt.
-Im Rahmen eines Forschungsprojekts im Museum Ladin in St. Martin in Thurn wurden die Ablassbriefe im Gadertal erstmals wissenschaftlich erforscht. Sie geben einen vertieften Einblick in die Talgeschichte.
-Ein altbewährtes Mittel gegen Erkältungssymptome wie Husten, Schnupfen und Halsschmerzen ist Holunderblütensirup. Viele Produzenten verwenden dafür Zitronensäure. Nun haben Forscher im Versuchszentrum Laimburg unreifes Traubengut getestet, das sich als vielversprechende Alternative herausstellen könnte.
-Im Studio zu Gast ist Prof. Richard Lang von der Freien Universität Bozen, Leiter des neuen Kompetenzzentrums für das Management von Genossenschaften.</desc>
-  </programme>
-  <programme start="20250727205000 +0200" stop="20250727205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250727221000 +0200" stop="20250727223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250728175900 +0200" stop="20250728184336 +0200" channel="Rai Südtirol">
     <title>Bergleben</title>
     <sub-title>Gipfel im Pinzgau</sub-title>
