@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250728175900 +0200" stop="20250728184336 +0200" channel="Rai Südtirol">
-    <title>Bergleben</title>
-    <sub-title>Gipfel im Pinzgau</sub-title>
-    <desc>Diese Folge der Fernsehreihe "Bergleben", gestaltet von Alfred Ninaus und Fritz Aigner, führt in den Salzburger Pinzgau: nach Krimml, Stuhlfelden, Dienten, Embach bei Lend und Rauris.
-Abseits der bekannten Salzburger Skiorte liegt das beschauliche Dienten, das sich in den vergangenen Jahrzehnten zu einem Geheimtipp auf der touristischen Landkarte entwickelt hat.
-Hier lebt die Familie von Peter Burgschwaiger, genannt Schnegg. Sie hat sich für den Tourismus entschieden, weil ein Standbein allein nicht ausreichen würde, um den Hof im Vollerwerb zu bewirtschaften. Die Familie bietet Urlaub am Bauernhof an und bewirtschaftet im Winter eine Schihütte auf der Liebenau-Alm. Sohn Lukas wird den Hof übernehmen. Sein großes Ziel ist die weitgehende Digitalisierung des Betriebes.</desc>
-  </programme>
-  <programme start="20250728184300 +0200" stop="20250728185105 +0200" channel="Rai Südtirol">
-    <title>Kunst und Landwirtschaft</title>
-    <sub-title>Gabriela Oberkofler am Taberhof in Flaas</sub-title>
-    <desc>Die Künstlerin pendelt zwischen Stuttgart und dem Taberhof in Flaas. Dort hat sie im Jahr 2022 das Institut für alternative Landwirtschaft, zeitgenössische Kunst und Leben in der Peripherie eingerichtet. In ihren Werken geht es um das komplexe Verhältnis zwischen Mensch, Pflanze und Tier.</desc>
-  </programme>
-  <programme start="20250728185100 +0200" stop="20250728185621 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital 2</title>
-    <sub-title>ChatGPT</sub-title>
-    <desc>Man spricht davon oder nutzt es bereits, das digitale Sprachmodell ChatGPT. Wie funktioniert und was kann ChatGPT? Von Experten erfahren wir, wie dieses Sprachmodell verantwortungsbewusst eingesetzt werden kann, wie zuverlässig es ist und inwieweit es die verschiedensten Arbeitsprozesse in Zukunft beeinflussen wird.</desc>
-  </programme>
-  <programme start="20250728200000 +0200" stop="20250728202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250728202100 +0200" stop="20250728210409 +0200" channel="Rai Südtirol">
-    <title>Stimmung, Party und Musik</title>
-    <sub-title>Unterwegs mit Südtiroler DJs und DJanes</sub-title>
-    <desc>DJs und DJanes gelten als Partyfreaks und Stimmungsmacher, doch so einfach, wie es klingt, ist es keineswegs. Der Weg zum "professionellen Auflegen" ist oft ein langer und steiniger. 
-
-Wie wird man DJ bzw. DJane und welche Herausforderungen muss man im nächtlichen Berufsleben bewältigen? Südtiroler DJs und DJanes geben Einblick in ihren spannenden Arbeitsalltag "am Plattenteller". Eine Dokumentation von Claudia Bosch.</desc>
-  </programme>
-  <programme start="20250728210400 +0200" stop="20250728214935 +0200" channel="Rai Südtirol">
-    <title>Sehnsuchtsort Meran</title>
-    <sub-title/>
-    <desc>Den "Sehnsuchtsort Meran" stellen sich die Einheimischen anders vor. Und die Forscher warnen: Ohne Zustimmung der Südtiroler:innen wird Tourismus nicht funktionieren. Wie also sieht Tourismus aus, wenn man die Rechnung mit den Einheimischen macht? Und wie nimmt man auch die Gäste in die Pflicht? In dieser Dokumentation von Verena Gruber und Günther Neumair werden verschiedene Positionen beleuchtet. Zu Wort kommen Johanna Porcheddu, Leiterin des Theaters in der Altstadt in Meran, die Autorin Selma Mahlknecht, Wolfgang Töchterle von IDM Südtirol und Markus Promberger, Geschäftsführer des Hotels Ama Stay in St. Vigil.</desc>
-  </programme>
-  <programme start="20250728214900 +0200" stop="20250728215830 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>In Erinnerung an Rosa Ramoser</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250728221000 +0200" stop="20250728223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250729200000 +0200" stop="20250729202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
