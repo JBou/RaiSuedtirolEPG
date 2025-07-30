@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250729200000 +0200" stop="20250729202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250729202000 +0200" stop="20250729204630 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 6</title>
-    <sub-title>Nachtleben: laut, lebendig, limitiert?</sub-title>
-    <desc>Das Nachtleben ist mehr als Feiern - es ist ein wichtiger Teil von Jugendkultur, Kreativität und sozialem Miteinander. Doch es steht unter Druck. Moderation: Maddalena Quaia.
-
-Zwischen Sperrstunden, Lärmbeschwerden und fehlenden Freiräumen wird es für junge Menschen und Veranstalter:innen immer schwieriger, Nachtkultur zu bieten. Gleichzeitig verändern Digitalisierung, Sicherheitsbedenken und gesellschaftliche Trends das Ausgehverhalten. Wie kann Südtirol ein Nachtleben ermöglichen, das offen, vielfältig und zukunftsfähig bleibt?
-In der sechsten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Anna Hilber, Kulturarbeiterin und Expertin für Nachtkultur, und Dominik Alber, einer der jüngsten Bürgermeister Südtirols und langjähriger Jugendbetreuer.</desc>
-  </programme>
-  <programme start="20250729221000 +0200" stop="20250729223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250730200000 +0200" stop="20250730202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
