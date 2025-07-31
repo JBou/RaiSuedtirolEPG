@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250730200000 +0200" stop="20250730202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250730202000 +0200" stop="20250730204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Alkoholfreie Weine - kurzfristiger Trend oder bewusster Konsum? Villnöss und sein Motto Sanft und Slow. Bauern-Power früher und heute - zwei Ausstellungen mit Überlegungen zum Bauernstand.
-
-Ein neuer Trend sorgt für Diskussionen: alkoholfreier Wein. Zwischen Innovation, Tradition und der Frage, wie viel Wein noch bleibt, wenn der Alkohol fehlt. Wir besuchen Winzer, die zu den Vorreitern von alkoholfreien Weinen in Südtirol gehören, und fragen Weinfachleute, wie aufwändig diese Weine hergestellt werden und welches Potential alkoholfreie Weine haben. 
-Sanft und Slow - unter diesem Motto hat sich Villnöss trotz seiner Hotspot-Tagestouristen dem nachhaltigen Tourismus verschrieben. Als erste Slow Food-Destination Südtirols arbeiten hier Bauern und Gastwirte eng zusammen und vermitteln den Gästen ihre Produkte und ihr Können. 
-Im Landesmuseum Schloss Tirol widmen sich gleich zwei Ausstellungen dem Bauernstand, in einer geschichtlichen Betrachtung und in einer kritischen Auseinandersetzung. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20250730221000 +0200" stop="20250730223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250731200000 +0200" stop="20250731202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
