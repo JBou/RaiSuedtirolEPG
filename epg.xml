@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250801180000 +0200" stop="20250801182930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Zwei Südtiroler Startups im Porträt, die Erforschung von Ablassbriefen im Gadertal, unreifes Traubengut als Alternative zu Zitronensäure, das neue Kompetenzzentrum für Genossenschaften. Mit fortschreitender Klimaerwärmung werden Daten über den Zustand der Bäume im öffentlichen Grün immer wichtiger. So greifen Stadtgärtnereien auf mobile Anwendungen zurück, welche die Firma R3GIS entwickelt, um Geodaten zu verwalten. 
-Ein weiteres Startup-Unternehmen präsentiert eine Web-Applikation für Transportunternehmen, mit der das Betanken von LKW erleichtert wird und Betrügern das Handwerk gelegt.
-Im Rahmen eines Forschungsprojekts im Museum Ladin in St. Martin in Thurn wurden die Ablassbriefe im Gadertal erstmals wissenschaftlich erforscht. Sie geben einen vertieften Einblick in die Talgeschichte.
-Ein altbewährtes Mittel gegen Erkältungssymptome wie Husten, Schnupfen und Halsschmerzen ist Holunderblütensirup. Viele Produzenten verwenden dafür Zitronensäure. Nun haben Forscher im Versuchszentrum Laimburg unreifes Traubengut getestet, das sich als vielversprechende Alternative herausstellen könnte.
-Im Studio zu Gast ist Prof. Richard Lang von der Freien Universität Bozen, Leiter des neuen Kompetenzzentrums für das Management von Genossenschaften.</desc>
-  </programme>
-  <programme start="20250801182900 +0200" stop="20250801185331 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne über Zukunftswelten</sub-title>
-    <desc>Angelika König und Simone Mayr werfen einen Blick in die Zukunft. Wird diese düster oder rosig sein? Es wird wärmer und unsere Gletscher werden in Zukunft Schnee von gestern sein. Wie aber schaut es mit den Nationalstaaten aus oder mit der klassischen Zweierbeziehung oder unseren Apfelkulturen? Mit einer Politikwissenschaftlerin, einer Astrophysikerin und einem Musiker zeichnen Simone Mayr und Angelika König Zukunftswelten. Was ist denkbar und was Fantasterei?</desc>
-  </programme>
-  <programme start="20250801185400 +0200" stop="20250801185925 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Trap-Musiker Paul Nin Lebron</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250801200000 +0200" stop="20250801202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250801202100 +0200" stop="20250801210000 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title> Heidi Troi - Die stille Macherin</sub-title>
-    <desc>Momentum, die neue Doku-Reihe auf Rai Südtirol begleitet Menschen aus Südtirol, die ihren eigenen Weg gegangen sind - mit Rückschlägen, Mut und Haltung. Den Anfang macht Buchautorin Heidi Troi.
-Heidi Troi hat 2024 vierzehn Bücher veröffentlicht, leitet mit ihrer Familie das Theaterpädagogische Zentrum Brixen und war über zwei Jahrzehnte lang Grundschullehrerin. In der ersten Folge von Momentum erzählt sie von ihrem Weg zwischen Bühne und Rückzug, zwischen Kreativität und Selbstschutz - und davon, wie man sich selbst treu bleibt, auch wenn es unbequem wird.</desc>
-  </programme>
-  <programme start="20250801210000 +0200" stop="20250801214400 +0200" channel="Rai Südtirol">
-    <title>Traumrouten der USA</title>
-    <sub-title>Entlang der großen Seen</sub-title>
-    <desc>Die Großen Seen gehören zu den beeindruckendsten Plätzen Nordamerikas. Man trifft auf schier endlose Wasserflächen und Wälder. Hier leben noch immer viele Indianerstämme. Die Route beginnt am Lake Huron mit der Überfahrt nach Manitoulin Island und führt bis nach Chicago, der Welthauptstadt des Blues. In den Orten finden sich Spuren indianischer und europäischer Einflüsse. Den weißen Jägern und Fallenstellern folgten später die Siedler aus Europa. Sie jagten in den Wäldern und transportierten ihre Felle und Waren über das Wasser nach Süden. Von dort führt
-ein kleiner Fluss am Südzipfel des Lake Michigan weiter in Richtung Süden der USA. Die Siedlung, die dort entstanden ist, nannten die Indianer "Checagou". Daraus wurde später die erste Hochhausstadt der Welt: Chicago, die Megacity</desc>
-  </programme>
-  <programme start="20250801214400 +0200" stop="20250801215923 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>In Erinnerung an Lidia De Campi - langjährige Schuldienerin in Kaltern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250801221000 +0200" stop="20250801223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250802175900 +0200" stop="20250802183800 +0200" channel="Rai Südtirol">
     <title>Momentum</title>
     <sub-title>Heidi Troi - Die stille Macherin</sub-title>
@@ -169,7 +123,7 @@ Dabei konnte es gar nicht exotisch genug sein. Die klassische Sommerfrische war 
     <desc>Tourismus prägt Südtirol wie kaum ein anderes Thema - als Wirtschaftsmotor, aber auch als gesellschaftlicher Zündstoff. Wo verläuft die Grenze zwischen Gastfreundschaft und Selbstschutz? Moderation: Maddalena Quaia.
 
 Tourismus sichert Arbeitsplätze und Einkommen, doch die Kehrseite ist unübersehbar: Verkehrschaos, Umweltbelastung und soziale Spannungen nehmen zu. Wie kann Südtirol touristisch attraktiv bleiben, ohne die Natur und die Lebensqualität der Einheimischen aufs Spiel zu setzen? 
-In der siebten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Lisa Pircher, junge Hotelière aus dem Passeiertal, die den Tourismus aktiv mitgestaltet, und Moritz Holzinger, Klimaaktivist und Mitinitiator der Bewegung "Make Tourists Pay", der eine Mobilitätswende und mehr Klimagerechtigkeit fordert.</desc>
+In der siebten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Lisa Perwanger, junge Hotelière aus dem Passeiertal, die den Tourismus aktiv mitgestaltet, und Moritz Holzinger, Klimaaktivist und Mitinitiator der Bewegung "Make Tourists Pay", der eine Mobilitätswende und mehr Klimagerechtigkeit fordert.</desc>
   </programme>
   <programme start="20250805221000 +0200" stop="20250805223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
@@ -302,6 +256,30 @@ Im Gespräch erfahren wir, wie er mit Ängsten und Herausforderungen umgeht und 
 In Istanbul prallen wahrlich die Welten aufeinander: Streng konservative und zutiefst religiöse Menschen flanieren neben Hipstern und elegant gekleideten Frauen. Nirgendwo ist der Unterschied der Kulturen und Lebensansichten zu scharf gezeichnet wie in der türkischen Metropole, die mit über 15 Millionen Einwohnern gleichzeitig auch die größte Stadt Europas ist. Eine spannende Dokumentation über eine Stadt, die nie zur Ruhe kommt.</desc>
   </programme>
   <programme start="20250809221000 +0200" stop="20250809223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250810200000 +0200" stop="20250810202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250810202000 +0200" stop="20250810210440 +0200" channel="Rai Südtirol">
+    <title>Historische Gartenpracht (Teil 2)</title>
+    <sub-title/>
+    <desc>Wir stellen wieder besondere Gärten in Österreich vor: den Schwarzenbergpark in Wien und den Landschaftspark von Schloss Eggenberg in der Steiermark.  
+
+Der Begründer des Schwarzenbergparks war Franz Moritz Graf von Lacy, Feldherr unter Maria Theresia. Von dem angehäuften Vermögen ließ er später einen Park anlegen.
+In der Steiermark ließ sich Johann Ulrich von Eggenberg nicht nur ein gigantisches spanisches Schloss erbauen, sondern auch eine Gartenanlage von beeindruckender Größe. Eggenberg war der loyalste Verbündete des gegenreformatorischen Kaisers Ferdinand II. und half ihm beim Aufbau eines barocken Absolutismus. 
+Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
+  </programme>
+  <programme start="20250810210500 +0200" stop="20250810210900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250810221000 +0200" stop="20250810223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
