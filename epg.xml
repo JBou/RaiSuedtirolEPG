@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250802175900 +0200" stop="20250802183800 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Heidi Troi - Die stille Macherin</sub-title>
-    <desc>Momentum, die neue Doku-Reihe auf Rai Südtirol begleitet Menschen aus Südtirol, die ihren eigenen Weg gegangen sind - mit Rückschlägen, Mut und Haltung. Den Anfang macht Buchautorin Heidi Troi.
-Heidi Troi hat 2024 vierzehn Bücher veröffentlicht, leitet mit ihrer Familie das Theaterpädagogische Zentrum Brixen und war über zwei Jahrzehnte lang Grundschullehrerin. In der ersten Folge von Momentum erzählt sie von ihrem Weg zwischen Bühne und Rückzug, zwischen Kreativität und Selbstschutz - und davon, wie man sich selbst treu bleibt, auch wenn es unbequem wird.</desc>
-  </programme>
-  <programme start="20250802183800 +0200" stop="20250802185323 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>In Erinnerung an Lidia De Campi - langjährige Schuldienerin in Kaltern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250802185300 +0200" stop="20250802185859 +0200" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Die Cosplayerin Ava Hansmann</sub-title>
-    <desc>Die Deutsche Ava Hansmann studiert an der Uni Bozen und absolviert ihr Praktikum im FabLab. In diesem Laboratorium hat sie die Möglichkeit, mithilfe des 3D-Druckers ihre eigenen Cosplay-Kostüme zu gestalten. Sie verkleidet sich nämlich gerne als Figur aus einem Anime, Manga oder Computerspiel.</desc>
-  </programme>
-  <programme start="20250802200000 +0200" stop="20250802202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250802202100 +0200" stop="20250802202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250802202500 +0200" stop="20250802205430 +0200" channel="Rai Südtirol">
-    <title>Karriereleitern 3</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
-    <desc>Literaturwissenschaftler und Theaterautor Toni Bernhart und Wirtschaftsmanager Thomas Pittschieler erzählen von ihrem beruflichen Weg, der sie aus Südtirol in die Welt geführt hat.
-
-Toni Bernhart lebt in Berlin und Stuttgart, lehrt an der Universität Stuttgart und forscht in Berlin zur quantitativen Literaturwissenschaft. Ein besonderes Projekt ist seine Seilbahnseil-Akustik, wo er Klänge aus den Südtiroler Bergen in einen neuen Kontext stellt.
-Thomas Pittschieler lebt in Riad und begleitet als Manager eines internationalen Dienstleistungsunternehmens den Markteintritt globaler Firmen in Saudi-Arabien.
-Beide sind eng mit Südtirol verbunden und kehren regelmäßig in ihre Heimat zurück. "Karriereleitern" ist ein Gemeinschaftsprojekt von RAI Südtirol, dem Netzwerk Südstern und der Stiftung Futura.</desc>
-  </programme>
-  <programme start="20250802221000 +0200" stop="20250802223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250803200000 +0200" stop="20250803202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
