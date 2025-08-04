@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250803200000 +0200" stop="20250803202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250803202000 +0200" stop="20250803210524 +0200" channel="Rai Südtirol">
-    <title>Historische Gartenpracht</title>
-    <sub-title>Österreichs historische Gartenpracht (Teil 1)</sub-title>
-    <desc>Bis heute sind sie das Sinnbild der einstigen Macht und Größe ihrer Besitzer. Der alternde Prinz
-Eugen interessierte sich viel mehr für seine neuesten Pflanzen als für die Schlachten, die er nochzu gewinnen hatte.
-An allen wichtigen Häfen, etwa Genua oder Venedig, hatte er seine Agenten platziert, die exotische Pflanzen beim Abladen für ihn zur Seite schafften. In Schloss Hof fand die Gartenliebe des Prinzen ihre ultimative Ausformung - Prinz Eugen erlebte jedoch die Vollendung nicht mehr.
-Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
-  </programme>
-  <programme start="20250803210500 +0200" stop="20250803210900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250803221000 +0200" stop="20250803223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250804175900 +0200" stop="20250804182357 +0200" channel="Rai Südtirol">
     <title>Land und Leute</title>
     <sub-title>Teis</sub-title>
