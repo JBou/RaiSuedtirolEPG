@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250805200000 +0200" stop="20250805202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250805202000 +0200" stop="20250805204630 +0200" channel="Rai Südtirol">
-    <title>Kontrovers 7</title>
-    <sub-title>Tourismus: Wirtschaftskraft mit Nebenwirkungen?</sub-title>
-    <desc>Tourismus prägt Südtirol wie kaum ein anderes Thema - als Wirtschaftsmotor, aber auch als gesellschaftlicher Zündstoff. Wo verläuft die Grenze zwischen Gastfreundschaft und Selbstschutz? Moderation: Maddalena Quaia.
-
-Tourismus sichert Arbeitsplätze und Einkommen, doch die Kehrseite ist unübersehbar: Verkehrschaos, Umweltbelastung und soziale Spannungen nehmen zu. Wie kann Südtirol touristisch attraktiv bleiben, ohne die Natur und die Lebensqualität der Einheimischen aufs Spiel zu setzen? 
-In der siebten Ausgabe von "Kontrovers" treffen zwei Perspektiven aufeinander: Lisa Perwanger, junge Hotelière aus dem Passeiertal, die den Tourismus aktiv mitgestaltet, und Moritz Holzinger, Klimaaktivist und Mitinitiator der Bewegung "Make Tourists Pay", der eine Mobilitätswende und mehr Klimagerechtigkeit fordert.</desc>
-  </programme>
-  <programme start="20250805221000 +0200" stop="20250805223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250806200000 +0200" stop="20250806202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
