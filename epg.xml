@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250806200000 +0200" stop="20250806202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250806202000 +0200" stop="20250806204930 +0200" channel="Rai Südtirol">
-    <title>Sommer. Sonne. Hochsaison.</title>
-    <sub-title>Ansturm auf Südtirol</sub-title>
-    <desc>Filmemacher Andreas Niederkofler beleuchtet eindrucksvoll die Schattenseiten des Overtourism in Südtirol. In den weltbekannten Hotspots spricht er mit Gästen und Einheimischen.
-
-Zwischen überfüllten Hotspots wie dem Pragser Wildsee, der Seceda und den Drei Zinnen zeigt der Film, wie 37 Millionen Gäste auf 500.000 Einheimische treffen - mit Folgen für Natur, Infrastruktur und Lebensqualität. Stimmen von Touristen und Einheimischen zeichnen ein vielschichtiges Bild im Spannungsfeld zwischen wirtschaftlichem Erfolg und wachsender Belastung.</desc>
-  </programme>
-  <programme start="20250806221000 +0200" stop="20250806223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250807200000 +0200" stop="20250807202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
