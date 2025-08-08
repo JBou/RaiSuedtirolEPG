@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250807200000 +0200" stop="20250807202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250807202000 +0200" stop="20250807204930 +0200" channel="Rai Südtirol">
-    <title>Route der Romanik Folge 2</title>
-    <sub-title>Vom Vinschgau bis ins Unterland</sub-title>
-    <desc>Moderator Mirko Frainer setzt seine filmische Reise fort und zeigt uns besondere romanische Kirchen und Burgen, die zwischen dem Untervinschgau und dem Unterland liegen.
-
-Die filmische Reise beginnt in St. Prokulus bei Naturns, besucht die Kapellen von Schloss Tirol und Hocheppan und außerdem die wertvollen Fresken von St.Jakob in Kastelaz oberhalb Tramin. Mit dabei auch Kunsthistoriker Florian Hofer und Elke Larcher, Koordinatorin des Projekts "Alpine Straße der Romanik". Wir erfahren viele spannende Geschichten, die sich um diese Kulturschätze ranken. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20250807213000 +0200" stop="20250807215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Meisterschaftsvorbereitung ist für den FC Südtirol abgeschlossen. Die Mannschaft von Trainer Castori peilt auch in ihrer vierten Serie B-Saison den Klassenerhalt an. Das ist auch das große Saisonziel von Obermais, bei seinem Debüt in der Serie D. 
-Für Südtirols Wintersportler dreht sich hingegen alles schon um die Olympischen Spiele 2026. Die Skispringer und Nordischen Kombinierer trainieren bereits auf der neuen Sprungschanze in Predazzo.</desc>
-  </programme>
-  <programme start="20250807221000 +0200" stop="20250807223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250808175900 +0200" stop="20250808182830 +0200" channel="Rai Südtirol">
     <title>SportArena</title>
     <sub-title/>
@@ -137,6 +114,212 @@ Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
     <desc/>
   </programme>
   <programme start="20250810221000 +0200" stop="20250810223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250811180000 +0200" stop="20250811184316 +0200" channel="Rai Südtirol">
+    <title>Bergleben in Osttirol</title>
+    <sub-title>Der Himmel über dem Villgratental</sub-title>
+    <desc>Wie kaum eine andere Region ist das Villgratental geprägt von den Bergbauernhöfen, die wie Schwalbennester auf den Hängen über dem Tal kleben. Heute ist das Zubrot aus der touristischen Vermietung unerlässlich für die Bauern der Region.
+Bergbauer Albin Steidl aus Innervillgraten bewirtschaftet mit seiner Familie einen Hof auf 1300 m Höhe, der nur über eine schmale Zufahrtsstraße ist. Auf der nahegelegenen, malerischen Oberstalleralm besitzt ereine Hütte, die er an Urlauber vermietet.
+In Dölsach am Fuße der Lienzer Dolomiten lebt die Familie von Simon Pondorfer auf ihrem Biobauernhof. Der Jungbauer ist erstaunlich vielseitig für sein Alter. Er hat bereits den Rinderstall ausgebaut sowie das Gemüsekisterl ins Leben gerufen, das er im Dorf an Haushalte ausliefert.
+Elke Obkircher vom Binterhof in Virgen veredelt Äpfel, Birnen und Marillen zu Schnäpsen. Anfangs war es noch ein komisches Gefühl als Frau in der Männerdomäne zu agieren, doch mittlerweile sind die Kreationen der Schnapsbrennerin mehrfach preisgekrönt.</desc>
+  </programme>
+  <programme start="20250811184300 +0200" stop="20250811185146 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Marianna Oberhollenzer</sub-title>
+    <desc>Mit 98 hat sie noch allein gewohnt, war täglich stundenlang mit ihrem Hund unterwegs,- seit sie in ihrem Haus gefallen ist, erst nach Tagen gefunden wurde, hat sie eine Pflegekraft. Von langer
+Bewusstlosigkeit und schweren Brüchen hat sie sich erholt, doch die Beine blieben schwach. Viel
+Zeit verbringt sie in ihrer Stube in Oberluttach, umgeben von den Bildern derer, die ihr wichtig
+sind: Vinzenz, der Sohn, die drei Enkelkinder, die verstorbene Schwiegertochter, die Eltern, der
+Hund, ihre Heiligen, der Rosenkranz...</desc>
+  </programme>
+  <programme start="20250811185200 +0200" stop="20250811185720 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250811200000 +0200" stop="20250811202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250811202000 +0200" stop="20250811210712 +0200" channel="Rai Südtirol">
+    <title>Unterm Horizont des Vinschgaus</title>
+    <sub-title/>
+    <desc>Die Wiederansiedlung des Bartgeiers, die Herausforderungen der Bergbauern am Naturnser Sonnenberg, das Bewässerungssystem der Malser Haide, die erste biozertifizierte Alm Südtirols.
+
+Seit Jahren folgt der Naturfotograf Philipp Egger der Spur des Bartgeiers, einer der eindrucksvollsten Vögel der Alpen. Seine Fotografien sind nicht nur Momentaufnahmen, sondern Ausdruck der tiefen Verbindung zwischen Mensch und Natur in dieser beeindruckenden Bergwelt. Außerdem wird die Bedeutung des traditionellen Bewässerungssystems der Malser Haide beleuchtet, ein Meisterwerk menschlicher Ingenieurskunst, das Leben in die karge Landschaft bringt. Die harte Arbeit der Bergbauern am Vinschger Sonnenberg wird ebenso gewürdigt. Sie erzählen von Kampf und Überleben inmitten der rauen Bergwelt und vom Bewahren des kulturellen Erbes ihrer Vorfahren. Kunst und Geschichte finden ihre Bühne im Marmorabbau in Göflan und im Kloster Marienberg, das seit Jahrhunderten den spirituellen Horizont der Region prägt. Auf der Gonda Alm im Matschertal, der ersten biozertifizierten Alm Südtirols, zeigt sich wie Tradition und innovative Ideen zu einer nachhaltigen Zukunft verschmelzen. Dieser alpine Streifzug durch den Vinschgau ist eine tiefgehende Reflexion über die Beziehung zwischen Mensch, Berg und Tal im Westen Südtirols.</desc>
+  </programme>
+  <programme start="20250811210800 +0200" stop="20250811215324 +0200" channel="Rai Südtirol">
+    <title>Die Reisen der Habsburger</title>
+    <sub-title>Kaiserin Elisabeth - Folge II</sub-title>
+    <desc>Die fünfteilige Reihe "Erbe Österreich - Habsburgs Reisen" folgt in aufwändigen Spielszenen den abenteuerlichen Routen des österreichischen Kaiserhauses, das schon früh die Reiselust gepackt hatte.
+Der 2. Teil der Doku-Reihe begibt sich auf Spurensuche an die Côte d'Azur und nach London, Irland, Paris und Kairo. Etliche Wintermonate verbrachte Sisi am Kap Martin bevor es sie nach Paris zog. London war schon im 19. Jhd. eine Luxusmetropole und Reiseziel der beliebten Monarchin. In Irland ging sie ihrer Leidenschaft, der Parforcejagd, nach. In Korfu, ihrer zweiten Heimat, ließ sie sich einen Palast erbauen: das Achilleon. Ihre letzte Reise führte sie nach Genf, wo sie einem Attentat zum Opfer fallen sollte.</desc>
+  </programme>
+  <programme start="20250811215300 +0200" stop="20250811215904 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>In Erinnerung an Schriftsteller Konrad Rabensteiner</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250811221000 +0200" stop="20250811223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250812200000 +0200" stop="20250812202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250812202000 +0200" stop="20250812204630 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Wohnen in Südtirol: Wer träumt hier noch vom Eigenheim?</sub-title>
+    <desc>Wohnen ist längst mehr als ein Privatthema - es ist politisch, sozial und wirtschaftlich brisant. Moderation: Maddalena Quaia.
+
+Der Traum vom eigenen Haus mit Garten wird für viele junge Menschen in Südtirol zunehmend unerreichbar. Stattdessen bestimmen hohe Mieten, Platzmangel und starre Bauvorschriften die Realität. Was bedeutet Wohnen heute – Sicherheit, Flexibilität oder einfach nur: irgendwie über die Runden kommen?
+Zwei Perspektiven treffen aufeinander: Alexander von Walther, Vorsitzender der Südtiroler Hochschüler:innenschaft, der für leistbaren Wohnraum und echte Chancengleichheit kämpft, und Patrick Messner, Tischlermeister in vierter Generation, der zwischen steigenden Baukosten und dem Wunsch nach Eigentum vermittelt.
+Die Diskussion wurde in der AR/GE Kunst Galerie in Bozen aufgezeichnet - inmitten einer Ausstellung, die sich mit dem Begriff "Heimat" und der Frage beschäftigt: Was heißt es heute, zuhause zu sein?</desc>
+  </programme>
+  <programme start="20250812221000 +0200" stop="20250812223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250813200000 +0200" stop="20250813202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250813202000 +0200" stop="20250813204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Das Pensionsalter, die Zukunft der Altkleidersammlung und innovative Technik "made in Südtirol".
+
+Wer darf wann und unter welchen Voraussetzungen in Rente gehen? Welche Dokumente sind dafür nötig? Und was finden Patronate mittlerweile online heraus? Wir klären, wer früher in Pension gehen kann - und beleuchten auch einen spannenden Aspekt: Was passiert, wenn man als Pensionist:in weiterarbeitet?
+Dann wagen wir eine Pensionssimulation: Mit einem speziellen Tool rechnen wir aus, wie hoch die Rente für jemanden ausfallen könnte, der in 10 Jahren in den Ruhestand tritt. Wir sprechen außerdem über das Nachkaufen von Studienjahren und Beitragslücken - und werfen einen kurzen Blick auf die Zusatzrente.
+Ein weiteres Thema betrifft viele Südtiroler:innen direkt: Die Caritas Südtirol stellt ihre Altkleidersammlung ein. Bis Ende 2025 verschwinden die bekannten Container aus dem Straßenbild. Wir erklären, warum, und zeigen auf, wo gut erhaltene Kleidung künftig landen kann.
+Außerdem ein Betriebsbesuch: Wir sind bei GKN Sinter Metall in Bruneck und Sand in Taufers - einem Hightech-Unternehmen, das Präzisionsbauteile für die Automobilindustrie fertigt und dabei stark auf Innovation setzt.</desc>
+  </programme>
+  <programme start="20250813221000 +0200" stop="20250813223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250814200000 +0200" stop="20250814202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250814202000 +0200" stop="20250814204818 +0200" channel="Rai Südtirol">
+    <title>Meran</title>
+    <sub-title>Kurstadt der Musik</sub-title>
+    <desc>Vor dem Ersten Weltkrieg war sie eine der bekanntesten Kurstädte der Monarchie. Im Jahr 1900
+wurde das Stadttheater eröffnet, 1914 das neue Kurhaus - trotz Widerständen vonseiten der
+Kirche und der Bevölkerung. Auf der Promenade spielte das Kurorchester, für viele das beste des
+Kaiserreiches. Das Kurorchester wurde in den 1990er Jahren aus Kostengründen aufgelöst. Die
+Meraner Musikwochen sind allerdings in dessen Fußstapfen getreten. Seit 30 Jahren von Mitte
+August bis Mitte September. Beim Festival im Kursaal werden die besten Solisten der Welt von
+den bedeutendsten Orchestern begleitet.
+Der Film von Stefan Nicolini und Günther Neumair beschreibt Geschichte und Gegenwart der
+Musikkultur in der Passerstadt. Sir Neville Mariner, Thomas Quasthoff, Mischa Maisky, Marcello
+Fera, Andreas Cappello, Hermann Schnitzer, Paul Rösch, Renate Abram, Ferruccio Delle Cave -
+sie alle sprechen über ihrem Beziehung zu Meran.</desc>
+  </programme>
+  <programme start="20250814221000 +0200" stop="20250814223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250815180000 +0200" stop="20250815184440 +0200" channel="Rai Südtirol">
+    <title>Historische Gartenpracht</title>
+    <sub-title>Österreichs historische Gartenpracht (Teil 1)</sub-title>
+    <desc>Bis heute sind sie das Sinnbild der einstigen Macht und Größe ihrer Besitzer. Der alternde Prinz
+Eugen interessierte sich viel mehr für seine neuesten Pflanzen als für die Schlachten, die er
+nochzu gewinnen hatte.
+An allen wichtigen Häfen, etwa Genua oder Venedig, hatte er seine Agenten platziert, die
+exotische Pflanzen beim Abladen für ihn zur Seite schafften. In Schloss Hof fand die Gartenliebe
+des Prinzen ihre ultimative Ausformung - Prinz Eugen erlebte jedoch die Vollendung nicht mehr.
+Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
+  </programme>
+  <programme start="20250815184400 +0200" stop="20250815185856 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Die Roten Gipfel</sub-title>
+    <desc>Wie kommt Laura aus Ligurien nach Gröden? Das erzählt die sprachbegabte Lehrerin und
+Sängerin dem Bergführer Manni Stuffer bei einer Klettertour an den Roten Gipfeln im Naturpark
+Puez-Geisler.
+Sie ist in Genua aufgewachsen und arbeitet heute in St. Ulrich als Mittelschullehrerin: Laura
+Bavastro. Mittlerweile spricht sie fließend Deutsch und Ladinisch und singt in der erfolgreichen Musikgruppe "Die Ladiner" mit. Laura liebt auch das Wandern in den Dolomiten. Beim Klettern an den Roten Gipfeln im Naturpark Puez-Geisler erzählt sie uns, was sie von Ligurien nach Südtirol gebracht hat. Zusammen mit Bergführer Manfred Stuffer macht sie eine der seltenen
+Begehungen des sogenannten "Fünften Roten Gipfels". Gipfelerlebnisse ist eine Sendereihe von
+Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20250815200000 +0200" stop="20250815202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250815202100 +0200" stop="20250815203029 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Aussichtsturm Kohlern</sub-title>
+    <desc>Er gehörte zu den Highlights am Kohlerer Berg bei Bozen: Der 37 Meter hohe aus mächtigen Baumstämmen gezimmerte Aussichtsturm nahe der Seilbahnbergstation auf 1.150 m. 
+
+300 Stufen musste man überwinden, um einen 360 Grad-Rundumblick auf die Bergwelt zu erhalten. Jetzt musste der 1985 errichtete Holzturm aus Sicherheitsgründen abgebrochen werden. Ob er wieder aufgebaut wird, hängt nicht zuletzt von der Zukunft des Virgl-Seilbahn-Projekts ab, mit dem Bozen an seine über 100 Jahre alte Bergbahntradition anknüpfen möchte.</desc>
+  </programme>
+  <programme start="20250815203000 +0200" stop="20250815215931 +0200" channel="Rai Südtirol">
+    <title>Ausgrissn, in der Lederhosen nach Las Vegas</title>
+    <sub-title/>
+    <desc>Die Brüder Julian und Thomas Wittmann wollen raus aus dem Alltag der bayerischen Provinz.
+Rauf auf die Zündapp-Oldtimer und ab mit 40 Stundenkilometern nach Las Vegas. Eine etwas
+andere Doku von über die Suche nach Freiheit.
+Die Dokumentation wurde nicht wie bei anderen Reisedokus üblich, von den Protagonisten selbst gefilmt. Ein Filmteam hat die beiden Brüder Tag und Nacht begleitet und ihre Erlebnisse festgehalten. Auf ihrem Weg treffen sie die verrücktesten Typen: Hells Angels, Waffennarren,Aussteiger. Sie erleben Pannen und Unfälle, müssen einem Hurrikan ausweichen und rollen mit ihren Mopeds Alma und Berta über den heißen Asphalt der kultigen Route 66 durch die Wüste Nevadas. Mit jedem Kilometer, jedem Abenteuer und jeder Herausforderung kommen sie sich und ihrer Suche nach Freiheit näher.</desc>
+  </programme>
+  <programme start="20250815221100 +0200" stop="20250815223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250816175900 +0200" stop="20250816184340 +0200" channel="Rai Südtirol">
+    <title>Historische Gartenpracht (Teil 2)</title>
+    <sub-title/>
+    <desc>Wir stellen wieder besondere Gärten in Österreich vor: den Schwarzenbergpark in Wien und den
+Landschaftspark von Schloss Eggenberg in der Steiermark.
+Der Begründer des Schwarzenbergparks war Franz Moritz Graf von Lacy, Feldherr unter Maria
+Theresia. Von dem angehäuften Vermögen ließ er später einen Park anlegen. In der Steiermark ließ sich Johann Ulrich von Eggenberg nicht nur ein gigantisches spanisches Schloss erbauen, sondern auch eine Gartenanlage von beeindruckender Größe. Eggenberg war der loyalste Verbündete des gegenreformatorischen Kaisers Ferdinand II. und half ihm beim Aufbau eines barocken Absolutismus.
+Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
+  </programme>
+  <programme start="20250816184300 +0200" stop="20250816185058 +0200" channel="Rai Südtirol">
+    <title>Riversurfen in Brixen</title>
+    <sub-title/>
+    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
+  </programme>
+  <programme start="20250816185100 +0200" stop="20250816185815 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>In Erinnerung an Johann Chrysostomus Pescoller</sub-title>
+    <desc>Jahrgang 1935 ist Johann Chrysostomus Pescoller. Der Brunecker Restaurator ist schon früh in
+die Fußstapfen seiner Ahnen getreten und hat ein Leben lang in verblasste Farben wieder Licht
+gezaubert.</desc>
+  </programme>
+  <programme start="20250816200000 +0200" stop="20250816202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250816202100 +0200" stop="20250816202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250816202500 +0200" stop="20250816205430 +0200" channel="Rai Südtirol">
+    <title>Karriereleitern 4</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Die Fachärztin für Orthopädie und Unfallchirurgie Ines Unterfrauner und der Strafrechtsexperte Domenico Rosani geben Einblicke in ihren Werdegang - zwischen Südtirol und der Welt.
+
+Ines Unterfrauner aus Gais war viele Jahre in Zürich tätig, zuletzt als Oberärztin und Dozentin. Seit Anfang 2025 ist sie zurück in Südtirol - und arbeitet in der OrthoPlus und der CityClinik in Bozen.
+Domenico Rosani aus Meran ist Assistenzprofessor für vergleichendes und europäisches Strafrecht an der Universität in Utrecht. Hier lehrt und forscht er zu Kinderrechten, Cyberkriminaltät und dem Schutz von Minderjährigen im digitalen Raum. Er berät europäische Institutionen und unterrichtet seit Kurzem auch in Trient.
+Beide sind Teil des Netzwerks Südstern und wurden 2024 mit dem Futura-Preis ausgezeichnet.</desc>
+  </programme>
+  <programme start="20250816221000 +0200" stop="20250816223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
