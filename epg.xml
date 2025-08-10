@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250809180000 +0200" stop="20250809183900 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Thomas Hochkofler - Leben zwischen den Rollen</sub-title>
-    <desc>Thomas Hochkofler, Schauspieler, Regisseur und Kabarettist, gibt einen persönlichen Einblick in seine Welt jenseits der Bühne. Auch dort hat er immer wieder unterschiedliche Rollen gespielt.
-Statt den Fokus auf seinen Erfolg als Schauspieler zu legen, erfahren wir, wie Thomas Hochkofler wirklich tickt, was er denkt und was ihm im Leben wichtig ist.
-Vom humorvollen "Leo und Luis" über seine Arbeit als Regisseur bei den Freilichtspielen Lana bis hin zu seiner Rolle als Filmemacher - Thomas Hochkofler hat nicht nur auf der Bühne, sondern auch im Leben selbst viele Rollen gespielt. Doch wie lebt der Mann hinter den Figuren? Welche Prinzipien leiten ihn, was sind seine Ziele und was lehnt er ab?
-Im Gespräch erfahren wir, wie er mit Ängsten und Herausforderungen umgeht und warum es für ihn immer wieder wichtig ist, sich selbst neu zu erfinden.</desc>
-  </programme>
-  <programme start="20250809183900 +0200" stop="20250809185927 +0200" channel="Rai Südtirol">
-    <title>Auf weiß roten Spuren in Frankreich</title>
-    <sub-title>Violoncellist Ernesto Insam</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250809200000 +0200" stop="20250809202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250809202100 +0200" stop="20250809202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250809202500 +0200" stop="20250809205441 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Istanbul</sub-title>
-    <desc>Eine erlebnisreiche und vielseitige Tour durch die türkische Metropole Istanbul. Die größte Stadt Europas fasziniert durch ihre vielen ganz unterschiedlichen Facetten.
-
-In Istanbul prallen wahrlich die Welten aufeinander: Streng konservative und zutiefst religiöse Menschen flanieren neben Hipstern und elegant gekleideten Frauen. Nirgendwo ist der Unterschied der Kulturen und Lebensansichten zu scharf gezeichnet wie in der türkischen Metropole, die mit über 15 Millionen Einwohnern gleichzeitig auch die größte Stadt Europas ist. Eine spannende Dokumentation über eine Stadt, die nie zur Ruhe kommt.</desc>
-  </programme>
-  <programme start="20250809221000 +0200" stop="20250809223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250810200000 +0200" stop="20250810202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
