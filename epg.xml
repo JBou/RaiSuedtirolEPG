@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250812200000 +0200" stop="20250812202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250812202000 +0200" stop="20250812204630 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Wohnen in Südtirol: Wer träumt hier noch vom Eigenheim?</sub-title>
-    <desc>Wohnen ist längst mehr als ein Privatthema - es ist politisch, sozial und wirtschaftlich brisant. Moderation: Maddalena Quaia.
-
-Der Traum vom eigenen Haus mit Garten wird für viele junge Menschen in Südtirol zunehmend unerreichbar. Stattdessen bestimmen hohe Mieten, Platzmangel und starre Bauvorschriften die Realität. Was bedeutet Wohnen heute – Sicherheit, Flexibilität oder einfach nur: irgendwie über die Runden kommen?
-Zwei Perspektiven treffen aufeinander: Alexander von Walther, Vorsitzender der Südtiroler Hochschüler:innenschaft, der für leistbaren Wohnraum und echte Chancengleichheit kämpft, und Patrick Messner, Tischlermeister in vierter Generation, der zwischen steigenden Baukosten und dem Wunsch nach Eigentum vermittelt.
-Die Diskussion wurde in der AR/GE Kunst Galerie in Bozen aufgezeichnet - inmitten einer Ausstellung, die sich mit dem Begriff "Heimat" und der Frage beschäftigt: Was heißt es heute, zuhause zu sein?</desc>
-  </programme>
-  <programme start="20250812221000 +0200" stop="20250812223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250813200000 +0200" stop="20250813202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
