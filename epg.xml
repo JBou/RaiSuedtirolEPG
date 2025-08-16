@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250815180000 +0200" stop="20250815184440 +0200" channel="Rai Südtirol">
-    <title>Historische Gartenpracht</title>
-    <sub-title>Österreichs historische Gartenpracht (Teil 1)</sub-title>
-    <desc>Bis heute sind sie das Sinnbild der einstigen Macht und Größe ihrer Besitzer. Der alternde Prinz
-Eugen interessierte sich viel mehr für seine neuesten Pflanzen als für die Schlachten, die er
-nochzu gewinnen hatte.
-An allen wichtigen Häfen, etwa Genua oder Venedig, hatte er seine Agenten platziert, die
-exotische Pflanzen beim Abladen für ihn zur Seite schafften. In Schloss Hof fand die Gartenliebe
-des Prinzen ihre ultimative Ausformung - Prinz Eugen erlebte jedoch die Vollendung nicht mehr.
-Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
-  </programme>
-  <programme start="20250815184400 +0200" stop="20250815185856 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Die Roten Gipfel</sub-title>
-    <desc>Wie kommt Laura aus Ligurien nach Gröden? Das erzählt die sprachbegabte Lehrerin und
-Sängerin dem Bergführer Manni Stuffer bei einer Klettertour an den Roten Gipfeln im Naturpark
-Puez-Geisler.
-Sie ist in Genua aufgewachsen und arbeitet heute in St. Ulrich als Mittelschullehrerin: Laura
-Bavastro. Mittlerweile spricht sie fließend Deutsch und Ladinisch und singt in der erfolgreichen Musikgruppe "Die Ladiner" mit. Laura liebt auch das Wandern in den Dolomiten. Beim Klettern an den Roten Gipfeln im Naturpark Puez-Geisler erzählt sie uns, was sie von Ligurien nach Südtirol gebracht hat. Zusammen mit Bergführer Manfred Stuffer macht sie eine der seltenen
-Begehungen des sogenannten "Fünften Roten Gipfels". Gipfelerlebnisse ist eine Sendereihe von
-Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20250815200000 +0200" stop="20250815202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250815202100 +0200" stop="20250815203029 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Aussichtsturm Kohlern</sub-title>
-    <desc>Er gehörte zu den Highlights am Kohlerer Berg bei Bozen: Der 37 Meter hohe aus mächtigen Baumstämmen gezimmerte Aussichtsturm nahe der Seilbahnbergstation auf 1.150 m. 
-
-300 Stufen musste man überwinden, um einen 360 Grad-Rundumblick auf die Bergwelt zu erhalten. Jetzt musste der 1985 errichtete Holzturm aus Sicherheitsgründen abgebrochen werden. Ob er wieder aufgebaut wird, hängt nicht zuletzt von der Zukunft des Virgl-Seilbahn-Projekts ab, mit dem Bozen an seine über 100 Jahre alte Bergbahntradition anknüpfen möchte.</desc>
-  </programme>
-  <programme start="20250815203000 +0200" stop="20250815215931 +0200" channel="Rai Südtirol">
-    <title>Ausgrissn, in der Lederhosen nach Las Vegas</title>
-    <sub-title/>
-    <desc>Die Brüder Julian und Thomas Wittmann wollen raus aus dem Alltag der bayerischen Provinz.
-Rauf auf die Zündapp-Oldtimer und ab mit 40 Stundenkilometern nach Las Vegas. Eine etwas
-andere Doku von über die Suche nach Freiheit.
-Die Dokumentation wurde nicht wie bei anderen Reisedokus üblich, von den Protagonisten selbst gefilmt. Ein Filmteam hat die beiden Brüder Tag und Nacht begleitet und ihre Erlebnisse festgehalten. Auf ihrem Weg treffen sie die verrücktesten Typen: Hells Angels, Waffennarren,Aussteiger. Sie erleben Pannen und Unfälle, müssen einem Hurrikan ausweichen und rollen mit ihren Mopeds Alma und Berta über den heißen Asphalt der kultigen Route 66 durch die Wüste Nevadas. Mit jedem Kilometer, jedem Abenteuer und jeder Herausforderung kommen sie sich und ihrer Suche nach Freiheit näher.</desc>
-  </programme>
-  <programme start="20250815221100 +0200" stop="20250815223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250816175900 +0200" stop="20250816184340 +0200" channel="Rai Südtirol">
     <title>Historische Gartenpracht (Teil 2)</title>
     <sub-title/>
@@ -317,6 +270,28 @@ Greifvögel und Eulen aus nächster Nähe beobachten - das ist bei Matthias Pirc
 Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
   </programme>
   <programme start="20250823221000 +0200" stop="20250823223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250824200000 +0200" stop="20250824202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250824202100 +0200" stop="20250824210646 +0200" channel="Rai Südtirol">
+    <title>Erbe Österreich</title>
+    <sub-title>Wo die Liebe stärker war - Habsburgs unerwünschte Liaisonen</sub-title>
+    <desc>Die Heiratspolitik hatte Habsburg einst groß gemacht, aber sie erwies sich auch als Klotz am Bein, als die Zeiten moderner wurden. 
+
+Die Vorstellung, dass jemand nicht Hoffähiger einst auf dem österreichischen Thron sitzen könnte, ängstigte das Kaiserhaus mehr als alle tatsächlichen Herausforderungen des zu Ende gehenden monarchischen Zeitalters. Entsprechend rigoros ahndete es der Kaiser, wenn jemand aus seiner Familie das private Glück der Bürde seiner Erwähltheit vorzog. Erzherzog Johann, der sich mit der Postmeisterstochter Anna Plochl vermählte, und ebenso Erzherzog Franz Ferdinand, der die Gräfin Sophie Chotek zur Frau nahm, mussten beide für ihre Nachkommen auf die Thronfolge verzichten. Auch andere unerwünschte Liebschaften durchzogen die habsburgische Familiengeschichte.</desc>
+  </programme>
+  <programme start="20250824210600 +0200" stop="20250824211000 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250824221000 +0200" stop="20250824223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
