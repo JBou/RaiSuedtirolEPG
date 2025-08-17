@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250816175900 +0200" stop="20250816184340 +0200" channel="Rai Südtirol">
-    <title>Historische Gartenpracht (Teil 2)</title>
-    <sub-title/>
-    <desc>Wir stellen wieder besondere Gärten in Österreich vor: den Schwarzenbergpark in Wien und den
-Landschaftspark von Schloss Eggenberg in der Steiermark.
-Der Begründer des Schwarzenbergparks war Franz Moritz Graf von Lacy, Feldherr unter Maria
-Theresia. Von dem angehäuften Vermögen ließ er später einen Park anlegen. In der Steiermark ließ sich Johann Ulrich von Eggenberg nicht nur ein gigantisches spanisches Schloss erbauen, sondern auch eine Gartenanlage von beeindruckender Größe. Eggenberg war der loyalste Verbündete des gegenreformatorischen Kaisers Ferdinand II. und half ihm beim Aufbau eines barocken Absolutismus.
-Eine Dokumentation von Judith Doppler und Kurt Mayer.</desc>
-  </programme>
-  <programme start="20250816184300 +0200" stop="20250816185058 +0200" channel="Rai Südtirol">
-    <title>Riversurfen in Brixen</title>
-    <sub-title/>
-    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
-  </programme>
-  <programme start="20250816185100 +0200" stop="20250816185815 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>In Erinnerung an Johann Chrysostomus Pescoller</sub-title>
-    <desc>Jahrgang 1935 ist Johann Chrysostomus Pescoller. Der Brunecker Restaurator ist schon früh in
-die Fußstapfen seiner Ahnen getreten und hat ein Leben lang in verblasste Farben wieder Licht
-gezaubert.</desc>
-  </programme>
-  <programme start="20250816200000 +0200" stop="20250816202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250816202100 +0200" stop="20250816202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250816202500 +0200" stop="20250816205430 +0200" channel="Rai Südtirol">
-    <title>Karriereleitern 4</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
-    <desc>Die Fachärztin für Orthopädie und Unfallchirurgie Ines Unterfrauner und der Strafrechtsexperte Domenico Rosani geben Einblicke in ihren Werdegang - zwischen Südtirol und der Welt.
-
-Ines Unterfrauner aus Gais war viele Jahre in Zürich tätig, zuletzt als Oberärztin und Dozentin. Seit Anfang 2025 ist sie zurück in Südtirol - und arbeitet in der OrthoPlus und der CityClinik in Bozen.
-Domenico Rosani aus Meran ist Assistenzprofessor für vergleichendes und europäisches Strafrecht an der Universität in Utrecht. Hier lehrt und forscht er zu Kinderrechten, Cyberkriminaltät und dem Schutz von Minderjährigen im digitalen Raum. Er berät europäische Institutionen und unterrichtet seit Kurzem auch in Trient.
-Beide sind Teil des Netzwerks Südstern und wurden 2024 mit dem Futura-Preis ausgezeichnet.</desc>
-  </programme>
-  <programme start="20250816221000 +0200" stop="20250816223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250817200000 +0200" stop="20250817202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
