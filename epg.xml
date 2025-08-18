@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250817200000 +0200" stop="20250817202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250817202100 +0200" stop="20250817210339 +0200" channel="Rai Südtirol">
-    <title>Die Habsburger in Mariazell</title>
-    <sub-title>Mater Austriae</sub-title>
-    <desc>Die Habsburger und der berühmte Wallfahrtsort Mariazell: Es ist die Geschichte einer besonderen Beziehung. Die Verehrung der Magna Mater Austriae war für die österreichische Herrscherfamilie sowohl Staatskult als auch Ausdruck privater Frömmigkeit.
-Die Entwicklung von Mariazell wäre ohne das Wirken der Habsburger undenkbar gewesen. Wir beschreiben, wie sich aus ihren Wallfahrten ein touristischer und wirtschaftlicher Schwerpunkt entwickelte. Noch heute wird die Basilika in Mariazell von Habsburgern besucht, um vor den Gnadenaltar zu treten. Der Enkel des letzten österreichischen Kaisers Karl I. hat hier auch 1993 geheiratet. Jährlich macht sich eine Million Pilger auf den Weg zur Gnadenmutter und erlebt immer noch eine gleichsam emotionale wie spirituelle Ergriffenheit, berichten die Filmemacher Alfred Ninaus und Fritz Aigner.</desc>
-  </programme>
-  <programme start="20250817210300 +0200" stop="20250817210700 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250817221000 +0200" stop="20250817223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250818180000 +0200" stop="20250818181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
