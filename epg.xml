@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250819200000 +0200" stop="20250819202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250819202000 +0200" stop="20250819203500 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>Villa Freischütz</sub-title>
-    <desc>Im Jahr 1905 zog der deutschstämmige Kaufmann Franz Fromm mit seiner Familie nach jahrelangem Aufenthalt in der Kurstadt endgültig nach Meran, wo er die Villa Freischütz kaufte. Hier fand Franz Fromm ein dauerhaftes Zuhause für sich, seine Familie und seine vielfältigen Sammlungen aus aller Welt.
-
-Der Lieblingsnichte von Franz, Rosamaria Navarini, ist es zu verdanken, dass die immense Sammlung bis heute erhalten geblieben ist.  Als sie im Jahr 2023 starb, verfügte Rosamaria in ihrem Testament, dass die Villa und ihre Schätze erhalten und der Öffentlichkeit zugänglich gemacht werden sollten. Die Villa selbst gilt als typisches Gebäude des "Goldenen Zeitalters" der Kurstadt und enthält die Gegenstände und Geschichten ihrer Bewohner, die ein wichtiges Porträt einer typischen bürgerlichen Familie jener Zeit offenbaren.</desc>
-  </programme>
-  <programme start="20250819203500 +0200" stop="20250819204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Nach der langen Sommerpause ist jetzt endlich auch wieder mit den ersten Testspielen der Südtiroler Amateurfußball gestartet. Wir blicken auf die Mannschaften der Ober- und Landesliga und stellen die Neuzugänge vor. Außerdem gehen wir der Frage nach, wer um den Titel spielt und wer um den Klassenerhalt kämpfen muss.</desc>
-  </programme>
-  <programme start="20250819221000 +0200" stop="20250819223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250820200000 +0200" stop="20250820202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
