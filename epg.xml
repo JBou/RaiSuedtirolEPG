@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250820200000 +0200" stop="20250820202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250820202000 +0200" stop="20250820204909 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Schluderns</sub-title>
-    <desc>Zu Besuch im "Vintschger Museum", beim neuen Burgherrn der Churburg und bei den alljährlichen Schludernser Ritterspielen. Außerdem lauschen wir den Stimmen des Männerchores. 
-
-Seit nunmehr 25 Jahren befasst sich das "Vintschger Museum" - das Vuseum - mit markanten Themen des Vinschgaus. Vom Ur-Schludernser zum Lappenbeil bis hin zum Korrnerwagen - in "Land und Leute" zeigen wir die Vielfalt und einige verborgene Schätze des Talmuseums im Ortskern von Schluderns. Es wird auch gesungen: Der Männerchor versammelt sich um Robert Ruepp, ehemaliger Chorleiter und Dorfchronist. Ein Besuch auf der Churburg mit Graf Gaudenz Trapp, in der urigen Burgschänke und bei den Schludernser Ritterspielen runden das Dorfporträt ab.</desc>
-  </programme>
-  <programme start="20250820221000 +0200" stop="20250820223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250821200000 +0200" stop="20250821202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -83,12 +66,14 @@ als 250 Sorten. Ein besonderer Kraftplatz mitten in den Grödner Dolomiten.</des
 
 Sie ist eine der bekanntesten Kabarettistinnen, Religionslehrerinnen und Influencerinnen Südtirols. Wir begleiten Barbara auf ihrer Reise vom Tourette-Syndrom in der Kindheit über den beruflichen Werdegang als Geometerin bis hin zu ihrer erfolgreichen Karriere als Köchin und Kabarettistin. Mit ihrer wöchentlichen Kabarett-Sendung "So seg'n holt mirs" gemeinsam mit Ihrem Vater Dietmar Prantl und ihrer Leidenschaft für das Kochen hat sie sich einen Namen gemacht und inspiriert heute über 140.000 Follower in den Sozialen Medien. Neben ihrer Arbeit als Lehrerin und Influencerin betreut sie gemeinsam mit ihrem Mann den Leimgruber Hof, wo sie Ferienwohnungen verwaltet, und ihre Familie lebt.</desc>
   </programme>
-  <programme start="20250822210000 +0200" stop="20250822215220 +0200" channel="Rai Südtirol">
-    <title>Unda Radio</title>
-    <sub-title>Der Pionier Max Glauber</sub-title>
-    <desc>Wir schreiben das Jahr 1925: Das Radio steckt noch in den Kinderschuhen, doch in Toblach entsteht eine der ersten und bedeutendsten Radiofabriken Italiens. Sie trägt den Namen Unda Radio und ihr Gründer ist der erst 23-jährige Max Glauber. Schon bald nach ihrer Gründung wird das Schicksal der Toblacher Fabrik von den großen politischen Ereignissen jener Zeit bestimmt. Lisa Glauber, Max Glaubers Tochter, begibt sich 50 Jahre nach der Schließung der Unda auf Spurensuche. Der Film zeichnet das Leben eines Pioniers des 20. Jahrhunderts nach, das aufs Engste mit Südtirols Geschichte verknüpft ist.</desc>
+  <programme start="20250822210000 +0200" stop="20250822215203 +0200" channel="Rai Südtirol">
+    <title>Über Südtirol</title>
+    <sub-title>Ein Land aus der Vogelsperspektive</sub-title>
+    <desc>Die klare Luft der Alpen und Höhenzüge nah am Himmel: Südtirol zeigt sich in der Dokumentation
+"Ein Land aus der Vogelperspektive" von seiner besten Seite. Die Flugreise, die von Burgschauspieler Peter Simonischek kommentiert und begleitet wird, zeigt Gipfel und Almen, kargen Fels und stürzende Bäche.
+Kurzum: Wir entdecken die bemerkenswerten Plätze einer Region aus der Luft. Simonischek erzählt Kurioses, Wissenswertes und Poetisches über ein Land, das bis zum Ende der Monarchie zu Österreich gehört hat. Regie: Georg Riha.</desc>
   </programme>
-  <programme start="20250822215300 +0200" stop="20250822215918 +0200" channel="Rai Südtirol">
+  <programme start="20250822215200 +0200" stop="20250822215818 +0200" channel="Rai Südtirol">
     <title>Talente</title>
     <sub-title>Nicholas Paltrinieri</sub-title>
     <desc>Der Kalterer Schachmeister Nicholas Paltrinieri hat bereits mehrere Titel gewonnen. Er gewährt
