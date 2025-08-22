@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250821200000 +0200" stop="20250821202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250821202100 +0200" stop="20250821203810 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Klettersteig Hans Kammerlander</sub-title>
-    <desc>Der neue Klettersteig bei Ahornach oberhalb von Sand in Taufers hat es in sich. Er wird als einer der schwierigsten des gesamten Alpenraumes gehandelt. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger.
-
-Valeria Stuflesser und Simon Oberbacher, zwei Grödner Künstler, versuchen ihr Glück in der steilen Wand und unterhalten sich dabei über Kunst und Kultur. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
-Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20250821203800 +0200" stop="20250821204729 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Aussichtsturm Kohlern</sub-title>
-    <desc>Er gehörte zu den Highlights am Kohlerer Berg bei Bozen: Der 37 Meter hohe aus mächtigen Baumstämmen gezimmerte Aussichtsturm nahe der Seilbahnbergstation auf 1.150 m. 300 Stufen musste man überwinden, um einen 360 Grad-Rundumblick auf die Bergwelt zu erhalten. Jetzt musste der 1985 errichtete Holzturm aus Sicherheitsgründen abgebrochen werden. Ob er wieder aufgebaut wird, hängt nicht zuletzt von der Zukunft des Virgl- Seilbahn-Projekts ab, mit dem Bozen an seine über 100 Jahre alte Bergbahntradition anknüpfen möchte.</desc>
-  </programme>
-  <programme start="20250821221000 +0200" stop="20250821223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250822180000 +0200" stop="20250822182930 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -136,6 +113,216 @@ Die Vorstellung, dass jemand nicht Hoffähiger einst auf dem österreichischen T
     <desc/>
   </programme>
   <programme start="20250824221000 +0200" stop="20250824223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250825180000 +0200" stop="20250825181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greift erstmals auch der letztjährige Landesliga-Vizemeister und Aufsteiger Gröden ins Geschehen ein. Die Ladiner treffen auf den Sieger der Partie Partschins gegen Ahrntal. 
+Im Volksbank-Landespokal kommt es zu den Derbys Natz gegen Gitschberg Jochtal und Latsch gegen Olimpia Meran.</desc>
+  </programme>
+  <programme start="20250825181400 +0200" stop="20250825182513 +0200" channel="Rai Südtirol">
+    <title>Traumberufe</title>
+    <sub-title>Der Komponist Marco Diana</sub-title>
+    <desc>Der gebürtige Pusterer und mittlerweile im Vinschgau lebende Komponist Marco Diana hat seine Passion zum Beruf gemacht. Er schreibt nicht nur Musik, sondern singt auch und produziert im eigenen Studio. Nach seinen Anfängen als Studiomusiker und Mitglied unterschiedlichster Südtiroler Formationen hat sich Marco Diana mit seinem eigenen Tonstudio selbstständig gemacht und produziert schon seit über 20 Jahren die unterschiedlichsten musikalischen Werke. Über die Jahre sind unzählige Titel entstanden, vor allem im Bereich Schlager, da ihm diese Musikrichtung besonders gefällt. Neben seiner Arbeit für andere Interpreten komponiert Marco Diana auch Songs für sich selbst. Das Singen ist sein zweites Standbein geworden. Eine Fernsehreihe von Claudia Bosch und Hans Peter Karbon.</desc>
+  </programme>
+  <programme start="20250825182500 +0200" stop="20250825185220 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>In Südtirol und in Italien kaum vertreten: das Islandpferd. Amelie von Longo züchtet in Neumarkt die Pferde mit der unverkennbar struppigen Wuschel-Mähne, ausgeglichenem Wesen und freundlichem Blick. Islandpferde beherrschen eine zusätzliche Gangart, die ein ganz besonderes Reiterlebnis garantiert und diese Pferde zu etwas Außergewöhnlichem macht. Greifvögel und Eulen aus nächster Nähe beobachten - das ist bei Matthias Pircher in Schenna möglich. Seit Jahrzehnten hält er diese majestätischen und geheimnisvollen Vögel, gibt Einblick in deren Lebensweise und zeigt uns deren beeindruckende Flugkünste.
+Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20250825185300 +0200" stop="20250825185821 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250825200000 +0200" stop="20250825202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250825202100 +0200" stop="20250825210039 +0200" channel="Rai Südtirol">
+    <title>Marling</title>
+    <sub-title>Begegnungen</sub-title>
+    <desc>Es sind die Menschen, die einem Dorf seinen Stempel aufdrücken. In Marling sind es unter anderem die Kulturtage, das literarische Erbe der Mundartdichterin Maridl Innerhofer, der traditionelle Bittgang zum Vigiljoch.
+
+Im Mittelpunkt dieser Dokumentation von Waltraud Pircher und Konrad Plaickner stehen Begegnungen mit den Menschen, die das Leben des Ortes prägen: Stefan Fabi, Anouschka van Rossem, Andreas Eisenkeil, Florian Schmalzl, Helmuth Gruber, Wolfgang Kerschbaumer, Veronika Wetzel und Luis Stefan Stecher sind einige der kreativen Köpfe, die Marling einzigartig, spannend und lebenswert machen.</desc>
+  </programme>
+  <programme start="20250825210000 +0200" stop="20250825214431 +0200" channel="Rai Südtirol">
+    <title>Herausforderung Bergbäuerinnen in Südtirol - Folge 3</title>
+    <sub-title/>
+    <desc>Luzia Kuppelwieser vom Latschair--Hof am Vinschger Sonnenberg, Irma Moling Clara vom Hof Oriana in Kampill und Nadja Stecher Ruepp vom Gialhof ober Schluderns erzählen über ihren Alltag. Die dritte Folge zeigt, wie Bergbäuerinnen mit viel Herzblut die Zukunft auf ihren Höfen gestalten und mit ihrem Spezialwissen verbinden. Luzia Kuppelwieser vom Latschair-Hof am Sonnenberg möchte Kindern aus der Stadt ein umfassendes Verständnis für das Hofleben vermitteln. Irma Moling Clara lebt mit ihrer Familie auf dem Hof Oriana im Weiler Seres in Kampill. Sie betreibt dort auch ein kleines Museum, in dem alte Landwirtschaftsgeräte und Haushaltsutensilien vom Alltag vergangener Zeiten erzählen. 
+Der Gialhof, den Nadja Stecher Ruepp mit ihrer Familie bewirtschaftet, liegt oberhalb von Schluderns. Spezialisiert ist der Biohof auf die Aufzucht von Jungtieren. 
+Ein Film von Hubert und Matthias Schönegger.</desc>
+  </programme>
+  <programme start="20250825214500 +0200" stop="20250825215900 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Villa Freischütz</sub-title>
+    <desc>Im Jahr 1905 zog der deutschstämmige Kaufmann Franz Fromm mit seiner Familie nach jahrelangem Aufenthalt in der Kurstadt endgültig nach Meran, wo er die Villa Freischütz kaufte. Hier fand Franz Fromm ein dauerhaftes Zuhause für sich, seine Familie und seine vielfältigen Sammlungen aus aller Welt. Der Enkelin von Franz, Rosamaria Navarini, ist es zu verdanken, dass die immense Sammlung bis heute erhalten geblieben ist.  Als sie im Jahr 2023 starb, verfügte Rosamaria in ihrem Testament, dass die Villa und ihre Schätze erhalten und der Öffentlichkeit zugänglich gemacht werden sollten. Die Villa selbst gilt als typisches Gebäude des "Goldenen Zeitalters" der Kurstadt und enthält die Gegenstände und Geschichten ihrer Bewohner, die ein wichtiges Porträt einer typischen bürgerlichen Familie jener Zeit offenbaren.</desc>
+  </programme>
+  <programme start="20250825221000 +0200" stop="20250825223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250826200000 +0200" stop="20250826202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250826202000 +0200" stop="20250826203703 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>"Sonntagsspaziergang" am Greifenberg</sub-title>
+    <desc>So nennt sich die Felsroute oberhalb Siebeneich. Dort klettert Gesundheitsberaterin Christiane Gruber gemeinsam mit Bergführer Manfred Stuffer und findet unterwegs auch Kräuter für die Küche.
+
+Christiane Gruber ist Wanderführerin, Gesundheitsberaterin und Leiterin eines Weltladens. Beim Klettern am Greifenberg über Siebeneich erzählt sie uns, wie sie im Alltag ihren Weg zum ökologischen Gleichgewicht findet. Geführt von Bergfüher Manfred Stuffer steigt sie in den sogenannten "Sonntagsspaziergang" ein, eine Felsroute an den Bozner Porphyr-Wänden des Greifenberges.</desc>
+  </programme>
+  <programme start="20250826203700 +0200" stop="20250826205130 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greift erstmals auch der letztjährige Landesliga-Vizemeister und Aufsteiger Gröden ins Geschehen ein. Die Ladiner treffen auf den Sieger der Partie Partschins gegen Ahrntal. 
+Im Volksbank-Landespokal kommt es zu den Derbys Natz gegen Gitschberg Jochtal und Latsch gegen Olimpia Meran.</desc>
+  </programme>
+  <programme start="20250826221000 +0200" stop="20250826223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250827200000 +0200" stop="20250827202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250827202000 +0200" stop="20250827204500 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben.
+
+Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. Er soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen. 
+Im anschließenden Gespräch erzählt der langjährige Obmann des Bäuerlichen Notstandsfonds Sepp Dariz, wie viele Menschen bisher Hilfe erfahren haben, und was ihn und seine Mitarbeiterinnen im BNF in all den Jahren am meisten motiviert hat, diesen ehrenamtlichen Einsatz zu leisten.</desc>
+  </programme>
+  <programme start="20250827204500 +0200" stop="20250827205018 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title/>
+    <desc>In vielen Bereichen des Alltags und der Arbeitswelt finden wir digitale Erneuerungen. Auch in der Landwirtschaft schreitet die Digitalisierung voran. Eine Software soll Obstbauern beispielsweise dabei behilflich sein, bessere und stabilere Erträge zu erzielen. 
+Wir erfahren, was Künstliche Intelligenz und Bilderkennung in den Apfelwiesen und im Weinberg konkret verbessern können.</desc>
+  </programme>
+  <programme start="20250827221000 +0200" stop="20250827223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250828200000 +0200" stop="20250828202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250828202000 +0200" stop="20250828204900 +0200" channel="Rai Südtirol">
+    <title>Das Thema: Leben in Rollen</title>
+    <sub-title/>
+    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlung
+von Andreas Niederkofler.
+
+Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront.
+Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
+  </programme>
+  <programme start="20250828221000 +0200" stop="20250828223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250829175900 +0200" stop="20250829183839 +0200" channel="Rai Südtirol">
+    <title>Marling</title>
+    <sub-title>Begegnungen</sub-title>
+    <desc>Es sind die Menschen, die einem Dorf seinen Stempel aufdrücken. In Marling sind es unter anderem die Kulturtage, das literarische Erbe der Mundartdichterin Maridl Innerhofer, der traditionelle Bittgang zum Vigiljoch. Im Mittelpunkt dieser Dokumentation von Waltraud Pircher und Konrad Plaickner stehen Begegnungen mit den Menschen, die das Leben des Ortes prägen: Stefan Fabi, Anouschka van Rossem, Andreas Eisenkeil, Florian Schmalzl, Helmuth Gruber, Wolfgang Kerschbaumer, Veronika Wetzel und Luis Stefan Stecher sind einige der kreativen Köpfe, die Marling einzigartig, spannend und lebenswert machen.</desc>
+  </programme>
+  <programme start="20250829183800 +0200" stop="20250829185503 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>"Sonntagsspaziergang" am Greifenberg</sub-title>
+    <desc>So nennt sich die Felsroute oberhalb Siebeneich. Dort klettert Gesundheitsberaterin Christiane Gruber gemeinsam mit Bergführer Manfred Stuffer und findet unterwegs auch Kräuter für die Küche.
+Christiane Gruber ist Wanderführerin, Gesundheitsberaterin und Leiterin eines Weltladens. Beim Klettern am Greifenberg über Siebeneich erzählt sie uns, wie sie im Alltag ihren Weg zum ökologischen Gleichgewicht findet. Geführt von Bergführer Manfred Stuffer steigt sie in den sogenannten "Sonntagsspaziergang" ein, eine Felsroute an den Bozner Porphyr-Wänden des Greifenberges.</desc>
+  </programme>
+  <programme start="20250829185500 +0200" stop="20250829185843 +0200" channel="Rai Südtirol">
+    <title>Traumberufe: Manfred Stuffer</title>
+    <sub-title/>
+    <desc>Da nicht jeder die Fähigkeit besitzt, auf eigene Faust einen Berg zu bezwingen, erfreut sich der Beruf des Bergführers großer Beliebtheit - eine Tätigkeit, die aber auch mit einer enormen Verantwortung einhergeht. Der ehemalige Kletterprofi Manfred Stuffer aus St. Ulrich in Gröden hat sich nach seiner sportlichen Karriere genau dieser Aufgabe verschrieben und genießt es, seinen Kunden wunderbare alpine Erlebnisse zu bescheren und diese mit ihnen zu teilen - am liebsten in seinen Heimatbergen, den Dolomiten. Für ihn stellt dieser Beruf zweifellos einen Traumberuf dar, den er - trotz des erhöhten Risikos - bewusst in Kauf nimmt. Denn er liebt, was er tut und könnte sich keine andere Arbeit mehr vorstellen.</desc>
+  </programme>
+  <programme start="20250829200000 +0200" stop="20250829202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250829202100 +0200" stop="20250829210100 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Josef Erlacher - Der Erfolg liegt in deiner Hand</sub-title>
+    <desc>Er sieht fast nichts - und hat doch so viel gesehen: Josef Erlacher ist Paralympics-Medaillengewinner, Unternehmer, Keynote-Speaker und Autor. 
+
+In Momentum erzählt er, wie er mit einem Zehntel Sehvermögen mit 120 km/h die Abfahrt hinunterfuhr, sein eigenes Unternehmen gründete und heute über 500 Firmen berät.
+Schon als Kind bekam er von seinen Eltern den Freiraum - und das Vertrauen -, sich eigene Strategien zu erarbeiten, um selbstständig durchs Leben zu gehen. 
+Mit 14 bekam er ein Motorrad, mit 11 stand er auf Skiern. Später wurde er zum Profi - im Sport, im Business, auf der Bühne.
+Was ihm dabei immer half - und woran auch wir uns orientieren können: Klarheit. Struktur. Und die Fähigkeit, trotz Unsicherheiten den eigenen Kurs zu halten. Denn ohne Orientierung - das zeigt Josef eindrucksvoll - kommen wir alle nicht voran.
+Ein Film über Mut, Selbstverantwortung - und darüber, wie man sieht, auch wenn man fast nichts sieht.</desc>
+  </programme>
+  <programme start="20250829210100 +0200" stop="20250829213333 +0200" channel="Rai Südtirol">
+    <title>Auf der Weltbühne der Klassik</title>
+    <sub-title>Die Tonmeister Michael Seberich und Peter Ghirardini</sub-title>
+    <desc>Die beiden Tonmeister Michael Seberich und Peter Ghirardini sind in der internationalen Klassikwelt nicht nur bekannt, sondern auch hoch geschätzt. Seberich hat mit Stars wie Luciano Pavarotti, Andrea Bocelli und Claudio Abbado zusammengearbeitet. Auch Orchester wie die Berliner Philharmoniker, die Wiener Symphoniker und das Londoner Sinfonieorchester, um einige zu nennen, haben seine Dienste in Anspruch genommen, um ihre Konzerte in den größten Hallen der Klassikwelt von ihm aufnehmen zu lassen.
+Michael Seberich hat seine eigene, spezielle Aufnahmetechnik entwickelt, die offensichtlich
+Früchte trägt. Er hat namhafte Künstler begleitet und unter anderem in Sidney, St. Petersburg,
+New York und London gearbeitet.
+Auch der Eppaner Peter Ghirardini genießt als Toningenieur einen exzellenten Ruf. Für seine
+Aufnahmen war er für höchste Auszeichnungen nominiert. Der Film "Auf der Weltbühne der Klassik" von Wolfgang Moser beschreibt die Arbeit der beiden, aber auch deren Leben. Sie sind weltweit unterwegs - und holen manchmal auch Stars der Klassik nach Südtirol.</desc>
+  </programme>
+  <programme start="20250829213400 +0200" stop="20250829215900 +0200" channel="Rai Südtirol">
+    <title>Der automobile Mensch - Südtirol</title>
+    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
+    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, die deutlich über die aktuellen politischen Zielsetzungen hinausgeht. Eine solche brauche es laut Seiß, wenn die Bemühungen um Klimaschutz, Boden- und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen.
+Seiß bringt in seinen filmischen Beobachtungen Beispiele aus Südtirol: Er beobachtet die Verkehrssituation auf der Brennerautobahn und auf den Grödner Passstraßen, und als Gegenbeispiel die Vinschger Bahn.
+Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
+  </programme>
+  <programme start="20250829221000 +0200" stop="20250829223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250830180000 +0200" stop="20250830184000 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Josef Erlacher - Der Erfolg liegt in deiner Hand</sub-title>
+    <desc>Er sieht fast nichts - und hat doch so viel gesehen: Josef Erlacher ist Paralympics-Medaillengewinner, Unternehmer, Keynote-Speaker und Autor. In Momentum erzählt er, wie er mit einem Zehntel Sehvermögen mit 120 km/h die Abfahrt hinunterfuhr, sein eigenes Unternehmen gründete und heute über 500 Firmen berät.
+Schon als Kind bekam er von seinen Eltern den Freiraum - und das Vertrauen -, sich eigene Strategien zu erarbeiten, um selbstständig durchs Leben zu gehen. 
+Mit 14 bekam er ein Motorrad, mit 11 stand er auf Skiern. Später wurde er zum Profi - im Sport, im Business, auf der Bühne.
+Was ihm dabei immer half - und woran auch wir uns orientieren können: Klarheit. Struktur. Und die Fähigkeit, trotz Unsicherheiten den eigenen Kurs zu halten. Denn ohne Orientierung - das zeigt Josef eindrucksvoll - kommen wir alle nicht voran.
+Ein Film über Mut, Selbstverantwortung - und darüber, wie man sieht, auch wenn man fast nichts sieht.</desc>
+  </programme>
+  <programme start="20250830184000 +0200" stop="20250830185710 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Klettersteig Hans Kammerlander</sub-title>
+    <desc>Der neue Klettersteig bei Ahornach oberhalb von Sand in Taufers hat es in sich. Er wird als einer der schwierigsten des gesamten Alpenraumes gehandelt. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger. Valeria Stuflesser und Simon Oberbacher, zwei Grödner Künstler, versuchen ihr Glück in der steilen Wand und unterhalten sich dabei über Kunst und Kultur. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
+Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20250830200000 +0200" stop="20250830202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250830202100 +0200" stop="20250830202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250830202500 +0200" stop="20250830205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Felix Taschler ist erster "Junggastwirt des Jahres", die Brunecker Senni Bar ist Südtirols beliebtestes Cafe, die neue Hängebrücke über das Marterloch als Attraktion zwischen Afing und dem Sarntal.
+
+Er ist jung, motiviert und voller Ideen: Felix Taschler aus Brixen wurde von der Hoteliers- und Gastwirtejugend Südtirols zum ersten "Junggastwirt des Jahres" gekürt. Der 36-Jährige ist Geschäftsführer des beliebten Restaurants Grissino in Brixen und leitet seit Jahren den Club Max - zwei Betriebe, die unterschiedlicher kaum sein könnten. Doch genau das macht seine Arbeit so besonders.
+Eine neue Attraktion bereichert das Sarntal und Jenesien. Die neue Hängebrücke über dem Marterloch verbindet Technik, Natur und Tourismus auf einzigartige Weise. Sie ist mit 272 Metern Länge und 130 Metern Höhe nun die längste und höchste Hängebrücke Südtirols. Im Willkommen Magazin zeigen wir, wie nachhaltiger Tourismus und regionale Entwicklung Hand in Hand gehen.
+Zum zweiten Mal wurden Südtirols beliebteste Bars und Cafés gekürt - über 24.000 Stimmen wurden heuer abgegeben, mehr als je zuvor. Landessieger wurde die "Senni Bar" in Bruneck. Ausgezeichnet wurde auch das „Weinhaus Punkt“ in Kaltern. Wir stellen beide Lokale näher vor.</desc>
+  </programme>
+  <programme start="20250830221000 +0200" stop="20250830223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
