@@ -4,63 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250822180000 +0200" stop="20250822182930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Das Pensionsalter, die Zukunft der Altkleidersammlung und innovative Technik "made in Südtirol".Wer darf wann und unter welchen Voraussetzungen in Rente gehen? Welche Dokumente sind dafür nötig? Und was finden Patronate mittlerweile online heraus? Wir klären, wer früher in Pension gehen kann - und beleuchten auch einen spannenden Aspekt: Was passiert, wenn man als Pensionist:in weiterarbeitet?
-Dann wagen wir eine Pensionssimulation: Mit einem speziellen Tool rechnen wir aus, wie hoch die Rente für jemanden ausfallen könnte, der in 10 Jahren in den Ruhestand tritt. Wir sprechen außerdem über das Nachkaufen von Studienjahren und Beitragslücken - und werfen einen kurzen Blick auf die Zusatzrente.
-Ein weiteres Thema betrifft viele Südtiroler:innen direkt: Die Caritas Südtirol stellt ihre Altkleidersammlung ein. Bis Ende 2025 verschwinden die bekannten Container aus dem Straßenbild. Wir erklären, warum, und zeigen auf, wo gut erhaltene Kleidung künftig landen kann.
-Außerdem ein Betriebsbesuch: Wir sind bei GKN Sinter Metall in Bruneck und Sand in Taufers - einem Hightech-Unternehmen, das Präzisionsbauteile für die Automobilindustrie fertigt und dabei stark auf Innovation setzt.</desc>
-  </programme>
-  <programme start="20250822182900 +0200" stop="20250822185830 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Kreative regionale Hüttenküche am Ritten und in Innichen, Kunst und Kultur im Hotel, das
-Rosarium Uhrerhof in Pufels als höchstgelegener Rosengarten Europas.
-Das Hotel- und Gastgewerbe spielt heute eine wichtige Rolle, wenn es um die Förderung von
-Kunst und Kultur geht. Im Maratscherhof in Algund etwa bietet Gastgeberin Doris Moser
-sogenannte Kunstzimmer an, die von Künstlern unterschiedlich gestaltet wurden, während im
-Hotel Muchele in Burgstall regelmäßig Ausstellungen mit zeitgenössischen Künstler:innen
-stattfinden. Ein weiteres Beispiel ist das Hotel Gartner in Dorf Tirol.
-Immer mehr Südtiroler Hütten überraschen ihre Gäste mit besonderen Gerichten und regionalen
-Produkten. Markus Holzer kombiniert auf der Jora Hütte bei Innichen seine Leidenschaft für
-Pasta mit Rindfleisch aus der Umgebung. Auf der Feltuner Hütte serviert Valentin Rabanser
-Lammgerichte aus lokaler Zucht und heimische Weine.
-In Pufels bei St. Ulrich lernen wir Lotte Zemmer kennen, pensionierte Gastwirtin und Hotelierin.
-Heute widmet sie sich ganz ihrem liebevoll angelegten Rosengarten. Das Rosarium Uhrerhof gilt
-als der höchstgelegene Rosengarten Europas und beherbergt über 6.000 Rosenstöcke in mehr
-als 250 Sorten. Ein besonderer Kraftplatz mitten in den Grödner Dolomiten.</desc>
-  </programme>
-  <programme start="20250822200000 +0200" stop="20250822202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250822202100 +0200" stop="20250822210030 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Barbara Prantl: Ein Leben voller Wendepunkte</sub-title>
-    <desc>Ein einzigartiger Einblick in ihr Leben, ihre Werte und ihre vielen Rollen als Mutter, Lehrerin und Künstlerin - immer geprägt von Humor, Leidenschaft und einem klaren Bekenntnis zu ihren Wurzeln.
-
-Sie ist eine der bekanntesten Kabarettistinnen, Religionslehrerinnen und Influencerinnen Südtirols. Wir begleiten Barbara auf ihrer Reise vom Tourette-Syndrom in der Kindheit über den beruflichen Werdegang als Geometerin bis hin zu ihrer erfolgreichen Karriere als Köchin und Kabarettistin. Mit ihrer wöchentlichen Kabarett-Sendung "So seg'n holt mirs" gemeinsam mit Ihrem Vater Dietmar Prantl und ihrer Leidenschaft für das Kochen hat sie sich einen Namen gemacht und inspiriert heute über 140.000 Follower in den Sozialen Medien. Neben ihrer Arbeit als Lehrerin und Influencerin betreut sie gemeinsam mit ihrem Mann den Leimgruber Hof, wo sie Ferienwohnungen verwaltet, und ihre Familie lebt.</desc>
-  </programme>
-  <programme start="20250822210000 +0200" stop="20250822215203 +0200" channel="Rai Südtirol">
-    <title>Über Südtirol</title>
-    <sub-title>Ein Land aus der Vogelsperspektive</sub-title>
-    <desc>Die klare Luft der Alpen und Höhenzüge nah am Himmel: Südtirol zeigt sich in der Dokumentation
-"Ein Land aus der Vogelperspektive" von seiner besten Seite. Die Flugreise, die von Burgschauspieler Peter Simonischek kommentiert und begleitet wird, zeigt Gipfel und Almen, kargen Fels und stürzende Bäche.
-Kurzum: Wir entdecken die bemerkenswerten Plätze einer Region aus der Luft. Simonischek erzählt Kurioses, Wissenswertes und Poetisches über ein Land, das bis zum Ende der Monarchie zu Österreich gehört hat. Regie: Georg Riha.</desc>
-  </programme>
-  <programme start="20250822215200 +0200" stop="20250822215818 +0200" channel="Rai Südtirol">
-    <title>Talente</title>
-    <sub-title>Nicholas Paltrinieri</sub-title>
-    <desc>Der Kalterer Schachmeister Nicholas Paltrinieri hat bereits mehrere Titel gewonnen. Er gewährt
-Einblick in die Denkweise eines Schachspielers und rechnet mit Vorurteilen ab.</desc>
-  </programme>
-  <programme start="20250822221000 +0200" stop="20250822223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250823180000 +0200" stop="20250823185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -323,6 +266,29 @@ Eine neue Attraktion bereichert das Sarntal und Jenesien. Die neue Hängebrücke
 Zum zweiten Mal wurden Südtirols beliebteste Bars und Cafés gekürt - über 24.000 Stimmen wurden heuer abgegeben, mehr als je zuvor. Landessieger wurde die "Senni Bar" in Bruneck. Ausgezeichnet wurde auch das „Weinhaus Punkt“ in Kaltern. Wir stellen beide Lokale näher vor.</desc>
   </programme>
   <programme start="20250830221000 +0200" stop="20250830223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250831200000 +0200" stop="20250831202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250831202100 +0200" stop="20250831205030 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Auf der Payerhütte</sub-title>
+    <desc>Seit 150 Jahren gibt es am Tabarettakamm am Fuß des Ortlers einen Stützpunkt für Bergsteiger: die Payerhütte. Wir beobachten den Hüttenalltag und erkunden selten begangene Zustiegswege.
+
+Als höchster Gipfel der Donaumonarchie war der Ortler schon vor dem Ersten Weltkrieg ein touristisches Sehnsuchtsziel...aber auch die Payerhütte war und ist noch heute viel besucht. Das Team der Sendereihe Bergwelt schaut zurück auf die Geschichte des Bergsteigens am Ortler Normalweg und blickt hinter die Kulissen des Hüttenalltags. 
+Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi und von Sulden aus.</desc>
+  </programme>
+  <programme start="20250831205000 +0200" stop="20250831205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250831221000 +0200" stop="20250831223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
