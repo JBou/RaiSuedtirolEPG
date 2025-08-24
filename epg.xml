@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250823180000 +0200" stop="20250823185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die multidisziplinäre Künstlerin Martine Mairhofer, "Der Sturm" der Freilichtspiele Südtiroler Unterland unter der Regie von Torsten Schilling, das Drama "Der Faulturm" über den Hutterer Prediger Hans Kral und die Ausstellung "Unteroberwasser" in der Kartause in Schnals sind Themen der Sendung.
-Zu Gast sind die Schauspielerin Patrizia Pfeifer und Andreas Cappello, künstlerischer Leiter des Südtirol Festivals. 
-Martine Mairhofer ist multidisziplinäre Künstlerin - am Theater. Sie hat wohl die Hochschule für Kostümdesign in Hannover abgeschlossen, versuchte sich auch im Schauspiel, in der Regie, in der Ausstattung, im Bühnenbild. 
-Die Pustertaler Theatergemeinschaft wagt sich anlässlich des fünfhundertjährigen Bestehens der Täuferbewegung an ein historisches Thema: Das Drama "Der Faulturm" handelt vom späteren Gesamtvorsteher der Hutterer in Mähren, dem Prediger Hans Kral. Er war von 1557 bis 1559 auf der Burg Taufers unter unmenschlichen Bedingungen in Gefangenschaft, konnte aber mit Hilfe von Sympathisanten aus Niederdorf fliehen. 30 Laienschauspielerinnen und -schauspieler aus dem Pustertal stehen beim Ansitz Hebenstreit in St. Lorenzen auf der Bühne.
-"Wir sind vom gleichen Stoff, aus dem die Träume sind", heißt es in William Shakespeares letztem Stück "Der Sturm". Es ist wohl sein poetisch bezauberndstes und vielschichtigstes Werk. Nach allerlei Verwicklungen siegt am Ende die Kraft der Liebe, der Vergebung und der Hoffnung auf einen verantwortungsvollen Umgang mit Macht und Natur.
-Anlässlich der Biennale Kunst in der Kartause kuratieren Lisa Mazza und Simone Mair von BAU - Institut für zeitgenössische Kunst und Ökologie die Ausstellung "Unteroberwasser". Die Ausstellung inspiriert sich vom Schwärmen, Lauschen und Spielen unserer Verwandten unter Wasser. Wie können andere Lebewesen unsere Lehrmeister:innen werden und Hoffnungsträger:innen sein?  
-Während der Corona-Pandemie hat die Gemeinde Brixen, um die lokalen Künstler:innen zu unterstützen, zeitgenössische Kunst angekauft. Die Werke sind nun in den Räumlichkeiten der Gemeinde zu sehen. Doch nicht alle sind glücklich damit. Ein Lokalaugenschein.</desc>
-  </programme>
-  <programme start="20250823200000 +0200" stop="20250823202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250823202100 +0200" stop="20250823202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250823202500 +0200" stop="20250823205430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>In Südtirol und in Italien kaum vertreten: das Islandpferd. Amelie von Longo züchtet in Neumarkt die Pferde mit der unverkennbar struppigen Wuschel-Mähne, ausgeglichenem Wesen und freundlichem Blick. Islandpferde beherrschen eine zusätzliche Gangart, die ein ganz besonderes Reiterlebnis garantiert und diese Pferde zu etwas Außergewöhnlichem macht.
-
-Greifvögel und Eulen aus nächster Nähe beobachten - das ist bei Matthias Pircher in Schenna möglich. Seit Jahrzehnten hält er diese majestätischen und geheimnisvollen Vögel, gibt Einblick in deren Lebensweise und zeigt uns deren beeindruckende Flugkünste.
-Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20250823221000 +0200" stop="20250823223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250824200000 +0200" stop="20250824202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
