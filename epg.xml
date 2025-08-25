@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250824200000 +0200" stop="20250824202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250824202100 +0200" stop="20250824210646 +0200" channel="Rai Südtirol">
-    <title>Erbe Österreich</title>
-    <sub-title>Wo die Liebe stärker war - Habsburgs unerwünschte Liaisonen</sub-title>
-    <desc>Die Heiratspolitik hatte Habsburg einst groß gemacht, aber sie erwies sich auch als Klotz am Bein, als die Zeiten moderner wurden. 
-
-Die Vorstellung, dass jemand nicht Hoffähiger einst auf dem österreichischen Thron sitzen könnte, ängstigte das Kaiserhaus mehr als alle tatsächlichen Herausforderungen des zu Ende gehenden monarchischen Zeitalters. Entsprechend rigoros ahndete es der Kaiser, wenn jemand aus seiner Familie das private Glück der Bürde seiner Erwähltheit vorzog. Erzherzog Johann, der sich mit der Postmeisterstochter Anna Plochl vermählte, und ebenso Erzherzog Franz Ferdinand, der die Gräfin Sophie Chotek zur Frau nahm, mussten beide für ihre Nachkommen auf die Thronfolge verzichten. Auch andere unerwünschte Liebschaften durchzogen die habsburgische Familiengeschichte.</desc>
-  </programme>
-  <programme start="20250824210600 +0200" stop="20250824211000 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250824221000 +0200" stop="20250824223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250825180000 +0200" stop="20250825181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
