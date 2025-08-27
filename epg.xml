@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250826200000 +0200" stop="20250826202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250826202000 +0200" stop="20250826203703 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>"Sonntagsspaziergang" am Greifenberg</sub-title>
-    <desc>So nennt sich die Felsroute oberhalb Siebeneich. Dort klettert Gesundheitsberaterin Christiane Gruber gemeinsam mit Bergführer Manfred Stuffer und findet unterwegs auch Kräuter für die Küche.
-
-Christiane Gruber ist Wanderführerin, Gesundheitsberaterin und Leiterin eines Weltladens. Beim Klettern am Greifenberg über Siebeneich erzählt sie uns, wie sie im Alltag ihren Weg zum ökologischen Gleichgewicht findet. Geführt von Bergfüher Manfred Stuffer steigt sie in den sogenannten "Sonntagsspaziergang" ein, eine Felsroute an den Bozner Porphyr-Wänden des Greifenberges.</desc>
-  </programme>
-  <programme start="20250826203700 +0200" stop="20250826205130 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am zweiten Spieltag im Italienpokal der Oberliga greift erstmals auch der letztjährige Landesliga-Vizemeister und Aufsteiger Gröden ins Geschehen ein. Die Ladiner treffen auf den Sieger der Partie Partschins gegen Ahrntal. 
-Im Volksbank-Landespokal kommt es zu den Derbys Natz gegen Gitschberg Jochtal und Latsch gegen Olimpia Meran.</desc>
-  </programme>
-  <programme start="20250826221000 +0200" stop="20250826223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250827200000 +0200" stop="20250827202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
