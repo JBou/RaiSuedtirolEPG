@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250827200000 +0200" stop="20250827202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250827202000 +0200" stop="20250827204500 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben.
-
-Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. Er soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen. 
-Im anschließenden Gespräch erzählt der langjährige Obmann des Bäuerlichen Notstandsfonds Sepp Dariz, wie viele Menschen bisher Hilfe erfahren haben, und was ihn und seine Mitarbeiterinnen im BNF in all den Jahren am meisten motiviert hat, diesen ehrenamtlichen Einsatz zu leisten.</desc>
-  </programme>
-  <programme start="20250827204500 +0200" stop="20250827205018 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title/>
-    <desc>In vielen Bereichen des Alltags und der Arbeitswelt finden wir digitale Erneuerungen. Auch in der Landwirtschaft schreitet die Digitalisierung voran. Eine Software soll Obstbauern beispielsweise dabei behilflich sein, bessere und stabilere Erträge zu erzielen. 
-Wir erfahren, was Künstliche Intelligenz und Bilderkennung in den Apfelwiesen und im Weinberg konkret verbessern können.</desc>
-  </programme>
-  <programme start="20250827221000 +0200" stop="20250827223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250828200000 +0200" stop="20250828202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
