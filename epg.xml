@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250828200000 +0200" stop="20250828202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250828202000 +0200" stop="20250828204900 +0200" channel="Rai Südtirol">
-    <title>Das Thema: Leben in Rollen</title>
-    <sub-title/>
-    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlung
-von Andreas Niederkofler.
-
-Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront.
-Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
-  </programme>
-  <programme start="20250828221000 +0200" stop="20250828223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250829175900 +0200" stop="20250829183839 +0200" channel="Rai Südtirol">
     <title>Marling</title>
     <sub-title>Begegnungen</sub-title>
@@ -135,6 +116,180 @@ Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi un
     <desc/>
   </programme>
   <programme start="20250831221000 +0200" stop="20250831223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250901175900 +0200" stop="20250901181330 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga ist man besonders auf das Debüt der beiden Aufsteiger gespannt: Landesliga-Meister Ahrntal kehrt nach zehn Jahren wieder in die höchste Spielklasse der Amateure zurück, Gröden spielt hingegen erstmals in der Vereinsgeschichte in der Oberliga.</desc>
+  </programme>
+  <programme start="20250901181300 +0200" stop="20250901182739 +0200" channel="Rai Südtirol">
+    <title>Grüne Begleiter</title>
+    <sub-title>Die Vogelbeere</sub-title>
+    <desc>Mit ihren prallroten Früchten ist die Vogelbeere oder Eberesche im Spätsommer und Herbst
+unübersehbar. Tiere und Menschen werden gleichermaßen von den Beeren angelockt, die nicht
+nur interessant schmecken, sondern auch viele gesunde Inhaltsstoffe haben. Aus der bäuerlichen Tradition sind sie nicht wegzudenken. Zur selben Baumgattung gehören auch drei eher unbekannte, botanisch interessante "Geschwister": die Mehlbeere, die Elsbeere und der Speierling. Sie sind in Südtirol vor allem im klimatisch milden Unterland zu finden.</desc>
+  </programme>
+  <programme start="20250901182800 +0200" stop="20250901185300 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben. Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. Er soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen. 
+Im anschließenden Gespräch erzählt der langjährige Obmann des Bäuerlichen Notstandsfonds Sepp Dariz, wie viele Menschen bisher Hilfe erfahren haben, und was ihn und seine Mitarbeiterinnen im BNF in all den Jahren am meisten motiviert hat, diesen ehrenamtlichen Einsatz zu leisten.</desc>
+  </programme>
+  <programme start="20250901185300 +0200" stop="20250901185850 +0200" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title>Bauwesen</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250901200000 +0200" stop="20250901202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250901202000 +0200" stop="20250901215838 +0200" channel="Rai Südtirol">
+    <title>Ein Hund kam in die Küche</title>
+    <sub-title>Logenplatz Rai Südtirol</sub-title>
+    <desc>Aus der Perspektive eines Kindes blickt der Autor Sepp Mall auf historische Ereignisse in Zeiten von Krieg und Nationalsozialismus. In einer Bühnenfassung von Regisseur Peter Lorenz.
+
+Ein Stück über Heimatsuche, das Abschiednehmen und das Finden von etwas Neuem. Die Familie des 11-jährigen Ludi (Fabian Mair Mitterer) wandert 1942 im Zuge der Option ins Deutsche Reich aus. Ludis jüngerer Bruder Hanno ist beeinträchtigt und muss in eine Heil- und Pflegeanstalt. Die Familie wandert indes weiter nach Sonnau im Reichsgau Oberdonau. Der Vater wird in die Wehrmacht eingezogen, die Mutter sehnt sich zurück in die Heimat. Ludi findet einen neuen Freund, Siegfried (Lukas Lobis) mit dem er über Dinge nachdenken kann, worüber sonst niemand spricht. Eines Tages wird der Familie mitgeteilt, ihr Sohn Hanno sei gestorben. 
+Ein Stück über Heimatsuche, das Abschiednehmen und das Finden von etwas Neuem. Regisseur Peter Lorenz verbindet Text, Musik und Tanz, um den Roman mit viel Feingefühl im Theater zu erzählen. Musikerin Maria Moling untermalt das Spiel auf der Bühne mit einem faszinierenden Klangteppich.</desc>
+  </programme>
+  <programme start="20250901221000 +0200" stop="20250901223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250902200000 +0200" stop="20250902202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250902202000 +0200" stop="20250902203500 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Brunnenburg</sub-title>
+    <desc>Die Brunnenburg in Dorf Tirol beherbergt ein Landwirtschaftsmuseum, ist aber auch Erinnerungsort an den bekannten amerikanischen Dichter Ezra Pound, der hier gelebt hat.
+
+Die Brunnenburg wurde um 1250 von Wilhelm Tarant in unmittelbarer Nähe von Schloss Tirol erbaut. Nachdem sie im Laufe der Jahrhunderte verfallen war, wurde sie 1900 im historisierenden Stil wieder aufgebaut.
+Als ehemaliger Wohnort des amerikanischen Dichters Ezra Pound wird das Schloss heute von der Familie de Rachewiltz, den Erben des Dichters, geführt.
+Das umfangreiche Landwirtschaftsmuseum, das heute hier untergebracht ist, ist das Ergebnis jahrelanger Forschung und Sammlung verschiedener Objekte und bietet einen Einblick in das Leben der früheren Südtiroler Bergbauern und Gewerbetreibenden. 
+Die Brunnenburg ist aber auch ein Ort der Erinnerung an Ezra Pound und ein Zentrum für kulturelle Begegnungen. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20250902203500 +0200" stop="20250902204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga ist man besonders auf das Debüt der beiden Aufsteiger gespannt: Landesliga-Meister Ahrntal kehrt nach zehn Jahren wieder in die höchste Spielklasse der Amateure zurück, Gröden spielt hingegen erstmals in der Vereinsgeschichte in der Oberliga.</desc>
+  </programme>
+  <programme start="20250902221000 +0200" stop="20250902223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250903200000 +0200" stop="20250903202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250903202000 +0200" stop="20250903204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung.
+In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
+In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
+Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann.</desc>
+  </programme>
+  <programme start="20250903221000 +0200" stop="20250903223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250904200000 +0200" stop="20250904202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250904202000 +0200" stop="20250904204930 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Max am Limit</sub-title>
+    <desc>Max von Milland wagt sich an eine Challenge der Extraklasse: Mit einem Rennwagen einen perfekten Drift hinlegen - eine Disziplin, die in der Motorsportwelt als wahre Königsprüfung gilt.
+
+Doch bevor Max den Asphalt zum Glühen bringen darf, wartet noch eine zusätzliche Hürde: Max muss den Rennwagen, mit dem er driften soll, erst einmal eigenhändig zusammenbauen.
+Ob er am Ende souverän um die Kurve gleitet oder eher mehr den Schraubenschlüssel als das Lenkrad in der Hand hält, sehen Sie in der neuesten Folge SchachMax - nur auf RAI Südtirol.</desc>
+  </programme>
+  <programme start="20250904221000 +0200" stop="20250904223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250905180000 +0200" stop="20250905182930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Auf der Payerhütte</sub-title>
+    <desc>Seit 150 Jahren gibt es am Tabarettakamm am Fuß des Ortlers einen Stützpunkt für Bergsteiger: die Payerhütte. Wir beobachten den Hüttenalltag und erkunden selten begangene Zustiegswege.
+Als höchster Gipfel der Donaumonarchie war der Ortler schon vor dem Ersten Weltkrieg ein touristisches Sehnsuchtsziel...aber auch die Payerhütte war und ist noch heute viel besucht. Das Team der Sendereihe Bergwelt schaut zurück auf die Geschichte des Bergsteigens am Ortler Normalweg und blickt hinter die Kulissen des Hüttenalltags. 
+Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi und von Sulden aus.</desc>
+  </programme>
+  <programme start="20250905182900 +0200" stop="20250905185830 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung. In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
+In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
+Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann.</desc>
+  </programme>
+  <programme start="20250905200000 +0200" stop="20250905202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250905202100 +0200" stop="20250905212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Im Oberpustertal erkunden wir die unterschiedlichen Chorklänge und die Kraft des gemeinsamen Singens. Bei einer Wanderung im Ultental entdecken wir Natur, Kultur und viel Geschichte. 
+
+Magdalena Oberstaller ist in Sexten und Welsberg unterwegs und lauscht den wunderbaren Klängen diverser Chöre aus dem In- und Ausland. Wir erfahren mehr über die Wurzeln der Chorkultur, besuchen eine kurzweilige Chorprobe in Brixen und erleben, welche tiefgreifende Wirkung das gemeinsame Singen haben kann.
+Anschließend erkundet Theo Hendrich mit Wanderführerin Birgit Lösch das Ultental und kommt dabei an urigen Bauernhöfen vorbei, an den Urlärchen und an einer historischen Villa, außerdem trifft er eine Ultner Ziegenbäuerin.</desc>
+  </programme>
+  <programme start="20250905212000 +0200" stop="20250905212808 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250905212800 +0200" stop="20250905215810 +0200" channel="Rai Südtirol">
+    <title>Der automobile Mensch - Österreich</title>
+    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
+    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, die deutlich über die aktuellen politischen Zielsetzungen hinausgeht. Eine solche brauche es laut Seiß, wenn die Bemühungen um Klimaschutz, Boden- und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen.
+Seiß bringt in seinen filmischen Beobachtungen Beispiele aus Österreich.
+Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
+  </programme>
+  <programme start="20250905221000 +0200" stop="20250905223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Im Oberpustertal erkunden wir die unterschiedlichen Chorklänge und die Kraft des gemeinsamen Singens. Bei einer Wanderung im Ultental entdecken wir Natur, Kultur und viel Geschichte. Magdalena Oberstaller ist in Sexten und Welsberg unterwegs und lauscht den wunderbaren Klängen diverser Chöre aus dem In- und Ausland. Wir erfahren mehr über die Wurzeln der Chorkultur, besuchen eine kurzweilige Chorprobe in Brixen und erleben, welche tiefgreifende Wirkung das gemeinsame Singen haben kann.
+Anschließend erkundet Theo Hendrich mit Wanderführerin Birgit Lösch das Ultental und kommt dabei an urigen Bauernhöfen vorbei, an den Urlärchen und an einer historischen Villa, außerdem trifft er eine Ultner Ziegenbäuerin.</desc>
+  </programme>
+  <programme start="20250906200000 +0200" stop="20250906202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250906202100 +0200" stop="20250906202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250906202500 +0200" stop="20250906205519 +0200" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Genf</sub-title>
+    <desc>Ein kultureller Streifzug durch die stylische Metropole, die viele Überraschungen bereithält jenseits vom diplomatischen Parkett: Genf hat auch französische Küche, Schokolade und edle Uhren. 
+Genf ist mehr als UN und Ort der politischen Diplomatie. Genf steht vor allem für Uhren, aber auch für Schokolade und französische Kulinarik. In jeder Gasse, in jedem Geschäft spürt man den französischen Einfluss - und der bekommt der Stadt sehr gut. 
+Die Dokumentation wirft einen Blick hinter die Kulissen - wir erleben Genf jenseits von Politik, Staatsgästen und pompösen Auftritten. Es sind die kleinen versteckten Geschichten, die der Stadt letztlich ihren Charme und Charakter verleihen.</desc>
+  </programme>
+  <programme start="20250906221000 +0200" stop="20250906223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
