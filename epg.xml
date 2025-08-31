@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250830180000 +0200" stop="20250830184000 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Josef Erlacher - Der Erfolg liegt in deiner Hand</sub-title>
-    <desc>Er sieht fast nichts - und hat doch so viel gesehen: Josef Erlacher ist Paralympics-Medaillengewinner, Unternehmer, Keynote-Speaker und Autor. In Momentum erzählt er, wie er mit einem Zehntel Sehvermögen mit 120 km/h die Abfahrt hinunterfuhr, sein eigenes Unternehmen gründete und heute über 500 Firmen berät.
-Schon als Kind bekam er von seinen Eltern den Freiraum - und das Vertrauen -, sich eigene Strategien zu erarbeiten, um selbstständig durchs Leben zu gehen. 
-Mit 14 bekam er ein Motorrad, mit 11 stand er auf Skiern. Später wurde er zum Profi - im Sport, im Business, auf der Bühne.
-Was ihm dabei immer half - und woran auch wir uns orientieren können: Klarheit. Struktur. Und die Fähigkeit, trotz Unsicherheiten den eigenen Kurs zu halten. Denn ohne Orientierung - das zeigt Josef eindrucksvoll - kommen wir alle nicht voran.
-Ein Film über Mut, Selbstverantwortung - und darüber, wie man sieht, auch wenn man fast nichts sieht.</desc>
-  </programme>
-  <programme start="20250830184000 +0200" stop="20250830185710 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Klettersteig Hans Kammerlander</sub-title>
-    <desc>Der neue Klettersteig bei Ahornach oberhalb von Sand in Taufers hat es in sich. Er wird als einer der schwierigsten des gesamten Alpenraumes gehandelt. Dieser Klettersteig mit seinen steilen, kraftraubenden Passagen ist eine Herausforderung für erfahrene, konditionell gut vorbereitete Bergsteiger. Valeria Stuflesser und Simon Oberbacher, zwei Grödner Künstler, versuchen ihr Glück in der steilen Wand und unterhalten sich dabei über Kunst und Kultur. Mit dabei ist Manfred Stuffer, Bergführer aus Gröden.
-Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20250830200000 +0200" stop="20250830202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250830202100 +0200" stop="20250830202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250830202500 +0200" stop="20250830205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Felix Taschler ist erster "Junggastwirt des Jahres", die Brunecker Senni Bar ist Südtirols beliebtestes Cafe, die neue Hängebrücke über das Marterloch als Attraktion zwischen Afing und dem Sarntal.
-
-Er ist jung, motiviert und voller Ideen: Felix Taschler aus Brixen wurde von der Hoteliers- und Gastwirtejugend Südtirols zum ersten "Junggastwirt des Jahres" gekürt. Der 36-Jährige ist Geschäftsführer des beliebten Restaurants Grissino in Brixen und leitet seit Jahren den Club Max - zwei Betriebe, die unterschiedlicher kaum sein könnten. Doch genau das macht seine Arbeit so besonders.
-Eine neue Attraktion bereichert das Sarntal und Jenesien. Die neue Hängebrücke über dem Marterloch verbindet Technik, Natur und Tourismus auf einzigartige Weise. Sie ist mit 272 Metern Länge und 130 Metern Höhe nun die längste und höchste Hängebrücke Südtirols. Im Willkommen Magazin zeigen wir, wie nachhaltiger Tourismus und regionale Entwicklung Hand in Hand gehen.
-Zum zweiten Mal wurden Südtirols beliebteste Bars und Cafés gekürt - über 24.000 Stimmen wurden heuer abgegeben, mehr als je zuvor. Landessieger wurde die "Senni Bar" in Bruneck. Ausgezeichnet wurde auch das „Weinhaus Punkt“ in Kaltern. Wir stellen beide Lokale näher vor.</desc>
-  </programme>
-  <programme start="20250830221000 +0200" stop="20250830223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250831200000 +0200" stop="20250831202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
