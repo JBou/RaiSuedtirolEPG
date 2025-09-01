@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250831200000 +0200" stop="20250831202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250831202100 +0200" stop="20250831205030 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Auf der Payerhütte</sub-title>
-    <desc>Seit 150 Jahren gibt es am Tabarettakamm am Fuß des Ortlers einen Stützpunkt für Bergsteiger: die Payerhütte. Wir beobachten den Hüttenalltag und erkunden selten begangene Zustiegswege.
-
-Als höchster Gipfel der Donaumonarchie war der Ortler schon vor dem Ersten Weltkrieg ein touristisches Sehnsuchtsziel...aber auch die Payerhütte war und ist noch heute viel besucht. Das Team der Sendereihe Bergwelt schaut zurück auf die Geschichte des Bergsteigens am Ortler Normalweg und blickt hinter die Kulissen des Hüttenalltags. 
-Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi und von Sulden aus.</desc>
-  </programme>
-  <programme start="20250831205000 +0200" stop="20250831205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250831221000 +0200" stop="20250831223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250901175900 +0200" stop="20250901181330 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
