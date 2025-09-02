@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250901175900 +0200" stop="20250901181330 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga ist man besonders auf das Debüt der beiden Aufsteiger gespannt: Landesliga-Meister Ahrntal kehrt nach zehn Jahren wieder in die höchste Spielklasse der Amateure zurück, Gröden spielt hingegen erstmals in der Vereinsgeschichte in der Oberliga.</desc>
-  </programme>
-  <programme start="20250901181300 +0200" stop="20250901182739 +0200" channel="Rai Südtirol">
-    <title>Grüne Begleiter</title>
-    <sub-title>Die Vogelbeere</sub-title>
-    <desc>Mit ihren prallroten Früchten ist die Vogelbeere oder Eberesche im Spätsommer und Herbst
-unübersehbar. Tiere und Menschen werden gleichermaßen von den Beeren angelockt, die nicht
-nur interessant schmecken, sondern auch viele gesunde Inhaltsstoffe haben. Aus der bäuerlichen Tradition sind sie nicht wegzudenken. Zur selben Baumgattung gehören auch drei eher unbekannte, botanisch interessante "Geschwister": die Mehlbeere, die Elsbeere und der Speierling. Sie sind in Südtirol vor allem im klimatisch milden Unterland zu finden.</desc>
-  </programme>
-  <programme start="20250901182800 +0200" stop="20250901185300 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben. Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. Er soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen. 
-Im anschließenden Gespräch erzählt der langjährige Obmann des Bäuerlichen Notstandsfonds Sepp Dariz, wie viele Menschen bisher Hilfe erfahren haben, und was ihn und seine Mitarbeiterinnen im BNF in all den Jahren am meisten motiviert hat, diesen ehrenamtlichen Einsatz zu leisten.</desc>
-  </programme>
-  <programme start="20250901185300 +0200" stop="20250901185850 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title>Bauwesen</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250901200000 +0200" stop="20250901202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250901202000 +0200" stop="20250901215838 +0200" channel="Rai Südtirol">
-    <title>Ein Hund kam in die Küche</title>
-    <sub-title>Logenplatz Rai Südtirol</sub-title>
-    <desc>Aus der Perspektive eines Kindes blickt der Autor Sepp Mall auf historische Ereignisse in Zeiten von Krieg und Nationalsozialismus. In einer Bühnenfassung von Regisseur Peter Lorenz.
-
-Ein Stück über Heimatsuche, das Abschiednehmen und das Finden von etwas Neuem. Die Familie des 11-jährigen Ludi (Fabian Mair Mitterer) wandert 1942 im Zuge der Option ins Deutsche Reich aus. Ludis jüngerer Bruder Hanno ist beeinträchtigt und muss in eine Heil- und Pflegeanstalt. Die Familie wandert indes weiter nach Sonnau im Reichsgau Oberdonau. Der Vater wird in die Wehrmacht eingezogen, die Mutter sehnt sich zurück in die Heimat. Ludi findet einen neuen Freund, Siegfried (Lukas Lobis) mit dem er über Dinge nachdenken kann, worüber sonst niemand spricht. Eines Tages wird der Familie mitgeteilt, ihr Sohn Hanno sei gestorben. 
-Ein Stück über Heimatsuche, das Abschiednehmen und das Finden von etwas Neuem. Regisseur Peter Lorenz verbindet Text, Musik und Tanz, um den Roman mit viel Feingefühl im Theater zu erzählen. Musikerin Maria Moling untermalt das Spiel auf der Bühne mit einem faszinierenden Klangteppich.</desc>
-  </programme>
-  <programme start="20250901221000 +0200" stop="20250901223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250902200000 +0200" stop="20250902202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -78,10 +37,12 @@ Die Brunnenburg ist aber auch ein Ort der Erinnerung an Ezra Pound und ein Zentr
   <programme start="20250903202000 +0200" stop="20250903204930 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung.
+    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung und AMG-Mercedes sorgt zusammen mit Schnellladesäulen-Hersteller Alpitronic für Weltrekorde in der Elektromobilität.
+
 In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
 In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
-Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann.</desc>
+Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann. 
+Das Bozner Unternehmer Alpitronic, Hersteller von Schnelllade-Infrastruktur für die Elektromobilität, hat als Partner von AMG-Mercedes auf der Autoteststrecke von Nardò in Apulien einen neuen Ausdauer-Rekord für Elektroautos ermöglicht. In unter 8 Tagen einmal um den Erdkreis, das sind mehr als 40.OOO Km. Innovationen von Alpitronic im Bereich des schnellen Ladens werden, wie die Technologieneuheiten im Rekordfahrzeug selbst, bald in den Serieprodukten zu sehen sein.</desc>
   </programme>
   <programme start="20250903221000 +0200" stop="20250903223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
@@ -116,9 +77,10 @@ Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi un
   <programme start="20250905182900 +0200" stop="20250905185830 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung. In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
+    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung und AMG-Mercedes sorgt zusammen mit Schnellladesäulen-Hersteller Alpitronic für Weltrekorde in der Elektromobilität. In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
 In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
-Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann.</desc>
+Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann. 
+Das Bozner Unternehmer Alpitronic, Hersteller von Schnelllade-Infrastruktur für die Elektromobilität, hat als Partner von AMG-Mercedes auf der Autoteststrecke von Nardò in Apulien einen neuen Ausdauer-Rekord für Elektroautos ermöglicht. In unter 8 Tagen einmal um den Erdkreis, das sind mehr als 40.OOO Km. Innovationen von Alpitronic im Bereich des schnellen Ladens werden, wie die Technologieneuheiten im Rekordfahrzeug selbst, bald in den Serieprodukten zu sehen sein.</desc>
   </programme>
   <programme start="20250905200000 +0200" stop="20250905202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
