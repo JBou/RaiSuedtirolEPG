@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250902200000 +0200" stop="20250902202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250902202000 +0200" stop="20250902203500 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>Brunnenburg</sub-title>
-    <desc>Die Brunnenburg in Dorf Tirol beherbergt ein Landwirtschaftsmuseum, ist aber auch Erinnerungsort an den bekannten amerikanischen Dichter Ezra Pound, der hier gelebt hat.
-
-Die Brunnenburg wurde um 1250 von Wilhelm Tarant in unmittelbarer Nähe von Schloss Tirol erbaut. Nachdem sie im Laufe der Jahrhunderte verfallen war, wurde sie 1900 im historisierenden Stil wieder aufgebaut.
-Als ehemaliger Wohnort des amerikanischen Dichters Ezra Pound wird das Schloss heute von der Familie de Rachewiltz, den Erben des Dichters, geführt.
-Das umfangreiche Landwirtschaftsmuseum, das heute hier untergebracht ist, ist das Ergebnis jahrelanger Forschung und Sammlung verschiedener Objekte und bietet einen Einblick in das Leben der früheren Südtiroler Bergbauern und Gewerbetreibenden. 
-Die Brunnenburg ist aber auch ein Ort der Erinnerung an Ezra Pound und ein Zentrum für kulturelle Begegnungen. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20250902203500 +0200" stop="20250902204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vor zwei Wochen ist der Südtiroler Amateurfußball mit den Pokalspielen in die neue Saison gestartet, jetzt beginnen auch die Meisterschaften. In der Oberliga ist man besonders auf das Debüt der beiden Aufsteiger gespannt: Landesliga-Meister Ahrntal kehrt nach zehn Jahren wieder in die höchste Spielklasse der Amateure zurück, Gröden spielt hingegen erstmals in der Vereinsgeschichte in der Oberliga.</desc>
-  </programme>
-  <programme start="20250902221000 +0200" stop="20250902223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250903200000 +0200" stop="20250903202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
