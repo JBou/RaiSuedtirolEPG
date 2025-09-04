@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250903200000 +0200" stop="20250903202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250903202000 +0200" stop="20250903204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung und AMG-Mercedes sorgt zusammen mit Schnellladesäulen-Hersteller Alpitronic für Weltrekorde in der Elektromobilität.
-
-In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
-In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
-Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann. 
-Das Bozner Unternehmer Alpitronic, Hersteller von Schnelllade-Infrastruktur für die Elektromobilität, hat als Partner von AMG-Mercedes auf der Autoteststrecke von Nardò in Apulien einen neuen Ausdauer-Rekord für Elektroautos ermöglicht. In unter 8 Tagen einmal um den Erdkreis, das sind mehr als 40.OOO Km. Innovationen von Alpitronic im Bereich des schnellen Ladens werden, wie die Technologieneuheiten im Rekordfahrzeug selbst, bald in den Serieprodukten zu sehen sein.</desc>
-  </programme>
-  <programme start="20250903221000 +0200" stop="20250903223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250904200000 +0200" stop="20250904202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
