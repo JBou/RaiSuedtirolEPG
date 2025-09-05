@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250904200000 +0200" stop="20250904202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250904202000 +0200" stop="20250904204930 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Max am Limit</sub-title>
-    <desc>Max von Milland wagt sich an eine Challenge der Extraklasse: Mit einem Rennwagen einen perfekten Drift hinlegen - eine Disziplin, die in der Motorsportwelt als wahre Königsprüfung gilt.
-
-Doch bevor Max den Asphalt zum Glühen bringen darf, wartet noch eine zusätzliche Hürde: Max muss den Rennwagen, mit dem er driften soll, erst einmal eigenhändig zusammenbauen.
-Ob er am Ende souverän um die Kurve gleitet oder eher mehr den Schraubenschlüssel als das Lenkrad in der Hand hält, sehen Sie in der neuesten Folge SchachMax - nur auf RAI Südtirol.</desc>
-  </programme>
-  <programme start="20250904221000 +0200" stop="20250904223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250905180000 +0200" stop="20250905182930 +0200" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title>Auf der Payerhütte</sub-title>
@@ -120,6 +102,194 @@ In df-Info: Horchen und Lauschen - eine sinnliche Spurensuche in Buchform und ei
     <desc/>
   </programme>
   <programme start="20250907221000 +0200" stop="20250907223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250908180000 +0200" stop="20250908181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>2. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby dieser Runde empfängt Partschins den Bozner FC. In der Landesliga trifft Aufsteiger Freienfeld auf Absteiger Stegen, während Terlan zu Hause Tscherms Marling zu Gast hat.</desc>
+  </programme>
+  <programme start="20250908181400 +0200" stop="20250908182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Sportkids "Surfen"</sub-title>
+    <desc>In Kaltern wird Windsurfen großgeschrieben und viele Kinder aus der Gegend trainieren mehrmals pro Woche am See um sich auf die großen Wettkämpfe vorzubereiten, wie die Italienmeisterschaft, die vor kurzem am Gardasee stattgefunden hat. Wie so ein Training abläuft und was die Kinder am Gardasee erlebt haben, zeigt diese Folge der "Sportkids".</desc>
+  </programme>
+  <programme start="20250908182900 +0200" stop="20250908185900 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Max am Limit</sub-title>
+    <desc>Max von Milland wagt sich an eine Challenge der Extraklasse: Mit einem Rennwagen einen perfekten Drift hinlegen - eine Disziplin, die in der Motorsportwelt als wahre Königsprüfung gilt. Doch bevor Max den Asphalt zum Glühen bringen darf, wartet noch eine zusätzliche Hürde: Max muss den Rennwagen, mit dem er driften soll, erst einmal eigenhändig zusammenbauen.
+Ob er am Ende souverän um die Kurve gleitet oder eher mehr den Schraubenschlüssel als das Lenkrad in der Hand hält, sehen Sie in der neuesten Folge SchachMax - nur auf RAI Südtirol.</desc>
+  </programme>
+  <programme start="20250908200000 +0200" stop="20250908202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250908202000 +0200" stop="20250908211930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Tänzerin, Performerin und Choreographin Miriam Taschler, die Schauspielerin Hanenn Huber, 25 Jahre Festival Transart und ein Rückblick auf 40 Jahre Literatur Lana sind Themen der Sendung. 
+
+Zu Gast sind die Schauspielerin Karin Verdorfer und Isabel Goller, Harfenistin bei Südtirol Filarmonica.  Die Tänzerin, Performerin und Choreographin Miriam Taschler ist 1994 in Toblach geboren, mit 16 kam sie über einen Sommerjob nach London und blieb spontan dort, maturierte an einer Schule für Tanz, schloss ein Studium der Sozialpsychologie ab, ging nach Berlin, wo sie fand, was sie suchte: zeitgenössischer Tanz, in dem Körper, Gedanken und Gefühle eins zu werden scheinen. Die Rolle als Luftgeist Ariel im Stück Der Sturm der Freilichtspiele Südtiroler Unterland war die erste Produktion, die sie seit 2010 wieder für längere Zeit nach Südtirol führte. 
+Die Grödnerin Hanenn Huber wollte ans Theater, seit sie sich erinnern kann. Nach Abschluss der Schauspiel Akademie in München spielte sie bei den Freilichtspielen Lana, bei den Sommerspielen am Ritten, heuer auf Schloss Tirol, im Theater in der Altstadt, in Bruneck, bei den Vereinigten Bühnen Bozen. Nun ist sie beim Entwerfen einer Theaterinitiative in der Basis Vinschgau in´Schlanders.
+Mit einem poetischen Gastmahl und dem Motto "Alles wiederholt sich" feierten die Literaturtage Lana Ende August ihren 40. Geburtstag. Das Fest war wie die Literaturtage selbst, ein Ort der Begegnung und des Austausches.  
+25 Jahre Festival Transart werden heuer im September gefeiert. Das Festival, das vor 25 Jahren in der Bozner Industriezone gestartet ist, ist mittlerweile ein wichtiger Bestandteil des Südtirol Kulturlebens. Ein Rückblick. 
+Noch bis zum 23. November bleibt die Architekturbiennale in Venedig geöffnet. Der in Brixen geborene und in Wien wohnhafte Architekt Michael Obrist ist Teil des Kuratorenteams des österreichischen Pavillons. Thema ist der kommunale Wohnbau in Wien.</desc>
+  </programme>
+  <programme start="20250908212000 +0200" stop="20250908213500 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Angelika König und Simone Mayr "karten" in dieser Episode das Südtiroler Kultspiel Blindwatten.
+Schianere oder Schlagtausch? Blind oder offen? Bis 11,15 oder 18? Mit dem Guaten oder dem Superguaten? Nahezu jede Talschaft in Südtirol hat ihre eigene Variante, zudem bringt das Watten auch Generationen zusammen: vergnüglich oder mit Geschimpfe. Gespielt wird Watten seit den Napoleonischen Kriegen, oder vielleicht schon früher, wie das Bonmot vermuten lässt: "Schon Adam wattete mies, drum fiel er aus dem Paradies".</desc>
+  </programme>
+  <programme start="20250908213500 +0200" stop="20250908215157 +0200" channel="Rai Südtirol">
+    <title>Egon Rusina</title>
+    <sub-title>Die Ahnung vom unendlich leeren Raum</sub-title>
+    <desc>Zwischen Gesellschaftskritik und Naturliebe: Der Grödner Künstler Egon Moroder Rusina entwickelte sich von der Karikatur über den phantastischen Realismus bis hin zur monochromen Malerei, die für ihn Ruhe, Tod und Unendlichkeit der Natur darstellt. "Ich sitze lieber drei Jahre vor einem Berg als vor einem erotischen Bild", sagt der Grödner, der einen eigenwilligen und mitunter extravaganten Lebensstil wählt.</desc>
+  </programme>
+  <programme start="20250908215100 +0200" stop="20250908215820 +0200" channel="Rai Südtirol">
+    <title>Junge Talente</title>
+    <sub-title>Die Musikerin und Sängerin Emily Ferri</sub-title>
+    <desc>Emily Ferri aus Eppan ist Liedermacherin aus Leidenschaft. Sie möchte ihren Gedanken und
+Gefühlen Ausdruck verleihen und mit ihrem Publikum eine Reise zu sich selbst unternehmen.</desc>
+  </programme>
+  <programme start="20250908221000 +0200" stop="20250908223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250909200000 +0200" stop="20250909202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250909202000 +0200" stop="20250909203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250909203500 +0200" stop="20250909204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>2. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby dieser Runde empfängt Partschins den Bozner FC. In der Landesliga trifft Aufsteiger Freienfeld auf Absteiger Stegen, während Terlan zu Hause Tscherms Marling zu Gast hat.</desc>
+  </programme>
+  <programme start="20250909221000 +0200" stop="20250909223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250910200000 +0200" stop="20250910202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250910202000 +0200" stop="20250910204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wir berichten wir von einer Südtiroler Familie, die beim Online-Trading mehr als 20.000 Euro verloren hat. Ein Betroffener schildert seine Erfahrungen und Gunde Bauhofer von der Verbraucherzentrale erklärt, wie man sich vor solchen Betrugsmaschen schützen kann.
+
+Doch damit nicht genug: Häufig tauchen nach solchen Fällen auch dubiose "Rechtsberater" auf, die schnelle und sichere Geldversprechen machen - und den Betroffenen erneut das Letzte abnehmen.
+Seit diesem Jahr gilt für junge Autofahrerinnen und Autofahrer eine verlängerte Probezeit von drei Jahren. Erlaubt sind Fahrzeuge mit etwas mehr Leistung, gleichzeitig bleiben Alkohol- und Tempolimits streng. Was bedeutet das für Fahrschülerinnen und Fahrschüler in Südtirol?
+In unserer Reihe Lebenswerte Orte in Südtirol geht es diesmal nach Feldthurns: Wir stellen das Dorf am Eisacktaler Sonnenhang hoch über Klausen vor, mit Menschen, die hier leben und arbeiten, darunter ein TV-bekannter Meisterkonditor und weitere engagierte Handelstreibende.</desc>
+  </programme>
+  <programme start="20250910221000 +0200" stop="20250910223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250911200000 +0200" stop="20250911202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250911202000 +0200" stop="20250911204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Jahreszeiten</sub-title>
+    <desc>Die Jahreszeiten teilen das Jahr in verschiedene Abschnitte. Wie Frühling, Sommer, Herbst und Winter das Wetter, die Vegetation, die Tageslänge und unser Leben bestimmen, hat das Südtirol Magazin recherchiert. 
+ 
+Mit der Rubrik "So isst Euregio" machen wir im Zillertal in Triol bei Peter Fankenhauser Halt und in der Rubrik "Wiedersehen" einen Abstecher in die Sommerfrische auf dem Vigiljoch. Zu Gast bei Moderatorin Magdalena Oberstaller ist Johanna Heiss, eine Wald-Flüstererin.</desc>
+  </programme>
+  <programme start="20250911213000 +0200" stop="20250911215930 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Der Südtiroler Wintersportverband ist mit dem traditionellen Golfturnier in Passeier und der Bike-Challenge in Antholz in die neue Saison gestartet. Die steht ganz im Zeichen der Olympischen Winterspiele 2026. Die Kunstbahnrodler haben schon ihren ersten Startwettkampf in Meransen bestritten, die einheimischen alpinen Speed-Damen beginnen hingegen ihr Schneetraining in Argentinien.</desc>
+  </programme>
+  <programme start="20250911221000 +0200" stop="20250911223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250912180000 +0200" stop="20250912182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Jahreszeiten</sub-title>
+    <desc>Die Jahreszeiten teilen das Jahr in verschiedene Abschnitte. Wie Frühling, Sommer, Herbst und Winter das Wetter, die Vegetation, die Tageslänge und unser Leben bestimmen, hat das Südtirol Magazin recherchiert.  
+Mit der Rubrik "So isst Euregio" machen wir im Zillertal in Triol bei Peter Fankenhauser Halt und in der Rubrik "Wiedersehen" einen Abstecher in die Sommerfrische auf dem Vigiljoch. Zu Gast bei Moderatorin Magdalena Oberstaller ist Johanna Heiss, eine Wald-Flüstererin.</desc>
+  </programme>
+  <programme start="20250912182900 +0200" stop="20250912185830 +0200" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Der Südtiroler Wintersportverband ist mit dem traditionellen Golfturnier in Passeier und der Bike-Challenge in Antholz in die neue Saison gestartet. Die steht ganz im Zeichen der Olympischen Winterspiele 2026. Die Kunstbahnrodler haben schon ihren ersten Startwettkampf in Meransen bestritten, die einheimischen alpinen Speed-Damen beginnen hingegen ihr Schneetraining in Argentinien.</desc>
+  </programme>
+  <programme start="20250912200000 +0200" stop="20250912202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250912202100 +0200" stop="20250912210001 +0200" channel="Rai Südtirol">
+    <title>Martha und Toni Ebner</title>
+    <sub-title>Ein Leben für Südtirol</sub-title>
+    <desc>Martha und Toni Ebner zählen zu den bedeutendsten Persönlichkeiten der jüngeren Südtiroler Geschichte. Als Mitbegründer der Südtiroler Volkspartei und langjähriger Leiter des Athesia-Verlags prägte Toni Ebner das politische und mediale Leben des Landes maßgeblich mit. 
+An seiner Seite: Martha Ebner - engagiert in Partei, Gesellschaft und Verlag, Mutter von fünf Kindern und eine Frau mit klarer Haltung. Die Dokumentation zeichnet ein vielschichtiges Porträt dieses außergewöhnlichen Paars - zwischen Einsatz für die Autonomie, den Herausforderungen der Bombenjahre und einem tiefen Verständnis für Verantwortung. Persönliche Erinnerungen ihrer Söhne sowie Stimmen langjähriger Wegbegleiterinnen und Wegbegleiter lassen die private wie öffentliche Dimension ihres Lebens spürbar werden. Im Zentrum steht Martha Ebner, heute über 100 Jahre alt, die mit klarem Blick und leiser Kraft auf ein Jahrhundert Südtiroler Geschichte zurückblickt.</desc>
+  </programme>
+  <programme start="20250912210000 +0200" stop="20250912212900 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Die Ungleichbehandlung der Geschlechter im Sport, die unkonventionelle Zitherspielerin Reinhilde Gamper im Porträt. Moderation: Martina Kreuzer.
+Ob im Amateur- oder Profibereich - Sport bietet jede Menge Möglichkeiten der persönlichen Entwicklung und des sozialen Austausches. Gleichzeitig gibt es wenige Bereiche, in denen eine so starke Ungleichbehandlung der Geschlechter aufrechterhalten wird. Im aktuellen dF-Bericht beleuchten wir diesen immer noch wenig diskutierten Missstand und erkunden, was sich aktuell in Sachen sportlicher Fairness bewegt.
+Im dF Portrait: Reinhilde Gamper sieht nicht aus wie eine Zitherspielerin. Saxofon und Schlagzeug traut man ihr eher zu. Und doch ist sie die Musikerin, die der Zither ein neues Image verpasst hat. Ihr Markenzeichen: goldene High Heels. Ein Porträt über eine junge Frau, die eine Mission hat, Familie und unglaublich viel Energie.
+In df-Info: Horchen und Lauschen - eine sinnliche Spurensuche in Buchform und ein Rückblick auf die erste Südtirol Pride aus feministischer Perspektive.</desc>
+  </programme>
+  <programme start="20250912212900 +0200" stop="20250912215925 +0200" channel="Rai Südtirol">
+    <title>Der automobile Mensch - Schweiz</title>
+    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
+    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, die deutlich über die aktuellen politischen Zielsetzungen hinausgeht. Eine solche brauche es laut Seiß, wenn die Bemühungen um Klimaschutz, Boden und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen. Seiß bringt in seinen filmischen Beobachtungen Beispiele aus der Schweiz. Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
+  </programme>
+  <programme start="20250912221000 +0200" stop="20250912223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250913180000 +0200" stop="20250913185900 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Tänzerin, Performerin und Choreographin Miriam Taschler, die Schauspielerin Hanenn Huber, 25 Jahre Festival Transart und ein Rückblick auf 40 Jahre Literatur Lana sind Themen der Sendung. Zu Gast sind die Schauspielerin Karin Verdorfer und Isabel Goller, Harfenistin bei Südtirol Filarmonica.  Die Tänzerin, Performerin und Choreographin Miriam Taschler ist 1994 in Toblach geboren, mit 16 kam sie über einen Sommerjob nach London und blieb spontan dort, maturierte an einer Schule für Tanz, schloss ein Studium der Sozialpsychologie ab, ging nach Berlin, wo sie fand, was sie suchte: zeitgenössischer Tanz, in dem Körper, Gedanken und Gefühle eins zu werden scheinen. Die Rolle als Luftgeist Ariel im Stück Der Sturm der Freilichtspiele Südtiroler Unterland war die erste Produktion, die sie seit 2010 wieder für längere Zeit nach Südtirol führte. 
+Die Grödnerin Hanenn Huber wollte ans Theater, seit sie sich erinnern kann. Nach Abschluss der Schauspiel Akademie in München spielte sie bei den Freilichtspielen Lana, bei den Sommerspielen am Ritten, heuer auf Schloss Tirol, im Theater in der Altstadt, in Bruneck, bei den Vereinigten Bühnen Bozen. Nun ist sie beim Entwerfen einer Theaterinitiative in der Basis Vinschgau in´Schlanders.
+Mit einem poetischen Gastmahl und dem Motto "Alles wiederholt sich" feierten die Literaturtage Lana Ende August ihren 40. Geburtstag. Das Fest war wie die Literaturtage selbst, ein Ort der Begegnung und des Austausches.  
+25 Jahre Festival Transart werden heuer im September gefeiert. Das Festival, das vor 25 Jahren in der Bozner Industriezone gestartet ist, ist mittlerweile ein wichtiger Bestandteil des Südtirol Kulturlebens. Ein Rückblick. 
+Noch bis zum 23. November bleibt die Architekturbiennale in Venedig geöffnet. Der in Brixen geborene und in Wien wohnhafte Architekt Michael Obrist ist Teil des Kuratorenteams des österreichischen Pavillons. Thema ist der kommunale Wohnbau in Wien.</desc>
+  </programme>
+  <programme start="20250913200000 +0200" stop="20250913202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250913202100 +0200" stop="20250913202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250913202500 +0200" stop="20250913205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Ein Oldtimer-Ausflug mit den Jesuheimer Senioren, Stress und Stressbewältigung, Pflegeanvertrauung und die second-hand-Boutique des Vereins Comedicus sind Themen dieser Sendung.
+
+Bereits zum zehnten Mal haben sich die Überetscher-Oldtimer-Freunde mit Seniorinnen und Senioren des Jesuheimes in Girlan auf Sternenfahrt begeben - ein Ausflug, von dem alle Beteiligten lange zehren.
+Der September ist vor allem für Eltern ein besonders herausfordernder Monat, Kurse sind zu organisieren, Schulmaterialien einzukaufen, der Rhythmus muss umgestellt werden. Ein Wundermittel gegen Stress - so sagt der Psychologe Oliver Sparber - gibt es nicht, aber viele kleine Rezepte, die uns helfen, Ruhe und Klarheit zu finden. 
+Eine Auszeit in anderem Sinne nehmen und bekommen minderjährige Kinder, die - auf Zeit - einem Paar oder einer Einzelperson anvertraut werden, weil sie aus verschiedenen Gründen nicht bei ihren Eltern aufwachsen können. Eine Herausforderung ist es für alle, vor allem für die Kinder, wenn sie traumatisiert sind. Pflegeanvertrauung ist das Thema, zu dem sich Claudia Schuler in dieser Sendung mit ihrem Gast unterhält.</desc>
+  </programme>
+  <programme start="20250913221000 +0200" stop="20250913223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
