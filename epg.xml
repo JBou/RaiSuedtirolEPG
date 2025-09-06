@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250905180000 +0200" stop="20250905182930 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Auf der Payerhütte</sub-title>
-    <desc>Seit 150 Jahren gibt es am Tabarettakamm am Fuß des Ortlers einen Stützpunkt für Bergsteiger: die Payerhütte. Wir beobachten den Hüttenalltag und erkunden selten begangene Zustiegswege.
-Als höchster Gipfel der Donaumonarchie war der Ortler schon vor dem Ersten Weltkrieg ein touristisches Sehnsuchtsziel...aber auch die Payerhütte war und ist noch heute viel besucht. Das Team der Sendereihe Bergwelt schaut zurück auf die Geschichte des Bergsteigens am Ortler Normalweg und blickt hinter die Kulissen des Hüttenalltags. 
-Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi und von Sulden aus.</desc>
-  </programme>
-  <programme start="20250905182900 +0200" stop="20250905185830 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Erfolgreiche Südtiroler im Bereich Hightech und Raumfahrt: Ingenieur Christian Rinner spricht über Satellitenbau, das Unternehmen Microgate produziert optische Messtechnik für die Weltraumforschung und AMG-Mercedes sorgt zusammen mit Schnellladesäulen-Hersteller Alpitronic für Weltrekorde in der Elektromobilität. In Trend treffen wir den aus Latsch stammende Ingenieur Christian Rinner, der in München beim Satellitenbauer OHB tätig ist. Das Unternehmen OHB, das durch den Bau der Galileo-Satelliten bekannt wurde, hat Südtiroler Wurzeln: Gegründet wurde es vom Latscher Raumfahrtpionier Manfred Fuchs und seiner Frau Christa in Bremen. 
-In der Industriezone Bozen entwickelt das Unternehmen Microgate, gegründet von den Brüdern Vinicio und Roberto Biasi, hochpräzise Systeme, die im Auftrag der Europäischen Weltraumorganisation ESA für gestochen scharfe Blicke in ferne Galaxien sorgen. 
-Auch in anderen Hightech-Nischen ist Microgate weltweit führend - ein weiterer Beweis, dass Südtirols Innovationskraft sich durchaus sehen lassen kann. 
-Das Bozner Unternehmer Alpitronic, Hersteller von Schnelllade-Infrastruktur für die Elektromobilität, hat als Partner von AMG-Mercedes auf der Autoteststrecke von Nardò in Apulien einen neuen Ausdauer-Rekord für Elektroautos ermöglicht. In unter 8 Tagen einmal um den Erdkreis, das sind mehr als 40.OOO Km. Innovationen von Alpitronic im Bereich des schnellen Ladens werden, wie die Technologieneuheiten im Rekordfahrzeug selbst, bald in den Serieprodukten zu sehen sein.</desc>
-  </programme>
-  <programme start="20250905200000 +0200" stop="20250905202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250905202100 +0200" stop="20250905212000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Im Oberpustertal erkunden wir die unterschiedlichen Chorklänge und die Kraft des gemeinsamen Singens. Bei einer Wanderung im Ultental entdecken wir Natur, Kultur und viel Geschichte. 
-
-Magdalena Oberstaller ist in Sexten und Welsberg unterwegs und lauscht den wunderbaren Klängen diverser Chöre aus dem In- und Ausland. Wir erfahren mehr über die Wurzeln der Chorkultur, besuchen eine kurzweilige Chorprobe in Brixen und erleben, welche tiefgreifende Wirkung das gemeinsame Singen haben kann.
-Anschließend erkundet Theo Hendrich mit Wanderführerin Birgit Lösch das Ultental und kommt dabei an urigen Bauernhöfen vorbei, an den Urlärchen und an einer historischen Villa, außerdem trifft er eine Ultner Ziegenbäuerin.</desc>
-  </programme>
-  <programme start="20250905212000 +0200" stop="20250905212808 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250905212800 +0200" stop="20250905215810 +0200" channel="Rai Südtirol">
-    <title>Der automobile Mensch - Österreich</title>
-    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
-    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, die deutlich über die aktuellen politischen Zielsetzungen hinausgeht. Eine solche brauche es laut Seiß, wenn die Bemühungen um Klimaschutz, Boden- und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen.
-Seiß bringt in seinen filmischen Beobachtungen Beispiele aus Österreich.
-Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
-  </programme>
-  <programme start="20250905221000 +0200" stop="20250905223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250906180000 +0200" stop="20250906185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -290,6 +245,29 @@ Der September ist vor allem für Eltern ein besonders herausfordernder Monat, Ku
 Eine Auszeit in anderem Sinne nehmen und bekommen minderjährige Kinder, die - auf Zeit - einem Paar oder einer Einzelperson anvertraut werden, weil sie aus verschiedenen Gründen nicht bei ihren Eltern aufwachsen können. Eine Herausforderung ist es für alle, vor allem für die Kinder, wenn sie traumatisiert sind. Pflegeanvertrauung ist das Thema, zu dem sich Claudia Schuler in dieser Sendung mit ihrem Gast unterhält.</desc>
   </programme>
   <programme start="20250913221000 +0200" stop="20250913223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250914200000 +0200" stop="20250914202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250914202100 +0200" stop="20250914204530 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Sie ist schnell, ehrgeizig - und liebt das Wasser. Die 21-jährige Tamara Drescher aus Meran zählt zu den besten Kanutinnen Italiens. Vor Kurzem hat sie sich den Titel der Italienmeisterin geholt - und das, obwohl sie erst mit 14 richtig in den Kanusport eingestiegen ist. Wir haben Tamara beim Training begleitet und mit ihr über Erfolge, Durchhaltevermögen und große Ziele gesprochen.
+
+Die Natur- und Wildnisschule "Die Wurzel" in Platzers bei Tisens bietet Jugendlichen ein Abenteuer fernab von Handy, WLAN und Sozialen Medien. Statt andauernd Online sein heißt es hier: Feuer machen, Bogenschießen, Hütten bauen und lernen, was in der Natur essbar ist. Gemeinsam in der Gruppe erleben die Teilnehmer, wie spannend es sein kann, bewusst und achtsam in und mit der Natur zu leben.
+Wenn sie Schule vorbei ist, heißt es für viele Südtiroler Jugendliche: Arbeiten statt chillen. Doch warum nehmen so viele einen Sommerjob an - wir haben vier jungen Erwachsenen beim Arbeiten über die Schulter geschaut.</desc>
+  </programme>
+  <programme start="20250914204500 +0200" stop="20250914204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250914221000 +0200" stop="20250914223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
