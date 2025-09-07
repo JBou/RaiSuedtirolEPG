@@ -4,34 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250906180000 +0200" stop="20250906185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Im Oberpustertal erkunden wir die unterschiedlichen Chorklänge und die Kraft des gemeinsamen Singens. Bei einer Wanderung im Ultental entdecken wir Natur, Kultur und viel Geschichte. Magdalena Oberstaller ist in Sexten und Welsberg unterwegs und lauscht den wunderbaren Klängen diverser Chöre aus dem In- und Ausland. Wir erfahren mehr über die Wurzeln der Chorkultur, besuchen eine kurzweilige Chorprobe in Brixen und erleben, welche tiefgreifende Wirkung das gemeinsame Singen haben kann.
-Anschließend erkundet Theo Hendrich mit Wanderführerin Birgit Lösch das Ultental und kommt dabei an urigen Bauernhöfen vorbei, an den Urlärchen und an einer historischen Villa, außerdem trifft er eine Ultner Ziegenbäuerin.</desc>
-  </programme>
-  <programme start="20250906200000 +0200" stop="20250906202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250906202100 +0200" stop="20250906202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250906202500 +0200" stop="20250906205519 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Genf</sub-title>
-    <desc>Ein kultureller Streifzug durch die stylische Metropole, die viele Überraschungen bereithält jenseits vom diplomatischen Parkett: Genf hat auch französische Küche, Schokolade und edle Uhren. 
-Genf ist mehr als UN und Ort der politischen Diplomatie. Genf steht vor allem für Uhren, aber auch für Schokolade und französische Kulinarik. In jeder Gasse, in jedem Geschäft spürt man den französischen Einfluss - und der bekommt der Stadt sehr gut. 
-Die Dokumentation wirft einen Blick hinter die Kulissen - wir erleben Genf jenseits von Politik, Staatsgästen und pompösen Auftritten. Es sind die kleinen versteckten Geschichten, die der Stadt letztlich ihren Charme und Charakter verleihen.</desc>
-  </programme>
-  <programme start="20250906221000 +0200" stop="20250906223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250907100000 +0200" stop="20250907130000 +0200" channel="Rai Südtirol">
     <title>Finalissima des 65. Internationalen Klavierwettbewerbs Ferruccio Busoni</title>
     <sub-title/>
