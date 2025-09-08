@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250907100000 +0200" stop="20250907130000 +0200" channel="Rai Südtirol">
-    <title>Finalissima des 65. Internationalen Klavierwettbewerbs Ferruccio Busoni</title>
-    <sub-title/>
-    <desc>Die Spannung erreicht ihren Höhepunkt: Drei herausragende Pianist:innen treten in der Finalissima des 65. Internationalen Ferruccio-Busoni-Klavierwettbewerbs gegeneinander an. In einer Matinée interpretieren sie große Klavierkonzerte gemeinsam mit dem Haydnorchester von Bozen und Trient unter der Leitung von George Pehlivanian. Rai Südtirol überträgt live aus dem Stadttheater Bozen. Durch den Vormittag begleiten Jana Weissteiner und Matthias Mayr.</desc>
-  </programme>
-  <programme start="20250907200000 +0200" stop="20250907202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250907202100 +0200" stop="20250907205030 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Die Ungleichbehandlung der Geschlechter im Sport, die unkonventionelle Zitherspielerin Reinhilde Gamper im Porträt. Moderation: Martina Kreuzer.
-
-Ob im Amateur- oder Profibereich - Sport bietet jede Menge Möglichkeiten der persönlichen Entwicklung und des sozialen Austausches. Gleichzeitig gibt es wenige Bereiche, in denen eine so starke Ungleichbehandlung der Geschlechter aufrechterhalten wird. Im aktuellen dF-Bericht beleuchten wir diesen immer noch wenig diskutierten Missstand und erkunden, was sich aktuell in Sachen sportlicher Fairness bewegt.
-Im dF Portrait: Reinhilde Gamper sieht nicht aus wie eine Zitherspielerin. Saxofon und Schlagzeug traut man ihr eher zu. Und doch ist sie die Musikerin, die der Zither ein neues Image verpasst hat. Ihr Markenzeichen: goldene High Heels. Ein Porträt über eine junge Frau, die eine Mission hat, Familie und unglaublich viel Energie.
-In df-Info: Horchen und Lauschen - eine sinnliche Spurensuche in Buchform und ein Rückblick auf die erste Südtirol Pride aus feministischer Perspektive.</desc>
-  </programme>
-  <programme start="20250907205000 +0200" stop="20250907205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250907221000 +0200" stop="20250907223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250908180000 +0200" stop="20250908181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
