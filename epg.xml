@@ -4,60 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250908180000 +0200" stop="20250908181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>2. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby dieser Runde empfängt Partschins den Bozner FC. In der Landesliga trifft Aufsteiger Freienfeld auf Absteiger Stegen, während Terlan zu Hause Tscherms Marling zu Gast hat.</desc>
-  </programme>
-  <programme start="20250908181400 +0200" stop="20250908182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Sportkids "Surfen"</sub-title>
-    <desc>In Kaltern wird Windsurfen großgeschrieben und viele Kinder aus der Gegend trainieren mehrmals pro Woche am See um sich auf die großen Wettkämpfe vorzubereiten, wie die Italienmeisterschaft, die vor kurzem am Gardasee stattgefunden hat. Wie so ein Training abläuft und was die Kinder am Gardasee erlebt haben, zeigt diese Folge der "Sportkids".</desc>
-  </programme>
-  <programme start="20250908182900 +0200" stop="20250908185900 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Max am Limit</sub-title>
-    <desc>Max von Milland wagt sich an eine Challenge der Extraklasse: Mit einem Rennwagen einen perfekten Drift hinlegen - eine Disziplin, die in der Motorsportwelt als wahre Königsprüfung gilt. Doch bevor Max den Asphalt zum Glühen bringen darf, wartet noch eine zusätzliche Hürde: Max muss den Rennwagen, mit dem er driften soll, erst einmal eigenhändig zusammenbauen.
-Ob er am Ende souverän um die Kurve gleitet oder eher mehr den Schraubenschlüssel als das Lenkrad in der Hand hält, sehen Sie in der neuesten Folge SchachMax - nur auf RAI Südtirol.</desc>
-  </programme>
-  <programme start="20250908200000 +0200" stop="20250908202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250908202000 +0200" stop="20250908211930 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Tänzerin, Performerin und Choreographin Miriam Taschler, die Schauspielerin Hanenn Huber, 25 Jahre Festival Transart und ein Rückblick auf 40 Jahre Literatur Lana sind Themen der Sendung. 
-
-Zu Gast sind die Schauspielerin Karin Verdorfer und Isabel Goller, Harfenistin bei Südtirol Filarmonica.  Die Tänzerin, Performerin und Choreographin Miriam Taschler ist 1994 in Toblach geboren, mit 16 kam sie über einen Sommerjob nach London und blieb spontan dort, maturierte an einer Schule für Tanz, schloss ein Studium der Sozialpsychologie ab, ging nach Berlin, wo sie fand, was sie suchte: zeitgenössischer Tanz, in dem Körper, Gedanken und Gefühle eins zu werden scheinen. Die Rolle als Luftgeist Ariel im Stück Der Sturm der Freilichtspiele Südtiroler Unterland war die erste Produktion, die sie seit 2010 wieder für längere Zeit nach Südtirol führte. 
-Die Grödnerin Hanenn Huber wollte ans Theater, seit sie sich erinnern kann. Nach Abschluss der Schauspiel Akademie in München spielte sie bei den Freilichtspielen Lana, bei den Sommerspielen am Ritten, heuer auf Schloss Tirol, im Theater in der Altstadt, in Bruneck, bei den Vereinigten Bühnen Bozen. Nun ist sie beim Entwerfen einer Theaterinitiative in der Basis Vinschgau in´Schlanders.
-Mit einem poetischen Gastmahl und dem Motto "Alles wiederholt sich" feierten die Literaturtage Lana Ende August ihren 40. Geburtstag. Das Fest war wie die Literaturtage selbst, ein Ort der Begegnung und des Austausches.  
-25 Jahre Festival Transart werden heuer im September gefeiert. Das Festival, das vor 25 Jahren in der Bozner Industriezone gestartet ist, ist mittlerweile ein wichtiger Bestandteil des Südtirol Kulturlebens. Ein Rückblick. 
-Noch bis zum 23. November bleibt die Architekturbiennale in Venedig geöffnet. Der in Brixen geborene und in Wien wohnhafte Architekt Michael Obrist ist Teil des Kuratorenteams des österreichischen Pavillons. Thema ist der kommunale Wohnbau in Wien.</desc>
-  </programme>
-  <programme start="20250908212000 +0200" stop="20250908213500 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Angelika König und Simone Mayr "karten" in dieser Episode das Südtiroler Kultspiel Blindwatten.
-Schianere oder Schlagtausch? Blind oder offen? Bis 11,15 oder 18? Mit dem Guaten oder dem Superguaten? Nahezu jede Talschaft in Südtirol hat ihre eigene Variante, zudem bringt das Watten auch Generationen zusammen: vergnüglich oder mit Geschimpfe. Gespielt wird Watten seit den Napoleonischen Kriegen, oder vielleicht schon früher, wie das Bonmot vermuten lässt: "Schon Adam wattete mies, drum fiel er aus dem Paradies".</desc>
-  </programme>
-  <programme start="20250908213500 +0200" stop="20250908215157 +0200" channel="Rai Südtirol">
-    <title>Egon Rusina</title>
-    <sub-title>Die Ahnung vom unendlich leeren Raum</sub-title>
-    <desc>Zwischen Gesellschaftskritik und Naturliebe: Der Grödner Künstler Egon Moroder Rusina entwickelte sich von der Karikatur über den phantastischen Realismus bis hin zur monochromen Malerei, die für ihn Ruhe, Tod und Unendlichkeit der Natur darstellt. "Ich sitze lieber drei Jahre vor einem Berg als vor einem erotischen Bild", sagt der Grödner, der einen eigenwilligen und mitunter extravaganten Lebensstil wählt.</desc>
-  </programme>
-  <programme start="20250908215100 +0200" stop="20250908215820 +0200" channel="Rai Südtirol">
-    <title>Junge Talente</title>
-    <sub-title>Die Musikerin und Sängerin Emily Ferri</sub-title>
-    <desc>Emily Ferri aus Eppan ist Liedermacherin aus Leidenschaft. Sie möchte ihren Gedanken und
-Gefühlen Ausdruck verleihen und mit ihrem Publikum eine Reise zu sich selbst unternehmen.</desc>
-  </programme>
-  <programme start="20250908221000 +0200" stop="20250908223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250909200000 +0200" stop="20250909202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
