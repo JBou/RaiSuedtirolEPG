@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250910200000 +0200" stop="20250910202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250910202000 +0200" stop="20250910204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wir berichten wir von einer Südtiroler Familie, die beim Online-Trading mehr als 20.000 Euro verloren hat. Ein Betroffener schildert seine Erfahrungen und Gunde Bauhofer von der Verbraucherzentrale erklärt, wie man sich vor solchen Betrugsmaschen schützen kann.
-
-Doch damit nicht genug: Häufig tauchen nach solchen Fällen auch dubiose "Rechtsberater" auf, die schnelle und sichere Geldversprechen machen - und den Betroffenen erneut das Letzte abnehmen.
-Seit diesem Jahr gilt für junge Autofahrerinnen und Autofahrer eine verlängerte Probezeit von drei Jahren. Erlaubt sind Fahrzeuge mit etwas mehr Leistung, gleichzeitig bleiben Alkohol- und Tempolimits streng. Was bedeutet das für Fahrschülerinnen und Fahrschüler in Südtirol?
-In unserer Reihe Lebenswerte Orte in Südtirol geht es diesmal nach Feldthurns: Wir stellen das Dorf am Eisacktaler Sonnenhang hoch über Klausen vor, mit Menschen, die hier leben und arbeiten, darunter ein TV-bekannter Meisterkonditor und weitere engagierte Handelstreibende.</desc>
-  </programme>
-  <programme start="20250910221000 +0200" stop="20250910223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250911200000 +0200" stop="20250911202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
