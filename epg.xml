@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250911200000 +0200" stop="20250911202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250911202000 +0200" stop="20250911204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Jahreszeiten</sub-title>
-    <desc>Die Jahreszeiten teilen das Jahr in verschiedene Abschnitte. Wie Frühling, Sommer, Herbst und Winter das Wetter, die Vegetation, die Tageslänge und unser Leben bestimmen, hat das Südtirol Magazin recherchiert. 
- 
-Mit der Rubrik "So isst Euregio" machen wir im Zillertal in Triol bei Peter Fankenhauser Halt und in der Rubrik "Wiedersehen" einen Abstecher in die Sommerfrische auf dem Vigiljoch. Zu Gast bei Moderatorin Magdalena Oberstaller ist Johanna Heiss, eine Wald-Flüstererin.</desc>
-  </programme>
-  <programme start="20250911213000 +0200" stop="20250911215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Der Südtiroler Wintersportverband ist mit dem traditionellen Golfturnier in Passeier und der Bike-Challenge in Antholz in die neue Saison gestartet. Die steht ganz im Zeichen der Olympischen Winterspiele 2026. Die Kunstbahnrodler haben schon ihren ersten Startwettkampf in Meransen bestritten, die einheimischen alpinen Speed-Damen beginnen hingegen ihr Schneetraining in Argentinien.</desc>
-  </programme>
-  <programme start="20250911221000 +0200" stop="20250911223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250912180000 +0200" stop="20250912182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Die Jahreszeiten</sub-title>
