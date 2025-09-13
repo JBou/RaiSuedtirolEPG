@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250912180000 +0200" stop="20250912182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Jahreszeiten</sub-title>
-    <desc>Die Jahreszeiten teilen das Jahr in verschiedene Abschnitte. Wie Frühling, Sommer, Herbst und Winter das Wetter, die Vegetation, die Tageslänge und unser Leben bestimmen, hat das Südtirol Magazin recherchiert.  
-Mit der Rubrik "So isst Euregio" machen wir im Zillertal in Triol bei Peter Fankenhauser Halt und in der Rubrik "Wiedersehen" einen Abstecher in die Sommerfrische auf dem Vigiljoch. Zu Gast bei Moderatorin Magdalena Oberstaller ist Johanna Heiss, eine Wald-Flüstererin.</desc>
-  </programme>
-  <programme start="20250912182900 +0200" stop="20250912185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Der Südtiroler Wintersportverband ist mit dem traditionellen Golfturnier in Passeier und der Bike-Challenge in Antholz in die neue Saison gestartet. Die steht ganz im Zeichen der Olympischen Winterspiele 2026. Die Kunstbahnrodler haben schon ihren ersten Startwettkampf in Meransen bestritten, die einheimischen alpinen Speed-Damen beginnen hingegen ihr Schneetraining in Argentinien.</desc>
-  </programme>
-  <programme start="20250912200000 +0200" stop="20250912202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250912202100 +0200" stop="20250912210001 +0200" channel="Rai Südtirol">
-    <title>Martha und Toni Ebner</title>
-    <sub-title>Ein Leben für Südtirol</sub-title>
-    <desc>Martha und Toni Ebner zählen zu den bedeutendsten Persönlichkeiten der jüngeren Südtiroler Geschichte. Als Mitbegründer der Südtiroler Volkspartei und langjähriger Leiter des Athesia-Verlags prägte Toni Ebner das politische und mediale Leben des Landes maßgeblich mit. 
-An seiner Seite: Martha Ebner - engagiert in Partei, Gesellschaft und Verlag, Mutter von fünf Kindern und eine Frau mit klarer Haltung. Die Dokumentation zeichnet ein vielschichtiges Porträt dieses außergewöhnlichen Paars - zwischen Einsatz für die Autonomie, den Herausforderungen der Bombenjahre und einem tiefen Verständnis für Verantwortung. Persönliche Erinnerungen ihrer Söhne sowie Stimmen langjähriger Wegbegleiterinnen und Wegbegleiter lassen die private wie öffentliche Dimension ihres Lebens spürbar werden. Im Zentrum steht Martha Ebner, heute über 100 Jahre alt, die mit klarem Blick und leiser Kraft auf ein Jahrhundert Südtiroler Geschichte zurückblickt.</desc>
-  </programme>
-  <programme start="20250912210000 +0200" stop="20250912212900 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Die Ungleichbehandlung der Geschlechter im Sport, die unkonventionelle Zitherspielerin Reinhilde Gamper im Porträt. Moderation: Martina Kreuzer.
-Ob im Amateur- oder Profibereich - Sport bietet jede Menge Möglichkeiten der persönlichen Entwicklung und des sozialen Austausches. Gleichzeitig gibt es wenige Bereiche, in denen eine so starke Ungleichbehandlung der Geschlechter aufrechterhalten wird. Im aktuellen dF-Bericht beleuchten wir diesen immer noch wenig diskutierten Missstand und erkunden, was sich aktuell in Sachen sportlicher Fairness bewegt.
-Im dF Portrait: Reinhilde Gamper sieht nicht aus wie eine Zitherspielerin. Saxofon und Schlagzeug traut man ihr eher zu. Und doch ist sie die Musikerin, die der Zither ein neues Image verpasst hat. Ihr Markenzeichen: goldene High Heels. Ein Porträt über eine junge Frau, die eine Mission hat, Familie und unglaublich viel Energie.
-In df-Info: Horchen und Lauschen - eine sinnliche Spurensuche in Buchform und ein Rückblick auf die erste Südtirol Pride aus feministischer Perspektive.</desc>
-  </programme>
-  <programme start="20250912212900 +0200" stop="20250912215925 +0200" channel="Rai Südtirol">
-    <title>Der automobile Mensch - Schweiz</title>
-    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
-    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, die deutlich über die aktuellen politischen Zielsetzungen hinausgeht. Eine solche brauche es laut Seiß, wenn die Bemühungen um Klimaschutz, Boden und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen. Seiß bringt in seinen filmischen Beobachtungen Beispiele aus der Schweiz. Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
-  </programme>
-  <programme start="20250912221000 +0200" stop="20250912223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250913180000 +0200" stop="20250913185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -96,6 +56,211 @@ Wenn sie Schule vorbei ist, heißt es für viele Südtiroler Jugendliche: Arbeit
     <desc/>
   </programme>
   <programme start="20250914221000 +0200" stop="20250914223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250915180000 +0200" stop="20250915181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 3. Oberliga-Runde findet in Tramin statt, wo die Hausherren auf St. Pauls treffen. Dieses Uralt-Derby wird bereits zum 66. Mal ausgetragen und ist das traditionsreichste Duell im Südtiroler Amateurfußball.
+Außerdem empfängt der Bozner FC im Stadtderby der Landeshauptstadt Virtus Bozen. In der Landesliga spielt Stegen zu Hause gegen Leifers.</desc>
+  </programme>
+  <programme start="20250915181400 +0200" stop="20250915183330 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>25 Jahre Bobby</sub-title>
+    <desc>Vor einem Vierteljahrhundert begann die Erfolgsgeschichte des kleinen Zirkusäffchens Bobby. Die Kalterer Verena und Robert schufen mit viel Herz Geschichten und Lieder rund um das fröhliche, singende Äffchen, das seitdem tausendeKinder begeistert.
+Zum Jubiläum besuchen wir Bobby und seine "Familie" im Urlaub am Meer. Gemeinsam mit Tochter Nadia blicken Verena und Robert auf 25 unvergessliche Jahre voller Musik und Abenteuer zurück. 
+Anschließend gibt es ein leckeres Rezept mit Safran.</desc>
+  </programme>
+  <programme start="20250915183400 +0200" stop="20250915185900 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Sie ist schnell, ehrgeizig - und liebt das Wasser. Die 21-jährige Tamara Drescher aus Meran zählt zu den besten Kanutinnen Italiens. Vor Kurzem hat sie sich den Titel der Italienmeisterin geholt - und das, obwohl sie erst mit 14 richtig in den Kanusport eingestiegen ist. Wir haben Tamara beim Training begleitet und mit ihr über Erfolge, Durchhaltevermögen und große Ziele gesprochen. Die Natur- und Wildnisschule "Die Wurzel" in Platzers bei Tisens bietet Jugendlichen ein Abenteuer fernab von Handy, WLAN und Sozialen Medien. Statt andauernd Online sein heißt es hier: Feuer machen, Bogenschießen, Hütten bauen und lernen, was in der Natur essbar ist. Gemeinsam in der Gruppe erleben die Teilnehmer, wie spannend es sein kann, bewusst und achtsam in und mit der Natur zu leben.
+Wenn sie Schule vorbei ist, heißt es für viele Südtiroler Jugendliche: Arbeiten statt chillen. Doch warum nehmen so viele einen Sommerjob an - wir haben vier jungen Erwachsenen beim Arbeiten über die Schulter geschaut.</desc>
+  </programme>
+  <programme start="20250915200000 +0200" stop="20250915202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250915202000 +0200" stop="20250915215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Südtirol zwischen Ankommen und Fremdbleiben</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Geschlossene Gesellschaft. Wie lang geht das noch in Südtirol" Die Neuen sind unter uns, viele schon in der zweiten Generation. Und sie sprengen die ethnischen Käfige, in denen Südtirol steckt. 
+
+Die Ersten kamen 1991 aus Albanien. 30 Jahre später holt Filmemacher Erald Dika die Einwanderer und ihre Nachkommen vor die Kamera: "Albanien in Südtirol" ist ein Porträt über Erwartungen, Enttäuschungen, Hoffnungen.
+In die Runde fragen wir: Wann fühlen sich Menschen zugehörig? Wie lange gilt man fremd? Und welche Mythen rund um Migration sind einfach falsch? Es sprechen Leon Pergjoka, Soziologe mit albanischen Wurzeln, Johanna Mitterhofer, Migrationsforscherin an der Eurac, und Lucio Giudiceandrea, Journalist und "Calabro-Tiroler". 
+Im Interview: Matteo Da Col, Präsident des Vereins Diverkstatt in Bruneck, und der Comedian Jakob Messner Windschnur. Gabriele Crepaz moderiert. Live aus dem Kulturbahnhof EST in Bruneck.</desc>
+  </programme>
+  <programme start="20250915221000 +0200" stop="20250915223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250916200000 +0200" stop="20250916202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250916202000 +0200" stop="20250916203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250916203500 +0200" stop="20250916204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 3. Oberliga-Runde findet in Tramin statt, wo die Hausherren auf St. Pauls treffen. Dieses Uralt-Derby wird bereits zum 66. Mal ausgetragen und ist das traditionsreichste Duell im Südtiroler Amateurfußball.
+Außerdem empfängt der Bozner FC im Stadtderby der Landeshauptstadt Virtus Bozen. In der Landesliga spielt Stegen zu Hause gegen Leifers.</desc>
+  </programme>
+  <programme start="20250916221000 +0200" stop="20250916223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250917200000 +0200" stop="20250917202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250917202000 +0200" stop="20250917204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die ungarischsprachigen Szekler in Rumänien und ihr Wunsch nach mehr Autonomie, Kulturfrau Gianna Olinda Cadonau aus dem Engadin, Eurac-Forscherin Katharina Crepaz über Gaismair und Langer.
+
+Die Szekler sind eine ungarischsprachige Bevölkerungsgruppe in Rumänien, die hauptsächlich im historischen Szeklerland in Siebenbürgen lebt und die größte ungarische Minderheit des Landes bildet. Obwohl ihre Minderheitenrechte in Rumäniens Verfassung verankert sind, gibt es weiterhin Bestrebungen nach größerer Autonomie für das Széklerland, was jedoch aufgrund der Verfassung, die Rumänien als "einheitlichen und unteilbaren Nationalstaat" definiert, auf Ablehnung stößt. Ein Lokalaugenschein. 
+Im Minet-Portrait: Gianna Olinda Cadonau ist in Indien geboren, wuchs aber im Engadin auf. Sie studierte Internationale Beziehungen und Kulturmanagement. Bei der Lia Rumantscha ist sie für die Kulturförderung verantwortlich, darüber hinaus engagiert sie sich in verschiedenen Institutionen für die Kultur im Kanton Graubünden. Sie schreibt Lyrik und Prosa auf Romanisch und Deutsch. 
+In der Reihe "Tribal Voices" erzählt die Aktivistin Ehuana Yaira Yanomami aus Brasilien von der Zerstörung des Yanomami-Urwaldes und wie sie sich zur Wehr setzt. 
+Im Minet-Gespräch ist Eurac-Forscherin Katharina Crepaz zu Gast, um über Michael Gaismair und Alexander Langer als Ideengeber für gesellschaftliche Veränderungsprozesse zu sprechen. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20250917221000 +0200" stop="20250917223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250918200000 +0200" stop="20250918202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250918202000 +0200" stop="20250918204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Vorlieben</sub-title>
+    <desc>Fast jeder von uns hat eine Lieblingsfarbe oder ein Lieblingsessen. Geschmäcker sind bekanntlich verschieden. Doch was sind die Gründe dafür? Moderation: Karin Gschnitzer.
+
+Entscheidend für das Entstehen solcher Vorlieben und Abneigungen ist die Ausbildung eines Erkennungs-Gedächtnisses. Es basiert auf individuellen Erfahrungen: Neuronale Netze im Gehirn bestimmen, welche Erfahrungen zu Aversionen oder Akzeptanz führen, aber auch Mechanismen wie Erziehung, Werbung oder andere Einflüsse haben einen Einfluss darauf.  
+Wie Werbung, Social Media und Verpackungsdesign "Lieblingsprodukte" erschaffen, darüber sprechen wir mit Gunde Bauhofer von der Südtiroler Verbraucherzentrale. 
+Unser mobiler Reporter hat sich zum Thema "Schubladendenken und Stereotype" umgehört und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Die Farben des Hugo Vallazza".</desc>
+  </programme>
+  <programme start="20250918221000 +0200" stop="20250918223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250919180000 +0200" stop="20250919182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Vorlieben</sub-title>
+    <desc>Fast jeder von uns hat eine Lieblingsfarbe oder ein Lieblingsessen. Geschmäcker sind bekanntlich verschieden. Doch was sind die Gründe dafür? Moderation: Karin Gschnitzer. Entscheidend für das Entstehen solcher Vorlieben und Abneigungen ist die Ausbildung eines Erkennungs-Gedächtnisses. Es basiert auf individuellen Erfahrungen: Neuronale Netze im Gehirn bestimmen, welche Erfahrungen zu Aversionen oder Akzeptanz führen, aber auch Mechanismen wie Erziehung, Werbung oder andere Einflüsse haben einen Einfluss darauf.  
+Wie Werbung, Social Media und Verpackungsdesign "Lieblingsprodukte" erschaffen, darüber sprechen wir mit Gunde Bauhofer von der Südtiroler Verbraucherzentrale. 
+Unser mobiler Reporter hat sich zum Thema "Schubladendenken und Stereotype" umgehört und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Die Farben des Hugo Vallazza".</desc>
+  </programme>
+  <programme start="20250919182900 +0200" stop="20250919185830 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Felix Taschler ist erster "Junggastwirt des Jahres", die Brunecker Senni Bar ist Südtirols beliebtestes Cafe, die neue Hängebrücke über das Marterloch als Attraktion zwischen Afing und dem Sarntal. Er ist jung, motiviert und voller Ideen: Felix Taschler aus Brixen wurde von der Hoteliers- und Gastwirtejugend Südtirols zum ersten "Junggastwirt des Jahres" gekürt. Der 36-Jährige ist Geschäftsführer des beliebten Restaurants Grissino in Brixen und leitet seit Jahren den Club Max - zwei Betriebe, die unterschiedlicher kaum sein könnten. Doch genau das macht seine Arbeit so besonders.
+Eine neue Attraktion bereichert das Sarntal und Jenesien. Die neue Hängebrücke über dem Marterloch verbindet Technik, Natur und Tourismus auf einzigartige Weise. Sie ist mit 272 Metern Länge und 130 Metern Höhe nun die längste und höchste Hängebrücke Südtirols. Im Willkommen Magazin zeigen wir, wie nachhaltiger Tourismus und regionale Entwicklung Hand in Hand gehen.
+Zum zweiten Mal wurden Südtirols beliebteste Bars und Cafés gekürt - über 24.000 Stimmen wurden heuer abgegeben, mehr als je zuvor. Landessieger wurde die "Senni Bar" in Bruneck. Ausgezeichnet wurde auch das „Weinhaus Punkt“ in Kaltern. Wir stellen beide Lokale näher vor.</desc>
+  </programme>
+  <programme start="20250919200000 +0200" stop="20250919202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250919202100 +0200" stop="20250919210432 +0200" channel="Rai Südtirol">
+    <title>Herausforderung Naturschutz in Südtirol</title>
+    <sub-title>Ein Film von Hubert und Matthias Schönegger</sub-title>
+    <desc>Südtirol - ein Naturjuwel inmitten von Europa. Doch wie können Natur, Alpintourismus und Landwirtschaft nebeneinander existieren und welche Lösungsansätze gibt es?
+
+Eine Fülle unterschiedlicher Landschaften bietet zahllosen Pflanzen- und Tierarten einen Lebensraum. Markante, weltberühmte Gipfel, grüne Almwiesen, glasklare Bergseen, Wälder und fruchtbare Böden locken die Menschen seit jeher in diese faszinierende Bergwelt. 
+Am Beispiel Seiseralm erleben wir die unterschiedlichen Interessen am Berg: Bauern möchten Pferdebeweidung, Biologen den Fortbestand der seltenen Orchideen, Touristiker ein Speicherbecken. Gemeinsam wird nach Lösungsansätzen gesucht, denn Naturschutz gelingt nur gemeinsam.
+Die Doku von Hubert und Matthias Schönegger zeigt aktuelle Naturschutz-Themen in Südtirol auf.</desc>
+  </programme>
+  <programme start="20250919210500 +0200" stop="20250919212923 +0200" channel="Rai Südtirol">
+    <title>Heilige Grenzen</title>
+    <sub-title>Steinerne Zeichen in der Landschaft</sub-title>
+    <desc>Zäune und Mauern sind Zeichen in der Landschaft, mitunter ziehen sie geradezu heilige Grenzen. Wenn sie auch weniger Beachtung finden als stolze Schlösser oder aufragende Bauten - die Mauern und Zäune erzählen von Besitz und Heimat gleichermaßen. 
+Mauern und Zäune trennen mitunter Recht von Unrecht, sie waren Streitpunkt unter Bauern und Ursprung von Sagen. Mauern aus Stein begleiten den Weg des Wanderers, beschützen vor dem Fremden und halten - glaubt man dem Volksmund - gar Tote in Schach. 
+In der Dokumentation von Marco Polo werden auch Vergleiche gezogen: Im Himalaya beispielsweise werden aus den aufgeschichteten Steinen am Wegrand Gebetsmauern.</desc>
+  </programme>
+  <programme start="20250919212900 +0200" stop="20250919215905 +0200" channel="Rai Südtirol">
+    <title>Der automobile Mensch - Deutschland</title>
+    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
+    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, wenn die Bemühungen um Klimaschutz, Boden- und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen.
+Seiß bringt in seinen filmischen Beobachtungen Beispiele aus Deutschland: Er berichtet über den Ausbau der Autobahnen und Hauptverkehrsadern, über die Stau-Hauptstadt München und bedauert die Stilllegung der Zugstrecke entlang der Romantischen Straße. 
+Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
+  </programme>
+  <programme start="20250919221000 +0200" stop="20250919223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250920180000 +0200" stop="20250920182930 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Ein Oldtimer-Ausflug mit den Jesuheimer Senioren, Stress und Stressbewältigung, Pflegeanvertrauung und die second-hand-Boutique des Vereins Comedicus sind Themen dieser Sendung. Bereits zum zehnten Mal haben sich die Überetscher-Oldtimer-Freunde mit Seniorinnen und Senioren des Jesuheimes in Girlan auf Sternenfahrt begeben - ein Ausflug, von dem alle Beteiligten lange zehren.
+Der September ist vor allem für Eltern ein besonders herausfordernder Monat, Kurse sind zu organisieren, Schulmaterialien einzukaufen, der Rhythmus muss umgestellt werden. Ein Wundermittel gegen Stress - so sagt der Psychologe Oliver Sparber - gibt es nicht, aber viele kleine Rezepte, die uns helfen, Ruhe und Klarheit zu finden. 
+Eine Auszeit in anderem Sinne nehmen und bekommen minderjährige Kinder, die - auf Zeit - einem Paar oder einer Einzelperson anvertraut werden, weil sie aus verschiedenen Gründen nicht bei ihren Eltern aufwachsen können. Eine Herausforderung ist es für alle, vor allem für die Kinder, wenn sie traumatisiert sind. Pflegeanvertrauung ist das Thema, zu dem sich Claudia Schuler in dieser Sendung mit ihrem Gast unterhält.</desc>
+  </programme>
+  <programme start="20250920182900 +0200" stop="20250920185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wir berichten wir von einer Südtiroler Familie, die beim Online-Trading mehr als 20.000 Euro verloren hat. Ein Betroffener schildert seine Erfahrungen und Gunde Bauhofer von der Verbraucherzentrale erklärt, wie man sich vor solchen Betrugsmaschen schützen kann. Doch damit nicht genug: Häufig tauchen nach solchen Fällen auch dubiose "Rechtsberater" auf, die schnelle und sichere Geldversprechen machen - und den Betroffenen erneut das Letzte abnehmen.
+Seit diesem Jahr gilt für junge Autofahrerinnen und Autofahrer eine verlängerte Probezeit von drei Jahren. Erlaubt sind Fahrzeuge mit etwas mehr Leistung, gleichzeitig bleiben Alkohol- und Tempolimits streng. Was bedeutet das für Fahrschülerinnen und Fahrschüler in Südtirol?
+In unserer Reihe Lebenswerte Orte in Südtirol geht es diesmal nach Feldthurns: Wir stellen das Dorf am Eisacktaler Sonnenhang hoch über Klausen vor, mit Menschen, die hier leben und arbeiten, darunter ein TV-bekannter Meisterkonditor und weitere engagierte Handelstreibende.</desc>
+  </programme>
+  <programme start="20250920200000 +0200" stop="20250920202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250920202100 +0200" stop="20250920202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250920202500 +0200" stop="20250920205030 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Gesund schlafen – aber wie?</sub-title>
+    <desc>Schlafstörungen gehören für viele Südtiroler:innen zum Alltag - mindestens drei von zehn sind betroffen. Für sie bedeutet die Nacht oft kein Ausruhen, sondern Grübeln und Wachliegen. 
+
+Am Morgen bleibt dann das Gefühl, erschöpft zu sein, obwohl man eigentlich geschlafen hat. Solche Nächte können das ganze Leben aus dem Gleichgewicht bringen. In der Reportage Gesundheit zeigen Ulli Velano, wie sehr Schlafprobleme das Leben der Betroffenen prägen, und fragt nach, wie man wieder zu erholsamem Schlaf finden kann. Allgemeinmediziner Ivo Garoscio erklärt, wie kleine Veränderungen im Alltag große Wirkung haben können. Die HNO-Ärztin Vera Staffler vom Krankenhaus Brixen spricht über Möglichkeiten, Schnarchen und Atemaussetzer medizinisch zu behandeln. Und die Schlafexpertin und Neurologin Viola Gschließer vom Zentrum für Schlafmedizin macht Mut, denn selbst schwere Fälle lassen sich therapieren - und zeigen, dass guter Schlaf für niemanden unerreichbar bleiben muss.</desc>
+  </programme>
+  <programme start="20250920221000 +0200" stop="20250920223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250921200000 +0200" stop="20250921202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250921202100 +0200" stop="20250921205030 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Sepp Messner Windschnur</sub-title>
+    <desc>Der in Gufidaun geborene Sepp Messner Windschnur ist eine feste Größe in der Südtiroler Liederszene. Mit seinen humorvollen und authentischen Dialektliedern prägte er Generationen. 
+
+Trotz seines Erfolges blieb er durch seinen Beruf als Malermeister stets bodenständig und bewies, dass regional verwurzelte Musik über Jahrzehnte hinweg relevant bleiben kann.
+In der Sendung "Privat" mit Markus Frings blickt Sepp Messner Windschnur auf sein musikalisches Leben zurück, erzählt von Erfolgen, Rückschlägen und einem Einschnitt, der alles veränderte: Im Herbst 2022 stand er auf der Bühne und am nächsten Tag war seine Stimme weg. Kurz darauf folgte die Diagnose Schilddrüsenkrebs.
+Sepp Messner Windschnur ist Gast der 150. Ausgabe von Privat, eine Sendereihe, die seit 2007 regelmäßig ausgestrahlt wird.</desc>
+  </programme>
+  <programme start="20250921205000 +0200" stop="20250921205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250921221000 +0200" stop="20250921223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
