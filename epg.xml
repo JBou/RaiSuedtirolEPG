@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250913180000 +0200" stop="20250913185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Tänzerin, Performerin und Choreographin Miriam Taschler, die Schauspielerin Hanenn Huber, 25 Jahre Festival Transart und ein Rückblick auf 40 Jahre Literatur Lana sind Themen der Sendung. Zu Gast sind die Schauspielerin Karin Verdorfer und Isabel Goller, Harfenistin bei Südtirol Filarmonica.  Die Tänzerin, Performerin und Choreographin Miriam Taschler ist 1994 in Toblach geboren, mit 16 kam sie über einen Sommerjob nach London und blieb spontan dort, maturierte an einer Schule für Tanz, schloss ein Studium der Sozialpsychologie ab, ging nach Berlin, wo sie fand, was sie suchte: zeitgenössischer Tanz, in dem Körper, Gedanken und Gefühle eins zu werden scheinen. Die Rolle als Luftgeist Ariel im Stück Der Sturm der Freilichtspiele Südtiroler Unterland war die erste Produktion, die sie seit 2010 wieder für längere Zeit nach Südtirol führte. 
-Die Grödnerin Hanenn Huber wollte ans Theater, seit sie sich erinnern kann. Nach Abschluss der Schauspiel Akademie in München spielte sie bei den Freilichtspielen Lana, bei den Sommerspielen am Ritten, heuer auf Schloss Tirol, im Theater in der Altstadt, in Bruneck, bei den Vereinigten Bühnen Bozen. Nun ist sie beim Entwerfen einer Theaterinitiative in der Basis Vinschgau in´Schlanders.
-Mit einem poetischen Gastmahl und dem Motto "Alles wiederholt sich" feierten die Literaturtage Lana Ende August ihren 40. Geburtstag. Das Fest war wie die Literaturtage selbst, ein Ort der Begegnung und des Austausches.  
-25 Jahre Festival Transart werden heuer im September gefeiert. Das Festival, das vor 25 Jahren in der Bozner Industriezone gestartet ist, ist mittlerweile ein wichtiger Bestandteil des Südtirol Kulturlebens. Ein Rückblick. 
-Noch bis zum 23. November bleibt die Architekturbiennale in Venedig geöffnet. Der in Brixen geborene und in Wien wohnhafte Architekt Michael Obrist ist Teil des Kuratorenteams des österreichischen Pavillons. Thema ist der kommunale Wohnbau in Wien.</desc>
-  </programme>
-  <programme start="20250913200000 +0200" stop="20250913202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250913202100 +0200" stop="20250913202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250913202500 +0200" stop="20250913205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Ein Oldtimer-Ausflug mit den Jesuheimer Senioren, Stress und Stressbewältigung, Pflegeanvertrauung und die second-hand-Boutique des Vereins Comedicus sind Themen dieser Sendung.
-
-Bereits zum zehnten Mal haben sich die Überetscher-Oldtimer-Freunde mit Seniorinnen und Senioren des Jesuheimes in Girlan auf Sternenfahrt begeben - ein Ausflug, von dem alle Beteiligten lange zehren.
-Der September ist vor allem für Eltern ein besonders herausfordernder Monat, Kurse sind zu organisieren, Schulmaterialien einzukaufen, der Rhythmus muss umgestellt werden. Ein Wundermittel gegen Stress - so sagt der Psychologe Oliver Sparber - gibt es nicht, aber viele kleine Rezepte, die uns helfen, Ruhe und Klarheit zu finden. 
-Eine Auszeit in anderem Sinne nehmen und bekommen minderjährige Kinder, die - auf Zeit - einem Paar oder einer Einzelperson anvertraut werden, weil sie aus verschiedenen Gründen nicht bei ihren Eltern aufwachsen können. Eine Herausforderung ist es für alle, vor allem für die Kinder, wenn sie traumatisiert sind. Pflegeanvertrauung ist das Thema, zu dem sich Claudia Schuler in dieser Sendung mit ihrem Gast unterhält.</desc>
-  </programme>
-  <programme start="20250913221000 +0200" stop="20250913223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250914200000 +0200" stop="20250914202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
