@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250914200000 +0200" stop="20250914202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250914202100 +0200" stop="20250914204530 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Sie ist schnell, ehrgeizig - und liebt das Wasser. Die 21-jährige Tamara Drescher aus Meran zählt zu den besten Kanutinnen Italiens. Vor Kurzem hat sie sich den Titel der Italienmeisterin geholt - und das, obwohl sie erst mit 14 richtig in den Kanusport eingestiegen ist. Wir haben Tamara beim Training begleitet und mit ihr über Erfolge, Durchhaltevermögen und große Ziele gesprochen.
-
-Die Natur- und Wildnisschule "Die Wurzel" in Platzers bei Tisens bietet Jugendlichen ein Abenteuer fernab von Handy, WLAN und Sozialen Medien. Statt andauernd Online sein heißt es hier: Feuer machen, Bogenschießen, Hütten bauen und lernen, was in der Natur essbar ist. Gemeinsam in der Gruppe erleben die Teilnehmer, wie spannend es sein kann, bewusst und achtsam in und mit der Natur zu leben.
-Wenn sie Schule vorbei ist, heißt es für viele Südtiroler Jugendliche: Arbeiten statt chillen. Doch warum nehmen so viele einen Sommerjob an - wir haben vier jungen Erwachsenen beim Arbeiten über die Schulter geschaut.</desc>
-  </programme>
-  <programme start="20250914204500 +0200" stop="20250914204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250914221000 +0200" stop="20250914223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250915180000 +0200" stop="20250915181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
