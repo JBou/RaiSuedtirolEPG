@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250915180000 +0200" stop="20250915181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 3. Oberliga-Runde findet in Tramin statt, wo die Hausherren auf St. Pauls treffen. Dieses Uralt-Derby wird bereits zum 66. Mal ausgetragen und ist das traditionsreichste Duell im Südtiroler Amateurfußball.
-Außerdem empfängt der Bozner FC im Stadtderby der Landeshauptstadt Virtus Bozen. In der Landesliga spielt Stegen zu Hause gegen Leifers.</desc>
-  </programme>
-  <programme start="20250915181400 +0200" stop="20250915183330 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>25 Jahre Bobby</sub-title>
-    <desc>Vor einem Vierteljahrhundert begann die Erfolgsgeschichte des kleinen Zirkusäffchens Bobby. Die Kalterer Verena und Robert schufen mit viel Herz Geschichten und Lieder rund um das fröhliche, singende Äffchen, das seitdem tausendeKinder begeistert.
-Zum Jubiläum besuchen wir Bobby und seine "Familie" im Urlaub am Meer. Gemeinsam mit Tochter Nadia blicken Verena und Robert auf 25 unvergessliche Jahre voller Musik und Abenteuer zurück. 
-Anschließend gibt es ein leckeres Rezept mit Safran.</desc>
-  </programme>
-  <programme start="20250915183400 +0200" stop="20250915185900 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Sie ist schnell, ehrgeizig - und liebt das Wasser. Die 21-jährige Tamara Drescher aus Meran zählt zu den besten Kanutinnen Italiens. Vor Kurzem hat sie sich den Titel der Italienmeisterin geholt - und das, obwohl sie erst mit 14 richtig in den Kanusport eingestiegen ist. Wir haben Tamara beim Training begleitet und mit ihr über Erfolge, Durchhaltevermögen und große Ziele gesprochen. Die Natur- und Wildnisschule "Die Wurzel" in Platzers bei Tisens bietet Jugendlichen ein Abenteuer fernab von Handy, WLAN und Sozialen Medien. Statt andauernd Online sein heißt es hier: Feuer machen, Bogenschießen, Hütten bauen und lernen, was in der Natur essbar ist. Gemeinsam in der Gruppe erleben die Teilnehmer, wie spannend es sein kann, bewusst und achtsam in und mit der Natur zu leben.
-Wenn sie Schule vorbei ist, heißt es für viele Südtiroler Jugendliche: Arbeiten statt chillen. Doch warum nehmen so viele einen Sommerjob an - wir haben vier jungen Erwachsenen beim Arbeiten über die Schulter geschaut.</desc>
-  </programme>
-  <programme start="20250915200000 +0200" stop="20250915202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250915202000 +0200" stop="20250915215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Südtirol zwischen Ankommen und Fremdbleiben</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Geschlossene Gesellschaft. Wie lang geht das noch in Südtirol" Die Neuen sind unter uns, viele schon in der zweiten Generation. Und sie sprengen die ethnischen Käfige, in denen Südtirol steckt. 
-
-Die Ersten kamen 1991 aus Albanien. 30 Jahre später holt Filmemacher Erald Dika die Einwanderer und ihre Nachkommen vor die Kamera: "Albanien in Südtirol" ist ein Porträt über Erwartungen, Enttäuschungen, Hoffnungen.
-In die Runde fragen wir: Wann fühlen sich Menschen zugehörig? Wie lange gilt man fremd? Und welche Mythen rund um Migration sind einfach falsch? Es sprechen Leon Pergjoka, Soziologe mit albanischen Wurzeln, Johanna Mitterhofer, Migrationsforscherin an der Eurac, und Lucio Giudiceandrea, Journalist und "Calabro-Tiroler". 
-Im Interview: Matteo Da Col, Präsident des Vereins Diverkstatt in Bruneck, und der Comedian Jakob Messner Windschnur. Gabriele Crepaz moderiert. Live aus dem Kulturbahnhof EST in Bruneck.</desc>
-  </programme>
-  <programme start="20250915221000 +0200" stop="20250915223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250916200000 +0200" stop="20250916202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
