@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250916200000 +0200" stop="20250916202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250916202000 +0200" stop="20250916203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250916203500 +0200" stop="20250916204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 3. Oberliga-Runde findet in Tramin statt, wo die Hausherren auf St. Pauls treffen. Dieses Uralt-Derby wird bereits zum 66. Mal ausgetragen und ist das traditionsreichste Duell im Südtiroler Amateurfußball.
-Außerdem empfängt der Bozner FC im Stadtderby der Landeshauptstadt Virtus Bozen. In der Landesliga spielt Stegen zu Hause gegen Leifers.</desc>
-  </programme>
-  <programme start="20250916221000 +0200" stop="20250916223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250917200000 +0200" stop="20250917202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
