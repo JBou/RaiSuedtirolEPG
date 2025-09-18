@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250917200000 +0200" stop="20250917202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250917202000 +0200" stop="20250917204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die ungarischsprachigen Szekler in Rumänien und ihr Wunsch nach mehr Autonomie, Kulturfrau Gianna Olinda Cadonau aus dem Engadin, Eurac-Forscherin Katharina Crepaz über Gaismair und Langer.
-
-Die Szekler sind eine ungarischsprachige Bevölkerungsgruppe in Rumänien, die hauptsächlich im historischen Szeklerland in Siebenbürgen lebt und die größte ungarische Minderheit des Landes bildet. Obwohl ihre Minderheitenrechte in Rumäniens Verfassung verankert sind, gibt es weiterhin Bestrebungen nach größerer Autonomie für das Széklerland, was jedoch aufgrund der Verfassung, die Rumänien als "einheitlichen und unteilbaren Nationalstaat" definiert, auf Ablehnung stößt. Ein Lokalaugenschein. 
-Im Minet-Portrait: Gianna Olinda Cadonau ist in Indien geboren, wuchs aber im Engadin auf. Sie studierte Internationale Beziehungen und Kulturmanagement. Bei der Lia Rumantscha ist sie für die Kulturförderung verantwortlich, darüber hinaus engagiert sie sich in verschiedenen Institutionen für die Kultur im Kanton Graubünden. Sie schreibt Lyrik und Prosa auf Romanisch und Deutsch. 
-In der Reihe "Tribal Voices" erzählt die Aktivistin Ehuana Yaira Yanomami aus Brasilien von der Zerstörung des Yanomami-Urwaldes und wie sie sich zur Wehr setzt. 
-Im Minet-Gespräch ist Eurac-Forscherin Katharina Crepaz zu Gast, um über Michael Gaismair und Alexander Langer als Ideengeber für gesellschaftliche Veränderungsprozesse zu sprechen. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20250917221000 +0200" stop="20250917223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250918200000 +0200" stop="20250918202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
