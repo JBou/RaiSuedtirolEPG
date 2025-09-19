@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250918200000 +0200" stop="20250918202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250918202000 +0200" stop="20250918204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Vorlieben</sub-title>
-    <desc>Fast jeder von uns hat eine Lieblingsfarbe oder ein Lieblingsessen. Geschmäcker sind bekanntlich verschieden. Doch was sind die Gründe dafür? Moderation: Karin Gschnitzer.
-
-Entscheidend für das Entstehen solcher Vorlieben und Abneigungen ist die Ausbildung eines Erkennungs-Gedächtnisses. Es basiert auf individuellen Erfahrungen: Neuronale Netze im Gehirn bestimmen, welche Erfahrungen zu Aversionen oder Akzeptanz führen, aber auch Mechanismen wie Erziehung, Werbung oder andere Einflüsse haben einen Einfluss darauf.  
-Wie Werbung, Social Media und Verpackungsdesign "Lieblingsprodukte" erschaffen, darüber sprechen wir mit Gunde Bauhofer von der Südtiroler Verbraucherzentrale. 
-Unser mobiler Reporter hat sich zum Thema "Schubladendenken und Stereotype" umgehört und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Die Farben des Hugo Vallazza".</desc>
-  </programme>
-  <programme start="20250918221000 +0200" stop="20250918223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250919180000 +0200" stop="20250919182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Vorlieben</sub-title>
@@ -126,6 +107,180 @@ Sepp Messner Windschnur ist Gast der 150. Ausgabe von Privat, eine Sendereihe, d
     <desc/>
   </programme>
   <programme start="20250921221000 +0200" stop="20250921223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250922180000 +0200" stop="20250922181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 4. Oberliga-Runde ist das Duell St Georgen gegen Tramin. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 24. Mal aufeinander. Derby-Zeit ist in der Landesliga angesagt: Weinstraße Süd und Salurn stehen sich in Kurtatsch im Unterlandler Derby gegenüber, Bruneck und Stegen bestreiten hingegen in Reischach das Pusterer Derby.</desc>
+  </programme>
+  <programme start="20250922181400 +0200" stop="20250922182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Rosen</sub-title>
+    <desc>In dieser Folge von "Blumen und Co" lädt Botanikerin Karin zu einem besonderen Rosenspaziergang durch die Gärten von Schloss Trauttmansdorff ein. Auf den sonnigen Terrassen erblühen über 100 verschiedene Rosenarten in den unterschiedlichsten Düften, Farben und Formen. Manche Rosen öffnen sich so perfekt, als wären sie gemalt, andere verströmen ihren betörenden Duft, noch bevor man sie überhaupt erblickt. 
+Doch woher kommt diese unglaubliche Vielfalt? Und warum üben Rosen seit Jahrtausenden eine solche Faszination auf die Menschen aus?</desc>
+  </programme>
+  <programme start="20250922182900 +0200" stop="20250922185430 +0200" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Gesund schlafen - aber wie?</sub-title>
+    <desc>Schlafstörungen gehören für viele Südtiroler:innen zum Alltag - mindestens drei von zehn sind betroffen. Für sie bedeutet die Nacht oft kein Ausruhen, sondern Grübeln und Wachliegen. 
+Am Morgen bleibt dann das Gefühl, erschöpft zu sein, obwohl man eigentlich geschlafen hat. Solche Nächte können das ganze Leben aus dem Gleichgewicht bringen. In der Reportage Gesundheit zeigen Ulli Velano, wie sehr Schlafprobleme das Leben der Betroffenen prägen, und fragt nach, wie man wieder zu erholsamem Schlaf finden kann. Allgemeinmediziner Ivo Garoscio erklärt, wie kleine Veränderungen im Alltag große Wirkung haben können. Die HNO-Ärztin Vera Staffler vom Krankenhaus Brixen spricht über Möglichkeiten, Schnarchen und Atemaussetzer medizinisch zu behandeln. Und die Schlafexpertin und Neurologin Viola Gschließer vom Zentrum für Schlafmedizin macht Mut, denn selbst schwere Fälle lassen sich therapieren - und zeigen, dass guter Schlaf für niemanden unerreichbar bleiben muss.</desc>
+  </programme>
+  <programme start="20250922200000 +0200" stop="20250922202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250922202000 +0200" stop="20250922210218 +0200" channel="Rai Südtirol">
+    <title>Sarner Gschick</title>
+    <sub-title/>
+    <desc>Sechs Sarner Kunsthandwerker:innen haben sich zusammengeschlossen, um gemeinsam Tradition und Innovation voranzutreiben: Federkielstickerei, Produkte aus Wolle und Zirbenholz usw. 
+Im Sarntal gibt es noch einige passionierte Handwerksmeister:innen, die sich seit Jahrzehnten für ihre Zunft einsetzen. Sechs von ihnen haben sich zu einer kleinen Handwerkervereinigung zusammengeschlossen, dem "Sarner Gschick", mit dem Ziel gemeinsam aufzutreten und sich gegenseitig zu unterstützen. Filmemacherin Claudia Bosch wirft in ihrer Dokumentation nicht nur einen Blick darauf, wie man diese Kooperation genau funktioniert, sondern auch wie die einzelnen Sarner-Gschick-Mitglieder arbeiten.</desc>
+  </programme>
+  <programme start="20250922210200 +0200" stop="20250922214650 +0200" channel="Rai Südtirol">
+    <title>Berge der Zukunft</title>
+    <sub-title>Von Gadertal in die Dolomiten</sub-title>
+    <desc>Das Gadertal liegt im Herzen der Dolomiten in Südtirol zwischen den beiden Naturparks Puez-Geisler und Fanes-Sennes-Prags. Wir lernen besondere Menschen und Geschichten im Lauf der Jahreszeiten kennen.  
+So singen etwa die Schwestern Elisabeth und Marlene Schuen von der Musikgruppe Ganes ihre Lieder am liebsten in ladinischer Sprache. Berglegende Willy Costamoling erzählt von seiner einzigartigen Entdeckung der höchstgelegenen Bärenhöhle Europas. Rosa und Anton Piccolruaz bewirten auf dem Alfareihof ihre Gäste im ältesten Bauernhof des Gadertals. Seine Ursprünge gehen bis ins 13. Jahrhundert zurück. Nach einer ausgiebigen Wanderung rund um das Würzjoch endet die Reise im tierverschneiten Hochplateau Fanes, umgeben von Dreitausendern, wo Anna und Gabor in der Lavarella-Schutzhütte die höchstgelegene Bierbrauerei Europas betreiben.</desc>
+  </programme>
+  <programme start="20250922214700 +0200" stop="20250922215704 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Wegepate Adolf Altstätter</sub-title>
+    <desc>Pure Leidenschaft: Adolf Altstätter ist einer der dienstältesten Wegepaten Südtirols. Jahrzehntelang hat er unter anderem über 200 Kilometer Wanderwege in Martell markiert. 2024 gibt er Farbe und Pinsel an einen jüngeren ab.</desc>
+  </programme>
+  <programme start="20250922221000 +0200" stop="20250922223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250923200000 +0200" stop="20250923202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250923202000 +0200" stop="20250923203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionsendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250923203500 +0200" stop="20250923204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 4. Oberliga-Runde ist das Duell St Georgen gegen Tramin. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 24. Mal aufeinander. Derby-Zeit ist in der Landesliga angesagt: Weinstraße Süd und Salurn stehen sich in Kurtatsch im Unterlandler Derby gegenüber, Bruneck und Stegen bestreiten hingegen in Reischach das Pusterer Derby.</desc>
+  </programme>
+  <programme start="20250923221000 +0200" stop="20250923223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250924200000 +0200" stop="20250924202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250924202000 +0200" stop="20250924204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Hirtinnenleben zwischen Hingabe und Strapaze, Herausforderungen in der Almkäseproduktion und im Almausschank, Almabtrieb zwischen Brauchtum und Unterhaltung. 
+
+Katharina Lunger ist ein Kind der Berge, und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh, Kühe, ein Pferd, einen Esel und einen Muli. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist. Auf anderen Almen geht es geselliger zu. Viele Almleute verbinden die klassische Weidewirtschaft mit einer Almkäserei und einem Almausschank. Diese Kombination bringt nicht nur mehr Besucher, sondern auch neue Herausforderungen mit sich, wie Land &amp; Leben bei einem Besuch auf der Tauernalm im Ahrntal erfahren hat. 
+Ein besonderes Beispiel für das Zusammenspiel von Tradition und Moderne zeigt sich beim Almabtrieb in Latzfons. Hier verschmelzen jahrhundertealtes Brauchtum und zeitgemäße Eventkultur zu einem Fest für Einheimische und Gäste. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20250924221000 +0200" stop="20250924223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250925200000 +0200" stop="20250925202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250925202000 +0200" stop="20250925204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Ratgeberliteratur</sub-title>
+    <desc>Jede Zeit bringt ihre Ängste, Sehnsüchte und damit auch die passenden Ratgeber hervor, die als Gradmesser für die aktuellen Befindlichkeiten der Gesellschaft gesehen werden können.  
+
+In den Siebzigern träumte man vom Aussteigen, in den Achtzigern vom Reichwerden, in den Neunzigern von der totalen Ich-Optimierung an Körper, Geist und Seele. Und wovon träumen die Menschen heute? Welche Ratgeber in Südtirol gefragt sind, erzählt uns unser Gast Thomas Kager, Verlagsleiter bei Edition Raetia. In der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Erste Hilfe für die Seele", und unser mobiler Reporter hat sich anlässlich des Großelterntages am 3. Oktober zum Thema Familie umgehört.  
+Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250925221000 +0200" stop="20250925223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250926180000 +0200" stop="20250926182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Ratgeberliteratur</sub-title>
+    <desc>Jede Zeit bringt ihre Ängste, Sehnsüchte und damit auch die passenden Ratgeber hervor, die als Gradmesser für die aktuellen Befindlichkeiten der Gesellschaft gesehen werden können.  
+In den Siebzigern träumte man vom Aussteigen, in den Achtzigern vom Reichwerden, in den Neunzigern von der totalen Ich-Optimierung an Körper, Geist und Seele. Und wovon träumen die Menschen heute?  
+Welche Ratgeber in Südtirol gefragt sind, erzählt uns unser Gast Thomas Kager, Verlagsleiter bei Edition Raetia. In der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Erste Hilfe für die Seele", und unser mobiler Reporter hat sich anlässlich des Großelterntages am 3. Oktober zum Thema Familie umgehört.  
+Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20250926182900 +0200" stop="20250926185859 +0200" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Toronto</sub-title>
+    <desc>Die kanadische Millionenstadt ist der Puls des Landes und steht ganz im Zeichen von Kunst, Musik und Architektur. Keine andere Stadt ist derart kreativ, innovativ und impulsiv. Wir erleben Menschen, die bewegen, ändern, provozieren und polarisieren. Aber auch die Spuren der indigenen Völker werden entdeckt. Der Geist und die Kultur der Indianer wird auch von der jungen Generation gelebt. Die indigenen Völker Kanadas gaben der Stadt auch ihren Namen: Sammelplatz. Ein und kultureller und stylischer Streifzug durch Toronto.</desc>
+  </programme>
+  <programme start="20250926200000 +0200" stop="20250926202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250926202000 +0200" stop="20250926215332 +0200" channel="Rai Südtirol">
+    <title>Gschroa und Krawall</title>
+    <sub-title>Die 2010er Jahre in der Südtiroler Popkultur</sub-title>
+    <desc>Heimische Musikproduzenten werden über die Grenzen bekannt, natürlich auch Musikeri:innen und Interpret:innen wie Tracy Merano, Herbert Pixner, Hubert Dorigatti... 
+
+Das digitale Zeitalter ermöglicht es nun jedem, zu Hause selbst ein paar "Tracks" aufzunehmen. Junge Südtiroler Musikproduzenten machen sich bald einen Namen auch außerhalb der Grenzen so wie Chris Kaufmann oder Markus "Mac" Maya. Auch Tracy Merano macht Anfang des Jahrzehnts auf sich aufmerksam ebenso wie Mainfelt, die bald über die Grenzen hinaus Erfolge feiern. Mit Ganes sorgt eine rein weibliche und noch dazu ladinisch singende Popband in Süddeutschland für Furore - und Herbert Pixner startet richtig durch. Zahlreiche Fernsehsender, vor allem in Deutschland, reißen sich um ihn. Die jungen Reach Us Endorphine springen auf den Frei.Wild-Zug auf und landen mit ihrem Deutschrock in den deutschen Charts. Der Pusterer Bluesgitarrist Hubert Dorigatti wird 2017 bei der IBC Blues Challenge als bester Bluesgitarrist Italiens ausgezeichnet. Auch in der deutschen Erfolgsshow "The Voice of Germany" versuchen sich einige Südtiroler, so etwa Silvia Karbacher, die Leadsängerin von "PetraLust". Jahre zuvor hat bereits der Bozner Martin Perkmann den Versuch einer Castingshow gestartet und kommt bis ins Finale der österreichischen "Starmania". Dort tritt er allerdings nicht an. Diese Zeit ist aber sehr prägend für ihn.</desc>
+  </programme>
+  <programme start="20250926215400 +0200" stop="20250926215928 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Schrifstellerin Isabel Folie</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250926221000 +0200" stop="20250926223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250927180000 +0200" stop="20250927182930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Sepp Messner Windschnur</sub-title>
+    <desc>Der in Gufidaun geborene Sepp Messner Windschnur ist eine feste Größe in der Südtiroler Liederszene. Mit seinen humorvollen und authentischen Dialektliedern prägte er Generationen. 
+Trotz seines Erfolges blieb er durch seinen Beruf als Malermeister stets bodenständig und bewies, dass regional verwurzelte Musik über Jahrzehnte hinweg relevant bleiben kann.
+In der Sendung "Privat" mit Markus Frings blickt Sepp Messner Windschnur auf sein musikalisches Leben zurück, erzählt von Erfolgen, Rückschlägen und einem Einschnitt, der alles veränderte: Im Herbst 2022 stand er auf der Bühne und am nächsten Tag war seine Stimme weg. Kurz darauf folgte die Diagnose Schilddrüsenkrebs.
+Sepp Messner Windschnur ist Gast der 150. Ausgabe von Privat, eine Sendereihe, die seit 2007 regelmäßig ausgestrahlt wird.</desc>
+  </programme>
+  <programme start="20250927182900 +0200" stop="20250927185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die ungarischsprachigen Szekler in Rumänien und ihr Wunsch nach mehr Autonomie, Kulturfrau Gianna Olinda Cadonau aus dem Engadin, Eurac-Forscherin Katharina Crepaz über Gaismair und Langer.
+Die Szekler sind eine ungarischsprachige Bevölkerungsgruppe in Rumänien, die hauptsächlich im historischen Szeklerland in Siebenbürgen lebt und die größte ungarische Minderheit des Landes bildet. Obwohl ihre Minderheitenrechte in Rumäniens Verfassung verankert sind, gibt es weiterhin Bestrebungen nach größerer Autonomie für das Széklerland, was jedoch aufgrund der Verfassung, die Rumänien als "einheitlichen und unteilbaren Nationalstaat" definiert, auf Ablehnung stößt. Ein Lokalaugenschein. 
+Im Minet-Portrait: Gianna Olinda Cadonau ist in Indien geboren, wuchs aber im Engadin auf. Sie studierte Internationale Beziehungen und Kulturmanagement. Bei der Lia Rumantscha ist sie für die Kulturförderung verantwortlich, darüber hinaus engagiert sie sich in verschiedenen Institutionen für die Kultur im Kanton Graubünden. Sie schreibt Lyrik und Prosa auf Romanisch und Deutsch. 
+In der Reihe "Tribal Voices" erzählt die Aktivistin Ehuana Yaira Yanomami aus Brasilien von der Zerstörung des Yanomami-Urwaldes und wie sie sich zur Wehr setzt. 
+Im Minet-Gespräch ist Eurac-Forscherin Katharina Crepaz zu Gast, um über Michael Gaismair und Alexander Langer als Ideengeber für gesellschaftliche Veränderungsprozesse zu sprechen. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20250927200000 +0200" stop="20250927202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250927202100 +0200" stop="20250927202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250927202500 +0200" stop="20250927205030 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Inhalationen mit Thermalwasser, erntefrisches lokales Gemüse für die Gastronomie nebenan, hochwertiges Heu für Wellness und Käsespezialitäten. Moderation: Manuela Reiter. 
+
+Die Therme Meran bietet neben zahlreichen Innen- und Außenpools, einer weitläufigen Parkanlage, sowie einer beeindruckenden Saunalandschaft seit jeher auch Inhalationen an, um die Atemwege zu stärken und das Immunsystem zu unterstützen. In einer Zeit, in der gesundheitliche Aspekte immer stärker in den Vordergrund rücken, stellt dieses Angebot einen wichtigen Bestandteil des Gesamtangebots dar. In einem weiteren Beitrag geht es um frisches Gemüse: Die Wiesen des ehemaligen Lechnerhofs wurden in fruchtbare Gemüsefelder verwandelt, auf denen heute Zucchini, Tomaten und Brokkoli wachsen - abends landen sie erntefrisch im Restaurant vegi.table des Hotel Petrus auf den Tellern der Gäste. Ein anderes Beispiel zeigt, wie mehrere Betriebe aus Sand in Taufers ihre Kräfte bündeln: Beim Projekt "Taufrisch" werden gemeinsam Gemüse, Kräuter und Blumen angebaut, die regelmäßig geerntet und solidarisch verteilt werden. Im Herzen des Passeiertals verbindet Walter Moosmaier mit seinem hochwertigen Heu traditionelle Landwirtschaft mit dem modernen Tourismus. Sein Heu findet nicht nur in Wellness-Oasen Anwendung, sondern auch bei der Herstellung von exklusivem Heukäse zusammen mit Käse-Affineur Hansi Baumgartner.</desc>
+  </programme>
+  <programme start="20250927221000 +0200" stop="20250927223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
