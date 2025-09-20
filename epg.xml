@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250919180000 +0200" stop="20250919182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Vorlieben</sub-title>
-    <desc>Fast jeder von uns hat eine Lieblingsfarbe oder ein Lieblingsessen. Geschmäcker sind bekanntlich verschieden. Doch was sind die Gründe dafür? Moderation: Karin Gschnitzer. Entscheidend für das Entstehen solcher Vorlieben und Abneigungen ist die Ausbildung eines Erkennungs-Gedächtnisses. Es basiert auf individuellen Erfahrungen: Neuronale Netze im Gehirn bestimmen, welche Erfahrungen zu Aversionen oder Akzeptanz führen, aber auch Mechanismen wie Erziehung, Werbung oder andere Einflüsse haben einen Einfluss darauf.  
-Wie Werbung, Social Media und Verpackungsdesign "Lieblingsprodukte" erschaffen, darüber sprechen wir mit Gunde Bauhofer von der Südtiroler Verbraucherzentrale. 
-Unser mobiler Reporter hat sich zum Thema "Schubladendenken und Stereotype" umgehört und in der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus der Doku "Die Farben des Hugo Vallazza".</desc>
-  </programme>
-  <programme start="20250919182900 +0200" stop="20250919185830 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Felix Taschler ist erster "Junggastwirt des Jahres", die Brunecker Senni Bar ist Südtirols beliebtestes Cafe, die neue Hängebrücke über das Marterloch als Attraktion zwischen Afing und dem Sarntal. Er ist jung, motiviert und voller Ideen: Felix Taschler aus Brixen wurde von der Hoteliers- und Gastwirtejugend Südtirols zum ersten "Junggastwirt des Jahres" gekürt. Der 36-Jährige ist Geschäftsführer des beliebten Restaurants Grissino in Brixen und leitet seit Jahren den Club Max - zwei Betriebe, die unterschiedlicher kaum sein könnten. Doch genau das macht seine Arbeit so besonders.
-Eine neue Attraktion bereichert das Sarntal und Jenesien. Die neue Hängebrücke über dem Marterloch verbindet Technik, Natur und Tourismus auf einzigartige Weise. Sie ist mit 272 Metern Länge und 130 Metern Höhe nun die längste und höchste Hängebrücke Südtirols. Im Willkommen Magazin zeigen wir, wie nachhaltiger Tourismus und regionale Entwicklung Hand in Hand gehen.
-Zum zweiten Mal wurden Südtirols beliebteste Bars und Cafés gekürt - über 24.000 Stimmen wurden heuer abgegeben, mehr als je zuvor. Landessieger wurde die "Senni Bar" in Bruneck. Ausgezeichnet wurde auch das „Weinhaus Punkt“ in Kaltern. Wir stellen beide Lokale näher vor.</desc>
-  </programme>
-  <programme start="20250919200000 +0200" stop="20250919202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250919202100 +0200" stop="20250919210432 +0200" channel="Rai Südtirol">
-    <title>Herausforderung Naturschutz in Südtirol</title>
-    <sub-title>Ein Film von Hubert und Matthias Schönegger</sub-title>
-    <desc>Südtirol - ein Naturjuwel inmitten von Europa. Doch wie können Natur, Alpintourismus und Landwirtschaft nebeneinander existieren und welche Lösungsansätze gibt es?
-
-Eine Fülle unterschiedlicher Landschaften bietet zahllosen Pflanzen- und Tierarten einen Lebensraum. Markante, weltberühmte Gipfel, grüne Almwiesen, glasklare Bergseen, Wälder und fruchtbare Böden locken die Menschen seit jeher in diese faszinierende Bergwelt. 
-Am Beispiel Seiseralm erleben wir die unterschiedlichen Interessen am Berg: Bauern möchten Pferdebeweidung, Biologen den Fortbestand der seltenen Orchideen, Touristiker ein Speicherbecken. Gemeinsam wird nach Lösungsansätzen gesucht, denn Naturschutz gelingt nur gemeinsam.
-Die Doku von Hubert und Matthias Schönegger zeigt aktuelle Naturschutz-Themen in Südtirol auf.</desc>
-  </programme>
-  <programme start="20250919210500 +0200" stop="20250919212923 +0200" channel="Rai Südtirol">
-    <title>Heilige Grenzen</title>
-    <sub-title>Steinerne Zeichen in der Landschaft</sub-title>
-    <desc>Zäune und Mauern sind Zeichen in der Landschaft, mitunter ziehen sie geradezu heilige Grenzen. Wenn sie auch weniger Beachtung finden als stolze Schlösser oder aufragende Bauten - die Mauern und Zäune erzählen von Besitz und Heimat gleichermaßen. 
-Mauern und Zäune trennen mitunter Recht von Unrecht, sie waren Streitpunkt unter Bauern und Ursprung von Sagen. Mauern aus Stein begleiten den Weg des Wanderers, beschützen vor dem Fremden und halten - glaubt man dem Volksmund - gar Tote in Schach. 
-In der Dokumentation von Marco Polo werden auch Vergleiche gezogen: Im Himalaya beispielsweise werden aus den aufgeschichteten Steinen am Wegrand Gebetsmauern.</desc>
-  </programme>
-  <programme start="20250919212900 +0200" stop="20250919215905 +0200" channel="Rai Südtirol">
-    <title>Der automobile Mensch - Deutschland</title>
-    <sub-title>Filmische Beobachtungen von Reinhard Seiß</sub-title>
-    <desc>Ein aufrüttelndes Plädoyer des Stadtplaners und Filmemachers Reinhard Seiß für eine grundlegende Verkehrswende, wenn die Bemühungen um Klimaschutz, Boden- und Ressourcenschonung auch nur ansatzweise Erfolg haben sollen.
-Seiß bringt in seinen filmischen Beobachtungen Beispiele aus Deutschland: Er berichtet über den Ausbau der Autobahnen und Hauptverkehrsadern, über die Stau-Hauptstadt München und bedauert die Stilllegung der Zugstrecke entlang der Romantischen Straße. 
-Sein Film entlarvt die direkten und indirekten Treiber des "Systems Auto": Was bleibt, ist die Erkenntnis, dass im Verkehr nichts so sein müsste, wie es ist. Aber auch, dass die Bürger:innen die Wende hin zu einer zukunftstauglichen Mobilität wohl selbst einläuten müssen.</desc>
-  </programme>
-  <programme start="20250919221000 +0200" stop="20250919223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250920180000 +0200" stop="20250920182930 +0200" channel="Rai Südtirol">
     <title>Beziehungsweise</title>
     <sub-title>einfach.ethisch.leben</sub-title>
@@ -161,8 +114,8 @@ So singen etwa die Schwestern Elisabeth und Marlene Schuen von der Musikgruppe G
     <desc/>
   </programme>
   <programme start="20250923202000 +0200" stop="20250923203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionsendung</sub-title>
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
     <desc/>
   </programme>
   <programme start="20250923203500 +0200" stop="20250923204930 +0200" channel="Rai Südtirol">
@@ -281,6 +234,28 @@ Im Minet-Gespräch ist Eurac-Forscherin Katharina Crepaz zu Gast, um über Micha
 Die Therme Meran bietet neben zahlreichen Innen- und Außenpools, einer weitläufigen Parkanlage, sowie einer beeindruckenden Saunalandschaft seit jeher auch Inhalationen an, um die Atemwege zu stärken und das Immunsystem zu unterstützen. In einer Zeit, in der gesundheitliche Aspekte immer stärker in den Vordergrund rücken, stellt dieses Angebot einen wichtigen Bestandteil des Gesamtangebots dar. In einem weiteren Beitrag geht es um frisches Gemüse: Die Wiesen des ehemaligen Lechnerhofs wurden in fruchtbare Gemüsefelder verwandelt, auf denen heute Zucchini, Tomaten und Brokkoli wachsen - abends landen sie erntefrisch im Restaurant vegi.table des Hotel Petrus auf den Tellern der Gäste. Ein anderes Beispiel zeigt, wie mehrere Betriebe aus Sand in Taufers ihre Kräfte bündeln: Beim Projekt "Taufrisch" werden gemeinsam Gemüse, Kräuter und Blumen angebaut, die regelmäßig geerntet und solidarisch verteilt werden. Im Herzen des Passeiertals verbindet Walter Moosmaier mit seinem hochwertigen Heu traditionelle Landwirtschaft mit dem modernen Tourismus. Sein Heu findet nicht nur in Wellness-Oasen Anwendung, sondern auch bei der Herstellung von exklusivem Heukäse zusammen mit Käse-Affineur Hansi Baumgartner.</desc>
   </programme>
   <programme start="20250927221000 +0200" stop="20250927223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250928200000 +0200" stop="20250928202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250928202100 +0200" stop="20250928205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Wie ist es um die Bodengesundheit in Europa bestellt? Wie schnell bewegt sich das lockere Gestein nach dem Rückzug der Gletscher? Archäologische Forschung in Diktaturen. 
+
+In einem breit angelegten Forschungsprojekt, das von der Freien Universität Bozen koordiniert wird, können alle EU-Bürger:innen  die Beschaffenheit des eigenen Gartens, der Wiese oder des Waldes bestimmen und Bodenproben nehmen, die im Labor analysiert werden. In dieser Ausgabe des Wissenschaftsmagazins Campus zeigen wir auch, wie die Universität Innsbruck die Bewegung von lockerem Gestein misst, das durch den Rückzug der Gletschermassen an die Oberfläche kommt und nun langsam zu Tal rollt. Das Archäologiemuseum in Bozen wirft einen kritischen Blick auf die archäologische Forschung, die im 20. Jahrhundert von den totalitären Staaten Italien und Deutschland für politische Zwecke missbraucht wurde. Eine Spurensuche in interessanten Ausgrabungsstätten.</desc>
+  </programme>
+  <programme start="20250928205000 +0200" stop="20250928205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250928221000 +0200" stop="20250928223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
