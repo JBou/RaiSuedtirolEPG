@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250920180000 +0200" stop="20250920182930 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Ein Oldtimer-Ausflug mit den Jesuheimer Senioren, Stress und Stressbewältigung, Pflegeanvertrauung und die second-hand-Boutique des Vereins Comedicus sind Themen dieser Sendung. Bereits zum zehnten Mal haben sich die Überetscher-Oldtimer-Freunde mit Seniorinnen und Senioren des Jesuheimes in Girlan auf Sternenfahrt begeben - ein Ausflug, von dem alle Beteiligten lange zehren.
-Der September ist vor allem für Eltern ein besonders herausfordernder Monat, Kurse sind zu organisieren, Schulmaterialien einzukaufen, der Rhythmus muss umgestellt werden. Ein Wundermittel gegen Stress - so sagt der Psychologe Oliver Sparber - gibt es nicht, aber viele kleine Rezepte, die uns helfen, Ruhe und Klarheit zu finden. 
-Eine Auszeit in anderem Sinne nehmen und bekommen minderjährige Kinder, die - auf Zeit - einem Paar oder einer Einzelperson anvertraut werden, weil sie aus verschiedenen Gründen nicht bei ihren Eltern aufwachsen können. Eine Herausforderung ist es für alle, vor allem für die Kinder, wenn sie traumatisiert sind. Pflegeanvertrauung ist das Thema, zu dem sich Claudia Schuler in dieser Sendung mit ihrem Gast unterhält.</desc>
-  </programme>
-  <programme start="20250920182900 +0200" stop="20250920185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wir berichten wir von einer Südtiroler Familie, die beim Online-Trading mehr als 20.000 Euro verloren hat. Ein Betroffener schildert seine Erfahrungen und Gunde Bauhofer von der Verbraucherzentrale erklärt, wie man sich vor solchen Betrugsmaschen schützen kann. Doch damit nicht genug: Häufig tauchen nach solchen Fällen auch dubiose "Rechtsberater" auf, die schnelle und sichere Geldversprechen machen - und den Betroffenen erneut das Letzte abnehmen.
-Seit diesem Jahr gilt für junge Autofahrerinnen und Autofahrer eine verlängerte Probezeit von drei Jahren. Erlaubt sind Fahrzeuge mit etwas mehr Leistung, gleichzeitig bleiben Alkohol- und Tempolimits streng. Was bedeutet das für Fahrschülerinnen und Fahrschüler in Südtirol?
-In unserer Reihe Lebenswerte Orte in Südtirol geht es diesmal nach Feldthurns: Wir stellen das Dorf am Eisacktaler Sonnenhang hoch über Klausen vor, mit Menschen, die hier leben und arbeiten, darunter ein TV-bekannter Meisterkonditor und weitere engagierte Handelstreibende.</desc>
-  </programme>
-  <programme start="20250920200000 +0200" stop="20250920202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250920202100 +0200" stop="20250920202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250920202500 +0200" stop="20250920205030 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Gesund schlafen – aber wie?</sub-title>
-    <desc>Schlafstörungen gehören für viele Südtiroler:innen zum Alltag - mindestens drei von zehn sind betroffen. Für sie bedeutet die Nacht oft kein Ausruhen, sondern Grübeln und Wachliegen. 
-
-Am Morgen bleibt dann das Gefühl, erschöpft zu sein, obwohl man eigentlich geschlafen hat. Solche Nächte können das ganze Leben aus dem Gleichgewicht bringen. In der Reportage Gesundheit zeigen Ulli Velano, wie sehr Schlafprobleme das Leben der Betroffenen prägen, und fragt nach, wie man wieder zu erholsamem Schlaf finden kann. Allgemeinmediziner Ivo Garoscio erklärt, wie kleine Veränderungen im Alltag große Wirkung haben können. Die HNO-Ärztin Vera Staffler vom Krankenhaus Brixen spricht über Möglichkeiten, Schnarchen und Atemaussetzer medizinisch zu behandeln. Und die Schlafexpertin und Neurologin Viola Gschließer vom Zentrum für Schlafmedizin macht Mut, denn selbst schwere Fälle lassen sich therapieren - und zeigen, dass guter Schlaf für niemanden unerreichbar bleiben muss.</desc>
-  </programme>
-  <programme start="20250920221000 +0200" stop="20250920223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250921200000 +0200" stop="20250921202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
