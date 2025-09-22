@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250921200000 +0200" stop="20250921202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250921202100 +0200" stop="20250921205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Sepp Messner Windschnur</sub-title>
-    <desc>Der in Gufidaun geborene Sepp Messner Windschnur ist eine feste Größe in der Südtiroler Liederszene. Mit seinen humorvollen und authentischen Dialektliedern prägte er Generationen. 
-
-Trotz seines Erfolges blieb er durch seinen Beruf als Malermeister stets bodenständig und bewies, dass regional verwurzelte Musik über Jahrzehnte hinweg relevant bleiben kann.
-In der Sendung "Privat" mit Markus Frings blickt Sepp Messner Windschnur auf sein musikalisches Leben zurück, erzählt von Erfolgen, Rückschlägen und einem Einschnitt, der alles veränderte: Im Herbst 2022 stand er auf der Bühne und am nächsten Tag war seine Stimme weg. Kurz darauf folgte die Diagnose Schilddrüsenkrebs.
-Sepp Messner Windschnur ist Gast der 150. Ausgabe von Privat, eine Sendereihe, die seit 2007 regelmäßig ausgestrahlt wird.</desc>
-  </programme>
-  <programme start="20250921205000 +0200" stop="20250921205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250921221000 +0200" stop="20250921223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250922180000 +0200" stop="20250922181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
