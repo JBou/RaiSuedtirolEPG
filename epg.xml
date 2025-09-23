@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250922180000 +0200" stop="20250922181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 4. Oberliga-Runde ist das Duell St Georgen gegen Tramin. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 24. Mal aufeinander. Derby-Zeit ist in der Landesliga angesagt: Weinstraße Süd und Salurn stehen sich in Kurtatsch im Unterlandler Derby gegenüber, Bruneck und Stegen bestreiten hingegen in Reischach das Pusterer Derby.</desc>
-  </programme>
-  <programme start="20250922181400 +0200" stop="20250922182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Rosen</sub-title>
-    <desc>In dieser Folge von "Blumen und Co" lädt Botanikerin Karin zu einem besonderen Rosenspaziergang durch die Gärten von Schloss Trauttmansdorff ein. Auf den sonnigen Terrassen erblühen über 100 verschiedene Rosenarten in den unterschiedlichsten Düften, Farben und Formen. Manche Rosen öffnen sich so perfekt, als wären sie gemalt, andere verströmen ihren betörenden Duft, noch bevor man sie überhaupt erblickt. 
-Doch woher kommt diese unglaubliche Vielfalt? Und warum üben Rosen seit Jahrtausenden eine solche Faszination auf die Menschen aus?</desc>
-  </programme>
-  <programme start="20250922182900 +0200" stop="20250922185430 +0200" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Gesund schlafen - aber wie?</sub-title>
-    <desc>Schlafstörungen gehören für viele Südtiroler:innen zum Alltag - mindestens drei von zehn sind betroffen. Für sie bedeutet die Nacht oft kein Ausruhen, sondern Grübeln und Wachliegen. 
-Am Morgen bleibt dann das Gefühl, erschöpft zu sein, obwohl man eigentlich geschlafen hat. Solche Nächte können das ganze Leben aus dem Gleichgewicht bringen. In der Reportage Gesundheit zeigen Ulli Velano, wie sehr Schlafprobleme das Leben der Betroffenen prägen, und fragt nach, wie man wieder zu erholsamem Schlaf finden kann. Allgemeinmediziner Ivo Garoscio erklärt, wie kleine Veränderungen im Alltag große Wirkung haben können. Die HNO-Ärztin Vera Staffler vom Krankenhaus Brixen spricht über Möglichkeiten, Schnarchen und Atemaussetzer medizinisch zu behandeln. Und die Schlafexpertin und Neurologin Viola Gschließer vom Zentrum für Schlafmedizin macht Mut, denn selbst schwere Fälle lassen sich therapieren - und zeigen, dass guter Schlaf für niemanden unerreichbar bleiben muss.</desc>
-  </programme>
-  <programme start="20250922200000 +0200" stop="20250922202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250922202000 +0200" stop="20250922210218 +0200" channel="Rai Südtirol">
-    <title>Sarner Gschick</title>
-    <sub-title/>
-    <desc>Sechs Sarner Kunsthandwerker:innen haben sich zusammengeschlossen, um gemeinsam Tradition und Innovation voranzutreiben: Federkielstickerei, Produkte aus Wolle und Zirbenholz usw. 
-Im Sarntal gibt es noch einige passionierte Handwerksmeister:innen, die sich seit Jahrzehnten für ihre Zunft einsetzen. Sechs von ihnen haben sich zu einer kleinen Handwerkervereinigung zusammengeschlossen, dem "Sarner Gschick", mit dem Ziel gemeinsam aufzutreten und sich gegenseitig zu unterstützen. Filmemacherin Claudia Bosch wirft in ihrer Dokumentation nicht nur einen Blick darauf, wie man diese Kooperation genau funktioniert, sondern auch wie die einzelnen Sarner-Gschick-Mitglieder arbeiten.</desc>
-  </programme>
-  <programme start="20250922210200 +0200" stop="20250922214650 +0200" channel="Rai Südtirol">
-    <title>Berge der Zukunft</title>
-    <sub-title>Von Gadertal in die Dolomiten</sub-title>
-    <desc>Das Gadertal liegt im Herzen der Dolomiten in Südtirol zwischen den beiden Naturparks Puez-Geisler und Fanes-Sennes-Prags. Wir lernen besondere Menschen und Geschichten im Lauf der Jahreszeiten kennen.  
-So singen etwa die Schwestern Elisabeth und Marlene Schuen von der Musikgruppe Ganes ihre Lieder am liebsten in ladinischer Sprache. Berglegende Willy Costamoling erzählt von seiner einzigartigen Entdeckung der höchstgelegenen Bärenhöhle Europas. Rosa und Anton Piccolruaz bewirten auf dem Alfareihof ihre Gäste im ältesten Bauernhof des Gadertals. Seine Ursprünge gehen bis ins 13. Jahrhundert zurück. Nach einer ausgiebigen Wanderung rund um das Würzjoch endet die Reise im tierverschneiten Hochplateau Fanes, umgeben von Dreitausendern, wo Anna und Gabor in der Lavarella-Schutzhütte die höchstgelegene Bierbrauerei Europas betreiben.</desc>
-  </programme>
-  <programme start="20250922214700 +0200" stop="20250922215704 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Wegepate Adolf Altstätter</sub-title>
-    <desc>Pure Leidenschaft: Adolf Altstätter ist einer der dienstältesten Wegepaten Südtirols. Jahrzehntelang hat er unter anderem über 200 Kilometer Wanderwege in Martell markiert. 2024 gibt er Farbe und Pinsel an einen jüngeren ab.</desc>
-  </programme>
-  <programme start="20250922221000 +0200" stop="20250922223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250923200000 +0200" stop="20250923202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
