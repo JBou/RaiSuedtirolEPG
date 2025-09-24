@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250923200000 +0200" stop="20250923202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250923202000 +0200" stop="20250923203430 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250923203500 +0200" stop="20250923204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 4. Oberliga-Runde ist das Duell St Georgen gegen Tramin. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 24. Mal aufeinander. Derby-Zeit ist in der Landesliga angesagt: Weinstraße Süd und Salurn stehen sich in Kurtatsch im Unterlandler Derby gegenüber, Bruneck und Stegen bestreiten hingegen in Reischach das Pusterer Derby.</desc>
-  </programme>
-  <programme start="20250923221000 +0200" stop="20250923223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250924200000 +0200" stop="20250924202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
