@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250924200000 +0200" stop="20250924202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250924202000 +0200" stop="20250924204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Hirtinnenleben zwischen Hingabe und Strapaze, Herausforderungen in der Almkäseproduktion und im Almausschank, Almabtrieb zwischen Brauchtum und Unterhaltung. 
-
-Katharina Lunger ist ein Kind der Berge, und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh, Kühe, ein Pferd, einen Esel und einen Muli. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist. Auf anderen Almen geht es geselliger zu. Viele Almleute verbinden die klassische Weidewirtschaft mit einer Almkäserei und einem Almausschank. Diese Kombination bringt nicht nur mehr Besucher, sondern auch neue Herausforderungen mit sich, wie Land &amp; Leben bei einem Besuch auf der Tauernalm im Ahrntal erfahren hat. 
-Ein besonderes Beispiel für das Zusammenspiel von Tradition und Moderne zeigt sich beim Almabtrieb in Latzfons. Hier verschmelzen jahrhundertealtes Brauchtum und zeitgemäße Eventkultur zu einem Fest für Einheimische und Gäste. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20250924221000 +0200" stop="20250924223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250925200000 +0200" stop="20250925202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
