@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250925200000 +0200" stop="20250925202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250925202000 +0200" stop="20250925204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ratgeberliteratur</sub-title>
-    <desc>Jede Zeit bringt ihre Ängste, Sehnsüchte und damit auch die passenden Ratgeber hervor, die als Gradmesser für die aktuellen Befindlichkeiten der Gesellschaft gesehen werden können.  
-
-In den Siebzigern träumte man vom Aussteigen, in den Achtzigern vom Reichwerden, in den Neunzigern von der totalen Ich-Optimierung an Körper, Geist und Seele. Und wovon träumen die Menschen heute? Welche Ratgeber in Südtirol gefragt sind, erzählt uns unser Gast Thomas Kager, Verlagsleiter bei Edition Raetia. In der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Erste Hilfe für die Seele", und unser mobiler Reporter hat sich anlässlich des Großelterntages am 3. Oktober zum Thema Familie umgehört.  
-Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20250925221000 +0200" stop="20250925223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250926180000 +0200" stop="20250926182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Ratgeberliteratur</sub-title>
@@ -114,6 +96,167 @@ In einem breit angelegten Forschungsprojekt, das von der Freien Universität Boz
     <desc/>
   </programme>
   <programme start="20250928221000 +0200" stop="20250928223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250929180000 +0200" stop="20250929181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Aufsteiger Ahrntal empfängt am 5. Oberliga-Spieltag St. Georgen.  Die Jergina müssen nach dem verkorsten Saisonauftakt unbedingt punkten. In der Landesliga will Gitschberg Jochtal in Vals gegen Tabellenführer Bruneck für eine Überraschung sorgen, Aufsteiger Olimpia Meran trifft zu Hause auf Freienfeld.</desc>
+  </programme>
+  <programme start="20250929181400 +0200" stop="20250929182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Pfadfinder</sub-title>
+    <desc>Zipp-Reporterin Linda besucht ein Pfadfinderlager in Tschötsch. Eifrig bauen die jungen Wölflinge, so werden die 8 bis 10 jährigen Pfadfinder:innen genannt, ihre Zelte auf und verschwinden im Wald. Dort fühlen sie sich wie zu Hause. Sie schnitzen Stöcke für das abendliche Stockbrot, üben sich im Knotenbinden und bauen einfache Unterstände. Ein Feuer aus Naturmaterialien zu entfachen, braucht schon etwas Übung, aber schon bald backen die Brote über dem lodernden Feuer.</desc>
+  </programme>
+  <programme start="20250929182900 +0200" stop="20250929185800 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Hirtinnenleben zwischen Hingabe und Strapaze, Herausforderungen in der Almkäseproduktion und im Almausschank, Almabtrieb zwischen Brauchtum und Unterhaltung. Katharina Lunger ist ein Kind der Berge, und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh, Kühe, ein Pferd, einen Esel und einen Muli. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist. Auf anderen Almen geht es geselliger zu. Viele Almleute verbinden die klassische Weidewirtschaft mit einer Almkäserei und einem Almausschank. Diese Kombination bringt nicht nur mehr Besucher, sondern auch neue Herausforderungen mit sich, wie Land &amp; Leben bei einem Besuch auf der Tauernalm im Ahrntal erfahren hat. Ein besonderes Beispiel für das Zusammenspiel von Tradition und Moderne zeigt sich beim Almabtrieb in Latzfons. Hier verschmelzen jahrhundertealtes Brauchtum und zeitgemäße Eventkultur zu einem Fest für Einheimische und Gäste. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20250929200000 +0200" stop="20250929202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250929202000 +0200" stop="20250929205100 +0200" channel="Rai Südtirol">
+    <title>Die Zeltbauer</title>
+    <sub-title/>
+    <desc>Von einer leeren Wiese zu einem riesigen Festzelt: Hinter dem berühmten Kastelruther Spatzenfest steckt ein Kraftakt, den kaum jemand zu Gesicht bekommt.
+ 
+Meterhohe Stahlkonstruktionen, tonnenschwere Planen und wochenlange harte Arbeit - getragen von einem perfekt eingespielten Team, das dem Wind, dem Wetter und der Zeit trotzt. Für die Zeltbauer ist es mehr als nur ein Job: Es ist Leidenschaft, Handwerk und Herzblut. Sie schaffen nicht nur Zelte, sondern Erinnerungen - und machen so eines der größten Feste Südtirols erst möglich.</desc>
+  </programme>
+  <programme start="20250929205100 +0200" stop="20250929215600 +0200" channel="Rai Südtirol">
+    <title>Faszination Stilfser Joch Straße</title>
+    <sub-title/>
+    <desc>Zum 200-jährigen Jubiläum der Stilfserjochstraße lädt die Dokumentation zu einer faszinierenden Reise entlang einer der spektakulärsten Alpenstraßen der Welt ein. Zwischen atemberaubender Natur, bewegter Geschichte und lebendigen Traditionen entfaltet sich ein facettenreiches Porträt dieser einzigartigen Region.
+
+Die Erzählung spannt den Bogen von der visionären Straßenplanung im 19. Jahrhundert über ihre strategische Bedeutung im Ersten Weltkrieg bis hin zum touristischen Aufschwung um 1900. Historische Ereignisse wie der Mordfall Tourville oder die ersten Luxushotels Tirols werden ebenso beleuchtet wie die sportliche Nutzung der Passstraße - vom Sommerskilauf mit Weltstars wie Gustav Thöni bis zu legendären Radrennen, Motorsport-Events und dem heutigen Outdoor-Tourismus. Im Mittelpunkt stehen auch die Menschen, die hier leben: Hoteliers, Sportler, Künstlerinnen, Landwirte, Geistliche, Historiker - alle verbunden durch die Straße und die Bergwelt. Die benachbarten Dörfer Stilfs und Prad zeigen dabei gegensätzliche Entwicklungen: während Prad wächst und modernisiert, kämpft Stilfs gegen Abwanderung - und setzt auf neue Impulse durch EU-Förderprojekte. Die Dokumentation verknüpft persönliche Geschichten mit eindrucksvollen Bildern aus dem Nationalpark Stilfserjoch. Sie zeigt, wie Natur und Kultur, Vergangenheit und Gegenwart hier ineinandergreifen - an einem Ort, der für viele nicht nur Verkehrsweg, sondern Lebensader, Erinnerungsort und Symbol für Gemeinschaft, Ausdauer und Schönheit der Alpen ist.</desc>
+  </programme>
+  <programme start="20250929215700 +0200" stop="20250929215931 +0200" channel="Rai Südtirol">
+    <title>Kleine Museen - große Geschichten</title>
+    <sub-title>Krax und Rucksack</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250929221000 +0200" stop="20250929223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250930200000 +0200" stop="20250930202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20250930202000 +0200" stop="20250930203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionsendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20250930203500 +0200" stop="20250930204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Aufsteiger Ahrntal empfängt am 5. Oberliga-Spieltag St. Georgen.  Die Jergina müssen nach dem verkorsten Saisonauftakt unbedingt punkten. In der Landesliga will Gitschberg Jochtal in Vals gegen Tabellenführer Bruneck für eine Überraschung sorgen, Aufsteiger Olimpia Meran trifft zu Hause auf Freienfeld.</desc>
+  </programme>
+  <programme start="20250930221000 +0200" stop="20250930223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251001200000 +0200" stop="20251001202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251001202000 +0200" stop="20251001204930 +0200" channel="Rai Südtirol">
+    <title>Trend Spezial</title>
+    <sub-title>Seilbahnen und Sicherheit</sub-title>
+    <desc>Südtirol gilt als Land der Seilbahnen, hier wurden die ersten ihrer Art entwickelt und gebaut. Sie sind heute Teil des öffentlichen Verkehrs, eine Säule des Tourismus - und die Betreiberunternehmen sind ein wichtiger wirtschaftlicher Faktor geworden.
+
+Wie im internationalen Flugverkehr gilt auch für den Betrieb von Aufstiegsanlagen: Sicherheit hat oberste Priorität. Trend Spezial beleuchtet auch am Beispiel der Seiser Alm Bahn, dass die Betreiber von Aufstiegsanlagen die Sicherheit ihrer Fahrgäste nicht allein in technischen Vorkehrungen verankern. Sie verstehen Sicherheit vielmehr als umfassende Managementaufgabe. Dazu gehören eine vorausschauende Planung, die enge organisatorische Zusammenarbeit mit Rettungsdiensten und Behörden sowie regelmäßige Notfallübungen - selbst für Szenarien, die als äußerst unwahrscheinlich gelten. Nur so kann gewährleistet werden, dass man im Ernstfall bestens vorbereitet ist.</desc>
+  </programme>
+  <programme start="20251001221000 +0200" stop="20251001223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251002200000 +0200" stop="20251002202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251002202000 +0200" stop="20251002204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mehrgenerationenhaus</sub-title>
+    <desc>Zusammen, anstelle von einsam. Das Konzept des Mehrgenerationenhauses findet langsam auch hierzulande Einzug in das gesellschaftliche Leben. Wie lebt es sich mit anderen gemeinsam unter einem Dach? Wieviel kostet das Leben in einem solchen Haus und für wen ist es geeignet? Das Südtirol Magazin geht in der aktuellen Ausgabe all diesen Fragen nach. 
+
+Zu Gast ist Patrick Unterkircher, der mit "Kaleido" eine neue Vision für gemeinschaftliches Wohnen in Südtirol ausgearbeitet hat. Mit der Rubrik "So isst Euregio" besuchen wir Andrea Irsara im Gadertal und in der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Die Viles im Gadertal". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20251002221000 +0200" stop="20251002223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251003180000 +0200" stop="20251003182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mehrgenerationenhaus</sub-title>
+    <desc>Zusammen, anstelle von einsam. Das Konzept des Mehrgenerationenhauses findet langsam auch hierzulande Einzug in das gesellschaftliche Leben. Wie lebt es sich mit anderen gemeinsam unter einem Dach? Wieviel kostet das Leben in einem solchen Haus und für wen ist es geeignet? Das Südtirol Magazin geht in der aktuellen Ausgabe all diesen Fragen nach. Zu Gast ist Patrick Unterkircher, der mit "Kaleido" eine neue Vision für gemeinschaftliches Wohnen in Südtirol ausgearbeitet hat. Mit der Rubrik "So isst Euregio" besuchen wir Andrea Irsara im Gadertal und in der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Die Viles im Gadertal". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20251003182900 +0200" stop="20251003185830 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Wie ist es um die Bodengesundheit in Europa bestellt? Wie schnell bewegt sich das lockere Gestein nach dem Rückzug der Gletscher? Archäologische Forschung in Diktaturen. In einem breit angelegten Forschungsprojekt, das von der Freien Universität Bozen koordiniert wird, können alle EU-Bürger:innen die Beschaffenheit des eigenen Gartens, der Wiese oder des Waldes bestimmen und Bodenproben nehmen, die im Labor analysiert werden. In dieser Ausgabe des Wissenschaftsmagazins Campus zeigen wir auch, wie die Universität Innsbruck die Bewegung von lockerem Gestein misst, das durch den Rückzug der Gletschermassen an die Oberfläche kommt und nun langsam zu Tal rollt. Das Archäologiemuseum in Bozen wirft einen
+kritischen Blick auf die archäologische Forschung, die im 20. Jahrhundert von den totalitären Staaten Italien und Deutschland für politische Zwecke missbraucht wurde. Eine Spurensuche in interessanten Ausgrabungsstätten.</desc>
+  </programme>
+  <programme start="20251003200000 +0200" stop="20251003202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251003202000 +0200" stop="20251003211900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Ein Blick hinter Gartenzäune im Herbst, wenn die Pflanzen allmählich zur Ruhe kommen, die letzten Früchte geerntet werden und man sich auf den Winter vorbereitet. 
+
+Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt.
+Petra Tschenett erkundet den Herstellungsweg von ätherischen Ölen. Die fangen den Duft und die Kraft der Natur in nur wenigen Tropen ein. Von der sorgfältigen Auswahl der Pflanzen über die Ernte bis zur schonenden Destillation - jeder Schritt erfordert Erfahrung, Präzision und Hingabe. Ein Blick hinter die Kulissen der Herstellung und wir sehen, wie Natur und Handwerk zusammenwirken, um die reinste Form pflanzlicher Essenzen zu schaffen. Außerdem erfahren wir mehr über den Anbau und die Wirkung von Heilkräutern auf das menschliche Wohlbefinden.</desc>
+  </programme>
+  <programme start="20251003211900 +0200" stop="20251003215902 +0200" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>Maschlmusig</sub-title>
+    <desc>Johanna, Elias und Robin Mader sind drei Geschwister aus dem Pflerschtal, die seit ihrer Kindheit gemeinsam musizieren. Mit Violine, Gitarre und Harmonika spielen sie echte Volksmusik, können aber auch anders. Aufgewachsen mit alpenländischer Volksmusik, spielen sie heute in verschiedenen Formationen und gehen eigene musikalische Wege. Aber bei zwei Projekten sind die Geschwister Mader gemeinsam zu hören: Bei ihrer Formation "Maschlmusig" sind es die einfachen und gefälligen Muster, das gemeinsame Drauflosspielen, das die Geschwister musikalisch zusammenbringt. Mit "Acustic Rojel" hingegen machen sich die drei auf die Suche nach neuen Rhythmen und Elementen und lassen sich von Pop, Rock und Folk inspirieren.</desc>
+  </programme>
+  <programme start="20251003221000 +0200" stop="20251003223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251004180000 +0200" stop="20251004185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Ein Blick hinter Gartenzäune im Herbst, wenn die Pflanzen allmählich zur Ruhe kommen, die letzten Früchte geerntet werden und man sich auf den Winter vorbereitet. Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt. 
+Petra Tschenett erkundet den Herstellungsweg von ätherischen Ölen. Die fangen den Duft und die Kraft der Natur in nur wenigen Tropen ein. Von der sorgfältigen Auswahl der Pflanzen über die Ernte bis zur schonenden Destillation - jeder Schritt erfordert Erfahrung, Präzision und Hingabe. Ein Blick hinter die Kulissen der Herstellung und wir sehen, wie Natur und Handwerk zusammenwirken, um die reinste Form pflanzlicher Essenzen zu schaffen. Außerdem erfahren wir mehr über den Anbau und die Wirkung von Heilkräutern auf das menschliche Wohlbefinden.</desc>
+  </programme>
+  <programme start="20251004200000 +0200" stop="20251004202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251004202100 +0200" stop="20251004202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Frauke Leonhäuser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251004202500 +0200" stop="20251004205430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Galsaun im Vinschgau</sub-title>
+    <desc>Charakteristisch für den kleinen Ortsteil zwischen Kastelbell und Tschars sind die alten Trockenmauern, von denen einige aus Steinen der Römerstraße Via Claudia Augusta errichtet wurden. Ein Maurer aus dem Dorf zeigt, wie dieses traditionelle Handwerk bis heute weiterlebt.
+
+Zur Erntezeit prägen Obst- und Weinbau das Leben der Menschen. Mit einem 94-jährigen Galsauner blicken wir zudem zurück in vergangene Tage. Auch die Besonderheit des Klimas kommt zur Sprache: In Galsaun fällt nur wenig Regen, umso bedeutender sind die Waale.
+Zur Geschichte von Galsaun gehören auch die Burg Hochgalsaun aus dem 13. Jahrhundert, der Ansitz Kasten mit spätgotischem Portal und die Kapelle zur Heiligen Dreifaltigkeit. Oberhalb des Dorfes finden sich zudem archäologische Spuren, die bis in die prähistorische Zeit zurückreichen.</desc>
+  </programme>
+  <programme start="20251004221000 +0200" stop="20251004223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
