@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250926180000 +0200" stop="20250926182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ratgeberliteratur</sub-title>
-    <desc>Jede Zeit bringt ihre Ängste, Sehnsüchte und damit auch die passenden Ratgeber hervor, die als Gradmesser für die aktuellen Befindlichkeiten der Gesellschaft gesehen werden können.  
-In den Siebzigern träumte man vom Aussteigen, in den Achtzigern vom Reichwerden, in den Neunzigern von der totalen Ich-Optimierung an Körper, Geist und Seele. Und wovon träumen die Menschen heute?  
-Welche Ratgeber in Südtirol gefragt sind, erzählt uns unser Gast Thomas Kager, Verlagsleiter bei Edition Raetia. In der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Erste Hilfe für die Seele", und unser mobiler Reporter hat sich anlässlich des Großelterntages am 3. Oktober zum Thema Familie umgehört.  
-Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20250926182900 +0200" stop="20250926185859 +0200" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Toronto</sub-title>
-    <desc>Die kanadische Millionenstadt ist der Puls des Landes und steht ganz im Zeichen von Kunst, Musik und Architektur. Keine andere Stadt ist derart kreativ, innovativ und impulsiv. Wir erleben Menschen, die bewegen, ändern, provozieren und polarisieren. Aber auch die Spuren der indigenen Völker werden entdeckt. Der Geist und die Kultur der Indianer wird auch von der jungen Generation gelebt. Die indigenen Völker Kanadas gaben der Stadt auch ihren Namen: Sammelplatz. Ein und kultureller und stylischer Streifzug durch Toronto.</desc>
-  </programme>
-  <programme start="20250926200000 +0200" stop="20250926202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250926202000 +0200" stop="20250926215332 +0200" channel="Rai Südtirol">
-    <title>Gschroa und Krawall</title>
-    <sub-title>Die 2010er Jahre in der Südtiroler Popkultur</sub-title>
-    <desc>Heimische Musikproduzenten werden über die Grenzen bekannt, natürlich auch Musikeri:innen und Interpret:innen wie Tracy Merano, Herbert Pixner, Hubert Dorigatti... 
-
-Das digitale Zeitalter ermöglicht es nun jedem, zu Hause selbst ein paar "Tracks" aufzunehmen. Junge Südtiroler Musikproduzenten machen sich bald einen Namen auch außerhalb der Grenzen so wie Chris Kaufmann oder Markus "Mac" Maya. Auch Tracy Merano macht Anfang des Jahrzehnts auf sich aufmerksam ebenso wie Mainfelt, die bald über die Grenzen hinaus Erfolge feiern. Mit Ganes sorgt eine rein weibliche und noch dazu ladinisch singende Popband in Süddeutschland für Furore - und Herbert Pixner startet richtig durch. Zahlreiche Fernsehsender, vor allem in Deutschland, reißen sich um ihn. Die jungen Reach Us Endorphine springen auf den Frei.Wild-Zug auf und landen mit ihrem Deutschrock in den deutschen Charts. Der Pusterer Bluesgitarrist Hubert Dorigatti wird 2017 bei der IBC Blues Challenge als bester Bluesgitarrist Italiens ausgezeichnet. Auch in der deutschen Erfolgsshow "The Voice of Germany" versuchen sich einige Südtiroler, so etwa Silvia Karbacher, die Leadsängerin von "PetraLust". Jahre zuvor hat bereits der Bozner Martin Perkmann den Versuch einer Castingshow gestartet und kommt bis ins Finale der österreichischen "Starmania". Dort tritt er allerdings nicht an. Diese Zeit ist aber sehr prägend für ihn.</desc>
-  </programme>
-  <programme start="20250926215400 +0200" stop="20250926215928 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Schrifstellerin Isabel Folie</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250926221000 +0200" stop="20250926223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250927180000 +0200" stop="20250927182930 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Sepp Messner Windschnur</sub-title>
@@ -257,6 +222,28 @@ Zur Erntezeit prägen Obst- und Weinbau das Leben der Menschen. Mit einem 94-jä
 Zur Geschichte von Galsaun gehören auch die Burg Hochgalsaun aus dem 13. Jahrhundert, der Ansitz Kasten mit spätgotischem Portal und die Kapelle zur Heiligen Dreifaltigkeit. Oberhalb des Dorfes finden sich zudem archäologische Spuren, die bis in die prähistorische Zeit zurückreichen.</desc>
   </programme>
   <programme start="20251004221000 +0200" stop="20251004223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251005200000 +0200" stop="20251005202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251005202100 +0200" stop="20251005205030 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Bauen Frauen anders? Wir begeben uns auf Spurensuche. Margot Wittig engagiert sich für partizipative Stadtplanung, Birgit Dejaco baut für sozial Schwache, Ulla Hell ist eine der wenigen Architektinnen mit eigenem Büro. Und gerade sind die Frauen der Baubranche dabei, sich zum Netzwerk zusammenzuschließen. Frauen bauen - tatsächlich anders als Männer. Nur, woran liegt's? 
+Im dF Portrait: Hildegard Campidell hat mehr als drei Jahrzehnte lang ihren absoluten Wunschberuf ausgeübt, als Kinderärztin in Eppan. Als die alleinerziehende Mutter Anfang der 1990er Jahre ihre Praxis eröffnet, weht ihr zunächst ein kalter Wind entgegen. Sie lässt nicht locker und gewinnt die Herzen. Mit Ende 40 tritt neben Arbeit und Familie eine neue Leidenschaft in ihr Leben: der stolze, ausdrucksstarke Flamenco: wer ihn tanzt, muss Emotionen zeigen, darf stolz, traurig, wütend, aber auch leicht sein. 
+In dF Info schauen wir uns genauer an, wie es um die weibliche Beteiligung am Genossenschaftswesen bestellt ist und fragen nach, warum es den Landesbeirat für Chancengleichheit auch 35 Jahre nach seiner Gründung immer noch braucht.</desc>
+  </programme>
+  <programme start="20251005205000 +0200" stop="20251005205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Frauke Leonhäuser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251005221000 +0200" stop="20251005223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
