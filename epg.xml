@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250928200000 +0200" stop="20250928202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250928202100 +0200" stop="20250928205030 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Wie ist es um die Bodengesundheit in Europa bestellt? Wie schnell bewegt sich das lockere Gestein nach dem Rückzug der Gletscher? Archäologische Forschung in Diktaturen. 
-
-In einem breit angelegten Forschungsprojekt, das von der Freien Universität Bozen koordiniert wird, können alle EU-Bürger:innen  die Beschaffenheit des eigenen Gartens, der Wiese oder des Waldes bestimmen und Bodenproben nehmen, die im Labor analysiert werden. In dieser Ausgabe des Wissenschaftsmagazins Campus zeigen wir auch, wie die Universität Innsbruck die Bewegung von lockerem Gestein misst, das durch den Rückzug der Gletschermassen an die Oberfläche kommt und nun langsam zu Tal rollt. Das Archäologiemuseum in Bozen wirft einen kritischen Blick auf die archäologische Forschung, die im 20. Jahrhundert von den totalitären Staaten Italien und Deutschland für politische Zwecke missbraucht wurde. Eine Spurensuche in interessanten Ausgrabungsstätten.</desc>
-  </programme>
-  <programme start="20250928205000 +0200" stop="20250928205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250928221000 +0200" stop="20250928223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20250929180000 +0200" stop="20250929181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
