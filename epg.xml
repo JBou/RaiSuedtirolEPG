@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20250930200000 +0200" stop="20250930202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20250930202000 +0200" stop="20250930203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionsendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20250930203500 +0200" stop="20250930204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Aufsteiger Ahrntal empfängt am 5. Oberliga-Spieltag St. Georgen.  Die Jergina müssen nach dem verkorsten Saisonauftakt unbedingt punkten. In der Landesliga will Gitschberg Jochtal in Vals gegen Tabellenführer Bruneck für eine Überraschung sorgen, Aufsteiger Olimpia Meran trifft zu Hause auf Freienfeld.</desc>
-  </programme>
-  <programme start="20250930221000 +0200" stop="20250930223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251001200000 +0200" stop="20251001202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
