@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251001200000 +0200" stop="20251001202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251001202000 +0200" stop="20251001204930 +0200" channel="Rai Südtirol">
-    <title>Trend Spezial</title>
-    <sub-title>Seilbahnen und Sicherheit</sub-title>
-    <desc>Südtirol gilt als Land der Seilbahnen, hier wurden die ersten ihrer Art entwickelt und gebaut. Sie sind heute Teil des öffentlichen Verkehrs, eine Säule des Tourismus - und die Betreiberunternehmen sind ein wichtiger wirtschaftlicher Faktor geworden.
-
-Wie im internationalen Flugverkehr gilt auch für den Betrieb von Aufstiegsanlagen: Sicherheit hat oberste Priorität. Trend Spezial beleuchtet auch am Beispiel der Seiser Alm Bahn, dass die Betreiber von Aufstiegsanlagen die Sicherheit ihrer Fahrgäste nicht allein in technischen Vorkehrungen verankern. Sie verstehen Sicherheit vielmehr als umfassende Managementaufgabe. Dazu gehören eine vorausschauende Planung, die enge organisatorische Zusammenarbeit mit Rettungsdiensten und Behörden sowie regelmäßige Notfallübungen - selbst für Szenarien, die als äußerst unwahrscheinlich gelten. Nur so kann gewährleistet werden, dass man im Ernstfall bestens vorbereitet ist.</desc>
-  </programme>
-  <programme start="20251001221000 +0200" stop="20251001223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251002200000 +0200" stop="20251002202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
