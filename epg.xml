@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251002200000 +0200" stop="20251002202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251002202000 +0200" stop="20251002204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Mehrgenerationenhaus</sub-title>
-    <desc>Zusammen, anstelle von einsam. Das Konzept des Mehrgenerationenhauses findet langsam auch hierzulande Einzug in das gesellschaftliche Leben. Wie lebt es sich mit anderen gemeinsam unter einem Dach? Wieviel kostet das Leben in einem solchen Haus und für wen ist es geeignet? Das Südtirol Magazin geht in der aktuellen Ausgabe all diesen Fragen nach. 
-
-Zu Gast ist Patrick Unterkircher, der mit "Kaleido" eine neue Vision für gemeinschaftliches Wohnen in Südtirol ausgearbeitet hat. Mit der Rubrik "So isst Euregio" besuchen wir Andrea Irsara im Gadertal und in der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Die Viles im Gadertal". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20251002221000 +0200" stop="20251002223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251003180000 +0200" stop="20251003182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Mehrgenerationenhaus</sub-title>
@@ -102,6 +85,176 @@ In dF Info schauen wir uns genauer an, wie es um die weibliche Beteiligung am Ge
     <desc/>
   </programme>
   <programme start="20251005221000 +0200" stop="20251005223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251006180000 +0200" stop="20251006181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Sechster Spieltag in der Fußball-Landesliga: Naturns will nach einem holprigen Saisonauftakt zu Hause gegen Latsch voll punkten, Weinstraße Süd empfängt in Kurtatsch Gitschberg Jochtal, und Leifers trifft zu Hause auf das Überraschungsteam der Meisterschaft, Olimpia Meran.</desc>
+  </programme>
+  <programme start="20251006181400 +0200" stop="20251006183230 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Manga</sub-title>
+    <desc>ZIPP-Reporterin Nadia ist total begeistert von der japanischen Comic-Kunst, den Mangas.
+Darum besucht sie einen Zeichen-Workshop in Bozen, wo Zeichner Gecko Keck zeigt, wie man Schritt für Schritt eigene Mangas zeichnet. Er bringt Nadia ein paar tolle Tricks bei, z.B. wie man Hände, Körper und vor allem die großen, ausdrucksstarken Augen zeichnet, die für Mangas so typisch sind.
+Anschließend zeigen junge Tennisfans ihr Können.</desc>
+  </programme>
+  <programme start="20251006183300 +0200" stop="20251006185800 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Galsaun im Vinschgau</sub-title>
+    <desc>Charakteristisch für den kleinen Ortsteil zwischen Kastelbell und Tschars sind die alten Trockenmauern, von denen einige aus Steinen der Römerstraße Via Claudia Augusta errichtet wurden. Ein Maurer aus dem Dorf zeigt, wie dieses traditionelle Handwerk bis heute weiterlebt.
+Zur Erntezeit prägen Obst- und Weinbau das Leben der Menschen. Mit einem 94-jährigen Galsauner blicken wir zudem zurück in vergangene Tage. Auch die Besonderheit des Klimas kommt zur Sprache: In Galsaun fällt nur wenig Regen, umso bedeutender sind die Waale.
+Zur Geschichte von Galsaun gehören auch die Burg Hochgalsaun aus dem 13. Jahrhundert, der Ansitz Kasten mit spätgotischem Portal und die Kapelle zur Heiligen Dreifaltigkeit. Oberhalb des Dorfes finden sich zudem archäologische Spuren, die bis in die prähistorische Zeit zurückreichen.</desc>
+  </programme>
+  <programme start="20251006200000 +0200" stop="20251006202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251006202000 +0200" stop="20251006211730 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionsendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251006211700 +0200" stop="20251006215900 +0200" channel="Rai Südtirol">
+    <title>Südtirol Filarmonica</title>
+    <sub-title>Ein musikalisches Heimspiel in fünf Sätzen</sub-title>
+    <desc>319 Musiker:Innen musizieren in den renommiertesten Orchestern weltweit und haben eine gemeinsame Heimat: Südtirol. Einmal im Jahr treffen sie sich in unterschiedlicher Besetzung bei Südtirol Filarmonica.
+
+Es ist ein Orchester auf Zeit, das 2019 aus einem Traum entstanden ist. Der ehemalige Topmanager Zeno Kerschbaumer, die Harfenistin Isabel Goller, ihre Schwester Cornelia und Michael Pichler haben an die Strahlkraft von Musik geglaubt und an die Idee, Südtiroler Musiker:innen in ihrer Heimat eine Bühne zu geben. Alle Sprachgruppen sind vertreten: deutsch, italienisch, ladinisch und Sprachen jener Künstler:innen, die in Südtirol ihre Heimat gefunden haben. 
+Eine Woche lang wird in Toblach geprobt und ein Konzert-Programm zusammengestellt, auch werden Erfahrungen ausgetauscht. Man nimmt Auszeit von seinem künstlerischen Alltag, verbringt unbeschwert Zeit miteinander. Genau diese glückvollen Momente - von der Ankunft, dem ersten Wiedersehen oder auch dem Kennenlernen der Musiker:innen, über das erste musikalische Zueinanderfinden bis hin zum großen Auftritt zeigt diese Dokumentation von Erna Cuesta und Helmut Lechthaler.</desc>
+  </programme>
+  <programme start="20251006221000 +0200" stop="20251006223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251007200000 +0200" stop="20251007202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251007203500 +0200" stop="20251007204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Sechster Spieltag in der Fußball-Landesliga: Naturns will nach einem holprigen Saisonauftakt zu Hause gegen Latsch voll punkten, Weinstraße Süd empfängt in Kurtatsch Gitschberg Jochtal, und Leifers trifft zu Hause auf das Überraschungsteam der Meisterschaft, Olimpia Meran.</desc>
+  </programme>
+  <programme start="20251007221000 +0200" stop="20251007223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251008200000 +0200" stop="20251008202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251008202000 +0200" stop="20251008204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Kostspielige Freizeitangebote und unfaire Ratenzahlungen, Obacht bei hochverarbeiteten Lebensmitteln wie Tiefkühlpizza oder Wurstwaren, tolle Initiativen gegen Lebensmittelverschwendung.
+
+Ob Fitnessstudio, Yoga oder Weiterbildungskurse, Freizeit- und Bildungsangebote versprechen viel, können aber auch zur Kostenfalle werden. Verbraucherschützer klären über automatische Vertragsverlängerungen, unfaire Ratenzahlungen und fehlende Rücktrittsmöglichkeiten auf.
+Hochverarbeitete Lebensmittel sind sehr praktisch im Alltag, aber riskant für die Gesundheit. Eine Expertin der Verbraucherzentrale erklärt, worauf man beim Einkauf achten sollte, und gibt Tipps für gesünderes Kochen.
+Lebensmittel retten statt wegwerfen: Wir haben Initiativen begleitet, die nicht nur Bedürftigen helfen, sondern auch unsere Umwelt entlasten. 
+Und in der Rubrik "Innovation made in Südtirol" besuchen wir Holzius in Eyrs, wo nachhaltiges Bauen mit Holz echte Lebensräume schafft.</desc>
+  </programme>
+  <programme start="20251008221000 +0200" stop="20251008223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251009200000 +0200" stop="20251009202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251009202000 +0200" stop="20251009204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Langeweile</sub-title>
+    <desc>Jedem und jeder von uns ist ab und zu langweilig. Wir bekämpfen Langeweile mit Serien, Büchern oder dem Smartphone. Doch was ist Langeweile eigentlich und was macht sie mit unserer Psyche? 
+
+Wie sich Langeweile bei Kindern manifestiert und warum sie manchmal wichtig ist, erzählt uns Manuela Zelger, systemische Therapeutin und Pädagogin. 
+Mit der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Arbeit am Berg", und unser mobiler Reporter hat sich zum Thema Langeweile ebenfalls umgehört. 
+Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251009221000 +0200" stop="20251009223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251010180000 +0200" stop="20251010182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Langeweile</sub-title>
+    <desc>Jedem und jeder von uns ist ab und zu langweilig. Wir bekämpfen Langeweile mit Serien, Büchern oder dem Smartphone. Doch was ist Langeweile eigentlich und was macht sie mit unserer Psyche? 
+Wie sich Langeweile bei Kindern manifestiert und warum sie manchmal wichtig ist, erzählt uns Manuela Zelger, systemische Therapeutin und Pädagogin. 
+Mit der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Arbeit am Berg", und unser mobiler Reporter hat sich zum Thema Langeweile ebenfalls umgehört. 
+Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251010182900 +0200" stop="20251010185830 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title> Das Frauenmagazin</sub-title>
+    <desc>Bauen Frauen anders? Wir begeben uns auf Spurensuche. Margot Wittig engagiert sich für partizipative Stadtplanung, Birgit Dejaco baut für sozial Schwache, Ulla Hell ist eine der wenigen Architektinnen mit eigenem Büro. Und gerade sind die Frauen der Baubranche dabei, sich zum Netzwerk zusammenzuschließen. Frauen bauen - tatsächlich anders als Männer. Nur, woran liegt's? 
+Im dF Portrait: Hildegard Campidell hat mehr als drei Jahrzehnte lang ihren absoluten Wunschberuf ausgeübt, als Kinderärztin in Eppan. Als die alleinerziehende Mutter Anfang der 1990er Jahre ihre Praxis eröffnet, weht ihr zunächst ein kalter Wind entgegen. Sie lässt nicht locker und gewinnt die Herzen. Mit Ende 40 tritt neben Arbeit und Familie eine neue Leidenschaft in ihr Leben: der stolze, ausdrucksstarke Flamenco: wer ihn tanzt, muss Emotionen zeigen, darf stolz, traurig, wütend, aber auch leicht sein. 
+In dF Info schauen wir uns genauer an, wie es um die weibliche Beteiligung am Genossenschaftswesen bestellt ist und fragen nach, warum es den Landesbeirat für Chancengleichheit auch 35 Jahre nach seiner Gründung immer noch braucht.</desc>
+  </programme>
+  <programme start="20251010200000 +0200" stop="20251010202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251010202000 +0200" stop="20251010220000 +0200" channel="Rai Südtirol">
+    <title>WIR im Konzert 2025</title>
+    <sub-title>Südtirol Filarmonica live</sub-title>
+    <desc>In Südtirol zu Hause, in der Welt erfolgreich: Musiker:innen des Spitzenorchesters Südtirol Filarmonica konzertieren in Toblach unter dem Motto "Die Kraft der Verbundenheit", RAI Südtirol überträgt live.
+ 
+Unter dem Dirigenten Michael Pichler interpretiert das Orchester das Adagio aus Gustav Mahlers 10.Sinfonie, die Fuga Ricercata von Bach/Webern und "Expedition to Paradise", eine Uraufführung vom gebürtigen Vinschger und Wahlwiener Gerd Hermann Ortler. "Musik verbindet Menschen, Orte und Ideen über Generationen hinweg", sagt Ortler.
+Südtirol Filarmonica ist ein Netzwerk von über 300 Südtiroler Musiker:innen, die die Basis dieses Projekts bilden. Die meisten von ihnen leben im Ausland und sind bei den namhaftesten Symphonieorchestern engagiert; einige studieren an renommierten Musikhochschulen der Welt. Heuer werden diese talentierten Musiker:innen vier Konzerte bestreiten, in Toblach, Bozen, Meran und Wien. 
+RAI Südtirol überträgt live aus dem Gustav Mahler-Saal in Toblach.</desc>
+  </programme>
+  <programme start="20251010221000 +0200" stop="20251010223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251011180000 +0200" stop="20251011182900 +0200" channel="Rai Südtirol">
+    <title>Trend Spezial</title>
+    <sub-title>Seilbahnen und Sicherheit</sub-title>
+    <desc>Südtirol gilt als Land der Seilbahnen, hier wurden die ersten ihrer Art entwickelt und gebaut. Sie sind heute Teil des öffentlichen Verkehrs, eine Säule des Tourismus - und die Betreiberunternehmen sind ein wichtiger wirtschaftlicher Faktor geworden.
+Wie im internationalen Flugverkehr gilt auch für den Betrieb von Aufstiegsanlagen: Sicherheit hat oberste Priorität. Trend Spezial beleuchtet auch am Beispiel der Seiser Alm Bahn, dass die Betreiber von Aufstiegsanlagen die Sicherheit ihrer Fahrgäste nicht allein in technischen Vorkehrungen verankern. Sie verstehen Sicherheit vielmehr als umfassende Managementaufgabe. Dazu gehören eine vorausschauende Planung, die enge organisatorische Zusammenarbeit mit Rettungsdiensten und Behörden sowie regelmäßige Notfallübungen - selbst für Szenarien, die als äußerst unwahrscheinlich gelten. Nur so kann gewährleistet werden, dass man im Ernstfall bestens vorbereitet ist.</desc>
+  </programme>
+  <programme start="20251011182900 +0200" stop="20251011185800 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Kostspielige Freizeitangebote und unfaire Ratenzahlungen, Obacht bei hochverarbeiteten Lebensmitteln wie Tiefkühlpizza oder Wurstwaren, tolle Initiativen gegen Lebensmittelverschwendung.
+Ob Fitnessstudio, Yoga oder Weiterbildungskurse, Freizeit- und Bildungsangebote versprechen viel, können aber auch zur Kostenfalle werden. Verbraucherschützer klären über automatische Vertragsverlängerungen, unfaire Ratenzahlungen und fehlende Rücktrittsmöglichkeiten auf.
+Hochverarbeitete Lebensmittel sind sehr praktisch im Alltag, aber riskant für die Gesundheit. Eine Expertin der Verbraucherzentrale erklärt, worauf man beim Einkauf achten sollte, und gibt Tipps für gesünderes Kochen.
+Lebensmittel retten statt wegwerfen: Wir haben Initiativen begleitet, die nicht nur Bedürftigen helfen, sondern auch unsere Umwelt entlasten. 
+Und in der Rubrik "Innovation made in Südtirol" besuchen wir Holzius in Eyrs, wo nachhaltiges Bauen mit Holz echte Lebensräume schafft.</desc>
+  </programme>
+  <programme start="20251011200000 +0200" stop="20251011202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251011202100 +0200" stop="20251011202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251011202500 +0200" stop="20251011205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Projekt "1000 Bäume" in Innerprags, eine Alpenüberquerung gegen die Tabuisierung psychischer Krankheiten, die Selbsthilfegruppe "Pinguin-Sein" und ein Gespräch zum Thema Sterben.
+
+Am Burgerhof in Innerprags haben Schüler:innen acht klimafitte Bäume gepflanzt. Es war der Abschluss eines Schreib- und Kunstprojektes mit dem Titel "1000 Bäume". Sie haben einen Ort der Ruhe mit Bäumen und Sitzbänken angelegt, dazu haben sie Texte zu Grundhaltungen wie Achtsamkeit, Respekt, Verantwortung verfasst.
+Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone zu holen. 
+Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegruppe mit dem Namen "Pinguin-Sein" gegründet.
+Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
+  </programme>
+  <programme start="20251011221000 +0200" stop="20251011223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
