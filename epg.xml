@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251003180000 +0200" stop="20251003182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Mehrgenerationenhaus</sub-title>
-    <desc>Zusammen, anstelle von einsam. Das Konzept des Mehrgenerationenhauses findet langsam auch hierzulande Einzug in das gesellschaftliche Leben. Wie lebt es sich mit anderen gemeinsam unter einem Dach? Wieviel kostet das Leben in einem solchen Haus und für wen ist es geeignet? Das Südtirol Magazin geht in der aktuellen Ausgabe all diesen Fragen nach. Zu Gast ist Patrick Unterkircher, der mit "Kaleido" eine neue Vision für gemeinschaftliches Wohnen in Südtirol ausgearbeitet hat. Mit der Rubrik "So isst Euregio" besuchen wir Andrea Irsara im Gadertal und in der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Die Viles im Gadertal". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20251003182900 +0200" stop="20251003185830 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Wie ist es um die Bodengesundheit in Europa bestellt? Wie schnell bewegt sich das lockere Gestein nach dem Rückzug der Gletscher? Archäologische Forschung in Diktaturen. In einem breit angelegten Forschungsprojekt, das von der Freien Universität Bozen koordiniert wird, können alle EU-Bürger:innen die Beschaffenheit des eigenen Gartens, der Wiese oder des Waldes bestimmen und Bodenproben nehmen, die im Labor analysiert werden. In dieser Ausgabe des Wissenschaftsmagazins Campus zeigen wir auch, wie die Universität Innsbruck die Bewegung von lockerem Gestein misst, das durch den Rückzug der Gletschermassen an die Oberfläche kommt und nun langsam zu Tal rollt. Das Archäologiemuseum in Bozen wirft einen
-kritischen Blick auf die archäologische Forschung, die im 20. Jahrhundert von den totalitären Staaten Italien und Deutschland für politische Zwecke missbraucht wurde. Eine Spurensuche in interessanten Ausgrabungsstätten.</desc>
-  </programme>
-  <programme start="20251003200000 +0200" stop="20251003202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251003202000 +0200" stop="20251003211900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Ein Blick hinter Gartenzäune im Herbst, wenn die Pflanzen allmählich zur Ruhe kommen, die letzten Früchte geerntet werden und man sich auf den Winter vorbereitet. 
-
-Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt.
-Petra Tschenett erkundet den Herstellungsweg von ätherischen Ölen. Die fangen den Duft und die Kraft der Natur in nur wenigen Tropen ein. Von der sorgfältigen Auswahl der Pflanzen über die Ernte bis zur schonenden Destillation - jeder Schritt erfordert Erfahrung, Präzision und Hingabe. Ein Blick hinter die Kulissen der Herstellung und wir sehen, wie Natur und Handwerk zusammenwirken, um die reinste Form pflanzlicher Essenzen zu schaffen. Außerdem erfahren wir mehr über den Anbau und die Wirkung von Heilkräutern auf das menschliche Wohlbefinden.</desc>
-  </programme>
-  <programme start="20251003211900 +0200" stop="20251003215902 +0200" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Maschlmusig</sub-title>
-    <desc>Johanna, Elias und Robin Mader sind drei Geschwister aus dem Pflerschtal, die seit ihrer Kindheit gemeinsam musizieren. Mit Violine, Gitarre und Harmonika spielen sie echte Volksmusik, können aber auch anders. Aufgewachsen mit alpenländischer Volksmusik, spielen sie heute in verschiedenen Formationen und gehen eigene musikalische Wege. Aber bei zwei Projekten sind die Geschwister Mader gemeinsam zu hören: Bei ihrer Formation "Maschlmusig" sind es die einfachen und gefälligen Muster, das gemeinsame Drauflosspielen, das die Geschwister musikalisch zusammenbringt. Mit "Acustic Rojel" hingegen machen sich die drei auf die Suche nach neuen Rhythmen und Elementen und lassen sich von Pop, Rock und Folk inspirieren.</desc>
-  </programme>
-  <programme start="20251003221000 +0200" stop="20251003223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251004180000 +0200" stop="20251004185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -134,6 +100,11 @@ Eine Woche lang wird in Toblach geprobt und ein Konzert-Programm zusammengestell
   <programme start="20251007200000 +0200" stop="20251007202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251007202000 +0200" stop="20251007203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionsendung</sub-title>
     <desc/>
   </programme>
   <programme start="20251007203500 +0200" stop="20251007204930 +0200" channel="Rai Südtirol">
@@ -255,6 +226,30 @@ Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegrupp
 Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
   </programme>
   <programme start="20251011221000 +0200" stop="20251011223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251012200000 +0200" stop="20251012202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251012202100 +0200" stop="20251012204530 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Der Vollkontaktsport RollerDerby, junge Talente am Herd und an der Bartheke, die Fachrichtung Musik am Sozialwissenschaftlichen Gymnasium in Meran. Moderation: Mara Marth. 
+
+Die Schüler:innen des Landesschwerpunkts Musik in Meran haben die Möglichkeit, ihre Leidenschaft auch im Unterricht zu leben: Sie singen, spielen Instrumente, komponieren und proben gemeinsam. "Klick" hat spannende Einblicke in ihren Schulalltag bekommen - von den Proben bis hin zu den Berufschancen.
+Dynamisch, taktisch und inklusiv: Der Vollkontaktsport RollerDerby ist hierzulande nahezu unbekannt. Wir haben das einzige Team in Südtirol besucht: die Alp'n Rockets.
+Zwei junge Talente, die Südtirols Genusswelt prägen: Im Soley in Brixen begeistert Barkeeper Jonas Nössing mit kreativen Drinks, während Küchenchef René Tschager im Ansitz Steinbock in Villanders Fine Dining auf höchstem Niveau interpretiert. In Klick treffen Bar- und Kochkunst zu einem außergewöhnlichen Doppelporträt aufeinander.</desc>
+  </programme>
+  <programme start="20251012204500 +0200" stop="20251012204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251012221000 +0200" stop="20251012223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
