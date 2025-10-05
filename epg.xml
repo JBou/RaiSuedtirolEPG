@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251004180000 +0200" stop="20251004185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Ein Blick hinter Gartenzäune im Herbst, wenn die Pflanzen allmählich zur Ruhe kommen, die letzten Früchte geerntet werden und man sich auf den Winter vorbereitet. Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt. 
-Petra Tschenett erkundet den Herstellungsweg von ätherischen Ölen. Die fangen den Duft und die Kraft der Natur in nur wenigen Tropen ein. Von der sorgfältigen Auswahl der Pflanzen über die Ernte bis zur schonenden Destillation - jeder Schritt erfordert Erfahrung, Präzision und Hingabe. Ein Blick hinter die Kulissen der Herstellung und wir sehen, wie Natur und Handwerk zusammenwirken, um die reinste Form pflanzlicher Essenzen zu schaffen. Außerdem erfahren wir mehr über den Anbau und die Wirkung von Heilkräutern auf das menschliche Wohlbefinden.</desc>
-  </programme>
-  <programme start="20251004200000 +0200" stop="20251004202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251004202100 +0200" stop="20251004202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Frauke Leonhäuser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251004202500 +0200" stop="20251004205430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Galsaun im Vinschgau</sub-title>
-    <desc>Charakteristisch für den kleinen Ortsteil zwischen Kastelbell und Tschars sind die alten Trockenmauern, von denen einige aus Steinen der Römerstraße Via Claudia Augusta errichtet wurden. Ein Maurer aus dem Dorf zeigt, wie dieses traditionelle Handwerk bis heute weiterlebt.
-
-Zur Erntezeit prägen Obst- und Weinbau das Leben der Menschen. Mit einem 94-jährigen Galsauner blicken wir zudem zurück in vergangene Tage. Auch die Besonderheit des Klimas kommt zur Sprache: In Galsaun fällt nur wenig Regen, umso bedeutender sind die Waale.
-Zur Geschichte von Galsaun gehören auch die Burg Hochgalsaun aus dem 13. Jahrhundert, der Ansitz Kasten mit spätgotischem Portal und die Kapelle zur Heiligen Dreifaltigkeit. Oberhalb des Dorfes finden sich zudem archäologische Spuren, die bis in die prähistorische Zeit zurückreichen.</desc>
-  </programme>
-  <programme start="20251004221000 +0200" stop="20251004223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251005200000 +0200" stop="20251005202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
