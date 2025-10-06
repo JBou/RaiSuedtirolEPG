@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251005200000 +0200" stop="20251005202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251005202100 +0200" stop="20251005205030 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Bauen Frauen anders? Wir begeben uns auf Spurensuche. Margot Wittig engagiert sich für partizipative Stadtplanung, Birgit Dejaco baut für sozial Schwache, Ulla Hell ist eine der wenigen Architektinnen mit eigenem Büro. Und gerade sind die Frauen der Baubranche dabei, sich zum Netzwerk zusammenzuschließen. Frauen bauen - tatsächlich anders als Männer. Nur, woran liegt's? 
-Im dF Portrait: Hildegard Campidell hat mehr als drei Jahrzehnte lang ihren absoluten Wunschberuf ausgeübt, als Kinderärztin in Eppan. Als die alleinerziehende Mutter Anfang der 1990er Jahre ihre Praxis eröffnet, weht ihr zunächst ein kalter Wind entgegen. Sie lässt nicht locker und gewinnt die Herzen. Mit Ende 40 tritt neben Arbeit und Familie eine neue Leidenschaft in ihr Leben: der stolze, ausdrucksstarke Flamenco: wer ihn tanzt, muss Emotionen zeigen, darf stolz, traurig, wütend, aber auch leicht sein. 
-In dF Info schauen wir uns genauer an, wie es um die weibliche Beteiligung am Genossenschaftswesen bestellt ist und fragen nach, warum es den Landesbeirat für Chancengleichheit auch 35 Jahre nach seiner Gründung immer noch braucht.</desc>
-  </programme>
-  <programme start="20251005205000 +0200" stop="20251005205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Frauke Leonhäuser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251005221000 +0200" stop="20251005223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251006180000 +0200" stop="20251006181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
