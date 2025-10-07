@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251006180000 +0200" stop="20251006181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Sechster Spieltag in der Fußball-Landesliga: Naturns will nach einem holprigen Saisonauftakt zu Hause gegen Latsch voll punkten, Weinstraße Süd empfängt in Kurtatsch Gitschberg Jochtal, und Leifers trifft zu Hause auf das Überraschungsteam der Meisterschaft, Olimpia Meran.</desc>
-  </programme>
-  <programme start="20251006181400 +0200" stop="20251006183230 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Manga</sub-title>
-    <desc>ZIPP-Reporterin Nadia ist total begeistert von der japanischen Comic-Kunst, den Mangas.
-Darum besucht sie einen Zeichen-Workshop in Bozen, wo Zeichner Gecko Keck zeigt, wie man Schritt für Schritt eigene Mangas zeichnet. Er bringt Nadia ein paar tolle Tricks bei, z.B. wie man Hände, Körper und vor allem die großen, ausdrucksstarken Augen zeichnet, die für Mangas so typisch sind.
-Anschließend zeigen junge Tennisfans ihr Können.</desc>
-  </programme>
-  <programme start="20251006183300 +0200" stop="20251006185800 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Galsaun im Vinschgau</sub-title>
-    <desc>Charakteristisch für den kleinen Ortsteil zwischen Kastelbell und Tschars sind die alten Trockenmauern, von denen einige aus Steinen der Römerstraße Via Claudia Augusta errichtet wurden. Ein Maurer aus dem Dorf zeigt, wie dieses traditionelle Handwerk bis heute weiterlebt.
-Zur Erntezeit prägen Obst- und Weinbau das Leben der Menschen. Mit einem 94-jährigen Galsauner blicken wir zudem zurück in vergangene Tage. Auch die Besonderheit des Klimas kommt zur Sprache: In Galsaun fällt nur wenig Regen, umso bedeutender sind die Waale.
-Zur Geschichte von Galsaun gehören auch die Burg Hochgalsaun aus dem 13. Jahrhundert, der Ansitz Kasten mit spätgotischem Portal und die Kapelle zur Heiligen Dreifaltigkeit. Oberhalb des Dorfes finden sich zudem archäologische Spuren, die bis in die prähistorische Zeit zurückreichen.</desc>
-  </programme>
-  <programme start="20251006200000 +0200" stop="20251006202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251006202000 +0200" stop="20251006211730 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionsendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251006211700 +0200" stop="20251006215900 +0200" channel="Rai Südtirol">
-    <title>Südtirol Filarmonica</title>
-    <sub-title>Ein musikalisches Heimspiel in fünf Sätzen</sub-title>
-    <desc>319 Musiker:Innen musizieren in den renommiertesten Orchestern weltweit und haben eine gemeinsame Heimat: Südtirol. Einmal im Jahr treffen sie sich in unterschiedlicher Besetzung bei Südtirol Filarmonica.
-
-Es ist ein Orchester auf Zeit, das 2019 aus einem Traum entstanden ist. Der ehemalige Topmanager Zeno Kerschbaumer, die Harfenistin Isabel Goller, ihre Schwester Cornelia und Michael Pichler haben an die Strahlkraft von Musik geglaubt und an die Idee, Südtiroler Musiker:innen in ihrer Heimat eine Bühne zu geben. Alle Sprachgruppen sind vertreten: deutsch, italienisch, ladinisch und Sprachen jener Künstler:innen, die in Südtirol ihre Heimat gefunden haben. 
-Eine Woche lang wird in Toblach geprobt und ein Konzert-Programm zusammengestellt, auch werden Erfahrungen ausgetauscht. Man nimmt Auszeit von seinem künstlerischen Alltag, verbringt unbeschwert Zeit miteinander. Genau diese glückvollen Momente - von der Ankunft, dem ersten Wiedersehen oder auch dem Kennenlernen der Musiker:innen, über das erste musikalische Zueinanderfinden bis hin zum großen Auftritt zeigt diese Dokumentation von Erna Cuesta und Helmut Lechthaler.</desc>
-  </programme>
-  <programme start="20251006221000 +0200" stop="20251006223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251007200000 +0200" stop="20251007202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
