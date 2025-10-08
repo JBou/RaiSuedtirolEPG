@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251007200000 +0200" stop="20251007202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251007202000 +0200" stop="20251007203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionsendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251007203500 +0200" stop="20251007204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Sechster Spieltag in der Fußball-Landesliga: Naturns will nach einem holprigen Saisonauftakt zu Hause gegen Latsch voll punkten, Weinstraße Süd empfängt in Kurtatsch Gitschberg Jochtal, und Leifers trifft zu Hause auf das Überraschungsteam der Meisterschaft, Olimpia Meran.</desc>
-  </programme>
-  <programme start="20251007221000 +0200" stop="20251007223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251008200000 +0200" stop="20251008202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
