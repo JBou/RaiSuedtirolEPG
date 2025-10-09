@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251008200000 +0200" stop="20251008202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251008202000 +0200" stop="20251008204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Kostspielige Freizeitangebote und unfaire Ratenzahlungen, Obacht bei hochverarbeiteten Lebensmitteln wie Tiefkühlpizza oder Wurstwaren, tolle Initiativen gegen Lebensmittelverschwendung.
-
-Ob Fitnessstudio, Yoga oder Weiterbildungskurse, Freizeit- und Bildungsangebote versprechen viel, können aber auch zur Kostenfalle werden. Verbraucherschützer klären über automatische Vertragsverlängerungen, unfaire Ratenzahlungen und fehlende Rücktrittsmöglichkeiten auf.
-Hochverarbeitete Lebensmittel sind sehr praktisch im Alltag, aber riskant für die Gesundheit. Eine Expertin der Verbraucherzentrale erklärt, worauf man beim Einkauf achten sollte, und gibt Tipps für gesünderes Kochen.
-Lebensmittel retten statt wegwerfen: Wir haben Initiativen begleitet, die nicht nur Bedürftigen helfen, sondern auch unsere Umwelt entlasten. 
-Und in der Rubrik "Innovation made in Südtirol" besuchen wir Holzius in Eyrs, wo nachhaltiges Bauen mit Holz echte Lebensräume schafft.</desc>
-  </programme>
-  <programme start="20251008221000 +0200" stop="20251008223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251009200000 +0200" stop="20251009202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
