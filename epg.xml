@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251010180000 +0200" stop="20251010182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Langeweile</sub-title>
-    <desc>Jedem und jeder von uns ist ab und zu langweilig. Wir bekämpfen Langeweile mit Serien, Büchern oder dem Smartphone. Doch was ist Langeweile eigentlich und was macht sie mit unserer Psyche? 
-Wie sich Langeweile bei Kindern manifestiert und warum sie manchmal wichtig ist, erzählt uns Manuela Zelger, systemische Therapeutin und Pädagogin. 
-Mit der Rubrik "Wiedersehen" werfen wir einen Blick in den Dokumentarfilm "Arbeit am Berg", und unser mobiler Reporter hat sich zum Thema Langeweile ebenfalls umgehört. 
-Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251010182900 +0200" stop="20251010185830 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title> Das Frauenmagazin</sub-title>
-    <desc>Bauen Frauen anders? Wir begeben uns auf Spurensuche. Margot Wittig engagiert sich für partizipative Stadtplanung, Birgit Dejaco baut für sozial Schwache, Ulla Hell ist eine der wenigen Architektinnen mit eigenem Büro. Und gerade sind die Frauen der Baubranche dabei, sich zum Netzwerk zusammenzuschließen. Frauen bauen - tatsächlich anders als Männer. Nur, woran liegt's? 
-Im dF Portrait: Hildegard Campidell hat mehr als drei Jahrzehnte lang ihren absoluten Wunschberuf ausgeübt, als Kinderärztin in Eppan. Als die alleinerziehende Mutter Anfang der 1990er Jahre ihre Praxis eröffnet, weht ihr zunächst ein kalter Wind entgegen. Sie lässt nicht locker und gewinnt die Herzen. Mit Ende 40 tritt neben Arbeit und Familie eine neue Leidenschaft in ihr Leben: der stolze, ausdrucksstarke Flamenco: wer ihn tanzt, muss Emotionen zeigen, darf stolz, traurig, wütend, aber auch leicht sein. 
-In dF Info schauen wir uns genauer an, wie es um die weibliche Beteiligung am Genossenschaftswesen bestellt ist und fragen nach, warum es den Landesbeirat für Chancengleichheit auch 35 Jahre nach seiner Gründung immer noch braucht.</desc>
-  </programme>
-  <programme start="20251010200000 +0200" stop="20251010202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251010202000 +0200" stop="20251010220000 +0200" channel="Rai Südtirol">
-    <title>WIR im Konzert 2025</title>
-    <sub-title>Südtirol Filarmonica live</sub-title>
-    <desc>In Südtirol zu Hause, in der Welt erfolgreich: Musiker:innen des Spitzenorchesters Südtirol Filarmonica konzertieren in Toblach unter dem Motto "Die Kraft der Verbundenheit", RAI Südtirol überträgt live.
- 
-Unter dem Dirigenten Michael Pichler interpretiert das Orchester das Adagio aus Gustav Mahlers 10.Sinfonie, die Fuga Ricercata von Bach/Webern und "Expedition to Paradise", eine Uraufführung vom gebürtigen Vinschger und Wahlwiener Gerd Hermann Ortler. "Musik verbindet Menschen, Orte und Ideen über Generationen hinweg", sagt Ortler.
-Südtirol Filarmonica ist ein Netzwerk von über 300 Südtiroler Musiker:innen, die die Basis dieses Projekts bilden. Die meisten von ihnen leben im Ausland und sind bei den namhaftesten Symphonieorchestern engagiert; einige studieren an renommierten Musikhochschulen der Welt. Heuer werden diese talentierten Musiker:innen vier Konzerte bestreiten, in Toblach, Bozen, Meran und Wien. 
-RAI Südtirol überträgt live aus dem Gustav Mahler-Saal in Toblach.</desc>
-  </programme>
-  <programme start="20251010221000 +0200" stop="20251010223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251011180000 +0200" stop="20251011182900 +0200" channel="Rai Südtirol">
     <title>Trend Spezial</title>
     <sub-title>Seilbahnen und Sicherheit</sub-title>
@@ -69,7 +35,7 @@ Und in der Rubrik "Innovation made in Südtirol" besuchen wir Holzius in Eyrs, w
     <desc>Das Projekt "1000 Bäume" in Innerprags, eine Alpenüberquerung gegen die Tabuisierung psychischer Krankheiten, die Selbsthilfegruppe "Pinguin-Sein" und ein Gespräch zum Thema Sterben.
 
 Am Burgerhof in Innerprags haben Schüler:innen acht klimafitte Bäume gepflanzt. Es war der Abschluss eines Schreib- und Kunstprojektes mit dem Titel "1000 Bäume". Sie haben einen Ort der Ruhe mit Bäumen und Sitzbänken angelegt, dazu haben sie Texte zu Grundhaltungen wie Achtsamkeit, Respekt, Verantwortung verfasst.
-Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone zu holen. 
+Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone holen. 
 Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegruppe mit dem Namen "Pinguin-Sein" gegründet.
 Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
   </programme>
@@ -276,6 +242,29 @@ Das Merkantilmuseum hat sich dem "Kaufmann im Wandel der Zeit" gewidmet und BAU,
 "Eine Autoimmunerkrankung" kommt selten allein, heißt es unter Medizinern. Wir sprechen mit Betroffenen, die trotz Beschwerden voll im Leben stehen - und mit Experten über Behandlungsmethoden und die Ursachen von Autoimmunerkrankungen.</desc>
   </programme>
   <programme start="20251018221000 +0200" stop="20251018223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251019200000 +0200" stop="20251019202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251019202100 +0200" stop="20251019205030 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Claudia Schuler: Vom Schicksalsschlag zur Erfolgsgeschichte</sub-title>
+    <desc>Die in Meran geborene Claudia Schuler erhielt nach einem chirurgischen Eingriff eine folgenschwere Diagnose: Querschnittslähmung. Doch anstatt sich zurückzuziehen, fand sie im Sport ihre Stärke.
+
+Schon als Kind entdeckte sie das Handbike für sich - eine Sportart für Menschen mit körperlicher Behinderung - und schrieb eine beeindruckende Erfolgsgeschichte. 2013 gewann sie beim Weltcup in Meran die Goldmedaille, und 2012 krönte sie ihre sportliche Karriere mit der Teilnahme an den Paralympics in London. 
+2016 verabschiedete sich Claudia Schuler aus dem Wettkampfsport - aber nicht von der Leidenschaft, Barrieren zu überwinden. Heute betreibt sie in Plaus ein Aparthotel, dass sie barrierefrei gestaltet hat. Damit schafft sie einen Ort, an dem Sportlerinnen, Sportler und Gäste mit Handicap nicht nur willkommen sind, sondern besondere Erlebnisse genießen können.</desc>
+  </programme>
+  <programme start="20251019205000 +0200" stop="20251019205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251019221000 +0200" stop="20251019223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
