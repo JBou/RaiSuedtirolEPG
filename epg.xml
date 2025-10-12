@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251011180000 +0200" stop="20251011182900 +0200" channel="Rai Südtirol">
-    <title>Trend Spezial</title>
-    <sub-title>Seilbahnen und Sicherheit</sub-title>
-    <desc>Südtirol gilt als Land der Seilbahnen, hier wurden die ersten ihrer Art entwickelt und gebaut. Sie sind heute Teil des öffentlichen Verkehrs, eine Säule des Tourismus - und die Betreiberunternehmen sind ein wichtiger wirtschaftlicher Faktor geworden.
-Wie im internationalen Flugverkehr gilt auch für den Betrieb von Aufstiegsanlagen: Sicherheit hat oberste Priorität. Trend Spezial beleuchtet auch am Beispiel der Seiser Alm Bahn, dass die Betreiber von Aufstiegsanlagen die Sicherheit ihrer Fahrgäste nicht allein in technischen Vorkehrungen verankern. Sie verstehen Sicherheit vielmehr als umfassende Managementaufgabe. Dazu gehören eine vorausschauende Planung, die enge organisatorische Zusammenarbeit mit Rettungsdiensten und Behörden sowie regelmäßige Notfallübungen - selbst für Szenarien, die als äußerst unwahrscheinlich gelten. Nur so kann gewährleistet werden, dass man im Ernstfall bestens vorbereitet ist.</desc>
-  </programme>
-  <programme start="20251011182900 +0200" stop="20251011185800 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Kostspielige Freizeitangebote und unfaire Ratenzahlungen, Obacht bei hochverarbeiteten Lebensmitteln wie Tiefkühlpizza oder Wurstwaren, tolle Initiativen gegen Lebensmittelverschwendung.
-Ob Fitnessstudio, Yoga oder Weiterbildungskurse, Freizeit- und Bildungsangebote versprechen viel, können aber auch zur Kostenfalle werden. Verbraucherschützer klären über automatische Vertragsverlängerungen, unfaire Ratenzahlungen und fehlende Rücktrittsmöglichkeiten auf.
-Hochverarbeitete Lebensmittel sind sehr praktisch im Alltag, aber riskant für die Gesundheit. Eine Expertin der Verbraucherzentrale erklärt, worauf man beim Einkauf achten sollte, und gibt Tipps für gesünderes Kochen.
-Lebensmittel retten statt wegwerfen: Wir haben Initiativen begleitet, die nicht nur Bedürftigen helfen, sondern auch unsere Umwelt entlasten. 
-Und in der Rubrik "Innovation made in Südtirol" besuchen wir Holzius in Eyrs, wo nachhaltiges Bauen mit Holz echte Lebensräume schafft.</desc>
-  </programme>
-  <programme start="20251011200000 +0200" stop="20251011202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251011202100 +0200" stop="20251011202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251011202500 +0200" stop="20251011205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Das Projekt "1000 Bäume" in Innerprags, eine Alpenüberquerung gegen die Tabuisierung psychischer Krankheiten, die Selbsthilfegruppe "Pinguin-Sein" und ein Gespräch zum Thema Sterben.
-
-Am Burgerhof in Innerprags haben Schüler:innen acht klimafitte Bäume gepflanzt. Es war der Abschluss eines Schreib- und Kunstprojektes mit dem Titel "1000 Bäume". Sie haben einen Ort der Ruhe mit Bäumen und Sitzbänken angelegt, dazu haben sie Texte zu Grundhaltungen wie Achtsamkeit, Respekt, Verantwortung verfasst.
-Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone holen. 
-Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegruppe mit dem Namen "Pinguin-Sein" gegründet.
-Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
-  </programme>
-  <programme start="20251011221000 +0200" stop="20251011223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251012200000 +0200" stop="20251012202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
