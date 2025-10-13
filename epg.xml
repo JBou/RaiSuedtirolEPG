@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251012200000 +0200" stop="20251012202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251012202100 +0200" stop="20251012204530 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der Vollkontaktsport RollerDerby, junge Talente am Herd und an der Bartheke, die Fachrichtung Musik am Sozialwissenschaftlichen Gymnasium in Meran. Moderation: Mara Marth. 
-
-Die Schüler:innen des Landesschwerpunkts Musik in Meran haben die Möglichkeit, ihre Leidenschaft auch im Unterricht zu leben: Sie singen, spielen Instrumente, komponieren und proben gemeinsam. "Klick" hat spannende Einblicke in ihren Schulalltag bekommen - von den Proben bis hin zu den Berufschancen.
-Dynamisch, taktisch und inklusiv: Der Vollkontaktsport RollerDerby ist hierzulande nahezu unbekannt. Wir haben das einzige Team in Südtirol besucht: die Alp'n Rockets.
-Zwei junge Talente, die Südtirols Genusswelt prägen: Im Soley in Brixen begeistert Barkeeper Jonas Nössing mit kreativen Drinks, während Küchenchef René Tschager im Ansitz Steinbock in Villanders Fine Dining auf höchstem Niveau interpretiert. In Klick treffen Bar- und Kochkunst zu einem außergewöhnlichen Doppelporträt aufeinander.</desc>
-  </programme>
-  <programme start="20251012204500 +0200" stop="20251012204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251012221000 +0200" stop="20251012223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251013180000 +0200" stop="20251013181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
