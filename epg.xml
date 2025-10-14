@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251013180000 +0200" stop="20251013181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Kellerduell Partschins gegen St. Georgen steht im Mittelpunkt des 7. Oberliga-Spieltages. Beide Teams wollen sich mit einem Sieg aus der Krise schießen. In der Landeliga empfängt der überraschend starke Aufsteiger Olimpia Meran Tabellenführer Bruneck, während Stegen zu Hause auf Gargazon trifft.</desc>
-  </programme>
-  <programme start="20251013181400 +0200" stop="20251013183230 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Pferdetrekking</sub-title>
-    <desc>Pfotemoderator Stefan trifft auf der Koppel des Gunserhofes in Kastelruth Wanderreitführer Thomas und seine Pferde. Thomas verbringt jede freie Minute mit seinen geliebten Tieren - und am allerliebsten reitet er mehrere Tage hintereinander durch die Natur. Gemeinsam mit anderen Pferdefreunden verbringt er so einige Tage auf der Seiser Alm, reitet über ausgewählte Pfade und übernachtet in gemütlichen Almhütten.
-Stefans Begeisterung ist sofort geweckt - und so schwingt auch er sich in den Sattel, obwohl er noch nie auf einem Pferderücken gesessen hat. Zu seiner großen Überraschung klappt es schon nach kurzer Einführung richtig gut, und schon bald trabt Stefan zusammen mit Thomas über die grünen Wiesen.</desc>
-  </programme>
-  <programme start="20251013183300 +0200" stop="20251013185730 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Der Vollkontaktsport RollerDerby, junge Talente am Herd und an der Bartheke, die Fachrichtung Musik am Sozialwissenschaftlichen Gymnasium in Meran. Moderation: Mara Marth. 
-Die Schüler:innen des Landesschwerpunkts Musik in Meran haben die Möglichkeit, ihre Leidenschaft auch im Unterricht zu leben: Sie singen, spielen Instrumente, komponieren und proben gemeinsam. "Klick" hat spannende Einblicke in ihren Schulalltag bekommen - von den Proben bis hin zu den Berufschancen.
-Dynamisch, taktisch und inklusiv: Der Vollkontaktsport RollerDerby ist hierzulande nahezu unbekannt. Wir haben das einzige Team in Südtirol besucht: die Alp'n Rockets.
-Zwei junge Talente, die Südtirols Genusswelt prägen: Im Soley in Brixen begeistert Barkeeper Jonas Nössing mit kreativen Drinks, während Küchenchef René Tschager im Ansitz Steinbock in Villanders Fine Dining auf höchstem Niveau interpretiert. In Klick treffen Bar- und Kochkunst zu einem außergewöhnlichen Doppelporträt aufeinander.</desc>
-  </programme>
-  <programme start="20251013200000 +0200" stop="20251013202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251013202000 +0200" stop="20251013211900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>"Nachtland" in der Carambolage, "König Lear" der Vereinigten Bühnen Bozen und eine neu interpretierte Fassung von Felix Mitterers "Gaismair" sind Themen dieser Sendung. Zu Gast sind Doris Plankl von Alpsmove und Katrin Klotz vom Franz Tumler Literaturpreis. 
-
-In Nachtland entfaltet Autor Marius von Mayenburg ein Familiendrama aufgrund eines Gemäldes, das die Signatur A. Hiller trägt. Oder heißt das A. Hitler? Die Dissonanz zwischen Profit und Verantwortung wird zur Farce. 
-Das Theater in der Altstadt in Meran bringt eine von Selma Mahlknecht bearbeitete Fassung von Mitterers Stück Gaismair auf die Bühne und fügt dem Stück eine weibliche Stimme und zeitgenössische Perspektive hinzu.
-Intendant Rudolf Frey inszeniert König Lear bei den Vereinigten Bühnen Bozen. Es wird eine Inszenierung, die den Darstellenden das Alleräußerste abverlangt.
-Das Merkantilmuseum hat sich dem "Kaufmann im Wandel der Zeit" gewidmet und BAU, das Institut für zeitgenössische Kunst und Ökologie, hat das 10jährige Bestehen gefeiert.</desc>
-  </programme>
-  <programme start="20251013211900 +0200" stop="20251013213400 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>"A echter Tiroler tuat sich herter leichter" heißt es, aber sind wir wirklich rückwärtsgewandte Holzköpfe, einfältige Dickköpfe oder können sich nur einige Unikate als solche beschreiben?
-Angelika König und Simone Mayr begegnen jemandem, der sagen kann, was ein Holzkopf ist und weshalb ein Holzkopf nicht immer auf dem Holzweg ist, und erfahren Spannendes von einer Grödnerin, die die Welt erobert hat.</desc>
-  </programme>
-  <programme start="20251013213500 +0200" stop="20251013215640 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>Die Trostburg</sub-title>
-    <desc>Beeindruckend liegt die Trostburg auf einem Felssporn oberhalb von Waidbruck. Die Burg wurde um 1173 das erste Mal urkundlich erwähnt. Etwa 600 Jahre blieb die Anlage im Besitz der Grafen von Wolkenstein-Trostburg, einem der bedeutendsten Adelsgeschlechter Tirols. Zwischen dem 14. und 17. Jahrhundert wurde die Anlage wesentlich erweitert. Die ehemalige Ritterburg birgt romanische Tür- und Fensterbögen, gotische Wehranlagen aus der Zeit von Oswald von Wolkenstein und spätgotische Wohnkultur. Prunkvolle Säle und Getäfel aus dem 16. und 17. Jhd. sind ebenso zu sehen wie Stuck und Einrichtung der Renaissance. Seit 2005 ist die Trostburg im Besitz des Südtiroler Burgeninstituts.</desc>
-  </programme>
-  <programme start="20251013221000 +0200" stop="20251013223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251014200000 +0200" stop="20251014202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
