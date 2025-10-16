@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251015200000 +0200" stop="20251015202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251015202000 +0200" stop="20251015204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Ina Tartler, Dramaturgin in Südtirol, hat Wurzeln in Siebenbürgen/Rumänien. Gemeinsam mit Bekannten, die alle einen familiären Bezug zu Siebenbürgen haben, renoviert sie gerade ein altes Predigerhaus in Heldsdorf bei Kronstadt. In Minet zeigt sie ein Stück ihrer alten Heimat und die tiefe Verbundenheit damit. 
-
-Im Oktober wird Günther Rautz, langjähriger Leiter des Institutes für Minderheitenrecht an der Eurac, in Wien der Dr. Alois Mock-Wissenschaftspreis für seine Dissertation zur Europäischen Identität verliehen. Ein Portrait mit Rück- und Ausblick. 
-Im Namen des Kampfs gegen Terrorismus und Extremismus in Xinjiang führt die chinesische Regierung seit 2016 ungerechtfertigt beispiellose Repressionen gegen die türkischsprachige muslimische Minderheit der Uigur:innen durch. Exil-Uiguren in der Schweiz versuchen mit ihrem Verein gegen die Ohnmacht anzukämpfen. 
-In der Reihe "Tribal Voices" erzählt Célestin, ein Angehöriger der Baka im Kongo, wie sein Volk jahrelang der Gewalt durch vom WWF finanzierte Umweltschützer:innen ausgesetzt gewesen ist. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20251015221000 +0200" stop="20251015223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251016200000 +0200" stop="20251016202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
