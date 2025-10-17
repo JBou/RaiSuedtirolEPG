@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251016200000 +0200" stop="20251016202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251016202000 +0200" stop="20251016204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Erfolg und Scheitern</sub-title>
-    <desc>Ob beruflich oder privat, zu scheitern ist für viele von uns eine persönliche Niederlage. Doch das muss nicht sein, wie zahlreiche prominente Beispiele zeigen: Walt Disney scheiterte in seinen Anfängen als Cartoonzeichner bei einer Zeitung, weil er dort nicht als kreativ genug erachtet wurde. Und auch das Harry-Potter-Manuskript der Schriftstellerin J. K. Rowling wurde anfangs mehrfach abgelehnt. 
-Diese berühmt gewordenen "Scheiterer" haben eines gemeinsam: Sie haben trotz gemachter Fehler nicht aufgegeben und sind später sehr erfolgreich geworden. Auch viele Wissenschaftler sehen Fehler, Rückschläge und persönliche Niederlagen als Chance. Das Südtirol Magazin hat Ideen und Tipps, wie wir erfolgreich scheitern können.
-Zu Gast ist die Rechtsanwältin Simone Tröbinger.
-Mit der Rubrik "Unser Gedächtnis" werfen wir einen Blick in das Archiv der Tagesschau auf Rai Südtirol aus dem Jahr 1968 und in der Rubrik "Wiedersehen" begleiten wir einen erfolgreichen Sänger: "Ein Tag mit Andreas Gabalier". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20251016213000 +0200" stop="20251016215930 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Genau 113 Tage fehlen noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Die Vorbereitungen laufen auch in Südtirol auf Hochtouren, in Antholz werden alle Biathlon-Olympiamedaillen vergeben. In der Ice-Hockey-League sorgen Bozen und Pustertal für Schlagzeilen, beide Mannschaften zählen heuer zu den Top-Teams der Liga. Auch Obermais ist bei seinem Debüt in der Fußball-Serie D gut in die Meisterschaft gestartet.</desc>
-  </programme>
-  <programme start="20251016221000 +0200" stop="20251016223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251017180000 +0200" stop="20251017182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Erfolg und Scheitern</sub-title>
@@ -112,6 +89,178 @@ Schon als Kind entdeckte sie das Handbike für sich - eine Sportart für Mensche
     <desc/>
   </programme>
   <programme start="20251019221000 +0200" stop="20251019223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251020180000 +0200" stop="20251020181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 8. Oberliga-Spieltag stehen sich im Südtiroler Oberliga-Derby die beiden Traditionsvereine St. Georgen und SSV Brixen gegenüber, außerdem trifft Aufsteiger Gröden zu Hause auf Tramin. In der Landesliga empfängt Gargazon Gitschberg-Jochtal.</desc>
+  </programme>
+  <programme start="20251020181400 +0200" stop="20251020183230 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Die Rosen im Garten der Liebenden</sub-title>
+    <desc>Botanikerin Karin führt uns durch den Garten der Liebenden in den Gärten von Schloss Trauttmansdorff. Dort spielen die Rosen in all ihren Farben, Formen und Düften die Hauptrolle. Neben den etwa 150 wildwachsenden Arten gibt es heute rund 30.000 gezüchtete Rosensorten, die durch Kreuzungen und Selektion entstanden sind. Karin zeigt, wie auf natürlichem Weg neue Rosenarten entstehen können - und wie aus zarten Rosenblättern duftende Baderöschen werden. Anschließend zeigen die Fußball-Kids, was sie können.</desc>
+  </programme>
+  <programme start="20251020183300 +0200" stop="20251020185750 +0200" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Autoimmunerkrankungen</sub-title>
+    <desc>Wenn das körpereigene Abwehrsystem die eigenen Zellen angreift, spricht man von Autoimmunerkrankungen. Über 80 verschiedene Krankheitsbilder sind bekannt. Zu den häufigsten gehören die chronische Schilddrüsenentzündung Hashimoto-Thyreoiditis, auch Zöliakie, Morbus Crohn oder Lupus.
+"Eine Autoimmunerkrankung" kommt selten allein, heißt es unter Medizinern. Wir sprechen mit Betroffenen, die trotz Beschwerden voll im Leben stehen - und mit Experten über Behandlungsmethoden und die Ursachen von Autoimmunerkrankungen.</desc>
+  </programme>
+  <programme start="20251020200000 +0200" stop="20251020202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251020202000 +0200" stop="20251020220000 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut</title>
+    <sub-title>24 Stunden - Pflege in Südtirol</sub-title>
+    <desc>Wer steht an unserem Bett, wenn wir alt, gebrechlich und pflegebedürftig sind? Werden Roboter eingesetzt? Welche neuen Wohnformen braucht es? Der Dokuabend mit Film und Diskussion.
+ 
+Pflege hat viele Gesichter: die Tochter, die nach einem langen Arbeitstag noch zur Mutter fährt; die "Badante", die Tag und Nacht zur Stelle ist; die Pflegekraft, die im Morgengrauen einem Bewohner das Gesicht wäscht und abends die Suppe einlöffelt; die Hauspflegerin, die sehnlich erwartet wird, weil sie ein paar Stunden Entlastung bringt. Pflege bedeutet Nähe, Verantwortung - und oft auch Überforderung. 
+Doch was passiert, wenn die große Generation der Babyboomer ins Pflegealter kommt? Werden Roboter dann die Medikamente reichen oder beim Aufstehen helfen? Welche neuen Wohnformen braucht ein Südtirol, das älter wird? Und wie geht es jenen, die Tag für Tag die Pflege stemmen? Der Doku-Abend "Nachgeschaut" schaut genau hin - live aus dem Seniorenwohnheim "Lorenzerhof" in Lana. 
+Die Reportage "24 Stunden - Pflege in Südtirol" von Thomas Hainz begleitet Menschen, die pflegen und gepflegt werden, durch ihren Alltag, Im Anschluss vermitteln die Gäste tiefe Einblicke in die Praxis und in die Herausforderungen der Pflege von morgen.  
+Zu Gast sind unter anderem Rita Obkircher vom Verband der Seniorenwohnheime, Christian Klotzner von der Stiftung Elisabeth, Tanja Zöhrer vom Landesverband der Sozialberufe, Franziska Jageregger vom ambulanten Betreuungsdienst. 
+Moderation: Judith Bertagnolli</desc>
+  </programme>
+  <programme start="20251020221000 +0200" stop="20251020223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251021200000 +0200" stop="20251021202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251021202000 +0200" stop="20251021203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251021203500 +0200" stop="20251021204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 8. Oberliga-Spieltag stehen sich im Südtiroler Oberliga-Derby die beiden Traditionsvereine St. Georgen und SSV Brixen gegenüber, außerdem trifft Aufsteiger Gröden zu Hause auf Tramin. In der Landesliga empfängt Gargazon Gitschberg-Jochtal.</desc>
+  </programme>
+  <programme start="20251021221000 +0200" stop="20251021223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251022200000 +0200" stop="20251022202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251022202000 +0200" stop="20251022204930 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Max vergreift sich im Ton</sub-title>
+    <desc>Keramik erfordert handwerkliches Können, Geduld und ein gutes Gespür für Form und Material - also genau die richtige Herausforderung für Max von Milland.
+
+Im Rahmen der Ceramics-Ausstellung des Südtiroler Künstlerbundes stellt sich Max der Aufgabe, innerhalb nur eines Tages ein eigenes Keramikkunstwerk zu entwerfen, zu gestalten und zu brennen. Am Ende entscheidet eine Jury aus professionellen Künstlerinnen und Künstlern, ob das Werk auch wirklich "ausstellungsreif" ist. Ob Max die Hitze des Brennofens und den künstlerischen Druck aushält?</desc>
+  </programme>
+  <programme start="20251022221000 +0200" stop="20251022223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251023200000 +0200" stop="20251023202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251023202000 +0200" stop="20251023204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Pilgern</sub-title>
+    <desc>Je hektischer und stressiger unser Alltag ist, umso mehr sehnen sich Menschen nach Momenten der inneren Einkehr, des Innehaltens und Krafttankens. Es moderiert Karin Gschnitzer.
+
+Pilgern auf dem Jakobsweg, Rückzug, Stille und Meditation in der Natur - immer mehr Menschen suchen abseits von ihrem hektischen Alltag Ruheoasen. Wir haben uns dazu in Südtirol umgeschaut und einige Rückzugsorte gefunden. 
+In der Rubrik "Wiedersehen" werfen wir einen Blick darauf, wie Minderheiten pilgern und in "So isst Euregio" besuchen wir die Köchin Madlen Hackl in Nordtirol.</desc>
+  </programme>
+  <programme start="20251023221000 +0200" stop="20251023223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251024180000 +0200" stop="20251024182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Pilgern</sub-title>
+    <desc>Je hektischer und stressiger unser Alltag ist, umso mehr sehnen sich Menschen nach Momenten der inneren Einkehr, des Innehaltens und Krafttankens. Es moderiert Karin Gschnitzer.
+Pilgern auf dem Jakobsweg, Rückzug, Stille und Meditation in der Natur - immer mehr Menschen suchen abseits von ihrem hektischen Alltag Ruheoasen. Wir haben uns dazu in Südtirol umgeschaut und einige Rückzugsorte gefunden. 
+In der Rubrik "Wiedersehen" werfen wir einen Blick darauf, wie Minderheiten pilgern und in "So isst Euregio" besuchen wir die Köchin Madlen Hackl in Nordtirol.</desc>
+  </programme>
+  <programme start="20251024182900 +0200" stop="20251024185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Projekt "1000 Bäume" in Innerprags, eine Alpenüberquerung gegen die Tabuisierung psychischer Krankheiten, die Selbsthilfegruppe "Pinguin-Sein" und ein Gespräch zum Thema Sterben.
+Am Burgerhof in Innerprags haben Schüler:innen acht klimafitte Bäume gepflanzt. Es war der Abschluss eines Schreib- und Kunstprojektes mit dem Titel "1000 Bäume". Sie haben einen Ort der Ruhe mit Bäumen und Sitzbänken angelegt, dazu haben sie Texte zu Grundhaltungen wie Achtsamkeit, Respekt, Verantwortung verfasst.
+Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone holen. 
+Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegruppe mit dem Namen "Pinguin-Sein" gegründet.
+Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
+  </programme>
+  <programme start="20251024200000 +0200" stop="20251024202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251024202000 +0200" stop="20251024214900 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Thomas Vonmetz trifft auf drei Persönlichkeiten, die auf ganz unterschiedliche Weise für Leidenschaft und Durchhaltevermögen stehen: Rudl Bachmann, Denise Karbon und Horst Eberhöfer.
+ 
+Der Tonholzmeister Rudolf "Rudl" Bachmann erzählt, wie aus Südtiroler Bäumen Gitarren für Musiker in aller Welt entstehen - und warum Holz für ihn mehr ist als nur Material ist.
+Denise Karbon, ehemalige Weltcup-Skirennläuferin, spricht offen über ihr Leben nach dem Spitzensport, über Abschied, Familie und den Mut zum Neubeginn.
+Und Horst Eberhöfer, Naturfotograf und ehemaliger Wilderer, berichtet von seinen Jahren im Brenta-Gebiet, wo er Seite an Seite mit Bären lebte und sein Buch "Ursus Brenta" schrieb.
+Für musikalische Highlights sorgt Alex the Judge mit funkigem Soul aus Südtirol, während die Jugendredewettbewerbs-Gewinnerinnen Olivia Kaufmann und Helena Wierer zeigen, wieviel Kreativität und Tiefgang in der nächsten Generation steckt.</desc>
+  </programme>
+  <programme start="20251024214900 +0200" stop="20251024215803 +0200" channel="Rai Südtirol">
+    <title>Kunst und Landwirtschaft</title>
+    <sub-title>Der Aspmayrhof in Wangen</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251024221000 +0200" stop="20251024223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251025180000 +0200" stop="20251025182930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Claudia Schuler: Vom Schicksalsschlag zur Erfolgsgeschichte</sub-title>
+    <desc>Die in Meran geborene Claudia Schuler erhielt nach einem chirurgischen Eingriff eine folgenschwere Diagnose: Querschnittslähmung. Doch anstatt sich zurückzuziehen, fand sie im Sport ihre Stärke.
+Schon als Kind entdeckte sie das Handbike für sich - eine Sportart für Menschen mit körperlicher Behinderung - und schrieb eine beeindruckende Erfolgsgeschichte. 2013 gewann sie beim Weltcup in Meran die Goldmedaille, und 2012 krönte sie ihre sportliche Karriere mit der Teilnahme an den Paralympics in London. 
+2016 verabschiedete sich Claudia Schuler aus dem Wettkampfsport - aber nicht von der Leidenschaft, Barrieren zu überwinden. Heute betreibt sie in Plaus ein Aparthotel, dass sie barrierefrei gestaltet hat. Damit schafft sie einen Ort, an dem Sportlerinnen, Sportler und Gäste mit Handicap nicht nur willkommen sind, sondern besondere Erlebnisse genießen können.</desc>
+  </programme>
+  <programme start="20251025182900 +0200" stop="20251025185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Ina Tartler, Dramaturgin in Südtirol, hat Wurzeln in Siebenbürgen/Rumänien. Gemeinsam mit Bekannten, die alle einen familiären Bezug zu Siebenbürgen haben, renoviert sie gerade ein altes Predigerhaus in Heldsdorf bei Kronstadt. In Minet zeigt sie ein Stück ihrer alten Heimat und die tiefe Verbundenheit damit. 
+Im Oktober wird Günther Rautz, langjähriger Leiter des Institutes für Minderheitenrecht an der Eurac, in Wien der Dr. Alois Mock-Wissenschaftspreis für seine Dissertation zur Europäischen Identität verliehen. Ein Portrait mit Rück- und Ausblick. 
+Im Namen des Kampfs gegen Terrorismus und Extremismus in Xinjiang führt die chinesische Regierung seit 2016 ungerechtfertigt beispiellose Repressionen gegen die türkischsprachige muslimische Minderheit der Uigur:innen durch. Exil-Uiguren in der Schweiz versuchen mit ihrem Verein gegen die Ohnmacht anzukämpfen. 
+In der Reihe "Tribal Voices" erzählt Célestin, ein Angehöriger der Baka im Kongo, wie sein Volk jahrelang der Gewalt durch vom WWF finanzierte Umweltschützer:innen ausgesetzt gewesen ist. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20251025200000 +0200" stop="20251025202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251025202100 +0200" stop="20251025202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251025202500 +0200" stop="20251025205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Ein gutes Mittagsmenü bringt Einheimische und Gäste zusammen. Ahrntaler Graukäse zwischen Tradition und Kochkunst. Eine Besonderheit im Medical Center im Quellenhof. 
+
+Im Hotel Post Gries sorgt eine wechselnde Mittagskarte dafür, dass nicht nur Gäste, sondern auch viele Bozner:innen regelmäßig einkehren. Das Restaurant Gerhard in Tscherms bietet mit seinem Arbeitermenü ein unkompliziertes Angebot - auch zum Mitnehmen.
+Im Ahrntal spielt der Graukäse seit jeher eine besondere Rolle. In der Hofkäserei Moarhof wird die traditionelle Sauermilchspezialität noch nach alter Handwerkskunst hergestellt, während sie in der Gastronomie kreativ zubereitet wird.
+Das Medical Center im Quellenhof im Passeiertal beherbergt eines der wenigen 3D-Muttermal-Scan-Systeme Europas, das auf künstlicher Intelligenz basiert. Das hochmoderne Gerät ermöglicht eine präzise Früherkennung von Hautkrebs und wird sowohl von Gästen als auch von Einheimischen genutzt.</desc>
+  </programme>
+  <programme start="20251025221000 +0200" stop="20251025223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
