@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251017180000 +0200" stop="20251017182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Erfolg und Scheitern</sub-title>
-    <desc>Ob beruflich oder privat, zu scheitern ist für viele von uns eine persönliche Niederlage. Doch das muss nicht sein, wie zahlreiche prominente Beispiele zeigen: Walt Disney scheiterte in seinen Anfängen als Cartoonzeichner bei einer Zeitung, weil er dort nicht als kreativ genug erachtet wurde. Und auch das Harry-Potter-Manuskript der Schriftstellerin J. K. Rowling wurde anfangs mehrfach abgelehnt. 
-Diese berühmt gewordenen "Scheiterer" haben eines gemeinsam: Sie haben trotz gemachter Fehler nicht aufgegeben und sind später sehr erfolgreich geworden. Auch viele Wissenschaftler sehen Fehler, Rückschläge und persönliche Niederlagen als Chance. Das Südtirol Magazin hat Ideen und Tipps, wie wir erfolgreich scheitern können.
-Zu Gast ist die Rechtsanwältin Simone Tröbinger.
-Mit der Rubrik "Unser Gedächtnis" werfen wir einen Blick in das Archiv der Tagesschau auf Rai Südtirol aus dem Jahr 1968 und in der Rubrik "Wiedersehen" begleiten wir einen erfolgreichen Sänger: "Ein Tag mit Andreas Gabalier". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20251017182900 +0200" stop="20251017185830 +0200" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Genau 113 Tage fehlen noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Die Vorbereitungen laufen auch in Südtirol auf Hochtouren, in Antholz werden alle Biathlon-Olympiamedaillen vergeben. In der Ice-Hockey-League sorgen Bozen und Pustertal für Schlagzeilen, beide Mannschaften zählen heuer zu den Top-Teams der Liga. Auch Obermais ist bei seinem Debüt in der Fußball-Serie D gut in die Meisterschaft gestartet.</desc>
-  </programme>
-  <programme start="20251017200000 +0200" stop="20251017202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251017202000 +0200" stop="20251017211800 +0200" channel="Rai Südtirol">
-    <title>Waltherpark</title>
-    <sub-title>Der Jahrhundertbau</sub-title>
-    <desc>Am 31. Oktober 2014 entschied die Innsbrucker SIGNA-Gruppe um René Benko den Wettbewerb zur Neugestaltung des Bozner Busbahnhofs für sich. Damals noch unter dem Titel "Kaufhaus Bozen Bolzano" vom renommierten Architekten David Chipperfield entworfen, nahm das Projekt über die Jahre Gestalt an: Ein moderner Gebäudekomplex mit Kaufhaus, City Hotel, Sky Bar, Wohnungen und Büros, der sich harmonisch in das Stadtbild einfügt und Bozen als Handels- und Kulturstadt nachhaltig aufwertet. 
-
-Elf Jahre später ist der Waltherpark Realität - und ein Film erzählt nun seine Geschichte. Die Filmemacher Markus Frings und Günther Neumair (Mitarbeit: Philipp Bologna) begleiten Südtirols größte private Investition mit über 500 Millionen Euro durch all ihre Höhen und Tiefen. Sie zeigen nicht nur die architektonische Dimension, sondern auch die vielen unerwarteten Hindernisse und Rückschläge, mit denen Bauherren und Arbeiter konfrontiert waren.
-Protagonisten sind die Menschen, die täglich auf der Baustelle standen, ebenso wie jene, die das Projekt mit Ausdauer und Überzeugung vorangetrieben haben. Der Film zeichnet ein eindrucksvolles Bild davon, wie der Waltherpark Schritt für Schritt das Stadtbild von Bozen geprägt hat - und warum die Eröffnung am 15. Oktober nicht nur ein Meilenstein, sondern ein Moment des Stolzes für die ganze Stadt ist.</desc>
-  </programme>
-  <programme start="20251017211800 +0200" stop="20251017215700 +0200" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Volxrock</sub-title>
-    <desc>Seit 20 Jahren sind Volxrock unterwegs, eine Live-Band aus dem Pustertal, die sich nicht nur in Südtirol einen Namen gemacht hat. Unverkennbar sind Stil und Markenzeichen der Band und so kommt es nicht von ungefähr, dass Volxrock in Deutschland und Österreich ein Begriff für Live-Shows geworden sind. Die Band gehört seit Beginn zur neuen wilden Volxmusik-Szene, der auch Gruppen wie LaBrassBanda, voXXclfürLive oder als Einzelkünstler Andreas Gabalier angehören. Den 4 Musikern Christian Gartner und Marco Egger mit Gesang und Gitarre, Werner Gartner am Bass, Ziehharmonika und Gesang und Michael Weger mit Schlagzeug und Gitarre gelingt es durch die anarchistische Mischung von Heavy Metal, klassischem Rock, Rap und Volksmusiktradition, Alt und Jung gleichzeitig zu begeistern.</desc>
-  </programme>
-  <programme start="20251017221000 +0200" stop="20251017223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251018180000 +0200" stop="20251018185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -261,6 +225,28 @@ Im Ahrntal spielt der Graukäse seit jeher eine besondere Rolle. In der Hofkäse
 Das Medical Center im Quellenhof im Passeiertal beherbergt eines der wenigen 3D-Muttermal-Scan-Systeme Europas, das auf künstlicher Intelligenz basiert. Das hochmoderne Gerät ermöglicht eine präzise Früherkennung von Hautkrebs und wird sowohl von Gästen als auch von Einheimischen genutzt.</desc>
   </programme>
   <programme start="20251025221000 +0200" stop="20251025223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251026200000 +0100" stop="20251026202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251026202000 +0100" stop="20251026204930 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Beziehung Mensch und Tier im Gebirge</sub-title>
+    <desc>Drei Tage unterwegs im Sattel: Mit zwei erfahrenen Reitern ist das Team der Sendereihe Bergwelt unterwegs in den Dolomiten. Moderation: Thomas Hainz.
+
+Von Steinegg gehts über den Karerpass bis ins Fassatal und hinauf zum Antermoiasee. Dabei ist Selbstversorgung angesagt, vom Kochen auf Feuer bis hin zur Übernachtung auf abgelegenen Almhütten. Danach begleiten wir einen Wanderschäfer auf seinen hochalpinen Wegen zwischen dem Giaupass und den Bergen des Cadore.</desc>
+  </programme>
+  <programme start="20251026205000 +0100" stop="20251026205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251026221000 +0100" stop="20251026223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
