@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251018180000 +0200" stop="20251018185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>"Nachtland" in der Carambolage, "König Lear" der Vereinigten Bühnen Bozen und eine neu interpretierte Fassung von Felix Mitterers "Gaismair" sind Themen dieser Sendung. Zu Gast sind Doris Plankl von Alpsmove und Katrin Klotz vom Franz Tumler Literaturpreis. 
-In Nachtland entfaltet Autor Marius von Mayenburg ein Familiendrama aufgrund eines Gemäldes, das die Signatur A. Hiller trägt. Oder heißt das A. Hitler? Die Dissonanz zwischen Profit und Verantwortung wird zur Farce. 
-Das Theater in der Altstadt in Meran bringt eine von Selma Mahlknecht bearbeitete Fassung von Mitterers Stück Gaismair auf die Bühne und fügt dem Stück eine weibliche Stimme und zeitgenössische Perspektive hinzu.
-Intendant Rudolf Frey inszeniert König Lear bei den Vereinigten Bühnen Bozen. Es wird eine Inszenierung, die den Darstellenden das Alleräußerste abverlangt.
-Das Merkantilmuseum hat sich dem "Kaufmann im Wandel der Zeit" gewidmet und BAU, das Institut für zeitgenössische Kunst und Ökologie, hat das 10jährige Bestehen gefeiert.</desc>
-  </programme>
-  <programme start="20251018200000 +0200" stop="20251018202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251018202100 +0200" stop="20251018202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251018202500 +0200" stop="20251018205030 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Autoimmunerkrankungen</sub-title>
-    <desc>Wenn das körpereigene Abwehrsystem die eigenen Zellen angreift, spricht man von Autoimmunerkrankungen. Über 80 verschiedene Krankheitsbilder sind bekannt. Zu den häufigsten gehören die chronische Schilddrüsenentzündung Hashimoto-Thyreoiditis, auch Zöliakie, Morbus Crohn oder Lupus.
-"Eine Autoimmunerkrankung" kommt selten allein, heißt es unter Medizinern. Wir sprechen mit Betroffenen, die trotz Beschwerden voll im Leben stehen - und mit Experten über Behandlungsmethoden und die Ursachen von Autoimmunerkrankungen.</desc>
-  </programme>
-  <programme start="20251018221000 +0200" stop="20251018223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251019200000 +0200" stop="20251019202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
