@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251019200000 +0200" stop="20251019202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251019202100 +0200" stop="20251019205030 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Claudia Schuler: Vom Schicksalsschlag zur Erfolgsgeschichte</sub-title>
-    <desc>Die in Meran geborene Claudia Schuler erhielt nach einem chirurgischen Eingriff eine folgenschwere Diagnose: Querschnittslähmung. Doch anstatt sich zurückzuziehen, fand sie im Sport ihre Stärke.
-
-Schon als Kind entdeckte sie das Handbike für sich - eine Sportart für Menschen mit körperlicher Behinderung - und schrieb eine beeindruckende Erfolgsgeschichte. 2013 gewann sie beim Weltcup in Meran die Goldmedaille, und 2012 krönte sie ihre sportliche Karriere mit der Teilnahme an den Paralympics in London. 
-2016 verabschiedete sich Claudia Schuler aus dem Wettkampfsport - aber nicht von der Leidenschaft, Barrieren zu überwinden. Heute betreibt sie in Plaus ein Aparthotel, dass sie barrierefrei gestaltet hat. Damit schafft sie einen Ort, an dem Sportlerinnen, Sportler und Gäste mit Handicap nicht nur willkommen sind, sondern besondere Erlebnisse genießen können.</desc>
-  </programme>
-  <programme start="20251019205000 +0200" stop="20251019205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251019221000 +0200" stop="20251019223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251020180000 +0200" stop="20251020181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
