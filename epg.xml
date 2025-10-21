@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251020180000 +0200" stop="20251020181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 8. Oberliga-Spieltag stehen sich im Südtiroler Oberliga-Derby die beiden Traditionsvereine St. Georgen und SSV Brixen gegenüber, außerdem trifft Aufsteiger Gröden zu Hause auf Tramin. In der Landesliga empfängt Gargazon Gitschberg-Jochtal.</desc>
-  </programme>
-  <programme start="20251020181400 +0200" stop="20251020183230 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Die Rosen im Garten der Liebenden</sub-title>
-    <desc>Botanikerin Karin führt uns durch den Garten der Liebenden in den Gärten von Schloss Trauttmansdorff. Dort spielen die Rosen in all ihren Farben, Formen und Düften die Hauptrolle. Neben den etwa 150 wildwachsenden Arten gibt es heute rund 30.000 gezüchtete Rosensorten, die durch Kreuzungen und Selektion entstanden sind. Karin zeigt, wie auf natürlichem Weg neue Rosenarten entstehen können - und wie aus zarten Rosenblättern duftende Baderöschen werden. Anschließend zeigen die Fußball-Kids, was sie können.</desc>
-  </programme>
-  <programme start="20251020183300 +0200" stop="20251020185750 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Autoimmunerkrankungen</sub-title>
-    <desc>Wenn das körpereigene Abwehrsystem die eigenen Zellen angreift, spricht man von Autoimmunerkrankungen. Über 80 verschiedene Krankheitsbilder sind bekannt. Zu den häufigsten gehören die chronische Schilddrüsenentzündung Hashimoto-Thyreoiditis, auch Zöliakie, Morbus Crohn oder Lupus.
-"Eine Autoimmunerkrankung" kommt selten allein, heißt es unter Medizinern. Wir sprechen mit Betroffenen, die trotz Beschwerden voll im Leben stehen - und mit Experten über Behandlungsmethoden und die Ursachen von Autoimmunerkrankungen.</desc>
-  </programme>
-  <programme start="20251020200000 +0200" stop="20251020202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251020202000 +0200" stop="20251020220000 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut</title>
-    <sub-title>24 Stunden - Pflege in Südtirol</sub-title>
-    <desc>Wer steht an unserem Bett, wenn wir alt, gebrechlich und pflegebedürftig sind? Werden Roboter eingesetzt? Welche neuen Wohnformen braucht es? Der Dokuabend mit Film und Diskussion.
- 
-Pflege hat viele Gesichter: die Tochter, die nach einem langen Arbeitstag noch zur Mutter fährt; die "Badante", die Tag und Nacht zur Stelle ist; die Pflegekraft, die im Morgengrauen einem Bewohner das Gesicht wäscht und abends die Suppe einlöffelt; die Hauspflegerin, die sehnlich erwartet wird, weil sie ein paar Stunden Entlastung bringt. Pflege bedeutet Nähe, Verantwortung - und oft auch Überforderung. 
-Doch was passiert, wenn die große Generation der Babyboomer ins Pflegealter kommt? Werden Roboter dann die Medikamente reichen oder beim Aufstehen helfen? Welche neuen Wohnformen braucht ein Südtirol, das älter wird? Und wie geht es jenen, die Tag für Tag die Pflege stemmen? Der Doku-Abend "Nachgeschaut" schaut genau hin - live aus dem Seniorenwohnheim "Lorenzerhof" in Lana. 
-Die Reportage "24 Stunden - Pflege in Südtirol" von Thomas Hainz begleitet Menschen, die pflegen und gepflegt werden, durch ihren Alltag, Im Anschluss vermitteln die Gäste tiefe Einblicke in die Praxis und in die Herausforderungen der Pflege von morgen.  
-Zu Gast sind unter anderem Rita Obkircher vom Verband der Seniorenwohnheime, Christian Klotzner von der Stiftung Elisabeth, Tanja Zöhrer vom Landesverband der Sozialberufe, Franziska Jageregger vom ambulanten Betreuungsdienst. 
-Moderation: Judith Bertagnolli</desc>
-  </programme>
-  <programme start="20251020221000 +0200" stop="20251020223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251021200000 +0200" stop="20251021202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
