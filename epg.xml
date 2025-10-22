@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251021200000 +0200" stop="20251021202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251021202000 +0200" stop="20251021203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251021203500 +0200" stop="20251021204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 8. Oberliga-Spieltag stehen sich im Südtiroler Oberliga-Derby die beiden Traditionsvereine St. Georgen und SSV Brixen gegenüber, außerdem trifft Aufsteiger Gröden zu Hause auf Tramin. In der Landesliga empfängt Gargazon Gitschberg-Jochtal.</desc>
-  </programme>
-  <programme start="20251021221000 +0200" stop="20251021223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251022200000 +0200" stop="20251022202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
