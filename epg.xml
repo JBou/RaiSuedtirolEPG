@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251022200000 +0200" stop="20251022202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251022202000 +0200" stop="20251022204930 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Max vergreift sich im Ton</sub-title>
-    <desc>Keramik erfordert handwerkliches Können, Geduld und ein gutes Gespür für Form und Material - also genau die richtige Herausforderung für Max von Milland.
-
-Im Rahmen der Ceramics-Ausstellung des Südtiroler Künstlerbundes stellt sich Max der Aufgabe, innerhalb nur eines Tages ein eigenes Keramikkunstwerk zu entwerfen, zu gestalten und zu brennen. Am Ende entscheidet eine Jury aus professionellen Künstlerinnen und Künstlern, ob das Werk auch wirklich "ausstellungsreif" ist. Ob Max die Hitze des Brennofens und den künstlerischen Druck aushält?</desc>
-  </programme>
-  <programme start="20251022221000 +0200" stop="20251022223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251023200000 +0200" stop="20251023202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
