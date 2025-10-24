@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251023200000 +0200" stop="20251023202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251023202000 +0200" stop="20251023204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Pilgern</sub-title>
-    <desc>Je hektischer und stressiger unser Alltag ist, umso mehr sehnen sich Menschen nach Momenten der inneren Einkehr, des Innehaltens und Krafttankens. Es moderiert Karin Gschnitzer.
-
-Pilgern auf dem Jakobsweg, Rückzug, Stille und Meditation in der Natur - immer mehr Menschen suchen abseits von ihrem hektischen Alltag Ruheoasen. Wir haben uns dazu in Südtirol umgeschaut und einige Rückzugsorte gefunden. 
-In der Rubrik "Wiedersehen" werfen wir einen Blick darauf, wie Minderheiten pilgern und in "So isst Euregio" besuchen wir die Köchin Madlen Hackl in Nordtirol.</desc>
-  </programme>
-  <programme start="20251023221000 +0200" stop="20251023223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251024180000 +0200" stop="20251024182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Pilgern</sub-title>
@@ -120,6 +102,201 @@ Von Steinegg gehts über den Karerpass bis ins Fassatal und hinauf zum Antermoia
     <desc/>
   </programme>
   <programme start="20251026221000 +0100" stop="20251026223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251027180000 +0100" stop="20251027181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die beiden Aufsteiger des letzten Jahres, Ahrntal und Gröden, stehen sich am 9. Oberliga-Spieltag in St. Johann gegenüber. In der Landesliga empfängt Gitschberg-Jochtal in Vals den SSV Naturns, während Freienfeld zu Hause gegen Weinstraße Süd unbedingt punkten muss, um aus dem Tabellenkeller zu kommen.</desc>
+  </programme>
+  <programme start="20251027181400 +0100" stop="20251027182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Minigolf</sub-title>
+    <desc>Wir besuchen die Minigolfgruppe des VSS Naturns und lernen diese präzise und zugleich unterhaltsame Sportart näher kennen. Jede der 18 Bahnen stellt andere Anforderungen - mal braucht es Kraft, mal Feingefühl, mal ein schnelles, mal ein langsames Spiel. Zum Einsatz kommen sogar unterschiedlich schwere Bälle. Doch eines ist immer wichtig: Ruhe, Konzentration und viel Feingefühl.</desc>
+  </programme>
+  <programme start="20251027182900 +0100" stop="20251027185830 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Beziehung Mensch und Tier im Gebirge</sub-title>
+    <desc>Drei Tage unterwegs im Sattel: Mit zwei erfahrenen Reitern ist das Team der Sendereihe Bergwelt unterwegs in den Dolomiten. Moderation: Thomas Hainz. Von Steinegg gehts über den Karerpass bis ins Fassatal und hinauf zum Antermoiasee. Dabei ist Selbstversorgung angesagt, vom Kochen auf Feuer bis hin zur Übernachtung auf abgelegenen Almhütten. Danach begleiten wir einen Wanderschäfer auf seinen hochalpinen Wegen zwischen dem Giaupass und den Bergen des Cadore.</desc>
+  </programme>
+  <programme start="20251027200000 +0100" stop="20251027202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251027202000 +0100" stop="20251027211353 +0100" channel="Rai Südtirol">
+    <title>Pioniere des Fernsehens</title>
+    <sub-title>Europas erster deutschsprachiger Privatsender TVS</sub-title>
+    <desc>Ein kleiner TV-Sender aus Naturns erobert die Wohnzimmer in Südtirol. Eine Geschichte von Pioniergeist und Aufbruchstimmung erzählt von Helmut Lechthaler und Alexander Lechner.
+
+Südtirol Ende der 1970er Jahre. Fernsehmacher aus Deutschland und Österreich blicken mit Verwunderung nach Naturns. Ausgerechnet in dem kleinen Ort im Vinschgau wird 1978 das deutsche Privatfernsehen aus der Taufe gehoben. Mit TVS weckt Senderchef Karlheinz Gamper nicht nur Begehrlichkeiten im Ausland, wo Privat-TV zu der Zeit noch ein Fremdwort ist, er stillt damit auch ein Bedürfnis in der lokalen Bevölkerung nach Innovation und Direktheit. Die Gründungsgeschichte des Senders spiegelt den Zeitgeist wider, der geprägt war von der Abwendung verstaubter Konventionen und von der Aufbruchstimmung einer ganzen Gesellschaft.</desc>
+  </programme>
+  <programme start="20251027211400 +0100" stop="20251027215420 +0100" channel="Rai Südtirol">
+    <title>Fenster zur Straße</title>
+    <sub-title/>
+    <desc>Ein Streifzug durch Südtirol, entlang der bewegten Geschichte unserer vielen Fenster und ihrer
+Bewohner davor und dahinter. Ein Film von Willi Rainer. Ohne Fenster wäre unser Alltag vermutlich kaum vorstellbar. Früher möglichst klein gehalten,
+können sie heute oft nicht groß genug sein. Fenster geben unserem Blick erst eine Perspektive,
+sie rahmen unsere Aussicht. Fenster lassen uns zwischen "drinnen" und "draußen"
+unterscheiden, oftmals viel subtiler als eine Tür, die sperrangelweit offen steht.
+Nicht selten ermöglichen uns Fenster und ihre Aussicht noch einmal einen Blick zurück in die
+Vergangenheit. Alte Gebäude existieren schon deutlich länger als der sie umgebende Verkehr.
+Die Straßenführung und so mancher Bebauungsplan mögen sich geändert haben, der besondere
+Blickwinkel blieb erhalten.</desc>
+  </programme>
+  <programme start="20251027215400 +0100" stop="20251027215933 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Historische Filmrollen aus Gröden</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251027221000 +0100" stop="20251027223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251028200000 +0100" stop="20251028202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251028202000 +0100" stop="20251028203455 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Klettern am Gardasee</sub-title>
+    <desc>Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute
+zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner
+Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von
+Pregasina an der Punta Larici im Trentino.</desc>
+  </programme>
+  <programme start="20251028203500 +0100" stop="20251028204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Die beiden Aufsteiger des letzten Jahres, Ahrntal und Gröden, stehen sich am 9. Oberliga-Spieltag in St. Johann gegenüber. In der Landesliga empfängt Gitschberg-Jochtal in Vals den SSV Naturns, während Freienfeld zu Hause gegen Weinstraße Süd unbedingt punkten muss, um aus dem Tabellenkeller zu kommen.</desc>
+  </programme>
+  <programme start="20251028221000 +0100" stop="20251028223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251029200000 +0100" stop="20251029202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251029202000 +0100" stop="20251029204930 +0100" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Sprechende Steine und fühlende Pflanzen: Das Gartenparadies von Karl Punter in Mals.
+Geflügelfleisch von Südtiroler Höfen. Frauen in der Führung von landwirtschaftlichen Genossenschaften.
+
+Beim Spaziergang durch diesen Garten in Mals kommt man aus dem Staunen nicht mehr heraus. Gestaltet und geformt aus ausgesuchten Steinen und Pflanzen animiert er zum Betrachten, Genießen und Verweilen. In vielen Jahren und mit unermüdlichem Einsatz hat Karl Punter sein Gartenparadies erschaffen. 
+Die Mast von Hähnchen, Gänsen oder Truthühnern ist eine noch sehr kleine Nische in Südtirol. Doch die Nachfrage nach einheimischem Geflügelfleisch könnte steigen. Eine Tagung geht der Frage nach, wie das gelingen kann. 
+Mehr Frauen in der Führung von landwirtschaftlichen Genossenschaften: Für dieses Ziel setzt sich ein Arbeitskreis im Raiffeisenverband ein. Beispiele der noch raren Bäuerinnen, die bereits in den Vorständen von Obst- und Kellereigenossenschaften oder Viehzuchtverbänden mitentscheiden, sollen weitere Frauen motivieren. Eine Sendung von Marianne Kasseroler.</desc>
+  </programme>
+  <programme start="20251029221000 +0100" stop="20251029223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251030200000 +0100" stop="20251030202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251030202000 +0100" stop="20251030204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mineralien und Schmucksteine</sub-title>
+    <desc>Funkelnde Kristalle und seltene Erze haben Menschen schon immer fasziniert. Einige widmen ihr ganzes Leben der Suche danach. Es moderiert Karin Gschnitzer.
+Seltene Mineralien sind auch in Südtirol zu finden, man muss nur wissen, wo man danach suchen muss und wie. Zu Gast ist Johanna Reinstadler von Wandersteine Südtirol.In der Rubrik "Wiedersehen" berichten wir über das Goldschmiedehandwerk in Südtirol und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder vom Pragser Wildsee.</desc>
+  </programme>
+  <programme start="20251030221000 +0100" stop="20251030223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251031180000 +0100" stop="20251031182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mineralien und Schmucksteine</sub-title>
+    <desc>Funkelnde Kristalle und seltene Erze haben Menschen schon immer fasziniert. Einige widmen ihr ganzes Leben der Suche danach. Es moderiert Karin Gschnitzer. Seltene Mineralien sind auch in Südtirol zu finden, man muss nur wissen, wo man danach suchen muss und wie. Zu Gast ist Johanna Reinstadler von Wandersteine Südtirol.In der Rubrik "Wiedersehen" berichten wir über das Goldschmiedehandwerk in Südtirol und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder vom Pragser Wildsee.</desc>
+  </programme>
+  <programme start="20251031182900 +0100" stop="20251031185830 +0100" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Max vergreift sich im Ton</sub-title>
+    <desc>Keramik erfordert handwerkliches Können, Geduld und ein gutes Gespür für Form und Material - also genau die richtige Herausforderung für Max von Milland. Im Rahmen der Ceramics-Ausstellung des Südtiroler Künstlerbundes stellt sich Max der Aufgabe, innerhalb nur eines Tages ein eigenes Keramikkunstwerk zu entwerfen, zu gestalten und zu brennen. Am Ende entscheidet eine Jury aus professionellen Künstlerinnen und Künstlern, ob das Werk auch wirklich "ausstellungsreif" ist. Ob Max die Hitze des Brennofens und den künstlerischen Druck aushält?</desc>
+  </programme>
+  <programme start="20251031200000 +0100" stop="20251031202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251031202000 +0100" stop="20251031205749 +0100" channel="Rai Südtirol">
+    <title>Lafetz, Zafig, Plima</title>
+    <sub-title>Flurnamen im Mittelvinschgau</sub-title>
+    <desc>Die Namenlandschaft des Mittleren Vinschgaus mit seinen großen Seitentälern Martell und Schnals ist sehr heterogen. Einheimische werden uns ihre Lieblingsplätze zeigen, während Flurnamenforscher Johannes Ortner erklärt.
+
+Die jüngeren Hofgründungen tragen meist deutsch-bairische Namen, z.B. Farma, Breita oder Premstla. 
+Auch die Ortsnamen im Mittelvinschgau sind vorrömischen Ursprungs, z.B. Tarsch, Latsch, Schlanders, die auf die jeweilige Bodenbeschaffenheit hinweisen. 
+An den trockenen Hängen des Sonnenbergs stößt man auf archaische Spuren wie Schalensteine (Lousplatte) oder die faszinierende Klumperplatte, die man in Schwingung versetzen kann. 
+Romanische Flurnamen wie Saxalb (weißer Fels) oder Lafetz (Schneelawinen-Gelände) führen uns in die Bergwelt von Schnals, die schon dem Ötzi Lebensraum bot. Einheimische werden uns ihre Lieblingsplätze zeigen, während der Flurnamenforscher Johannes Ortner so manches Geheimnis hinter den Marteller und Schnalser Flurnamen lüften wird.</desc>
+  </programme>
+  <programme start="20251031205800 +0100" stop="20251031214300 +0100" channel="Rai Südtirol">
+    <title>Entdeckung Südtirol</title>
+    <sub-title>Der Vinschgau</sub-title>
+    <desc>Ein faszinierendes Tal und seine Menschen im Jahreslauf. Wir beobachten eine Imkerin und ihre Bienen, die Entstehung einer hölzernen Wasserrinne, die Schafe bei der Transhumanz durch das Schnalstal. Wir erinnern uns an Robert Fliri. Der Erfinder der Zehenschuhe verunglückte im März dieses Jahres tödlich. Außerdem besuchen wir einen Marmorbruch und erleben die Weiterverarbeitung im Werk in Laas. Am Schluss wird der Brauch des Scheibenschlagens gezeigt, der alljährlich zu Beginn der Fastenzeit stattfindet. Ein Film von Susanne Gebhardt.</desc>
+  </programme>
+  <programme start="20251031214300 +0100" stop="20251031215858 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Wandern bis ins hohe Alter</sub-title>
+    <desc>Die Berge genießen - das kann man bis ins hohe Alter: Das Team der Sendereihe Bergwelt ist unterwegs auf der Klettersteig Ferrata degli Alpini am Falzarego Pass. Mit dabei Konrad Renzler - Jahrgang 1936. Er beweist, dass man bei guter körperlicher Verfassung bis weit über die 80 hinaus in die Berge gehen kann. Mit Renzler blicken wir zurück auf seine siebzig aktiven Bergsteigerjahre.</desc>
+  </programme>
+  <programme start="20251031221000 +0100" stop="20251031223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251101180000 +0100" stop="20251101182850 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Die Dolomiten in alten Schriften</sub-title>
+    <desc>Klettern im Angesicht des Piz Popena und des Monte Cristallo auf einer historischen Route von
+Michl Innerkofler. Außerdem: Wandern auf den Spuren der ersten Reisenden in den Dolomiten
+1864. Die Dolomiten ganz ursprünglich und ohne Touristenmassen: Das kann man in abgelegenen
+Hochtälern erleben oder beim Lesen in historischen Reiseberichten und Tourenbeschreibungen.
+Das Bergwelt-Team ist unterwegs auf den Spuren des Sextner Bergführers Michl Innerkofler, der
+1884 mit Maria "Mitzl" Eckarth eine Erstbegehung im Popenatal in der Cristallogruppe gemacht
+hat: detailliert beschrieben in einem alten Reisebericht aus dieser Zeit. Die völlig unerschlossene Route bietet ein Klettererlebnis wie zur Zeit der Pioniere.
+Danach folgen wir den Beschreibungen des ersten Reiseberichtes über die Dolomiten: verfasst
+von zwei englischen Gentlemen, die gemeinsam mit ihren Frauen in den sechziger Jahren des
+19. Jahrhunderts die damals noch unbekannten Dolomiten bereist und beschrieben haben.</desc>
+  </programme>
+  <programme start="20251101182800 +0100" stop="20251101185708 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Inhalationen mit Thermalwasser, erntefrisches lokales Gemüse für die Gastronomie nebenan, hochwertiges Heu für Wellness und Käsespezialitäten. Moderation: Manuela Reiter.  Die Therme Meran bietet neben zahlreichen Innen- und Außenpools, einer weitläufigen Parkanlage, sowie einer beeindruckenden Saunalandschaft seit jeher auch Inhalationen an, um die Atemwege zu stärken und das Immunsystem zu unterstützen. In einer Zeit, in der gesundheitliche Aspekte immer stärker in den Vordergrund rücken, stellt dieses Angebot einen wichtigen Bestandteil des Gesamtangebots dar. In einem weiteren Beitrag geht es um frisches Gemüse: Die Wiesen des ehemaligen Lechnerhofs wurden in fruchtbare Gemüsefelder verwandelt, auf denen heute Zucchini, Tomaten und Brokkoli wachsen - abends landen sie erntefrisch im Restaurant vegi.table des Hotel Petrus auf den Tellern der Gäste. Ein anderes Beispiel zeigt, wie mehrere Betriebe aus Sand in Taufers ihre Kräfte bündeln: Beim Projekt "Taufrisch" werden gemeinsam Gemüse, Kräuter und Blumen angebaut, die regelmäßig geerntet und solidarisch verteilt werden. Im Herzen des Passeiertals verbindet Walter Moosmaier mit seinem hochwertigen Heu traditionelle Landwirtschaft mit dem modernen Tourismus. Sein Heu findet nicht nur in Wellness-Oasen Anwendung, sondern auch bei der Herstellung von exklusivem Heukäse zusammen mit Käse-Affineur Hansi Baumgartner.</desc>
+  </programme>
+  <programme start="20251101200000 +0100" stop="20251101202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251101202100 +0100" stop="20251101202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251101202500 +0100" stop="20251101210859 +0100" channel="Rai Südtirol">
+    <title>Kontinent der Vertriebenen</title>
+    <sub-title>Europa nach 1945 Teil 1</sub-title>
+    <desc>Absturz ins Chaos: Mai 1945 - 20 Millionen Menschen sind auf der Flucht. Sie sind staatenlos
+und haben alles verloren. Für sie beginnt eine Irrfahrt durch ganz Europa. Zeitzeugen erinnern
+sich.
+Bei Kriegsende beginnt für 20 Millionen Menschen eine Irrfahrt, die in der Geschichte Europas
+ihresgleichen sucht. Es sind Displaced Persons - Personen am falschen Ort. Staatenlose.
+Besonders die Kinder leiden. In seltenen Filmdokumenten, Zeitzeugeninterviews und subtilen
+Inszenierungen folgt der Film von Kurt Mayer den Schicksalen einiger Protagonisten auf ihrer
+Irrfahrt durch das zerstörte Europa.</desc>
+  </programme>
+  <programme start="20251101221000 +0100" stop="20251101223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
