@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251024180000 +0200" stop="20251024182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Pilgern</sub-title>
-    <desc>Je hektischer und stressiger unser Alltag ist, umso mehr sehnen sich Menschen nach Momenten der inneren Einkehr, des Innehaltens und Krafttankens. Es moderiert Karin Gschnitzer.
-Pilgern auf dem Jakobsweg, Rückzug, Stille und Meditation in der Natur - immer mehr Menschen suchen abseits von ihrem hektischen Alltag Ruheoasen. Wir haben uns dazu in Südtirol umgeschaut und einige Rückzugsorte gefunden. 
-In der Rubrik "Wiedersehen" werfen wir einen Blick darauf, wie Minderheiten pilgern und in "So isst Euregio" besuchen wir die Köchin Madlen Hackl in Nordtirol.</desc>
-  </programme>
-  <programme start="20251024182900 +0200" stop="20251024185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Das Projekt "1000 Bäume" in Innerprags, eine Alpenüberquerung gegen die Tabuisierung psychischer Krankheiten, die Selbsthilfegruppe "Pinguin-Sein" und ein Gespräch zum Thema Sterben.
-Am Burgerhof in Innerprags haben Schüler:innen acht klimafitte Bäume gepflanzt. Es war der Abschluss eines Schreib- und Kunstprojektes mit dem Titel "1000 Bäume". Sie haben einen Ort der Ruhe mit Bäumen und Sitzbänken angelegt, dazu haben sie Texte zu Grundhaltungen wie Achtsamkeit, Respekt, Verantwortung verfasst.
-Der Unternehmer Ferdinand Prinz von Schönburg-Hartenstein lebte zehn Jahre in Südtirol. Kürzlich ist er zu Fuß vom Tegernsee nach Sterzing gewandert. Mit einem Spendenaufruf für die Stiftung Movember will er Themen wie Depression und Burnout bei Männern aus der Tabuzone holen. 
-Nach einer schweren Depression hat die Meranerin Lisi Covi eine Selbsthilfegruppe mit dem Namen "Pinguin-Sein" gegründet.
-Die nahenden Feste Allerheiligen und Allerseelen sind für Claudia Schuler Anlass, mit dem Bestatter Jonas Christanell über den Tod zu sprechen. Wer ihn als natürlichen Teil des Lebens akzeptiert, kann vieles bewusster wahrnehmen.</desc>
-  </programme>
-  <programme start="20251024200000 +0200" stop="20251024202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251024202000 +0200" stop="20251024214900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Thomas Vonmetz trifft auf drei Persönlichkeiten, die auf ganz unterschiedliche Weise für Leidenschaft und Durchhaltevermögen stehen: Rudl Bachmann, Denise Karbon und Horst Eberhöfer.
- 
-Der Tonholzmeister Rudolf "Rudl" Bachmann erzählt, wie aus Südtiroler Bäumen Gitarren für Musiker in aller Welt entstehen - und warum Holz für ihn mehr ist als nur Material ist.
-Denise Karbon, ehemalige Weltcup-Skirennläuferin, spricht offen über ihr Leben nach dem Spitzensport, über Abschied, Familie und den Mut zum Neubeginn.
-Und Horst Eberhöfer, Naturfotograf und ehemaliger Wilderer, berichtet von seinen Jahren im Brenta-Gebiet, wo er Seite an Seite mit Bären lebte und sein Buch "Ursus Brenta" schrieb.
-Für musikalische Highlights sorgt Alex the Judge mit funkigem Soul aus Südtirol, während die Jugendredewettbewerbs-Gewinnerinnen Olivia Kaufmann und Helena Wierer zeigen, wieviel Kreativität und Tiefgang in der nächsten Generation steckt.</desc>
-  </programme>
-  <programme start="20251024214900 +0200" stop="20251024215803 +0200" channel="Rai Südtirol">
-    <title>Kunst und Landwirtschaft</title>
-    <sub-title>Der Aspmayrhof in Wangen</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251024221000 +0200" stop="20251024223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251025180000 +0200" stop="20251025182930 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Claudia Schuler: Vom Schicksalsschlag zur Erfolgsgeschichte</sub-title>
@@ -297,6 +256,30 @@ Inszenierungen folgt der Film von Kurt Mayer den Schicksalen einiger Protagonist
 Irrfahrt durch das zerstörte Europa.</desc>
   </programme>
   <programme start="20251101221000 +0100" stop="20251101223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251102200000 +0100" stop="20251102202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251102202000 +0100" stop="20251102204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Feministische Ökonomie will ein gutes Leben für alle, die Musikerin Nora Pider erhält Förderpreis "Lidia Menapace" für ihre Masterarbeit rund um Menstruation. Moderation: Martina Kreuzer. 
+
+"Anstatt sich nur auf gleiche Bezahlung zu fokussieren, brauchen wir dringend einen tiefgreifenden Paradigmenwechsel, der die patriarchalen kapitalistischen Strukturen überwindet", sagt die Wirtschaftswissenschaftlerin der Eurac, Jenny Ufer. Ein Ansatz ist die Feministische Ökonomie, die ihren Fokus auf die Care- und Sorgearbeit richtet. Wie müsste Wirtschaft aussehen, wenn das Ziel nicht Profitmaximierung, sondern das "gute Leben für alle" wäre? Wie funktioniert eine Wirtschaft nach feministischen Kriterien, wie lässt sich eine solche Wirtschaftsform - auch regional - umsetzen?
+Im dF Portrait: Nora Pider, die vor Kurzem mit dem Förderpreis "Lidia Menapace" für ihre Masterarbeit "Let's talk about Menstruation“ ausgezeichnet wurde. Damit wird auch Nora Piders langjähriges Engagement gewürdigt, Themen wie Menstruation, Körpererfahrung und feministische Perspektiven in der Öffentlichkeit sichtbar zu machen. Das macht die vielseitige Brixner Musikerin und Schauspielerin auch mit Anger, dem erfolgreichen Popduo gemeinsam mit ihrem Partner Julian Angerer.
+In dF Info berichten wir über Amalia Fleischer, die erste Anwältin von Bozen und ihre späte Würdigung und über die Veranstaltung SHE MATTERS - wie wird der Arbeitsplatz zum Safe Space.</desc>
+  </programme>
+  <programme start="20251102205000 +0100" stop="20251102205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251102221000 +0100" stop="20251102223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
