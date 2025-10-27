@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251026200000 +0100" stop="20251026202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251026202000 +0100" stop="20251026204930 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Beziehung Mensch und Tier im Gebirge</sub-title>
-    <desc>Drei Tage unterwegs im Sattel: Mit zwei erfahrenen Reitern ist das Team der Sendereihe Bergwelt unterwegs in den Dolomiten. Moderation: Thomas Hainz.
-
-Von Steinegg gehts über den Karerpass bis ins Fassatal und hinauf zum Antermoiasee. Dabei ist Selbstversorgung angesagt, vom Kochen auf Feuer bis hin zur Übernachtung auf abgelegenen Almhütten. Danach begleiten wir einen Wanderschäfer auf seinen hochalpinen Wegen zwischen dem Giaupass und den Bergen des Cadore.</desc>
-  </programme>
-  <programme start="20251026205000 +0100" stop="20251026205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251026221000 +0100" stop="20251026223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251027180000 +0100" stop="20251027181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
