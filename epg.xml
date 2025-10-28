@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251027180000 +0100" stop="20251027181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Die beiden Aufsteiger des letzten Jahres, Ahrntal und Gröden, stehen sich am 9. Oberliga-Spieltag in St. Johann gegenüber. In der Landesliga empfängt Gitschberg-Jochtal in Vals den SSV Naturns, während Freienfeld zu Hause gegen Weinstraße Süd unbedingt punkten muss, um aus dem Tabellenkeller zu kommen.</desc>
-  </programme>
-  <programme start="20251027181400 +0100" stop="20251027182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Minigolf</sub-title>
-    <desc>Wir besuchen die Minigolfgruppe des VSS Naturns und lernen diese präzise und zugleich unterhaltsame Sportart näher kennen. Jede der 18 Bahnen stellt andere Anforderungen - mal braucht es Kraft, mal Feingefühl, mal ein schnelles, mal ein langsames Spiel. Zum Einsatz kommen sogar unterschiedlich schwere Bälle. Doch eines ist immer wichtig: Ruhe, Konzentration und viel Feingefühl.</desc>
-  </programme>
-  <programme start="20251027182900 +0100" stop="20251027185830 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Beziehung Mensch und Tier im Gebirge</sub-title>
-    <desc>Drei Tage unterwegs im Sattel: Mit zwei erfahrenen Reitern ist das Team der Sendereihe Bergwelt unterwegs in den Dolomiten. Moderation: Thomas Hainz. Von Steinegg gehts über den Karerpass bis ins Fassatal und hinauf zum Antermoiasee. Dabei ist Selbstversorgung angesagt, vom Kochen auf Feuer bis hin zur Übernachtung auf abgelegenen Almhütten. Danach begleiten wir einen Wanderschäfer auf seinen hochalpinen Wegen zwischen dem Giaupass und den Bergen des Cadore.</desc>
-  </programme>
-  <programme start="20251027200000 +0100" stop="20251027202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251027202000 +0100" stop="20251027211353 +0100" channel="Rai Südtirol">
-    <title>Pioniere des Fernsehens</title>
-    <sub-title>Europas erster deutschsprachiger Privatsender TVS</sub-title>
-    <desc>Ein kleiner TV-Sender aus Naturns erobert die Wohnzimmer in Südtirol. Eine Geschichte von Pioniergeist und Aufbruchstimmung erzählt von Helmut Lechthaler und Alexander Lechner.
-
-Südtirol Ende der 1970er Jahre. Fernsehmacher aus Deutschland und Österreich blicken mit Verwunderung nach Naturns. Ausgerechnet in dem kleinen Ort im Vinschgau wird 1978 das deutsche Privatfernsehen aus der Taufe gehoben. Mit TVS weckt Senderchef Karlheinz Gamper nicht nur Begehrlichkeiten im Ausland, wo Privat-TV zu der Zeit noch ein Fremdwort ist, er stillt damit auch ein Bedürfnis in der lokalen Bevölkerung nach Innovation und Direktheit. Die Gründungsgeschichte des Senders spiegelt den Zeitgeist wider, der geprägt war von der Abwendung verstaubter Konventionen und von der Aufbruchstimmung einer ganzen Gesellschaft.</desc>
-  </programme>
-  <programme start="20251027211400 +0100" stop="20251027215420 +0100" channel="Rai Südtirol">
-    <title>Fenster zur Straße</title>
-    <sub-title/>
-    <desc>Ein Streifzug durch Südtirol, entlang der bewegten Geschichte unserer vielen Fenster und ihrer
-Bewohner davor und dahinter. Ein Film von Willi Rainer. Ohne Fenster wäre unser Alltag vermutlich kaum vorstellbar. Früher möglichst klein gehalten,
-können sie heute oft nicht groß genug sein. Fenster geben unserem Blick erst eine Perspektive,
-sie rahmen unsere Aussicht. Fenster lassen uns zwischen "drinnen" und "draußen"
-unterscheiden, oftmals viel subtiler als eine Tür, die sperrangelweit offen steht.
-Nicht selten ermöglichen uns Fenster und ihre Aussicht noch einmal einen Blick zurück in die
-Vergangenheit. Alte Gebäude existieren schon deutlich länger als der sie umgebende Verkehr.
-Die Straßenführung und so mancher Bebauungsplan mögen sich geändert haben, der besondere
-Blickwinkel blieb erhalten.</desc>
-  </programme>
-  <programme start="20251027215400 +0100" stop="20251027215933 +0100" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Historische Filmrollen aus Gröden</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251027221000 +0100" stop="20251027223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251028200000 +0100" stop="20251028202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
