@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251029200000 +0100" stop="20251029202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251029202000 +0100" stop="20251029204930 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Sprechende Steine und fühlende Pflanzen: Das Gartenparadies von Karl Punter in Mals.
-Geflügelfleisch von Südtiroler Höfen. Frauen in der Führung von landwirtschaftlichen Genossenschaften.
-
-Beim Spaziergang durch diesen Garten in Mals kommt man aus dem Staunen nicht mehr heraus. Gestaltet und geformt aus ausgesuchten Steinen und Pflanzen animiert er zum Betrachten, Genießen und Verweilen. In vielen Jahren und mit unermüdlichem Einsatz hat Karl Punter sein Gartenparadies erschaffen. 
-Die Mast von Hähnchen, Gänsen oder Truthühnern ist eine noch sehr kleine Nische in Südtirol. Doch die Nachfrage nach einheimischem Geflügelfleisch könnte steigen. Eine Tagung geht der Frage nach, wie das gelingen kann. 
-Mehr Frauen in der Führung von landwirtschaftlichen Genossenschaften: Für dieses Ziel setzt sich ein Arbeitskreis im Raiffeisenverband ein. Beispiele der noch raren Bäuerinnen, die bereits in den Vorständen von Obst- und Kellereigenossenschaften oder Viehzuchtverbänden mitentscheiden, sollen weitere Frauen motivieren. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20251029221000 +0100" stop="20251029223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251030200000 +0100" stop="20251030202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
