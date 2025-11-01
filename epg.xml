@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251031180000 +0100" stop="20251031182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Mineralien und Schmucksteine</sub-title>
-    <desc>Funkelnde Kristalle und seltene Erze haben Menschen schon immer fasziniert. Einige widmen ihr ganzes Leben der Suche danach. Es moderiert Karin Gschnitzer. Seltene Mineralien sind auch in Südtirol zu finden, man muss nur wissen, wo man danach suchen muss und wie. Zu Gast ist Johanna Reinstadler von Wandersteine Südtirol.In der Rubrik "Wiedersehen" berichten wir über das Goldschmiedehandwerk in Südtirol und in der Rubrik "Unser Gedächtnis" zeigen wir Bilder vom Pragser Wildsee.</desc>
-  </programme>
-  <programme start="20251031182900 +0100" stop="20251031185830 +0100" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Max vergreift sich im Ton</sub-title>
-    <desc>Keramik erfordert handwerkliches Können, Geduld und ein gutes Gespür für Form und Material - also genau die richtige Herausforderung für Max von Milland. Im Rahmen der Ceramics-Ausstellung des Südtiroler Künstlerbundes stellt sich Max der Aufgabe, innerhalb nur eines Tages ein eigenes Keramikkunstwerk zu entwerfen, zu gestalten und zu brennen. Am Ende entscheidet eine Jury aus professionellen Künstlerinnen und Künstlern, ob das Werk auch wirklich "ausstellungsreif" ist. Ob Max die Hitze des Brennofens und den künstlerischen Druck aushält?</desc>
-  </programme>
-  <programme start="20251031200000 +0100" stop="20251031202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251031202000 +0100" stop="20251031205749 +0100" channel="Rai Südtirol">
-    <title>Lafetz, Zafig, Plima</title>
-    <sub-title>Flurnamen im Mittelvinschgau</sub-title>
-    <desc>Die Namenlandschaft des Mittleren Vinschgaus mit seinen großen Seitentälern Martell und Schnals ist sehr heterogen. Einheimische werden uns ihre Lieblingsplätze zeigen, während Flurnamenforscher Johannes Ortner erklärt.
-
-Die jüngeren Hofgründungen tragen meist deutsch-bairische Namen, z.B. Farma, Breita oder Premstla. 
-Auch die Ortsnamen im Mittelvinschgau sind vorrömischen Ursprungs, z.B. Tarsch, Latsch, Schlanders, die auf die jeweilige Bodenbeschaffenheit hinweisen. 
-An den trockenen Hängen des Sonnenbergs stößt man auf archaische Spuren wie Schalensteine (Lousplatte) oder die faszinierende Klumperplatte, die man in Schwingung versetzen kann. 
-Romanische Flurnamen wie Saxalb (weißer Fels) oder Lafetz (Schneelawinen-Gelände) führen uns in die Bergwelt von Schnals, die schon dem Ötzi Lebensraum bot. Einheimische werden uns ihre Lieblingsplätze zeigen, während der Flurnamenforscher Johannes Ortner so manches Geheimnis hinter den Marteller und Schnalser Flurnamen lüften wird.</desc>
-  </programme>
-  <programme start="20251031205800 +0100" stop="20251031214300 +0100" channel="Rai Südtirol">
-    <title>Entdeckung Südtirol</title>
-    <sub-title>Der Vinschgau</sub-title>
-    <desc>Ein faszinierendes Tal und seine Menschen im Jahreslauf. Wir beobachten eine Imkerin und ihre Bienen, die Entstehung einer hölzernen Wasserrinne, die Schafe bei der Transhumanz durch das Schnalstal. Wir erinnern uns an Robert Fliri. Der Erfinder der Zehenschuhe verunglückte im März dieses Jahres tödlich. Außerdem besuchen wir einen Marmorbruch und erleben die Weiterverarbeitung im Werk in Laas. Am Schluss wird der Brauch des Scheibenschlagens gezeigt, der alljährlich zu Beginn der Fastenzeit stattfindet. Ein Film von Susanne Gebhardt.</desc>
-  </programme>
-  <programme start="20251031214300 +0100" stop="20251031215858 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Wandern bis ins hohe Alter</sub-title>
-    <desc>Die Berge genießen - das kann man bis ins hohe Alter: Das Team der Sendereihe Bergwelt ist unterwegs auf der Klettersteig Ferrata degli Alpini am Falzarego Pass. Mit dabei Konrad Renzler - Jahrgang 1936. Er beweist, dass man bei guter körperlicher Verfassung bis weit über die 80 hinaus in die Berge gehen kann. Mit Renzler blicken wir zurück auf seine siebzig aktiven Bergsteigerjahre.</desc>
-  </programme>
-  <programme start="20251031221000 +0100" stop="20251031223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251101180000 +0100" stop="20251101182850 +0100" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title>Die Dolomiten in alten Schriften</sub-title>
@@ -297,6 +257,29 @@ Wurzeln, von denen sie nur aus zweiter Hand erfahren hat.</desc>
     <desc>Während der Diktatur Nicolae Ceausescus erfuhr die Hauptstadt Rumäniens eine brutale Umwandlung: Historische Viertel wurden abgerissen, Protzbauten errichtet und ganze Kirchen versetzt. Es ist eine Stadt, in die man sich erst auf den zweiten oder dritten Blick verliebt. Heute ist Bukarest auf der Suche nach einer neuen Identität: lebendig, vielfältig, kreativ. In den vergangenen Jahren ist hier viel passiert. Die Infrastruktur der Stadt wurde verbessert, Parkanlagen erneuert, zahlreiche Cafés und Restaurants eröffneten entlang der Gassen und auch eine alternative Kulturszene hat sich allmählich herausgebildet.</desc>
   </programme>
   <programme start="20251108221000 +0100" stop="20251108223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251109200000 +0100" stop="20251109202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251109202000 +0100" stop="20251109204430 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Maturaball - quo vadis? Ein Symposium gibt Tipps. Secondhand statt Fast Fashion. Und ein Besuch in der Fachschule für Obst- und Weinbau Laimburg. Moderation: Mara Marth.
+An der Fachschule für Obst- und Weinbau Laimburg werden junge Menschen zu qualifizierten Fachkräften und zukünftigen Betriebsleiter:innen ausgebildet. In modernen Werkstätten, im Obstgarten und im Weinkeller lernen die Schüler:innen alles über Anbau, Veredelung, Pflanzenschutz und Kellerwirtschaft. Exkursionen, Nachhaltigkeitstage und Praxistage in Fachbetrieben vertiefen das Wissen - immer mit Blick auf eine nachhaltige und zukunftsorientierte Landwirtschaft. 
+Der Maturaball war jahrzehntelang der krönende Abschluss der Schulzeit - glitzernd, festlich, unvergesslich. Doch heute scheuen viele Jugendliche den Aufwand: zu viele Regeln, zu hohe Kosten, zu viel Bürokratie. Beim Symposium "How to Maturaball" in Bozen diskutierten Schüler:innen gemeinsam mit Expert:innen, ob und wie diese Tradition eine Zukunft haben kann. 
+Immer neue Trends, volle Kleiderschränke - und am Ende landet vieles ungetragen im Müll. Doch Mode kann auch anders funktionieren: Klick trifft eine 25-jährige Holländerin, die in Südtirol seit einigen Monaten einen Secondhand-Store führt mit ganz unterschiedlichen Kundinnen. Im Brautkleidermarkt in Villanders, wo nachhaltige Mode ganz groß gefeiert wird - mit Schneiderin, glücklicher Braut und viel Gefühl.</desc>
+  </programme>
+  <programme start="20251109204500 +0100" stop="20251109204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251109221000 +0100" stop="20251109223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
