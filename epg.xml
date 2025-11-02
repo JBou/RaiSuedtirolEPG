@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251101180000 +0100" stop="20251101182850 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Die Dolomiten in alten Schriften</sub-title>
-    <desc>Klettern im Angesicht des Piz Popena und des Monte Cristallo auf einer historischen Route von
-Michl Innerkofler. Außerdem: Wandern auf den Spuren der ersten Reisenden in den Dolomiten
-1864. Die Dolomiten ganz ursprünglich und ohne Touristenmassen: Das kann man in abgelegenen
-Hochtälern erleben oder beim Lesen in historischen Reiseberichten und Tourenbeschreibungen.
-Das Bergwelt-Team ist unterwegs auf den Spuren des Sextner Bergführers Michl Innerkofler, der
-1884 mit Maria "Mitzl" Eckarth eine Erstbegehung im Popenatal in der Cristallogruppe gemacht
-hat: detailliert beschrieben in einem alten Reisebericht aus dieser Zeit. Die völlig unerschlossene Route bietet ein Klettererlebnis wie zur Zeit der Pioniere.
-Danach folgen wir den Beschreibungen des ersten Reiseberichtes über die Dolomiten: verfasst
-von zwei englischen Gentlemen, die gemeinsam mit ihren Frauen in den sechziger Jahren des
-19. Jahrhunderts die damals noch unbekannten Dolomiten bereist und beschrieben haben.</desc>
-  </programme>
-  <programme start="20251101182800 +0100" stop="20251101185708 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Inhalationen mit Thermalwasser, erntefrisches lokales Gemüse für die Gastronomie nebenan, hochwertiges Heu für Wellness und Käsespezialitäten. Moderation: Manuela Reiter.  Die Therme Meran bietet neben zahlreichen Innen- und Außenpools, einer weitläufigen Parkanlage, sowie einer beeindruckenden Saunalandschaft seit jeher auch Inhalationen an, um die Atemwege zu stärken und das Immunsystem zu unterstützen. In einer Zeit, in der gesundheitliche Aspekte immer stärker in den Vordergrund rücken, stellt dieses Angebot einen wichtigen Bestandteil des Gesamtangebots dar. In einem weiteren Beitrag geht es um frisches Gemüse: Die Wiesen des ehemaligen Lechnerhofs wurden in fruchtbare Gemüsefelder verwandelt, auf denen heute Zucchini, Tomaten und Brokkoli wachsen - abends landen sie erntefrisch im Restaurant vegi.table des Hotel Petrus auf den Tellern der Gäste. Ein anderes Beispiel zeigt, wie mehrere Betriebe aus Sand in Taufers ihre Kräfte bündeln: Beim Projekt "Taufrisch" werden gemeinsam Gemüse, Kräuter und Blumen angebaut, die regelmäßig geerntet und solidarisch verteilt werden. Im Herzen des Passeiertals verbindet Walter Moosmaier mit seinem hochwertigen Heu traditionelle Landwirtschaft mit dem modernen Tourismus. Sein Heu findet nicht nur in Wellness-Oasen Anwendung, sondern auch bei der Herstellung von exklusivem Heukäse zusammen mit Käse-Affineur Hansi Baumgartner.</desc>
-  </programme>
-  <programme start="20251101200000 +0100" stop="20251101202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251101202100 +0100" stop="20251101202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251101202500 +0100" stop="20251101210859 +0100" channel="Rai Südtirol">
-    <title>Kontinent der Vertriebenen</title>
-    <sub-title>Europa nach 1945 Teil 1</sub-title>
-    <desc>Absturz ins Chaos: Mai 1945 - 20 Millionen Menschen sind auf der Flucht. Sie sind staatenlos
-und haben alles verloren. Für sie beginnt eine Irrfahrt durch ganz Europa. Zeitzeugen erinnern
-sich.
-Bei Kriegsende beginnt für 20 Millionen Menschen eine Irrfahrt, die in der Geschichte Europas
-ihresgleichen sucht. Es sind Displaced Persons - Personen am falschen Ort. Staatenlose.
-Besonders die Kinder leiden. In seltenen Filmdokumenten, Zeitzeugeninterviews und subtilen
-Inszenierungen folgt der Film von Kurt Mayer den Schicksalen einiger Protagonisten auf ihrer
-Irrfahrt durch das zerstörte Europa.</desc>
-  </programme>
-  <programme start="20251101221000 +0100" stop="20251101223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251102200000 +0100" stop="20251102202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
