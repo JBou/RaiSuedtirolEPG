@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251102200000 +0100" stop="20251102202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251102202000 +0100" stop="20251102204930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Feministische Ökonomie will ein gutes Leben für alle, die Musikerin Nora Pider erhält Förderpreis "Lidia Menapace" für ihre Masterarbeit rund um Menstruation. Moderation: Martina Kreuzer. 
-
-"Anstatt sich nur auf gleiche Bezahlung zu fokussieren, brauchen wir dringend einen tiefgreifenden Paradigmenwechsel, der die patriarchalen kapitalistischen Strukturen überwindet", sagt die Wirtschaftswissenschaftlerin der Eurac, Jenny Ufer. Ein Ansatz ist die Feministische Ökonomie, die ihren Fokus auf die Care- und Sorgearbeit richtet. Wie müsste Wirtschaft aussehen, wenn das Ziel nicht Profitmaximierung, sondern das "gute Leben für alle" wäre? Wie funktioniert eine Wirtschaft nach feministischen Kriterien, wie lässt sich eine solche Wirtschaftsform - auch regional - umsetzen?
-Im dF Portrait: Nora Pider, die vor Kurzem mit dem Förderpreis "Lidia Menapace" für ihre Masterarbeit "Let's talk about Menstruation“ ausgezeichnet wurde. Damit wird auch Nora Piders langjähriges Engagement gewürdigt, Themen wie Menstruation, Körpererfahrung und feministische Perspektiven in der Öffentlichkeit sichtbar zu machen. Das macht die vielseitige Brixner Musikerin und Schauspielerin auch mit Anger, dem erfolgreichen Popduo gemeinsam mit ihrem Partner Julian Angerer.
-In dF Info berichten wir über Amalia Fleischer, die erste Anwältin von Bozen und ihre späte Würdigung und über die Veranstaltung SHE MATTERS - wie wird der Arbeitsplatz zum Safe Space.</desc>
-  </programme>
-  <programme start="20251102205000 +0100" stop="20251102205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251102221000 +0100" stop="20251102223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251103180000 +0100" stop="20251103181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
