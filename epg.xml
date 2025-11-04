@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251103180000 +0100" stop="20251103181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Zehnter Spieltag der Serie D: Obermais empfängt auf der Lahn in Meran den Tabellen-Dritten Legnago Salus. In der Landesliga kommt es in Kurtatsch zum Unterlandler Derby Weinstraße Süd gegen Leifers, während Terlan Aufsteiger die Mannschaft von Freienfeld zu Gast hat.</desc>
-  </programme>
-  <programme start="20251103181400 +0100" stop="20251103182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Keine Angst vor Hunden</sub-title>
-    <desc>Als Kind wurde Stefan einmal von einem Hund richtig erschreckt. Seitdem macht er lieber einen großen Bogen um Hunde. Aber heute soll sich das ändern. Er trifft die Hundetrainerin Kathrin und Hund Abby. Kathrin hilft Kindern - und auch Erwachsenen - ihre Angst vor Hunden zu verlieren. Mit lustigen Spielen, kleinen Übungen und wichtigen Regeln im Umgang mit Hunden zeigt sie, dass Hunde eigentlich tolle Freunde sind.</desc>
-  </programme>
-  <programme start="20251103182900 +0100" stop="20251103185830 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Sprechende Steine und fühlende Pflanzen: Das Gartenparadies von Karl Punter in Mals.
-Geflügelfleisch von Südtiroler Höfen. Frauen in der Führung von landwirtschaftlichen Genossenschaften. Beim Spaziergang durch diesen Garten in Mals kommt man aus dem Staunen nicht mehr heraus. Gestaltet und geformt aus ausgesuchten Steinen und Pflanzen animiert er zum Betrachten, Genießen und Verweilen. In vielen Jahren und mit unermüdlichem Einsatz hat Karl Punter sein Gartenparadies erschaffen. 
-Die Mast von Hähnchen, Gänsen oder Truthühnern ist eine noch sehr kleine Nische in Südtirol. Doch die Nachfrage nach einheimischem Geflügelfleisch könnte steigen. Eine Tagung geht der Frage nach, wie das gelingen kann. 
-Mehr Frauen in der Führung von landwirtschaftlichen Genossenschaften: Für dieses Ziel setzt sich ein Arbeitskreis im Raiffeisenverband ein. Beispiele der noch raren Bäuerinnen, die bereits in den Vorständen von Obst- und Kellereigenossenschaften oder Viehzuchtverbänden mitentscheiden, sollen weitere Frauen motivieren. Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20251103200000 +0100" stop="20251103202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251103202000 +0100" stop="20251103212004 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionsendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251103212000 +0100" stop="20251103214930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Feministische Ökonomie will ein gutes Leben für alle, die Musikerin Nora Pider erhält Förderpreis "Lidia Menapace" für ihre Masterarbeit rund um Menstruation. Moderation: Martina Kreuzer. 
-"Anstatt sich nur auf gleiche Bezahlung zu fokussieren, brauchen wir dringend einen tiefgreifenden Paradigmenwechsel, der die patriarchalen kapitalistischen Strukturen überwindet", sagt die Wirtschaftswissenschaftlerin der Eurac, Jenny Ufer. Ein Ansatz ist die Feministische Ökonomie, die ihren Fokus auf die Care- und Sorgearbeit richtet. Wie müsste Wirtschaft aussehen, wenn das Ziel nicht Profitmaximierung, sondern das "gute Leben für alle" wäre? Wie funktioniert eine Wirtschaft nach feministischen Kriterien, wie lässt sich eine solche Wirtschaftsform - auch regional - umsetzen?
-Im dF Portrait: Nora Pider, die vor Kurzem mit dem Förderpreis "Lidia Menapace" für ihre Masterarbeit "Let's talk about Menstruation“ ausgezeichnet wurde. Damit wird auch Nora Piders langjähriges Engagement gewürdigt, Themen wie Menstruation, Körpererfahrung und feministische Perspektiven in der Öffentlichkeit sichtbar zu machen. Das macht die vielseitige Brixner Musikerin und Schauspielerin auch mit Anger, dem erfolgreichen Popduo gemeinsam mit ihrem Partner Julian Angerer.
-In dF Info berichten wir über Amalia Fleischer, die erste Anwältin von Bozen und ihre späte Würdigung und über die Veranstaltung SHE MATTERS - wie wird der Arbeitsplatz zum Safe Space.</desc>
-  </programme>
-  <programme start="20251103214900 +0100" stop="20251103215856 +0100" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Mädchen und Menstruation</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251103221000 +0100" stop="20251103223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251104200000 +0100" stop="20251104202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
