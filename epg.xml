@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251105200000 +0100" stop="20251105202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251105202000 +0100" stop="20251105204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Menschen und ihre Fähigkeiten machen erfolgreiche Unternehmen aus. Diesmal stehen die Mitarbeitenden im Mittelpunkt, ihre Qualifikation und Motivation als entscheidende Faktoren für nachhaltigen Erfolg. 
-Im ersten Beitrag geht es um die Chancen, die ein Südtiroler Ingenieurbüro im internationalen Umfeld nutzen kann. Die Mitarbeitenden von Bergmeister Ingenieure arbeiten an anspruchsvollen, teils europäischen Großprojekten, die die Grenzen der Ingenieurswissenschaften ausloten - und das, ohne auf die Lebensqualität und Verwurzelung in der Heimat verzichten zu müssen. Unternehmenskultur - das unsichtbare, aber spürbare Rückgrat erfolgreicher Betriebe. Gerade in Zeiten, in denen um qualifizierte Mitarbeitende und ihre Loyalität gerungen wird, zählen Werte, Glaubwürdigkeit, Authentizität mehr denn je. Am Beispiel des Sport- und Outdoorunternehmens OberAlp zeigt Trend, wie gelebte Nachhaltigkeit, Reparaturkultur und ein langfristiges Denken heute zur Motivation und Bindung der Mitarbeitenden beitragen.</desc>
-  </programme>
-  <programme start="20251105221000 +0100" stop="20251105223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251106200000 +0100" stop="20251106202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
