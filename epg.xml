@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251106200000 +0100" stop="20251106202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251106202000 +0100" stop="20251106204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Kinder sind Lebenskünstler. Sie genießen den Moment, achten auf die kleinen Dinge, lachen, probieren Neues aus, pfeifen auf Konventionen, sind ehrlich und offen. Es moderiert Magdalena Oberstaller.
-Ob das in der heutigen Gesellschaft noch immer so stimmt, hat das Südtirol Magazin recherchiert. Zu Gast ist die Jugendanwältin Daniela Höller. 
-In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus dem Dokumentarfilm "Die Kinder bringt nicht der Storch", und wir werfen einen Blick in die sagenumwobene Welt der ladinischen Täler.</desc>
-  </programme>
-  <programme start="20251106213000 +0100" stop="20251106215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Letzte Woche ist in Sölden die Skisaison gestartet. Mit dabei war auch die 25-jährige Laura Steinmair aus Olang, die überraschend zu ihrem fünften Weltcupeinsatz gekommen ist. 
-Der Saisonhöhepunkt in genau drei Monaten sind die Olympischen Winterspiele. Wir blicken auf Lillehammer 1994 zurück, wo vier Brüder aus Montal, Günther, Arnold, Norbert und Wilfried Huber, in verschiedenen Disziplinen einen Titel, zwei weitere Medaillen und einen vierten Platz geholt haben.</desc>
-  </programme>
-  <programme start="20251106221000 +0100" stop="20251106223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251107180000 +0100" stop="20251107182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title/>
