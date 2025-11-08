@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251107180000 +0100" stop="20251107182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>Kinder sind Lebenskünstler. Sie genießen den Moment, achten auf die kleinen Dinge, lachen, probieren Neues aus, pfeifen auf Konventionen, sind ehrlich und offen. Es moderiert Magdalena Oberstaller. Ob das in der heutigen Gesellschaft noch immer so stimmt, hat das Südtirol Magazin recherchiert. Zu Gast ist die Jugendanwältin Daniela Höller. 
-In der Rubrik "Wiedersehen" zeigen wir einen Ausschnitt aus dem Dokumentarfilm "Die Kinder bringt nicht der Storch", und wir werfen einen Blick in die sagenumwobene Welt der ladinischen Täler.</desc>
-  </programme>
-  <programme start="20251107182900 +0100" stop="20251107185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Letzte Woche ist in Sölden die Skisaison gestartet. Mit dabei war auch die 25-jährige Laura Steinmair aus Olang, die überraschend zu ihrem fünften Weltcupeinsatz gekommen ist. 
-Der Saisonhöhepunkt in genau drei Monaten sind die Olympischen Winterspiele. Wir blicken auf Lillehammer 1994 zurück, wo vier Brüder aus Montal, Günther, Arnold, Norbert und Wilfried Huber, in verschiedenen Disziplinen einen Titel, zwei weitere Medaillen und einen vierten Platz geholt haben.</desc>
-  </programme>
-  <programme start="20251107200000 +0100" stop="20251107202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251107202000 +0100" stop="20251107211900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Südtirol ist bunt und vielfältig. So bunt der goldene Herbst im Burggrafenamt. Theo Hendrich erkundet den Partschinser Sagenweg, während Karin Duregger Menschen trifft, die soziale Verantwortung spüren. 
-Nach einem kurzen Abstecher im Schreibmaschinenmuseum lädt Theo Hendrich zu einer Wanderung über den Jahrtausende alten Partschinser Sagenweg, vorbei an vorchristlichen Kultstätten. Er besucht einen Imker, dessen Honig nicht fließt, sondern prickelt. Die Tour endet beim gemütlichen Törggelen in einem Buschenschank wie er nur noch selten zu finden ist. 
-Auf der Suche nach gemeinsamer Verantwortung - Karin Duregger trifft auf einen Obervinschger, der mit seiner Frau vor über zehn Jahren eine Sozialgenossenschaft gegründet hat, die auch Menschen mit Beeinträchtigung oder sozial benachteiligte Menschen engagiert. In einer Bar lernt sie auch noch eine Clown-Frau kennen, und in einem Tattoostudio eine junge Frau, die Stoffbinden für Frauen in Tansania näht.</desc>
-  </programme>
-  <programme start="20251107211900 +0100" stop="20251107214400 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Ein gutes Mittagsmenü bringt Einheimische und Gäste zusammen. Ahrntaler Graukäse zwischen Tradition und Kochkunst. Eine Besonderheit im Medical Center im Quellenhof. Im Hotel Post Gries sorgt eine wechselnde Mittagskarte dafür, dass nicht nur Gäste, sondern auch viele Bozner:innen regelmäßig einkehren. Das Restaurant Gerhard in Tscherms bietet mit seinem Arbeitermenü ein unkompliziertes Angebot - auch zum Mitnehmen.
-Im Ahrntal spielt der Graukäse seit jeher eine besondere Rolle. In der Hofkäserei Moarhof wird die traditionelle Sauermilchspezialität noch nach alter Handwerkskunst hergestellt, während sie in der Gastronomie kreativ zubereitet wird.
-Das Medical Center im Quellenhof im Passeiertal beherbergt eines der wenigen 3D-Muttermal-Scan-Systeme Europas, das auf künstlicher Intelligenz basiert. Das hochmoderne Gerät ermöglicht eine präzise Früherkennung von Hautkrebs und wird sowohl von Gästen als auch von Einheimischen genutzt.</desc>
-  </programme>
-  <programme start="20251107214400 +0100" stop="20251107215850 +0100" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>"A echter Tiroler tuat sich herter leichter" heißt es, aber sind wir wirklich rückwärtsgewandte Holzköpfe, einfältige Dickköpfe oder können sich nur einige Unikate als solche beschreiben?
-Angelika König und Simone Mayr begegnen jemandem, der sagen kann, was ein Holzkopf ist und weshalb ein Holzkopf nicht immer auf dem Holzweg ist, und erfahren Spannendes von einer Grödnerin, die die Welt erobert hat.</desc>
-  </programme>
-  <programme start="20251107221000 +0100" stop="20251107223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251108180000 +0100" stop="20251108185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -105,6 +63,205 @@ Immer neue Trends, volle Kleiderschränke - und am Ende landet vieles ungetragen
     <desc/>
   </programme>
   <programme start="20251109221000 +0100" stop="20251109223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251110180000 +0100" stop="20251110181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>11. Spieltag in der Oberliga: Im Südtiroler Derby Partschins gegen Gröden geht es um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga ist Salurn in Lana zu Gast, während Stegen den ASV Latsch empfängt.</desc>
+  </programme>
+  <programme start="20251110181400 +0100" stop="20251110182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Karamela und die Schmetterlinge</sub-title>
+    <desc>Clownfrau Karamela sitzt mit Kindern aus Albions auf einer frisch gemähten Sommerwiese und spielt ein Schmetterlingsmemory. Neugierig wie sie ist, möchte sie mehr über das Leben der Schmetterlinge erfahren: Gemeinsam durchleben sie die Entwicklung von der Raupe bis zum bunten Schmetterling, aber auch die Gefahren, welchen Schmetterlinge ausgesetzt sind.</desc>
+  </programme>
+  <programme start="20251110182900 +0100" stop="20251110185330 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Maturaball - quo vadis? Ein Symposium gibt Tipps. Secondhand statt Fast Fashion. Und ein Besuch in der Fachschule für Obst- und Weinbau Laimburg. Moderation: Mara Marth. An der Fachschule für Obst- und Weinbau Laimburg werden junge Menschen zu qualifizierten Fachkräften und zukünftigen Betriebsleiter:innen ausgebildet. In modernen Werkstätten, im Obstgarten und im Weinkeller lernen die Schüler:innen alles über Anbau, Veredelung, Pflanzenschutz und Kellerwirtschaft. Exkursionen, Nachhaltigkeitstage und Praxistage in Fachbetrieben vertiefen das Wissen - immer mit Blick auf eine nachhaltige und zukunftsorientierte Landwirtschaft. 
+Der Maturaball war jahrzehntelang der krönende Abschluss der Schulzeit - glitzernd, festlich, unvergesslich. Doch heute scheuen viele Jugendliche den Aufwand: zu viele Regeln, zu hohe Kosten, zu viel Bürokratie. Beim Symposium "How to Maturaball" in Bozen diskutierten Schüler:innen gemeinsam mit Expert:innen, ob und wie diese Tradition eine Zukunft haben kann. 
+Immer neue Trends, volle Kleiderschränke - und am Ende landet vieles ungetragen im Müll. Doch Mode kann auch anders funktionieren: Klick trifft eine 25-jährige Holländerin, die in Südtirol seit einigen Monaten einen Secondhand-Store führt mit ganz unterschiedlichen Kundinnen. Im Brautkleidermarkt in Villanders, wo nachhaltige Mode ganz groß gefeiert wird - mit Schneiderin, glücklicher Braut und viel Gefühl.</desc>
+  </programme>
+  <programme start="20251110185300 +0100" stop="20251110185842 +0100" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251110200000 +0100" stop="20251110202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251110202000 +0100" stop="20251110211904 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die aus Völs stammende Dramaturgin Emma Mulser, das Kleinkunstfestival in der Carambolage, der Pollini Preis 2025, UNICA und das Stück SEX.Work sind Themen dieser Sendung. Zu Gast: Maria Christina Hilber, sie ist Geschäftsführerin von ZeLT, Schriftstellerin und Künstlerin und eine der drei Autor:innen des Euregio Dramalabs.  
+
+Emma Mulser, Obfrau und künstlerische Leiterin des Rotierenden Theaters, inszeniert für die Vereinigten Bühnen Bozen das mobile Klassenzimmerstück "Dschabber". Es erzählt die Geschichte der jungen selbstbewussten Fatima, die mit ihren Eltern geflohen ist und sich in der Schule mit ihren Freundinnen selbstironisch "Dschabber" nennt, da sie sich für das Kopftuch, den Hidschab, entschieden haben. Ein anti-muslimisches Graffiti an der Schule veranlasst die Eltern, sie an eine andere Schule zu schicken. 
+Beim 23. Europäischen Kleinkunstwettbewerb "Niederstätter surPrize 2025" dreht sich alles um Objekte. Gläser, Eimer, Töpfe, Schneebesen und viele andere Gegenstände stehen im Mittelpunkt. Damit lassen sich nicht nur Klänge erzeugen oder kleine Kunststücke vollbringen - die Fantasie der KünstlerInnen scheint grenzenlos. 
+"SEX.WORK - Das ist keine Peepshow" ist eine Stückentwicklung und Co-Produktion zwischen dem Theater Präsent in Innsbruck und der Dekadenz in Brixen. 
+Maurizio Pollini war einer der prägendsten Künstlerpersönlichkeiten der letzten Jahrzehnte. Im vergangenen Jahr verstorben, ehrt nun die Bozner Busoni-Mahler-Stiftung diesen singulären Pianisten mit einem eigenen Preis - zum ersten Mal im vergangenen September von der Jury des 65. Internationalen Klavierwettbewerbs Busoni verliehen.</desc>
+  </programme>
+  <programme start="20251110211900 +0100" stop="20251110215710 +0100" channel="Rai Südtirol">
+    <title>Franz Kafka</title>
+    <sub-title>"Ich bin Ende oder Anfang"</sub-title>
+    <desc>Franz Kafka - wer war der Schriftsteller, der herausgefallen aus jedem System scheint, und dessen Werke längst zur Weltliteratur zählen. Wir werfen einen Blick auf den Künstler, der nebenbei den Anrufbeantworter erfand, mit Reiseführern reich werden wollte und dessen Komik bis heute unterschätzt wird.</desc>
+  </programme>
+  <programme start="20251110221000 +0100" stop="20251110223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251111200000 +0100" stop="20251111202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251111202000 +0100" stop="20251111203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251111203500 +0100" stop="20251111204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>11. Spieltag in der Oberliga: Im Südtiroler Derby Partschins gegen Gröden geht es um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga ist Salurn in Lana zu Gast, während Stegen den ASV Latsch empfängt.</desc>
+  </programme>
+  <programme start="20251111221000 +0100" stop="20251111223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251112200000 +0100" stop="20251112202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251112202000 +0100" stop="20251112204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>In der aktuellen Ausgabe von Pluspunkt widmen wir uns wieder spannenden Themen:
+Der Regionalrat hat im September ein in ganz Italien einzigartiges Gesetz beschlossen. 
+
+Es fördert die Einschreibung in eine Zusatzrentenform bereits in den ersten Lebensjahren. Für alle Neugeborenen, Adoptiv- und Pflegekinder ist ein finanzieller Beitrag vorgesehen, um den Start in die Altersvorsorge zu erleichtern. Die Maßnahme soll langfristig die Rentenlücke künftiger Generationen abfedern. Wir zeigen, wie der Antrag gestellt werden kann und worauf Familien achten müssen.
+Außerdem: Wohin mit unserem Elektroschrott? Alte Handys, Fernseher oder Waschmaschinen enthalten wertvolle Rohstoffe und gehören keinesfalls in den Restmüll. In Südtirol fallen jedes Jahr über 8.000 Tonnen Elektroaltgeräte an. Der Beitrag zeigt, wie diese richtig entsorgt werden, welche Pflichten Händler haben und welche Rolle die Recyclinghöfe spielen.
+In unserer Rubrik Lebenswerte Orte in Südtirol besuchen wir diesmal St. Leonhard im Passeier. Der Hauptort des Tales liegt idyllisch am Zusammenfluss von Passer und Waltner Bach, ein Beispiel dafür, wie Handel, Tourismus und Gastronomie gemeinsam das Dorfleben prägen und beleben.</desc>
+  </programme>
+  <programme start="20251112221000 +0100" stop="20251112223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251113200000 +0100" stop="20251113202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251113202000 +0100" stop="20251113204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Faszination Clubs</sub-title>
+    <desc>Ob Sportclub, Stadtclub, gemeinnützige Vereine oder elitäre Zusammenschlüsse - Teil einer solchen Gemeinschaft von Gleichgesinnten zu sein, Leidenschaften zu teilen, gemeinsame Ziele zu verfolgen und sich persönlich weiterzuentwickeln, ist für viele Menschen wichtig. 
+
+Auch das Gefühl, einen Beitrag zu leisten und aktiv die Gesellschaft mitzugestalten, kann ein starker Antrieb sein, besonders in gemeinnützigen Vereinen. Wir haben uns bei Südtiroler Clubs und Vereinen umgehört. Zu Gast ist Ines Addonizio vom Soroptimist Club Bozen. 
+In der Rubrik "So isst Euregio" besuchen wir den Südtiroler Koch Roland Hanny und in der Reihe "Wiedersehen" werfen wir einen Blick hinter die Kulissen des Hockey-Club Pustertal. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251113221000 +0100" stop="20251113223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251114180000 +0100" stop="20251114182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Faszination Clubs</sub-title>
+    <desc>Ob Sportclub, Stadtclub, gemeinnützige Vereine oder elitäre Zusammenschlüsse - Teil einer solchen Gemeinschaft von Gleichgesinnten zu sein, Leidenschaften zu teilen, gemeinsame Ziele zu verfolgen und sich persönlich weiterzuentwickeln, ist für viele Menschen wichtig. Auch das Gefühl, einen Beitrag zu leisten und aktiv die Gesellschaft mitzugestalten, kann ein starker Antrieb sein, besonders in gemeinnützigen Vereinen. Wir haben uns bei Südtiroler Clubs und Vereinen umgehört. Zu Gast ist Ines Addonizio vom Soroptimist Club Bozen. 
+In der Rubrik "So isst Euregio" besuchen wir den Südtiroler Koch Roland Hanny und in der Reihe "Wiedersehen" werfen wir einen Blick hinter die Kulissen des Hockey-Club Pustertal. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251114182900 +0100" stop="20251114185830 +0100" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Athen</sub-title>
+    <desc>Ein und kultureller und stylischer Streifzug durch die griechische Hauptstadt. Athen ist mehr als Akropolis und Parlamentswache. Athen bedeutet auch Kunsthandwerk und Lebensfreude. Trotz zahlreicher Krisen ist es den Athenern immer wieder gelungen, die Lust am Leben nicht zu verlieren. Diese unfassbare Emotion und Hingabe, diese Freude und Gastfreundschaft, dieser Hunger nach Harmonie ist unbeschreiblich und wird in dieser unterhaltsamen Dokumentation mit Menschen und ihren Geschichten festgehalten.</desc>
+  </programme>
+  <programme start="20251114200000 +0100" stop="20251114202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251114202000 +0100" stop="20251114213000 +0100" channel="Rai Südtirol">
+    <title>Winefestival Meran</title>
+    <sub-title/>
+    <desc>Das international bekannte "Meran Winefestival" geht 2025 in die 34. Auflage und bietet neben der hochwertigen Verkostung bester Weine auch Delikatessen, Spirituosen und kulinarische Köstlichkeiten aus aller Welt. 
+
+Für das Team von RAI-Südtirol eine gute Möglichkeit in eine genussvolle Sendung einzutauchen und auch die heimische Weinwelt im Lichte dieses Festivals in den Mittelpunkt eines kurzweiligen TV-Abend zu stellen. Moderator Theo Hendrich erwartet Gäste der Südtiroler und internationalen Weinwelt, stellt uns junge Winzer und Winzerinnen vor und blickt auf die kulinarische Vielfalt der Veranstaltung.</desc>
+  </programme>
+  <programme start="20251114213000 +0100" stop="20251114215900 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Helmuth Köcher</sub-title>
+    <desc>Helmuth Köcher, geboren in Meran, wurde bereits in jungen Jahren von seinem Elternhaus in die hohe Kunst des Genusses von Essen und Wein eingeführt. Es blieb seine Leidenschaft. Seine Großmutter stammte von einem Weingut, sein Großvater aus einer traditionsreichen Weberfamilie. Auf einer seiner zahlreichen Reisen entdeckte Köcher seine Leidenschaft für die Bordeaux-Region, ihre Weine und malerischen Weinberge. In der Sendung "Privat" mit Markus Frings gibt Helmuth Köcher spannende Einblicke in sein Leben, seine Liebe zur Weinkultur und er erzählt, wie es zur Gründung des Merano WineFestivals kam.</desc>
+  </programme>
+  <programme start="20251114221000 +0100" stop="20251114223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251115180000 +0100" stop="20251115185900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die aus Völs stammende Dramaturgin Emma Mulser, das Kleinkunstfestival in der Carambolage, der Pollini Preis 2025, UNICA und das Stück SEX.Work sind Themen dieser Sendung. Zu Gast: Maria Christina Hilber, sie ist Geschäftsführerin von ZeLT, Schriftstellerin und Künstlerin und eine der drei Autor:innen des Euregio Dramalabs.  
+Emma Mulser, Obfrau und künstlerische Leiterin des Rotierenden Theaters, inszeniert für die Vereinigten Bühnen Bozen das mobile Klassenzimmerstück "Dschabber". Es erzählt die Geschichte der jungen selbstbewussten Fatima, die mit ihren Eltern geflohen ist und sich in der Schule mit ihren Freundinnen selbstironisch "Dschabber" nennt, da sie sich für das Kopftuch, den Hidschab, entschieden haben. Ein anti-muslimisches Graffiti an der Schule veranlasst die Eltern, sie an eine andere Schule zu schicken. 
+Beim 23. Europäischen Kleinkunstwettbewerb "Niederstätter surPrize 2025" dreht sich alles um Objekte. Gläser, Eimer, Töpfe, Schneebesen und viele andere Gegenstände stehen im Mittelpunkt. Damit lassen sich nicht nur Klänge erzeugen oder kleine Kunststücke vollbringen - die Fantasie der KünstlerInnen scheint grenzenlos. 
+"SEX.WORK - Das ist keine Peepshow" ist eine Stückentwicklung und Co-Produktion zwischen dem Theater Präsent in Innsbruck und der Dekadenz in Brixen. 
+Maurizio Pollini war einer der prägendsten Künstlerpersönlichkeiten der letzten Jahrzehnte. Im vergangenen Jahr verstorben, ehrt nun die Bozner Busoni-Mahler-Stiftung diesen singulären Pianisten mit einem eigenen Preis - zum ersten Mal im vergangenen September von der Jury des 65. Internationalen Klavierwettbewerbs Busoni verliehen.</desc>
+  </programme>
+  <programme start="20251115200000 +0100" stop="20251115202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251115202100 +0100" stop="20251115202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251115202500 +0100" stop="20251115205430 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Radio Maria Südtirol, die Yogalehrerin, Bäuerin und Publizistin Lisa Maria Kager und ihre Gedanken zum Thema Wandel, das soziale Auslandspraktikum der OEW und die ehrenamtliche Petra Theiner, die sich seit 21 Jahren in Kalkutta engagiert, sind Themen dieser Sendung. 
+
+In dieser Ausgabe stellen Menschen das Gemeinsame in den Mittelpunkt ihres Denkens und Handelns und nicht das, was uns trennt und spaltet. 
+Radio Maria möchte mit seinen Programmen Menschen zu Christus führen, Freude am Glauben wecken. Verstaubt ist es deshalb nicht: Lebenshilfe, soziale und kulturelle Themen bekommen viel Raum. 
+Lisa Maria Kager aus St. Pauls beschäftigt sich intensiv mit dem "Wandel". Wandel ist für sie ein Bewusstseinswandel:  das Vertraute verlassen, sich mutig in neue Narrative, Geschichten begeben. 
+Petra Theiner aus Prad war im Frühjahr 2004 das erste Mal in Kalkutta. Seitdem kehrt sie - als Ehrenamtliche - immer wieder, zunächst war sie Mitglied der Südtiroler Ärzte, 2018 gründete sie den eigenen Verein "Hoffnung auf einen besseren Morgen!". Auch beruflich arbeitet sie im Sozialen - beim Projekt "Sonnenstrahl", der Begleitung von alten Menschen.</desc>
+  </programme>
+  <programme start="20251115221000 +0100" stop="20251115223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251116200000 +0100" stop="20251116202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251116202000 +0100" stop="20251116203500 +0100" channel="Rai Südtirol">
+    <title>Südtirols Olympiahoffnungen 2026</title>
+    <sub-title>Anna Pezzetta</sub-title>
+    <desc>Die 18-jährige Boznerin Anna Pezzetta gehört zu den größten Talenten im italienischen Eiskunstlauf. Für die Verwirklichung ihres Traums, der Teilnahme an den Olympischen Winterspielen 2026, ist sie nach Mailand gezogen, um sich voll und ganz dem Training widmen zu können. Doch was sollte man für seine Passion aufgeben? Und wie gelingt die Balance zwischen Profisport und Privatleben? Ein Porträt über eine Südtirolerin, die ihren Traum lebt - und sich aufmacht, die Welt des Eiskunstlaufs zu erobern.</desc>
+  </programme>
+  <programme start="20251116203500 +0100" stop="20251116210430 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Michl Laimer</sub-title>
+    <desc>Michl Laimer besuchte das Vinzentinum in Brixen und studierte anschließend Rechtswissenschaften an den Universitäten Innsbruck und Padua. Der Jurist trat in den Landesdienst ein und wurde 1993 erstmals in den Südtiroler Landtag gewählt, dem er vier Legislaturen lang angehörte.
+
+Als Landesrat für Umwelt und Raumordnung setzte er wichtige Akzente in der Landespolitik. Einer der schwierigsten Momente seiner Laufbahn war die Rückführung der Wasserkraft nach Südtirol - ein politisch brisantes Thema, das schließlich auch das Ende seiner politischen Karriere bedeutete. Heute widmet sich Michl Laimer gemeinsam mit seiner Frau und Familie einer neuen Aufgabe: Er führt den traditionsreichen Pacherhof in Neustift.</desc>
+  </programme>
+  <programme start="20251116210500 +0100" stop="20251116210900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251116221000 +0100" stop="20251116223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
