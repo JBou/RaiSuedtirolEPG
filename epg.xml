@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251108180000 +0100" stop="20251108185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Südtirol ist bunt und vielfältig. So bunt der goldene Herbst im Burggrafenamt. Theo Hendrich erkundet den Partschinser Sagenweg, während Karin Duregger Menschen trifft, die soziale Verantwortung spüren. Nach einem kurzen Abstecher im Schreibmaschinenmuseum lädt Theo Hendrich zu einer Wanderung über den Jahrtausende alten Partschinser Sagenweg, vorbei an vorchristlichen Kultstätten. Er besucht einen Imker, dessen Honig nicht fließt, sondern prickelt. Die Tour endet beim gemütlichen Törggelen in einem Buschenschank wie er nur noch selten zu finden ist. 
-Auf der Suche nach gemeinsamer Verantwortung - Karin Duregger trifft auf einen Obervinschger, der mit seiner Frau vor über zehn Jahren eine Sozialgenossenschaft gegründet hat, die auch Menschen mit Beeinträchtigung oder sozial benachteiligte Menschen engagiert. In einer Bar lernt sie auch noch eine Clown-Frau kennen, und in einem Tattoostudio eine junge Frau, die Stoffbinden für Frauen in Tansania näht.</desc>
-  </programme>
-  <programme start="20251108200000 +0100" stop="20251108202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251108202100 +0100" stop="20251108202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251108202500 +0100" stop="20251108210859 +0100" channel="Rai Südtirol">
-    <title>Kontinent der Vertriebenen</title>
-    <sub-title>Europa nach 1945 Teil 2</sub-title>
-    <desc>Aufbruch in die Freiheit: Die chaotische Zeit unmittelbar nach Ende des Zweiten Weltkriegs, aus
-der Perspektive von Kindern auf der Flucht, weil sie uns ihre Familien staatenlos geworden sind.
-Der zweite Teil der Dokumentation von Kurt Mayer zeigt, wie aus dem anfänglichen Chaos
-langsam ein Neubeginn entsteht. 20 Millionen Menschen sind staatenlos geworden und irren
-durch das zerstörte Europa. Einige finden Zuflucht in Camps für diese sogenannten Displaced
-Persons, kurz DP. Zwei Frauen erinnern sich zurück an ihre schwierige Kindheit auf der Flucht.
-Elisabeth Geissbauer, geboren in den rumänischen Waldkarpaten, schafft über das DP-Camp
-Hörsching bei Linz den Sprung in ein neues Leben. Lily Brett, geboren im DP-Camp Feldafing in
-Bayern, lebt heute in New York. Ihr literarisches Schaffen widmet sich der Suche nach ihren
-Wurzeln, von denen sie nur aus zweiter Hand erfahren hat.</desc>
-  </programme>
-  <programme start="20251108210800 +0100" stop="20251108213819 +0100" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Bukarest</sub-title>
-    <desc>Während der Diktatur Nicolae Ceausescus erfuhr die Hauptstadt Rumäniens eine brutale Umwandlung: Historische Viertel wurden abgerissen, Protzbauten errichtet und ganze Kirchen versetzt. Es ist eine Stadt, in die man sich erst auf den zweiten oder dritten Blick verliebt. Heute ist Bukarest auf der Suche nach einer neuen Identität: lebendig, vielfältig, kreativ. In den vergangenen Jahren ist hier viel passiert. Die Infrastruktur der Stadt wurde verbessert, Parkanlagen erneuert, zahlreiche Cafés und Restaurants eröffneten entlang der Gassen und auch eine alternative Kulturszene hat sich allmählich herausgebildet.</desc>
-  </programme>
-  <programme start="20251108221000 +0100" stop="20251108223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251109200000 +0100" stop="20251109202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
