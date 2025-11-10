@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251109200000 +0100" stop="20251109202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251109202000 +0100" stop="20251109204430 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Maturaball - quo vadis? Ein Symposium gibt Tipps. Secondhand statt Fast Fashion. Und ein Besuch in der Fachschule für Obst- und Weinbau Laimburg. Moderation: Mara Marth.
-An der Fachschule für Obst- und Weinbau Laimburg werden junge Menschen zu qualifizierten Fachkräften und zukünftigen Betriebsleiter:innen ausgebildet. In modernen Werkstätten, im Obstgarten und im Weinkeller lernen die Schüler:innen alles über Anbau, Veredelung, Pflanzenschutz und Kellerwirtschaft. Exkursionen, Nachhaltigkeitstage und Praxistage in Fachbetrieben vertiefen das Wissen - immer mit Blick auf eine nachhaltige und zukunftsorientierte Landwirtschaft. 
-Der Maturaball war jahrzehntelang der krönende Abschluss der Schulzeit - glitzernd, festlich, unvergesslich. Doch heute scheuen viele Jugendliche den Aufwand: zu viele Regeln, zu hohe Kosten, zu viel Bürokratie. Beim Symposium "How to Maturaball" in Bozen diskutierten Schüler:innen gemeinsam mit Expert:innen, ob und wie diese Tradition eine Zukunft haben kann. 
-Immer neue Trends, volle Kleiderschränke - und am Ende landet vieles ungetragen im Müll. Doch Mode kann auch anders funktionieren: Klick trifft eine 25-jährige Holländerin, die in Südtirol seit einigen Monaten einen Secondhand-Store führt mit ganz unterschiedlichen Kundinnen. Im Brautkleidermarkt in Villanders, wo nachhaltige Mode ganz groß gefeiert wird - mit Schneiderin, glücklicher Braut und viel Gefühl.</desc>
-  </programme>
-  <programme start="20251109204500 +0100" stop="20251109204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251109221000 +0100" stop="20251109223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251110180000 +0100" stop="20251110181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
