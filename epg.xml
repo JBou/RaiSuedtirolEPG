@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251110180000 +0100" stop="20251110181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>11. Spieltag in der Oberliga: Im Südtiroler Derby Partschins gegen Gröden geht es um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga ist Salurn in Lana zu Gast, während Stegen den ASV Latsch empfängt.</desc>
-  </programme>
-  <programme start="20251110181400 +0100" stop="20251110182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Karamela und die Schmetterlinge</sub-title>
-    <desc>Clownfrau Karamela sitzt mit Kindern aus Albions auf einer frisch gemähten Sommerwiese und spielt ein Schmetterlingsmemory. Neugierig wie sie ist, möchte sie mehr über das Leben der Schmetterlinge erfahren: Gemeinsam durchleben sie die Entwicklung von der Raupe bis zum bunten Schmetterling, aber auch die Gefahren, welchen Schmetterlinge ausgesetzt sind.</desc>
-  </programme>
-  <programme start="20251110182900 +0100" stop="20251110185330 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Maturaball - quo vadis? Ein Symposium gibt Tipps. Secondhand statt Fast Fashion. Und ein Besuch in der Fachschule für Obst- und Weinbau Laimburg. Moderation: Mara Marth. An der Fachschule für Obst- und Weinbau Laimburg werden junge Menschen zu qualifizierten Fachkräften und zukünftigen Betriebsleiter:innen ausgebildet. In modernen Werkstätten, im Obstgarten und im Weinkeller lernen die Schüler:innen alles über Anbau, Veredelung, Pflanzenschutz und Kellerwirtschaft. Exkursionen, Nachhaltigkeitstage und Praxistage in Fachbetrieben vertiefen das Wissen - immer mit Blick auf eine nachhaltige und zukunftsorientierte Landwirtschaft. 
-Der Maturaball war jahrzehntelang der krönende Abschluss der Schulzeit - glitzernd, festlich, unvergesslich. Doch heute scheuen viele Jugendliche den Aufwand: zu viele Regeln, zu hohe Kosten, zu viel Bürokratie. Beim Symposium "How to Maturaball" in Bozen diskutierten Schüler:innen gemeinsam mit Expert:innen, ob und wie diese Tradition eine Zukunft haben kann. 
-Immer neue Trends, volle Kleiderschränke - und am Ende landet vieles ungetragen im Müll. Doch Mode kann auch anders funktionieren: Klick trifft eine 25-jährige Holländerin, die in Südtirol seit einigen Monaten einen Secondhand-Store führt mit ganz unterschiedlichen Kundinnen. Im Brautkleidermarkt in Villanders, wo nachhaltige Mode ganz groß gefeiert wird - mit Schneiderin, glücklicher Braut und viel Gefühl.</desc>
-  </programme>
-  <programme start="20251110185300 +0100" stop="20251110185842 +0100" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251110200000 +0100" stop="20251110202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251110202000 +0100" stop="20251110211904 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die aus Völs stammende Dramaturgin Emma Mulser, das Kleinkunstfestival in der Carambolage, der Pollini Preis 2025, UNICA und das Stück SEX.Work sind Themen dieser Sendung. Zu Gast: Maria Christina Hilber, sie ist Geschäftsführerin von ZeLT, Schriftstellerin und Künstlerin und eine der drei Autor:innen des Euregio Dramalabs.  
-
-Emma Mulser, Obfrau und künstlerische Leiterin des Rotierenden Theaters, inszeniert für die Vereinigten Bühnen Bozen das mobile Klassenzimmerstück "Dschabber". Es erzählt die Geschichte der jungen selbstbewussten Fatima, die mit ihren Eltern geflohen ist und sich in der Schule mit ihren Freundinnen selbstironisch "Dschabber" nennt, da sie sich für das Kopftuch, den Hidschab, entschieden haben. Ein anti-muslimisches Graffiti an der Schule veranlasst die Eltern, sie an eine andere Schule zu schicken. 
-Beim 23. Europäischen Kleinkunstwettbewerb "Niederstätter surPrize 2025" dreht sich alles um Objekte. Gläser, Eimer, Töpfe, Schneebesen und viele andere Gegenstände stehen im Mittelpunkt. Damit lassen sich nicht nur Klänge erzeugen oder kleine Kunststücke vollbringen - die Fantasie der KünstlerInnen scheint grenzenlos. 
-"SEX.WORK - Das ist keine Peepshow" ist eine Stückentwicklung und Co-Produktion zwischen dem Theater Präsent in Innsbruck und der Dekadenz in Brixen. 
-Maurizio Pollini war einer der prägendsten Künstlerpersönlichkeiten der letzten Jahrzehnte. Im vergangenen Jahr verstorben, ehrt nun die Bozner Busoni-Mahler-Stiftung diesen singulären Pianisten mit einem eigenen Preis - zum ersten Mal im vergangenen September von der Jury des 65. Internationalen Klavierwettbewerbs Busoni verliehen.</desc>
-  </programme>
-  <programme start="20251110211900 +0100" stop="20251110215710 +0100" channel="Rai Südtirol">
-    <title>Franz Kafka</title>
-    <sub-title>"Ich bin Ende oder Anfang"</sub-title>
-    <desc>Franz Kafka - wer war der Schriftsteller, der herausgefallen aus jedem System scheint, und dessen Werke längst zur Weltliteratur zählen. Wir werfen einen Blick auf den Künstler, der nebenbei den Anrufbeantworter erfand, mit Reiseführern reich werden wollte und dessen Komik bis heute unterschätzt wird.</desc>
-  </programme>
-  <programme start="20251110221000 +0100" stop="20251110223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251111200000 +0100" stop="20251111202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -183,8 +136,11 @@ Petra Theiner aus Prad war im Frühjahr 2004 das erste Mal in Kalkutta. Seitdem 
   </programme>
   <programme start="20251116202000 +0100" stop="20251116203500 +0100" channel="Rai Südtirol">
     <title>Südtirols Olympiahoffnungen 2026</title>
-    <sub-title>Anna Pezzetta</sub-title>
-    <desc>Die 18-jährige Boznerin Anna Pezzetta gehört zu den größten Talenten im italienischen Eiskunstlauf. Für die Verwirklichung ihres Traums, der Teilnahme an den Olympischen Winterspielen 2026, ist sie nach Mailand gezogen, um sich voll und ganz dem Training widmen zu können. Doch was sollte man für seine Passion aufgeben? Und wie gelingt die Balance zwischen Profisport und Privatleben? Ein Porträt über eine Südtirolerin, die ihren Traum lebt - und sich aufmacht, die Welt des Eiskunstlaufs zu erobern.</desc>
+    <sub-title>Emanuel Perathoner</sub-title>
+    <desc>Einmal an der Spitze der Weltelite mitfahren - das ist wohl der Traum vieler Wintersportbegeisterter. 
+
+Emanuel Perathoner aus Lajen hat aus diesem Traum schon vor Jahren Wirklichkeit gemacht, der 39-jährige kann auf eine erfolgreiche Karriere im Snowboard-Cross zurückblicken. Doch nachdem seine sportliche Karriere nach einem schweren Trainingsunfall schon beendet schien, folgt nun das nächste Kapitel, denn Emanuel lässt sich auch von einer Knieprothese nicht aufhalten. 
+Dieses Porträt zeigt, wie er sich nun wieder an die Spitze zurück kämpft und mit welchem Durchhaltevermögen er sich auf die Paralympischen Spiele 2026 vorbereitet.</desc>
   </programme>
   <programme start="20251116203500 +0100" stop="20251116210430 +0100" channel="Rai Südtirol">
     <title>Privat</title>
