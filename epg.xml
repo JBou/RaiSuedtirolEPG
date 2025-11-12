@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251111200000 +0100" stop="20251111202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251111202000 +0100" stop="20251111203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251111203500 +0100" stop="20251111204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>11. Spieltag in der Oberliga: Im Südtiroler Derby Partschins gegen Gröden geht es um wichtige Punkte im Kampf um den Klassenerhalt. In der Landesliga ist Salurn in Lana zu Gast, während Stegen den ASV Latsch empfängt.</desc>
-  </programme>
-  <programme start="20251111221000 +0100" stop="20251111223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251112200000 +0100" stop="20251112202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
