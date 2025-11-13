@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251112200000 +0100" stop="20251112202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251112202000 +0100" stop="20251112204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>In der aktuellen Ausgabe von Pluspunkt widmen wir uns wieder spannenden Themen:
-Der Regionalrat hat im September ein in ganz Italien einzigartiges Gesetz beschlossen. 
-
-Es fördert die Einschreibung in eine Zusatzrentenform bereits in den ersten Lebensjahren. Für alle Neugeborenen, Adoptiv- und Pflegekinder ist ein finanzieller Beitrag vorgesehen, um den Start in die Altersvorsorge zu erleichtern. Die Maßnahme soll langfristig die Rentenlücke künftiger Generationen abfedern. Wir zeigen, wie der Antrag gestellt werden kann und worauf Familien achten müssen.
-Außerdem: Wohin mit unserem Elektroschrott? Alte Handys, Fernseher oder Waschmaschinen enthalten wertvolle Rohstoffe und gehören keinesfalls in den Restmüll. In Südtirol fallen jedes Jahr über 8.000 Tonnen Elektroaltgeräte an. Der Beitrag zeigt, wie diese richtig entsorgt werden, welche Pflichten Händler haben und welche Rolle die Recyclinghöfe spielen.
-In unserer Rubrik Lebenswerte Orte in Südtirol besuchen wir diesmal St. Leonhard im Passeier. Der Hauptort des Tales liegt idyllisch am Zusammenfluss von Passer und Waltner Bach, ein Beispiel dafür, wie Handel, Tourismus und Gastronomie gemeinsam das Dorfleben prägen und beleben.</desc>
-  </programme>
-  <programme start="20251112221000 +0100" stop="20251112223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251113200000 +0100" stop="20251113202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
