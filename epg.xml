@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251113200000 +0100" stop="20251113202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251113202000 +0100" stop="20251113204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Faszination Clubs</sub-title>
-    <desc>Ob Sportclub, Stadtclub, gemeinnützige Vereine oder elitäre Zusammenschlüsse - Teil einer solchen Gemeinschaft von Gleichgesinnten zu sein, Leidenschaften zu teilen, gemeinsame Ziele zu verfolgen und sich persönlich weiterzuentwickeln, ist für viele Menschen wichtig. 
-
-Auch das Gefühl, einen Beitrag zu leisten und aktiv die Gesellschaft mitzugestalten, kann ein starker Antrieb sein, besonders in gemeinnützigen Vereinen. Wir haben uns bei Südtiroler Clubs und Vereinen umgehört. Zu Gast ist Ines Addonizio vom Soroptimist Club Bozen. 
-In der Rubrik "So isst Euregio" besuchen wir den Südtiroler Koch Roland Hanny und in der Reihe "Wiedersehen" werfen wir einen Blick hinter die Kulissen des Hockey-Club Pustertal. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251113221000 +0100" stop="20251113223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251114180000 +0100" stop="20251114182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Faszination Clubs</sub-title>
@@ -115,6 +97,167 @@ Als Landesrat für Umwelt und Raumordnung setzte er wichtige Akzente in der Land
     <desc/>
   </programme>
   <programme start="20251116221000 +0100" stop="20251116223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251117180000 +0100" stop="20251117181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>12. Spieltag in der Fußball-Oberliga: Während St. Georgen die Überraschungs-Elf der Saison, den Bozner FC empfängt, steigt in St. Christina das Abstiegsduell zwischen Gröden und dem SSV Brixen. In der Landesliga trifft im Top-Spiel dieser Runde der Tabellen-Fünfte Terlan auf Spitzenreiter Bruneck.</desc>
+  </programme>
+  <programme start="20251117181400 +0100" stop="20251117182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Vom Schaf zum Teppich</sub-title>
+    <desc>Zipp Reporterin Nadia trifft in Vellau, einem kleinen Dörfchen ober Algund, Johann und ihre Neffen und Nichten bei den Schafen auf der Weide. Die Schafe lieben es in der warmen Frühlingssonne auf den Almwiesen zu grasen. Mehrmals im Jahr werden sie geschoren und was mit der wertvollen Wolle passiert, das schaut sich heute unsere Reporterin Nadia etwas genauer an. Alle zusammen waschen die schmutzige Rohwolle und trocknen sie in der Sonne. Mit der gesponnenen Naturwolle beginnen dann alle zu häkeln, was gar nicht mal so einfach ist, aber mit Johannas Hilfe gelingen die ersten Maschen. Nadia staunt nicht schlecht, als sie die vielen Produkte sieht, die Johann aus ihrer Wolle häkelt: Handschuhe, Mützen, Schals und vor allem Teppiche.</desc>
+  </programme>
+  <programme start="20251117182900 +0100" stop="20251117185845 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Radio Maria Südtirol, die Yogalehrerin, Bäuerin und Publizistin Lisa Maria Kager und ihre Gedanken zum Thema Wandel, das soziale Auslandspraktikum der OEW und die ehrenamtliche Petra Theiner, die sich seit 21 Jahren in Kalkutta engagiert, sind Themen dieser Sendung. In dieser Ausgabe stellen Menschen das Gemeinsame in den Mittelpunkt ihres Denkens und Handelns und nicht das, was uns trennt und spaltet. Radio Maria möchte mit seinen Programmen Menschen zu Christus führen, Freude am Glauben wecken. Verstaubt ist es deshalb nicht: Lebenshilfe, soziale und kulturelle Themen bekommen viel Raum. Lisa Maria Kager aus St. Pauls beschäftigt sich intensiv mit dem "Wandel". Wandel ist für sie ein Bewusstseinswandel:  das Vertraute verlassen, sich mutig in neue Narrative, Geschichten begeben. Petra Theiner aus Prad war im Frühjahr 2004 das erste Mal in Kalkutta. Seitdem kehrt sie - als Ehrenamtliche - immer wieder, zunächst war sie Mitglied der Südtiroler Ärzte, 2018 gründete sie den eigenen Verein "Hoffnung auf einen besseren Morgen!". Auch beruflich arbeitet sie im Sozialen - beim Projekt "Sonnenstrahl", der Begleitung von alten Menschen.</desc>
+  </programme>
+  <programme start="20251117200000 +0100" stop="20251117202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251117202000 +0100" stop="20251117220000 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut</title>
+    <sub-title>Südtirol 2040</sub-title>
+    <desc>Südtirol steht vor großen Weichenstellungen: In den kommenden Jahren fehlen 15.000 Arbeitskräfte. Die Bürokratie wächst. Wohnungen werden unbezaahlbar. Die künstliche Intelligenz, neue Berufsbilder und der Wandel der Arbeitswelt, aber auch die Frage nach Vereinbarkeit von Familie und Beruf zählen zu den Schlüsselfragen der Zukunft. 
+
+Wie bleibt Südtirol lebenswert - wirtschaftlich, sozial, menschlich? Der DokuAbend "Nachgeschaut: Südtirol 2040" zeigt Perspektiven auf- mit einer Doku von Markus Frings und Audrey Schwarz, mit Interviews und Talks, mit Einblicken von jungen Fachkräften und Entscheidungsträgern aus Wirtschaft und Gesellschaft. Live aus dem NOI Techpark in Bozen.</desc>
+  </programme>
+  <programme start="20251117221000 +0100" stop="20251117223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251118200000 +0100" stop="20251118202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251118202000 +0100" stop="20251118203430 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251118203500 +0100" stop="20251118204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>12. Spieltag in der Fußball-Oberliga: Während St. Georgen die Überraschungs-Elf der Saison, den Bozner FC empfängt, steigt in St. Christina das Abstiegsduell zwischen Gröden und dem SSV Brixen. In der Landesliga trifft im Top-Spiel dieser Runde der Tabellen-Fünfte Terlan auf Spitzenreiter Bruneck.</desc>
+  </programme>
+  <programme start="20251118221000 +0100" stop="20251118223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251119200000 +0100" stop="20251119202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251119202000 +0100" stop="20251119204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Der jährliche Kongress der Föderalistischen Union Europäischer Nationalitäten - kurz FUEN - wurde kürzlich in Bozen ausgetragen. Die unabhängige Dachvereinigung von Organisationen nationaler Minderheiten zählt über 100 Mitgliedsorganisationen aus knapp 40 Staaten. Seit vielen Jahren sind auch die Minderheiten aus Südtirol und den Ladinischen Tälern Teil der FUEN. Minet war beim Kongress dabei. 
+
+In Rumänien werden Roma immer wieder Opfer von Zwangsräumungen. Sie müssen ihre Wohnungen verlassen und werden in Containeranlagen untergebracht. Die Lebensbedingungen dort sind prekär und eine temporäre Lösung wurde zu einer Dauerlösung. Minet hat die Roma Siedlung in Miercureia Ciuk (Szeklerburg) besucht.  
+Eurac Research richtet in diesem Jahr zum ersten Mal das UN-Stipendienprogramm aus. Anfang November wurden zwanzig angehende Stipendiaten und Stipendiatinnen des Stipendienprogramms für Minderheiten der Vereinten Nationen für Menschenrechte (OHCHR) in Bozen begrüßt. 
+In der Reihe "Tribal Voices" erzählt Adriano vom Volk der Karipuna in Brasilien, wie internationale Konzerne in ihr Gebiet vordringen und damit nicht nur sie, sondern auch die Existenz von unkontaktierten Völkern in Gefahr bringen.</desc>
+  </programme>
+  <programme start="20251119221000 +0100" stop="20251119223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251120200000 +0100" stop="20251120202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251120202000 +0100" stop="20251120204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Thema Neid</sub-title>
+    <desc>Wie entsteht Neid? Aus dem Vergleich mit anderen. Ziehen wir bei diesem Vergleich den Kürzeren, entsteht Neid. Dieser kann uns dazu veranlassen, den Erfolg des anderen kleinzureden und ihn womöglich sogar zu sabotieren. 
+
+Es gibt aber auch noch eine andere Möglichkeit: Die "helle Seite" des Neids spornt uns an, selbst besser zu werden und auf unsere Träume hinzuarbeiten. In diesem Sinne ist Neid ein Alarmsignal, dass wir in einem Bereich, der uns etwas bedeutet, noch zulegen könnten - und ein starker Motivator, das auch zu tun. Auf welcher Seite des "Neids" stehen Sie?  
+In der Rubrik "Wiedersehen" erzählen wir über den Verein "Helfen ohne Grenzen" und berichten außerdem über die Umweltdienste im Pustertal. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251120213000 +0100" stop="20251120215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Genau 11 Wochen fehlen noch bis zur Eröffnungsfeier der Olympischen Winterspiele Mailand-Cortina 2026. 
+Als Hommage an die Geschichte der Spiele findet im Museion Bozen die Ausstellung "What We Carry" statt, wo unter anderem eine außergewöhnliche Sammlung von 43 olympischen Fackeln (1936 bis 2024) gezeigt wird. Olympiasieger und Weltmeister sowie die besten einheimischen Schwimmerinnen und Schwimmer sind auch in Bozen bei der 29. Auflage des Swimmeetings Südtirol am Start.</desc>
+  </programme>
+  <programme start="20251120221000 +0100" stop="20251120223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251121180000 +0100" stop="20251121182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Thema Neid</sub-title>
+    <desc>Wie entsteht Neid? Aus dem Vergleich mit anderen. Ziehen wir bei diesem Vergleich den Kürzeren, entsteht Neid. Dieser kann uns dazu veranlassen, den Erfolg des anderen kleinzureden und ihn womöglich sogar zu sabotieren. Es gibt aber auch noch eine andere Möglichkeit: Die "helle Seite" des Neids spornt uns an, selbst besser zu werden und auf unsere Träume hinzuarbeiten. In diesem Sinne ist Neid ein Alarmsignal, dass wir in einem Bereich, der uns etwas bedeutet, noch zulegen könnten - und ein starker Motivator, das auch zu tun. Auf welcher Seite des "Neids" stehen Sie?  
+In der Rubrik "Wiedersehen" erzählen wir über den Verein "Helfen ohne Grenzen" und berichten außerdem über die Umweltdienste im Pustertal. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251121182900 +0100" stop="20251121185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Genau 11 Wochen fehlen noch bis zur Eröffnungsfeier der Olympischen Winterspiele Mailand-Cortina 2026. Als Hommage an die Geschichte der Spiele findet im Museion Bozen die Ausstellung "What We Carry" statt, wo unter anderem eine außergewöhnliche Sammlung von 43 olympischen Fackeln (1936 bis 2024) gezeigt wird. Olympiasieger und Weltmeister sowie die besten einheimischen Schwimmerinnen und Schwimmer sind auch in Bozen bei der 29. Auflage des Swimmeetings Südtirol am Start.</desc>
+  </programme>
+  <programme start="20251121200000 +0100" stop="20251121202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251121202000 +0100" stop="20251121215722 +0100" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Der Musiker Roland Egger präsentiert Songs aus seinem neuen Dialekt-Album Pushtra - funkig, erdig und tief verwurzelt im Pustertal. Zwischen Bühne und Ruhestand erzählt er, wie Musik auch nach vielen Jahren noch Lebenskraft bedeutet. 
+
+Triathletin Edith Niederfriniger spricht über Erfolg, Schmerz und Neuanfang. Nach 16 Jahren als Profi und ebenso langer Zeit als Trainerin gönnt sie sich erstmals eine Auszeit - und blickt zurück auf ihre sportliche und persönliche Reise. 
+Und Alex Schwazer, Olympiasieger von 2008, spricht offen über Triumph, Absturz und seinen unermüdlichen Kampf um Wahrheit. Erst kürzlich lief er in Bozen persönliche Bestzeit über 10 Kilometer - der Beweis, dass sein Wille ungebrochen ist. Für Musik sorgen Roland Egger und Lisa Laner, die mit ihrer aktuellen Single "One In A Million" frischen Pop-Sound in den Keller bringt. Zum Abschluss steht das legendäre Kellershow-Rumpler-Spiel auf dem Programm - diesmal mit der großen Jahreswertung und dem "Rumpler des Jahres". Ein Abend voller Leidenschaft, Lebensgeschichten und Live-Musik - direkt aus dem Sudwerk-Keller in Bozen. Mit dabei auch wieder die legendäre Kellerkapelle.</desc>
+  </programme>
+  <programme start="20251121221000 +0100" stop="20251121223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251122180000 +0100" stop="20251122182930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Menschen und ihre Fähigkeiten machen erfolgreiche Unternehmen aus. Diesmal stehen die
+Mitarbeitenden im Mittelpunkt, ihre Qualifikation und Motivation als entscheidende Faktoren für nachhaltigen Erfolg. Im ersten Beitrag geht es um die Chancen, die ein Südtiroler Ingenieurbüro im internationalen Umfeld nutzen kann. Die Mitarbeitenden von Bergmeister Ingenieure arbeiten an anspruchsvollen, teils europäischen Großprojekten, die die Grenzen der Ingenieurswissenschaften ausloten - und das, ohne auf die Lebensqualität und Verwurzelung in der Heimat verzichten zu müssen. Unternehmenskultur - das unsichtbare, aber spürbare Rückgrat erfolgreicher Betriebe. Gerade in Zeiten, in denen um qualifizierte Mitarbeitende und ihre Loyalität gerungen wird, zählen Werte, Glaubwürdigkeit, Authentizität mehr denn je. Am Beispiel des Sport- und Outdoorunternehmens OberAlp zeigt Trend, wie gelebte Nachhaltigkeit, Reparaturkultur und ein langfristiges Denken heute zur Motivation und Bindung der Mitarbeitenden beitragen.</desc>
+  </programme>
+  <programme start="20251122182900 +0100" stop="20251122185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>In der aktuellen Ausgabe von Pluspunkt widmen wir uns wieder spannenden Themen:
+Der Regionalrat hat im September ein in ganz Italien einzigartiges Gesetz beschlossen. 
+Es fördert die Einschreibung in eine Zusatzrentenform bereits in den ersten Lebensjahren. Für alle Neugeborenen, Adoptiv- und Pflegekinder ist ein finanzieller Beitrag vorgesehen, um den Start in die Altersvorsorge zu erleichtern. Die Maßnahme soll langfristig die Rentenlücke künftiger Generationen abfedern. Wir zeigen, wie der Antrag gestellt werden kann und worauf Familien achten müssen.
+Außerdem: Wohin mit unserem Elektroschrott? Alte Handys, Fernseher oder Waschmaschinen enthalten wertvolle Rohstoffe und gehören keinesfalls in den Restmüll. In Südtirol fallen jedes Jahr über 8.000 Tonnen Elektroaltgeräte an. Der Beitrag zeigt, wie diese richtig entsorgt werden, welche Pflichten Händler haben und welche Rolle die Recyclinghöfe spielen.
+In unserer Rubrik Lebenswerte Orte in Südtirol besuchen wir diesmal St. Leonhard im Passeier. Der Hauptort des Tales liegt idyllisch am Zusammenfluss von Passer und Waltner Bach, ein Beispiel dafür, wie Handel, Tourismus und Gastronomie gemeinsam das Dorfleben prägen und beleben.</desc>
+  </programme>
+  <programme start="20251122200000 +0100" stop="20251122202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251122202100 +0100" stop="20251122202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251122202500 +0100" stop="20251122205100 +0100" channel="Rai Südtirol">
+    <title>Gesundheit - Die Reportage</title>
+    <sub-title>Die Niere</sub-title>
+    <desc>Die Niere ist ein kleines, aber lebenswichtiges Organ. Sie filtert täglich rund 180 Liter Blut und reguliert den Flüssigkeit- und Salzhaushalt. Doch wenn sie erkrankt, dann ist das äußerst schmerzhaft. 
+
+Bilden sich Nierensteine, kann das äußerst schmerzhaft sein, wie Dr. Daniele Signorelle, Urologe am Krankenhaus Brixen, erklärt. Versagt die Niere ihre Funktion, übernehmen in der Nephrologie Spezialisten wie Dr. Werner Passler am Krankenhaus Bozen die weitere Behandlung. Anna Schwarz lebt mit einer Spenderniere und beweist, dass man damit heute gut leben kann. Mehr über die Geheimnisse der Niere in der Reportage Gesundheit.</desc>
+  </programme>
+  <programme start="20251122221000 +0100" stop="20251122223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
