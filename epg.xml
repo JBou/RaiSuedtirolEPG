@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251114180000 +0100" stop="20251114182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Faszination Clubs</sub-title>
-    <desc>Ob Sportclub, Stadtclub, gemeinnützige Vereine oder elitäre Zusammenschlüsse - Teil einer solchen Gemeinschaft von Gleichgesinnten zu sein, Leidenschaften zu teilen, gemeinsame Ziele zu verfolgen und sich persönlich weiterzuentwickeln, ist für viele Menschen wichtig. Auch das Gefühl, einen Beitrag zu leisten und aktiv die Gesellschaft mitzugestalten, kann ein starker Antrieb sein, besonders in gemeinnützigen Vereinen. Wir haben uns bei Südtiroler Clubs und Vereinen umgehört. Zu Gast ist Ines Addonizio vom Soroptimist Club Bozen. 
-In der Rubrik "So isst Euregio" besuchen wir den Südtiroler Koch Roland Hanny und in der Reihe "Wiedersehen" werfen wir einen Blick hinter die Kulissen des Hockey-Club Pustertal. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251114182900 +0100" stop="20251114185830 +0100" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Athen</sub-title>
-    <desc>Ein und kultureller und stylischer Streifzug durch die griechische Hauptstadt. Athen ist mehr als Akropolis und Parlamentswache. Athen bedeutet auch Kunsthandwerk und Lebensfreude. Trotz zahlreicher Krisen ist es den Athenern immer wieder gelungen, die Lust am Leben nicht zu verlieren. Diese unfassbare Emotion und Hingabe, diese Freude und Gastfreundschaft, dieser Hunger nach Harmonie ist unbeschreiblich und wird in dieser unterhaltsamen Dokumentation mit Menschen und ihren Geschichten festgehalten.</desc>
-  </programme>
-  <programme start="20251114200000 +0100" stop="20251114202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251114202000 +0100" stop="20251114213000 +0100" channel="Rai Südtirol">
-    <title>Winefestival Meran</title>
-    <sub-title/>
-    <desc>Das international bekannte "Meran Winefestival" geht 2025 in die 34. Auflage und bietet neben der hochwertigen Verkostung bester Weine auch Delikatessen, Spirituosen und kulinarische Köstlichkeiten aus aller Welt. 
-
-Für das Team von RAI-Südtirol eine gute Möglichkeit in eine genussvolle Sendung einzutauchen und auch die heimische Weinwelt im Lichte dieses Festivals in den Mittelpunkt eines kurzweiligen TV-Abend zu stellen. Moderator Theo Hendrich erwartet Gäste der Südtiroler und internationalen Weinwelt, stellt uns junge Winzer und Winzerinnen vor und blickt auf die kulinarische Vielfalt der Veranstaltung.</desc>
-  </programme>
-  <programme start="20251114213000 +0100" stop="20251114215900 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Helmuth Köcher</sub-title>
-    <desc>Helmuth Köcher, geboren in Meran, wurde bereits in jungen Jahren von seinem Elternhaus in die hohe Kunst des Genusses von Essen und Wein eingeführt. Es blieb seine Leidenschaft. Seine Großmutter stammte von einem Weingut, sein Großvater aus einer traditionsreichen Weberfamilie. Auf einer seiner zahlreichen Reisen entdeckte Köcher seine Leidenschaft für die Bordeaux-Region, ihre Weine und malerischen Weinberge. In der Sendung "Privat" mit Markus Frings gibt Helmuth Köcher spannende Einblicke in sein Leben, seine Liebe zur Weinkultur und er erzählt, wie es zur Gründung des Merano WineFestivals kam.</desc>
-  </programme>
-  <programme start="20251114221000 +0100" stop="20251114223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251115180000 +0100" stop="20251115185900 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -258,6 +225,34 @@ In unserer Rubrik Lebenswerte Orte in Südtirol besuchen wir diesmal St. Leonhar
 Bilden sich Nierensteine, kann das äußerst schmerzhaft sein, wie Dr. Daniele Signorelle, Urologe am Krankenhaus Brixen, erklärt. Versagt die Niere ihre Funktion, übernehmen in der Nephrologie Spezialisten wie Dr. Werner Passler am Krankenhaus Bozen die weitere Behandlung. Anna Schwarz lebt mit einer Spenderniere und beweist, dass man damit heute gut leben kann. Mehr über die Geheimnisse der Niere in der Reportage Gesundheit.</desc>
   </programme>
   <programme start="20251122221000 +0100" stop="20251122223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251123200000 +0100" stop="20251123202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251123202000 +0100" stop="20251123203440 +0100" channel="Rai Südtirol">
+    <title>Südtirols Olympiahoffnungen 2026</title>
+    <sub-title>Anna Pezzetta</sub-title>
+    <desc>Die 18-jährige Boznerin Anna Pezzetta gehört zu den größten Talenten im italienischen Eiskunstlauf. Für die Verwirklichung ihres Traums, der Teilnahme an den Olympischen Winterspielen 2026, ist sie nach Mailand gezogen, um sich voll und ganz dem Training widmen zu können. Doch was sollte man für seine Passion aufgeben? Und wie gelingt die Balance zwischen Profisport und Privatleben? Ein Porträt über eine Südtirolerin, die ihren Traum lebt - und sich aufmacht, die Welt des Eiskunstlaufs zu erobern.</desc>
+  </programme>
+  <programme start="20251123203500 +0100" stop="20251123205930 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Stuls im Passeiertal</sub-title>
+    <desc>Hoch über dem hinteren Passeiertal liegt Stuls - ein sonniges Bergdorf auf rund 1.300 Metern, das zur Gemeinde Moos gehört. Wir zeigen, wie hier Tradition und Alltag ineinandergreifen. Gastwirtin Petra Widmann erzählt vom Leben zwischen Küche, Pension und Gasthaus, wo sich Einheimische und Gäste begegnen. 
+
+Auf dem Wegerhof führt Hannes Platter, ausgezeichnet als "Direktvermarkter des Jahres 2025", gemeinsam mit seiner Mutter eine kleine Hofkäserei. Mit viel Handarbeit entstehen dort Käse, Butter, Joghurt und Mozzarella. 
+Während Karl und Maria Pflug in einem jahrhundertealten Bauernhaus leben, Brot im eigenen Ofen backen und alte Bräuche pflegen. Und Stefan Pflug, Obmann der Schuhplattler Stuls, steht mit seiner Gruppe für Gemeinschaft und Tradition über Generationen hinweg.</desc>
+  </programme>
+  <programme start="20251123210000 +0100" stop="20251123210400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251123221000 +0100" stop="20251123223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
