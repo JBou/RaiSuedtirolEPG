@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251115180000 +0100" stop="20251115185900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die aus Völs stammende Dramaturgin Emma Mulser, das Kleinkunstfestival in der Carambolage, der Pollini Preis 2025, UNICA und das Stück SEX.Work sind Themen dieser Sendung. Zu Gast: Maria Christina Hilber, sie ist Geschäftsführerin von ZeLT, Schriftstellerin und Künstlerin und eine der drei Autor:innen des Euregio Dramalabs.  
-Emma Mulser, Obfrau und künstlerische Leiterin des Rotierenden Theaters, inszeniert für die Vereinigten Bühnen Bozen das mobile Klassenzimmerstück "Dschabber". Es erzählt die Geschichte der jungen selbstbewussten Fatima, die mit ihren Eltern geflohen ist und sich in der Schule mit ihren Freundinnen selbstironisch "Dschabber" nennt, da sie sich für das Kopftuch, den Hidschab, entschieden haben. Ein anti-muslimisches Graffiti an der Schule veranlasst die Eltern, sie an eine andere Schule zu schicken. 
-Beim 23. Europäischen Kleinkunstwettbewerb "Niederstätter surPrize 2025" dreht sich alles um Objekte. Gläser, Eimer, Töpfe, Schneebesen und viele andere Gegenstände stehen im Mittelpunkt. Damit lassen sich nicht nur Klänge erzeugen oder kleine Kunststücke vollbringen - die Fantasie der KünstlerInnen scheint grenzenlos. 
-"SEX.WORK - Das ist keine Peepshow" ist eine Stückentwicklung und Co-Produktion zwischen dem Theater Präsent in Innsbruck und der Dekadenz in Brixen. 
-Maurizio Pollini war einer der prägendsten Künstlerpersönlichkeiten der letzten Jahrzehnte. Im vergangenen Jahr verstorben, ehrt nun die Bozner Busoni-Mahler-Stiftung diesen singulären Pianisten mit einem eigenen Preis - zum ersten Mal im vergangenen September von der Jury des 65. Internationalen Klavierwettbewerbs Busoni verliehen.</desc>
-  </programme>
-  <programme start="20251115200000 +0100" stop="20251115202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251115202100 +0100" stop="20251115202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251115202500 +0100" stop="20251115205430 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Radio Maria Südtirol, die Yogalehrerin, Bäuerin und Publizistin Lisa Maria Kager und ihre Gedanken zum Thema Wandel, das soziale Auslandspraktikum der OEW und die ehrenamtliche Petra Theiner, die sich seit 21 Jahren in Kalkutta engagiert, sind Themen dieser Sendung. 
-
-In dieser Ausgabe stellen Menschen das Gemeinsame in den Mittelpunkt ihres Denkens und Handelns und nicht das, was uns trennt und spaltet. 
-Radio Maria möchte mit seinen Programmen Menschen zu Christus führen, Freude am Glauben wecken. Verstaubt ist es deshalb nicht: Lebenshilfe, soziale und kulturelle Themen bekommen viel Raum. 
-Lisa Maria Kager aus St. Pauls beschäftigt sich intensiv mit dem "Wandel". Wandel ist für sie ein Bewusstseinswandel:  das Vertraute verlassen, sich mutig in neue Narrative, Geschichten begeben. 
-Petra Theiner aus Prad war im Frühjahr 2004 das erste Mal in Kalkutta. Seitdem kehrt sie - als Ehrenamtliche - immer wieder, zunächst war sie Mitglied der Südtiroler Ärzte, 2018 gründete sie den eigenen Verein "Hoffnung auf einen besseren Morgen!". Auch beruflich arbeitet sie im Sozialen - beim Projekt "Sonnenstrahl", der Begleitung von alten Menschen.</desc>
-  </programme>
-  <programme start="20251115221000 +0100" stop="20251115223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251116200000 +0100" stop="20251116202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
