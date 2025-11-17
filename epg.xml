@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251116200000 +0100" stop="20251116202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251116202000 +0100" stop="20251116203500 +0100" channel="Rai Südtirol">
-    <title>Südtirols Olympiahoffnungen 2026</title>
-    <sub-title>Emanuel Perathoner</sub-title>
-    <desc>Einmal an der Spitze der Weltelite mitfahren - das ist wohl der Traum vieler Wintersportbegeisterter. 
-
-Emanuel Perathoner aus Lajen hat aus diesem Traum schon vor Jahren Wirklichkeit gemacht, der 39-jährige kann auf eine erfolgreiche Karriere im Snowboard-Cross zurückblicken. Doch nachdem seine sportliche Karriere nach einem schweren Trainingsunfall schon beendet schien, folgt nun das nächste Kapitel, denn Emanuel lässt sich auch von einer Knieprothese nicht aufhalten. 
-Dieses Porträt zeigt, wie er sich nun wieder an die Spitze zurück kämpft und mit welchem Durchhaltevermögen er sich auf die Paralympischen Spiele 2026 vorbereitet.</desc>
-  </programme>
-  <programme start="20251116203500 +0100" stop="20251116210430 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Michl Laimer</sub-title>
-    <desc>Michl Laimer besuchte das Vinzentinum in Brixen und studierte anschließend Rechtswissenschaften an den Universitäten Innsbruck und Padua. Der Jurist trat in den Landesdienst ein und wurde 1993 erstmals in den Südtiroler Landtag gewählt, dem er vier Legislaturen lang angehörte.
-
-Als Landesrat für Umwelt und Raumordnung setzte er wichtige Akzente in der Landespolitik. Einer der schwierigsten Momente seiner Laufbahn war die Rückführung der Wasserkraft nach Südtirol - ein politisch brisantes Thema, das schließlich auch das Ende seiner politischen Karriere bedeutete. Heute widmet sich Michl Laimer gemeinsam mit seiner Frau und Familie einer neuen Aufgabe: Er führt den traditionsreichen Pacherhof in Neustift.</desc>
-  </programme>
-  <programme start="20251116210500 +0100" stop="20251116210900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251116221000 +0100" stop="20251116223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251117180000 +0100" stop="20251117181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
