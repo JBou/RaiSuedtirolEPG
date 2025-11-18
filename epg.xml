@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251117180000 +0100" stop="20251117181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>12. Spieltag in der Fußball-Oberliga: Während St. Georgen die Überraschungs-Elf der Saison, den Bozner FC empfängt, steigt in St. Christina das Abstiegsduell zwischen Gröden und dem SSV Brixen. In der Landesliga trifft im Top-Spiel dieser Runde der Tabellen-Fünfte Terlan auf Spitzenreiter Bruneck.</desc>
-  </programme>
-  <programme start="20251117181400 +0100" stop="20251117182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Vom Schaf zum Teppich</sub-title>
-    <desc>Zipp Reporterin Nadia trifft in Vellau, einem kleinen Dörfchen ober Algund, Johann und ihre Neffen und Nichten bei den Schafen auf der Weide. Die Schafe lieben es in der warmen Frühlingssonne auf den Almwiesen zu grasen. Mehrmals im Jahr werden sie geschoren und was mit der wertvollen Wolle passiert, das schaut sich heute unsere Reporterin Nadia etwas genauer an. Alle zusammen waschen die schmutzige Rohwolle und trocknen sie in der Sonne. Mit der gesponnenen Naturwolle beginnen dann alle zu häkeln, was gar nicht mal so einfach ist, aber mit Johannas Hilfe gelingen die ersten Maschen. Nadia staunt nicht schlecht, als sie die vielen Produkte sieht, die Johann aus ihrer Wolle häkelt: Handschuhe, Mützen, Schals und vor allem Teppiche.</desc>
-  </programme>
-  <programme start="20251117182900 +0100" stop="20251117185845 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Radio Maria Südtirol, die Yogalehrerin, Bäuerin und Publizistin Lisa Maria Kager und ihre Gedanken zum Thema Wandel, das soziale Auslandspraktikum der OEW und die ehrenamtliche Petra Theiner, die sich seit 21 Jahren in Kalkutta engagiert, sind Themen dieser Sendung. In dieser Ausgabe stellen Menschen das Gemeinsame in den Mittelpunkt ihres Denkens und Handelns und nicht das, was uns trennt und spaltet. Radio Maria möchte mit seinen Programmen Menschen zu Christus führen, Freude am Glauben wecken. Verstaubt ist es deshalb nicht: Lebenshilfe, soziale und kulturelle Themen bekommen viel Raum. Lisa Maria Kager aus St. Pauls beschäftigt sich intensiv mit dem "Wandel". Wandel ist für sie ein Bewusstseinswandel:  das Vertraute verlassen, sich mutig in neue Narrative, Geschichten begeben. Petra Theiner aus Prad war im Frühjahr 2004 das erste Mal in Kalkutta. Seitdem kehrt sie - als Ehrenamtliche - immer wieder, zunächst war sie Mitglied der Südtiroler Ärzte, 2018 gründete sie den eigenen Verein "Hoffnung auf einen besseren Morgen!". Auch beruflich arbeitet sie im Sozialen - beim Projekt "Sonnenstrahl", der Begleitung von alten Menschen.</desc>
-  </programme>
-  <programme start="20251117200000 +0100" stop="20251117202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251117202000 +0100" stop="20251117220000 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut</title>
-    <sub-title>Südtirol 2040</sub-title>
-    <desc>Südtirol steht vor großen Weichenstellungen: In den kommenden Jahren fehlen 15.000 Arbeitskräfte. Die Bürokratie wächst. Wohnungen werden unbezaahlbar. Die künstliche Intelligenz, neue Berufsbilder und der Wandel der Arbeitswelt, aber auch die Frage nach Vereinbarkeit von Familie und Beruf zählen zu den Schlüsselfragen der Zukunft. 
-
-Wie bleibt Südtirol lebenswert - wirtschaftlich, sozial, menschlich? Der DokuAbend "Nachgeschaut: Südtirol 2040" zeigt Perspektiven auf- mit einer Doku von Markus Frings und Audrey Schwarz, mit Interviews und Talks, mit Einblicken von jungen Fachkräften und Entscheidungsträgern aus Wirtschaft und Gesellschaft. Live aus dem NOI Techpark in Bozen.</desc>
-  </programme>
-  <programme start="20251117221000 +0100" stop="20251117223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251118200000 +0100" stop="20251118202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
