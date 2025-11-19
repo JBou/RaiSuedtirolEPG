@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251118200000 +0100" stop="20251118202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251118202000 +0100" stop="20251118203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251118203500 +0100" stop="20251118204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>12. Spieltag in der Fußball-Oberliga: Während St. Georgen die Überraschungs-Elf der Saison, den Bozner FC empfängt, steigt in St. Christina das Abstiegsduell zwischen Gröden und dem SSV Brixen. In der Landesliga trifft im Top-Spiel dieser Runde der Tabellen-Fünfte Terlan auf Spitzenreiter Bruneck.</desc>
-  </programme>
-  <programme start="20251118221000 +0100" stop="20251118223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251119200000 +0100" stop="20251119202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
