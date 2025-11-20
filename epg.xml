@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251119200000 +0100" stop="20251119202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251119202000 +0100" stop="20251119204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Der jährliche Kongress der Föderalistischen Union Europäischer Nationalitäten - kurz FUEN - wurde kürzlich in Bozen ausgetragen. Die unabhängige Dachvereinigung von Organisationen nationaler Minderheiten zählt über 100 Mitgliedsorganisationen aus knapp 40 Staaten. Seit vielen Jahren sind auch die Minderheiten aus Südtirol und den Ladinischen Tälern Teil der FUEN. Minet war beim Kongress dabei. 
-
-In Rumänien werden Roma immer wieder Opfer von Zwangsräumungen. Sie müssen ihre Wohnungen verlassen und werden in Containeranlagen untergebracht. Die Lebensbedingungen dort sind prekär und eine temporäre Lösung wurde zu einer Dauerlösung. Minet hat die Roma Siedlung in Miercureia Ciuk (Szeklerburg) besucht.  
-Eurac Research richtet in diesem Jahr zum ersten Mal das UN-Stipendienprogramm aus. Anfang November wurden zwanzig angehende Stipendiaten und Stipendiatinnen des Stipendienprogramms für Minderheiten der Vereinten Nationen für Menschenrechte (OHCHR) in Bozen begrüßt. 
-In der Reihe "Tribal Voices" erzählt Adriano vom Volk der Karipuna in Brasilien, wie internationale Konzerne in ihr Gebiet vordringen und damit nicht nur sie, sondern auch die Existenz von unkontaktierten Völkern in Gefahr bringen.</desc>
-  </programme>
-  <programme start="20251119221000 +0100" stop="20251119223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251120200000 +0100" stop="20251120202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
