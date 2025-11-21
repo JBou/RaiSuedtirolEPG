@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251120200000 +0100" stop="20251120202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251120202000 +0100" stop="20251120204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Thema Neid</sub-title>
-    <desc>Wie entsteht Neid? Aus dem Vergleich mit anderen. Ziehen wir bei diesem Vergleich den Kürzeren, entsteht Neid. Dieser kann uns dazu veranlassen, den Erfolg des anderen kleinzureden und ihn womöglich sogar zu sabotieren. 
-
-Es gibt aber auch noch eine andere Möglichkeit: Die "helle Seite" des Neids spornt uns an, selbst besser zu werden und auf unsere Träume hinzuarbeiten. In diesem Sinne ist Neid ein Alarmsignal, dass wir in einem Bereich, der uns etwas bedeutet, noch zulegen könnten - und ein starker Motivator, das auch zu tun. Auf welcher Seite des "Neids" stehen Sie?  
-In der Rubrik "Wiedersehen" erzählen wir über den Verein "Helfen ohne Grenzen" und berichten außerdem über die Umweltdienste im Pustertal. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251120213000 +0100" stop="20251120215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Genau 11 Wochen fehlen noch bis zur Eröffnungsfeier der Olympischen Winterspiele Mailand-Cortina 2026. 
-Als Hommage an die Geschichte der Spiele findet im Museion Bozen die Ausstellung "What We Carry" statt, wo unter anderem eine außergewöhnliche Sammlung von 43 olympischen Fackeln (1936 bis 2024) gezeigt wird. Olympiasieger und Weltmeister sowie die besten einheimischen Schwimmerinnen und Schwimmer sind auch in Bozen bei der 29. Auflage des Swimmeetings Südtirol am Start.</desc>
-  </programme>
-  <programme start="20251120221000 +0100" stop="20251120223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251121180000 +0100" stop="20251121182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Thema Neid</sub-title>
@@ -118,6 +94,177 @@ Während Karl und Maria Pflug in einem jahrhundertealten Bauernhaus leben, Brot 
     <desc/>
   </programme>
   <programme start="20251123221000 +0100" stop="20251123223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251124180000 +0100" stop="20251124181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>13. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby stehen sich die beiden Überraschungsmannschaften der Hinrunde, der Bozner FC und Ahrntal, gegenüber. In der Landesliga empfängt Freienfeld den Tabellen-Vierten Tscherms Marling, während Lana und Stegen Punkte brauchen, um sich aus der Abstiegszone zu spielen.</desc>
+  </programme>
+  <programme start="20251124181400 +0100" stop="20251124183230 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Floorball</sub-title>
+    <desc>Floorball - auch bekannt als Unihockey - ist eine blitzschnelle und spannende Hallensportart. Ursprünglich entstand Floorball in Amerika, als Eishockeyspieler auch im Sommer trainieren wollten. Mit einem leichten Kunststoffball und speziellen Schlägern entwickelten sie ein rasantes Spiel, das heute weltweit beliebt ist.  
+
+In Bozen trainieren sowohl die Sportkids der U10 als auch der U14 regelmäßig mit großer Begeisterung. Die Jüngeren lernen spielerisch den sicheren Umgang mit Schläger und Ball, während die Älteren bereits taktische Spielzüge und rasante Matches bestreiten.</desc>
+  </programme>
+  <programme start="20251124183300 +0100" stop="20251124185930 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Die Niere</sub-title>
+    <desc>Die Niere ist ein kleines, aber lebenswichtiges Organ. Sie filtert täglich rund 180 Liter Blut und reguliert den Flüssigkeit- und Salzhaushalt. Doch wenn sie erkrankt, dann ist das äußerst schmerzhaft. Bilden sich Nierensteine, kann das äußerst schmerzhaft sein, wie Dr. Daniele Signorelle, Urologe am Krankenhaus Brixen, erklärt. Versagt die Niere ihre Funktion, übernehmen in der Nephrologie Spezialisten wie Dr. Werner Passler am Krankenhaus Bozen die weitere Behandlung. Anna Schwarz lebt mit einer Spenderniere und beweist, dass man damit heute gut leben kann. Mehr über die Geheimnisse der Niere in der Reportage Gesundheit.</desc>
+  </programme>
+  <programme start="20251124200000 +0100" stop="20251124202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251124202000 +0100" stop="20251124211808 +0100" channel="Rai Südtirol">
+    <title>So jagt Südtirol</title>
+    <sub-title>Unterwegs in heimischen Revieren</sub-title>
+    <desc>Die Jagd wird oftmals mit sehr kritischem Auge betrachtet, nicht nur in Südtirol. Willi Rainer und Wolfgang Moser beleuchten das Südtiroler Jagdwesen und werden einen Blick hinter die Kulissen.   
+
+Die Jagd war in der Geschichte der Menschheit ausschlaggebend für das Überleben unserer Spezies. Auch wenn dieser Grund zur Jagd schon längst nicht mehr ausschlaggebend ist, hat sie auch heute noch einen hohen Stellenwert. 
+Südtirol hat eine lange Jagdgeschichte: Vor allem Kaiser Maximilian I. fand großen Gefallen an der Jagd in Südtirols Wäldern. Im Südtiroler Landesmuseum für Jagd und Fischerei, auf Schloss Wolfsthurn in Mareit, ist eine umfangreiche kulturhistorische Sammlung zur Jagdgeschichte zusehen.
+ 
+Um heute Jäger zu werden, muss eine Prüfung abgelegt werden, die sogenannte "grüne Matura". Voraussetzung ist ein breitgefächertes Wissen über Wildtiere, Vögel, Flora und Fauna. Auch immer mehr Frauen interessieren sich für die Jagd und absolvieren die Jägerprüfung.</desc>
+  </programme>
+  <programme start="20251124211800 +0100" stop="20251124215833 +0100" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Barbara Prantl: Ein Leben voller Wendepunkte</sub-title>
+    <desc>Ein einzigartiger Einblick in ihr Leben, ihre Werte und ihre vielen Rollen als Mutter, Lehrerin und Künstlerin - immer geprägt von Humor, Leidenschaft und einem klaren Bekenntnis zu  ihren Wurzeln. Sie ist eine der bekanntesten Kabarettistinnen, Religionslehrerinnen und Influencerinnen Südtirols. Wir begleiten Barbara auf ihrer Reise vom Tourette-Syndrom in der Kindheit über den beruflichen Werdegang als Geometerin bis hin zu ihrer erfolgreichen Karriere als Köchin und Kabarettistin. Mit ihrer wöchentlichen Kabarett-Sendung "So seg'n holt mirs" gemeinsam mit Ihrem Vater Dietmar Prantl und ihrer Leidenschaft für das Kochen hat sie sich einen Namen gemacht und inspiriert heute über 140.000 Follower in den Sozialen Medien. Neben ihrer Arbeit als Lehrerin und Influencerin betreut sie gemeinsam mit ihrem Mann den Leimgruber Hof, wo sie Ferienwohnungen verwaltet, und ihre Familie lebt.</desc>
+  </programme>
+  <programme start="20251124221000 +0100" stop="20251124223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251125200000 +0100" stop="20251125202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251125202000 +0100" stop="20251125203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251125203500 +0100" stop="20251125204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>13. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby stehen sich die beiden Überraschungsmannschaften der Hinrunde, der Bozner FC und Ahrntal, gegenüber. In der Landesliga empfängt Freienfeld den Tabellen-Vierten Tscherms Marling, während Lana und Stegen Punkte brauchen, um sich aus der Abstiegszone zu spielen.</desc>
+  </programme>
+  <programme start="20251125221000 +0100" stop="20251125223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251126200000 +0100" stop="20251126202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251126202000 +0100" stop="20251126204930 +0100" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>25 Jahre Leonardi-Ritt in Abtei - die Tradition der ladinischen Pferdezucht. Wie heimische Produkte den Weg in Südtirols Küchen finden. 10 Jahre Tierschutzverein Vinschgau. 
+
+Jedes Jahr im November feiert St. Leonhard in Abtei mit dem traditionellen Leonardi-Ritt den heiligen Leonhard, den Schutzpatron der Tiere und der Bauern. Das Fest verbindet Brauchtum und Kultur und zeigt eindrucksvoll die lange landwirtschaftliche und pferdezüchterische Tradition in den ladinischen Tälern. Land&amp;Leben war bei den Vorbereitungen und beim Festumzug dabei. Unter dem Motto "Zu Gast bei Pionieren" bringt die IDM gemeinsam mit Partnern aus Landwirtschaft und Gastronomie innovative Produzentinnen und Produzenten mit Südtiroler Köch:innen zusammen. Ziel der Initiative ist es, mehr heimische Produkte in die Küchen der Gastronomie und Hotellerie zu bringen. Der Tierschutzverein Vinschgau feiert in diesem Jahr sein 10-jähriges Bestehen. Seit einem Jahrzehnt engagieren sich Freiwillige unermüdlich für ausgesetzte und verletzte Kleintiere, doch die finanzielle Lage bereitet ihnen Sorge.</desc>
+  </programme>
+  <programme start="20251126221000 +0100" stop="20251126223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251127200000 +0100" stop="20251127202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251127202000 +0100" stop="20251127204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Schokolade</sub-title>
+    <desc>Macht Schokolade wirklich glücklich? Leider nein. Warum das so ist, das wird in dieser Ausgabe erklärt. Zu Gast ist außerdem Brigitte Gritsch, die Koordinatorin der Südtiroler Weltläden. Es moderiert Karin Gschnitzer. 
+
+Schokolade enthält zwar das sogenannte "Glückshormon" Serotonin, das einen positiven Einfluss auf die Stimmung haben kann. Glücklich macht der Verzehr von Schokolade deshalb trotzdem nicht. Denn dafür müsste das Serotonin an bestimmte Rezeptoren im Gehirn andocken können, doch dabei scheitert es an einem körpereigenen Schutzmechanismus.  
+In der Reihe "Unser Gedächtnis" zeigen wir einen Beitrag über Lawinenhunde aus dem Amt für Film und Medien und in der Reihe "Bildung real" zeigen wir die vielen Berufsbilder rund ums Thema Bildung.</desc>
+  </programme>
+  <programme start="20251127213000 +0100" stop="20251127215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die SportArena feiert ein kleines Jubiläum und wird heute zum 500. Mal ausgestrahlt. Im Mittelpunkt der Sendung stehen die Olympischen Winterspiele 2026, die erstmals auch in Südtirol stattfinden werden. Antholz ist ja bekanntlich Schauplatz der olympischen Biathlon-Bewerbe. Auf der erneuerten Anlage in Antholz wurde auch der Rennkalender des Südtiroler Wintersportverbandes FISI vorgestellt.</desc>
+  </programme>
+  <programme start="20251127221000 +0100" stop="20251127223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251128180000 +0100" stop="20251128182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Schokolade</sub-title>
+    <desc>Macht Schokolade wirklich glücklich? Leider nein. Warum das so ist, das wird in dieser Ausgabe erklärt. Zu Gast ist außerdem Brigitte Gritsch, die Koordinatorin der Südtiroler Weltläden. Es moderiert Karin Gschnitzer.
+Schokolade enthält zwar das sogenannte "Glückshormon" Serotonin, das einen positiven Einfluss auf die Stimmung haben kann. Glücklich macht der Verzehr von Schokolade deshalb trotzdem nicht. Denn dafür müsste das Serotonin an bestimmte Rezeptoren im Gehirn andocken können, doch dabei scheitert es an einem körpereigenen Schutzmechanismus.  
+In der Reihe "Unser Gedächtnis" zeigen wir einen Beitrag über Lawinenhunde aus dem Amt für Film und Medien und in der Reihe "Bildung real" zeigen wir die vielen Berufsbilder rund ums Thema Bildung.</desc>
+  </programme>
+  <programme start="20251128182900 +0100" stop="20251128185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die SportArena feiert ein kleines Jubiläum und wird heute zum 500. Mal ausgestrahlt. Im Mittelpunkt der Sendung stehen die Olympischen Winterspiele 2026, die erstmals auch in Südtirol stattfinden werden. Antholz ist ja bekanntlich Schauplatz der olympischen Biathlon-Bewerbe. Auf der erneuerten Anlage in Antholz wurde auch der Rennkalender des Südtiroler Wintersportverbandes FISI vorgestellt.</desc>
+  </programme>
+  <programme start="20251128200000 +0100" stop="20251128202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251128202000 +0100" stop="20251128215246 +0100" channel="Rai Südtirol">
+    <title>Keinen Ton sagen</title>
+    <sub-title>Missbrauch in Nord- und Südtirol</sub-title>
+    <desc>In der berührenden Dokumentation von Georg Lembergh erzählen vier Frauen aus Süd- und Nordtirol offen über den Missbrauch, den sie erfahren haben: Damaris, Nicola, Manuela und Alexia. 
+
+Anlässlich des Welttages gegen Gewalt an Frauen vier Betroffene zu Wort: Damaris, eine mehrfache Mutter, wurde von einem Bekannten vergewaltigt und nahm sich daraufhin einen Anwalt. Die ehemalige Skirennläuferin Nicola Spieß wurde mit 16 Jahren im Trainingslager von einem Kollegen vergewaltigt. Manuela Kemper litt schon als kleines Mädchen unter den sexuellen Übergriffen des Dekans. Seine Grenzverletzungen passierten sogar in der Klasse. Lange wurde sie jedoch nicht ernstgenommen Alexia wurde als Kind von einem Bauern sexuell missbraucht. Bis heute kann sie menschliche Nähe nur schwer ertragen.</desc>
+  </programme>
+  <programme start="20251128215300 +0100" stop="20251128215854 +0100" channel="Rai Südtirol">
+    <title>dF Frauenbilder</title>
+    <sub-title>Maria Ducia</sub-title>
+    <desc>Sie lebte von 1875-1959, hatte sechs Kinder, ein Unternehmen in den Sand gesetzt und sich dann für Frauenrechte stark gemacht. Die Lienzer nannten Maria Ducia nur die "Rote". Alles an ihr war anrüchig: Sie hat die sozialdemokratische Frauenbewegung in Tirol mitbegründet und ist als erste Sozialdemokratin in den Tiroler Landtag gekommen. Ein Porträt über Tirols Suffragette, die dafür kämpfte, woran sie glaubte.</desc>
+  </programme>
+  <programme start="20251128221000 +0100" stop="20251128223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251129180000 +0100" stop="20251129182930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Michl Laimer</sub-title>
+    <desc>Michl Laimer besuchte das Vinzentinum in Brixen und studierte anschließend Rechtswissenschaften an den Universitäten Innsbruck und Padua. Der Jurist trat in den Landesdienst ein und wurde 1993 erstmals in den Südtiroler Landtag gewählt, dem er vier Legislaturen lang angehörte. Als Landesrat für Umwelt und Raumordnung setzte er wichtige Akzente in der Landespolitik. Einer der schwierigsten Momente seiner Laufbahn war die Rückführung der Wasserkraft nach Südtirol - ein politisch brisantes Thema, das schließlich auch das Ende seiner politischen Karriere bedeutete. Heute widmet sich Michl Laimer gemeinsam mit seiner Frau und Familie einer neuen Aufgabe: Er führt den traditionsreichen Pacherhof in Neustift.</desc>
+  </programme>
+  <programme start="20251129182900 +0100" stop="20251129185830 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Der jährliche Kongress der Föderalistischen Union Europäischer Nationalitäten - kurz FUEN - wurde kürzlich in Bozen ausgetragen. Die unabhängige Dachvereinigung von Organisationen nationaler Minderheiten zählt über 100 Mitgliedsorganisationen aus knapp 40 Staaten. Seit vielen Jahren sind auch die Minderheiten aus Südtirol und den Ladinischen Tälern Teil der FUEN. Minet war beim Kongress dabei. In Rumänien werden Roma immer wieder Opfer von Zwangsräumungen. Sie müssen ihre Wohnungen verlassen und werden in Containeranlagen untergebracht. Die Lebensbedingungen dort sind prekär und eine temporäre Lösung wurde zu einer Dauerlösung. Minet hat die Roma Siedlung in Miercureia Ciuk (Szeklerburg) besucht.
+Eurac Research richtet in diesem Jahr zum ersten Mal das UN-Stipendienprogramm aus. Anfang November wurden zwanzig angehende Stipendiaten und Stipendiatinnen des Stipendienprogramms für Minderheiten der Vereinten Nationen für Menschenrechte (OHCHR) in Bozen begrüßt. In der Reihe "Tribal Voices" erzählt Adriano vom Volk der Karipuna in Brasilien, wie internationale Konzerne in ihr Gebiet vordringen und damit nicht nur sie, sondern auch die Existenz von unkontaktierten Völkern in Gefahr bringen.</desc>
+  </programme>
+  <programme start="20251129200000 +0100" stop="20251129202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251129202100 +0100" stop="20251129202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251129202500 +0100" stop="20251129205100 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen.entdecken.genießen</sub-title>
+    <desc>Otto Mattivis Leidenschaft für japanische Pflanzen, die Fachmesse Gustoso, die langjährige Gastwirtin Maria Vittur Crazzolara wird Pionierin des Jahres 2025. Moderation: Manuela Reiter. 
+
+Am Comer See erfüllt sich der Südtiroler Gastronom Otto Mattivi einen besonderen Traum: Der Betreiber des Restaurants Hidalgo in Burgstall, der auch ein gehobenes japanisches Lokal führt, möchte seine Küche künftig mit authentischen japanischen Pflanzen bereichern. In einer Gärtnerei am See entdeckt er die passenden Gewächse, um seinem Restaurant noch mehr Atmosphäre und kulturelle Tiefe zu verleihen. 
+Die Fachmesse "Gustoso" bringt Köchinnen, Gastronomen und Produzenten aus der Region zusammen. Ziel ist es, den Austausch zu fördern und die Qualität heimischer Produkte stärker in den Mittelpunkt zu rücken. Wie erfolgreich diese Idee umgesetzt wird, zeigt ein Blick in den Vinschgau: Durch die enge Kooperation zwischen Landwirtschaft und Gastronomie entstehen kurze Wege, frische Produkte und echte Partnerschaften.
+Eine besondere Auszeichnung erhielt in diesem Jahr Maria Vittur Crazzolara, Seniorchefin des Hotel Fanes in St. Kassian. Für ihr Lebenswerk wurde sie von der Vereinigung der Südtiroler Gastwirtinnen im HGV zur Pionierin des Jahres 2025 ernannt. Mit 92 Jahren blickt sie auf eine bewegte Geschichte zurück, erzählt von den Anfängen des Tourismus im Gadertal und was echte Gastfreundschaft für sie bedeutet.</desc>
+  </programme>
+  <programme start="20251129221000 +0100" stop="20251129223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
