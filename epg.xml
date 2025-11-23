@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251122180000 +0100" stop="20251122182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Menschen und ihre Fähigkeiten machen erfolgreiche Unternehmen aus. Diesmal stehen die
-Mitarbeitenden im Mittelpunkt, ihre Qualifikation und Motivation als entscheidende Faktoren für nachhaltigen Erfolg. Im ersten Beitrag geht es um die Chancen, die ein Südtiroler Ingenieurbüro im internationalen Umfeld nutzen kann. Die Mitarbeitenden von Bergmeister Ingenieure arbeiten an anspruchsvollen, teils europäischen Großprojekten, die die Grenzen der Ingenieurswissenschaften ausloten - und das, ohne auf die Lebensqualität und Verwurzelung in der Heimat verzichten zu müssen. Unternehmenskultur - das unsichtbare, aber spürbare Rückgrat erfolgreicher Betriebe. Gerade in Zeiten, in denen um qualifizierte Mitarbeitende und ihre Loyalität gerungen wird, zählen Werte, Glaubwürdigkeit, Authentizität mehr denn je. Am Beispiel des Sport- und Outdoorunternehmens OberAlp zeigt Trend, wie gelebte Nachhaltigkeit, Reparaturkultur und ein langfristiges Denken heute zur Motivation und Bindung der Mitarbeitenden beitragen.</desc>
-  </programme>
-  <programme start="20251122182900 +0100" stop="20251122185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>In der aktuellen Ausgabe von Pluspunkt widmen wir uns wieder spannenden Themen:
-Der Regionalrat hat im September ein in ganz Italien einzigartiges Gesetz beschlossen. 
-Es fördert die Einschreibung in eine Zusatzrentenform bereits in den ersten Lebensjahren. Für alle Neugeborenen, Adoptiv- und Pflegekinder ist ein finanzieller Beitrag vorgesehen, um den Start in die Altersvorsorge zu erleichtern. Die Maßnahme soll langfristig die Rentenlücke künftiger Generationen abfedern. Wir zeigen, wie der Antrag gestellt werden kann und worauf Familien achten müssen.
-Außerdem: Wohin mit unserem Elektroschrott? Alte Handys, Fernseher oder Waschmaschinen enthalten wertvolle Rohstoffe und gehören keinesfalls in den Restmüll. In Südtirol fallen jedes Jahr über 8.000 Tonnen Elektroaltgeräte an. Der Beitrag zeigt, wie diese richtig entsorgt werden, welche Pflichten Händler haben und welche Rolle die Recyclinghöfe spielen.
-In unserer Rubrik Lebenswerte Orte in Südtirol besuchen wir diesmal St. Leonhard im Passeier. Der Hauptort des Tales liegt idyllisch am Zusammenfluss von Passer und Waltner Bach, ein Beispiel dafür, wie Handel, Tourismus und Gastronomie gemeinsam das Dorfleben prägen und beleben.</desc>
-  </programme>
-  <programme start="20251122200000 +0100" stop="20251122202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251122202100 +0100" stop="20251122202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251122202500 +0100" stop="20251122205100 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Die Niere</sub-title>
-    <desc>Die Niere ist ein kleines, aber lebenswichtiges Organ. Sie filtert täglich rund 180 Liter Blut und reguliert den Flüssigkeit- und Salzhaushalt. Doch wenn sie erkrankt, dann ist das äußerst schmerzhaft. 
-
-Bilden sich Nierensteine, kann das äußerst schmerzhaft sein, wie Dr. Daniele Signorelle, Urologe am Krankenhaus Brixen, erklärt. Versagt die Niere ihre Funktion, übernehmen in der Nephrologie Spezialisten wie Dr. Werner Passler am Krankenhaus Bozen die weitere Behandlung. Anna Schwarz lebt mit einer Spenderniere und beweist, dass man damit heute gut leben kann. Mehr über die Geheimnisse der Niere in der Reportage Gesundheit.</desc>
-  </programme>
-  <programme start="20251122221000 +0100" stop="20251122223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251123200000 +0100" stop="20251123202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
