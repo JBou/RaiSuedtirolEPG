@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251124180000 +0100" stop="20251124181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>13. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby stehen sich die beiden Überraschungsmannschaften der Hinrunde, der Bozner FC und Ahrntal, gegenüber. In der Landesliga empfängt Freienfeld den Tabellen-Vierten Tscherms Marling, während Lana und Stegen Punkte brauchen, um sich aus der Abstiegszone zu spielen.</desc>
-  </programme>
-  <programme start="20251124181400 +0100" stop="20251124183230 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Floorball</sub-title>
-    <desc>Floorball - auch bekannt als Unihockey - ist eine blitzschnelle und spannende Hallensportart. Ursprünglich entstand Floorball in Amerika, als Eishockeyspieler auch im Sommer trainieren wollten. Mit einem leichten Kunststoffball und speziellen Schlägern entwickelten sie ein rasantes Spiel, das heute weltweit beliebt ist.  
-
-In Bozen trainieren sowohl die Sportkids der U10 als auch der U14 regelmäßig mit großer Begeisterung. Die Jüngeren lernen spielerisch den sicheren Umgang mit Schläger und Ball, während die Älteren bereits taktische Spielzüge und rasante Matches bestreiten.</desc>
-  </programme>
-  <programme start="20251124183300 +0100" stop="20251124185930 +0100" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Die Niere</sub-title>
-    <desc>Die Niere ist ein kleines, aber lebenswichtiges Organ. Sie filtert täglich rund 180 Liter Blut und reguliert den Flüssigkeit- und Salzhaushalt. Doch wenn sie erkrankt, dann ist das äußerst schmerzhaft. Bilden sich Nierensteine, kann das äußerst schmerzhaft sein, wie Dr. Daniele Signorelle, Urologe am Krankenhaus Brixen, erklärt. Versagt die Niere ihre Funktion, übernehmen in der Nephrologie Spezialisten wie Dr. Werner Passler am Krankenhaus Bozen die weitere Behandlung. Anna Schwarz lebt mit einer Spenderniere und beweist, dass man damit heute gut leben kann. Mehr über die Geheimnisse der Niere in der Reportage Gesundheit.</desc>
-  </programme>
-  <programme start="20251124200000 +0100" stop="20251124202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251124202000 +0100" stop="20251124211808 +0100" channel="Rai Südtirol">
-    <title>So jagt Südtirol</title>
-    <sub-title>Unterwegs in heimischen Revieren</sub-title>
-    <desc>Die Jagd wird oftmals mit sehr kritischem Auge betrachtet, nicht nur in Südtirol. Willi Rainer und Wolfgang Moser beleuchten das Südtiroler Jagdwesen und werden einen Blick hinter die Kulissen.   
-
-Die Jagd war in der Geschichte der Menschheit ausschlaggebend für das Überleben unserer Spezies. Auch wenn dieser Grund zur Jagd schon längst nicht mehr ausschlaggebend ist, hat sie auch heute noch einen hohen Stellenwert. 
-Südtirol hat eine lange Jagdgeschichte: Vor allem Kaiser Maximilian I. fand großen Gefallen an der Jagd in Südtirols Wäldern. Im Südtiroler Landesmuseum für Jagd und Fischerei, auf Schloss Wolfsthurn in Mareit, ist eine umfangreiche kulturhistorische Sammlung zur Jagdgeschichte zusehen.
- 
-Um heute Jäger zu werden, muss eine Prüfung abgelegt werden, die sogenannte "grüne Matura". Voraussetzung ist ein breitgefächertes Wissen über Wildtiere, Vögel, Flora und Fauna. Auch immer mehr Frauen interessieren sich für die Jagd und absolvieren die Jägerprüfung.</desc>
-  </programme>
-  <programme start="20251124211800 +0100" stop="20251124215833 +0100" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Barbara Prantl: Ein Leben voller Wendepunkte</sub-title>
-    <desc>Ein einzigartiger Einblick in ihr Leben, ihre Werte und ihre vielen Rollen als Mutter, Lehrerin und Künstlerin - immer geprägt von Humor, Leidenschaft und einem klaren Bekenntnis zu  ihren Wurzeln. Sie ist eine der bekanntesten Kabarettistinnen, Religionslehrerinnen und Influencerinnen Südtirols. Wir begleiten Barbara auf ihrer Reise vom Tourette-Syndrom in der Kindheit über den beruflichen Werdegang als Geometerin bis hin zu ihrer erfolgreichen Karriere als Köchin und Kabarettistin. Mit ihrer wöchentlichen Kabarett-Sendung "So seg'n holt mirs" gemeinsam mit Ihrem Vater Dietmar Prantl und ihrer Leidenschaft für das Kochen hat sie sich einen Namen gemacht und inspiriert heute über 140.000 Follower in den Sozialen Medien. Neben ihrer Arbeit als Lehrerin und Influencerin betreut sie gemeinsam mit ihrem Mann den Leimgruber Hof, wo sie Ferienwohnungen verwaltet, und ihre Familie lebt.</desc>
-  </programme>
-  <programme start="20251124221000 +0100" stop="20251124223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251125200000 +0100" stop="20251125202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
