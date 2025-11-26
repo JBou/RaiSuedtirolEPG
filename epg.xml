@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251125200000 +0100" stop="20251125202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251125202000 +0100" stop="20251125203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251125203500 +0100" stop="20251125204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>13. Spieltag in der Fußball-Oberliga: Im einzigen Südtiroler Derby stehen sich die beiden Überraschungsmannschaften der Hinrunde, der Bozner FC und Ahrntal, gegenüber. In der Landesliga empfängt Freienfeld den Tabellen-Vierten Tscherms Marling, während Lana und Stegen Punkte brauchen, um sich aus der Abstiegszone zu spielen.</desc>
-  </programme>
-  <programme start="20251125221000 +0100" stop="20251125223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251126200000 +0100" stop="20251126202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
