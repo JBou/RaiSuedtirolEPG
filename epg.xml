@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251126200000 +0100" stop="20251126202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251126202000 +0100" stop="20251126204930 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>25 Jahre Leonardi-Ritt in Abtei - die Tradition der ladinischen Pferdezucht. Wie heimische Produkte den Weg in Südtirols Küchen finden. 10 Jahre Tierschutzverein Vinschgau. 
-
-Jedes Jahr im November feiert St. Leonhard in Abtei mit dem traditionellen Leonardi-Ritt den heiligen Leonhard, den Schutzpatron der Tiere und der Bauern. Das Fest verbindet Brauchtum und Kultur und zeigt eindrucksvoll die lange landwirtschaftliche und pferdezüchterische Tradition in den ladinischen Tälern. Land&amp;Leben war bei den Vorbereitungen und beim Festumzug dabei. Unter dem Motto "Zu Gast bei Pionieren" bringt die IDM gemeinsam mit Partnern aus Landwirtschaft und Gastronomie innovative Produzentinnen und Produzenten mit Südtiroler Köch:innen zusammen. Ziel der Initiative ist es, mehr heimische Produkte in die Küchen der Gastronomie und Hotellerie zu bringen. Der Tierschutzverein Vinschgau feiert in diesem Jahr sein 10-jähriges Bestehen. Seit einem Jahrzehnt engagieren sich Freiwillige unermüdlich für ausgesetzte und verletzte Kleintiere, doch die finanzielle Lage bereitet ihnen Sorge.</desc>
-  </programme>
-  <programme start="20251126221000 +0100" stop="20251126223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251127200000 +0100" stop="20251127202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
