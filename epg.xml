@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251127200000 +0100" stop="20251127202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251127202000 +0100" stop="20251127204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Schokolade</sub-title>
-    <desc>Macht Schokolade wirklich glücklich? Leider nein. Warum das so ist, das wird in dieser Ausgabe erklärt. Zu Gast ist außerdem Brigitte Gritsch, die Koordinatorin der Südtiroler Weltläden. Es moderiert Karin Gschnitzer. 
-
-Schokolade enthält zwar das sogenannte "Glückshormon" Serotonin, das einen positiven Einfluss auf die Stimmung haben kann. Glücklich macht der Verzehr von Schokolade deshalb trotzdem nicht. Denn dafür müsste das Serotonin an bestimmte Rezeptoren im Gehirn andocken können, doch dabei scheitert es an einem körpereigenen Schutzmechanismus.  
-In der Reihe "Unser Gedächtnis" zeigen wir einen Beitrag über Lawinenhunde aus dem Amt für Film und Medien und in der Reihe "Bildung real" zeigen wir die vielen Berufsbilder rund ums Thema Bildung.</desc>
-  </programme>
-  <programme start="20251127213000 +0100" stop="20251127215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die SportArena feiert ein kleines Jubiläum und wird heute zum 500. Mal ausgestrahlt. Im Mittelpunkt der Sendung stehen die Olympischen Winterspiele 2026, die erstmals auch in Südtirol stattfinden werden. Antholz ist ja bekanntlich Schauplatz der olympischen Biathlon-Bewerbe. Auf der erneuerten Anlage in Antholz wurde auch der Rennkalender des Südtiroler Wintersportverbandes FISI vorgestellt.</desc>
-  </programme>
-  <programme start="20251127221000 +0100" stop="20251127223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251128180000 +0100" stop="20251128182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Schokolade</sub-title>
