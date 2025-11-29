@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251128180000 +0100" stop="20251128182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Schokolade</sub-title>
-    <desc>Macht Schokolade wirklich glücklich? Leider nein. Warum das so ist, das wird in dieser Ausgabe erklärt. Zu Gast ist außerdem Brigitte Gritsch, die Koordinatorin der Südtiroler Weltläden. Es moderiert Karin Gschnitzer.
-Schokolade enthält zwar das sogenannte "Glückshormon" Serotonin, das einen positiven Einfluss auf die Stimmung haben kann. Glücklich macht der Verzehr von Schokolade deshalb trotzdem nicht. Denn dafür müsste das Serotonin an bestimmte Rezeptoren im Gehirn andocken können, doch dabei scheitert es an einem körpereigenen Schutzmechanismus.  
-In der Reihe "Unser Gedächtnis" zeigen wir einen Beitrag über Lawinenhunde aus dem Amt für Film und Medien und in der Reihe "Bildung real" zeigen wir die vielen Berufsbilder rund ums Thema Bildung.</desc>
-  </programme>
-  <programme start="20251128182900 +0100" stop="20251128185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die SportArena feiert ein kleines Jubiläum und wird heute zum 500. Mal ausgestrahlt. Im Mittelpunkt der Sendung stehen die Olympischen Winterspiele 2026, die erstmals auch in Südtirol stattfinden werden. Antholz ist ja bekanntlich Schauplatz der olympischen Biathlon-Bewerbe. Auf der erneuerten Anlage in Antholz wurde auch der Rennkalender des Südtiroler Wintersportverbandes FISI vorgestellt.</desc>
-  </programme>
-  <programme start="20251128200000 +0100" stop="20251128202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251128202000 +0100" stop="20251128215246 +0100" channel="Rai Südtirol">
-    <title>Keinen Ton sagen</title>
-    <sub-title>Missbrauch in Nord- und Südtirol</sub-title>
-    <desc>In der berührenden Dokumentation von Georg Lembergh erzählen vier Frauen aus Süd- und Nordtirol offen über den Missbrauch, den sie erfahren haben: Damaris, Nicola, Manuela und Alexia. 
-
-Anlässlich des Welttages gegen Gewalt an Frauen vier Betroffene zu Wort: Damaris, eine mehrfache Mutter, wurde von einem Bekannten vergewaltigt und nahm sich daraufhin einen Anwalt. Die ehemalige Skirennläuferin Nicola Spieß wurde mit 16 Jahren im Trainingslager von einem Kollegen vergewaltigt. Manuela Kemper litt schon als kleines Mädchen unter den sexuellen Übergriffen des Dekans. Seine Grenzverletzungen passierten sogar in der Klasse. Lange wurde sie jedoch nicht ernstgenommen Alexia wurde als Kind von einem Bauern sexuell missbraucht. Bis heute kann sie menschliche Nähe nur schwer ertragen.</desc>
-  </programme>
-  <programme start="20251128215300 +0100" stop="20251128215854 +0100" channel="Rai Südtirol">
-    <title>dF Frauenbilder</title>
-    <sub-title>Maria Ducia</sub-title>
-    <desc>Sie lebte von 1875-1959, hatte sechs Kinder, ein Unternehmen in den Sand gesetzt und sich dann für Frauenrechte stark gemacht. Die Lienzer nannten Maria Ducia nur die "Rote". Alles an ihr war anrüchig: Sie hat die sozialdemokratische Frauenbewegung in Tirol mitbegründet und ist als erste Sozialdemokratin in den Tiroler Landtag gekommen. Ein Porträt über Tirols Suffragette, die dafür kämpfte, woran sie glaubte.</desc>
-  </programme>
-  <programme start="20251128221000 +0100" stop="20251128223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251129180000 +0100" stop="20251129182930 +0100" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Michl Laimer</sub-title>
@@ -96,6 +62,237 @@ Prof. Florian Kiesel von der UNI Bozen erklärt, wie das Label für Nachhaltigke
     <desc/>
   </programme>
   <programme start="20251130221000 +0100" stop="20251130223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251201180000 +0100" stop="20251201181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 14. Spieltag in der Fußball-Oberliga empfängt der beste Sturm der Meisterschaft, der SV Tramin, den Tabellen-Vorletzten Partschins. In der Landesliga kommt es zum Duelle der Giganten: Der Tabellenzweite Naturns trifft auf Spitzenreiter Bruneck. Marling Tscherms hat hingegen Leifers zu Gast.</desc>
+  </programme>
+  <programme start="20251201181400 +0100" stop="20251201182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title/>
+    <desc>Das Elki Wipptal hat in den Vigil Raber Saal nach Sterzing geladen, um einen Nachmittag lang nach Herzenslust Spieleneuheiten und bekannte Spieleklassiker auszuprobieren. Der junge Schachmeister Quentin Haller aus Wiesen war auch mit dabei und hat die Köpfe vieler schachbegeisterter Kindern in einer Simultan Partie zum Rauchen gebracht.</desc>
+  </programme>
+  <programme start="20251201182900 +0100" stop="20251201185830 +0100" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>25 Jahre Leonardi-Ritt in Abtei - die Tradition der ladinischen Pferdezucht. Wie heimische Produkte den Weg in Südtirols Küchen finden. 10 Jahre Tierschutzverein Vinschgau. 
+Jedes Jahr im November feiert St. Leonhard in Abtei mit dem traditionellen Leonardi-Ritt den heiligen Leonhard, den Schutzpatron der Tiere und der Bauern. Das Fest verbindet Brauchtum und Kultur und zeigt eindrucksvoll die lange landwirtschaftliche und pferdezüchterische Tradition in den ladinischen Tälern. Land&amp;Leben war bei den Vorbereitungen und beim Festumzug dabei. Unter dem Motto "Zu Gast bei Pionieren" bringt die IDM gemeinsam mit Partnern aus Landwirtschaft und Gastronomie innovative Produzentinnen und Produzenten mit Südtiroler Köch:innen zusammen. Ziel der Initiative ist es, mehr heimische Produkte in die Küchen der Gastronomie und Hotellerie zu bringen. Der Tierschutzverein Vinschgau feiert in diesem Jahr sein 10-jähriges Bestehen. Seit einem Jahrzehnt engagieren sich Freiwillige unermüdlich für ausgesetzte und verletzte Kleintiere, doch die finanzielle Lage bereitet ihnen Sorge.</desc>
+  </programme>
+  <programme start="20251201200000 +0100" stop="20251201202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251201202000 +0100" stop="20251201202230 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 1</title>
+    <sub-title>Musikschule Überetsch/Mittleres Etschtal</sub-title>
+    <desc>Magdalena Aster, Anna Höller, Melanie Lintner, André Clement und Thomas Lamprecht mit "Zünd a Licht für di an" unter der Leitung von Barbara Höller.</desc>
+  </programme>
+  <programme start="20251201202300 +0100" stop="20251201211721 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20251201211700 +0100" stop="20251201215939 +0100" channel="Rai Südtirol">
+    <title>Ein Teil von uns selbst</title>
+    <sub-title>25 Jahre Südtiroler Ärzte für die Welt</sub-title>
+    <desc>Als der Verein gegründet wurde, hatten der Gemeindearzt Toni Pizzecco und seine Freunde und Mitarbeiterinnen vor allem medizinische Projekte im Auge. Bald wurde klar, dass medizinische Unterstützung nur mit dem Bau von Brunnen und Schulen möglich ist. Die Filmemacher Helmut Lechthaler und Astrid Kofler haben einige Mitglieder des Vereins nach Äthiopien begleitet, wo sich eines der Herzensprojekte der Südtiroler Ärzte für die Welt befindet. Anhand des Krankenhauses Attat wird aufgezeigt, wie Entwicklungszusammenarbeit heute funktioniert, was gegen die illegale Migration unternommen und wie Frauen-Empowerment unterstützt wird, wie all diese so verschieden klingenden Projekte sich gegenseitig bedingen. Schlussendlich ist alles ein Geben und Nehmen, jede Hilfe zur Selbsthilfe auch ein Geschenk an sich selbst: Es ist ein ständiges Lernen, eine Begegnung, es funktioniert über die Freundschaft. Anders geht es nicht, anders darf es nicht sein.</desc>
+  </programme>
+  <programme start="20251201221000 +0100" stop="20251201223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251202200000 +0100" stop="20251202202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251202202000 +0100" stop="20251202203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251202203500 +0100" stop="20251202203751 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 2</title>
+    <sub-title>Musikschule Brixen</sub-title>
+    <desc>Die Gruppe "Eisacktaler Gitschn" (Sophie Letitia Egger am Hackbrett, Leonie Fuchs an der Zither und Harfenistin Muriel Dorfmann) spielt "Gaudete" unter der Betreuung von Margit Nagler und Katja Lechner.</desc>
+  </programme>
+  <programme start="20251202203700 +0100" stop="20251202205130 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 14. Spieltag in der Fußball-Oberliga empfängt der beste Sturm der Meisterschaft, der SV Tramin, den Tabellen-Vorletzten Partschins. In der Landesliga kommt es zum Duelle der Giganten: Der Tabellenzweite Naturns trifft auf Spitzenreiter Bruneck. Marling Tscherms hat hingegen Leifers zu Gast.</desc>
+  </programme>
+  <programme start="20251202221000 +0100" stop="20251202223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251203200000 +0100" stop="20251203202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251203202000 +0100" stop="20251203202321 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 3</title>
+    <sub-title>Musikschule Unterland</sub-title>
+    <desc>Unter der Betreuung von Lorenz Mahlknecht und Ursula Torggler spielen Musiker:innen der Musikschule Unterland "Sonata La Posta" vom Komponisten Pavel Josef Vejvamnosky, arrangiert von Lorenz Mahlknecht. 
+
+(David Mair an der Orgel, Samuel Burger, Nathan Nair und Tobias Kerschbaumer am Euphonium, Philipp Kirchler am Bariton und Andreas Plattner am Tenorhorn.)</desc>
+  </programme>
+  <programme start="20251203202300 +0100" stop="20251203205230 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wettbewerb und Konkurrenzkampf, das sind treibenden Kräfte sowohl im Sport als auch in der Wirtschaft. 
+
+Vor dem großen Event Olympia 2026 steigt die Spannung im Antholzertal. Dort sind die Bürgerinnen und Bürger zwar seit Langem auf sportliche Großereignisse durch die internationalen Biathlonbewerbe geeicht, aber Olympia ist doch etwas anderes. Trend versucht, die Stimmung, die Erwartungen, die Hoffnungen und die Befürchtungen bei Wirtschaftstreibenden und Organisatoren vor Ort einzufangen. 
+Dann begleitet Trend drei erfolgreiche Trentiner Unternehmer über die Provinzgrenze in das Fleimstal. Die Unternehmer pendeln von ihren Wohnorten Bozen und Meran aus fast täglich an ihren Heimat- und Betriebsstandort im Trentino. Sie erzählen davon, wie verschieden und wie ähnlich sie die wirtschaftlichen Bedingungen für Unternehmen in den beiden Provinzen einschätzen. 
+"Capture the Flag", CTF, "Hol dir die Flagge", heißt es in einem anderen sportlichen Wettbewerb für junge Computer-Experten und solche, die es werden wollen. CTF-Hackathons sind Wettbewerbe in der Cybersecurity, bei denen Teilnehmer Sicherheitslücken finden und Flags entdecken, um Punkte zu sammeln. Solche Events dienen der Weiterbildung und dem Networking in der IT-Sicherheits-Community. Trend ist beim CTF-Hackathon Ende November im NOI Techpark dabei.</desc>
+  </programme>
+  <programme start="20251203221000 +0100" stop="20251203223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251204200000 +0100" stop="20251204202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251204202000 +0100" stop="20251204202235 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 4</title>
+    <sub-title>Musikschulen Klausen und Ritten</sub-title>
+    <desc>Die Gruppe Saitenspielerei (Eleonora Heim an der Violine, Lia Mader an der Querflöte und Lara Mair an der Harfe) spielt "Englein flieg" vom Komponisten Herbert Pixner unter der Leitung von Sylvia Lanz, Ricarda Janissen und Angelika Lintner.</desc>
+  </programme>
+  <programme start="20251204202300 +0100" stop="20251204205230 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Handarbeiten</sub-title>
+    <desc>Stricken, nähen, töpfern oder reparieren - Handarbeit ist tatsächlich wieder in. Die verschiedenen Tätigkeiten bieten Entspannung und fördern die Kreativität.  Der Hype begann hauptsächlich während der Corona-Pandemie und hat sich seitdem gehalten, da immer mehr Menschen Wert auf Selbstgemachtes und individuelle Stücke legen. 
+
+Zu Gast ist Thomas Grüner, Ideator und Organisator von "Selbergmocht". In der Reihe "So isst Euregio" besuchen wir die Köchin Giulia Segna und in der Reihe "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Handwerk in Südtirol". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251204213000 +0100" stop="20251204215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Wochen gastiert der Weltcup der Alpinen in Südtirol: Gröden richtet einen SuperG und die traditionelle Abfahrt aus, auf der Gran Risa in Alta Badia finden hingegen ein Riesentorlauf und ein Slalom statt. Die Rennen zählen auch als Formtest für die Olympischen Winterspiele Mailand-Cortina 2026. Rund 40 Südtiroler Athletinnen und Athleten werden an den Spielen teilnehmen, gute Medaillenchancen rechnen sich besonders die Kunstbahnrodler, die Snowboarder und die Biathleten aus.</desc>
+  </programme>
+  <programme start="20251204221000 +0100" stop="20251204223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251205180000 +0100" stop="20251205182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Handarbeiten</sub-title>
+    <desc>Stricken, nähen, töpfern oder reparieren - Handarbeit ist tatsächlich wieder in. Die verschiedenen Tätigkeiten bieten Entspannung und fördern die Kreativität.  Der Hype begann hauptsächlich während der Corona-Pandemie und hat sich seitdem gehalten, da immer mehr Menschen Wert auf Selbstgemachtes und individuelle Stücke legen. Zu Gast ist Thomas Grüner, Ideator und Organisator von "Selbergmocht". In der Reihe "So isst Euregio" besuchen wir die Köchin Giulia Segna und in der Reihe "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Handwerk in Südtirol". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20251205182900 +0100" stop="20251205185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In drei Wochen gastiert der Weltcup der Alpinen in Südtirol: Gröden richtet einen SuperG und die traditionelle Abfahrt aus, auf der Gran Risa in Alta Badia finden hingegen ein Riesentorlauf und ein Slalom statt. Die Rennen zählen auch als Formtest für die Olympischen Winterspiele Mailand-Cortina 2026. Rund 40 Südtiroler Athletinnen und Athleten werden an den Spielen teilnehmen, gute Medaillenchancen rechnen sich besonders die Kunstbahnrodler, die Snowboarder und die Biathleten aus.</desc>
+  </programme>
+  <programme start="20251205200000 +0100" stop="20251205202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251205202100 +0100" stop="20251205202254 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 5</title>
+    <sub-title>Musikschule Gröden</sub-title>
+    <desc>Die Geschwister Julian, Matteo und Valentina Perathoner geben den Hallelujah Jodler/Singen wir im Schein der Kerzen zum Besten unter der Leitung von Egon Lardschneider.</desc>
+  </programme>
+  <programme start="20251205202200 +0100" stop="20251205212139 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol lässt in dieser Ausgabe berieseln und erkunden, durch den eigenen Körper, aber auch durch Stimmungen von außen. Wenn Körperlichkeit sich selbst neu entdecken lässt und stimmungsvolle Orte auf die Weihnachtszeit einstimmen. 
+
+Auf einer gemütlichen Winterwanderung stimmt Theo Hendrich auf die bevorstehende Weihnachtszeit ein. Er wandert dieses Mal über die Sigmund-Freud-Promenade am Ritten und besucht dort die stimmungsvollen Weihnachtsmärkte von Klobenstein und Oberbozen. Dabei schaut er auch einigen Manufakturbetrieben über die Schulter, wie sie ihre Waren anfertigen, um diese dann am Weihnachtsmarkt anbieten zu können. Zudem genießt er die Fahrt übers Rittner Hochplateau, mit dem weihnachtlich geschmückten Christbahnl. Karin Duregger begegnet im Anschluss Menschen, die zeigen: Wer seinen Körper spürt, lernt sich selbst besser kennen. Unser Körper kann ein Schlüssel zur Heilung sein - ob durch die kunstvollen Seile des Bondage, das zum sicheren Raum der Selbsterkundung wird, durch Tanz, der Emotionen sichtbar macht oder durch sogenannte somatische Körper-Traumatherapie.</desc>
+  </programme>
+  <programme start="20251205212300 +0100" stop="20251205215300 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen.entdecken.genießen</sub-title>
+    <desc>Otto Mattivis Leidenschaft für japanische Pflanzen, die Fachmesse Gustoso, die langjährige Gastwirtin Maria Vittur Crazzolara wird Pionierin des Jahres 2025. Moderation: Manuela Reiter.
+
+Am Comer See erfüllt sich der Südtiroler Gastronom Otto Mattivi einen besonderen Traum: Der Betreiber des Restaurants Hidalgo in Burgstall, der auch ein gehobenes japanisches Lokal führt, möchte seine Küche künftig mit authentischen japanischen Pflanzen bereichern. In einer Gärtnerei am See entdeckt er die passenden Gewächse, um seinem Restaurant noch mehr Atmosphäre und kulturelle Tiefe zu verleihen. Die Fachmesse "Gustoso" bringt Köchinnen, Gastronomen und Produzenten aus der Region zusammen. Ziel ist es, den Austausch zu fördern und die Qualität heimischer Produkte stärker in den Mittelpunkt zu rücken. Wie erfolgreich diese Idee umgesetzt wird, zeigt ein Blick in den Vinschgau: Durch die enge Kooperation zwischen Landwirtschaft und Gastronomie entstehen kurze Wege, frische Produkte und echte Partnerschaften.  
+Eine besondere Auszeichnung erhielt in diesem Jahr Maria Vittur Crazzolara, Seniorchefin des Hotel Fanes in St. Kassian. Für ihr Lebenswerk wurde sie von der Vereinigung der Südtiroler Gastwirtinnen im HGV zur Pionierin des Jahres 2025 ernannt. Mit 92 Jahren blickt sie auf eine bewegte Geschichte zurück, erzählt von den Anfängen des Tourismus im Gadertal und was echte Gastfreundschaft für sie bedeutet.</desc>
+  </programme>
+  <programme start="20251205215300 +0100" stop="20251205215927 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Schriftstellerin Selma Mahlknecht</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251205221000 +0100" stop="20251205223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251206180000 +0100" stop="20251206185900 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol lässt in dieser Ausgabe berieseln und erkunden, durch den eigenen Körper, aber auch durch Stimmungen von außen. Wenn Körperlichkeit sich selbst neu entdecken lässt und stimmungsvolle Orte auf die Weihnachtszeit einstimmen. 
+
+Auf einer gemütlichen Winterwanderung stimmt Theo Hendrich auf die bevorstehende Weihnachtszeit ein. Er wandert dieses Mal über die Sigmund-Freud-Promenade am Ritten und besucht dort die stimmungsvollen Weihnachtsmärkte von Klobenstein und Oberbozen. Dabei schaut er auch einigen Manufakturbetrieben über die Schulter, wie sie ihre Waren anfertigen, um diese dann am Weihnachtsmarkt anbieten zu können. Zudem genießt er die Fahrt übers Rittner Hochplateau, mit dem weihnachtlich geschmückten Christbahnl. Karin Duregger begegnet im Anschluss Menschen, die zeigen: Wer seinen Körper spürt, lernt sich selbst besser kennen. Unser Körper kann ein Schlüssel zur Heilung sein - ob durch die kunstvollen Seile des Bondage, das zum sicheren Raum der Selbsterkundung wird, durch Tanz, der Emotionen sichtbar macht oder durch sogenannte somatische Körper-Traumatherapie.</desc>
+  </programme>
+  <programme start="20251206200000 +0100" stop="20251206202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251206202100 +0100" stop="20251206202413 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 6</title>
+    <sub-title>Musikschule Sterzing</sub-title>
+    <desc>Die Familienmusik Pichler spielt unter der Leitung von Johanna Mader den "Nikolaus Boarischen" von Peter Paul Hoffmann. 
+(Elisabeth und Maria Pichler, Violine - Michael Pichler, Gitarre - Peter und Johannes Pichler, Cello - Arthur Pichler, Akkordeon - Christine Marsoner, Blockflöte)</desc>
+  </programme>
+  <programme start="20251206202400 +0100" stop="20251206202800 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251206202800 +0100" stop="20251206205802 +0100" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Schokolade aus Leidenschaft</sub-title>
+    <desc>Kakao zählt zu den ältesten und auch wertvollsten Lebensmitteln auf unserem Erdball. Kakao wurde schon vor über 3000 Jahren kultiviert und von den indigenen Völkern auch als Heilpflanze geschätzt und geehrt. Erst Mitte des 19. Jahrhunderts wurde Kakao durch technische Innovationen zum Genussmittel und letztlich zur Schokolade wie wir sie kennen. Dank der Chocolatiers ihrer Fantasie und vor allem ihres Handwerks wurde Schokolade mit Pralinen und anderen Kreationen zur Kunst. Der Schmelz am Gaumen wurde zur wertvollen Währung und zum wichtigen Wirtschaftsfaktor weltweit. Die Dokumentation stellt die unterschiedlichsten Facetten von Schokolade und ihre Meister vor.</desc>
+  </programme>
+  <programme start="20251206221000 +0100" stop="20251206223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251207200000 +0100" stop="20251207202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251207202000 +0100" stop="20251207202253 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 7</title>
+    <sub-title>Musikschule Oberer Vinschgau</sub-title>
+    <desc>Das eigens von Ernst Thoma für die Adventstöne komponierte Stück "Lasst uns alle fröhlich sein", arrangiert von Gernot Niederfrininger spielen Niklas Stecher und Lilly Tschenett an der Violine, Simeon Niederfrininger am Cello und Mara Peer an der Harfe.</desc>
+  </programme>
+  <programme start="20251207202300 +0100" stop="20251207203740 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Dominik Zuech</sub-title>
+    <desc>Dass Dominik Zuech eines Tages Profisportler würde ließ sich schon früh vermuten, denn von klein auf stand der heute 29-Jährige auf Skiern. Nach seiner ersten Karriere im Ski-Alpin entdeckte er das Skicross-Fahren für sich - und damit eine neue Leidenschaft.
+
+Egal ob auf oder abseits der Pisten, Dominik bleibt stehts in Bewegung, um sich auf seinen großen Traum vorzubereiten: eine Teilnahme bei den Olympischen Winterspielen 2026.</desc>
+  </programme>
+  <programme start="20251207203800 +0100" stop="20251207210730 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Giorgio Moroder</sub-title>
+    <desc>In der neuen Ausgabe von "Privat" trifft Markus Frings auf den legendären Musiker und Produzenten Giorgio Moroder - direkt in Los Angeles. Der Südtiroler Pionier der elektronischen Musik, der heuer seinen 85. Geburtstag gefeiert hat, blickt im Gespräch auf ein außergewöhnliches Leben zurück. 
+
+Moroder erzählt von seinen Anfängen in den 1960er-Jahren, von ersten Experimenten mit Synthesizern und davon, wie daraus Welthits für Donna Summer und zahlreiche weitere Stars entstanden. Mit sichtbarem Stolz spricht er über seine drei Oscars, mehrere Golden Globes und Grammy Awards, die er im Laufe seiner Karriere erhalten hat. Die Begegnung zeigt einen Künstler, der trotz weltweiten Erfolgs bodenständig und bescheiden geblieben ist.</desc>
+  </programme>
+  <programme start="20251207210700 +0100" stop="20251207211100 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251207221000 +0100" stop="20251207223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
