@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251129180000 +0100" stop="20251129182930 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Michl Laimer</sub-title>
-    <desc>Michl Laimer besuchte das Vinzentinum in Brixen und studierte anschließend Rechtswissenschaften an den Universitäten Innsbruck und Padua. Der Jurist trat in den Landesdienst ein und wurde 1993 erstmals in den Südtiroler Landtag gewählt, dem er vier Legislaturen lang angehörte. Als Landesrat für Umwelt und Raumordnung setzte er wichtige Akzente in der Landespolitik. Einer der schwierigsten Momente seiner Laufbahn war die Rückführung der Wasserkraft nach Südtirol - ein politisch brisantes Thema, das schließlich auch das Ende seiner politischen Karriere bedeutete. Heute widmet sich Michl Laimer gemeinsam mit seiner Frau und Familie einer neuen Aufgabe: Er führt den traditionsreichen Pacherhof in Neustift.</desc>
-  </programme>
-  <programme start="20251129182900 +0100" stop="20251129185830 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Der jährliche Kongress der Föderalistischen Union Europäischer Nationalitäten - kurz FUEN - wurde kürzlich in Bozen ausgetragen. Die unabhängige Dachvereinigung von Organisationen nationaler Minderheiten zählt über 100 Mitgliedsorganisationen aus knapp 40 Staaten. Seit vielen Jahren sind auch die Minderheiten aus Südtirol und den Ladinischen Tälern Teil der FUEN. Minet war beim Kongress dabei. In Rumänien werden Roma immer wieder Opfer von Zwangsräumungen. Sie müssen ihre Wohnungen verlassen und werden in Containeranlagen untergebracht. Die Lebensbedingungen dort sind prekär und eine temporäre Lösung wurde zu einer Dauerlösung. Minet hat die Roma Siedlung in Miercureia Ciuk (Szeklerburg) besucht.
-Eurac Research richtet in diesem Jahr zum ersten Mal das UN-Stipendienprogramm aus. Anfang November wurden zwanzig angehende Stipendiaten und Stipendiatinnen des Stipendienprogramms für Minderheiten der Vereinten Nationen für Menschenrechte (OHCHR) in Bozen begrüßt. In der Reihe "Tribal Voices" erzählt Adriano vom Volk der Karipuna in Brasilien, wie internationale Konzerne in ihr Gebiet vordringen und damit nicht nur sie, sondern auch die Existenz von unkontaktierten Völkern in Gefahr bringen.</desc>
-  </programme>
-  <programme start="20251129200000 +0100" stop="20251129202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251129202100 +0100" stop="20251129202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251129202500 +0100" stop="20251129205100 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen.entdecken.genießen</sub-title>
-    <desc>Otto Mattivis Leidenschaft für japanische Pflanzen, die Fachmesse Gustoso, die langjährige Gastwirtin Maria Vittur Crazzolara wird Pionierin des Jahres 2025. Moderation: Manuela Reiter. 
-
-Am Comer See erfüllt sich der Südtiroler Gastronom Otto Mattivi einen besonderen Traum: Der Betreiber des Restaurants Hidalgo in Burgstall, der auch ein gehobenes japanisches Lokal führt, möchte seine Küche künftig mit authentischen japanischen Pflanzen bereichern. In einer Gärtnerei am See entdeckt er die passenden Gewächse, um seinem Restaurant noch mehr Atmosphäre und kulturelle Tiefe zu verleihen. 
-Die Fachmesse "Gustoso" bringt Köchinnen, Gastronomen und Produzenten aus der Region zusammen. Ziel ist es, den Austausch zu fördern und die Qualität heimischer Produkte stärker in den Mittelpunkt zu rücken. Wie erfolgreich diese Idee umgesetzt wird, zeigt ein Blick in den Vinschgau: Durch die enge Kooperation zwischen Landwirtschaft und Gastronomie entstehen kurze Wege, frische Produkte und echte Partnerschaften.
-Eine besondere Auszeichnung erhielt in diesem Jahr Maria Vittur Crazzolara, Seniorchefin des Hotel Fanes in St. Kassian. Für ihr Lebenswerk wurde sie von der Vereinigung der Südtiroler Gastwirtinnen im HGV zur Pionierin des Jahres 2025 ernannt. Mit 92 Jahren blickt sie auf eine bewegte Geschichte zurück, erzählt von den Anfängen des Tourismus im Gadertal und was echte Gastfreundschaft für sie bedeutet.</desc>
-  </programme>
-  <programme start="20251129221000 +0100" stop="20251129223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251130200000 +0100" stop="20251130202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
