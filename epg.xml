@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251130200000 +0100" stop="20251130202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251130202000 +0100" stop="20251130203440 +0100" channel="Rai Südtirol">
-    <title>Südtirols Olympiahoffnungen 2026</title>
-    <sub-title>Chiara Minighini</sub-title>
-    <desc>Andere 18-jährige sind oft schon mit der Matura überfordert - doch das allein reicht noch lange nicht aus, um Chiara Minighini aus der Ruhe zu bringen. Denn während ihre Klassenkameraden noch in der Schule pauken, flitzt Chiara schon Pirouetten-schlagend über die Eisfläche der Meranarena, wo sie sich zurzeit darauf vorbereitet, ihren Traum Wirklichkeit werden zu lassen: eine Teilnahme bei den Olympischen Winterspielen 2026. Dieses Porträt begleitet die Bozner Eiskunstläuferin bei einem für sie ganz normalen Tag, der andere wohl schnell an ihre Grenzen bringen würde. </desc>
-  </programme>
-  <programme start="20251130203500 +0100" stop="20251130210457 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Südtirol will laut Klimaplan bis 2040 klimaneutral wirtschaften. Zwei positive Beispiele dafür. Die Bedeutung der Wildbienen. Der Anbau von Aromakräutern in höheren Lagen.  
-
-Prof. Florian Kiesel von der UNI Bozen erklärt, wie das Label für Nachhaltigkeit ausschauen kann, an dem die EU derzeit arbeitet. Zwei Südtiroler Unternehmen versuchen diesem Ziel näher zu kommen und bieten zukunftsfähige Lösungen für die Produktion von Betonfertigteilen und Heizenergie an. In einem Forschungsprojekt des Naturmuseums Südtirol wollen Biolog:innen die Bedeutung der Wildbienen in den Trockenrasen des Vinschgaus ergründen. Welche Heil- und Aromakräuter für den Anbau in höheren Lagen geeignet sind, wie sie fortlaufend gleichbleibende Qualitäten erbringen, diesen Fragen gehen Wissenschaftler:innen des Versuchszentrums Laimburg und der Stiftung Edmund Mach in San Michele nach.</desc>
-  </programme>
-  <programme start="20251130210500 +0100" stop="20251130210900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251130221000 +0100" stop="20251130223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251201180000 +0100" stop="20251201181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
