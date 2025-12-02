@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251201180000 +0100" stop="20251201181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 14. Spieltag in der Fußball-Oberliga empfängt der beste Sturm der Meisterschaft, der SV Tramin, den Tabellen-Vorletzten Partschins. In der Landesliga kommt es zum Duelle der Giganten: Der Tabellenzweite Naturns trifft auf Spitzenreiter Bruneck. Marling Tscherms hat hingegen Leifers zu Gast.</desc>
-  </programme>
-  <programme start="20251201181400 +0100" stop="20251201182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title/>
-    <desc>Das Elki Wipptal hat in den Vigil Raber Saal nach Sterzing geladen, um einen Nachmittag lang nach Herzenslust Spieleneuheiten und bekannte Spieleklassiker auszuprobieren. Der junge Schachmeister Quentin Haller aus Wiesen war auch mit dabei und hat die Köpfe vieler schachbegeisterter Kindern in einer Simultan Partie zum Rauchen gebracht.</desc>
-  </programme>
-  <programme start="20251201182900 +0100" stop="20251201185830 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>25 Jahre Leonardi-Ritt in Abtei - die Tradition der ladinischen Pferdezucht. Wie heimische Produkte den Weg in Südtirols Küchen finden. 10 Jahre Tierschutzverein Vinschgau. 
-Jedes Jahr im November feiert St. Leonhard in Abtei mit dem traditionellen Leonardi-Ritt den heiligen Leonhard, den Schutzpatron der Tiere und der Bauern. Das Fest verbindet Brauchtum und Kultur und zeigt eindrucksvoll die lange landwirtschaftliche und pferdezüchterische Tradition in den ladinischen Tälern. Land&amp;Leben war bei den Vorbereitungen und beim Festumzug dabei. Unter dem Motto "Zu Gast bei Pionieren" bringt die IDM gemeinsam mit Partnern aus Landwirtschaft und Gastronomie innovative Produzentinnen und Produzenten mit Südtiroler Köch:innen zusammen. Ziel der Initiative ist es, mehr heimische Produkte in die Küchen der Gastronomie und Hotellerie zu bringen. Der Tierschutzverein Vinschgau feiert in diesem Jahr sein 10-jähriges Bestehen. Seit einem Jahrzehnt engagieren sich Freiwillige unermüdlich für ausgesetzte und verletzte Kleintiere, doch die finanzielle Lage bereitet ihnen Sorge.</desc>
-  </programme>
-  <programme start="20251201200000 +0100" stop="20251201202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251201202000 +0100" stop="20251201202230 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 1</title>
-    <sub-title>Musikschule Überetsch/Mittleres Etschtal</sub-title>
-    <desc>Magdalena Aster, Anna Höller, Melanie Lintner, André Clement und Thomas Lamprecht mit "Zünd a Licht für di an" unter der Leitung von Barbara Höller.</desc>
-  </programme>
-  <programme start="20251201202300 +0100" stop="20251201211721 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20251201211700 +0100" stop="20251201215939 +0100" channel="Rai Südtirol">
-    <title>Ein Teil von uns selbst</title>
-    <sub-title>25 Jahre Südtiroler Ärzte für die Welt</sub-title>
-    <desc>Als der Verein gegründet wurde, hatten der Gemeindearzt Toni Pizzecco und seine Freunde und Mitarbeiterinnen vor allem medizinische Projekte im Auge. Bald wurde klar, dass medizinische Unterstützung nur mit dem Bau von Brunnen und Schulen möglich ist. Die Filmemacher Helmut Lechthaler und Astrid Kofler haben einige Mitglieder des Vereins nach Äthiopien begleitet, wo sich eines der Herzensprojekte der Südtiroler Ärzte für die Welt befindet. Anhand des Krankenhauses Attat wird aufgezeigt, wie Entwicklungszusammenarbeit heute funktioniert, was gegen die illegale Migration unternommen und wie Frauen-Empowerment unterstützt wird, wie all diese so verschieden klingenden Projekte sich gegenseitig bedingen. Schlussendlich ist alles ein Geben und Nehmen, jede Hilfe zur Selbsthilfe auch ein Geschenk an sich selbst: Es ist ein ständiges Lernen, eine Begegnung, es funktioniert über die Freundschaft. Anders geht es nicht, anders darf es nicht sein.</desc>
-  </programme>
-  <programme start="20251201221000 +0100" stop="20251201223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251202200000 +0100" stop="20251202202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
