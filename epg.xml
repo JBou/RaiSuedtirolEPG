@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251202200000 +0100" stop="20251202202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251202202000 +0100" stop="20251202203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251202203500 +0100" stop="20251202203751 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 2</title>
-    <sub-title>Musikschule Brixen</sub-title>
-    <desc>Die Gruppe "Eisacktaler Gitschn" (Sophie Letitia Egger am Hackbrett, Leonie Fuchs an der Zither und Harfenistin Muriel Dorfmann) spielt "Gaudete" unter der Betreuung von Margit Nagler und Katja Lechner.</desc>
-  </programme>
-  <programme start="20251202203700 +0100" stop="20251202205130 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 14. Spieltag in der Fußball-Oberliga empfängt der beste Sturm der Meisterschaft, der SV Tramin, den Tabellen-Vorletzten Partschins. In der Landesliga kommt es zum Duelle der Giganten: Der Tabellenzweite Naturns trifft auf Spitzenreiter Bruneck. Marling Tscherms hat hingegen Leifers zu Gast.</desc>
-  </programme>
-  <programme start="20251202221000 +0100" stop="20251202223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251203200000 +0100" stop="20251203202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
