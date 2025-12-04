@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251203200000 +0100" stop="20251203202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251203202000 +0100" stop="20251203202321 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 3</title>
-    <sub-title>Musikschule Unterland</sub-title>
-    <desc>Unter der Betreuung von Lorenz Mahlknecht und Ursula Torggler spielen Musiker:innen der Musikschule Unterland "Sonata La Posta" vom Komponisten Pavel Josef Vejvamnosky, arrangiert von Lorenz Mahlknecht. 
-
-(David Mair an der Orgel, Samuel Burger, Nathan Nair und Tobias Kerschbaumer am Euphonium, Philipp Kirchler am Bariton und Andreas Plattner am Tenorhorn.)</desc>
-  </programme>
-  <programme start="20251203202300 +0100" stop="20251203205230 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wettbewerb und Konkurrenzkampf, das sind treibenden Kräfte sowohl im Sport als auch in der Wirtschaft. 
-
-Vor dem großen Event Olympia 2026 steigt die Spannung im Antholzertal. Dort sind die Bürgerinnen und Bürger zwar seit Langem auf sportliche Großereignisse durch die internationalen Biathlonbewerbe geeicht, aber Olympia ist doch etwas anderes. Trend versucht, die Stimmung, die Erwartungen, die Hoffnungen und die Befürchtungen bei Wirtschaftstreibenden und Organisatoren vor Ort einzufangen. 
-Dann begleitet Trend drei erfolgreiche Trentiner Unternehmer über die Provinzgrenze in das Fleimstal. Die Unternehmer pendeln von ihren Wohnorten Bozen und Meran aus fast täglich an ihren Heimat- und Betriebsstandort im Trentino. Sie erzählen davon, wie verschieden und wie ähnlich sie die wirtschaftlichen Bedingungen für Unternehmen in den beiden Provinzen einschätzen. 
-"Capture the Flag", CTF, "Hol dir die Flagge", heißt es in einem anderen sportlichen Wettbewerb für junge Computer-Experten und solche, die es werden wollen. CTF-Hackathons sind Wettbewerbe in der Cybersecurity, bei denen Teilnehmer Sicherheitslücken finden und Flags entdecken, um Punkte zu sammeln. Solche Events dienen der Weiterbildung und dem Networking in der IT-Sicherheits-Community. Trend ist beim CTF-Hackathon Ende November im NOI Techpark dabei.</desc>
-  </programme>
-  <programme start="20251203221000 +0100" stop="20251203223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251204200000 +0100" stop="20251204202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
