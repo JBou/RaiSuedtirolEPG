@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251204200000 +0100" stop="20251204202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251204202000 +0100" stop="20251204202235 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 4</title>
-    <sub-title>Musikschulen Klausen und Ritten</sub-title>
-    <desc>Die Gruppe Saitenspielerei (Eleonora Heim an der Violine, Lia Mader an der Querflöte und Lara Mair an der Harfe) spielt "Englein flieg" vom Komponisten Herbert Pixner unter der Leitung von Sylvia Lanz, Ricarda Janissen und Angelika Lintner.</desc>
-  </programme>
-  <programme start="20251204202300 +0100" stop="20251204205230 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Handarbeiten</sub-title>
-    <desc>Stricken, nähen, töpfern oder reparieren - Handarbeit ist tatsächlich wieder in. Die verschiedenen Tätigkeiten bieten Entspannung und fördern die Kreativität.  Der Hype begann hauptsächlich während der Corona-Pandemie und hat sich seitdem gehalten, da immer mehr Menschen Wert auf Selbstgemachtes und individuelle Stücke legen. 
-
-Zu Gast ist Thomas Grüner, Ideator und Organisator von "Selbergmocht". In der Reihe "So isst Euregio" besuchen wir die Köchin Giulia Segna und in der Reihe "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Handwerk in Südtirol". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251204213000 +0100" stop="20251204215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Wochen gastiert der Weltcup der Alpinen in Südtirol: Gröden richtet einen SuperG und die traditionelle Abfahrt aus, auf der Gran Risa in Alta Badia finden hingegen ein Riesentorlauf und ein Slalom statt. Die Rennen zählen auch als Formtest für die Olympischen Winterspiele Mailand-Cortina 2026. Rund 40 Südtiroler Athletinnen und Athleten werden an den Spielen teilnehmen, gute Medaillenchancen rechnen sich besonders die Kunstbahnrodler, die Snowboarder und die Biathleten aus.</desc>
-  </programme>
-  <programme start="20251204221000 +0100" stop="20251204223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251205180000 +0100" stop="20251205182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Handarbeiten</sub-title>
