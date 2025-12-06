@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251205180000 +0100" stop="20251205182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Handarbeiten</sub-title>
-    <desc>Stricken, nähen, töpfern oder reparieren - Handarbeit ist tatsächlich wieder in. Die verschiedenen Tätigkeiten bieten Entspannung und fördern die Kreativität.  Der Hype begann hauptsächlich während der Corona-Pandemie und hat sich seitdem gehalten, da immer mehr Menschen Wert auf Selbstgemachtes und individuelle Stücke legen. Zu Gast ist Thomas Grüner, Ideator und Organisator von "Selbergmocht". In der Reihe "So isst Euregio" besuchen wir die Köchin Giulia Segna und in der Reihe "Wiedersehen" zeigen wir Ausschnitte aus der Doku "Handwerk in Südtirol". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20251205182900 +0100" stop="20251205185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In drei Wochen gastiert der Weltcup der Alpinen in Südtirol: Gröden richtet einen SuperG und die traditionelle Abfahrt aus, auf der Gran Risa in Alta Badia finden hingegen ein Riesentorlauf und ein Slalom statt. Die Rennen zählen auch als Formtest für die Olympischen Winterspiele Mailand-Cortina 2026. Rund 40 Südtiroler Athletinnen und Athleten werden an den Spielen teilnehmen, gute Medaillenchancen rechnen sich besonders die Kunstbahnrodler, die Snowboarder und die Biathleten aus.</desc>
-  </programme>
-  <programme start="20251205200000 +0100" stop="20251205202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251205202100 +0100" stop="20251205202254 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 5</title>
-    <sub-title>Musikschule Gröden</sub-title>
-    <desc>Die Geschwister Julian, Matteo und Valentina Perathoner geben den Hallelujah Jodler/Singen wir im Schein der Kerzen zum Besten unter der Leitung von Egon Lardschneider.</desc>
-  </programme>
-  <programme start="20251205202200 +0100" stop="20251205212139 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol lässt in dieser Ausgabe berieseln und erkunden, durch den eigenen Körper, aber auch durch Stimmungen von außen. Wenn Körperlichkeit sich selbst neu entdecken lässt und stimmungsvolle Orte auf die Weihnachtszeit einstimmen. 
-
-Auf einer gemütlichen Winterwanderung stimmt Theo Hendrich auf die bevorstehende Weihnachtszeit ein. Er wandert dieses Mal über die Sigmund-Freud-Promenade am Ritten und besucht dort die stimmungsvollen Weihnachtsmärkte von Klobenstein und Oberbozen. Dabei schaut er auch einigen Manufakturbetrieben über die Schulter, wie sie ihre Waren anfertigen, um diese dann am Weihnachtsmarkt anbieten zu können. Zudem genießt er die Fahrt übers Rittner Hochplateau, mit dem weihnachtlich geschmückten Christbahnl. Karin Duregger begegnet im Anschluss Menschen, die zeigen: Wer seinen Körper spürt, lernt sich selbst besser kennen. Unser Körper kann ein Schlüssel zur Heilung sein - ob durch die kunstvollen Seile des Bondage, das zum sicheren Raum der Selbsterkundung wird, durch Tanz, der Emotionen sichtbar macht oder durch sogenannte somatische Körper-Traumatherapie.</desc>
-  </programme>
-  <programme start="20251205212300 +0100" stop="20251205215300 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen.entdecken.genießen</sub-title>
-    <desc>Otto Mattivis Leidenschaft für japanische Pflanzen, die Fachmesse Gustoso, die langjährige Gastwirtin Maria Vittur Crazzolara wird Pionierin des Jahres 2025. Moderation: Manuela Reiter.
-
-Am Comer See erfüllt sich der Südtiroler Gastronom Otto Mattivi einen besonderen Traum: Der Betreiber des Restaurants Hidalgo in Burgstall, der auch ein gehobenes japanisches Lokal führt, möchte seine Küche künftig mit authentischen japanischen Pflanzen bereichern. In einer Gärtnerei am See entdeckt er die passenden Gewächse, um seinem Restaurant noch mehr Atmosphäre und kulturelle Tiefe zu verleihen. Die Fachmesse "Gustoso" bringt Köchinnen, Gastronomen und Produzenten aus der Region zusammen. Ziel ist es, den Austausch zu fördern und die Qualität heimischer Produkte stärker in den Mittelpunkt zu rücken. Wie erfolgreich diese Idee umgesetzt wird, zeigt ein Blick in den Vinschgau: Durch die enge Kooperation zwischen Landwirtschaft und Gastronomie entstehen kurze Wege, frische Produkte und echte Partnerschaften.  
-Eine besondere Auszeichnung erhielt in diesem Jahr Maria Vittur Crazzolara, Seniorchefin des Hotel Fanes in St. Kassian. Für ihr Lebenswerk wurde sie von der Vereinigung der Südtiroler Gastwirtinnen im HGV zur Pionierin des Jahres 2025 ernannt. Mit 92 Jahren blickt sie auf eine bewegte Geschichte zurück, erzählt von den Anfängen des Tourismus im Gadertal und was echte Gastfreundschaft für sie bedeutet.</desc>
-  </programme>
-  <programme start="20251205215300 +0100" stop="20251205215927 +0100" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Die Schriftstellerin Selma Mahlknecht</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251205221000 +0100" stop="20251205223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251206180000 +0100" stop="20251206185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -112,6 +67,243 @@ Moroder erzählt von seinen Anfängen in den 1960er-Jahren, von ersten Experimen
     <desc/>
   </programme>
   <programme start="20251207221000 +0100" stop="20251207223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251208180000 +0100" stop="20251208181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Letzter Spieltag der Hinrunde in der Fussball-Oberliga: Der SSV Brixen empfängt im Jugendhort Tramin. In der Landesliga trifft Terlan auf Gargazon, während Lana Gitschberg-Jochtal zu Gast hat.</desc>
+  </programme>
+  <programme start="20251208181400 +0100" stop="20251208182830 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>"Der kleine Regentropfen Neo"</sub-title>
+    <desc>Vor kurzem hat der bekannte Ö3-Wettermoderator Sigi Fink in Bozen sein erstes Kinderbuch vorgestellt: "Der kleine Regentropfen Neo".
+Darin geht es um Neo, ein winziges Sandkorn, das seine spannende Reise in der Sahara beginnt. Unterwegs verwandelt er sich in einen Regentropfen und platscht schließlich bei uns in den Karersee. ZIPP-Reporterin Olivia war bei der Buchpräsentation dabei und hat den sympathischen, in Wien lebenden Südtiroler zum Interview getroffen.</desc>
+  </programme>
+  <programme start="20251208182900 +0100" stop="20251208185830 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Südtirol will laut Klimaplan bis 2040 klimaneutral wirtschaften. Zwei positive Beispiele dafür. Die Bedeutung der Wildbienen. Der Anbau von Aromakräutern in höheren Lagen.  
+Prof. Florian Kiesel von der UNI Bozen erklärt, wie das Label für Nachhaltigkeit ausschauen kann, an dem die EU derzeit arbeitet. Zwei Südtiroler Unternehmen versuchen diesem Ziel näher zu kommen und bieten zukunftsfähige Lösungen für die Produktion von Betonfertigteilen und Heizenergie an. In einem Forschungsprojekt des Naturmuseums Südtirol wollen Biolog:innen die Bedeutung der Wildbienen in den Trockenrasen des Vinschgaus ergründen. Welche Heil- und Aromakräuter für den Anbau in höheren Lagen geeignet sind, wie sie fortlaufend gleichbleibende Qualitäten erbringen, diesen Fragen gehen Wissenschaftler:innen des Versuchszentrums Laimburg und der Stiftung Edmund Mach in San Michele nach.</desc>
+  </programme>
+  <programme start="20251208200000 +0100" stop="20251208202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251208202000 +0100" stop="20251208202258 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 8</title>
+    <sub-title>Musikschule Bruneck</sub-title>
+    <desc>Die "Trumpet tigers" (Josef Mair, Tobias Mitterhofer, Bendikt Hofer und Johannes Lercher) spielen das ladinische Volkslied "La sera sper il lag" von Gion B. Casanova, arrangiert von Robert Neumair.</desc>
+  </programme>
+  <programme start="20251208202300 +0100" stop="20251208212144 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Wir berichten unter anderem über das Ausstellungsprojekt "Durch das Prisma der Grenzen" von lungomare, das die vielschichtige Bedeutung von Grenzräumen untersucht, über die Aufbruchstimmung in der Südtiroler Kulturszene in den 1980er Jahren und welche Rolle Kunst und Kultur im Pflegebereich spielen können.  
+
+Wir berichten außerdem über die Show "In drei Tagen bist du Frustbuchtl. Oder: Sag ja zu Südtirol". In dem Stück stellen sich Christina Khuen und Margot Mayrhofer auf humorvolle und musikalisch beschwingte Weise dem Thema "Marke Südtirol", wer darf sich so nennen? Wann sind sie endlich Hiesige? Außerdem zeigen wir ein Portrait der Bühnenbildnerin und Kostümgestalterin Sara Burchia. Nach ihrem Studienabschluss an der Kunst-Universität Graz hat sie an verschiedensten Projekten der Südtiroler Städtetheater aber auch der Freilichtbühnen mitgewirkt. Im Moment arbeitet sie am Bühnenbild des VBB-Stückes "Maddalena madai". Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20251208212200 +0100" stop="20251208215948 +0100" channel="Rai Südtirol">
+    <title>Bäuerliche Kapellen</title>
+    <sub-title/>
+    <desc>Kapellen bei Höfen, in entlegenen Weilern und entlang von Wegen sind typisch für Südtirols Kulturlandschaft. Eine Dokumentation von Margot Schwienbacher und Günther Haller. Manche dieser Kapellen sind schlicht und liegen fast ein wenig versteckt. Andere sind ausgeschmückt und sehr persönlich gestaltet und stellen einen richtigen Blickfang in der Landschaft dar. Doch allen bäuerlichen Kapellen ist eines gemeinsam: Sie sind besondere Zeugnisse des Glaubens und der Volksreligiosität und erzählen viele interessante Geschichten.</desc>
+  </programme>
+  <programme start="20251208221000 +0100" stop="20251208223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251209200000 +0100" stop="20251209202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251209202000 +0100" stop="20251209203430 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251209203500 +0100" stop="20251209203731 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschulen Lana/Ulten/Nonsberg</sub-title>
+    <desc>Das Saxophonensemble SaxoFive der Musikschule Lana spielt "Winterwonderland" von Felix Bernhard unter der Leitung von Helga Plankensteiner.
+(Lorenz Alber, Kilian Portaro und Gabriel Angellotti am Altsax, Miriam Wellenzohn am Tenorsax, Mattia Callegari am Baritonsax, Michael Lösch am Piano).</desc>
+  </programme>
+  <programme start="20251209203700 +0100" stop="20251209205130 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Letzter Spieltag der Hinrunde in der Fussball-Oberliga: Der SSV Brixen empfängt im Jugendhort Tramin. In der Landesliga trifft Terlan auf Gargazon, während Lana Gitschberg-Jochtal zu Gast hat.</desc>
+  </programme>
+  <programme start="20251209221000 +0100" stop="20251209223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251210200000 +0100" stop="20251210202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251210202000 +0100" stop="20251210202206 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschule Ritten</sub-title>
+    <desc>Ein Tenorhornquartett der Musikschule Ritten (Alexandra Pflanzer, Manuel Rungger, Valentin Pupp, Benedikt Rungger) spielt die Rittner Weihnachtsweis von Andreas Kofler.</desc>
+  </programme>
+  <programme start="20251210202200 +0100" stop="20251210205130 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Skifahren, Biken, Wandern an Traumplätzen - Erlebnisse, die unvergesslich bleiben. Doch ein kurzer Moment der Unachtsamkeit reicht, und der Urlaub wird zum Albtraum. Während in Südtirol für  Einheimische ein Einsatzticket von 100 Euro genügt, kann ein Unfall im Ausland schnell zum finanziellen Risiko werden.  
+
+Der Winter ist da und mit ihm die ersten Schnupfen, Husten und Grippen. Wer stärker erwischt wird, muss sich krankschreiben lassen. Doch wie läuft das eigentlich ab?
+Der Weihnachtsbaum: festliches Symbol und Mittelpunkt der Adventszeit. Doch welcher Baum ist wirklich nachhaltig, der echte oder der künstliche? Pluspunkt geht der Sache nach. Alpitronic, das Hightech-Unternehmen aus Südtirol, das mit seinen hyperchargern die E-Mobilität in Europa prägt. Ein Blick hinter die Kulissen von Innovation made in Südtirol.</desc>
+  </programme>
+  <programme start="20251210221000 +0100" stop="20251210223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251211200000 +0100" stop="20251211202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251211202000 +0100" stop="20251211202255 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschule Gadertal</sub-title>
+    <desc>Clara Irsara an der Violine und Maximilian Mohr am Klavier spielen "Salut d'amour" von Edward Elgar unter der Leitung von Esther Crazzolara und Bruno Rives.</desc>
+  </programme>
+  <programme start="20251211202300 +0100" stop="20251211205230 +0100" channel="Rai Südtirol">
+    <title>Die Garantiegenossenschaft Confidi</title>
+    <sub-title>Vertrauen als Kapital</sub-title>
+    <desc>Zum 50-jährigen Jubiläum der Garantiegenossenschaft Confidi entsteht ein Dokumentarfilm, der zeigt, wie wichtig Vertrauen und Garantien für den Zugang zu Krediten und damit für die wirtschaftliche Entwicklung in Südtirol sind. 
+
+Im Zentrum stehen Betriebe aus unterschiedlichen Branchen - von Hightech-Unternehmen wie Microgate und Microtec über Green-Tech-Pionier Biologik Systems und das Sandgold Alpine Glamping bis hin zu Sozial- und Gesundheitsbetrieben wie der Genossenschaft Coccinella oder Apothekenprojekten in Südtirol und Trentino. Sie alle zeigen, wie Confidi als Brücke zwischen Banken und Unternehmen wirkt und Investitionen, Innovation und Wachstum ermöglicht.</desc>
+  </programme>
+  <programme start="20251211213000 +0100" stop="20251211215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In einer Woche gastiert der alpine Ski-Weltcup in Südtirol. Zuerst finden in Gröden ein Super-G und die Abfahrt statt, anschließend stehen in Alta Badia der Riesentorlauf und ein Slalom auf dem Programm. Der Marlene Cup macht hingegen auf der Lazaunpiste in Schnals Station.</desc>
+  </programme>
+  <programme start="20251211221000 +0100" stop="20251211223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251212180000 +0100" stop="20251212182930 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Stuls im Passeiertal</sub-title>
+    <desc>Hoch über dem hinteren Passeiertal liegt Stuls - ein sonniges Bergdorf auf rund 1.300 Metern, das zur Gemeinde Moos gehört. Wir zeigen, wie hier Tradition und Alltag ineinandergreifen. Gastwirtin Petra Widmann erzählt vom Leben zwischen Küche, Pension und Gasthaus, wo sich Einheimische und Gäste begegnen. 
+Auf dem Wegerhof führt Hannes Platter, ausgezeichnet als "Direktvermarkter des Jahres 2025", gemeinsam mit seiner Mutter eine kleine Hofkäserei. Mit viel Handarbeit entstehen dort Käse, Butter, Joghurt und Mozzarella. 
+Während Karl und Maria Pflug in einem jahrhundertealten Bauernhaus leben, Brot im eigenen Ofen backen und alte Bräuche pflegen. Und Stefan Pflug, Obmann der Schuhplattler Stuls, steht mit seiner Gruppe für Gemeinschaft und Tradition über Generationen hinweg.</desc>
+  </programme>
+  <programme start="20251212182900 +0100" stop="20251212185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>In einer Woche gastiert der alpine Ski-Weltcup in Südtirol. Zuerst finden in Gröden ein Super-G und die Abfahrt statt, anschließend stehen in Alta Badia der Riesentorlauf und ein Slalom auf dem Programm. Der Marlene Cup macht hingegen auf der Lazaunpiste in Schnals Station.</desc>
+  </programme>
+  <programme start="20251212200000 +0100" stop="20251212202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251212202100 +0100" stop="20251212202216 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschule Unterer Vinschgau</sub-title>
+    <desc>"Das tiefe Blockflötenensemble" - von der Alt- bis Bassflöte sind die Blockflöten hier vertreten - ein generationenübergreifendes Projekt der Musikschule Unterer Vinschgau spielt das Volkslied "Es wird schon glei dumpa" unter der Leitung von Sybille Pichler.
+Mitglieder: Lia Lanthaler Alt, Jana Zöschg Alt, Lina Kofler Alt, Thea Gurschler Alt, Kathrin Schweitzer Tenor, Evi Platzgummer Tenor, Klara Schrötter Tenor, Johanna Springeth 1. Bass, Linda Skibbe 1. Bass, Ulrike Pircher 1.  Bass, Doris Giovanelli 2. Bass, Nadine Theis 2. Bass, Stephan Rinner 2. Bass.</desc>
+  </programme>
+  <programme start="20251212202200 +0100" stop="20251212210440 +0100" channel="Rai Südtirol">
+    <title>Freiwillig für Südtirol</title>
+    <sub-title>Ein Ehrenamt schreibt Geschichte</sub-title>
+    <desc>Die Reportage bietet einen Einblick in eine der größten Freiwilligen-Organisationen Südtirols: das Weiße Kreuz.  
+
+Seit 1965 prägte es die Entwicklung unseres Südtiroler Gesundheitssystems, mit Hilfe des unermüdlichen Einsatzes unzähliger freiwilliger Mitarbeiter - doch warum nutzen Menschen ihre Freizeit, um anderen zu helfen? Dieser Frage geht Philipp Bologna auf den Grund und spricht mit Freiwilligen der ersten, der aktuellen und der nächsten Generation.</desc>
+  </programme>
+  <programme start="20251212210600 +0100" stop="20251212213646 +0100" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Sizilien</sub-title>
+    <desc>Arancini, Caponata, Cannoli - Sizilien ist ein kulinarisches Schlaraffenland. Eine kulturell-kulinarische Entdeckungsreise auf einer Insel, die auch in der kalten Jahreszeit fasziniert. Sizilien ist nicht Italien, und das stimmt auch. Wenn man die Mittelmeerinsel besucht, entdeckt man schnell, dass Sizilien von allem etwas mehr hat. Es ist lauter, hektischer, emotionaler, aber auch schöner, faszinierender und erlebnisreicher als der Rest von Italien. Und auch das Essen ist anders - Sizilien hat seine eigenen Gerichte, beeinflusst von der arabischen wie auch türkischen Küche.</desc>
+  </programme>
+  <programme start="20251212213700 +0100" stop="20251212215857 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Felix Tschurtschenthaler</sub-title>
+    <desc>Er ist Künstler und Bergführer. In seiner Kunst, die sich vorwiegend mit der alpinen Kultur beschäftigt, fließen diese beiden Leidenschaften ineinander. In einer Winterwanderung erzählt er Thomas Hainz mehr über sich und eine Sicht auf das Leben.</desc>
+  </programme>
+  <programme start="20251212221000 +0100" stop="20251212223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251213180000 +0100" stop="20251213185900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Wir berichten unter anderem über das Ausstellungsprojekt "Durch das Prisma der Grenzen" von lungomare, das die vielschichtige Bedeutung von Grenzräumen untersucht, über die Aufbruchstimmung in der Südtiroler Kulturszene in den 1980er Jahren und welche Rolle Kunst und Kultur im Pflegebereich spielen können.
+Wir berichten außerdem über die Show "In drei Tagen bist du Frustbuchtl. Oder: Sag ja zu Südtirol". In dem Stück stellen sich Christina Khuen und Margot Mayrhofer auf humorvolle und musikalisch beschwingte Weise dem Thema "Marke Südtirol", wer darf sich so nennen? Wann sind sie endlich Hiesige? Außerdem zeigen wir ein Portrait der Bühnenbildnerin und Kostümgestalterin Sara Burchia. Nach ihrem Studienabschluss an der Kunst-Universität Graz hat sie an verschiedensten Projekten der Südtiroler Städtetheater aber auch der Freilichtbühnen mitgewirkt. Im Moment arbeitet sie am Bühnenbild des VBB-Stückes "Maddalena madai". Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20251213200000 +0100" stop="20251213202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251213202100 +0100" stop="20251213202313 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschule Meran/Passeier</sub-title>
+    <desc>Das Marimbaduo "Quick Sticks" (Felix Müller und Gabriel Unterweger) spielt das Stück "Wohltemperierte Marimba" von Johann Sebastian Bach unter der Leitung von Hannes Reiterer.</desc>
+  </programme>
+  <programme start="20251213202300 +0100" stop="20251213202700 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251213202700 +0100" stop="20251213204430 +0100" channel="Rai Südtirol">
+    <title>35 Jahre Bäuerlicher Notstandsfonds</title>
+    <sub-title>Hilfe und Hoffnung nach schwerem Schicksalsschlag</sub-title>
+    <desc>Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. 
+
+Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben. Der Film soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen.</desc>
+  </programme>
+  <programme start="20251213204500 +0100" stop="20251213205305 +0100" channel="Rai Südtirol">
+    <title>Kunst und Landwirtschaft</title>
+    <sub-title>Gabriela Oberkofler am Taberhof in Flaas</sub-title>
+    <desc>Die Künstlerin pendelt zwischen Stuttgart und dem Taberhof in Flaas. Dort hat sie im Jahr 2022 das Institut für alternative Landwirtschaft, zeitgenössische Kunst und Leben in der Peripherie eingerichtet. In ihren Werken geht es um das komplexe Verhältnis zwischen Mensch, Pflanze und Tier.</desc>
+  </programme>
+  <programme start="20251213221000 +0100" stop="20251213223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251214200000 +0100" stop="20251214202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251214202000 +0100" stop="20251214202303 +0100" channel="Rai Südtirol">
+    <title>Adventstöne</title>
+    <sub-title>Musikschule Sterzing und Grundschule Rampold</sub-title>
+    <desc>In einem Kooperationsprojekt mit der Grundschule Dr. Josef Rampold in Sterzing spielen die "Cool kids" unter der Leitung von Waltraud Pörnbacher "Hallelujah" von Leonard Cohen.
+Cool Kids: Brunner Luis, Eller Manuela, Kupperlwieser Maria, Nawaz Afia Mariam, Rainer Nils, Rainer Samuel, Rella Dana, Rizzi Johanna, Schölzhorn Daniel, Siller Jonas, Tirler Alina, Volgger Matilde, Boudendouna Hala, Braunhofer Lukas, Caldi Patrick, Costa Mia, Curcelli Noemi, Lang Carolina, Lang Jakob, Mair Leo, Marginter Sarah, Masnovo Eleonora Marie, Nagele Paul, Parigger Maxim, Pichler Peter, Rainer Maximilian, Schwitzer Davian Thor, Spedicato Abigail, Bezhi Matthias, Obrist Damian, D'Arenzo Ester - in Zusammenarbeit mit Helena Bergmeister und Gerlinde Strickner.</desc>
+  </programme>
+  <programme start="20251214202300 +0100" stop="20251214203740 +0100" channel="Rai Südtirol">
+    <title>Südtirols Olympiahoffnungen 2026</title>
+    <sub-title>Yanick Gunsch</sub-title>
+    <desc>Auf den ersten Blick sieht Yanick Gunsch nach einem ganz gewöhnlichen jungen Mann aus, er arbeitet den Großteil des Jahres als Maurer auf dem Bau und hilft zudem tatkräftig auf dem familieneigenen Bauernhof. Doch Yanick hält lieber seine Skistöcke als seine Mistgabel in den Händen, denn er gehört zu Italiens größten Talenten im Skicross und bereitet sich gerade auf eine mögliche Teilnahme bei den Olympischen Winterspielen vor.</desc>
+  </programme>
+  <programme start="20251214203800 +0100" stop="20251214210739 +0100" channel="Rai Südtirol">
+    <title>Metropolen der Welt</title>
+    <sub-title>Zürich</sub-title>
+    <desc>Zürich ist weit mehr als Banken und Business. Wenn man sich genügend Zeit für die Schweizer
+Metropole nimmt, entdeckt man das wahre Gesicht und die wahre Geschichte der Stadt.
+Ein Mann, der aus Teilen einer Sojus-Rakete eine Uhr baut, steht ebenso im Fokus wie eine
+Frau, die mit einer einzigartigen Technik Fotografie und Malerei verbindet. Ein Öko-Pionier hat es sich zur Lebensaufgabe gemacht, an jedem freien Platz einen Baum zu pflanzen. Es Menschen mit Kultfaktor in einer faszinierenden wie facettenreichen Stadt.</desc>
+  </programme>
+  <programme start="20251214210700 +0100" stop="20251214211100 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251214221000 +0100" stop="20251214223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
