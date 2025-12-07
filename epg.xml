@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251206180000 +0100" stop="20251206185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol lässt in dieser Ausgabe berieseln und erkunden, durch den eigenen Körper, aber auch durch Stimmungen von außen. Wenn Körperlichkeit sich selbst neu entdecken lässt und stimmungsvolle Orte auf die Weihnachtszeit einstimmen. 
-
-Auf einer gemütlichen Winterwanderung stimmt Theo Hendrich auf die bevorstehende Weihnachtszeit ein. Er wandert dieses Mal über die Sigmund-Freud-Promenade am Ritten und besucht dort die stimmungsvollen Weihnachtsmärkte von Klobenstein und Oberbozen. Dabei schaut er auch einigen Manufakturbetrieben über die Schulter, wie sie ihre Waren anfertigen, um diese dann am Weihnachtsmarkt anbieten zu können. Zudem genießt er die Fahrt übers Rittner Hochplateau, mit dem weihnachtlich geschmückten Christbahnl. Karin Duregger begegnet im Anschluss Menschen, die zeigen: Wer seinen Körper spürt, lernt sich selbst besser kennen. Unser Körper kann ein Schlüssel zur Heilung sein - ob durch die kunstvollen Seile des Bondage, das zum sicheren Raum der Selbsterkundung wird, durch Tanz, der Emotionen sichtbar macht oder durch sogenannte somatische Körper-Traumatherapie.</desc>
-  </programme>
-  <programme start="20251206200000 +0100" stop="20251206202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251206202100 +0100" stop="20251206202413 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 6</title>
-    <sub-title>Musikschule Sterzing</sub-title>
-    <desc>Die Familienmusik Pichler spielt unter der Leitung von Johanna Mader den "Nikolaus Boarischen" von Peter Paul Hoffmann. 
-(Elisabeth und Maria Pichler, Violine - Michael Pichler, Gitarre - Peter und Johannes Pichler, Cello - Arthur Pichler, Akkordeon - Christine Marsoner, Blockflöte)</desc>
-  </programme>
-  <programme start="20251206202400 +0100" stop="20251206202800 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251206202800 +0100" stop="20251206205802 +0100" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Schokolade aus Leidenschaft</sub-title>
-    <desc>Kakao zählt zu den ältesten und auch wertvollsten Lebensmitteln auf unserem Erdball. Kakao wurde schon vor über 3000 Jahren kultiviert und von den indigenen Völkern auch als Heilpflanze geschätzt und geehrt. Erst Mitte des 19. Jahrhunderts wurde Kakao durch technische Innovationen zum Genussmittel und letztlich zur Schokolade wie wir sie kennen. Dank der Chocolatiers ihrer Fantasie und vor allem ihres Handwerks wurde Schokolade mit Pralinen und anderen Kreationen zur Kunst. Der Schmelz am Gaumen wurde zur wertvollen Währung und zum wichtigen Wirtschaftsfaktor weltweit. Die Dokumentation stellt die unterschiedlichsten Facetten von Schokolade und ihre Meister vor.</desc>
-  </programme>
-  <programme start="20251206221000 +0100" stop="20251206223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251207200000 +0100" stop="20251207202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
