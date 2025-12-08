@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251207200000 +0100" stop="20251207202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251207202000 +0100" stop="20251207202253 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 7</title>
-    <sub-title>Musikschule Oberer Vinschgau</sub-title>
-    <desc>Das eigens von Ernst Thoma für die Adventstöne komponierte Stück "Lasst uns alle fröhlich sein", arrangiert von Gernot Niederfrininger spielen Niklas Stecher und Lilly Tschenett an der Violine, Simeon Niederfrininger am Cello und Mara Peer an der Harfe.</desc>
-  </programme>
-  <programme start="20251207202300 +0100" stop="20251207203740 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Dominik Zuech</sub-title>
-    <desc>Dass Dominik Zuech eines Tages Profisportler würde ließ sich schon früh vermuten, denn von klein auf stand der heute 29-Jährige auf Skiern. Nach seiner ersten Karriere im Ski-Alpin entdeckte er das Skicross-Fahren für sich - und damit eine neue Leidenschaft.
-
-Egal ob auf oder abseits der Pisten, Dominik bleibt stehts in Bewegung, um sich auf seinen großen Traum vorzubereiten: eine Teilnahme bei den Olympischen Winterspielen 2026.</desc>
-  </programme>
-  <programme start="20251207203800 +0100" stop="20251207210730 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Giorgio Moroder</sub-title>
-    <desc>In der neuen Ausgabe von "Privat" trifft Markus Frings auf den legendären Musiker und Produzenten Giorgio Moroder - direkt in Los Angeles. Der Südtiroler Pionier der elektronischen Musik, der heuer seinen 85. Geburtstag gefeiert hat, blickt im Gespräch auf ein außergewöhnliches Leben zurück. 
-
-Moroder erzählt von seinen Anfängen in den 1960er-Jahren, von ersten Experimenten mit Synthesizern und davon, wie daraus Welthits für Donna Summer und zahlreiche weitere Stars entstanden. Mit sichtbarem Stolz spricht er über seine drei Oscars, mehrere Golden Globes und Grammy Awards, die er im Laufe seiner Karriere erhalten hat. Die Begegnung zeigt einen Künstler, der trotz weltweiten Erfolgs bodenständig und bescheiden geblieben ist.</desc>
-  </programme>
-  <programme start="20251207210700 +0100" stop="20251207211100 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251207221000 +0100" stop="20251207223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251208180000 +0100" stop="20251208181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
