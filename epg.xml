@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251208180000 +0100" stop="20251208181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Letzter Spieltag der Hinrunde in der Fussball-Oberliga: Der SSV Brixen empfängt im Jugendhort Tramin. In der Landesliga trifft Terlan auf Gargazon, während Lana Gitschberg-Jochtal zu Gast hat.</desc>
-  </programme>
-  <programme start="20251208181400 +0100" stop="20251208182830 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>"Der kleine Regentropfen Neo"</sub-title>
-    <desc>Vor kurzem hat der bekannte Ö3-Wettermoderator Sigi Fink in Bozen sein erstes Kinderbuch vorgestellt: "Der kleine Regentropfen Neo".
-Darin geht es um Neo, ein winziges Sandkorn, das seine spannende Reise in der Sahara beginnt. Unterwegs verwandelt er sich in einen Regentropfen und platscht schließlich bei uns in den Karersee. ZIPP-Reporterin Olivia war bei der Buchpräsentation dabei und hat den sympathischen, in Wien lebenden Südtiroler zum Interview getroffen.</desc>
-  </programme>
-  <programme start="20251208182900 +0100" stop="20251208185830 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Südtirol will laut Klimaplan bis 2040 klimaneutral wirtschaften. Zwei positive Beispiele dafür. Die Bedeutung der Wildbienen. Der Anbau von Aromakräutern in höheren Lagen.  
-Prof. Florian Kiesel von der UNI Bozen erklärt, wie das Label für Nachhaltigkeit ausschauen kann, an dem die EU derzeit arbeitet. Zwei Südtiroler Unternehmen versuchen diesem Ziel näher zu kommen und bieten zukunftsfähige Lösungen für die Produktion von Betonfertigteilen und Heizenergie an. In einem Forschungsprojekt des Naturmuseums Südtirol wollen Biolog:innen die Bedeutung der Wildbienen in den Trockenrasen des Vinschgaus ergründen. Welche Heil- und Aromakräuter für den Anbau in höheren Lagen geeignet sind, wie sie fortlaufend gleichbleibende Qualitäten erbringen, diesen Fragen gehen Wissenschaftler:innen des Versuchszentrums Laimburg und der Stiftung Edmund Mach in San Michele nach.</desc>
-  </programme>
-  <programme start="20251208200000 +0100" stop="20251208202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251208202000 +0100" stop="20251208202258 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 8</title>
-    <sub-title>Musikschule Bruneck</sub-title>
-    <desc>Die "Trumpet tigers" (Josef Mair, Tobias Mitterhofer, Bendikt Hofer und Johannes Lercher) spielen das ladinische Volkslied "La sera sper il lag" von Gion B. Casanova, arrangiert von Robert Neumair.</desc>
-  </programme>
-  <programme start="20251208202300 +0100" stop="20251208212144 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Wir berichten unter anderem über das Ausstellungsprojekt "Durch das Prisma der Grenzen" von lungomare, das die vielschichtige Bedeutung von Grenzräumen untersucht, über die Aufbruchstimmung in der Südtiroler Kulturszene in den 1980er Jahren und welche Rolle Kunst und Kultur im Pflegebereich spielen können.  
-
-Wir berichten außerdem über die Show "In drei Tagen bist du Frustbuchtl. Oder: Sag ja zu Südtirol". In dem Stück stellen sich Christina Khuen und Margot Mayrhofer auf humorvolle und musikalisch beschwingte Weise dem Thema "Marke Südtirol", wer darf sich so nennen? Wann sind sie endlich Hiesige? Außerdem zeigen wir ein Portrait der Bühnenbildnerin und Kostümgestalterin Sara Burchia. Nach ihrem Studienabschluss an der Kunst-Universität Graz hat sie an verschiedensten Projekten der Südtiroler Städtetheater aber auch der Freilichtbühnen mitgewirkt. Im Moment arbeitet sie am Bühnenbild des VBB-Stückes "Maddalena madai". Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20251208212200 +0100" stop="20251208215948 +0100" channel="Rai Südtirol">
-    <title>Bäuerliche Kapellen</title>
-    <sub-title/>
-    <desc>Kapellen bei Höfen, in entlegenen Weilern und entlang von Wegen sind typisch für Südtirols Kulturlandschaft. Eine Dokumentation von Margot Schwienbacher und Günther Haller. Manche dieser Kapellen sind schlicht und liegen fast ein wenig versteckt. Andere sind ausgeschmückt und sehr persönlich gestaltet und stellen einen richtigen Blickfang in der Landschaft dar. Doch allen bäuerlichen Kapellen ist eines gemeinsam: Sie sind besondere Zeugnisse des Glaubens und der Volksreligiosität und erzählen viele interessante Geschichten.</desc>
-  </programme>
-  <programme start="20251208221000 +0100" stop="20251208223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251209200000 +0100" stop="20251209202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
