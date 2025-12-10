@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251209200000 +0100" stop="20251209202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251209202000 +0100" stop="20251209203430 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251209203500 +0100" stop="20251209203731 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschulen Lana/Ulten/Nonsberg</sub-title>
-    <desc>Das Saxophonensemble SaxoFive der Musikschule Lana spielt "Winterwonderland" von Felix Bernhard unter der Leitung von Helga Plankensteiner.
-(Lorenz Alber, Kilian Portaro und Gabriel Angellotti am Altsax, Miriam Wellenzohn am Tenorsax, Mattia Callegari am Baritonsax, Michael Lösch am Piano).</desc>
-  </programme>
-  <programme start="20251209203700 +0100" stop="20251209205130 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Letzter Spieltag der Hinrunde in der Fussball-Oberliga: Der SSV Brixen empfängt im Jugendhort Tramin. In der Landesliga trifft Terlan auf Gargazon, während Lana Gitschberg-Jochtal zu Gast hat.</desc>
-  </programme>
-  <programme start="20251209221000 +0100" stop="20251209223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251210200000 +0100" stop="20251210202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
