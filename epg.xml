@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251210200000 +0100" stop="20251210202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251210202000 +0100" stop="20251210202206 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschule Ritten</sub-title>
-    <desc>Ein Tenorhornquartett der Musikschule Ritten (Alexandra Pflanzer, Manuel Rungger, Valentin Pupp, Benedikt Rungger) spielt die Rittner Weihnachtsweis von Andreas Kofler.</desc>
-  </programme>
-  <programme start="20251210202200 +0100" stop="20251210205130 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Skifahren, Biken, Wandern an Traumplätzen - Erlebnisse, die unvergesslich bleiben. Doch ein kurzer Moment der Unachtsamkeit reicht, und der Urlaub wird zum Albtraum. Während in Südtirol für  Einheimische ein Einsatzticket von 100 Euro genügt, kann ein Unfall im Ausland schnell zum finanziellen Risiko werden.  
-
-Der Winter ist da und mit ihm die ersten Schnupfen, Husten und Grippen. Wer stärker erwischt wird, muss sich krankschreiben lassen. Doch wie läuft das eigentlich ab?
-Der Weihnachtsbaum: festliches Symbol und Mittelpunkt der Adventszeit. Doch welcher Baum ist wirklich nachhaltig, der echte oder der künstliche? Pluspunkt geht der Sache nach. Alpitronic, das Hightech-Unternehmen aus Südtirol, das mit seinen hyperchargern die E-Mobilität in Europa prägt. Ein Blick hinter die Kulissen von Innovation made in Südtirol.</desc>
-  </programme>
-  <programme start="20251210221000 +0100" stop="20251210223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251211200000 +0100" stop="20251211202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
