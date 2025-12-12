@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251211200000 +0100" stop="20251211202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251211202000 +0100" stop="20251211202255 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschule Gadertal</sub-title>
-    <desc>Clara Irsara an der Violine und Maximilian Mohr am Klavier spielen "Salut d'amour" von Edward Elgar unter der Leitung von Esther Crazzolara und Bruno Rives.</desc>
-  </programme>
-  <programme start="20251211202300 +0100" stop="20251211205230 +0100" channel="Rai Südtirol">
-    <title>Die Garantiegenossenschaft Confidi</title>
-    <sub-title>Vertrauen als Kapital</sub-title>
-    <desc>Zum 50-jährigen Jubiläum der Garantiegenossenschaft Confidi entsteht ein Dokumentarfilm, der zeigt, wie wichtig Vertrauen und Garantien für den Zugang zu Krediten und damit für die wirtschaftliche Entwicklung in Südtirol sind. 
-
-Im Zentrum stehen Betriebe aus unterschiedlichen Branchen - von Hightech-Unternehmen wie Microgate und Microtec über Green-Tech-Pionier Biologik Systems und das Sandgold Alpine Glamping bis hin zu Sozial- und Gesundheitsbetrieben wie der Genossenschaft Coccinella oder Apothekenprojekten in Südtirol und Trentino. Sie alle zeigen, wie Confidi als Brücke zwischen Banken und Unternehmen wirkt und Investitionen, Innovation und Wachstum ermöglicht.</desc>
-  </programme>
-  <programme start="20251211213000 +0100" stop="20251211215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In einer Woche gastiert der alpine Ski-Weltcup in Südtirol. Zuerst finden in Gröden ein Super-G und die Abfahrt statt, anschließend stehen in Alta Badia der Riesentorlauf und ein Slalom auf dem Programm. Der Marlene Cup macht hingegen auf der Lazaunpiste in Schnals Station.</desc>
-  </programme>
-  <programme start="20251211221000 +0100" stop="20251211223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251212180000 +0100" stop="20251212182930 +0100" channel="Rai Südtirol">
     <title>Land und Leute</title>
     <sub-title>Stuls im Passeiertal</sub-title>
@@ -144,6 +117,223 @@ Frau, die mit einer einzigartigen Technik Fotografie und Malerei verbindet. Ein 
     <desc/>
   </programme>
   <programme start="20251214221000 +0100" stop="20251214223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251215180000 +0100" stop="20251215181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball ist das letzte Match vor der Winterpause traditionell das Endspiel um den Oberliga-Italienpokal. Heuer trifft im Drusus-Stadion Virtus Bozen auf Stadtrivalen Bozner FC, der Oberliga-Spitzenreiter spielt gegen den Tabellen-Zweiten. In der Serie D ist Obermais auswärts bei Conegliano zu Gast.</desc>
+  </programme>
+  <programme start="20251215181400 +0100" stop="20251215183500 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Tiroler Schlossadvent</sub-title>
+    <desc>Zipp-Reporterin Nadja fährt mit der Kutsche von Dorf Tirol zum Schloss Tirol. Dort besichtigt sie die Krippenausstellung. Sie schaut außerdem Korbflechtern über die Schulter und lässt sich dieses Handwerk genauer erklären.</desc>
+  </programme>
+  <programme start="20251215183500 +0100" stop="20251215185220 +0100" channel="Rai Südtirol">
+    <title>35 Jahre Bäuerlicher Notstandsfonds</title>
+    <sub-title>Hilfe und Hoffnung nach schwerem Schicksalsschlag</sub-title>
+    <desc>Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben. Der Film soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen.</desc>
+  </programme>
+  <programme start="20251215185200 +0100" stop="20251215185738 +0100" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title>Digitale Zukunft für alle</sub-title>
+    <desc>Die Digitalisierung verändert unser Leben - im Alltag, in der Verwaltung und im Gesundheitswesen. Sie bringt enorme Chancen, birgt aber auch Risiken: für den gesellschaftlichen Zusammenhalt, für das Vertrauen in staatliche Systeme und für die Frage, wie wir mit neuen Technologien umgehen. In Südtirol beschäftigen sich Forschende und Politik gleichermaßen mit diesen Herausforderungen - und mit der Frage, wie eine digitale Zukunft für alle gestaltet werden kann.</desc>
+  </programme>
+  <programme start="20251215200000 +0100" stop="20251215202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251215202000 +0100" stop="20251215202221 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 15</title>
+    <sub-title>Musikschule Brixen</sub-title>
+    <desc>Die Gruppe: NaMaNa&amp;Co, ein Kreativensemble der Musikschule Brixen in der Besetzung 3 Querflöten, Handpan, Harfe und Kontrabass spielt "Englein flieg" von Herbert Pixner unter der Leitung von Katja Lechner (Ensembleleitung), Martina Gasser (Ensembleleitung), Norbert Gianmoena und Roman Hinteregger. 
+
+Anna Haller, Johanna Pertinger und Emma Brignach an der Querflöte, Elia Berger am Handpan Miriam Schrott am Kontrabass und Carolin Fischnaller an der Harfe.</desc>
+  </programme>
+  <programme start="20251215202300 +0100" stop="20251215205300 +0100" channel="Rai Südtirol">
+    <title>Lex Gentile</title>
+    <sub-title>Die Schulreform von 1923 und ihre Folgen für Südtirol</sub-title>
+    <desc>Unterrichtsminister Giovanni Gentile erließ 1923 eine umfassende Schulreform, die bis in die 1960er Jahre galt. Die Reform zielte darauf ab, das italienische Bildungsniveau zu heben und zu zentralisieren.  
+
+So wurde im Jahre 1925 in den ersten Klassen der Volksschulen nur mehr Italienisch als Unterrichtssprache zugelassen. Sämtliche Minderheitensprachen wie Slowenisch, Kroatisch oder Deutsch wurden verboten. Was bedeutete dies für den Schulunterricht in Südtirol? Wie wirkte sich diese Reform auf das allgemeine Bildungsniveau der heranwachsenden Generation aus?  
+Die Dokumentation von Stefan Nicolini versucht diese Fragen zu beantworten und konzentriert sich zeitlich auf die 1920er Jahre. Dabei kommen Zeitzeugen zu Wort, die ihre persönlichen Erfahrungen schildern, aber auch Historiker:innen. Außerdem Prof. Annemarie Augschöll-Blasbichler von der Freien Universität Bozen, die seit Jahren diese Thematik erforscht. Reenactment-Szenen mit Mitgliedern der Volksbühne Vahrn schildern den schulischen Alltag in anschaulicher Art und Weise.</desc>
+  </programme>
+  <programme start="20251215205300 +0100" stop="20251215213957 +0100" channel="Rai Südtirol">
+    <title>Lernen, Leben, Kämpfen</title>
+    <sub-title>Geschichte des Studierens in Österreich</sub-title>
+    <desc>Zeitzeugen und Experten erzählen über den Alltag, die Revolten, die kreativen Triumphe von
+Studierenden in Österreich seit der Gründung der Ersten Republik vor 120 Jahren. Geschichte
+des Studierens in Österreich. Zu Beginn des 20. Jahrhunderts beginnt sich die Universität radikal zu verändern. Es ist eine Zeit großer, oft gewalttätiger Auseinandersetzungen und Kämpfe, die schließlich im Austrofaschismus und Nationalsozialismus in eine Periode studentischer Grabesruhe übergeht. Das Lebensgefühl von Studenten und Studentinnen wandelt sich in diesen 120 Jahren vollkommen. Sind am Anfang noch Corpsgeist, völkische, bündische und religiöse Zugehörigkeit prägend, wird die Universität ab den späten 1960er Jahren zum Raum der Freiheit, der Revolte, der Kunst, des sozialen und sexuellen Experiments. Die Dokumentation von Peter Beringer zieht Bilanz. Sie lässt Zeitzeugen und Experten zu Wort kommen, die über die Kämpfe, die Revolten, die kreativen Triumphe, die Exzesse und Irrwege des Lebens von Studenten und Studentinnen seit Gründung der Ersten Republik berichten. Der Film zeigt Archivmaterial sowie Kunst und Alltagskultur aus einem Jahrhundert Studentenleben.</desc>
+  </programme>
+  <programme start="20251215214000 +0100" stop="20251215215820 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Naturbahnrodler Kurt Brugger</sub-title>
+    <desc>Der ehemalige Olympiasieger im Doppelsitzer Kurt Brugger erzählt, wie er seine beiden Berufe als Rodeltrainer und Bergführer unter einen Hut bringt. Anschließend geht's auf die Natureisbahn im Schweizer St. Moritz, wo auch Vinschger beschäftigt sind.</desc>
+  </programme>
+  <programme start="20251215221000 +0100" stop="20251215223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251216200000 +0100" stop="20251216202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251216202000 +0100" stop="20251216203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251216203500 +0100" stop="20251216203756 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 16</title>
+    <sub-title>Musikschule Bozen</sub-title>
+    <desc>In memorian an den 2024 verstorbenen Musiker, Komponisten und Musiklehrer Stefan Geier spielt Gabriel Demetz das von Geier komponierte stück "Flair".</desc>
+  </programme>
+  <programme start="20251216203700 +0100" stop="20251216205130 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Amateurfußball ist das letzte Match vor der Winterpause traditionell das Endspiel um den Oberliga-Italienpokal. Heuer trifft im Drusus-Stadion Virtus Bozen auf Stadtrivalen Bozner FC, der Oberliga-Spitzenreiter spielt gegen den Tabellen-Zweiten. In der Serie D ist Obermais auswärts bei Conegliano zu Gast.</desc>
+  </programme>
+  <programme start="20251216221000 +0100" stop="20251216223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251217200000 +0100" stop="20251217202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251217202000 +0100" stop="20251217202234 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 17</title>
+    <sub-title>Musikschule Bruneck</sub-title>
+    <desc>Die Huzabichl Geignmusig spielt die Volksweise "Toblacher Jodler Nr 81" unter der Leitung von Erich Feichter.  
+
+Christa Gasser und Nahla Maria Hackhofer an der Violine, Simon Johannes Hellweger an der Steirischen, Lena Wolfsgruber an der Volksharfe und Angelika Gruber am Kontrabass.</desc>
+  </programme>
+  <programme start="20251217202300 +0100" stop="20251217205230 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Eine fast verstummte Sprache, das Griechisch-Kalabrische überlebt bis heute in einer Handvoll abgelegener Dörfer Kalabriens. Ihre Wurzeln reichen bis ins 8. Jahrhundert zurück und bilden eines der letzten lebenden Vermächtnisse der Magna Grecia.  
+
+Schätzungen zufolge sprechen heute nur noch rund 300 Menschen das Griechisch-Kalabrische. In den Dörfern Gallicianò, Bova, Bova Marina, Pentedattilo und Roghudi überlebt die Sprache seit fast 3000 Jahren. Diese Region ist jedoch, wie viele andere Gebiete Italiens auch, Opfer von Zwangsversetzungen, Landflucht und klimatischen Veränderungen. Zurück bleiben verfallene Häuser und verstummte Gassen. Die Sprache droht zu verschwinden.  
+Lydia Gasparini und Agostino Fuscaldo - auf den Spuren einer der ältesten lebenden Sprachen Europas und der Menschen, die sie hüten.</desc>
+  </programme>
+  <programme start="20251217221000 +0100" stop="20251217223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251218200000 +0100" stop="20251218202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251218202000 +0100" stop="20251218202221 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 18</title>
+    <sub-title>Musikschule Leifers/Regglberg</sub-title>
+    <desc>Ein Blockflötenensemble aus Deutschnofen spielt mit Alphornbegleitung "Is schon still uman See" von Günther Mittergradnegger unter der Leitung von Karl Stuppner. 
+
+Rosalie Brunner 1. Sopranflöte, Lia Prinoth 2. Sopranflöte, Amelie Pardeller 3. Sopranflöte, Heidi Wieser Altflöte, Greta Franzelin Bassflöte, Laurenz Gallmetzer Steirische Harmonika, Johannes Stuppner Alphorn.</desc>
+  </programme>
+  <programme start="20251218202200 +0100" stop="20251218213730 +0100" channel="Rai Südtirol">
+    <title>Weihnachten Nadé Natale</title>
+    <sub-title>Live aus Truden</sub-title>
+    <desc>Mit einem besonderen drelsprachigen Weihnachtsgruß aus einem der Landesteile wenden sich Rai Südtirol/Rai Alto Adige und Rai Ladinia seit nunmehr 12 Jahren an ihr Publikum und schicken Weihnachtswünsche aus dem Land ins Land. 
+Der Weihnachtsgruß 2025 kommt aus Truden im Nationalpark Trudner Horn und wird vom ganzen Dorf und seinen Vereinen, Persönlichkeiten und Bewohner:innen mitgetragen und mitgestaltet: Musik- und Jugendkapelle, Kirchen- und Männerchor, die Gruppe X'sungen, Hans Finatzer, die Bäuerinnen, die Plentkocher, Drechsler, KVW und viele engagierte Menschen mehr sind dabei und helfen mit, diesen Weihnachtsgruß zu einem besonderen TV-Erlebnis zu machen.</desc>
+  </programme>
+  <programme start="20251218221000 +0100" stop="20251218223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251219180000 +0100" stop="20251219182930 +0100" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Die Domenikanische Republik</sub-title>
+    <desc>Vom Rum über den Karneval bis hin zum Merengue - eine kulinarische und kulturelle Expedition durch die Dominikanische Republik, die Westhälfte der Insel Hispaniola mitten in der Karibik. Auf seinem Weg nach Amerika streifte Christoph Columbus auch die Dominikanische Republik. Im Mondschein erstrahlte eine Bucht im faszinierenden Silberschimmer. Der Name Puerto Plata - Silberner Hafen - war geboren. Sinnlich, temperamentvoll und natürlich auch schmackhaft präsentiert sich der Karibikstaat. Wir entdecken die unterschiedlichen Menschen und ihre Geschichten - und damit auch ihre Seelen.</desc>
+  </programme>
+  <programme start="20251219182900 +0100" stop="20251219185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Die Weltcup-Wintersaison ist in Südtirol mit gleich zwei Rennen gestartet: In Carezza fand der Parallel-Riesentorlauf der Snowboarder statt, die alpinen Skifahrer standen hingegen auf der Saslong in Gröden im Einsatz. Auch der IBU-Cup der Biathleten hat begonnen: Nach den Auftaktrennen in Obertilliach, fand in Ridnaun die zweite Etappe statt.</desc>
+  </programme>
+  <programme start="20251219200000 +0100" stop="20251219202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251219202000 +0100" stop="20251219202240 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 19</title>
+    <sub-title>Musikschule Taufers/Ahrntal</sub-title>
+    <desc>Die Gruppe "Gitschn und Büibm" aus dem Ahrntal singen "Wo san denn heit die Schafersbuam" im Töldra Dialekt unter der Leitung von Judith Feichter. 
+Julia Anna Stocker Violine/Gesang, Emma Kaiser Violine/Gesang, Johannes Josef Feichter Hackbrett/Gesang, Andreas Kirchler Tenorhorn/Gesang und Linda Winkler an der Harfe.</desc>
+  </programme>
+  <programme start="20251219202300 +0100" stop="20251219210533 +0100" channel="Rai Südtirol">
+    <title>Weihnachten im Kaiserhaus</title>
+    <sub-title/>
+    <desc>Weihnachten war immer schon das Fest der Familie - natürlich auch für die Habsburger. Franz Joseph und die Seinen versuchten, die Besinnlichkeit dieses Festes spürbar zu machen und auch nach außen hin den Anschein der glücklichen, intakten und tief katholischen Herrscherfamilie zu wahren.
+
+Vom Ablauf über den Speiseplan bis zu den Geschenken war alles minutiös vom Hofstaat vorbereitet. Die Dokumentation von Jasmin Baumgartner zeigt das Weihnachtsfest aus der Perspektive der kaiserlichen Familie und gibt damit einen einzigartigen Einblick in das Privatleben von Franz Joseph, Elisabeth, Rudolf und vielen anderen Mitgliedern.</desc>
+  </programme>
+  <programme start="20251219210500 +0100" stop="20251219215343 +0100" channel="Rai Südtirol">
+    <title>Über Österreich</title>
+    <sub-title>Der Norden</sub-title>
+    <desc>Der Teil "Der Norden" zeigt das östliche/ nördliche Salzburg, das ganze Salzkammergut, das südliche Oberösterreich und die nordwestliche Steiermark.
+Wir zeigen diese gesegnete, vielfältige, prachtvolle Landschaft des gesamten Salzkammerguts: Hallstatt und Hallstätter See, den Atter-, Traun- und Mondsee, all die kleinen Seen wie Grundlsee, Toplitzsee, den Schafberg, all die Burgen von der Festung Hohensalzburg bis Hohenwerfen, weiters den Übergang vom Flachland in die Alpen, den Traunstein, das Tote Gebirge, den herausragenden Dachstein bis zum Ennstal.</desc>
+  </programme>
+  <programme start="20251219215400 +0100" stop="20251219215915 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Der Bergführer und Künstler Felix Tschurtschenthaler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251219221000 +0100" stop="20251219223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251220180000 +0100" stop="20251220182930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Wettbewerb und Konkurrenzkampf, das sind treibenden Kräfte sowohl im Sport als auch in der Wirtschaft. Vor dem großen Event Olympia 2026 steigt die Spannung im Antholzertal. Dort sind die Bürgerinnen und Bürger zwar seit Langem auf sportliche Großereignisse durch die internationalen Biathlonbewerbe geeicht, aber Olympia ist doch etwas anderes. Trend versucht, die Stimmung, die Erwartungen, die Hoffnungen und die Befürchtungen bei Wirtschaftstreibenden und Organisatoren vor Ort einzufangen. Dann begleitet Trend drei erfolgreiche Trentiner Unternehmer über die Provinzgrenze in das Fleimstal. Die Unternehmer pendeln von ihren Wohnorten Bozen und Meran aus fast täglich an ihren Heimat- und Betriebsstandort im Trentino. Sie erzählen davon, wie verschieden und wie ähnlich sie die wirtschaftlichen Bedingungen für Unternehmen in den beiden Provinzen einschätzen. "Capture the Flag", CTF, "Hol dir die Flagge", heißt es in einem anderen sportlichen Wettbewerb für junge Computer-Experten und solche, die es werden wollen. CTF-Hackathons sind Wettbewerbe in der Cybersecurity, bei denen Teilnehmer Sicherheitslücken finden und Flags entdecken, um Punkte zu sammeln. Solche Events dienen der Weiterbildung und dem Networking in der IT-Sicherheits-Community. Trend ist beim CTF-Hackathon Ende November im NOI Techpark dabei.</desc>
+  </programme>
+  <programme start="20251220182900 +0100" stop="20251220185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Skifahren, Biken, Wandern an Traumplätzen - Erlebnisse, die unvergesslich bleiben. Doch ein kurzer Moment der Unachtsamkeit reicht, und der Urlaub wird zum Albtraum. 
+Während in Südtirol für Einheimische ein Einsatzticket von 100 Euro genügt, kann ein Unfall im Ausland schnell zum finanziellen Risiko werden. Der Winter ist da und mit ihm die ersten Schnupfen, Husten und Grippen. Wer stärker erwischt wird, muss sich krankschreiben lassen. Doch wie läuft das eigentlich ab?
+Der Weihnachtsbaum: festliches Symbol und Mittelpunkt der Adventszeit. Doch welcher Baum ist wirklich nachhaltig, der echte oder der künstliche? Pluspunkt geht der Sache nach. 
+Alpitronic, das Hightech-Unternehmen aus Südtirol, das mit seinen hyperchargern die E-Mobilität in Europa prägt. Ein Blick hinter die Kulissen von Innovation made in Südtirol.</desc>
+  </programme>
+  <programme start="20251220200000 +0100" stop="20251220202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251220202100 +0100" stop="20251220202345 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 20</title>
+    <sub-title>Musikschule Gadertal</sub-title>
+    <desc>Ein Holzbläserquintett der Musikschule Gadertal spielt "Let it snow" von Sammy Cahn unter der Leitung von Barbara Costabiei, Barbara Kostner, Laura Lezuo, Melanie Rigo und Gerhard Mohr. 
+Noemi Costa an der Flöte, Estelle Piccolruaz an der Oboe, Karolin Zingerle an der Klarinette, Michael Mohr am Horn und Laura Miribung am Fagott.</desc>
+  </programme>
+  <programme start="20251220202300 +0100" stop="20251220202700 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251220202800 +0100" stop="20251220205300 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Das Gespannfahren mit Kutsche und Wagen. Südtirols einziger Gnadenhof am Haidersee, wo Tiere in Not eine gute Bleibe finden. Außerdem geht es um Vierbeiner, die ein neues Zuhause suchen. 
+
+Der Fahrsport, das Fahren mit Kutschen und Wagen ist ein Pferdesport, der auch in Südtirol unterrichtet wird. Wir haben uns beim Reitlehrer, Trainer und ehemaligen Turnierfahrer Hannes Weitlaner angesehen, worauf es beim Gespannfahren ankommt.  
+Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer Kommunikation und Respekt geprägt und geht über die bloße Nutzung des Pferdes als Zugtier weit hinaus. 
+Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20251220221000 +0100" stop="20251220223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
