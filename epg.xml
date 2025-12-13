@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251212180000 +0100" stop="20251212182930 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Stuls im Passeiertal</sub-title>
-    <desc>Hoch über dem hinteren Passeiertal liegt Stuls - ein sonniges Bergdorf auf rund 1.300 Metern, das zur Gemeinde Moos gehört. Wir zeigen, wie hier Tradition und Alltag ineinandergreifen. Gastwirtin Petra Widmann erzählt vom Leben zwischen Küche, Pension und Gasthaus, wo sich Einheimische und Gäste begegnen. 
-Auf dem Wegerhof führt Hannes Platter, ausgezeichnet als "Direktvermarkter des Jahres 2025", gemeinsam mit seiner Mutter eine kleine Hofkäserei. Mit viel Handarbeit entstehen dort Käse, Butter, Joghurt und Mozzarella. 
-Während Karl und Maria Pflug in einem jahrhundertealten Bauernhaus leben, Brot im eigenen Ofen backen und alte Bräuche pflegen. Und Stefan Pflug, Obmann der Schuhplattler Stuls, steht mit seiner Gruppe für Gemeinschaft und Tradition über Generationen hinweg.</desc>
-  </programme>
-  <programme start="20251212182900 +0100" stop="20251212185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>In einer Woche gastiert der alpine Ski-Weltcup in Südtirol. Zuerst finden in Gröden ein Super-G und die Abfahrt statt, anschließend stehen in Alta Badia der Riesentorlauf und ein Slalom auf dem Programm. Der Marlene Cup macht hingegen auf der Lazaunpiste in Schnals Station.</desc>
-  </programme>
-  <programme start="20251212200000 +0100" stop="20251212202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251212202100 +0100" stop="20251212202216 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschule Unterer Vinschgau</sub-title>
-    <desc>"Das tiefe Blockflötenensemble" - von der Alt- bis Bassflöte sind die Blockflöten hier vertreten - ein generationenübergreifendes Projekt der Musikschule Unterer Vinschgau spielt das Volkslied "Es wird schon glei dumpa" unter der Leitung von Sybille Pichler.
-Mitglieder: Lia Lanthaler Alt, Jana Zöschg Alt, Lina Kofler Alt, Thea Gurschler Alt, Kathrin Schweitzer Tenor, Evi Platzgummer Tenor, Klara Schrötter Tenor, Johanna Springeth 1. Bass, Linda Skibbe 1. Bass, Ulrike Pircher 1.  Bass, Doris Giovanelli 2. Bass, Nadine Theis 2. Bass, Stephan Rinner 2. Bass.</desc>
-  </programme>
-  <programme start="20251212202200 +0100" stop="20251212210440 +0100" channel="Rai Südtirol">
-    <title>Freiwillig für Südtirol</title>
-    <sub-title>Ein Ehrenamt schreibt Geschichte</sub-title>
-    <desc>Die Reportage bietet einen Einblick in eine der größten Freiwilligen-Organisationen Südtirols: das Weiße Kreuz.  
-
-Seit 1965 prägte es die Entwicklung unseres Südtiroler Gesundheitssystems, mit Hilfe des unermüdlichen Einsatzes unzähliger freiwilliger Mitarbeiter - doch warum nutzen Menschen ihre Freizeit, um anderen zu helfen? Dieser Frage geht Philipp Bologna auf den Grund und spricht mit Freiwilligen der ersten, der aktuellen und der nächsten Generation.</desc>
-  </programme>
-  <programme start="20251212210600 +0100" stop="20251212213646 +0100" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Sizilien</sub-title>
-    <desc>Arancini, Caponata, Cannoli - Sizilien ist ein kulinarisches Schlaraffenland. Eine kulturell-kulinarische Entdeckungsreise auf einer Insel, die auch in der kalten Jahreszeit fasziniert. Sizilien ist nicht Italien, und das stimmt auch. Wenn man die Mittelmeerinsel besucht, entdeckt man schnell, dass Sizilien von allem etwas mehr hat. Es ist lauter, hektischer, emotionaler, aber auch schöner, faszinierender und erlebnisreicher als der Rest von Italien. Und auch das Essen ist anders - Sizilien hat seine eigenen Gerichte, beeinflusst von der arabischen wie auch türkischen Küche.</desc>
-  </programme>
-  <programme start="20251212213700 +0100" stop="20251212215857 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Felix Tschurtschenthaler</sub-title>
-    <desc>Er ist Künstler und Bergführer. In seiner Kunst, die sich vorwiegend mit der alpinen Kultur beschäftigt, fließen diese beiden Leidenschaften ineinander. In einer Winterwanderung erzählt er Thomas Hainz mehr über sich und eine Sicht auf das Leben.</desc>
-  </programme>
-  <programme start="20251212221000 +0100" stop="20251212223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251213180000 +0100" stop="20251213185900 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -334,6 +289,41 @@ Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer 
 Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
   </programme>
   <programme start="20251220221000 +0100" stop="20251220223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251221200000 +0100" stop="20251221202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251221202000 +0100" stop="20251221202254 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 21</title>
+    <sub-title>Musikschule Bozen und Brixen</sub-title>
+    <desc>Ein musikschulübergreifendes Ensemble spielt "war is over" von John Lennon unter der Leitung von Evi Mair, Walter Unterhauser und Philipp Höller. 
+
+Verena Raich, Manuela Blaas und Annalena Hofer: Gesang, Philipp Hofmann und Lukas Brugger an der Gitarre, Samuel Furgler Percussion.</desc>
+  </programme>
+  <programme start="20251221202300 +0100" stop="20251221203740 +0100" channel="Rai Südtirol">
+    <title>Südtirols Olympiahoffnungen 2026</title>
+    <sub-title>Felix Ratschiller</sub-title>
+    <desc>Felix Ratschiller gilt als eines der aufstrebenden Talente des Südtiroler Biathlons.  
+Sein Lebensmittelpunkt liegt im Martelltal, wo er im nahegelegenen Biathlon Center täglich an seiner Lauftechnik und seiner Schießpräzision feilt. Denn der Weg ist klar: Felix arbeitet zielstrebig auf eine mögliche Teilnahme an den Olympischen Winterspielen 2026 hin - und stellt dafür sein Leben ganz in den Dienst des Sports.</desc>
+  </programme>
+  <programme start="20251221203800 +0100" stop="20251221210230 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Vals</sub-title>
+    <desc>Vals ist ein Ort, in dem Tradition, Gastfreundschaft und Bergleben eng miteinander verwoben sind. Wir besuchen das Dorfgasthaus, die Fanealm und eine betagte Valserin, die auf 101 Jahre zurückblickt. 
+
+Hotelier Franz Stolz führt durch Kirche und Familiengeschichte, erzählt vom frühen Einspringen in den Familienbetrieb und davon, wie das Hotel im Herzen des Dorfes gewachsen ist und dennoch bis heute ein offenes Dorfgasthaus geblieben ist. Ein weiterer Schwerpunkt führt auf die Fanealm, wo Andreas Zingerle und die Alm-Interessentschaft das historische Almleben und die Sommerwirtschaft bewahren - ergänzt durch Einblicke in die Arbeit des jungen Hüttenwirts Daniel. Danach stellt Simon Stolz ein traditionelles Valser Gericht seiner Großmutter vor, bevor Martina vom Leben in einer touristischen, aber bodenständig gebliebenen Dorfgemeinschaft erzählt. Zum Abschluss blickt Mathilde Fischnaller, die älteste Bewohnerin von Vals, auf 101 Jahre Lebensgeschichte zurück.</desc>
+  </programme>
+  <programme start="20251221210200 +0100" stop="20251221210600 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251221221000 +0100" stop="20251221223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
