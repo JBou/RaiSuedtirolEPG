@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251213180000 +0100" stop="20251213185900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Wir berichten unter anderem über das Ausstellungsprojekt "Durch das Prisma der Grenzen" von lungomare, das die vielschichtige Bedeutung von Grenzräumen untersucht, über die Aufbruchstimmung in der Südtiroler Kulturszene in den 1980er Jahren und welche Rolle Kunst und Kultur im Pflegebereich spielen können.
-Wir berichten außerdem über die Show "In drei Tagen bist du Frustbuchtl. Oder: Sag ja zu Südtirol". In dem Stück stellen sich Christina Khuen und Margot Mayrhofer auf humorvolle und musikalisch beschwingte Weise dem Thema "Marke Südtirol", wer darf sich so nennen? Wann sind sie endlich Hiesige? Außerdem zeigen wir ein Portrait der Bühnenbildnerin und Kostümgestalterin Sara Burchia. Nach ihrem Studienabschluss an der Kunst-Universität Graz hat sie an verschiedensten Projekten der Südtiroler Städtetheater aber auch der Freilichtbühnen mitgewirkt. Im Moment arbeitet sie am Bühnenbild des VBB-Stückes "Maddalena madai". Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20251213200000 +0100" stop="20251213202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251213202100 +0100" stop="20251213202313 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschule Meran/Passeier</sub-title>
-    <desc>Das Marimbaduo "Quick Sticks" (Felix Müller und Gabriel Unterweger) spielt das Stück "Wohltemperierte Marimba" von Johann Sebastian Bach unter der Leitung von Hannes Reiterer.</desc>
-  </programme>
-  <programme start="20251213202300 +0100" stop="20251213202700 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251213202700 +0100" stop="20251213204430 +0100" channel="Rai Südtirol">
-    <title>35 Jahre Bäuerlicher Notstandsfonds</title>
-    <sub-title>Hilfe und Hoffnung nach schwerem Schicksalsschlag</sub-title>
-    <desc>Zum 35-jährigen Bestehen des "Bäuerlichen Notstandsfonds - Menschen helfen" ist ein bewegender Film erschienen. 
-
-Der Film zeigt anhand von fünf beeindruckenden Beispielen, wie Menschen in unterschiedlichen Notlagen durch den Bäuerlichen Notstandsfonds wertvolle Hilfe erfahren haben. Der Film soll aber auch Menschen in vergleichbaren Situationen Mut machen, Hilfe anzufragen, diese anzunehmen und weiterzumachen.</desc>
-  </programme>
-  <programme start="20251213204500 +0100" stop="20251213205305 +0100" channel="Rai Südtirol">
-    <title>Kunst und Landwirtschaft</title>
-    <sub-title>Gabriela Oberkofler am Taberhof in Flaas</sub-title>
-    <desc>Die Künstlerin pendelt zwischen Stuttgart und dem Taberhof in Flaas. Dort hat sie im Jahr 2022 das Institut für alternative Landwirtschaft, zeitgenössische Kunst und Leben in der Peripherie eingerichtet. In ihren Werken geht es um das komplexe Verhältnis zwischen Mensch, Pflanze und Tier.</desc>
-  </programme>
-  <programme start="20251213221000 +0100" stop="20251213223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251214200000 +0100" stop="20251214202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
