@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251214200000 +0100" stop="20251214202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251214202000 +0100" stop="20251214202303 +0100" channel="Rai Südtirol">
-    <title>Adventstöne</title>
-    <sub-title>Musikschule Sterzing und Grundschule Rampold</sub-title>
-    <desc>In einem Kooperationsprojekt mit der Grundschule Dr. Josef Rampold in Sterzing spielen die "Cool kids" unter der Leitung von Waltraud Pörnbacher "Hallelujah" von Leonard Cohen.
-Cool Kids: Brunner Luis, Eller Manuela, Kupperlwieser Maria, Nawaz Afia Mariam, Rainer Nils, Rainer Samuel, Rella Dana, Rizzi Johanna, Schölzhorn Daniel, Siller Jonas, Tirler Alina, Volgger Matilde, Boudendouna Hala, Braunhofer Lukas, Caldi Patrick, Costa Mia, Curcelli Noemi, Lang Carolina, Lang Jakob, Mair Leo, Marginter Sarah, Masnovo Eleonora Marie, Nagele Paul, Parigger Maxim, Pichler Peter, Rainer Maximilian, Schwitzer Davian Thor, Spedicato Abigail, Bezhi Matthias, Obrist Damian, D'Arenzo Ester - in Zusammenarbeit mit Helena Bergmeister und Gerlinde Strickner.</desc>
-  </programme>
-  <programme start="20251214202300 +0100" stop="20251214203740 +0100" channel="Rai Südtirol">
-    <title>Südtirols Olympiahoffnungen 2026</title>
-    <sub-title>Yanick Gunsch</sub-title>
-    <desc>Auf den ersten Blick sieht Yanick Gunsch nach einem ganz gewöhnlichen jungen Mann aus, er arbeitet den Großteil des Jahres als Maurer auf dem Bau und hilft zudem tatkräftig auf dem familieneigenen Bauernhof. Doch Yanick hält lieber seine Skistöcke als seine Mistgabel in den Händen, denn er gehört zu Italiens größten Talenten im Skicross und bereitet sich gerade auf eine mögliche Teilnahme bei den Olympischen Winterspielen vor.</desc>
-  </programme>
-  <programme start="20251214203800 +0100" stop="20251214210739 +0100" channel="Rai Südtirol">
-    <title>Metropolen der Welt</title>
-    <sub-title>Zürich</sub-title>
-    <desc>Zürich ist weit mehr als Banken und Business. Wenn man sich genügend Zeit für die Schweizer
-Metropole nimmt, entdeckt man das wahre Gesicht und die wahre Geschichte der Stadt.
-Ein Mann, der aus Teilen einer Sojus-Rakete eine Uhr baut, steht ebenso im Fokus wie eine
-Frau, die mit einer einzigartigen Technik Fotografie und Malerei verbindet. Ein Öko-Pionier hat es sich zur Lebensaufgabe gemacht, an jedem freien Platz einen Baum zu pflanzen. Es Menschen mit Kultfaktor in einer faszinierenden wie facettenreichen Stadt.</desc>
-  </programme>
-  <programme start="20251214210700 +0100" stop="20251214211100 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251214221000 +0100" stop="20251214223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251215180000 +0100" stop="20251215181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
