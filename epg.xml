@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251216200000 +0100" stop="20251216202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251216202000 +0100" stop="20251216203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251216203500 +0100" stop="20251216203756 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 16</title>
-    <sub-title>Musikschule Bozen</sub-title>
-    <desc>In memorian an den 2024 verstorbenen Musiker, Komponisten und Musiklehrer Stefan Geier spielt Gabriel Demetz das von Geier komponierte stück "Flair".</desc>
-  </programme>
-  <programme start="20251216203700 +0100" stop="20251216205130 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Im Amateurfußball ist das letzte Match vor der Winterpause traditionell das Endspiel um den Oberliga-Italienpokal. Heuer trifft im Drusus-Stadion Virtus Bozen auf Stadtrivalen Bozner FC, der Oberliga-Spitzenreiter spielt gegen den Tabellen-Zweiten. In der Serie D ist Obermais auswärts bei Conegliano zu Gast.</desc>
-  </programme>
-  <programme start="20251216221000 +0100" stop="20251216223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251217200000 +0100" stop="20251217202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
