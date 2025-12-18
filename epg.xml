@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251217200000 +0100" stop="20251217202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251217202000 +0100" stop="20251217202234 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 17</title>
-    <sub-title>Musikschule Bruneck</sub-title>
-    <desc>Die Huzabichl Geignmusig spielt die Volksweise "Toblacher Jodler Nr 81" unter der Leitung von Erich Feichter.  
-
-Christa Gasser und Nahla Maria Hackhofer an der Violine, Simon Johannes Hellweger an der Steirischen, Lena Wolfsgruber an der Volksharfe und Angelika Gruber am Kontrabass.</desc>
-  </programme>
-  <programme start="20251217202300 +0100" stop="20251217205230 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Eine fast verstummte Sprache, das Griechisch-Kalabrische überlebt bis heute in einer Handvoll abgelegener Dörfer Kalabriens. Ihre Wurzeln reichen bis ins 8. Jahrhundert zurück und bilden eines der letzten lebenden Vermächtnisse der Magna Grecia.  
-
-Schätzungen zufolge sprechen heute nur noch rund 300 Menschen das Griechisch-Kalabrische. In den Dörfern Gallicianò, Bova, Bova Marina, Pentedattilo und Roghudi überlebt die Sprache seit fast 3000 Jahren. Diese Region ist jedoch, wie viele andere Gebiete Italiens auch, Opfer von Zwangsversetzungen, Landflucht und klimatischen Veränderungen. Zurück bleiben verfallene Häuser und verstummte Gassen. Die Sprache droht zu verschwinden.  
-Lydia Gasparini und Agostino Fuscaldo - auf den Spuren einer der ältesten lebenden Sprachen Europas und der Menschen, die sie hüten.</desc>
-  </programme>
-  <programme start="20251217221000 +0100" stop="20251217223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251218200000 +0100" stop="20251218202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
