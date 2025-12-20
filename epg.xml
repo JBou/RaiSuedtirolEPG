@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251219180000 +0100" stop="20251219182930 +0100" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Die Domenikanische Republik</sub-title>
-    <desc>Vom Rum über den Karneval bis hin zum Merengue - eine kulinarische und kulturelle Expedition durch die Dominikanische Republik, die Westhälfte der Insel Hispaniola mitten in der Karibik. Auf seinem Weg nach Amerika streifte Christoph Columbus auch die Dominikanische Republik. Im Mondschein erstrahlte eine Bucht im faszinierenden Silberschimmer. Der Name Puerto Plata - Silberner Hafen - war geboren. Sinnlich, temperamentvoll und natürlich auch schmackhaft präsentiert sich der Karibikstaat. Wir entdecken die unterschiedlichen Menschen und ihre Geschichten - und damit auch ihre Seelen.</desc>
-  </programme>
-  <programme start="20251219182900 +0100" stop="20251219185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Weltcup-Wintersaison ist in Südtirol mit gleich zwei Rennen gestartet: In Carezza fand der Parallel-Riesentorlauf der Snowboarder statt, die alpinen Skifahrer standen hingegen auf der Saslong in Gröden im Einsatz. Auch der IBU-Cup der Biathleten hat begonnen: Nach den Auftaktrennen in Obertilliach, fand in Ridnaun die zweite Etappe statt.</desc>
-  </programme>
-  <programme start="20251219200000 +0100" stop="20251219202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251219202000 +0100" stop="20251219202240 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 19</title>
-    <sub-title>Musikschule Taufers/Ahrntal</sub-title>
-    <desc>Die Gruppe "Gitschn und Büibm" aus dem Ahrntal singen "Wo san denn heit die Schafersbuam" im Töldra Dialekt unter der Leitung von Judith Feichter. 
-Julia Anna Stocker Violine/Gesang, Emma Kaiser Violine/Gesang, Johannes Josef Feichter Hackbrett/Gesang, Andreas Kirchler Tenorhorn/Gesang und Linda Winkler an der Harfe.</desc>
-  </programme>
-  <programme start="20251219202300 +0100" stop="20251219210533 +0100" channel="Rai Südtirol">
-    <title>Weihnachten im Kaiserhaus</title>
-    <sub-title/>
-    <desc>Weihnachten war immer schon das Fest der Familie - natürlich auch für die Habsburger. Franz Joseph und die Seinen versuchten, die Besinnlichkeit dieses Festes spürbar zu machen und auch nach außen hin den Anschein der glücklichen, intakten und tief katholischen Herrscherfamilie zu wahren.
-
-Vom Ablauf über den Speiseplan bis zu den Geschenken war alles minutiös vom Hofstaat vorbereitet. Die Dokumentation von Jasmin Baumgartner zeigt das Weihnachtsfest aus der Perspektive der kaiserlichen Familie und gibt damit einen einzigartigen Einblick in das Privatleben von Franz Joseph, Elisabeth, Rudolf und vielen anderen Mitgliedern.</desc>
-  </programme>
-  <programme start="20251219210500 +0100" stop="20251219215343 +0100" channel="Rai Südtirol">
-    <title>Über Österreich</title>
-    <sub-title>Der Norden</sub-title>
-    <desc>Der Teil "Der Norden" zeigt das östliche/ nördliche Salzburg, das ganze Salzkammergut, das südliche Oberösterreich und die nordwestliche Steiermark.
-Wir zeigen diese gesegnete, vielfältige, prachtvolle Landschaft des gesamten Salzkammerguts: Hallstatt und Hallstätter See, den Atter-, Traun- und Mondsee, all die kleinen Seen wie Grundlsee, Toplitzsee, den Schafberg, all die Burgen von der Festung Hohensalzburg bis Hohenwerfen, weiters den Übergang vom Flachland in die Alpen, den Traunstein, das Tote Gebirge, den herausragenden Dachstein bis zum Ennstal.</desc>
-  </programme>
-  <programme start="20251219215400 +0100" stop="20251219215915 +0100" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Der Bergführer und Künstler Felix Tschurtschenthaler</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251219221000 +0100" stop="20251219223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251220180000 +0100" stop="20251220182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -122,6 +78,216 @@ Hotelier Franz Stolz führt durch Kirche und Familiengeschichte, erzählt vom fr
     <desc/>
   </programme>
   <programme start="20251221221000 +0100" stop="20251221223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251222180000 +0100" stop="20251222183800 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Tabea die Tierretterin</sub-title>
+    <desc>Pfotemoderator Stefan besucht Tabea auf ihrem kleinen Hof in St. Oswald bei Kastelruth. Schon seit sie ein Kind war, liegen Tabea Tiere besonders am Herzen. Bereits als Jugendliche hat sie sogar ihren eigenen kleinen Tierschutzverein "Hilfe für Tiere in Südtirol" gegründet. Auch heute noch nimmt Tabea verletzte Tiere bei sich auf oder rettet sie vor dem Schlachthaus. Auf ihrem Hof tummeln sich Schafe, Ziegen, Hunde, Katzen und ganz viele Hasen und Kaninchen. Besonders wichtig ist Tabea, dass alle Tiere artgerecht leben können. Jedes Tier braucht genügend Auslauf - und natürlich ganz, ganz viel Liebe.</desc>
+  </programme>
+  <programme start="20251222183800 +0100" stop="20251222185100 +0100" channel="Rai Südtirol">
+    <title>Grüne Begleiter</title>
+    <sub-title>Der Christbaum</sub-title>
+    <desc>Vom Pflanzgarten im Wald bis hin zum festlich geschmückten Baum auf Plätzen und in Stuben - der Christbaum fasziniert Menschen auf der ganzen Welt, egal ob Tanne, Fichte oder Kiefer. Es ist eine uralte Tradition, die Winter-Sonnwende mit grünen Zweigen und Licht zu feiern. Später wurde der Lichterbaum auch vom Christentum aufgenommen. Seit dem 19. Jahrhundert ist er das Herzstück eines jeden Weihnachtsfests und gilt als Sinnbild für Familie und Gemeinschaft. Christbäume sind heute beliebt wie nie zuvor: Nicht nur die gezüchteten Nordmann-Tannen, sondern auch andere Baumarten werden in ein romantisches Weihnachtsmärchen verwandelt.</desc>
+  </programme>
+  <programme start="20251222185100 +0100" stop="20251222185851 +0100" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Schlittenhunde</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251222200000 +0100" stop="20251222202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251222202000 +0100" stop="20251222202215 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 22</title>
+    <sub-title>Musikschule Oberes Pustertal</sub-title>
+    <desc>Ein Blechbläserquintett der Musikschule Oberes Pustertal spielt die Volksweise "Erhebet in vollen Chören" unter der Leitung von Thomas Kiniger und Markus Voppichler.</desc>
+  </programme>
+  <programme start="20251222202200 +0100" stop="20251222211226 +0100" channel="Rai Südtirol">
+    <title>Südtirol</title>
+    <sub-title>Das Land der Mitte</sub-title>
+    <desc>Beeindruckende Felswände und fruchtbare Täler - wo der afrikanische und der europäische Kontinent aufeinanderprallen, konnte ein vielfältiges Ökosystem entstehen. 
+
+Südtirol beheimatet - geprägt von extrem tiefen Temperaturen und einem warmen mediterranen Klima gleichermaßen- eine bemerkenswerte Artenvielfalt. Im gesamten Land ragen die bis zu 25 Meter hohen Stämme der Zirbelkiefer aus den Böden. Im Osten des Landes findet man noch unberührte Torfmoore mit fleischfressenden Pflanzen und einer Vielzahl an Insekten.
+In den Bergen leben Gämsen und der Steinadler während in den Tälern noch Schmetterlinge wie der blaue Saphir, sowie seltene Schlangen und Insekten zu finden sind. Seit der letzten Eiszeit leben Menschen in Südtirol. Sie haben sowohl Hänge als auch Täler und Felder landwirtschaftlich genutzt. Bis heute leben Mensch und Natur hier in tiefer Symbiose. Doch Pflanzen und Tiere müssen sich mit den zunehmenden Veränderungen der Umwelt arrangieren und auf den Klimawandel reagieren. Ein Film von Rolando Menardi.</desc>
+  </programme>
+  <programme start="20251222211300 +0100" stop="20251222215551 +0100" channel="Rai Südtirol">
+    <title>Einsamkeit</title>
+    <sub-title/>
+    <desc>Ein Satz: Ich bin einsam. Noch immer braucht es Mut, ihn zu sagen. Dabei nimmt die Einsamkeit in der Gesellschaft zu. Selbst ein voller Terminkalender schützt nicht vor dem Gefühl der Leere. Die Doku von Astrid Kofler und Helmut Lechthaler zeigt: Einsam fühlen sich Menschen in Partnerschaft, arm und reich, Jung und Alt, Kranke, Frauen und Männer. Forscher warnen: Das wird gefährlich, Einsamkeit macht krank und fördert radikale Ideen. Was aber macht unsere Gesellschaft so anfällig für Einsamkeit? Und wie finden wir zurück in Beziehung?</desc>
+  </programme>
+  <programme start="20251222215600 +0100" stop="20251222215914 +0100" channel="Rai Südtirol">
+    <title>Impressionen  - Krippen aus aller Welt</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251222221000 +0100" stop="20251222223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251223200000 +0100" stop="20251223202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251223202000 +0100" stop="20251223203430 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251223203500 +0100" stop="20251223203811 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 23</title>
+    <sub-title>Musikschule Überetsch - Mittleres Etschtal</sub-title>
+    <desc>Die Gruppe Saxladies spielt unter der Leitung von Werner Mayr "Molde Canticle" von Jan Gabarek.
+1. Altsax: Weissenbacher Christine; 2. Altsax: Martina Wiedmer; Tenorsax: Lena Unterkofler; Barisax Lena Trojer, Alexandra Selva</desc>
+  </programme>
+  <programme start="20251223203800 +0100" stop="20251223205230 +0100" channel="Rai Südtirol">
+    <title>Land &amp; Leben Spezial - Das Magazin für Landwirtschaft</title>
+    <sub-title>Die junge Landwirtschaft in Europa braucht eine Zukunft!</sub-title>
+    <desc>EU-Agrarkommissar Christophe Hansen hat für die Förderperiode ab 2028 große Ziele. Sein beim European Congress of Young Farmers kürzlich vorgestelltes Strategiepapier setzt klar auf die Stärkung junger Landwirtinnen und Landwirte. Gleichzeitig betonen EU-Politiker die wachsende Bedeutung der Ernährungssicherheit. Auch der Südtiroler EU-Abgeordnete Herbert Dorfmann fordert, dass mit der neuen GAP kleinere Betriebe und Bergbauernhöfe gezielt unterstützt werden. In Brüssel hat Marianna Kasseroler mit Politikerinnen und Politikern sowie jungen Menschen über ihre Anliegen und Erwartungen an die künftige Agrarpolitik gesprochen.</desc>
+  </programme>
+  <programme start="20251223221000 +0100" stop="20251223223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251224200000 +0100" stop="20251224202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251224202000 +0100" stop="20251224202308 +0100" channel="Rai Südtirol">
+    <title>Adventstöne 24</title>
+    <sub-title>Musikschule Meran/Passeier</sub-title>
+    <desc>"Weihnacht" von Max Welcker unter der Leitung von Barbara Überbacher, dann erklingt "Stille Nacht".
+Katharina Santer 1. Violine, Katharina Ainhauser 2. Violine, Johanna Sofia Bartoli 3. Violine, Sarah Wellenzohn Bassklarinette, Rosi Markt Solo-Klarinette und Sibylle Siller Gesang.</desc>
+  </programme>
+  <programme start="20251224202300 +0100" stop="20251224205230 +0100" channel="Rai Südtirol">
+    <title>Der Weg zur Krippe und die Weihnachtsbotschaft des Bischofs Ivo Muser</title>
+    <sub-title/>
+    <desc>Der heilige Franziskus gilt als der Erste, der das Weihnachtsgeschehen lebendig als Krippe zum Ausdruck brachte. Im Jahr 1223 feierte er in den Höhlen von Greccio, etwa 90 Kilometer nördlich von Rom, eine besondere Christmette, in der er, wie es in der Überlieferung heißt, eine Krippe mit Heu herrichten lies und Ochs und Esel hinzuführte. Die Anwesenden selbst stellten die Krippenszene dar. Aus diesem Anlass hat Michael Horrer dieses Jahr im Bischöflichen Haus eine ganze Reihe von Krippen aufgebaut. Diese Krippen sind ein vielfältiges Bildnis der Weihnachtsbotschaft, die im Lukasevangelium zu lesen ist. Mit seiner Weihnachtsbotschaft schenkt Bischof Ivo Muser den Zuschauern Gedanken der Zuversicht und des Glaubens.</desc>
+  </programme>
+  <programme start="20251224221000 +0100" stop="20251224223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251225100000 +0100" stop="20251225112000 +0100" channel="Rai Südtirol">
+    <title>Pontifikalamt am Weihnachtstag mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc>Live in Hörfunk und Fernsehen aus dem Bozner Dom. Bischof Ivo Muser zelebriert das dreisprachige Pontifikalamt am Christtag im Dom zu Bozen und möchte den Gläubigen die Weihnachtsbotschaft überbringen. Das Hochamt wird musikalisch umrahmt von Domorchester und Domchor unter der Leitung von Domkapellmeister Tobias Chizzali.</desc>
+  </programme>
+  <programme start="20251225200000 +0100" stop="20251225202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251225202000 +0100" stop="20251225204820 +0100" channel="Rai Südtirol">
+    <title>Aktion Sternsingen 2026</title>
+    <sub-title>Ein sicheres Zuhause für Kinder in Uganda</sub-title>
+    <desc>Jedes Jahr unterstützt die Aktion Sternsingen der Katholischen Jungschar Südtirols über 100 Projekte weltweit, die Kindern Schutz, Bildung und Zukunft ermöglichen. Für die Aktion Sternsingen 2026 führt der Weg nach Uganda, in das kleine Dorf Mparo im Süden des Landes.
+Im Sommer 2025 reisten Vertreterinnen und Vertreter der Katholischen Jungschar Südtirols gemeinsam mit dem Missionsamt der Diözese Bozen-Brixen nach Mparo, um das diesjährige Projekt vor Ort zu besuchen. Uganda ist ein Land voller Hoffnung, aber auch großer Herausforderungen. Viele Familien leben in einfachen Verhältnissen, und nicht alle Kinder haben Zugang zu Bildung oder einem sicheren Zuhause. Ziel des Projekts ist der Bau neuer Schlafsäle für die Kinder und Jugendlichen der Schule. Für viele von ihnen ist das Schulgelände zugleich ihr Zuhause, da sie von weit herkommen und nicht täglich nach Hause gehen können. Dank der Spenden, die durch die Sternsingerinnen und Sternsinger aus Südtirol gesammelt werden, entsteht dort ein Ort, an dem Kinder lernen, spielen, lachen, essen und einfach Kind sein können - ein Zuhause, das schützt und Perspektiven eröffnet. Für Kinder, die ihr Land von morgen gestalten werden.</desc>
+  </programme>
+  <programme start="20251225221000 +0100" stop="20251225223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251226180000 +0100" stop="20251226182909 +0100" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Malediven</sub-title>
+    <desc>Das Paradies auf Erden: die Malediven. Der Mittelpunkt der Erde, umgeben von anderen traumhaften Inseln. Sehen und staunen Sie nicht nur über die Schönheit dieser Insel, sondern auch über die kulinarische Vielfalt der maledivischen Küche. Ausgezeichneter Rum, den man auch gerne mit anderen geschmackintensiven Mitteln wie Minze oder Pfeffer zusammen genießt und die den Rum noch intensiver und überraschend neu schmecken lassen. Natürlich kommt die Kokosnuss nicht zu kurz und ist präsent vertreten in der Küche. Ebenfalls präsent ist die maledivische Chili, in ihr schmeckt man das Feuer der Malediven. Weniger feurig und mehr entspannend, erholt man sich auch gerne mal im Wellness und Spa Center. Auch wird Yoga auf der Insel gerne praktiziert. Im Zusammenhang mit einer leichten und fettarmen Köstlichkeit, findet Yoga viele begeisterte Anhänger.</desc>
+  </programme>
+  <programme start="20251226182900 +0100" stop="20251226185720 +0100" channel="Rai Südtirol">
+    <title>Aktion Sternsingen 2026</title>
+    <sub-title>Ein sicheres Zuhause für Kinder in Uganda</sub-title>
+    <desc>Jedes Jahr unterstützt die Aktion Sternsingen der Katholischen Jungschar Südtirols über 100 Projekte weltweit, die Kindern Schutz, Bildung und Zukunft ermöglichen. Für die Aktion Sternsingen 2026 führt der Weg nach Uganda, in das kleine Dorf Mparo im Süden des Landes. Im Sommer 2025 reisten Vertreterinnen und Vertreter der Katholischen Jungschar Südtirols gemeinsam mit dem Missionsamt der Diözese Bozen-Brixen nach Mparo, um das diesjährige Projekt vor Ort zu besuchen.
+Uganda ist ein Land voller Hoffnung, aber auch großer Herausforderungen. Viele Familien leben in einfachen Verhältnissen, und nicht alle Kinder haben Zugang zu Bildung oder einem sicheren Zuhause. Ziel des Projekts ist der Bau neuer Schlafsäle für die Kinder und Jugendlichen der Schule. Für viele von ihnen ist das Schulgelände zugleich ihr Zuhause, da sie von weit herkommen und nicht täglich nach Hause gehen können. Dank der Spenden, die durch die Sternsingerinnen und Sternsinger aus Südtirol gesammelt werden, entsteht dort ein Ort, an dem Kinder lernen, spielen, lachen, essen und einfach Kind sein können – ein Zuhause, das schützt und Perspektiven eröffnet. Für Kinder, die ihr Land von morgen gestalten werden.</desc>
+  </programme>
+  <programme start="20251226200000 +0100" stop="20251226202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251226202000 +0100" stop="20251226212111 +0100" channel="Rai Südtirol">
+    <title>Das Glück beim Händewaschen Teil 1</title>
+    <sub-title/>
+    <desc>Die Verfilmung des autobiografischen Romans von Joseph Zoderer: beschrieben wird das Schicksal eines Südtirolers vom 11. bis zum 15. Lebensjahr, der durch die zwischen Hitler und Mussolini getroffene Vereinbarung, alle deutschsprachigen Bewohner Südtirols auszusiedeln, überall zum Fremden geworden ist. Eine eindringliche Zeitstudie; in fast holzschnittartiger Einfachheit inszeniert und gespielt, wobei auch die Dialektmischungen dem Film bodenständige Echtheit geben.</desc>
+  </programme>
+  <programme start="20251226212100 +0100" stop="20251226215141 +0100" channel="Rai Südtirol">
+    <title>Altes Spielzeug</title>
+    <sub-title>Die Wiederkehr einer Sehnsucht</sub-title>
+    <desc>Die Puppe war die beste Freundin der Mädchen - und mit der Spielzeug-Eisenbahn bereisten die Buben die ganze Welt: In der Reportage mit dem Titel "Altes Spielzeug" werfen wir einen nostalgischen Blick in die gute alte Zeit. Die Beschäftigung mit Spielzeug ist eine spezielle, wundervolle Reise - häufig auch in die eigene Vergangenheit. Immer mehr Sammler, aber auch Interessierte beschäftigen sich mit Eisenbahnen in Miniatur-Ausgabe, mit Autos aus Blech, mit Puppen und Zinnsoldaten. Es sind Eindrücke aus der eigenen Kindheit. Die Filmemacher Astrid Kofler und Günther Neumair haben für diese Reportage nicht nur einige Museen in Südtirol besucht, sondern sich auch am Flohmarkt auf die Suche begeben, begleitet von Sammlern und Liebhabern des alten Spielzeugs. Das Motto dabei: "Die Wiederkehr einer Sehnsucht".</desc>
+  </programme>
+  <programme start="20251226215200 +0100" stop="20251226215941 +0100" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Ein Wintercamp für herzkranke Kinder</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20251226221000 +0100" stop="20251226223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251227180000 +0100" stop="20251227182930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Giorgio Moroder</sub-title>
+    <desc>In der neuen Ausgabe von "Privat" trifft Markus Frings auf den legendären Musiker und Produzenten Giorgio Moroder - direkt in Los Angeles. Der Südtiroler Pionier der elektronischen Musik, der heuer seinen 85. Geburtstag gefeiert hat, blickt im Gespräch auf ein außergewöhnliches Leben zurück. Moroder erzählt von seinen Anfängen in den 1960er-Jahren, von ersten Experimenten mit Synthesizern und davon, wie daraus Welthits für Donna Summer und zahlreiche weitere Stars entstanden. Mit sichtbarem Stolz spricht er über seine drei Oscars, mehrere Golden Globes und Grammy Awards, die er im Laufe seiner Karriere erhalten hat. Die Begegnung zeigt einen Künstler, der trotz weltweiten Erfolgs bodenständig und bescheiden geblieben ist.</desc>
+  </programme>
+  <programme start="20251227182900 +0100" stop="20251227185800 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Eine fast verstummte Sprache, das Griechisch-Kalabrische überlebt bis heute in einer Handvoll abgelegener Dörfer Kalabriens. Ihre Wurzeln reichen bis ins 8. Jahrhundert zurück und bilden eines der letzten lebenden Vermächtnisse der Magna Grecia.  Schätzungen zufolge sprechen heute nur noch rund 300 Menschen das Griechisch-Kalabrische. In den Dörfern Gallicianò, Bova, Bova Marina, Pentedattilo und Roghudi überlebt die Sprache seit fast 3000 Jahren. Diese Region ist jedoch, wie viele andere Gebiete Italiens auch, Opfer von Zwangsversetzungen, Landflucht und klimatischen Veränderungen. Zurück bleiben verfallene Häuser und verstummte Gassen. Die Sprache droht zu verschwinden.  
+Lydia Gasparini und Agostino Fuscaldo - auf den Spuren einer der ältesten lebenden Sprachen Europas und der Menschen, die sie hüten.</desc>
+  </programme>
+  <programme start="20251227200000 +0100" stop="20251227202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251227202000 +0100" stop="20251227202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251227202400 +0100" stop="20251227205330 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen entdecken genießen</sub-title>
+    <desc>Wir richten den Blick auf den wachsenden Anteil internationaler Mitarbeiterinnen und Mitarbeiter in Südtirols Küchen. Viele Betriebe könnten ohne sie längst nicht mehr arbeiten. Wir begleiten zwei Köche aus dem Ausland, die sich in Südtirol ein neues Leben aufgebaut haben und heute entscheidende Rollen in ihren Teams einnehmen. Ihre Geschichten zeigen, wie erfolgreich Zusammenarbeit gelingen kann - und wie sehr Südtirols Gastronomie auf qualifizierte Fachkräfte aus aller Welt angewiesen ist.
+Seit nunmehr zehn Jahren begegnen sich Kunst und Tourismus auf besondere Weise: Der Hoteliers- und Gastwirteverband Südtirol hat gemeinsam mit dem Südtiroler Künstlerbund erneut den Preis "HGV-Künstler:in des Jahres" vergeben. Die Jubiläumsauszeichnung ging heuer an die aus Laatsch im Vinschgau stammende und heute in Wien lebende freischaffende Künstlerin Julia Frank. Ihr Werk mit dem Titel "Regional. Saisonal. Radikal." ist Programm: Ausgehend von der typischen Ästhetik Südtiroler Hotels, Speisesäle und Gasthäuser verwandelt sie vertraute Symbole in neue künstlerische Aussagen. Dabei stellt sie eine zentrale Frage: Was bedeutet Gastfreundschaft wirklich - Tradition, Marketing oder echte Begegnung?
+Und wir blicken zurück: Im Gespräch mit Vertretern von IDM und HGV beleuchten wir tourismusrelevante Themen, die das ganze Land bewegen. Außerdem stellen wir den neuen Präsidenten des Hoteliers- und Gastwirteverbandes, Klaus Berger, vor und fragen nach, welche Schwerpunkte und Herausforderungen im kommenden Jahr bevorstehen.</desc>
+  </programme>
+  <programme start="20251227221000 +0100" stop="20251227223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251228200000 +0100" stop="20251228202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251228202100 +0100" stop="20251228203540 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Carmen Thurner</sub-title>
+    <desc>Die Begeisterung für das schnelle Gleiten hat Carmen Thurner bestimmt von ihren Geschwistern übernommen, die sie schon im Kindesalter zum Eisschnelllaufen auf dem Eisring der Ritten Arena mitgenommen haben. Dabei entfachten sie in Carmen eine Leidenschaft, die sie durch die Höhen und Tiefen des Lebens tragen sollte. Auch ein intensives Psychologie-Studium an der Uni Innsbruck bremst sie nicht ein - doch reicht es für eine Teilnahme an den Olympischen Winterspielen 2026?</desc>
+  </programme>
+  <programme start="20251228203500 +0100" stop="20251228213416 +0100" channel="Rai Südtirol">
+    <title>Das Glück beim Händewaschen Teil 2</title>
+    <sub-title/>
+    <desc>Die Verfilmung des autobiografischen Romans von Joseph Zoderer: beschrieben wird das Schicksal eines Südtirolers vom 11. bis zum 15. Lebensjahr, der durch die zwischen Hitler und Mussolini getroffene Vereinbarung, alle deutschsprachigen Bewohner Südtirols auszusiedeln, überall zum Fremden geworden ist. Eine eindringliche Zeitstudie; in fast holzschnittartiger Einfachheit inszeniert und gespielt, wobei auch die Dialektmischungen dem Film bodenständige Echtheit geben.</desc>
+  </programme>
+  <programme start="20251228213400 +0100" stop="20251228213800 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251228221000 +0100" stop="20251228223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
