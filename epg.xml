@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251220180000 +0100" stop="20251220182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wettbewerb und Konkurrenzkampf, das sind treibenden Kräfte sowohl im Sport als auch in der Wirtschaft. Vor dem großen Event Olympia 2026 steigt die Spannung im Antholzertal. Dort sind die Bürgerinnen und Bürger zwar seit Langem auf sportliche Großereignisse durch die internationalen Biathlonbewerbe geeicht, aber Olympia ist doch etwas anderes. Trend versucht, die Stimmung, die Erwartungen, die Hoffnungen und die Befürchtungen bei Wirtschaftstreibenden und Organisatoren vor Ort einzufangen. Dann begleitet Trend drei erfolgreiche Trentiner Unternehmer über die Provinzgrenze in das Fleimstal. Die Unternehmer pendeln von ihren Wohnorten Bozen und Meran aus fast täglich an ihren Heimat- und Betriebsstandort im Trentino. Sie erzählen davon, wie verschieden und wie ähnlich sie die wirtschaftlichen Bedingungen für Unternehmen in den beiden Provinzen einschätzen. "Capture the Flag", CTF, "Hol dir die Flagge", heißt es in einem anderen sportlichen Wettbewerb für junge Computer-Experten und solche, die es werden wollen. CTF-Hackathons sind Wettbewerbe in der Cybersecurity, bei denen Teilnehmer Sicherheitslücken finden und Flags entdecken, um Punkte zu sammeln. Solche Events dienen der Weiterbildung und dem Networking in der IT-Sicherheits-Community. Trend ist beim CTF-Hackathon Ende November im NOI Techpark dabei.</desc>
-  </programme>
-  <programme start="20251220182900 +0100" stop="20251220185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Skifahren, Biken, Wandern an Traumplätzen - Erlebnisse, die unvergesslich bleiben. Doch ein kurzer Moment der Unachtsamkeit reicht, und der Urlaub wird zum Albtraum. 
-Während in Südtirol für Einheimische ein Einsatzticket von 100 Euro genügt, kann ein Unfall im Ausland schnell zum finanziellen Risiko werden. Der Winter ist da und mit ihm die ersten Schnupfen, Husten und Grippen. Wer stärker erwischt wird, muss sich krankschreiben lassen. Doch wie läuft das eigentlich ab?
-Der Weihnachtsbaum: festliches Symbol und Mittelpunkt der Adventszeit. Doch welcher Baum ist wirklich nachhaltig, der echte oder der künstliche? Pluspunkt geht der Sache nach. 
-Alpitronic, das Hightech-Unternehmen aus Südtirol, das mit seinen hyperchargern die E-Mobilität in Europa prägt. Ein Blick hinter die Kulissen von Innovation made in Südtirol.</desc>
-  </programme>
-  <programme start="20251220200000 +0100" stop="20251220202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251220202100 +0100" stop="20251220202345 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 20</title>
-    <sub-title>Musikschule Gadertal</sub-title>
-    <desc>Ein Holzbläserquintett der Musikschule Gadertal spielt "Let it snow" von Sammy Cahn unter der Leitung von Barbara Costabiei, Barbara Kostner, Laura Lezuo, Melanie Rigo und Gerhard Mohr. 
-Noemi Costa an der Flöte, Estelle Piccolruaz an der Oboe, Karolin Zingerle an der Klarinette, Michael Mohr am Horn und Laura Miribung am Fagott.</desc>
-  </programme>
-  <programme start="20251220202300 +0100" stop="20251220202700 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251220202800 +0100" stop="20251220205300 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Das Gespannfahren mit Kutsche und Wagen. Südtirols einziger Gnadenhof am Haidersee, wo Tiere in Not eine gute Bleibe finden. Außerdem geht es um Vierbeiner, die ein neues Zuhause suchen. 
-
-Der Fahrsport, das Fahren mit Kutschen und Wagen ist ein Pferdesport, der auch in Südtirol unterrichtet wird. Wir haben uns beim Reitlehrer, Trainer und ehemaligen Turnierfahrer Hannes Weitlaner angesehen, worauf es beim Gespannfahren ankommt.  
-Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer Kommunikation und Respekt geprägt und geht über die bloße Nutzung des Pferdes als Zugtier weit hinaus. 
-Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20251220221000 +0100" stop="20251220223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251221200000 +0100" stop="20251221202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
