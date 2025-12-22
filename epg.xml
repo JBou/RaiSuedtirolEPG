@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251221200000 +0100" stop="20251221202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251221202000 +0100" stop="20251221202254 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 21</title>
-    <sub-title>Musikschule Bozen und Brixen</sub-title>
-    <desc>Ein musikschulübergreifendes Ensemble spielt "war is over" von John Lennon unter der Leitung von Evi Mair, Walter Unterhauser und Philipp Höller. 
-
-Verena Raich, Manuela Blaas und Annalena Hofer: Gesang, Philipp Hofmann und Lukas Brugger an der Gitarre, Samuel Furgler Percussion.</desc>
-  </programme>
-  <programme start="20251221202300 +0100" stop="20251221203740 +0100" channel="Rai Südtirol">
-    <title>Südtirols Olympiahoffnungen 2026</title>
-    <sub-title>Felix Ratschiller</sub-title>
-    <desc>Felix Ratschiller gilt als eines der aufstrebenden Talente des Südtiroler Biathlons.  
-Sein Lebensmittelpunkt liegt im Martelltal, wo er im nahegelegenen Biathlon Center täglich an seiner Lauftechnik und seiner Schießpräzision feilt. Denn der Weg ist klar: Felix arbeitet zielstrebig auf eine mögliche Teilnahme an den Olympischen Winterspielen 2026 hin - und stellt dafür sein Leben ganz in den Dienst des Sports.</desc>
-  </programme>
-  <programme start="20251221203800 +0100" stop="20251221210230 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Vals</sub-title>
-    <desc>Vals ist ein Ort, in dem Tradition, Gastfreundschaft und Bergleben eng miteinander verwoben sind. Wir besuchen das Dorfgasthaus, die Fanealm und eine betagte Valserin, die auf 101 Jahre zurückblickt. 
-
-Hotelier Franz Stolz führt durch Kirche und Familiengeschichte, erzählt vom frühen Einspringen in den Familienbetrieb und davon, wie das Hotel im Herzen des Dorfes gewachsen ist und dennoch bis heute ein offenes Dorfgasthaus geblieben ist. Ein weiterer Schwerpunkt führt auf die Fanealm, wo Andreas Zingerle und die Alm-Interessentschaft das historische Almleben und die Sommerwirtschaft bewahren - ergänzt durch Einblicke in die Arbeit des jungen Hüttenwirts Daniel. Danach stellt Simon Stolz ein traditionelles Valser Gericht seiner Großmutter vor, bevor Martina vom Leben in einer touristischen, aber bodenständig gebliebenen Dorfgemeinschaft erzählt. Zum Abschluss blickt Mathilde Fischnaller, die älteste Bewohnerin von Vals, auf 101 Jahre Lebensgeschichte zurück.</desc>
-  </programme>
-  <programme start="20251221210200 +0100" stop="20251221210600 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251221221000 +0100" stop="20251221223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251222180000 +0100" stop="20251222183800 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Tabea die Tierretterin</sub-title>
