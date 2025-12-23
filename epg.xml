@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251222180000 +0100" stop="20251222183800 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Tabea die Tierretterin</sub-title>
-    <desc>Pfotemoderator Stefan besucht Tabea auf ihrem kleinen Hof in St. Oswald bei Kastelruth. Schon seit sie ein Kind war, liegen Tabea Tiere besonders am Herzen. Bereits als Jugendliche hat sie sogar ihren eigenen kleinen Tierschutzverein "Hilfe für Tiere in Südtirol" gegründet. Auch heute noch nimmt Tabea verletzte Tiere bei sich auf oder rettet sie vor dem Schlachthaus. Auf ihrem Hof tummeln sich Schafe, Ziegen, Hunde, Katzen und ganz viele Hasen und Kaninchen. Besonders wichtig ist Tabea, dass alle Tiere artgerecht leben können. Jedes Tier braucht genügend Auslauf - und natürlich ganz, ganz viel Liebe.</desc>
-  </programme>
-  <programme start="20251222183800 +0100" stop="20251222185100 +0100" channel="Rai Südtirol">
-    <title>Grüne Begleiter</title>
-    <sub-title>Der Christbaum</sub-title>
-    <desc>Vom Pflanzgarten im Wald bis hin zum festlich geschmückten Baum auf Plätzen und in Stuben - der Christbaum fasziniert Menschen auf der ganzen Welt, egal ob Tanne, Fichte oder Kiefer. Es ist eine uralte Tradition, die Winter-Sonnwende mit grünen Zweigen und Licht zu feiern. Später wurde der Lichterbaum auch vom Christentum aufgenommen. Seit dem 19. Jahrhundert ist er das Herzstück eines jeden Weihnachtsfests und gilt als Sinnbild für Familie und Gemeinschaft. Christbäume sind heute beliebt wie nie zuvor: Nicht nur die gezüchteten Nordmann-Tannen, sondern auch andere Baumarten werden in ein romantisches Weihnachtsmärchen verwandelt.</desc>
-  </programme>
-  <programme start="20251222185100 +0100" stop="20251222185851 +0100" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Schlittenhunde</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251222200000 +0100" stop="20251222202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251222202000 +0100" stop="20251222202215 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 22</title>
-    <sub-title>Musikschule Oberes Pustertal</sub-title>
-    <desc>Ein Blechbläserquintett der Musikschule Oberes Pustertal spielt die Volksweise "Erhebet in vollen Chören" unter der Leitung von Thomas Kiniger und Markus Voppichler.</desc>
-  </programme>
-  <programme start="20251222202200 +0100" stop="20251222211226 +0100" channel="Rai Südtirol">
-    <title>Südtirol</title>
-    <sub-title>Das Land der Mitte</sub-title>
-    <desc>Beeindruckende Felswände und fruchtbare Täler - wo der afrikanische und der europäische Kontinent aufeinanderprallen, konnte ein vielfältiges Ökosystem entstehen. 
-
-Südtirol beheimatet - geprägt von extrem tiefen Temperaturen und einem warmen mediterranen Klima gleichermaßen- eine bemerkenswerte Artenvielfalt. Im gesamten Land ragen die bis zu 25 Meter hohen Stämme der Zirbelkiefer aus den Böden. Im Osten des Landes findet man noch unberührte Torfmoore mit fleischfressenden Pflanzen und einer Vielzahl an Insekten.
-In den Bergen leben Gämsen und der Steinadler während in den Tälern noch Schmetterlinge wie der blaue Saphir, sowie seltene Schlangen und Insekten zu finden sind. Seit der letzten Eiszeit leben Menschen in Südtirol. Sie haben sowohl Hänge als auch Täler und Felder landwirtschaftlich genutzt. Bis heute leben Mensch und Natur hier in tiefer Symbiose. Doch Pflanzen und Tiere müssen sich mit den zunehmenden Veränderungen der Umwelt arrangieren und auf den Klimawandel reagieren. Ein Film von Rolando Menardi.</desc>
-  </programme>
-  <programme start="20251222211300 +0100" stop="20251222215551 +0100" channel="Rai Südtirol">
-    <title>Einsamkeit</title>
-    <sub-title/>
-    <desc>Ein Satz: Ich bin einsam. Noch immer braucht es Mut, ihn zu sagen. Dabei nimmt die Einsamkeit in der Gesellschaft zu. Selbst ein voller Terminkalender schützt nicht vor dem Gefühl der Leere. Die Doku von Astrid Kofler und Helmut Lechthaler zeigt: Einsam fühlen sich Menschen in Partnerschaft, arm und reich, Jung und Alt, Kranke, Frauen und Männer. Forscher warnen: Das wird gefährlich, Einsamkeit macht krank und fördert radikale Ideen. Was aber macht unsere Gesellschaft so anfällig für Einsamkeit? Und wie finden wir zurück in Beziehung?</desc>
-  </programme>
-  <programme start="20251222215600 +0100" stop="20251222215914 +0100" channel="Rai Südtirol">
-    <title>Impressionen  - Krippen aus aller Welt</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251222221000 +0100" stop="20251222223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251223200000 +0100" stop="20251223202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
