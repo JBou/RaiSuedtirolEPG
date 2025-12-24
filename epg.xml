@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251223200000 +0100" stop="20251223202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251223202000 +0100" stop="20251223203430 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251223203500 +0100" stop="20251223203811 +0100" channel="Rai Südtirol">
-    <title>Adventstöne 23</title>
-    <sub-title>Musikschule Überetsch - Mittleres Etschtal</sub-title>
-    <desc>Die Gruppe Saxladies spielt unter der Leitung von Werner Mayr "Molde Canticle" von Jan Gabarek.
-1. Altsax: Weissenbacher Christine; 2. Altsax: Martina Wiedmer; Tenorsax: Lena Unterkofler; Barisax Lena Trojer, Alexandra Selva</desc>
-  </programme>
-  <programme start="20251223203800 +0100" stop="20251223205230 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben Spezial - Das Magazin für Landwirtschaft</title>
-    <sub-title>Die junge Landwirtschaft in Europa braucht eine Zukunft!</sub-title>
-    <desc>EU-Agrarkommissar Christophe Hansen hat für die Förderperiode ab 2028 große Ziele. Sein beim European Congress of Young Farmers kürzlich vorgestelltes Strategiepapier setzt klar auf die Stärkung junger Landwirtinnen und Landwirte. Gleichzeitig betonen EU-Politiker die wachsende Bedeutung der Ernährungssicherheit. Auch der Südtiroler EU-Abgeordnete Herbert Dorfmann fordert, dass mit der neuen GAP kleinere Betriebe und Bergbauernhöfe gezielt unterstützt werden. In Brüssel hat Marianna Kasseroler mit Politikerinnen und Politikern sowie jungen Menschen über ihre Anliegen und Erwartungen an die künftige Agrarpolitik gesprochen.</desc>
-  </programme>
-  <programme start="20251223221000 +0100" stop="20251223223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251224200000 +0100" stop="20251224202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -162,6 +136,117 @@ Und wir blicken zurück: Im Gespräch mit Vertretern von IDM und HGV beleuchten 
     <desc/>
   </programme>
   <programme start="20251228221000 +0100" stop="20251228223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251229180000 +0100" stop="20251229182500 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Zimtschnecken-Kekse</sub-title>
+    <desc>Zimt ist der klassische Weihnachtsduft. Jedoch Zimt ist nicht gleich Zimt. Zwei kreative Köche nehmen dieses Gewürz genauer unter die Lupe und backen leckere Zimtschnecken-Kekse.  
+Anschließend erleben wir das Eppaner Murx-Theater in seiner seiner Produktion „Christmas around the World".</desc>
+  </programme>
+  <programme start="20251229182500 +0100" stop="20251229185200 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Das Gespannfahren mit Kutsche und Wagen. Südtirols einziger Gnadenhof am Haidersee, wo Tiere in Not eine gute Bleibe finden. Außerdem geht es um Vierbeiner, die ein neues Zuhause suchen. Der Fahrsport, das Fahren mit Kutschen und Wagen ist ein Pferdesport, der auch in Südtirol unterrichtet wird. Wir haben uns beim Reitlehrer, Trainer und ehemaligen Turnierfahrer Hannes Weitlaner angesehen, worauf es beim Gespannfahren ankommt.  
+Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer Kommunikation und Respekt geprägt und geht über die bloße Nutzung des Pferdes als Zugtier weit hinaus. 
+Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20251229185200 +0100" stop="20251229185805 +0100" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title/>
+    <desc>Künstliche Intelligenz ist längst bei uns im Alltag angekommen – ob beim Schreiben, beim Recherchieren oder auch in Unternehmen. Tools wie ChatGPT können vieles erleichtern. Aber: Wer KI nutzt, sollte wissen, dass dabei auch persönliche Daten im Spiel sind. Und genau hier lauern Risiken – sowohl privat als auch für Firmen. Wie wir uns schützen können und welche Regeln künftig gelten, das zeigt unser Bericht.</desc>
+  </programme>
+  <programme start="20251229200000 +0100" stop="20251229202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251229202100 +0100" stop="20251229204950 +0100" channel="Rai Südtirol">
+    <title>Loacker 100 Jahre</title>
+    <sub-title>Süße Wurzeln - die Loacker-Story</sub-title>
+    <desc>Wie aus einer kleinen Waffelbäckerei der 1920er-Jahre ein globales Familienunternehmen wurde - und wie eng dieser Aufstieg mit der wirtschaftlichen Entwicklung Südtirols verwoben ist.  
+ 
+Professor Dominik Matt, Mitglieder der Familie Loacker und langjährige Mitarbeitende blicken zurück auf ein Jahrhundert voller Identität, Innovation und Heimatgefühl. Loacker ist nicht nur eine Erfolgsgeschichte für sich, sondern auch ein Sinnbild für das Südtiroler Unternehmertum, das mit Mut, Qualität und Weitblick die wirtschaftliche Entwicklung unserer Region geprägt hat.</desc>
+  </programme>
+  <programme start="20251229204900 +0100" stop="20251229212700 +0100" channel="Rai Südtirol">
+    <title>Grüne Begleiter im Jahreskreis</title>
+    <sub-title>Der Winter</sub-title>
+    <desc>Der Winter ist die Zeit der Kälte, der langen Dunkelheit und der großen Stille in der Natur. Doch tief in den Bäumen bereitet sich die Natur schon wieder auf den herannahenden Frühling vor.
+Bäume sind großartige Überlebenskünstler: Verschiedene Arten haben im Lauf der Evolution
+unterschiedliche Strategie entwickelt, um mit Frost, Schnee und Wintertrockenheit umzugehen.
+Sie haben sich angepasst, um selbst die unwirtlichsten Bedingungen zu überstehen. Und
+während an der Oberfläche alles tot und abgestorben wirkt, stellen sich die verborgenen Kräfte der Natur bereits wieder auf den Neubeginn im Frühling ein.</desc>
+  </programme>
+  <programme start="20251229212700 +0100" stop="20251229215716 +0100" channel="Rai Südtirol">
+    <title>So schmeckt die Welt</title>
+    <sub-title>Malta</sub-title>
+    <desc>Durch arabische, britische und italienische Einflüsse zählt Malta zu den facettenreichsten Inseln im Mittelmeer. Dies spiegelt sich auch in der Küche wider: Man isst Pastizzi, Bigilla und Ftira. Malta hat sich von jeder Kultur das Beste genommen und hieraus auch eine eigene Sprache
+entwickelt. Wer Malta besucht, besucht praktisch die halbe Welt. Eine kulinarische, aber auch
+kulturelle Expedition durch die Mittelmeerinseln.</desc>
+  </programme>
+  <programme start="20251229221000 +0100" stop="20251229223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251230200000 +0100" stop="20251230202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251230202000 +0100" stop="20251230204930 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Vöran</sub-title>
+    <desc>Die Seilbahn Burgstall-Vöran, die Strohdächer, das Knottn-Kino mit seinem Panoramablick, aber auch besondere Menschen wie Läufer Matthias Zöggeler prägen das Dorf Vöran. Vöran liegt auf der sonnigen Anhöhe des Tschögglberges, hoch über dem Etschtal. Die Seilbahn Burgstall-Vöran gehört heute ebenso zum Dorfbild wie die Kirche oder die roten Felsen, die Knottn. Einst war das Dorf wegen seiner schwierigen Erreichbarkeit sehr isoliert und man suchte nach einer einfachen und schnellen Verbindung ins Tal. Zwischen 1901 und 1908 wurde eine erste Materialseilbahn gebaut. 50 Jahre später folgte die erste Seilbahn für Personen, die im Laufe der Jahre modernisiert wurde.
+Die Besonderheit in Vöran sind die letzten Strohdächer u.a. des Spitzeggerhofes oder des
+Gfrarhofes. Die geschnürten Bündel werden heute noch von Franz Egger gemacht, der die alte Technik noch bestens beherrscht. Und zu Vöran gehört auch das sogenannte Knottn-Kino, vom dem aus man das Panorama genießen kann: Der Blick reicht vom Weißhorn im Unterland bis hinauf ins Passeiertal.
+Mit dabei in der Sendung sind auch die drei Schwestern vom Gasthof Waldbichl, ein Grauviehzüchter und der Vöraner Läufer Matthäus Zöggeler.</desc>
+  </programme>
+  <programme start="20251230221000 +0100" stop="20251230223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251231124500 +0100" stop="20251231140000 +0100" channel="Rai Südtirol">
+    <title>Bo Classic</title>
+    <sub-title>Liveübertragung Silvesterlauf 2025</sub-title>
+    <desc>Bozen beendet das Jahr wieder im Laufschritt: Seit 1975 findet in der Landeshauptstadt der Silvesterlauf statt. Nach den Freizeit- und Amateurläufen stellen die Eliterennen das Highlight dieses Lauftages dar. Die Eliterennen mit internationalen Top-Athleten werden schon seit Jahren von Rai Südtirol live übertragen. Auch heuer senden wir live vom Bozner Waltherplatz, um die Stimmung vom "größten Wohnzimmer" Südtirols in die Wohnzimmer der Südtiroler:innen zu bringen.</desc>
+  </programme>
+  <programme start="20251231200000 +0100" stop="20251231202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20251231202000 +0100" stop="20251231202508 +0100" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Die Brunecker Neujahrskarte</sub-title>
+    <desc>Früher gab es im Brunecker Bürgertum den Brauch, dass man statt persönlich überbrachter Neujahrswünsche sich mit einer schön gestalteten Karte von dieser Pflicht befreien konnte. Dieser besondere Brauch wurde heute wiederbelebt.</desc>
+  </programme>
+  <programme start="20251231203000 +0100" stop="20251231205930 +0100" channel="Rai Südtirol">
+    <title>Ansprache des Staatspräsidenten</title>
+    <sub-title>Sergio Mattarella zum Jahreswechsel</sub-title>
+    <desc>Staatspräsident Sergio Mattarella blickt bei seiner traditionellen Ansprache zum Jahreswechsel auf das in mehrfacher Hinsicht bewegte Jahr 2025 zurück und wirft einen Blick auf die Herausforderungen der kommenden Monate. Die Ansprache wird live ausgestrahlt und simultan ins Deutsche übersetzt.</desc>
+  </programme>
+  <programme start="20251231221000 +0100" stop="20251231223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260101200000 +0100" stop="20260101202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260101202000 +0100" stop="20260101204726 +0100" channel="Rai Südtirol">
+    <title>Der verborgene Schatz des Theaters von Meran</title>
+    <sub-title/>
+    <desc>Im Herzen von Meran, hinter den Kulissen des Stadttheaters, verbirgt sich ein richtiger Schatz: über 800 Theaterkostüme, die viele besondere Geschichten erzählen.
+
+Die Leiterin des Kostümfundus gibt Einblick in ihren Berufsalltag und zeigt, wie dieses außergewöhnliche Kulturerbe bewahrt wird. Durch den Blick von Roberto Condotta zeigt der Film, dass jedes Kostüm weit mehr ist als ein Kleidungsstück - ein Kunstwerk, das die Erinnerung und die Magie der Meraner Theaterbühne bewahrt.</desc>
+  </programme>
+  <programme start="20260101221000 +0100" stop="20260101223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
