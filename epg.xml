@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251226180000 +0100" stop="20251226182909 +0100" channel="Rai Südtirol">
-    <title>So schmeckt die Welt</title>
-    <sub-title>Malediven</sub-title>
-    <desc>Das Paradies auf Erden: die Malediven. Der Mittelpunkt der Erde, umgeben von anderen traumhaften Inseln. Sehen und staunen Sie nicht nur über die Schönheit dieser Insel, sondern auch über die kulinarische Vielfalt der maledivischen Küche. Ausgezeichneter Rum, den man auch gerne mit anderen geschmackintensiven Mitteln wie Minze oder Pfeffer zusammen genießt und die den Rum noch intensiver und überraschend neu schmecken lassen. Natürlich kommt die Kokosnuss nicht zu kurz und ist präsent vertreten in der Küche. Ebenfalls präsent ist die maledivische Chili, in ihr schmeckt man das Feuer der Malediven. Weniger feurig und mehr entspannend, erholt man sich auch gerne mal im Wellness und Spa Center. Auch wird Yoga auf der Insel gerne praktiziert. Im Zusammenhang mit einer leichten und fettarmen Köstlichkeit, findet Yoga viele begeisterte Anhänger.</desc>
-  </programme>
-  <programme start="20251226182900 +0100" stop="20251226185720 +0100" channel="Rai Südtirol">
-    <title>Aktion Sternsingen 2026</title>
-    <sub-title>Ein sicheres Zuhause für Kinder in Uganda</sub-title>
-    <desc>Jedes Jahr unterstützt die Aktion Sternsingen der Katholischen Jungschar Südtirols über 100 Projekte weltweit, die Kindern Schutz, Bildung und Zukunft ermöglichen. Für die Aktion Sternsingen 2026 führt der Weg nach Uganda, in das kleine Dorf Mparo im Süden des Landes. Im Sommer 2025 reisten Vertreterinnen und Vertreter der Katholischen Jungschar Südtirols gemeinsam mit dem Missionsamt der Diözese Bozen-Brixen nach Mparo, um das diesjährige Projekt vor Ort zu besuchen.
-Uganda ist ein Land voller Hoffnung, aber auch großer Herausforderungen. Viele Familien leben in einfachen Verhältnissen, und nicht alle Kinder haben Zugang zu Bildung oder einem sicheren Zuhause. Ziel des Projekts ist der Bau neuer Schlafsäle für die Kinder und Jugendlichen der Schule. Für viele von ihnen ist das Schulgelände zugleich ihr Zuhause, da sie von weit herkommen und nicht täglich nach Hause gehen können. Dank der Spenden, die durch die Sternsingerinnen und Sternsinger aus Südtirol gesammelt werden, entsteht dort ein Ort, an dem Kinder lernen, spielen, lachen, essen und einfach Kind sein können – ein Zuhause, das schützt und Perspektiven eröffnet. Für Kinder, die ihr Land von morgen gestalten werden.</desc>
-  </programme>
-  <programme start="20251226200000 +0100" stop="20251226202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251226202000 +0100" stop="20251226212111 +0100" channel="Rai Südtirol">
-    <title>Das Glück beim Händewaschen Teil 1</title>
-    <sub-title/>
-    <desc>Die Verfilmung des autobiografischen Romans von Joseph Zoderer: beschrieben wird das Schicksal eines Südtirolers vom 11. bis zum 15. Lebensjahr, der durch die zwischen Hitler und Mussolini getroffene Vereinbarung, alle deutschsprachigen Bewohner Südtirols auszusiedeln, überall zum Fremden geworden ist. Eine eindringliche Zeitstudie; in fast holzschnittartiger Einfachheit inszeniert und gespielt, wobei auch die Dialektmischungen dem Film bodenständige Echtheit geben.</desc>
-  </programme>
-  <programme start="20251226212100 +0100" stop="20251226215141 +0100" channel="Rai Südtirol">
-    <title>Altes Spielzeug</title>
-    <sub-title>Die Wiederkehr einer Sehnsucht</sub-title>
-    <desc>Die Puppe war die beste Freundin der Mädchen - und mit der Spielzeug-Eisenbahn bereisten die Buben die ganze Welt: In der Reportage mit dem Titel "Altes Spielzeug" werfen wir einen nostalgischen Blick in die gute alte Zeit. Die Beschäftigung mit Spielzeug ist eine spezielle, wundervolle Reise - häufig auch in die eigene Vergangenheit. Immer mehr Sammler, aber auch Interessierte beschäftigen sich mit Eisenbahnen in Miniatur-Ausgabe, mit Autos aus Blech, mit Puppen und Zinnsoldaten. Es sind Eindrücke aus der eigenen Kindheit. Die Filmemacher Astrid Kofler und Günther Neumair haben für diese Reportage nicht nur einige Museen in Südtirol besucht, sondern sich auch am Flohmarkt auf die Suche begeben, begleitet von Sammlern und Liebhabern des alten Spielzeugs. Das Motto dabei: "Die Wiederkehr einer Sehnsucht".</desc>
-  </programme>
-  <programme start="20251226215200 +0100" stop="20251226215941 +0100" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Ein Wintercamp für herzkranke Kinder</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20251226221000 +0100" stop="20251226223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251227180000 +0100" stop="20251227182930 +0100" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Giorgio Moroder</sub-title>
@@ -271,6 +235,33 @@ Taisten auf zwei Kufen rasant ins Tal.</desc>
 meist aus den Städten. Es hieß, dass sie im hohen Norden, in den Bergen, mit harter Arbeit viel Geld verdienen könnten. Bald zogen die Einheimischen zur Arbeit ins Tal. Sie waren Mechaniker für verschiedene Transportmittel oder Maschinen, für die Seilbahn, die das Erz transportierte, oder Angestellte in den Büros. Die Süditaliener arbeiteten stattdessen in den Bergwerken. Der Dokumentarfilm zeichnet die Spuren nach, die die süditalienischen Arbeiter im Tal hinterlassen haben.</desc>
   </programme>
   <programme start="20260103221000 +0100" stop="20260103223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260104200000 +0100" stop="20260104202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260104202000 +0100" stop="20260104203440 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Peter Schroffenegger</sub-title>
+    <desc>Peter Schroffenegger, 33, aus Gossensass zählt zu Südtirols stärksten Special-Olympics-Athleten im Langlauf. 
+Trotz seiner Beeinträchtigung - einer Veränderung am 13. Gen - trainiert er mit großer Disziplin und bei den Special Olympics 2025 in Turin wurde sein Einsatz belohnt: Peter holte die Bronzemedaille im Langlauf. Er steht wie kaum ein anderer für Willenskraft, Zielstrebigkeit und die Freude am Sport - ein Athlet, der wahrlich inspiriert und beeindruckt.</desc>
+  </programme>
+  <programme start="20260104203500 +0100" stop="20260104205021 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Punta Linke am Ortler</sub-title>
+    <desc>Zusammen mit Denkmalerpflegern aus Trient fliegt Moderator Thomas Hainz auf die Punta Linke im südlichen Ortler-Gebiet. Dort liegt eine Stellung samt Seilbahnstation aus dem Ersten Weltkrieg, die man restauriert hat.
+100 Jahre nach dem Ende der Kämpfe in Fels und Eis erfährt man immer noch Vieles über den Alltag der Soldaten in den hochalpinen Stellungen.</desc>
+  </programme>
+  <programme start="20260104205000 +0100" stop="20260104205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260104221000 +0100" stop="20260104223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
