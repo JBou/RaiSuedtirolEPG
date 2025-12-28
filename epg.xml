@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251227180000 +0100" stop="20251227182930 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Giorgio Moroder</sub-title>
-    <desc>In der neuen Ausgabe von "Privat" trifft Markus Frings auf den legendären Musiker und Produzenten Giorgio Moroder - direkt in Los Angeles. Der Südtiroler Pionier der elektronischen Musik, der heuer seinen 85. Geburtstag gefeiert hat, blickt im Gespräch auf ein außergewöhnliches Leben zurück. Moroder erzählt von seinen Anfängen in den 1960er-Jahren, von ersten Experimenten mit Synthesizern und davon, wie daraus Welthits für Donna Summer und zahlreiche weitere Stars entstanden. Mit sichtbarem Stolz spricht er über seine drei Oscars, mehrere Golden Globes und Grammy Awards, die er im Laufe seiner Karriere erhalten hat. Die Begegnung zeigt einen Künstler, der trotz weltweiten Erfolgs bodenständig und bescheiden geblieben ist.</desc>
-  </programme>
-  <programme start="20251227182900 +0100" stop="20251227185800 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Eine fast verstummte Sprache, das Griechisch-Kalabrische überlebt bis heute in einer Handvoll abgelegener Dörfer Kalabriens. Ihre Wurzeln reichen bis ins 8. Jahrhundert zurück und bilden eines der letzten lebenden Vermächtnisse der Magna Grecia.  Schätzungen zufolge sprechen heute nur noch rund 300 Menschen das Griechisch-Kalabrische. In den Dörfern Gallicianò, Bova, Bova Marina, Pentedattilo und Roghudi überlebt die Sprache seit fast 3000 Jahren. Diese Region ist jedoch, wie viele andere Gebiete Italiens auch, Opfer von Zwangsversetzungen, Landflucht und klimatischen Veränderungen. Zurück bleiben verfallene Häuser und verstummte Gassen. Die Sprache droht zu verschwinden.  
-Lydia Gasparini und Agostino Fuscaldo - auf den Spuren einer der ältesten lebenden Sprachen Europas und der Menschen, die sie hüten.</desc>
-  </programme>
-  <programme start="20251227200000 +0100" stop="20251227202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251227202000 +0100" stop="20251227202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251227202400 +0100" stop="20251227205330 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen entdecken genießen</sub-title>
-    <desc>Wir richten den Blick auf den wachsenden Anteil internationaler Mitarbeiterinnen und Mitarbeiter in Südtirols Küchen. Viele Betriebe könnten ohne sie längst nicht mehr arbeiten. Wir begleiten zwei Köche aus dem Ausland, die sich in Südtirol ein neues Leben aufgebaut haben und heute entscheidende Rollen in ihren Teams einnehmen. Ihre Geschichten zeigen, wie erfolgreich Zusammenarbeit gelingen kann - und wie sehr Südtirols Gastronomie auf qualifizierte Fachkräfte aus aller Welt angewiesen ist.
-Seit nunmehr zehn Jahren begegnen sich Kunst und Tourismus auf besondere Weise: Der Hoteliers- und Gastwirteverband Südtirol hat gemeinsam mit dem Südtiroler Künstlerbund erneut den Preis "HGV-Künstler:in des Jahres" vergeben. Die Jubiläumsauszeichnung ging heuer an die aus Laatsch im Vinschgau stammende und heute in Wien lebende freischaffende Künstlerin Julia Frank. Ihr Werk mit dem Titel "Regional. Saisonal. Radikal." ist Programm: Ausgehend von der typischen Ästhetik Südtiroler Hotels, Speisesäle und Gasthäuser verwandelt sie vertraute Symbole in neue künstlerische Aussagen. Dabei stellt sie eine zentrale Frage: Was bedeutet Gastfreundschaft wirklich - Tradition, Marketing oder echte Begegnung?
-Und wir blicken zurück: Im Gespräch mit Vertretern von IDM und HGV beleuchten wir tourismusrelevante Themen, die das ganze Land bewegen. Außerdem stellen wir den neuen Präsidenten des Hoteliers- und Gastwirteverbandes, Klaus Berger, vor und fragen nach, welche Schwerpunkte und Herausforderungen im kommenden Jahr bevorstehen.</desc>
-  </programme>
-  <programme start="20251227221000 +0100" stop="20251227223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251228200000 +0100" stop="20251228202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
