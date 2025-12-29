@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251228200000 +0100" stop="20251228202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251228202100 +0100" stop="20251228203540 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Carmen Thurner</sub-title>
-    <desc>Die Begeisterung für das schnelle Gleiten hat Carmen Thurner bestimmt von ihren Geschwistern übernommen, die sie schon im Kindesalter zum Eisschnelllaufen auf dem Eisring der Ritten Arena mitgenommen haben. Dabei entfachten sie in Carmen eine Leidenschaft, die sie durch die Höhen und Tiefen des Lebens tragen sollte. Auch ein intensives Psychologie-Studium an der Uni Innsbruck bremst sie nicht ein - doch reicht es für eine Teilnahme an den Olympischen Winterspielen 2026?</desc>
-  </programme>
-  <programme start="20251228203500 +0100" stop="20251228213416 +0100" channel="Rai Südtirol">
-    <title>Das Glück beim Händewaschen Teil 2</title>
-    <sub-title/>
-    <desc>Die Verfilmung des autobiografischen Romans von Joseph Zoderer: beschrieben wird das Schicksal eines Südtirolers vom 11. bis zum 15. Lebensjahr, der durch die zwischen Hitler und Mussolini getroffene Vereinbarung, alle deutschsprachigen Bewohner Südtirols auszusiedeln, überall zum Fremden geworden ist. Eine eindringliche Zeitstudie; in fast holzschnittartiger Einfachheit inszeniert und gespielt, wobei auch die Dialektmischungen dem Film bodenständige Echtheit geben.</desc>
-  </programme>
-  <programme start="20251228213400 +0100" stop="20251228213800 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251228221000 +0100" stop="20251228223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251229180000 +0100" stop="20251229182500 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Zimtschnecken-Kekse</sub-title>
