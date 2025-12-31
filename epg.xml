@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251230200000 +0100" stop="20251230202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251230202000 +0100" stop="20251230204930 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Vöran</sub-title>
-    <desc>Die Seilbahn Burgstall-Vöran, die Strohdächer, das Knottn-Kino mit seinem Panoramablick, aber auch besondere Menschen wie Läufer Matthias Zöggeler prägen das Dorf Vöran. Vöran liegt auf der sonnigen Anhöhe des Tschögglberges, hoch über dem Etschtal. Die Seilbahn Burgstall-Vöran gehört heute ebenso zum Dorfbild wie die Kirche oder die roten Felsen, die Knottn. Einst war das Dorf wegen seiner schwierigen Erreichbarkeit sehr isoliert und man suchte nach einer einfachen und schnellen Verbindung ins Tal. Zwischen 1901 und 1908 wurde eine erste Materialseilbahn gebaut. 50 Jahre später folgte die erste Seilbahn für Personen, die im Laufe der Jahre modernisiert wurde.
-Die Besonderheit in Vöran sind die letzten Strohdächer u.a. des Spitzeggerhofes oder des
-Gfrarhofes. Die geschnürten Bündel werden heute noch von Franz Egger gemacht, der die alte Technik noch bestens beherrscht. Und zu Vöran gehört auch das sogenannte Knottn-Kino, vom dem aus man das Panorama genießen kann: Der Blick reicht vom Weißhorn im Unterland bis hinauf ins Passeiertal.
-Mit dabei in der Sendung sind auch die drei Schwestern vom Gasthof Waldbichl, ein Grauviehzüchter und der Vöraner Läufer Matthäus Zöggeler.</desc>
-  </programme>
-  <programme start="20251230221000 +0100" stop="20251230223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20251231124500 +0100" stop="20251231140000 +0100" channel="Rai Südtirol">
     <title>Bo Classic</title>
     <sub-title>Liveübertragung Silvesterlauf 2025</sub-title>
