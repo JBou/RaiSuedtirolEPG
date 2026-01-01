@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20251231124500 +0100" stop="20251231140000 +0100" channel="Rai Südtirol">
-    <title>Bo Classic</title>
-    <sub-title>Liveübertragung Silvesterlauf 2025</sub-title>
-    <desc>Bozen beendet das Jahr wieder im Laufschritt: Seit 1975 findet in der Landeshauptstadt der Silvesterlauf statt. Nach den Freizeit- und Amateurläufen stellen die Eliterennen das Highlight dieses Lauftages dar. Die Eliterennen mit internationalen Top-Athleten werden schon seit Jahren von Rai Südtirol live übertragen. Auch heuer senden wir live vom Bozner Waltherplatz, um die Stimmung vom "größten Wohnzimmer" Südtirols in die Wohnzimmer der Südtiroler:innen zu bringen.</desc>
-  </programme>
-  <programme start="20251231200000 +0100" stop="20251231202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20251231202000 +0100" stop="20251231202508 +0100" channel="Rai Südtirol">
-    <title>Net amol gwisst</title>
-    <sub-title>Die Brunecker Neujahrskarte</sub-title>
-    <desc>Früher gab es im Brunecker Bürgertum den Brauch, dass man statt persönlich überbrachter Neujahrswünsche sich mit einer schön gestalteten Karte von dieser Pflicht befreien konnte. Dieser besondere Brauch wurde heute wiederbelebt.</desc>
-  </programme>
-  <programme start="20251231203000 +0100" stop="20251231205930 +0100" channel="Rai Südtirol">
-    <title>Ansprache des Staatspräsidenten</title>
-    <sub-title>Sergio Mattarella zum Jahreswechsel</sub-title>
-    <desc>Staatspräsident Sergio Mattarella blickt bei seiner traditionellen Ansprache zum Jahreswechsel auf das in mehrfacher Hinsicht bewegte Jahr 2025 zurück und wirft einen Blick auf die Herausforderungen der kommenden Monate. Die Ansprache wird live ausgestrahlt und simultan ins Deutsche übersetzt.</desc>
-  </programme>
-  <programme start="20251231221000 +0100" stop="20251231223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260101200000 +0100" stop="20260101202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -135,6 +110,140 @@ Trotz seiner Beeinträchtigung - einer Veränderung am 13. Gen - trainiert er 
     <desc/>
   </programme>
   <programme start="20260104221000 +0100" stop="20260104223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260105180000 +0100" stop="20260105183032 +0100" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>La Valse</sub-title>
+    <desc>Es ist die klassische Wiener Kaffeehausmusik, der sich "La Valse" verschrieben hat. Die sechs musikalischen Frauen kommen aus ganz Südtirol und verbreiten das Flair der guten alten Zeit. Die Geschichte dieses Damensalonorchesters beginnt 1998, als die eleganten Damen mit ihren ersten Auftritten in Südtirol aufhorchen lassen. Wie für die Wiener Salonmusik üblich, spielen sie in klassischer Besetzung mit Stehgeige, Violine, Violoncello, Flöte, Klarinette und Klavier. In ihrem Repertoire sind bekannte Walzer- und Operettenmelodien, aber auch Polkas, Märsche und
+Tangos.</desc>
+  </programme>
+  <programme start="20260105183000 +0100" stop="20260105185700 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Das Gespannfahren mit Kutsche und Wagen. Südtirols einziger Gnadenhof am Haidersee, wo Tiere in Not eine gute Bleibe finden. Außerdem geht es um Vierbeiner, die ein neues Zuhause suchen. Der Fahrsport, das Fahren mit Kutschen und Wagen ist ein Pferdesport, der auch in Südtirol unterrichtet wird. Wir haben uns beim Reitlehrer, Trainer und ehemaligen Turnierfahrer Hannes Weitlaner angesehen, worauf es beim Gespannfahren ankommt.  
+Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer Kommunikation und Respekt geprägt und geht über die bloße Nutzung des Pferdes als Zugtier weit hinaus. 
+Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20260105200000 +0100" stop="20260105202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260105202100 +0100" stop="20260105210543 +0100" channel="Rai Südtirol">
+    <title>Sandkasten Kunst</title>
+    <sub-title>Künstlerfamilien in Südtirol</sub-title>
+    <desc>Kunst lehrt Kinder das Sehen. Sie regt an, Dinge genauer zu betrachten. Wie aber ist es, mit Leinwänden, Farben und Noten aufzuwachsen, groß zu werden zwischen Höhen und Tiefen, Musik und Malerei? 
+Astrid Kofler und Günther Neumair haben sieben Südtiroler Künstlerfamilien besucht und erfahren, wie gemeinsame Sprache verbindet, dass Vater und Sohn in ihren Rollen durchaus Konflikte haben können, als Künstler aber Freunde sind.</desc>
+  </programme>
+  <programme start="20260105210600 +0100" stop="20260105215352 +0100" channel="Rai Südtirol">
+    <title>Albanien in Südtirol</title>
+    <sub-title/>
+    <desc>Die Ersten kamen 1991 aus Albanien. 30 Jahre später holt Filmemacher Erald Dika die Einwanderer und ihre Nachkommen vor die Kamera: "Albanien in Südtirol" ist ein Porträt über Erwartungen, Enttäuschungen, Hoffnungen.</desc>
+  </programme>
+  <programme start="20260105215300 +0100" stop="20260105215833 +0100" channel="Rai Südtirol">
+    <title>Und doch sind wir anders</title>
+    <sub-title>Rollstuhlhockeyspieler Daniel Boaru</sub-title>
+    <desc>Der junge Daniel Boaru stammt aus der Republik Moldau und lebt heute in Bozen. Er hat sich durch Rollstuhlhockey einen Namen gemacht. Er spielt im Team der Tigers Bozen, und der Kampf um den Erfolg in den Playoffs demonstrieren seinen unermüdlichen Einsatz und seine Hingabe. Daniels Geschichte ist ein inspirierendes Beispiel für die Kraft des Sports, Barrieren zu überwinden und Menschen zusammenzubringen, unabhängig von ihrer Herkunft.</desc>
+  </programme>
+  <programme start="20260105221000 +0100" stop="20260105223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260106200000 +0100" stop="20260106202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260106202000 +0100" stop="20260106204930 +0100" channel="Rai Südtirol">
+    <title>Mahlzeit</title>
+    <sub-title>Am Tisch bei den drei Weltreligionen</sub-title>
+    <desc>So wie die drei Weisen aus dem Morgenland gemeinsam auf dem Weg waren, so treffen sich
+Vertreter dreier Weltreligionen um gemeinsam zu kochen und zu diskutieren - als Beitrag für den
+Frieden.
+Am 6. Jänner ist Dreikönigstag und die Legende erzählt, dass drei Könige aus den Erdteilen Europa, Asien und Afrika gemeinsam dem Stern von Bethlehem folgten. Ganz nach diesem Motto treffen sich drei Vertreter von den jeweiligen drei Weltreligionen um gemeinsam ein Menü zu kochen: und zwar Don Paolo Zambaldi, ein katholischer Priester, Cheema Mohammad Jamil, der Präsident vom Islamic Center Brixen und Günther Lieder, der Präsident der jüdischen Kultusgemeinde Tirol und Vorarlberg. Im Sankt Anna Kloster in Eppan werden Themen wie Integration und Akzeptanz besprochen und es werden Geschichten aus dem Leben eines Gläubigen mit Humor und einem Augenzwinkern ausgetauscht.</desc>
+  </programme>
+  <programme start="20260106221000 +0100" stop="20260106223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260107200000 +0100" stop="20260107202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260107202000 +0100" stop="20260107205008 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Die Tunnelbauer</title>
+    <sub-title/>
+    <desc>Überall im Land werden Tunnel gebaut. Doch was passiert hinter Absperrgittern? Die Dokumentation von Andreas Niederkofler gibt Einblick in die Tunnel-Baustelle bei Percha.
+
+Der Film begleitet den Bau vom Sprengvortrieb bis zur Präzisionsarbeit der Vermesser. Im Mittelpunkt stehen nicht nur Maschinen und Spritzbeton, sondern vor allem die Menschen dahinter: Mineure, Sprengmeister, Vermessungstechniker, Mechaniker und Ingenieure. Der Durchschlag im Oktober 2025 bildet einen der Höhepunkte. Wenn das Licht von der Gegenseite durchbricht, ist das ein großer Moment. Dann wird sichtbar, wofür jahrelang gebaut geplant und gebaut worden ist, damit der Verkehr den Ort in Zukunft weniger belastet.</desc>
+  </programme>
+  <programme start="20260107221000 +0100" stop="20260107223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260108200000 +0100" stop="20260108202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260108202000 +0100" stop="20260108204957 +0100" channel="Rai Südtirol">
+    <title>Alois Vijo Pupp</title>
+    <sub-title>Architekt des modernen Südtirol</sub-title>
+    <desc>Alois Pupp (1901-1973) war ein bedeutender Südtiroler Politiker, von 1956 bis 1960 der zweite Landeshauptmann Südtirols, ein einflussreicher Gestalter der Autonomie.
+
+Er war Mitglied der Südtiroler Volkspartei und prägte die Anfangsjahre der Autonomie Südtirols. In einer politisch schwierigen Zeit, geprägt von Spannungen zwischen Südtirol und dem italienischen Zentralstaat, setzte sich Pupp für die Rechte der deutsch- und ladinischsprachigen Bevölkerung ein. Er legte den Grundstein für viele politische und kulturelle Entwicklungen, die Südtirols Identität bis heute prägen. Pupp wird als Brückenbauer zwischen den verschiedenen Bevölkerungsgruppen in Erinnerung behalten.</desc>
+  </programme>
+  <programme start="20260108221000 +0100" stop="20260108223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260109180000 +0100" stop="20260109182852 +0100" channel="Rai Südtirol">
+    <title>Karriereleitern</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland - Folge 1</sub-title>
+    <desc>Stefan Perkmann Berger aus Meran ist ein Netzwerker und Unternehmensberater, der auch
+selbst ein Unternehmen leitet. Whataventure mit Sitz in Wien hilft dabei, Innovationsprojekte
+umzusetzen. Derzeit ist Stefan Perkmann Berger vor allem mit dem Aufbau des Holzbau-Unternehmens
+Woodspace beschäftigt. Stefan ist Mitglied von Südstern, dem Netzwerk der Südtiroler im Ausland, und wurde 2014 mit dem Futura-Förderpreis ausgezeichnet. 
+Auch Nora Dejaco ist Mitglied bei Südstern. Sie stammt aus Bruneck und lebt in Wien. Sie setzt sich für Chancengleichheit und Selbstbestimmung ein. Zum Beispiel mit der Gründung von Thrive+, eine Bewegung, die sich für eine chancengerechtere Welt einsetzt. Außerdem leitet Nora Dejaco das Netzwerk AES - IN MOTION für Innovation im Produktionssektor. Als zertifizierte Mentaltrainerin hilft sie anderen, ihr volles Potenzial zu entfalten.</desc>
+  </programme>
+  <programme start="20260109182800 +0100" stop="20260109185808 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Die Tunnelbauer</title>
+    <sub-title/>
+    <desc>Überall im Land werden Tunnel gebaut. Doch was passiert hinter Absperrgittern? Die Dokumentation von Andreas Niederkofler gibt Einblick in die Tunnel-Baustelle bei Percha.
+Der Film begleitet den Bau vom Sprengvortrieb bis zur Präzisionsarbeit der Vermesser. Im Mittelpunkt stehen nicht nur Maschinen und Spritzbeton,sondern vor allem die Menschen dahinter: Mineure, Sprengmeister, Vermessungstechniker, Mechaniker und Ingenieure. Der Durchschlag im Oktober 2025 bildet einen der Höhepunkte. Wenn das Licht von der Gegenseite durchbricht, ist das ein großer Moment. Dann wird sichtbar, wofür jahrelang gebaut geplant und gebaut worden ist, damit der Verkehr den Ort in Zukunft weniger belastet.</desc>
+  </programme>
+  <programme start="20260109200000 +0100" stop="20260109202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260109202100 +0100" stop="20260109211009 +0100" channel="Rai Südtirol">
+    <title>Schnee auf Knopfdruck</title>
+    <sub-title>Technische Beschneiung in Südtirol</sub-title>
+    <desc>In den letzten Jahrzehnten hat sich der Wintertourismus zu einem nicht mehr wegzudenkenden Wirtschaftsfaktor entwickelt, der jedoch ganz wesentlich von  der technischen Beschneiung abhängt. 
+
+Ohne dieses Hilfsmittel wäre das Skifahren in den meisten Gegenden überhaupt nicht mehr möglich, zumindest nicht in der jetzigen Form. Doch was genau verbirgt sich dahinter? Wie wird das Element Schnee produziert und wie geht die Branche mit den Schwierigkeiten um, die der Klimawandel mit sich bringt? Ein Film von Claudia Bosch.</desc>
+  </programme>
+  <programme start="20260109211000 +0100" stop="20260109213900 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Wir richten den Blick auf den wachsenden Anteil internationaler Mitarbeiterinnen und Mitarbeiter in Südtirols Küchen. Viele Betriebe könnten ohne sie längst nicht mehr arbeiten. Wir begleiten zwei Köche aus dem Ausland, die sich in Südtirol ein neues Leben aufgebaut haben und heute entscheidende Rollen in ihren Teams einnehmen. Ihre Geschichten zeigen, wie erfolgreich Zusammenarbeit gelingen kann - und wie sehr Südtirols Gastronomie auf qualifizierte Fachkräfte aus aller Welt angewiesen ist. Seit nunmehr zehn Jahren begegnen sich Kunst und Tourismus auf besondere Weise: Der Hoteliers- und Gastwirteverband Südtirol hat gemeinsam mit dem Südtiroler Künstlerbund erneut den Preis "HGV-Künstler:in des Jahres" vergeben. Die Jubiläumsauszeichnung ging heuer an die aus Laatsch im Vinschgau stammende und heute in Wien lebende freischaffende Künstlerin Julia Frank. Ihr Werk mit dem Titel "Regional. Saisonal. Radikal." ist Programm: Ausgehend von der typischen Ästhetik Südtiroler Hotels, Speisesäle und Gasthäuser verwandelt sie vertraute Symbole in neue künstlerische Aussagen. Dabei stellt sie eine zentrale Frage: Was bedeutet Gastfreundschaft wirklich - Tradition, Marketing oder echte Begegnung?
+Und wir blicken zurück: Im Gespräch mit Vertretern von IDM und HGV beleuchten wir tourismusrelevante Themen, die das ganze Land bewegen. Außerdem stellen wir den neuen Präsidenten des Hoteliers- und Gastwirteverbandes, Klaus Berger, vor und fragen nach, welche Schwerpunkte und Herausforderungen im kommenden Jahr bevorstehen.</desc>
+  </programme>
+  <programme start="20260109213900 +0100" stop="20260109215932 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Eisklettern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260109221000 +0100" stop="20260109223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
