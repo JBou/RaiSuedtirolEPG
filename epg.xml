@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260102180000 +0100" stop="20260102185820 +0100" channel="Rai Südtirol">
-    <title>So jagt Südtirol</title>
-    <sub-title>Unterwegs in heimischen Revieren</sub-title>
-    <desc>Die Jagd wird oftmals mit sehr kritischem Auge betrachtet, nicht nur in Südtirol. Willi Rainer und Wolfgang Moser beleuchten das Südtiroler Jagdwesen und werden einen Blick hinter die Kulissen. Die Jagd war in der Geschichte der Menschheit ausschlaggebend für das Überleben unserer Spezies. Auch wenn dieser Grund zur Jagd schon längst nicht mehr ausschlaggebend ist, hat sie auch heute noch einen hohen Stellenwert. Südtirol hat eine lange Jagdgeschichte: Vor allem Kaiser Maximilian I. fand großen Gefallen an der Jagd in Südtirols Wäldern. Im Südtiroler Landesmuseum für Jagd und Fischerei, auf Schloss Wolfsthurn in Mareit, ist eine umfangreiche kulturhistorische Sammlung zur Jagdgeschichte zusehen. Um heute Jäger zu werden, muss eine Prüfung abgelegt werden, die sogenannte "grüne Matura". Voraussetzung ist ein breitgefächertes Wissen über Wildtiere, Vögel, Flora und Fauna. Auch immer mehr Frauen interessieren sich für die Jagd und absolvieren die Jägerprüfung.</desc>
-  </programme>
-  <programme start="20260102200000 +0100" stop="20260102202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260102202000 +0100" stop="20260102211000 +0100" channel="Rai Südtirol">
-    <title>Notfallmedizin in Südtirol</title>
-    <sub-title>Wenn jede Sekunde zählt</sub-title>
-    <desc>In Südtirol sind rund um die Uhr zahlreiche Notärzte, Notärztinnen und Rettungskräfte im Einsatz, damit verletzte und Erkrankte Menschen so schnell wie möglich versorgt werden können.  
-
-Dabei sind sie Teil eines ausgeklügelten notfallmedizinischen Modells, das hierzulande anders aufgebaut ist als in den meisten Ländern. Gerade weil es Unterschiede und Besonderheiten gibt, lohnt sich ein genauerer Blick auf diesen im wahrsten Sinne des Wortes ,lebensrettenden Sektor'. Die Filmemacher Claudia Bosch und Hans Peter Karbon begleiten in ihrer Dokumentation nicht nur Notärzt:innen auf der Intensivstation oder im Schockraum, sondern auch im luft- und bodengebundenen Rettungsdienst und in der Landesnotrufzentrale.</desc>
-  </programme>
-  <programme start="20260102211100 +0100" stop="20260102215432 +0100" channel="Rai Südtirol">
-    <title>Durch den Pinzgau</title>
-    <sub-title>Vom Raurisertal zum Hochkönig</sub-title>
-    <desc>Zu Besuch in verschneiten Hochtälern und auf Bergbauernhöfen, wo winterliche Traditionen und Bräuche gepflegt werden wie das Schnapsbrennen und das Filzen. Ein Film von Alfred Ninaus. Wir lernen zwei urtümliche Pinzgauer Regionen und ihre Menschen kennen, z.B. Andreas Gschwandtner, vulgo Schriflingbauer, der den Bergbauernhof mit 28 Jahren übernahm. Noch heute transportiert er sein Heu mit dem Schlitten. Der junge Franz Schwiger freut sich über jede Ziege, die in seinem Stall zur Welt kommt. Und
-Mutter Klara bietet auf ihrer Skihütte nicht nur Kulinarisches an, sondern auch selbstgefilzte Patschen.</desc>
-  </programme>
-  <programme start="20260102215400 +0100" stop="20260102215908 +0100" channel="Rai Südtirol">
-    <title>Net amol gwisst</title>
-    <sub-title>Die Brunecker Neujahrskarte</sub-title>
-    <desc>Früher gab es im Brunecker Bürgertum den Brauch, dass man statt persönlich überbrachter Neujahrswünsche sich mit einer schön gestalteten Karte von dieser Pflicht befreien konnte. Dieser besondere Brauch wurde heute wiederbelebt.</desc>
-  </programme>
-  <programme start="20260102221000 +0100" stop="20260102223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260103180000 +0100" stop="20260103183000 +0100" channel="Rai Südtirol">
     <title>Haiziaga von Gseis</title>
     <sub-title>Von der Bergmahd bis zum Heuziehen im Winter</sub-title>
@@ -264,6 +231,31 @@ als die gesegnete, geradezu heilige Ecke des Gehöfts, wo man beten, dem Herrgot
 schenkt vielen Menschen in guten wie in schlechten Zeiten Zuversicht, Hoffnung und Halt. Eine Dokumentation von Michaela Falkensteiner und Günther Neumair.</desc>
   </programme>
   <programme start="20260110221000 +0100" stop="20260110223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260111200000 +0100" stop="20260111202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260111202000 +0100" stop="20260111202030 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 2</title>
+    <sub-title>Die Biathleten Kiem, Passler, Taschler, Zingerle</sub-title>
+    <desc>Die erste Südtiroler Medaille im Biathlon holten der Vinschger Werner Kiem und die Antholzer Johann Passler, Gottlieb Taschler und Andreas Zingerle bei den Olympischen Winterspielen 1988 in Calgary: Sie gewannen Bronze in der 4x7,5km-Staffel.</desc>
+  </programme>
+  <programme start="20260111202000 +0100" stop="20260111204716 +0100" channel="Rai Südtirol">
+    <title>Genusswanderung auf der Seiser Alm</title>
+    <sub-title/>
+    <desc>Die Seiser Alm ist eine der schönsten Hochalmen weitum, doch leider ist sie auch überlaufen. Aber es gibt auch noch einige Gegenden, wo man nur wenigen Menschen begegnet, zB bei der Rundwanderung am Puflasch, wo man einen 360 Grad-Rundblick auf die verschneiten Bergspitzen hat. Theo Hendrich ist mit Wanderführer Diego Deiana unterwegs. Der kennt die Tiere und Pflanzen dieser Gegend bestens und auch die Almhütten, wo man einkehren kann. Auf der Tschötsch-Alm gibt der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
+  </programme>
+  <programme start="20260111204700 +0100" stop="20260111205100 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260111221000 +0100" stop="20260111223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
