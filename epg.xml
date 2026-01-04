@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260103180000 +0100" stop="20260103183000 +0100" channel="Rai Südtirol">
-    <title>Haiziaga von Gseis</title>
-    <sub-title>Von der Bergmahd bis zum Heuziehen im Winter</sub-title>
-    <desc>Das "Haiziag'n" ist ein uralter Brauch, der - fast - in Vergessenheit geraten ist. Die Pustertaler Filmemacher Claudia Bachmann und Manfred Feichter begleiten daher eine Gruppe von Männern beim Mähen und "Haiziag'n". Es sind "Haiziaga" unserer Tage, die in der Kleidung und mit den Arbeitsgeräten aus früherer Zeit
-zur Versellalm in Gsies aufbrechen. Begleitet werden sie dabei von erfahrenen Mähern und Heuziehern. Auf rund 2000 Meter werden die steilen Bergwiesen noch heute mit der Sense gemäht. Das Heu lagert man anschließend bis zum Winter in verwitterten Schupfen. In diesen Wochen treten die "Haiziaga" in Aktion. Sie ziehen die Heubündel mit reiner Muskelkraft über eine händisch präparierte Rinne zu Tal. Es wird eine rasante, mitunter auch gefährliche Abfahrt.</desc>
-  </programme>
-  <programme start="20260103183000 +0100" stop="20260103185911 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>In den Gsieser Bergen</sub-title>
-    <desc>Winterfreuden genießen ohne das eigene Auto zu benutzen, zu Besuch beim Künstler Luis Seiwald und ein Rodelausflug mit dem ehemaligen Rodel-Ass Ernst Haspinger. Das Bergwelt-Team möchte gerne mit den öffentlichen Verkehrsmitteln eine Skitour unternehmen und macht die Probe aufs Exempel - mit dem Fahrplanexperten des Landes Heinz Dellago. Er hat eine Überschreitung in den Gsieser Bergen ausgesucht, von St. Magdalena nach Kalkstein im Villgrattental. Danach ist Thomas Hainz ist zu Besuch bei Luis Seiwald. Der Künstler aus Pichl sucht für eines seiner Projekte Energiepunkte in seinen Heimatbergen. Und zuletzt geht's mit dem ehemaligen Rodel Weltcup-Gesamtsieger Ernst Haspinger aus
-Taisten auf zwei Kufen rasant ins Tal.</desc>
-  </programme>
-  <programme start="20260103200000 +0100" stop="20260103202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260103202100 +0100" stop="20260103202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Olaf Wurm</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260103202500 +0100" stop="20260103205914 +0100" channel="Rai Südtirol">
-    <title>Schneeberg</title>
-    <sub-title>Zwei Kulturen, ein Leben</sub-title>
-    <desc>In den 1960er Jahren kamen Bergleute aus Süditalien, um im Bergwerk Schneeberg zu arbeiten, während die Einheimischen lieber ins Tal zogen. Welche Spuren haben die Süditaliener hinterlassen? Der Bergbau in Ridnaun entstand zwischen dem 18. und 19.Jahrhundert. Das Leben auf 2355 Metern war jedoch hart. Im Winter türmte sich der Schnee meterhoch auf. Es gab so gut wie keine Heizung, kein fließendes Wasser und auch keine Privatsphäre. In den 1960er Jahren waren immer weniger Bergleute bereit, unter diesen harten Bedingungen in Schneeberg zu arbeiten und zu leben. Gerade in diesen Jahren kamen viele Bergleute aus den Abruzzen und Kampanien nach Südtirol,
-meist aus den Städten. Es hieß, dass sie im hohen Norden, in den Bergen, mit harter Arbeit viel Geld verdienen könnten. Bald zogen die Einheimischen zur Arbeit ins Tal. Sie waren Mechaniker für verschiedene Transportmittel oder Maschinen, für die Seilbahn, die das Erz transportierte, oder Angestellte in den Büros. Die Süditaliener arbeiteten stattdessen in den Bergwerken. Der Dokumentarfilm zeichnet die Spuren nach, die die süditalienischen Arbeiter im Tal hinterlassen haben.</desc>
-  </programme>
-  <programme start="20260103221000 +0100" stop="20260103223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260104200000 +0100" stop="20260104202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
