@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260104200000 +0100" stop="20260104202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260104202000 +0100" stop="20260104203440 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Peter Schroffenegger</sub-title>
-    <desc>Peter Schroffenegger, 33, aus Gossensass zählt zu Südtirols stärksten Special-Olympics-Athleten im Langlauf. 
-Trotz seiner Beeinträchtigung - einer Veränderung am 13. Gen - trainiert er mit großer Disziplin und bei den Special Olympics 2025 in Turin wurde sein Einsatz belohnt: Peter holte die Bronzemedaille im Langlauf. Er steht wie kaum ein anderer für Willenskraft, Zielstrebigkeit und die Freude am Sport - ein Athlet, der wahrlich inspiriert und beeindruckt.</desc>
-  </programme>
-  <programme start="20260104203500 +0100" stop="20260104205021 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Punta Linke am Ortler</sub-title>
-    <desc>Zusammen mit Denkmalerpflegern aus Trient fliegt Moderator Thomas Hainz auf die Punta Linke im südlichen Ortler-Gebiet. Dort liegt eine Stellung samt Seilbahnstation aus dem Ersten Weltkrieg, die man restauriert hat.
-100 Jahre nach dem Ende der Kämpfe in Fels und Eis erfährt man immer noch Vieles über den Alltag der Soldaten in den hochalpinen Stellungen.</desc>
-  </programme>
-  <programme start="20260104205000 +0100" stop="20260104205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Olaf Wurm</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260104221000 +0100" stop="20260104223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260105180000 +0100" stop="20260105183032 +0100" channel="Rai Südtirol">
     <title>Musigzeit</title>
     <sub-title>La Valse</sub-title>
