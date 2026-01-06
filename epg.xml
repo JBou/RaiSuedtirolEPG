@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260105180000 +0100" stop="20260105183032 +0100" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>La Valse</sub-title>
-    <desc>Es ist die klassische Wiener Kaffeehausmusik, der sich "La Valse" verschrieben hat. Die sechs musikalischen Frauen kommen aus ganz Südtirol und verbreiten das Flair der guten alten Zeit. Die Geschichte dieses Damensalonorchesters beginnt 1998, als die eleganten Damen mit ihren ersten Auftritten in Südtirol aufhorchen lassen. Wie für die Wiener Salonmusik üblich, spielen sie in klassischer Besetzung mit Stehgeige, Violine, Violoncello, Flöte, Klarinette und Klavier. In ihrem Repertoire sind bekannte Walzer- und Operettenmelodien, aber auch Polkas, Märsche und
-Tangos.</desc>
-  </programme>
-  <programme start="20260105183000 +0100" stop="20260105185700 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Das Gespannfahren mit Kutsche und Wagen. Südtirols einziger Gnadenhof am Haidersee, wo Tiere in Not eine gute Bleibe finden. Außerdem geht es um Vierbeiner, die ein neues Zuhause suchen. Der Fahrsport, das Fahren mit Kutschen und Wagen ist ein Pferdesport, der auch in Südtirol unterrichtet wird. Wir haben uns beim Reitlehrer, Trainer und ehemaligen Turnierfahrer Hannes Weitlaner angesehen, worauf es beim Gespannfahren ankommt.  
-Die Beziehung zwischen Pferd und Fahrer ist von gegenseitigem Vertrauen, klarer Kommunikation und Respekt geprägt und geht über die bloße Nutzung des Pferdes als Zugtier weit hinaus. 
-Tiere, die vor dem Schlachten gerettet worden sind oder aus einer Notsituation kommen, finden auf einem Bauernhof am Haidersee im Vinschgau Zuflucht. Der Verein "Lebenshof Magmir" führt den ersten und einzigen Gnadenhof Südtirols, eine Einrichtung, in der Tiere ein dauerhaftes Zuhause finden und bis zu ihrem natürlichen Tod versorgt werden. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20260105200000 +0100" stop="20260105202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260105202100 +0100" stop="20260105210543 +0100" channel="Rai Südtirol">
-    <title>Sandkasten Kunst</title>
-    <sub-title>Künstlerfamilien in Südtirol</sub-title>
-    <desc>Kunst lehrt Kinder das Sehen. Sie regt an, Dinge genauer zu betrachten. Wie aber ist es, mit Leinwänden, Farben und Noten aufzuwachsen, groß zu werden zwischen Höhen und Tiefen, Musik und Malerei? 
-Astrid Kofler und Günther Neumair haben sieben Südtiroler Künstlerfamilien besucht und erfahren, wie gemeinsame Sprache verbindet, dass Vater und Sohn in ihren Rollen durchaus Konflikte haben können, als Künstler aber Freunde sind.</desc>
-  </programme>
-  <programme start="20260105210600 +0100" stop="20260105215352 +0100" channel="Rai Südtirol">
-    <title>Albanien in Südtirol</title>
-    <sub-title/>
-    <desc>Die Ersten kamen 1991 aus Albanien. 30 Jahre später holt Filmemacher Erald Dika die Einwanderer und ihre Nachkommen vor die Kamera: "Albanien in Südtirol" ist ein Porträt über Erwartungen, Enttäuschungen, Hoffnungen.</desc>
-  </programme>
-  <programme start="20260105215300 +0100" stop="20260105215833 +0100" channel="Rai Südtirol">
-    <title>Und doch sind wir anders</title>
-    <sub-title>Rollstuhlhockeyspieler Daniel Boaru</sub-title>
-    <desc>Der junge Daniel Boaru stammt aus der Republik Moldau und lebt heute in Bozen. Er hat sich durch Rollstuhlhockey einen Namen gemacht. Er spielt im Team der Tigers Bozen, und der Kampf um den Erfolg in den Playoffs demonstrieren seinen unermüdlichen Einsatz und seine Hingabe. Daniels Geschichte ist ein inspirierendes Beispiel für die Kraft des Sports, Barrieren zu überwinden und Menschen zusammenzubringen, unabhängig von ihrer Herkunft.</desc>
-  </programme>
-  <programme start="20260105221000 +0100" stop="20260105223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260106200000 +0100" stop="20260106202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
