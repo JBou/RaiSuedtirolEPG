@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260106200000 +0100" stop="20260106202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260106202000 +0100" stop="20260106204930 +0100" channel="Rai Südtirol">
-    <title>Mahlzeit</title>
-    <sub-title>Am Tisch bei den drei Weltreligionen</sub-title>
-    <desc>So wie die drei Weisen aus dem Morgenland gemeinsam auf dem Weg waren, so treffen sich
-Vertreter dreier Weltreligionen um gemeinsam zu kochen und zu diskutieren - als Beitrag für den
-Frieden.
-Am 6. Jänner ist Dreikönigstag und die Legende erzählt, dass drei Könige aus den Erdteilen Europa, Asien und Afrika gemeinsam dem Stern von Bethlehem folgten. Ganz nach diesem Motto treffen sich drei Vertreter von den jeweiligen drei Weltreligionen um gemeinsam ein Menü zu kochen: und zwar Don Paolo Zambaldi, ein katholischer Priester, Cheema Mohammad Jamil, der Präsident vom Islamic Center Brixen und Günther Lieder, der Präsident der jüdischen Kultusgemeinde Tirol und Vorarlberg. Im Sankt Anna Kloster in Eppan werden Themen wie Integration und Akzeptanz besprochen und es werden Geschichten aus dem Leben eines Gläubigen mit Humor und einem Augenzwinkern ausgetauscht.</desc>
-  </programme>
-  <programme start="20260106221000 +0100" stop="20260106223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260107200000 +0100" stop="20260107202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
