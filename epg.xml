@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260108200000 +0100" stop="20260108202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260108202000 +0100" stop="20260108204957 +0100" channel="Rai Südtirol">
-    <title>Alois Vijo Pupp</title>
-    <sub-title>Architekt des modernen Südtirol</sub-title>
-    <desc>Alois Pupp (1900-1969) war ein bedeutender Südtiroler Politiker, von 1956 bis 1960 der zweite Landeshauptmann Südtirols, ein einflussreicher Gestalter der Autonomie.
-
-Er war Mitglied der Südtiroler Volkspartei und prägte die Anfangsjahre der Autonomie Südtirols. In einer politisch schwierigen Zeit, geprägt von Spannungen zwischen Südtirol und dem italienischen Zentralstaat, setzte sich Pupp für die Rechte der deutsch- und ladinischsprachigen Bevölkerung ein. Er legte den Grundstein für viele politische und kulturelle Entwicklungen, die Südtirols Identität bis heute prägen. Pupp wird als Brückenbauer zwischen den verschiedenen Bevölkerungsgruppen in Erinnerung behalten.</desc>
-  </programme>
-  <programme start="20260108221000 +0100" stop="20260108223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260109180000 +0100" stop="20260109182852 +0100" channel="Rai Südtirol">
     <title>Karriereleitern</title>
     <sub-title>Erfolgreiche Südtiroler:innen im Ausland - Folge 1</sub-title>
