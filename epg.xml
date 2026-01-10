@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260109180000 +0100" stop="20260109182852 +0100" channel="Rai Südtirol">
-    <title>Karriereleitern</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland - Folge 1</sub-title>
-    <desc>Stefan Perkmann Berger aus Meran ist ein Netzwerker und Unternehmensberater, der auch
-selbst ein Unternehmen leitet. Whataventure mit Sitz in Wien hilft dabei, Innovationsprojekte
-umzusetzen. Derzeit ist Stefan Perkmann Berger vor allem mit dem Aufbau des Holzbau-Unternehmens
-Woodspace beschäftigt. Stefan ist Mitglied von Südstern, dem Netzwerk der Südtiroler im Ausland, und wurde 2014 mit dem Futura-Förderpreis ausgezeichnet. 
-Auch Nora Dejaco ist Mitglied bei Südstern. Sie stammt aus Bruneck und lebt in Wien. Sie setzt sich für Chancengleichheit und Selbstbestimmung ein. Zum Beispiel mit der Gründung von Thrive+, eine Bewegung, die sich für eine chancengerechtere Welt einsetzt. Außerdem leitet Nora Dejaco das Netzwerk AES - IN MOTION für Innovation im Produktionssektor. Als zertifizierte Mentaltrainerin hilft sie anderen, ihr volles Potenzial zu entfalten.</desc>
-  </programme>
-  <programme start="20260109182800 +0100" stop="20260109185808 +0100" channel="Rai Südtirol">
-    <title>Das Thema: Die Tunnelbauer</title>
-    <sub-title/>
-    <desc>Überall im Land werden Tunnel gebaut. Doch was passiert hinter Absperrgittern? Die Dokumentation von Andreas Niederkofler gibt Einblick in die Tunnel-Baustelle bei Percha.
-Der Film begleitet den Bau vom Sprengvortrieb bis zur Präzisionsarbeit der Vermesser. Im Mittelpunkt stehen nicht nur Maschinen und Spritzbeton,sondern vor allem die Menschen dahinter: Mineure, Sprengmeister, Vermessungstechniker, Mechaniker und Ingenieure. Der Durchschlag im Oktober 2025 bildet einen der Höhepunkte. Wenn das Licht von der Gegenseite durchbricht, ist das ein großer Moment. Dann wird sichtbar, wofür jahrelang gebaut geplant und gebaut worden ist, damit der Verkehr den Ort in Zukunft weniger belastet.</desc>
-  </programme>
-  <programme start="20260109200000 +0100" stop="20260109202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260109202100 +0100" stop="20260109211009 +0100" channel="Rai Südtirol">
-    <title>Schnee auf Knopfdruck</title>
-    <sub-title>Technische Beschneiung in Südtirol</sub-title>
-    <desc>In den letzten Jahrzehnten hat sich der Wintertourismus zu einem nicht mehr wegzudenkenden Wirtschaftsfaktor entwickelt, der jedoch ganz wesentlich von  der technischen Beschneiung abhängt. 
-
-Ohne dieses Hilfsmittel wäre das Skifahren in den meisten Gegenden überhaupt nicht mehr möglich, zumindest nicht in der jetzigen Form. Doch was genau verbirgt sich dahinter? Wie wird das Element Schnee produziert und wie geht die Branche mit den Schwierigkeiten um, die der Klimawandel mit sich bringt? Ein Film von Claudia Bosch.</desc>
-  </programme>
-  <programme start="20260109211000 +0100" stop="20260109213900 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Wir richten den Blick auf den wachsenden Anteil internationaler Mitarbeiterinnen und Mitarbeiter in Südtirols Küchen. Viele Betriebe könnten ohne sie längst nicht mehr arbeiten. Wir begleiten zwei Köche aus dem Ausland, die sich in Südtirol ein neues Leben aufgebaut haben und heute entscheidende Rollen in ihren Teams einnehmen. Ihre Geschichten zeigen, wie erfolgreich Zusammenarbeit gelingen kann - und wie sehr Südtirols Gastronomie auf qualifizierte Fachkräfte aus aller Welt angewiesen ist. Seit nunmehr zehn Jahren begegnen sich Kunst und Tourismus auf besondere Weise: Der Hoteliers- und Gastwirteverband Südtirol hat gemeinsam mit dem Südtiroler Künstlerbund erneut den Preis "HGV-Künstler:in des Jahres" vergeben. Die Jubiläumsauszeichnung ging heuer an die aus Laatsch im Vinschgau stammende und heute in Wien lebende freischaffende Künstlerin Julia Frank. Ihr Werk mit dem Titel "Regional. Saisonal. Radikal." ist Programm: Ausgehend von der typischen Ästhetik Südtiroler Hotels, Speisesäle und Gasthäuser verwandelt sie vertraute Symbole in neue künstlerische Aussagen. Dabei stellt sie eine zentrale Frage: Was bedeutet Gastfreundschaft wirklich - Tradition, Marketing oder echte Begegnung?
-Und wir blicken zurück: Im Gespräch mit Vertretern von IDM und HGV beleuchten wir tourismusrelevante Themen, die das ganze Land bewegen. Außerdem stellen wir den neuen Präsidenten des Hoteliers- und Gastwirteverbandes, Klaus Berger, vor und fragen nach, welche Schwerpunkte und Herausforderungen im kommenden Jahr bevorstehen.</desc>
-  </programme>
-  <programme start="20260109213900 +0100" stop="20260109215932 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Eisklettern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260109221000 +0100" stop="20260109223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260110180000 +0100" stop="20260110184909 +0100" channel="Rai Südtirol">
     <title>Schnee auf Knopfdruck</title>
     <sub-title>Technische Beschneiung in Südtirol</sub-title>
@@ -105,6 +62,218 @@ schenkt vielen Menschen in guten wie in schlechten Zeiten Zuversicht, Hoffnung u
     <desc/>
   </programme>
   <programme start="20260111221000 +0100" stop="20260111223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260112180000 +0100" stop="20260112183000 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kloster Säben</sub-title>
+    <desc>Clownfrau Karamela begibt sich hoch über Klausen auf eine abenteuerliche Zeitreise durch die Geschichte von Kloster Säben: Sie beginnt den ersten menschlichen Siedlungen in der Jungsteinzeit, dann folgt der Bau der ersten Kirche im Mittelalter, die Überschwemmungen in Klausen, wo das Kloster der Bevölkerung Schutz bot. Mehr als 300 Jahre lang lebten Benediktinerinnen auf Säben, jetzt ziehen Zisterzienser-Mönche in diesem besonderen Kloster ein.  
+
+Anschließend schaut Zipp-Reporterin Linda im Theater in der Altstadt in Meran vorbei und trifft dort Regisseurin Christina. Die wundervolle Geschichte vom "Kleinen Prinz" steht kurz vor der Aufführung. Neben den Schauspieler:innen steht auch eine handgefertigte Puppe auf der Bühne.</desc>
+  </programme>
+  <programme start="20260112183000 +0100" stop="20260112185439 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Vals</sub-title>
+    <desc>Vals ist ein Ort, in dem Tradition, Gastfreundschaft und Bergleben eng miteinander verwoben sind. Wir besuchen das Dorfgasthaus, die Fanealm und eine betagte Valserin, die auf 101 Jahre zurückblickt. Hotelier Franz Stolz führt durch Kirche und Familiengeschichte, erzählt vom frühen Einspringen in den Familienbetrieb und davon, wie das Hotel im Herzen des Dorfes gewachsen ist und dennoch bis heute ein offenes Dorfgasthaus geblieben ist. Ein weiterer Schwerpunkt führt auf die Fanealm, wo Andreas Zingerle und die Alm-Interessentschaft das historische Almleben und die Sommerwirtschaft bewahren - ergänzt durch Einblicke in die Arbeit des jungen Hüttenwirts Daniel.  
+Danach stellt Simon Stolz ein traditionelles Valser Gericht seiner Großmutter vor, bevor Martina vom Leben in einer touristischen, aber bodenständig gebliebenen Dorfgemeinschaft erzählt. Zum Abschluss blickt Mathilde Fischnaller, die älteste Bewohnerin von Vals, auf 101 Jahre Lebensgeschichte zurück.</desc>
+  </programme>
+  <programme start="20260112185500 +0100" stop="20260112185900 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 1</title>
+    <sub-title>Die Huber-Brüder</sub-title>
+    <desc>Die Huber-Brüder aus Montal haben 1994 in Lillehammer Olympiageschichte geschrieben: Willi (mit Kurt Brugger) und Norbert (mit Hansjörg Raffl) gewannen Gold und Silber im Rodel-Doppelsitzer, Günther holte Bronze im Zweier-Bob und Arnold wurde Vierter im Rodel-Einsitzer. Vier Brüder auf den Plätzen 1, 2,3 und 4 - eine Sensation.</desc>
+  </programme>
+  <programme start="20260112200000 +0100" stop="20260112202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260112202000 +0100" stop="20260112202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 3</title>
+    <sub-title>Armin Zöggeler</sub-title>
+    <desc>Das hat in der Olympiageschichte nur Rodel-Legende Armin Zöggeler geschafft: Bei sechs Olympia-Teilnahmen holte er sechs Medaillen in einem Einzelbewerb. Ein Rekord.</desc>
+  </programme>
+  <programme start="20260112202500 +0100" stop="20260112213100 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260112213100 +0100" stop="20260112215913 +0100" channel="Rai Südtirol">
+    <title>Traumberuf Auslandsjournalismus</title>
+    <sub-title>Andreas Pfeifer</sub-title>
+    <desc>Der Bozner Journalist hat eine steile Karriere im ORF gemacht. Nach Jahren in Rom und in den USA hat sich Pfeifers Jugendtraum erfüllt: Seit 2021 ist er Auslandkorrespondent in Berlin. Sie erklären uns die Welt. Im Radio und im Fernsehen, in Talksendungen, in Zeitungen und in Büchern. Sie liefern uns Berichte, Reportagen und Kommentare zu den Brennpunkten des Weltgeschehens. Mit dabei auch Journalist:innen aus Südtirol. Einige wenige sind zu nationalen Stars geworden. Im italienischen wie im deutschen Sprachraum. So auch Andreas Pfeifer. Er wurde 1965 in Bozen geboren. Er arbeitete für den ORF in Innsbruck und Bozen, war dann Auslandskorrespondent in den USA. 2001 hat er das ORF-Büro in Rom neu eröffnet. Ab Juli 2007 war Pfeifer außenpolitischer Ressortleiter im Aktuellen Dienst des ORF-Fernsehens Seit 2021 leitet er das ORF-Büro in Berlin. Damit hat er sich einen Jugendtraum erfüllt. Wir erleben seinen beruflichen Werdegang und seinen spannenden Alltag.</desc>
+  </programme>
+  <programme start="20260112221000 +0100" stop="20260112223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260113200000 +0100" stop="20260113202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260113202000 +0100" stop="20260113202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 4</title>
+    <sub-title>Die Bozner Wasserspringer</sub-title>
+    <desc>Bozen ist die Stadt der Wasserspringer: Klaus Dibiasi sowie Giorgio und Tania Cagnotto gewannen insgesamt 11 Olympiamedaillen (3x Gold, 5x Silber, 3x Bronze).</desc>
+  </programme>
+  <programme start="20260113202500 +0100" stop="20260113204000 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260113204000 +0100" stop="20260113204551 +0100" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Das Wildbad Innichen</sub-title>
+    <desc>Mitten im Wald etwas oberhalb von Innichen entdeckt man eine wunderbare Filmkulisse: das einstige Wildbad Innichen. Das einstige Luxus-Sanatorium beherbergte sogar Kaiser. Doch die beiden Weltkriege führten zu seinem Niedergang. Die Fernsehreihe "Net amol gwisst" führt uns zu diesem verwunschenen Ort und erzählt seine Geschichte.</desc>
+  </programme>
+  <programme start="20260113221000 +0100" stop="20260113223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260114200000 +0100" stop="20260114202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260114202000 +0100" stop="20260114202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 5</title>
+    <sub-title>Gerda Weissensteiner</sub-title>
+    <desc>Gerda Weissensteiner wurde 1994 in Lillehammer Rodel-Olympiasiegerin und holte zwölf Jahre später in Turin Bronze im Zweier-Bob. Keinem anderen italienischen Sportler ist es gelungen, zwei Medaillen in zwei verschiedenen Disziplinen zu gewinnen.</desc>
+  </programme>
+  <programme start="20260114202500 +0100" stop="20260114205138 +0100" channel="Rai Südtirol">
+    <title>Reportage</title>
+    <sub-title>Schlüsseldienst</sub-title>
+    <desc>Seit Jahrtausenden stellt der Mensch Schlüssel her. So alt ist sein Wunsch, sich und seinen Besitz zu schützen, Geheimnisse zu bewahren und nicht jedermann Zutritt zu den eigenen vier Wänden zu gewähren. Paul Zenleser spezialisierte sich vor 60 Jahren auf den reinen Schlüsseldienst. Heutzutage kann man bei seinem Sohn Günther alle Arten von Schlüsseln und Schlössern kaufen, nachfertigen und ersetzen lassen. Wer sich aussperrt, ruft den Schlüssel-Notdienst. Stefan Kofler öffnet jedes noch so komplizierte Schloss. Die Feuerwehr muss sich bei Notrufen Zutritt zu Gebäuden verschaffen. Unter der Leitung von Christoph Oberhollenzer werden in der Landesfeuerwehrschule Vilpian Lehrgänge angeboten. Viele Geheimnisse verbergen sich hinter historischen Mauern. Über die Burg Taufers hat ihr Kastellan Alexander Maier die Schlüsselgewalt. Er öffnet Schlösser und Türen und erschließt auch für den Filmemacher Andreas Niederkofler die Meisterschaft der längst vergessenen Schlossermeister. Welche kunstvollen Schlösser in vergangenen Zeiten gefertigt wurden und welches Schließsystem heute das sicherste ist, zeigt die Reportage "Schlüsseldienst".</desc>
+  </programme>
+  <programme start="20260114221000 +0100" stop="20260114223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260115200000 +0100" stop="20260115202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260115202000 +0100" stop="20260115202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 6</title>
+    <sub-title>Meraner Olympiaerfolge</sub-title>
+    <desc>Für die Stadt Meran waren die Sommerspiele 1984 in Los Angeles die erfolgreichsten: Norbert Oberburger kürte sich zum Olympiasieger im Gewichtheben, Edith Gufler gewann die Silbermedaille im Schießen.</desc>
+  </programme>
+  <programme start="20260115202500 +0100" stop="20260115205245 +0100" channel="Rai Südtirol">
+    <title>Das Glück auf zwei Brettern</title>
+    <sub-title>Die Südtiroler Skilehrer in Geschichte und Gegenwart</sub-title>
+    <desc>Der Skisport und der Skitourismus haben in Südtirol eine sehr lange Tradition und sind für unser Land ein nicht unwesentlicher Wirtschaftsfaktor. Der Dokumentarfilm "Das Glück auf zwei Brettern" gestaltet von Hannes Kröss und Thomas Hainz, möchte dieser langen Geschichte nachgehen. Mit vielen historischen Aufnahmen untermauert der Film vor allem auch die Wichtigkeit der Rolle der Skischulen und der Skilehrer beim Erlernen des Skifahrens. Es ist eine anspruchsvolle Ausbildung, die die Skilehrer durchlaufen müssen. Viele ehemalige Skistars unter anderem Gustav Thöni und Manuela Mölgg erzählen von ihren Erlebnissen und Erfahrungen in diesem Beruf, der in den letzten Jahren auch eine Wandlung erfahren hat.</desc>
+  </programme>
+  <programme start="20260115221000 +0100" stop="20260115223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260116180000 +0100" stop="20260116183150 +0100" channel="Rai Südtirol">
+    <title>Karriereleitern 2</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Die Harfenistin Isabel Goller und der Jungunternehmer Alexander Rech geben Einblick in ihren besonderen Beruf, der sie von Südtirol weggeführt hat, wohin sie aber immer wieder gerne zurückkehren. Isabel Goller aus Mellaun bei Brixen verließ mit 15 Jahren den elterlichen Hof, um Harfenistin zu werden. Sie musiziert unter anderem mit den Wiener Philharmonikern, dem Musikkollegium Winterthur und der Philharmonie Zürich. Die Musikerin ist zudem Mitbegründerin der "Südtirol Filarmonica", wo gebürtige Südtirol:innen zusammenkommen und gemeinsam musizieren. Isabel liebt Vintage-Kleidung, und in ihrer Freizeit gestaltet sie ihren eigenen Schmuck. Alexander Rech aus Bruneck ist Computerwissenschaftler und Start Up-Unternehmer. Als solcher wurde er im Vorjahr mit dem Futura-Preis ausgezeichnet. Er hat mit Flasher - einer intelligenten Fahrradbeleuchtung - aus einer Studenten-Idee ein Unternehmen gemacht.</desc>
+  </programme>
+  <programme start="20260116183100 +0100" stop="20260116185856 +0100" channel="Rai Südtirol">
+    <title>Der verborgene Schatz des Theaters von Meran</title>
+    <sub-title/>
+    <desc>Im Herzen von Meran, hinter den Kulissen des Stadttheaters, verbirgt sich ein richtiger Schatz: über 800 Theaterkostüme, die viele besondere Geschichten erzählen. Die Leiterin des Kostümfundus gibt Einblick in ihren Berufsalltag und zeigt, wie dieses außergewöhnliche Kulturerbe bewahrt wird. Durch den Blick von Roberto Condotta zeigt der Film, dass jedes Kostüm weit mehr ist als ein Kleidungsstück - ein Kunstwerk, das die Erinnerung und die Magie der Meraner Theaterbühne bewahrt.</desc>
+  </programme>
+  <programme start="20260116200000 +0100" stop="20260116202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260116202000 +0100" stop="20260116202413 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 7</title>
+    <sub-title>Die Fahnenträger:innen</sub-title>
+    <desc>Acht Südtiroler hatte die Ehre, bei der Eröffnungsfeier der Olympischen Spiele Fahnenträger zu sein: Klaus Dibiasi, Gustav Thöni, Paul Hildgartner, Armin Zöggeler, Gerda Weißensteiner, Isolde Kostner, Carolina Kostner und Ferdinando Glück.</desc>
+  </programme>
+  <programme start="20260116202400 +0100" stop="20260116210720 +0100" channel="Rai Südtirol">
+    <title>Ein Dach in den Anden</title>
+    <sub-title>Auslandspraktikum mit Sinn</sub-title>
+    <desc>Die Filmemacher Christian Gasser und Daniela Thaler begleiten in ihrem Dokumentarfilm junge Südtirolerinnen und Südtiroler bei ihrem Auslandspraktikum in Huaraz, Peru. Der Film zeigt, wie die Freiwilligen im Gesundheitszentrum "Un techo en los Andes - Ein Dach in den Anden" tätig sind, Kinder betreuen, Hausbesuche machen und soziale Projekte vor Ort unterstützen. 
+
+Darüber hinaus erzählt der Film von den persönlichen Erfahrungen der Freiwilligen, von den Herausforderungen und dem Perspektivwechsel, den ein Einsatz im Globalen Süden mit sich bringt. Expertinnen der "Organisation für eine solidarische Welt" (OEW) und Projektleiterin Rosario Figueroa geben Einblicke in die langfristigen Ziele der Programme und zeigen, wie Engagement vor Ort neue Sichtweisen auf die Welt eröffnet.</desc>
+  </programme>
+  <programme start="20260116210700 +0100" stop="20260116215253 +0100" channel="Rai Südtirol">
+    <title>Bildung im Wandel</title>
+    <sub-title/>
+    <desc>Wie kann die Schule der Zukunft aussehen? Migration, gesellschaftlicher Wandel, instabile Beziehungsstrukturen und die Digitalisierung erfordern ein Ausbrechen aus verkrusteten Strukturen.
+Filmemacher Thomas Vonmetz beleuchtet darin die aktuellen Entwicklungen im Bildungssystem und macht sich auf die Suche nach Antworten, wie lebenslanges Lernen und der Zugang zu hochwertiger Bildung für alle Menschen gelingen soll.</desc>
+  </programme>
+  <programme start="20260116215300 +0100" stop="20260116215934 +0100" channel="Rai Südtirol">
+    <title>dF Frauenbilder: Majda Brecelj</title>
+    <sub-title/>
+    <desc>Sie gehörte zu den lautesten Stimmen der Umweltaktivist:innen von Fridays for future, die sie 2019 mitbegründete. Dem Aktivismus für eine bessere Zukunft galt ihr ganzes Engagement, auch bei der Aktionsgruppe "No Excuses" war die zweisprachige Südtirolerin die Frontfrau, steckte viel Energie in die Bewegung, die gegen eine rechte Koalition der Landesregierung mobil machte. Der Einsatz dieser Jahre ging nicht spurlos an der jungen Frau vorüber: die große Verantwortung, die wenig konstanten Mitstreiter:innen - all das zehrte und sie merkte, dass sie eine Pause einlegen musste. Im dF Porträt lernen wir eine nachdenkliche Majda Brecelj kennen, die sich dem System nicht unterordnen will und dabei ist, sich als Fotografin und Filmproduzentin neu kennenzulernen.</desc>
+  </programme>
+  <programme start="20260116221000 +0100" stop="20260116223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260117180000 +0100" stop="20260117184218 +0100" channel="Rai Südtirol">
+    <title>Sarner Gschick</title>
+    <sub-title/>
+    <desc>Kunsthandwerker, die in der Werkstatt gemütlich vor sich hinarbeiten - das war einmal. Heute muss man in die Öffentlichkeit , wenn man von seiner Arbeit leben will. Das haben sechs Sarner Kunsthandwerker schon vor 20 Jahren entdeckt und haben das Netzwerk "Sarner Gschick" gegründet, bestehend aus einem Federkielsticker, einem Goldschmied, einem Drechsler, einem Handweber, einem Steinmetz.</desc>
+  </programme>
+  <programme start="20260117184200 +0100" stop="20260117185700 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben Spezial</title>
+    <sub-title>Das Magazin für Landwirtschaft</sub-title>
+    <desc>Die junge Landwirtschaft in Europa braucht eine Zukunft!
+EU-Agrarkommissar Christophe Hansen hat für die Förderperiode ab 2028 große Ziele. Sein beim European Congress of Young Farmers kürzlich vorgestelltes Strategiepapier setzt klar auf die Stärkung junger Landwirtinnen und Landwirte. Gleichzeitig betonen EU-Politiker die wachsende Bedeutung der Ernährungssicherheit. Auch der Südtiroler EU-Abgeordnete Herbert Dorfmann fordert, dass mit der neuen GAP kleinere Betriebe und Bergbauernhöfe gezielt unterstützt werden. In Brüssel hat Marianna Kasseroler mit Politikerinnen und Politikern sowie jungen Menschen über ihre Anliegen und Erwartungen an die künftige Agrarpolitik gesprochen.</desc>
+  </programme>
+  <programme start="20260117200000 +0100" stop="20260117202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260117202000 +0100" stop="20260117202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 8</title>
+    <sub-title>Erfolgreiche Biathleten</sub-title>
+    <desc>Insgesamt sechs Olympiamedaillen haben bisher Südtirols Biathleten gewonnen, kurios, alle sechs aus Bronze. Hans Passler wurde 1988 in Calgary Dritter über 20 km, Dominik Windisch und Dorothea Wierer beim Sprint in Pyeongchang 2018 bzw. Peking 2022. Dazu kommen noch drei Bronzemedaillen in der Staffel 1988, 2014 und 2018.</desc>
+  </programme>
+  <programme start="20260117202500 +0100" stop="20260117202900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260117202900 +0100" stop="20260117205057 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Bergführer und Künstler Felix Tschurtschenthaler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260117221000 +0100" stop="20260117223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260118200000 +0100" stop="20260118202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260118202000 +0100" stop="20260118202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 9</title>
+    <sub-title>Die Paralympics-Teilnehmer</sub-title>
+    <desc>Südtirols größte Medaillenhoffnungen bei den Paralympics sind Snowboarder Emanuel Perathoner und die Para-Eishockey-Mannschaft.</desc>
+  </programme>
+  <programme start="20260118202500 +0100" stop="20260118205412 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Leben in Rollen</title>
+    <sub-title/>
+    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlungvon Andreas Niederkofler. Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront. Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
+  </programme>
+  <programme start="20260118205400 +0100" stop="20260118205800 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Olaf Wurm</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260118221000 +0100" stop="20260118223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
