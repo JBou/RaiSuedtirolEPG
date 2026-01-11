@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260110180000 +0100" stop="20260110184909 +0100" channel="Rai Südtirol">
-    <title>Schnee auf Knopfdruck</title>
-    <sub-title>Technische Beschneiung in Südtirol</sub-title>
-    <desc>In den letzten Jahrzehnten hat sich der Wintertourismus zu einem nicht mehr wegzudenkenden Wirtschaftsfaktor entwickelt, der jedoch ganz wesentlich von  der technischen Beschneiung abhängt. Ohne dieses Hilfsmittel wäre das Skifahren in den meisten Gegenden überhaupt nicht mehr möglich, zumindest nicht in der jetzigen Form. Doch was genau verbirgt sich dahinter? Wie wird das Element Schnee produziert und wie geht die Branche mit den Schwierigkeiten um, die der Klimawandel mit sich bringt? Ein Film von Claudia Bosch.</desc>
-  </programme>
-  <programme start="20260110184900 +0100" stop="20260110185650 +0100" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Yoseikan Budo</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260110200000 +0100" stop="20260110202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260110202000 +0100" stop="20260110202400 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 1</title>
-    <sub-title>Die Huber-Brüder</sub-title>
-    <desc>Die Huber-Brüder aus Montal haben 1994 in Lillehammer Olympiageschichte geschrieben: Willi (mit Kurt Brugger) und Norbert (mit Hansjörg Raffl) gewannen Gold und Silber im Rodel-Doppelsitzer, Günther holte Bronze im Zweier-Bob und Arnold wurde Vierter im Rodel-Einsitzer. Vier Brüder auf den Plätzen 1, 2,3 und 4 - eine Sensation.</desc>
-  </programme>
-  <programme start="20260110202400 +0100" stop="20260110202800 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260110202800 +0100" stop="20260110205717 +0100" channel="Rai Südtirol">
-    <title>Der Herrgottswinkel</title>
-    <sub-title>Segen in der Stube</sub-title>
-    <desc>So wie die getäfelte Stube samt Ofen gehört auch der Herrgottswinkel in ein Bauernhaus. Er gilt
-als die gesegnete, geradezu heilige Ecke des Gehöfts, wo man beten, dem Herrgott Wünsche vortragen - aber auch Sorgen und Ängste loswerden kann. Wer den Herrgottswinkel zu schätzen weiß, dem ist er ein Ort heimatlicher Geborgenheit. Er
-schenkt vielen Menschen in guten wie in schlechten Zeiten Zuversicht, Hoffnung und Halt. Eine Dokumentation von Michaela Falkensteiner und Günther Neumair.</desc>
-  </programme>
-  <programme start="20260110221000 +0100" stop="20260110223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260111200000 +0100" stop="20260111202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
