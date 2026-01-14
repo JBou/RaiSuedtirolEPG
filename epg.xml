@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260113200000 +0100" stop="20260113202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260113202000 +0100" stop="20260113202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 4</title>
-    <sub-title>Die Bozner Wasserspringer</sub-title>
-    <desc>Bozen ist die Stadt der Wasserspringer: Klaus Dibiasi sowie Giorgio und Tania Cagnotto gewannen insgesamt 11 Olympiamedaillen (3x Gold, 5x Silber, 3x Bronze).</desc>
-  </programme>
-  <programme start="20260113202500 +0100" stop="20260113204000 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260113204000 +0100" stop="20260113204551 +0100" channel="Rai Südtirol">
-    <title>Net amol gwisst</title>
-    <sub-title>Das Wildbad Innichen</sub-title>
-    <desc>Mitten im Wald etwas oberhalb von Innichen entdeckt man eine wunderbare Filmkulisse: das einstige Wildbad Innichen. Das einstige Luxus-Sanatorium beherbergte sogar Kaiser. Doch die beiden Weltkriege führten zu seinem Niedergang. Die Fernsehreihe "Net amol gwisst" führt uns zu diesem verwunschenen Ort und erzählt seine Geschichte.</desc>
-  </programme>
-  <programme start="20260113221000 +0100" stop="20260113223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260114200000 +0100" stop="20260114202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -90,7 +65,7 @@
     <desc>Acht Südtiroler hatte die Ehre, bei der Eröffnungsfeier der Olympischen Spiele Fahnenträger zu sein: Klaus Dibiasi, Gustav Thöni, Paul Hildgartner, Armin Zöggeler, Gerda Weißensteiner, Isolde Kostner, Carolina Kostner und Ferdinando Glück.</desc>
   </programme>
   <programme start="20260116202400 +0100" stop="20260116210720 +0100" channel="Rai Südtirol">
-    <title>Ein Dach in den Anden</title>
+    <title>Weltwärts und zurück</title>
     <sub-title>Auslandspraktikum mit Sinn</sub-title>
     <desc>Die Filmemacher Christian Gasser und Daniela Thaler begleiten in ihrem Dokumentarfilm junge Südtirolerinnen und Südtiroler bei ihrem Auslandspraktikum in Huaraz, Peru. Der Film zeigt, wie die Freiwilligen im Gesundheitszentrum "Un techo en los Andes - Ein Dach in den Anden" tätig sind, Kinder betreuen, Hausbesuche machen und soziale Projekte vor Ort unterstützen. 
 
@@ -138,10 +113,12 @@ EU-Agrarkommissar Christophe Hansen hat für die Förderperiode ab 2028 große Z
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20260117202900 +0100" stop="20260117205057 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Bergführer und Künstler Felix Tschurtschenthaler</sub-title>
-    <desc/>
+  <programme start="20260117202900 +0100" stop="20260117213810 +0100" channel="Rai Südtirol">
+    <title>In memoriam Roland Riz</title>
+    <sub-title>Unter Bäumen</sub-title>
+    <desc>Am 12.Jänner starb der große Südtiroler Politiker und Rechtsanwalt Roland Riz im Alter von 98 Jahren. Aus diesem Anlass zeigt Rai Südtirol den Film seiner Tochter Veronika, der vor allem den Menschen Roland Riz in den Mittelpunkt stellt.
+
+Parallel zum beruflichen Leben erleben wir das Privatleben des Senators, Anwalts, Professors und Familienvaters. Seine Töchter - jede auf ihre Art und in ihrem privaten Kontext - schildern, wie sie den Vater erlebt haben. Bilder aus dem Privatarchiv der Familie ergänzen den sehr persönlichen Blick auf das Leben des großen Politikers und Obmannes der Südtiroler Volkspartei.</desc>
   </programme>
   <programme start="20260117221000 +0100" stop="20260117223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
