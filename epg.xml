@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260114200000 +0100" stop="20260114202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260114202000 +0100" stop="20260114202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 5</title>
-    <sub-title>Gerda Weissensteiner</sub-title>
-    <desc>Gerda Weissensteiner wurde 1994 in Lillehammer Rodel-Olympiasiegerin und holte zwölf Jahre später in Turin Bronze im Zweier-Bob. Keinem anderen italienischen Sportler ist es gelungen, zwei Medaillen in zwei verschiedenen Disziplinen zu gewinnen.</desc>
-  </programme>
-  <programme start="20260114202500 +0100" stop="20260114205138 +0100" channel="Rai Südtirol">
-    <title>Reportage</title>
-    <sub-title>Schlüsseldienst</sub-title>
-    <desc>Seit Jahrtausenden stellt der Mensch Schlüssel her. So alt ist sein Wunsch, sich und seinen Besitz zu schützen, Geheimnisse zu bewahren und nicht jedermann Zutritt zu den eigenen vier Wänden zu gewähren. Paul Zenleser spezialisierte sich vor 60 Jahren auf den reinen Schlüsseldienst. Heutzutage kann man bei seinem Sohn Günther alle Arten von Schlüsseln und Schlössern kaufen, nachfertigen und ersetzen lassen. Wer sich aussperrt, ruft den Schlüssel-Notdienst. Stefan Kofler öffnet jedes noch so komplizierte Schloss. Die Feuerwehr muss sich bei Notrufen Zutritt zu Gebäuden verschaffen. Unter der Leitung von Christoph Oberhollenzer werden in der Landesfeuerwehrschule Vilpian Lehrgänge angeboten. Viele Geheimnisse verbergen sich hinter historischen Mauern. Über die Burg Taufers hat ihr Kastellan Alexander Maier die Schlüsselgewalt. Er öffnet Schlösser und Türen und erschließt auch für den Filmemacher Andreas Niederkofler die Meisterschaft der längst vergessenen Schlossermeister. Welche kunstvollen Schlösser in vergangenen Zeiten gefertigt wurden und welches Schließsystem heute das sicherste ist, zeigt die Reportage "Schlüsseldienst".</desc>
-  </programme>
-  <programme start="20260114221000 +0100" stop="20260114223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260115200000 +0100" stop="20260115202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
