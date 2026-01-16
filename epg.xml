@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260115200000 +0100" stop="20260115202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260115202000 +0100" stop="20260115202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 6</title>
-    <sub-title>Meraner Olympiaerfolge</sub-title>
-    <desc>Für die Stadt Meran waren die Sommerspiele 1984 in Los Angeles die erfolgreichsten: Norbert Oberburger kürte sich zum Olympiasieger im Gewichtheben, Edith Gufler gewann die Silbermedaille im Schießen.</desc>
-  </programme>
-  <programme start="20260115202500 +0100" stop="20260115205245 +0100" channel="Rai Südtirol">
-    <title>Das Glück auf zwei Brettern</title>
-    <sub-title>Die Südtiroler Skilehrer in Geschichte und Gegenwart</sub-title>
-    <desc>Der Skisport und der Skitourismus haben in Südtirol eine sehr lange Tradition und sind für unser Land ein nicht unwesentlicher Wirtschaftsfaktor. Der Dokumentarfilm "Das Glück auf zwei Brettern" gestaltet von Hannes Kröss und Thomas Hainz, möchte dieser langen Geschichte nachgehen. Mit vielen historischen Aufnahmen untermauert der Film vor allem auch die Wichtigkeit der Rolle der Skischulen und der Skilehrer beim Erlernen des Skifahrens. Es ist eine anspruchsvolle Ausbildung, die die Skilehrer durchlaufen müssen. Viele ehemalige Skistars unter anderem Gustav Thöni und Manuela Mölgg erzählen von ihren Erlebnissen und Erfahrungen in diesem Beruf, der in den letzten Jahren auch eine Wandlung erfahren hat.</desc>
-  </programme>
-  <programme start="20260115221000 +0100" stop="20260115223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260116180000 +0100" stop="20260116183150 +0100" channel="Rai Südtirol">
     <title>Karriereleitern 2</title>
     <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
@@ -126,6 +106,192 @@ Parallel zum beruflichen Leben erleben wir das Privatleben des Senators, Anwalts
     <desc/>
   </programme>
   <programme start="20260118221000 +0100" stop="20260118223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260119180000 +0100" stop="20260119182900 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Spinnen und Schlittenhunde</sub-title>
+    <desc>Pfotemoderator Stefan hat zugegebenermaßen Angst vor Spinnen, doch nach einem Besuch bei Biologen Wolfgang wird aus der Angst Faszination. Spinnen sind ruhige Tiere und weichen jeder Konfrontation aus, nur zur Verteidigung schleudern sie Brennhaare oder wehren sich mit einem Biss. Jede der vielen Vogelspinnen in Wolfgangs Terrarien hat einen anderen Charakter - die eine ist gefräßig, die andere mürrisch und sein Kraushaar-Vogelspinnenmännchen ist äußerst gutmütig. Er läuft sogar auf Wolfgangs Hand herum. Das ist Stefan nun doch etwas zu riskant.
+Anschließend ist Clownfrau Karamela mit Schlittenhunden unterwegs.</desc>
+  </programme>
+  <programme start="20260119182900 +0100" stop="20260119185812 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Leben in Rollen</title>
+    <sub-title/>
+    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlungvon Andreas Niederkofler. Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront. Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
+  </programme>
+  <programme start="20260119200000 +0100" stop="20260119202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260119202000 +0100" stop="20260119202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 10</title>
+    <sub-title/>
+    <desc>Die olympischen Fackeln sind eines der faszinierendsten Symbole der Olympischen Spiele. Das Design dieser Fackeln und die Symbolik, die von ihnen ausgeht, stehen für den Charakter der jeweiligen gastgebende Nation. Alle Fackeln sind im Bozner Museion ausgestellt.</desc>
+  </programme>
+  <programme start="20260119202500 +0100" stop="20260119215900 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut -  Im Bann des Bären</title>
+    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Eine beeindruckende Doku über die Bären im Brentagebiet und eine Diskussion über das Zusammenleben von Mensch und Wildtier in den Alpen. Moderation: Judith Bertagnolli. 
+
+Die Dokumentation von Markus Frings und Marco Polo führt ins Brenta-Gebiet und bringt beeindruckende Bilder von großartigen Landschaften, durch die die Bären streifen.  
+Dann wird im Naturparkhaus Texelgruppe in Naturns live diskutiert. Zu Wort kommen der Bärenexperte Horst Eberhöfer, die Schafhirten Toni Untersteiner und Erich Höchenberger, der Bauernvertreter Alberich Hofer sowie Johanna Platzgummer vom Projekt LifeStockProtect.  
+Die Sendung analysiert sachlich die Konflikte zwischen Artenschutz und Almwirtschaft und stellt die Zielfrage: Ist ein dauerhaftes Zusammenleben von Mensch und Wildtier in den Alpen realistisch?</desc>
+  </programme>
+  <programme start="20260119221000 +0100" stop="20260119223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260120200000 +0100" stop="20260120202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260120202000 +0100" stop="20260120203500 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260120203500 +0100" stop="20260120204000 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 11</title>
+    <sub-title/>
+    <desc>Erstmals in der Südtiroler Sportgeschichte ist Olympia auch in unserem Lande zu Gast. In der Biathlon-Hochburg Antholz, wo schon seit einem halben Jahrhundert Weltcuprennen ausgetragen werden und sechs Weltmeisterschaften stattgefunden haben, finden alle Biathlon-Entscheidungen statt.</desc>
+  </programme>
+  <programme start="20260120204000 +0100" stop="20260120204603 +0100" channel="Rai Südtirol">
+    <title>Nit amol gwisst</title>
+    <sub-title>Wo liegt der wahre Etschquell?</sub-title>
+    <desc>Die Etsch entspringt nicht an der Stelle in Reschen, die als Etschquelle markiert ist. Doch wo genau liegt der Ur-Quell der Etsch? Wir machen uns auf die Suche.</desc>
+  </programme>
+  <programme start="20260120221000 +0100" stop="20260120223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260121200000 +0100" stop="20260121202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260121202000 +0100" stop="20260121202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 12</title>
+    <sub-title/>
+    <desc>Die Südtiroler Kunstbahnrodler:Innen sind bei Olympischen Winterspielen eine Medaillenbank. Insgesamt haben sie schon 18 Medaillen gewonnen, so viele wie keine andere Sportart.</desc>
+  </programme>
+  <programme start="20260121202500 +0100" stop="20260121205430 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Elektro, Hybrid oder Verbrenner? Wer heute ein Auto kaufen möchte, steht vor einer grundlegenden Entscheidung. Im Porträt: Der Wohnort und Wirtschaftsstandort Sand in Taufers. 
+
+Pluspunkt beleuchtet die wichtigsten Kriterien rund um den Autokauf: vom persönlichen Fahrprofil über Reichweite und Ladeinfrastruktur bis hin zu Anschaffungs- und Betriebskosten. Der Beitrag zeigt, wann sich ein Elektroauto lohnt, für wen ein Hybrid eine sinnvolle Lösung sein kann - und wie die Perspektiven des klassischen Verbrennungsmotors einzuschätzen sind. Eine kompakte Orientierungshilfe für alle, die vor dem nächsten Autokauf stehen. Außerdem führt die Sendung in der Rubrik "Lebenswerte Orte in Südtirol" nach Sand in Taufers. Die Gemeinde im Tauferer Ahrntal präsentiert sich als lebenswerter Ort zwischen alpiner Landschaft, gewachsener Dorfgemeinschaft und hoher Lebensqualität.</desc>
+  </programme>
+  <programme start="20260121221000 +0100" stop="20260121223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260122200000 +0100" stop="20260122202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260122202000 +0100" stop="20260122202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 13</title>
+    <sub-title/>
+    <desc>Nur drei Südtiroler Damen konnten sich zu Olympiasiegerinnen küren: Die Kunstbahnrodlerinnen Erika Lechner und Gerda Weißensteiner holten Gold in Grenoble 1968 bzw. Lillehammer 1994, Rad-Ass Antonella Bellutti gewann die 3000-m-Einzelverfolgung in Atlanta 1996 und vier Jahre später das Punktefahren in Sydney.</desc>
+  </programme>
+  <programme start="20260122202500 +0100" stop="20260122204000 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Emanuel Perathoner</sub-title>
+    <desc>Einmal an der Spitze der Weltelite mitfahren - das ist wohl der Traum vieler Wintersportbegeisterter. Emanuel Perathoner aus Lajen hat aus diesem Traum schon vor Jahren Wirklichkeit gemacht, der 39-järige kann auf eine erfolgreiche Karriere im Snowboard-Cross zurückblicken. Doch nachdem seine sportliche Karriere nach einem schweren Trainingsunfall schon beendet schien, folgt nun das nächste Kapitel, denn Emanuel lässt sich auch von einer Knieprothese nicht aufhalten. Dieses Porträt zeigt, wie er sich nun wieder an die Spitze zurück kämpft und mit welchem Durchhaltevermögen er sich auf die Paralympischen Spiele 2026 vorbereitet.</desc>
+  </programme>
+  <programme start="20260122204000 +0100" stop="20260122205440 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Dominik Zuech</sub-title>
+    <desc>Dass Dominik Zuech eines Tages Profisportler würde ließ sich schon früh vermuten, denn von klein auf stand der heute 29-Jährige auf Skiern. Nach seiner ersten Karriere im Ski-Alpin entdeckte er das Skicross-Fahren für sich - und damit eine neue Leidenschaft. Egal ob auf oder abseits der Pisten, Dominik bleibt stehts in Bewegung, um sich auf seinen großen Traum vorzubereiten: eine Teilnahme bei den Olympischen Winterspielen 2026.</desc>
+  </programme>
+  <programme start="20260122221000 +0100" stop="20260122223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260123180000 +0100" stop="20260123182932 +0100" channel="Rai Südtirol">
+    <title>Karriereleitern</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Literaturwissenschaftler und Theaterautor Toni Bernhart und Wirtschaftsmanager Thomas
+Pittschieler erzählen von ihrem beruflichen Weg, der sie aus Südtirol in die Welt geführt hat.
+Toni Bernhart lebt in Berlin und Stuttgart, lehrt an der Universität Stuttgart und forscht in Berlin
+zur quantitativen Literaturwissenschaft. Ein besonderes Projekt ist seine Seilbahnseil-Akustik, wo er Klänge aus den Südtiroler Bergen in einen neuen Kontext stellt.
+Thomas Pittschieler lebt in Riad und begleitet als Manager eines internationalen Dienstleistungsunternehmens den Markteintritt globaler Firmen in Saudi-Arabien. Beide sind eng mit Südtirol verbunden und kehren regelmäßig in ihre Heimat zurück. "Karriereleitern" ist ein Gemeinschaftsprojekt von RAI Südtirol, dem Netzwerk Südstern und der Stiftung Futura.</desc>
+  </programme>
+  <programme start="20260123182900 +0100" stop="20260123185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Zum letzten Mal in diesem Winter ist der Alpine Skiweltcup in Südtirol zu Gast: In St. Vigil am Kronplatz findet der Riesentorlauf der Damen statt, der gleichzeitig auch einer der letzten Tests vor den Olympischen Winterspielen Mailand-Cortina ist. 
+Südtirols größte Medaillenhoffnung bei diesem Groß-Event ist in den Eisportdisziplinen der Meraner Daniel Grassl. Nach zwei schwierigen Saisonen ist er wieder in die Weltelite zurückgekehrt.</desc>
+  </programme>
+  <programme start="20260123200000 +0100" stop="20260123202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260123202000 +0100" stop="20260123202316 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 14</title>
+    <sub-title/>
+    <desc>Snowboard-Crosser Omar Visintin war bei den letzten Olympischen Winterspielen in Peking der erfolgreichste Südtiroler. Der Algunder gewann zwei Medaillen, holte Silber im Team und Bronze im Einzelbewerb. Bei seinen Heimspielen in Livigno will er den Medaillensatz komplettieren.</desc>
+  </programme>
+  <programme start="20260123202300 +0100" stop="20260123210627 +0100" channel="Rai Südtirol">
+    <title>Seiser Alm</title>
+    <sub-title>Gipfel der Gegensätze</sub-title>
+    <desc>Die Doku zeigt die Seiser Alm in all ihren Facetten: als schneebedecktes Naturparadies, als Heimat prägender Persönlichkeiten, als Bühne für ein Spannungsfeld zwischen Naturschutz und Tourismus. 
+
+Von einem der letzten ganzjährig wirtschaftenden Bauern auf der Alm über eine Trachtenschneiderin bis hin zum Luxushotel mit internationalen Gästen spannt der Film den Bogen zwischen Bodenständigkeit und Glamour. Auch die Rückkehr des Wolfes, der Kampf gegen Borkenkäfer und Debatten um neue Liftverbindungen und den Übertourismus rücken ins Bild. Packende Geschichten und atemberaubende Aufnahmen offenbaren eine Bergwelt im empfindlichen Gleichgewicht zwischen Schutz und Nutzung, Bewahren und Verändern.</desc>
+  </programme>
+  <programme start="20260123210600 +0100" stop="20260123215917 +0100" channel="Rai Südtirol">
+    <title>Rezepte fürs Leben</title>
+    <sub-title/>
+    <desc>Roman Patuzzi ist diplomierter Psychologe und Kampfkunstmeister und als professioneller Coach viel in Schulen unterwegs. Er hat sich der Jugendproblematik verschrieben und einen eigenen Ansatz entwickelt. Die Anfragen von Schulen nach seiner Methode, mit Jugendlichen umzugehen, häufen sich seit Covid und er hat sein Team erweitert, um der Nachfrage gerecht zu werden. Er geht in die Schulen und spricht mit den Jugendlichen. Aber es bleibt nicht beim Reden. Nach einer kurzen Kennenlernphase geht es auf die Matte. Hier können sich die Jugendlichen auspowern, und das, so Patuzzi, sei ein unverzichtbares Mittel, um vieles abzubauen. Die Jugendlichen müssen wieder mehr mit ihrem Körper machen und ihn spüren. Das ist das A und O, um sich zu befreien. Und das passiert heute viel zu wenig. Die Jugendlichen entwickeln immer weniger Leidenschaft für etwas. Das ist der Zeitgeist. Das und die Tatsache, dass Gewalt in den sozialen Medien sichtbar ist und zum Teil auch verherrlicht wird, führt dann zu Jugendbanden und Gewalt und all den anderen Problemen, die wir kennen. Dabei bräuchten sie nur jemanden, der ihnen zuhört und der ihnen Möglichkeiten aufzeigt. Diese Dokumentation von Wolfgang Moser beleuchtet eine aktuelle Situation und zeigt Möglichkeiten auf, wie mit Problemen oder Konfliktsituationen im Leben von Jugendlichen, Eltern und Lehrern umgegangen werden kann.</desc>
+  </programme>
+  <programme start="20260123221000 +0100" stop="20260123223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260124180000 +0100" stop="20260124184320 +0100" channel="Rai Südtirol">
+    <title>Weltwärts und zurück</title>
+    <sub-title>Auslandspraktikum mit Sinn</sub-title>
+    <desc>Die Filmemacher Christian Gasser und Daniela Thaler begleiten in ihrem Dokumentarfilm junge Südtirolerinnen und Südtiroler bei ihrem Auslandspraktikum in Huaraz, Peru. Der Film zeigt, wie die Freiwilligen im Gesundheitszentrum "Un techo en los Andes - Ein Dach in den Anden" tätig sind, Kinder betreuen, Hausbesuche machen und soziale Projekte vor Ort unterstützen. Darüber hinaus erzählt der Film von den persönlichen Erfahrungen der Freiwilligen, von den Herausforderungen und dem Perspektivwechsel, den ein Einsatz im Globalen Süden mit sich bringt. Expertinnen der "Organisation für eine solidarische Welt" (OEW) und Projektleiterin Rosario Figueroa geben Einblicke in die langfristigen Ziele der Programme und zeigen, wie Engagement vor Ort neue Sichtweisen auf die Welt eröffnet.</desc>
+  </programme>
+  <programme start="20260124184300 +0100" stop="20260124185700 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen</title>
+    <sub-title>Peter Schroffenegger</sub-title>
+    <desc>Peter Schroffenegger, 33, aus Gossensass zählt zu Südtirols stärksten Special-Olympics-Athleten im Langlauf. Trotz seiner Beeinträchtigung - einer Veränderung am 13. Gen - trainiert er mit großer Disziplin und bei den Special Olympics 2025 in Turin wurde sein Einsatz belohnt: Peter holte die Bronzemedaille im Langlauf. Er steht wie kaum ein anderer für Willenskraft, Zielstrebigkeit und die Freude am Sport - ein Athlet, der wahrlich inspiriert und beeindruckt.</desc>
+  </programme>
+  <programme start="20260124200000 +0100" stop="20260124202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260124202000 +0100" stop="20260124202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 15</title>
+    <sub-title/>
+    <desc>Die größte Südtiroler Medaillenhoffnung in den Eissport-Disziplinen ist der Meraner Eiskunstläufer Daniel Grassl. Nach zwei schwierigen Saisonen ist er heuer wieder in die Weltspitze zurückgekehrt.</desc>
+  </programme>
+  <programme start="20260124202600 +0100" stop="20260124203000 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260124203000 +0100" stop="20260124211040 +0100" channel="Rai Südtirol">
+    <title>Hungernde Seelen</title>
+    <sub-title/>
+    <desc>Essstörungen sind im Steigen begriffen, vor allem seine der Corona-Pandemie. Doch was sind die Ursachen dafür? Filmemacher Georg Penn lässt Betroffene, Expert:innen und Angehörige zu Wort kommen. 
+
+Lea leidet seit ihrem neunten Lebensjahr an Anorexie und wurde bereits zweimal stationär in der pädiatrischen Abteilung des Krankenhauses behandelt. Michael begann nach einer schwierigen Lebensphase mit exzessivem Sport und verlor mit jedem Kilo sein Körpergefühl und den Glauben an sich selbst. Giusy erzählt von Kindheitstraumata, Unzufriedenheit mit ihrem Körper, übertriebenem Ehrgeiz und der Last des Essens.</desc>
+  </programme>
+  <programme start="20260124221000 +0100" stop="20260124223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
