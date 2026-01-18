@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260117180000 +0100" stop="20260117184218 +0100" channel="Rai Südtirol">
-    <title>Sarner Gschick</title>
-    <sub-title/>
-    <desc>Kunsthandwerker, die in der Werkstatt gemütlich vor sich hinarbeiten - das war einmal. Heute muss man in die Öffentlichkeit , wenn man von seiner Arbeit leben will. Das haben sechs Sarner Kunsthandwerker schon vor 20 Jahren entdeckt und haben das Netzwerk "Sarner Gschick" gegründet, bestehend aus einem Federkielsticker, einem Goldschmied, einem Drechsler, einem Handweber, einem Steinmetz.</desc>
-  </programme>
-  <programme start="20260117184200 +0100" stop="20260117185700 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben Spezial</title>
-    <sub-title>Das Magazin für Landwirtschaft</sub-title>
-    <desc>Die junge Landwirtschaft in Europa braucht eine Zukunft!
-EU-Agrarkommissar Christophe Hansen hat für die Förderperiode ab 2028 große Ziele. Sein beim European Congress of Young Farmers kürzlich vorgestelltes Strategiepapier setzt klar auf die Stärkung junger Landwirtinnen und Landwirte. Gleichzeitig betonen EU-Politiker die wachsende Bedeutung der Ernährungssicherheit. Auch der Südtiroler EU-Abgeordnete Herbert Dorfmann fordert, dass mit der neuen GAP kleinere Betriebe und Bergbauernhöfe gezielt unterstützt werden. In Brüssel hat Marianna Kasseroler mit Politikerinnen und Politikern sowie jungen Menschen über ihre Anliegen und Erwartungen an die künftige Agrarpolitik gesprochen.</desc>
-  </programme>
-  <programme start="20260117200000 +0100" stop="20260117202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260117202000 +0100" stop="20260117202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 8</title>
-    <sub-title>Erfolgreiche Biathleten</sub-title>
-    <desc>Insgesamt sechs Olympiamedaillen haben bisher Südtirols Biathleten gewonnen, kurios, alle sechs aus Bronze. Hans Passler wurde 1988 in Calgary Dritter über 20 km, Dominik Windisch und Dorothea Wierer beim Sprint in Pyeongchang 2018 bzw. Peking 2022. Dazu kommen noch drei Bronzemedaillen in der Staffel 1988, 2014 und 2018.</desc>
-  </programme>
-  <programme start="20260117202500 +0100" stop="20260117202900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Olaf Wurm</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260117202900 +0100" stop="20260117213810 +0100" channel="Rai Südtirol">
-    <title>In memoriam Roland Riz</title>
-    <sub-title>Unter Bäumen</sub-title>
-    <desc>Am 12.Jänner starb der große Südtiroler Politiker und Rechtsanwalt Roland Riz im Alter von 98 Jahren. Aus diesem Anlass zeigt Rai Südtirol den Film seiner Tochter Veronika, der vor allem den Menschen Roland Riz in den Mittelpunkt stellt.
-
-Parallel zum beruflichen Leben erleben wir das Privatleben des Senators, Anwalts, Professors und Familienvaters. Seine Töchter - jede auf ihre Art und in ihrem privaten Kontext - schildern, wie sie den Vater erlebt haben. Bilder aus dem Privatarchiv der Familie ergänzen den sehr persönlichen Blick auf das Leben des großen Politikers und Obmannes der Südtiroler Volkspartei.</desc>
-  </programme>
-  <programme start="20260117221000 +0100" stop="20260117223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260118200000 +0100" stop="20260118202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
