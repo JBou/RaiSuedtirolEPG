@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260118200000 +0100" stop="20260118202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260118202000 +0100" stop="20260118202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 9</title>
-    <sub-title>Die Paralympics-Teilnehmer</sub-title>
-    <desc>Südtirols größte Medaillenhoffnungen bei den Paralympics sind Snowboarder Emanuel Perathoner und die Para-Eishockey-Mannschaft.</desc>
-  </programme>
-  <programme start="20260118202500 +0100" stop="20260118205412 +0100" channel="Rai Südtirol">
-    <title>Das Thema: Leben in Rollen</title>
-    <sub-title/>
-    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlungvon Andreas Niederkofler. Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront. Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
-  </programme>
-  <programme start="20260118205400 +0100" stop="20260118205800 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Olaf Wurm</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260118221000 +0100" stop="20260118223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260119180000 +0100" stop="20260119182900 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Spinnen und Schlittenhunde</sub-title>
