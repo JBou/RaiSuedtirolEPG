@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260119180000 +0100" stop="20260119182900 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Spinnen und Schlittenhunde</sub-title>
-    <desc>Pfotemoderator Stefan hat zugegebenermaßen Angst vor Spinnen, doch nach einem Besuch bei Biologen Wolfgang wird aus der Angst Faszination. Spinnen sind ruhige Tiere und weichen jeder Konfrontation aus, nur zur Verteidigung schleudern sie Brennhaare oder wehren sich mit einem Biss. Jede der vielen Vogelspinnen in Wolfgangs Terrarien hat einen anderen Charakter - die eine ist gefräßig, die andere mürrisch und sein Kraushaar-Vogelspinnenmännchen ist äußerst gutmütig. Er läuft sogar auf Wolfgangs Hand herum. Das ist Stefan nun doch etwas zu riskant.
-Anschließend ist Clownfrau Karamela mit Schlittenhunden unterwegs.</desc>
-  </programme>
-  <programme start="20260119182900 +0100" stop="20260119185812 +0100" channel="Rai Südtirol">
-    <title>Das Thema: Leben in Rollen</title>
-    <sub-title/>
-    <desc>Menschen, die in andere Epochen und Identitäten schlüpfen - als Ritter, Prinzessinnen oder Soldaten. Ein Film über Identität, Erinnerung - und die Kraft der Verwandlungvon Andreas Niederkofler. Die filmische Reise führt vom regnerischen Mittelalter-Reenactment auf einer Südtiroler Burg über die private Welt einer Cosplayerin bis hin zur eindrucksvollen Nachstellung des Ersten Weltkriegs an der Dolomitenfront. Abgeschlossen wird der Film mit stimmungsvollen Bildern vom mittelalterlichen Burgfest in Sand in Taufers. Die Reportage zeigt nicht nur Kostüme und Kulissen, sondern erzählt auch von der tiefen Leidenschaft und Hingabe jener, die Geschichte und Fantasie lebendig werden lassen.</desc>
-  </programme>
-  <programme start="20260119200000 +0100" stop="20260119202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260119202000 +0100" stop="20260119202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 10</title>
-    <sub-title/>
-    <desc>Die olympischen Fackeln sind eines der faszinierendsten Symbole der Olympischen Spiele. Das Design dieser Fackeln und die Symbolik, die von ihnen ausgeht, stehen für den Charakter der jeweiligen gastgebende Nation. Alle Fackeln sind im Bozner Museion ausgestellt.</desc>
-  </programme>
-  <programme start="20260119202500 +0100" stop="20260119215900 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut -  Im Bann des Bären</title>
-    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Eine beeindruckende Doku über die Bären im Brentagebiet und eine Diskussion über das Zusammenleben von Mensch und Wildtier in den Alpen. Moderation: Judith Bertagnolli. 
-
-Die Dokumentation von Markus Frings und Marco Polo führt ins Brenta-Gebiet und bringt beeindruckende Bilder von großartigen Landschaften, durch die die Bären streifen.  
-Dann wird im Naturparkhaus Texelgruppe in Naturns live diskutiert. Zu Wort kommen der Bärenexperte Horst Eberhöfer, die Schafhirten Toni Untersteiner und Erich Höchenberger, der Bauernvertreter Alberich Hofer sowie Johanna Platzgummer vom Projekt LifeStockProtect.  
-Die Sendung analysiert sachlich die Konflikte zwischen Artenschutz und Almwirtschaft und stellt die Zielfrage: Ist ein dauerhaftes Zusammenleben von Mensch und Wildtier in den Alpen realistisch?</desc>
-  </programme>
-  <programme start="20260119221000 +0100" stop="20260119223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260120200000 +0100" stop="20260120202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -105,6 +70,12 @@ Pluspunkt beleuchtet die wichtigsten Kriterien rund um den Autokauf: vom persön
     <title>Olympiahoffnungen</title>
     <sub-title>Dominik Zuech</sub-title>
     <desc>Dass Dominik Zuech eines Tages Profisportler würde ließ sich schon früh vermuten, denn von klein auf stand der heute 29-Jährige auf Skiern. Nach seiner ersten Karriere im Ski-Alpin entdeckte er das Skicross-Fahren für sich - und damit eine neue Leidenschaft. Egal ob auf oder abseits der Pisten, Dominik bleibt stehts in Bewegung, um sich auf seinen großen Traum vorzubereiten: eine Teilnahme bei den Olympischen Winterspielen 2026.</desc>
+  </programme>
+  <programme start="20260122213000 +0100" stop="20260122215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>Zum letzten Mal in diesem Winter ist der Alpine Skiweltcup in Südtirol zu Gast: In St. Vigil am Kronplatz findet der Riesentorlauf der Damen statt, der gleichzeitig auch einer der letzten Tests vor den Olympischen Winterspielen Mailand-Cortina ist. 
+Südtirols größte Medaillenhoffnung bei diesem Groß-Event ist in den Eisportdisziplinen der Meraner Daniel Grassl. Nach zwei schwierigen Saisonen ist er wieder in die Weltelite zurückgekehrt.</desc>
   </programme>
   <programme start="20260122221000 +0100" stop="20260122223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
