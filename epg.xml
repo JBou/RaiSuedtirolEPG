@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260120200000 +0100" stop="20260120202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260120202000 +0100" stop="20260120203500 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260120203500 +0100" stop="20260120204000 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 11</title>
-    <sub-title/>
-    <desc>Erstmals in der Südtiroler Sportgeschichte ist Olympia auch in unserem Lande zu Gast. In der Biathlon-Hochburg Antholz, wo schon seit einem halben Jahrhundert Weltcuprennen ausgetragen werden und sechs Weltmeisterschaften stattgefunden haben, finden alle Biathlon-Entscheidungen statt.</desc>
-  </programme>
-  <programme start="20260120204000 +0100" stop="20260120204603 +0100" channel="Rai Südtirol">
-    <title>Nit amol gwisst</title>
-    <sub-title>Wo liegt der wahre Etschquell?</sub-title>
-    <desc>Die Etsch entspringt nicht an der Stelle in Reschen, die als Etschquelle markiert ist. Doch wo genau liegt der Ur-Quell der Etsch? Wir machen uns auf die Suche.</desc>
-  </programme>
-  <programme start="20260120221000 +0100" stop="20260120223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260121200000 +0100" stop="20260121202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
