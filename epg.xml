@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260122200000 +0100" stop="20260122202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260122202000 +0100" stop="20260122202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 13</title>
-    <sub-title/>
-    <desc>Nur drei Südtiroler Damen konnten sich zu Olympiasiegerinnen küren: Die Kunstbahnrodlerinnen Erika Lechner und Gerda Weißensteiner holten Gold in Grenoble 1968 bzw. Lillehammer 1994, Rad-Ass Antonella Bellutti gewann die 3000-m-Einzelverfolgung in Atlanta 1996 und vier Jahre später das Punktefahren in Sydney.</desc>
-  </programme>
-  <programme start="20260122202500 +0100" stop="20260122204000 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Emanuel Perathoner</sub-title>
-    <desc>Einmal an der Spitze der Weltelite mitfahren - das ist wohl der Traum vieler Wintersportbegeisterter. Emanuel Perathoner aus Lajen hat aus diesem Traum schon vor Jahren Wirklichkeit gemacht, der 39-järige kann auf eine erfolgreiche Karriere im Snowboard-Cross zurückblicken. Doch nachdem seine sportliche Karriere nach einem schweren Trainingsunfall schon beendet schien, folgt nun das nächste Kapitel, denn Emanuel lässt sich auch von einer Knieprothese nicht aufhalten. Dieses Porträt zeigt, wie er sich nun wieder an die Spitze zurück kämpft und mit welchem Durchhaltevermögen er sich auf die Paralympischen Spiele 2026 vorbereitet.</desc>
-  </programme>
-  <programme start="20260122204000 +0100" stop="20260122205440 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Dominik Zuech</sub-title>
-    <desc>Dass Dominik Zuech eines Tages Profisportler würde ließ sich schon früh vermuten, denn von klein auf stand der heute 29-Jährige auf Skiern. Nach seiner ersten Karriere im Ski-Alpin entdeckte er das Skicross-Fahren für sich - und damit eine neue Leidenschaft. Egal ob auf oder abseits der Pisten, Dominik bleibt stehts in Bewegung, um sich auf seinen großen Traum vorzubereiten: eine Teilnahme bei den Olympischen Winterspielen 2026.</desc>
-  </programme>
-  <programme start="20260122213000 +0100" stop="20260122215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Zum letzten Mal in diesem Winter ist der Alpine Skiweltcup in Südtirol zu Gast: In St. Vigil am Kronplatz findet der Riesentorlauf der Damen statt, der gleichzeitig auch einer der letzten Tests vor den Olympischen Winterspielen Mailand-Cortina ist. 
-Südtirols größte Medaillenhoffnung bei diesem Groß-Event ist in den Eisportdisziplinen der Meraner Daniel Grassl. Nach zwei schwierigen Saisonen ist er wieder in die Weltelite zurückgekehrt.</desc>
-  </programme>
-  <programme start="20260122221000 +0100" stop="20260122223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260123180000 +0100" stop="20260123182932 +0100" channel="Rai Südtirol">
     <title>Karriereleitern</title>
     <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
@@ -127,9 +96,9 @@ Lea leidet seit ihrem neunten Lebensjahr an Anorexie und wurde bereits zweimal s
   <programme start="20260125202500 +0100" stop="20260125205430 +0100" channel="Rai Südtirol">
     <title>Campus</title>
     <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Die Preisträger des Junior Research Award Südtirol 2025 Marco Prina, Magdalena Nagler Jack Schropp wurden für ihre hervorragende Arbeit als Nachwuchswissenschaftler:innen ausgezeichnet. 
+    <desc>Die Preisträger des Junior Research Award Südtirol 2025 Matteo Prina, Magdalena Nagler Jack Schropp wurden für ihre hervorragende Arbeit als Nachwuchswissenschaftler:innen ausgezeichnet. 
  
-Preisträger Marco Prina arbeitet seit 10 Jahren am Institut für Erneuerbare Energien der Eurac, erstellt Algorythmen und Computer-Modelle, um Energieerzeuger und öffentliche Verwaltungen bei der Energieverteilung und Versorgung zu unterstützen. Die Mikrobiologin Magdalena Nagler hingegen hat den Mention Award erhalten. Sie untersucht an der Universität Innsbruck die DNA von lebenden Mikroorganismen, um mehr über den Ausstoß von Kohlendioxyd im Boden zu erfahren. Jack Schropp, der sich ebenso über den Mention Award freut, ist seit Herbst vergangenen Jahres Juniorprofessor für Alte Geschichte an der Universität Mannheim und hat u.a. die römischen Meilensteine von Vintl erforscht. Im Studiogespräch gibt Prof.in Ulrike Loch einen vertiefenden Einblick in die Arbeit des Kompetenzzentrum für Soziale Arbeit und Sozialpolitik der Freien Uni Bozen und welche gesellschaftspolitische Bedeutung ihrer Arbeit zukommt.</desc>
+Preisträger Matteo Prina arbeitet seit 10 Jahren am Institut für Erneuerbare Energien der Eurac, erstellt Algorythmen und Computer-Modelle, um Energieerzeuger und öffentliche Verwaltungen bei der Energieverteilung und Versorgung zu unterstützen. Die Mikrobiologin Magdalena Nagler hingegen hat den Mention Award erhalten. Sie untersucht an der Universität Innsbruck die DNA von lebenden Mikroorganismen, um mehr über den Ausstoß von Kohlendioxyd im Boden zu erfahren. Jack Schropp, der sich ebenso über den Mention Award freut, ist seit Herbst vergangenen Jahres Juniorprofessor für Alte Geschichte an der Universität Mannheim und hat u.a. die römischen Meilensteine von Vintl erforscht. Im Studiogespräch gibt Prof.in Ulrike Loch einen vertiefenden Einblick in die Arbeit des Kompetenzzentrum für Soziale Arbeit und Sozialpolitik der Freien Uni Bozen und welche gesellschaftspolitische Bedeutung ihrer Arbeit zukommt.</desc>
   </programme>
   <programme start="20260125205500 +0100" stop="20260125205900 +0100" channel="Rai Südtirol">
     <title>Nachgedacht mit Jakob Declara</title>
