@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260123180000 +0100" stop="20260123182932 +0100" channel="Rai Südtirol">
-    <title>Karriereleitern</title>
-    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
-    <desc>Literaturwissenschaftler und Theaterautor Toni Bernhart und Wirtschaftsmanager Thomas
-Pittschieler erzählen von ihrem beruflichen Weg, der sie aus Südtirol in die Welt geführt hat.
-Toni Bernhart lebt in Berlin und Stuttgart, lehrt an der Universität Stuttgart und forscht in Berlin
-zur quantitativen Literaturwissenschaft. Ein besonderes Projekt ist seine Seilbahnseil-Akustik, wo er Klänge aus den Südtiroler Bergen in einen neuen Kontext stellt.
-Thomas Pittschieler lebt in Riad und begleitet als Manager eines internationalen Dienstleistungsunternehmens den Markteintritt globaler Firmen in Saudi-Arabien. Beide sind eng mit Südtirol verbunden und kehren regelmäßig in ihre Heimat zurück. "Karriereleitern" ist ein Gemeinschaftsprojekt von RAI Südtirol, dem Netzwerk Südstern und der Stiftung Futura.</desc>
-  </programme>
-  <programme start="20260123182900 +0100" stop="20260123185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Zum letzten Mal in diesem Winter ist der Alpine Skiweltcup in Südtirol zu Gast: In St. Vigil am Kronplatz findet der Riesentorlauf der Damen statt, der gleichzeitig auch einer der letzten Tests vor den Olympischen Winterspielen Mailand-Cortina ist. 
-Südtirols größte Medaillenhoffnung bei diesem Groß-Event ist in den Eisportdisziplinen der Meraner Daniel Grassl. Nach zwei schwierigen Saisonen ist er wieder in die Weltelite zurückgekehrt.</desc>
-  </programme>
-  <programme start="20260123200000 +0100" stop="20260123202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260123202000 +0100" stop="20260123202316 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 14</title>
-    <sub-title/>
-    <desc>Snowboard-Crosser Omar Visintin war bei den letzten Olympischen Winterspielen in Peking der erfolgreichste Südtiroler. Der Algunder gewann zwei Medaillen, holte Silber im Team und Bronze im Einzelbewerb. Bei seinen Heimspielen in Livigno will er den Medaillensatz komplettieren.</desc>
-  </programme>
-  <programme start="20260123202300 +0100" stop="20260123210627 +0100" channel="Rai Südtirol">
-    <title>Seiser Alm</title>
-    <sub-title>Gipfel der Gegensätze</sub-title>
-    <desc>Die Doku zeigt die Seiser Alm in all ihren Facetten: als schneebedecktes Naturparadies, als Heimat prägender Persönlichkeiten, als Bühne für ein Spannungsfeld zwischen Naturschutz und Tourismus. 
-
-Von einem der letzten ganzjährig wirtschaftenden Bauern auf der Alm über eine Trachtenschneiderin bis hin zum Luxushotel mit internationalen Gästen spannt der Film den Bogen zwischen Bodenständigkeit und Glamour. Auch die Rückkehr des Wolfes, der Kampf gegen Borkenkäfer und Debatten um neue Liftverbindungen und den Übertourismus rücken ins Bild. Packende Geschichten und atemberaubende Aufnahmen offenbaren eine Bergwelt im empfindlichen Gleichgewicht zwischen Schutz und Nutzung, Bewahren und Verändern.</desc>
-  </programme>
-  <programme start="20260123210600 +0100" stop="20260123215917 +0100" channel="Rai Südtirol">
-    <title>Rezepte fürs Leben</title>
-    <sub-title/>
-    <desc>Roman Patuzzi ist diplomierter Psychologe und Kampfkunstmeister und als professioneller Coach viel in Schulen unterwegs. Er hat sich der Jugendproblematik verschrieben und einen eigenen Ansatz entwickelt. Die Anfragen von Schulen nach seiner Methode, mit Jugendlichen umzugehen, häufen sich seit Covid und er hat sein Team erweitert, um der Nachfrage gerecht zu werden. Er geht in die Schulen und spricht mit den Jugendlichen. Aber es bleibt nicht beim Reden. Nach einer kurzen Kennenlernphase geht es auf die Matte. Hier können sich die Jugendlichen auspowern, und das, so Patuzzi, sei ein unverzichtbares Mittel, um vieles abzubauen. Die Jugendlichen müssen wieder mehr mit ihrem Körper machen und ihn spüren. Das ist das A und O, um sich zu befreien. Und das passiert heute viel zu wenig. Die Jugendlichen entwickeln immer weniger Leidenschaft für etwas. Das ist der Zeitgeist. Das und die Tatsache, dass Gewalt in den sozialen Medien sichtbar ist und zum Teil auch verherrlicht wird, führt dann zu Jugendbanden und Gewalt und all den anderen Problemen, die wir kennen. Dabei bräuchten sie nur jemanden, der ihnen zuhört und der ihnen Möglichkeiten aufzeigt. Diese Dokumentation von Wolfgang Moser beleuchtet eine aktuelle Situation und zeigt Möglichkeiten auf, wie mit Problemen oder Konfliktsituationen im Leben von Jugendlichen, Eltern und Lehrern umgegangen werden kann.</desc>
-  </programme>
-  <programme start="20260123221000 +0100" stop="20260123223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260124180000 +0100" stop="20260124184320 +0100" channel="Rai Südtirol">
     <title>Weltwärts und zurück</title>
     <sub-title>Auslandspraktikum mit Sinn</sub-title>
@@ -106,6 +64,223 @@ Preisträger Matteo Prina arbeitet seit 10 Jahren am Institut für Erneuerbare E
     <desc/>
   </programme>
   <programme start="20260125221000 +0100" stop="20260125223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260126180000 +0100" stop="20260126181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>In der Fußball-Oberliga ist die Rückrunde mit zwei Südtiroler Derby gestartet: In beiden Spielen geht es um den Abstiegskampf, Schlusslicht Gröden ist bei St. Georgen zu Gast, der Tabellen-Vorletzte Brixen empfängt den Drittletzten Ahrntal. Spitzenreiter Bozner FC muss hingegen auswärts beim Tabellen-Sechsten Levico antreten.</desc>
+  </programme>
+  <programme start="20260126181400 +0100" stop="20260126182900 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Der Mond</sub-title>
+    <desc>Zipp-dabei-Reporter David ist fasziniert von unserem Erdtrabanten, dem Mond. Um mehr über diesen Himmelskörper zu erfahren, macht er sich auf ins Naturmuseum von Bozen, wo ihn Direktor und Astronom David Gruber durch die aktuelle Mondausstellung führt und ihm so manch kurioses Detail über unseren Erdbegleiter verrät.</desc>
+  </programme>
+  <programme start="20260126182900 +0100" stop="20260126185830 +0100" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Die Preisträger des Junior Research Award Südtirol 2025 Matteo Prina, Magdalena Nagler Jack Schropp wurden für ihre hervorragende Arbeit als Nachwuchswissenschaftler:innen ausgezeichnet. Preisträger Matteo Prina arbeitet seit 10 Jahren am Institut für Erneuerbare Energien der Eurac, erstellt Algorythmen und Computer-Modelle, um Energieerzeuger und öffentliche Verwaltungen bei der Energieverteilung und Versorgung zu unterstützen. Die Mikrobiologin Magdalena Nagler hingegen hat den Mention Award erhalten. Sie untersucht an der Universität Innsbruck die DNA von lebenden Mikroorganismen, um mehr über den Ausstoß von Kohlendioxyd im Boden zu erfahren. Jack Schropp, der sich ebenso über den Mention Award freut, ist seit Herbst vergangenen Jahres Juniorprofessor für Alte Geschichte an der Universität Mannheim und hat u.a. die römischen Meilensteine von Vintl erforscht. Im Studiogespräch gibt Prof.in Ulrike Loch einen vertiefenden Einblick in die Arbeit des Kompetenzzentrum für Soziale Arbeit und Sozialpolitik der Freien Uni Bozen und welche gesellschaftspolitische Bedeutung ihrer Arbeit zukommt.</desc>
+  </programme>
+  <programme start="20260126200000 +0100" stop="20260126202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260126202000 +0100" stop="20260126202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 17</title>
+    <sub-title>Olympiamedaillen</sub-title>
+    <desc>Südtirol hat bei den Olympischen Winterspielen insgesamt 11 Goldmedaillen gewonnen, 7 davon im Kunstbahnrodeln. Erika Lechner kürte sich 1968 in Grenoble zur ersten Südtiroler Olympiasiegerin, der letzte einheimische Olympiasieger ist Armin Zöggeler (Turin 2006).</desc>
+  </programme>
+  <programme start="20260126202500 +0100" stop="20260126212422 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Ein Portrait über Mary Pound de Rachewiltz, die Bühnenadaptierung des Romans "Blutbuch" und das neue Album des Liedermacher-Duos Clempanei einige der Themen. Es moderiert Alex Lechner.   
+
+Zu Gast sind die Schauspielerin, Clownfrau und Drag-Queen Sigrid Seberich und der Präsident des Südtiroler Künstlerbundes, Alexander Zoeggeler.  
+Der Südtiroler Künstlerbund feiert heuer sein 80-jähriges Bestehen - ein Blick zurück.   
+Vergangenen November erhielt die Dichterin, Essayistin und Übersetzerin Mary Pound de Rachewiltz für ihre besonderen literarischen und kulturellen Verdienste die Ehrenbürgerschaft von Meran.  
+Die Vereinigten Bühnen Bozen beginnen das Jahr mit der Bühnenfassung des Romans "Blutbuch", mit dem die Autorin Kim de l'Horizon 2022 den deutschen wie auch Schweizer Buchpreis erhalten hat. 
+Vor kurzem hat das Duo Clempanei - bestehend aus dem Liedermacher Georg Clementi und dem Gitarrenvirtuosen Ossy Pardeller - das zweite gemeinsame Album vorgestellt: Neun poetische, witzig-kluge und zuweilen kritische Songs mit viel Gefühl und tiefsinnigem Humor.   
+Anlässlich der Olympischen Spiele von Mailand Cortina 2026 präsentiert das MART in Rovereto die Ausstellung "Der herausgeforderte Körper", in der der menschliche Körper bei sportlicher Betätigung im Mittelpunkt steht.</desc>
+  </programme>
+  <programme start="20260126212400 +0100" stop="20260126215243 +0100" channel="Rai Südtirol">
+    <title>In memoriam Robert Scherer</title>
+    <sub-title>Neun Jahrzehnte Kunst</sub-title>
+    <desc>Der aus Kortsch im Vinschgau stammende Künstler Robert Scherer starb am 11.Jänner im Alter von 97 Jahren.  
+
+Die letzten Lebensjahre verbrachte Robert Scherer im Palazzo Scherer-Malfatti in Ala im Trentino. Nach einem turbulenten Leben hat er sich - etwas - zur Ruhe gesetzt und denkt über sich und die Welt nach. Der Filmemacher Gottfried Deghenghi und Buchautor Jul Bruno Laner erzählen einfühlsam aus dem Künstlerleben von Robert Scherer. Ein Filmporträt, das zu seinem 90. Geburtstag entstand.</desc>
+  </programme>
+  <programme start="20260126215300 +0100" stop="20260126215855 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Architekt Peter Pichler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260126221000 +0100" stop="20260126223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260127200000 +0100" stop="20260127202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260127202000 +0100" stop="20260127203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260127203500 +0100" stop="20260127204000 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 18</title>
+    <sub-title/>
+    <desc>Südtirol ist ein Sportland, mit vielen Weltklasse-Athletinnen und -Athleten. In 50 Schulen haben unserer Sportler über ihre Olympiaerfahrungen berichtet, 32 Gemeinden haben für ihre Olympia-Medaillengewinner sogar eigene Ehrentafeln aufgestellt.</desc>
+  </programme>
+  <programme start="20260127204000 +0100" stop="20260127204942 +0100" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Martina Peintners langer Weg zurück</sub-title>
+    <desc>Martina Peintner ist eine mutige, junge Frau, die viele Jahre unter einer schweren Autoimmunkrankheit gelitten hat. Mit großem Lebenswillen ist ihr der Schritt zurück ins Leben gelungen. Das Bemalen von Wänden wurde zu ihrem beruflichen Standbein. Im Gespräch mit Klick erzählt sie, wie sie die Krankheit überwinden konnte.</desc>
+  </programme>
+  <programme start="20260127221000 +0100" stop="20260127223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260128200000 +0100" stop="20260128202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260128202000 +0100" stop="20260128202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 19</title>
+    <sub-title/>
+    <desc>Eine Silber- und vier Bronzemedaillen gewann Südtirol bei den letzten Olympischen Winterspielen in Peking. Omar Visintin holte Silber und Bronze im Snowboardcross, Bronze gab es auch für Kunstbahnrodler Dominik Fischnaller, Abfahrerin Nadia Delago und Biathletin Dorothea Wierer.</desc>
+  </programme>
+  <programme start="20260128202500 +0100" stop="20260128205510 +0100" channel="Rai Südtirol">
+    <title>Betreutes Wohnen</title>
+    <sub-title>Eine Reise durch Seniorenresidenzen in Südtirol</sub-title>
+    <desc>Würde, Fürsorge, Vertrautheit sind Leitbegriffe der heutigen Architektur für ältere Menschen. Wie wurden diese umgesetzt? Wie lernen fünf Beispiele kennen. 
+
+Die Dokumentation zeigt, wie Architektur auf die letzte Lebensphase antwortet . zwischen Pflege, Gemeinschaft, Geschichte und zeitgemäßer Gestaltung. 
+Im Grieserhof in Bozen wurde eine ehemalige Klimastation zu einem offenen, urbanen Zentrum für Wohnen, Pflege und Nachbarschaft umgestaltet. Weiter geht es zur markanten und flexibel einsetzbaren Residenz St. Barbara in St. Leonhard in Passeier, in das von einem umfassenden Kunstkonzept geprägte Seniorenresidenz St. Josef im Herzen von Meran sowie zum innovativ erweiterten Schloss Moos in Pfitsch. Den Abschluss bildet der ehemalige Klosterkomplex in Mühlbach, der heute als Seniorenresidenz und zugleich als Ort der Begegnung für mehrere Gemeinden dient. 
+Die unterschiedlichen Beispiele zeigen, wie Seniorenresidenzen heute zu offenen Orten des Zusammenlebens werden, in denen Architektur Geborgenheit, Teilhabe und Identität stiftet.</desc>
+  </programme>
+  <programme start="20260128221000 +0100" stop="20260128223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260129200000 +0100" stop="20260129202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260129202000 +0100" stop="20260129202500 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 20</title>
+    <sub-title/>
+    <desc>Was haben Armin Zöggeler, Gerda Weißensteiner, Willi Huber und Roland Fischnaller gemeinsam? Sie haben alle vier an sechs Olympischen Winterspielen teilgenommen. In zwei Wochen wird Fischnaller alleiniger Rekordhalter. In Livigno wird er seine siebten Olympischen Winterspiele bestreiten.</desc>
+  </programme>
+  <programme start="20260129202500 +0100" stop="20260129203409 +0100" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Rudolf Hartmann</sub-title>
+    <desc>Vom k.u.k. Hofspediteur zum modernen Logistikdienstleister. Der Firmengründer begann 1880, Umzüge wohlhabender Wiener nach Meran zu organisieren - auch heute noch werden Waren transportiert.  
+Im Laufe der Zeit wurde der Güteraustausch immer komplexer und aufwändiger. Die Güter wurden von den umliegenden Tälern und Ortschaften mit Pferdefuhrwerken zum Meraner Bahnhof gebracht und dort auf die Schiene verladen. 
+Auch in der vierten Generation ist das Unternehmen - seit 1999 mit Sitz in Sinich - der Schiene treu geblieben und koordiniert mit kombiniertem Transport auf Straße und Schiene die termingerechte Warenanlieferung beim Kunden.</desc>
+  </programme>
+  <programme start="20260129203400 +0100" stop="20260129204840 +0100" channel="Rai Südtirol">
+    <title>Olympiahoffnungen 2026</title>
+    <sub-title>Anna Pezzetta</sub-title>
+    <desc>Die 18-jährige Boznerin Anna Pezzetta gehört zu den größten Talenten im italienischen Eiskunstlauf. Für die Verwirklichung ihres Traums, der Teilnahme an den Olympischen Winterspielen 2026, ist sie nach Mailand gezogen, um sich voll und ganz dem Training widmen zu können. Doch was sollte man für seine Passion aufgeben? Und wie gelingt die Balance zwischen Profisport und Privatleben? Ein Porträt über eine Südtirolerin, die ihren Traum lebt - und sich aufmacht, die Welt des Eiskunstlaufs zu erobern.</desc>
+  </programme>
+  <programme start="20260129213000 +0100" stop="20260129215930 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>EASA mehr als eine Woche fehlt noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Zahlreiche Südtiroler Athletinnen und Athleten haben sich für diese Spiele qualifiziert, einige starten mit berechtigten Medaillenhoffnungen. Bei den letzten Spielen in Peking holte Südtirol fünf Medaillen, diese Marke soll übertroffen werden.</desc>
+  </programme>
+  <programme start="20260129221000 +0100" stop="20260129223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260130180000 +0100" stop="20260130182930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Elektro, Hybrid oder Verbrenner? Wer heute ein Auto kaufen möchte, steht vor einer grundlegenden Entscheidung. Im Porträt: Der Wohnort und Wirtschaftsstandort Sand in Taufers. 
+Pluspunkt beleuchtet die wichtigsten Kriterien rund um den Autokauf: vom persönlichen Fahrprofil über Reichweite und Ladeinfrastruktur bis hin zu Anschaffungs- und Betriebskosten. Der Beitrag zeigt, wann sich ein Elektroauto lohnt, für wen ein Hybrid eine sinnvolle Lösung sein kann - und wie die Perspektiven des klassischen Verbrennungsmotors einzuschätzen sind. Eine kompakte Orientierungshilfe für alle, die vor dem nächsten Autokauf stehen. Außerdem führt die Sendung in der Rubrik "Lebenswerte Orte in Südtirol" nach Sand in Taufers. Die Gemeinde im Tauferer Ahrntal präsentiert sich als lebenswerter Ort zwischen alpiner Landschaft, gewachsener Dorfgemeinschaft und hoher Lebensqualität.</desc>
+  </programme>
+  <programme start="20260130182900 +0100" stop="20260130185830 +0100" channel="Rai Südtirol">
+    <title>SportArena</title>
+    <sub-title/>
+    <desc>EASA mehr als eine Woche fehlt noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Zahlreiche Südtiroler Athletinnen und Athleten haben sich für diese Spiele qualifiziert, einige starten mit berechtigten Medaillenhoffnungen. Bei den letzten Spielen in Peking holte Südtirol fünf Medaillen, diese Marke soll übertroffen werden.</desc>
+  </programme>
+  <programme start="20260130200000 +0100" stop="20260130202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260130202000 +0100" stop="20260130215930 +0100" channel="Rai Südtirol">
+    <title>Olympia on fire</title>
+    <sub-title>Der Auftakt zu den Olympischen Winterspielen 2026</sub-title>
+    <desc>Südtirol feiert den Auftakt zu den Olympischen Winterspielen 2026. Das Event vereint Musik, Sport und Gemeinschaft. Rai Südtirol überträgt live aus der Stadthalle Bozen. 
+
+Im Mittelpunkt steht das Feuer, das wir alle in uns tragen - jene Kraft, die uns ermutigt, Grenzen zu überwinden, die uns im Alltag inspiriert, uns antreibt und Menschen miteinander verbindet. Auf der Bühne verschmelzen berauschende Musik, bewegende Bilder und inspirierende Darbietungen zu einem Fest voller Energie, Leidenschaft und Entschlossenheit.  
+Südtirol Filarmonica, Teatro la Ribalta, Luftakrobat Alex Aufderklamm, Musikerin Maria dal Val und viele andere gestalten ein unvergessliches Fest im Sinne der olympischen Idee.</desc>
+  </programme>
+  <programme start="20260130221000 +0100" stop="20260130223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260131180000 +0100" stop="20260131185830 +0100" channel="Rai Südtirol">
+    <title>Onfire 2026</title>
+    <sub-title>Höhepunkte</sub-title>
+    <desc>Südtirol feiert den Auftakt zu den Olympischen Winterspielen 2026. Das Event vereint Musik, Sport und Gemeinschaft. Rai Südtirol überträgt live aus der Stadthalle Bozen. Im Mittelpunkt steht das Feuer, das wir alle in uns tragen - jene Kraft, die uns ermutigt, Grenzen zu überwinden, die uns im Alltag inspiriert, uns antreibt und Menschen miteinander verbindet. Auf der Bühne verschmelzen berauschende Musik, bewegende Bilder und inspirierende Darbietungen zu einem Fest voller Energie, Leidenschaft und Entschlossenheit.  
+Südtirol Filarmonica, Teatro la Ribalta, Luftakrobat Alex Aufderklamm, Musikerin Maria dal Val und viele andere gestalten ein unvergessliches Fest im Sinne der olympischen Idee.</desc>
+  </programme>
+  <programme start="20260131200000 +0100" stop="20260131202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260131202100 +0100" stop="20260131202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260131202500 +0100" stop="20260131205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Zu Besuch in zwei Südtiroler Slow Food-Betrieben, die Arbeitgebermarke Join im Fokus, zwei neue Michelin-Sterne für Südtiroler Spitzenköche.  
+
+Der Restaurantführer Osterie d'Italia zeichnet Betriebe aus, die Regionalität, Qualität und bewussten Genuss leben. Auch Südtirol ist mit mehreren Lokalen vertreten - zwei davon stellen wir vor. 
+Mit JOIN präsentiert der Hoteliers- und Gastwirteverband Südtirol eine neue Arbeitgebermarke. Sie reagiert auf Fachkräftemangel und veränderte Erwartungen an Arbeit, Führung und Teamkultur. Im Mittelpunkt stehen die Menschen, ihre Werte und neue Formen der Zusammenarbeit. 
+Kulinarisch richtet sich anschließend der Blick auf nachhaltige Spitzenleistungen: Der Michelin Guide vergibt den Grünen Stern an den Kircherhof in Albeins. Der Familienbetrieb zeigt, wie Landwirtschaft und Gastronomie im Einklang funktionieren können. Und weitere Sterne leuchten über Südtirols Küche: Im Guide Michelin 2026 erhält auch die Gourmetstube 1897 im Quellenhof Passeier eine Auszeichnung. Küchenchef Michael Mayr spricht über seinen Weg und die Bedeutung des Sterns.</desc>
+  </programme>
+  <programme start="20260131221000 +0100" stop="20260131223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260201200000 +0100" stop="20260201202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260201202000 +0100" stop="20260201204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Seit mehr als 200 Jahren setzen sich Frauen für mehr Geschlechtergerechtigkeit ein. Doch was macht jenes Geschlecht, das dafür Privilegien abgeben muss? Auch dort bewegt sich so manch Erfreuliches. Denn wie der aktuelle dF-Bericht zeigt: Immer mehr Männer übernehmen nicht nur im Familienleben gleiche Verantwortung wie Frauen, sondern machen sich auch öffentlich für feministische Anliegen stark.
+
+Redakteurin Gabriele Crepaz wohnt in einer Schulstraße in Bozen. Endlich lernt sie die Schülerlotsin kennen, die jeden Tag an der Kreuzung lächelt. Sie scheint mit allen vertraut: Schülern, Radfahrerinnen, Autofahrern, Seniorinnen. Gesellschaft ist Beziehungsarbeit, sagt sie. Ein Porträt über Nadia Bregolato, einen Menschen von nebenan.  
+In dF Info berichten wir über zwei Ausstellungen: Zum einen über die Retrospektive der französischen Künstlerin und Aktivistin Nicola L. im Museion in Bozen und zum anderen über die Wanderausstellung "Meine Oma, meine Mutter und ich" im Frauenmuseum Meran.</desc>
+  </programme>
+  <programme start="20260201205000 +0100" stop="20260201205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260201221000 +0100" stop="20260201223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
