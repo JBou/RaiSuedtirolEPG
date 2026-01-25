@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260124180000 +0100" stop="20260124184320 +0100" channel="Rai Südtirol">
-    <title>Weltwärts und zurück</title>
-    <sub-title>Auslandspraktikum mit Sinn</sub-title>
-    <desc>Die Filmemacher Christian Gasser und Daniela Thaler begleiten in ihrem Dokumentarfilm junge Südtirolerinnen und Südtiroler bei ihrem Auslandspraktikum in Huaraz, Peru. Der Film zeigt, wie die Freiwilligen im Gesundheitszentrum "Un techo en los Andes - Ein Dach in den Anden" tätig sind, Kinder betreuen, Hausbesuche machen und soziale Projekte vor Ort unterstützen. Darüber hinaus erzählt der Film von den persönlichen Erfahrungen der Freiwilligen, von den Herausforderungen und dem Perspektivwechsel, den ein Einsatz im Globalen Süden mit sich bringt. Expertinnen der "Organisation für eine solidarische Welt" (OEW) und Projektleiterin Rosario Figueroa geben Einblicke in die langfristigen Ziele der Programme und zeigen, wie Engagement vor Ort neue Sichtweisen auf die Welt eröffnet.</desc>
-  </programme>
-  <programme start="20260124184300 +0100" stop="20260124185700 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen</title>
-    <sub-title>Peter Schroffenegger</sub-title>
-    <desc>Peter Schroffenegger, 33, aus Gossensass zählt zu Südtirols stärksten Special-Olympics-Athleten im Langlauf. Trotz seiner Beeinträchtigung - einer Veränderung am 13. Gen - trainiert er mit großer Disziplin und bei den Special Olympics 2025 in Turin wurde sein Einsatz belohnt: Peter holte die Bronzemedaille im Langlauf. Er steht wie kaum ein anderer für Willenskraft, Zielstrebigkeit und die Freude am Sport - ein Athlet, der wahrlich inspiriert und beeindruckt.</desc>
-  </programme>
-  <programme start="20260124200000 +0100" stop="20260124202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260124202000 +0100" stop="20260124202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 15</title>
-    <sub-title/>
-    <desc>Die größte Südtiroler Medaillenhoffnung in den Eissport-Disziplinen ist der Meraner Eiskunstläufer Daniel Grassl. Nach zwei schwierigen Saisonen ist er heuer wieder in die Weltspitze zurückgekehrt.</desc>
-  </programme>
-  <programme start="20260124202600 +0100" stop="20260124203000 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260124203000 +0100" stop="20260124211040 +0100" channel="Rai Südtirol">
-    <title>Hungernde Seelen</title>
-    <sub-title/>
-    <desc>Essstörungen sind im Steigen begriffen, vor allem seine der Corona-Pandemie. Doch was sind die Ursachen dafür? Filmemacher Georg Penn lässt Betroffene, Expert:innen und Angehörige zu Wort kommen. 
-
-Lea leidet seit ihrem neunten Lebensjahr an Anorexie und wurde bereits zweimal stationär in der pädiatrischen Abteilung des Krankenhauses behandelt. Michael begann nach einer schwierigen Lebensphase mit exzessivem Sport und verlor mit jedem Kilo sein Körpergefühl und den Glauben an sich selbst. Giusy erzählt von Kindheitstraumata, Unzufriedenheit mit ihrem Körper, übertriebenem Ehrgeiz und der Last des Essens.</desc>
-  </programme>
-  <programme start="20260124221000 +0100" stop="20260124223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260125200000 +0100" stop="20260125202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
