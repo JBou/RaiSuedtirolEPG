@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260125200000 +0100" stop="20260125202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260125202000 +0100" stop="20260125202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 16</title>
-    <sub-title/>
-    <desc>Gustav Thöni ist eine Legende. 1972 kürte er sich in Sapporo zum Riesentorlauf-Olympiasieger und gewann Silber im Slalom, vier Jahre später holte er in Innsbruck einen weitere Silbermedaille, wieder im Slalom.</desc>
-  </programme>
-  <programme start="20260125202500 +0100" stop="20260125205430 +0100" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Die Preisträger des Junior Research Award Südtirol 2025 Matteo Prina, Magdalena Nagler Jack Schropp wurden für ihre hervorragende Arbeit als Nachwuchswissenschaftler:innen ausgezeichnet. 
- 
-Preisträger Matteo Prina arbeitet seit 10 Jahren am Institut für Erneuerbare Energien der Eurac, erstellt Algorythmen und Computer-Modelle, um Energieerzeuger und öffentliche Verwaltungen bei der Energieverteilung und Versorgung zu unterstützen. Die Mikrobiologin Magdalena Nagler hingegen hat den Mention Award erhalten. Sie untersucht an der Universität Innsbruck die DNA von lebenden Mikroorganismen, um mehr über den Ausstoß von Kohlendioxyd im Boden zu erfahren. Jack Schropp, der sich ebenso über den Mention Award freut, ist seit Herbst vergangenen Jahres Juniorprofessor für Alte Geschichte an der Universität Mannheim und hat u.a. die römischen Meilensteine von Vintl erforscht. Im Studiogespräch gibt Prof.in Ulrike Loch einen vertiefenden Einblick in die Arbeit des Kompetenzzentrum für Soziale Arbeit und Sozialpolitik der Freien Uni Bozen und welche gesellschaftspolitische Bedeutung ihrer Arbeit zukommt.</desc>
-  </programme>
-  <programme start="20260125205500 +0100" stop="20260125205900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260125221000 +0100" stop="20260125223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260126180000 +0100" stop="20260126181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
