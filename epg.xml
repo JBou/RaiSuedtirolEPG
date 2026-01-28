@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260127200000 +0100" stop="20260127202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260127202000 +0100" stop="20260127203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260127203500 +0100" stop="20260127204000 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 18</title>
-    <sub-title/>
-    <desc>Südtirol ist ein Sportland, mit vielen Weltklasse-Athletinnen und -Athleten. In 50 Schulen haben unserer Sportler über ihre Olympiaerfahrungen berichtet, 32 Gemeinden haben für ihre Olympia-Medaillengewinner sogar eigene Ehrentafeln aufgestellt.</desc>
-  </programme>
-  <programme start="20260127204000 +0100" stop="20260127204942 +0100" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Martina Peintners langer Weg zurück</sub-title>
-    <desc>Martina Peintner ist eine mutige, junge Frau, die viele Jahre unter einer schweren Autoimmunkrankheit gelitten hat. Mit großem Lebenswillen ist ihr der Schritt zurück ins Leben gelungen. Das Bemalen von Wänden wurde zu ihrem beruflichen Standbein. Im Gespräch mit Klick erzählt sie, wie sie die Krankheit überwinden konnte.</desc>
-  </programme>
-  <programme start="20260127221000 +0100" stop="20260127223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260128200000 +0100" stop="20260128202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
