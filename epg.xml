@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260128200000 +0100" stop="20260128202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260128202000 +0100" stop="20260128202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 19</title>
-    <sub-title/>
-    <desc>Eine Silber- und vier Bronzemedaillen gewann Südtirol bei den letzten Olympischen Winterspielen in Peking. Omar Visintin holte Silber und Bronze im Snowboardcross, Bronze gab es auch für Kunstbahnrodler Dominik Fischnaller, Abfahrerin Nadia Delago und Biathletin Dorothea Wierer.</desc>
-  </programme>
-  <programme start="20260128202500 +0100" stop="20260128205510 +0100" channel="Rai Südtirol">
-    <title>Betreutes Wohnen</title>
-    <sub-title>Eine Reise durch Seniorenresidenzen in Südtirol</sub-title>
-    <desc>Würde, Fürsorge, Vertrautheit sind Leitbegriffe der heutigen Architektur für ältere Menschen. Wie wurden diese umgesetzt? Wie lernen fünf Beispiele kennen. 
-
-Die Dokumentation zeigt, wie Architektur auf die letzte Lebensphase antwortet . zwischen Pflege, Gemeinschaft, Geschichte und zeitgemäßer Gestaltung. 
-Im Grieserhof in Bozen wurde eine ehemalige Klimastation zu einem offenen, urbanen Zentrum für Wohnen, Pflege und Nachbarschaft umgestaltet. Weiter geht es zur markanten und flexibel einsetzbaren Residenz St. Barbara in St. Leonhard in Passeier, in das von einem umfassenden Kunstkonzept geprägte Seniorenresidenz St. Josef im Herzen von Meran sowie zum innovativ erweiterten Schloss Moos in Pfitsch. Den Abschluss bildet der ehemalige Klosterkomplex in Mühlbach, der heute als Seniorenresidenz und zugleich als Ort der Begegnung für mehrere Gemeinden dient. 
-Die unterschiedlichen Beispiele zeigen, wie Seniorenresidenzen heute zu offenen Orten des Zusammenlebens werden, in denen Architektur Geborgenheit, Teilhabe und Identität stiftet.</desc>
-  </programme>
-  <programme start="20260128221000 +0100" stop="20260128223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260129200000 +0100" stop="20260129202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
