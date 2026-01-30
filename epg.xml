@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260129200000 +0100" stop="20260129202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260129202000 +0100" stop="20260129202500 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 20</title>
-    <sub-title/>
-    <desc>Was haben Armin Zöggeler, Gerda Weißensteiner, Willi Huber und Roland Fischnaller gemeinsam? Sie haben alle vier an sechs Olympischen Winterspielen teilgenommen. In zwei Wochen wird Fischnaller alleiniger Rekordhalter. In Livigno wird er seine siebten Olympischen Winterspiele bestreiten.</desc>
-  </programme>
-  <programme start="20260129202500 +0100" stop="20260129203409 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Rudolf Hartmann</sub-title>
-    <desc>Vom k.u.k. Hofspediteur zum modernen Logistikdienstleister. Der Firmengründer begann 1880, Umzüge wohlhabender Wiener nach Meran zu organisieren - auch heute noch werden Waren transportiert.  
-Im Laufe der Zeit wurde der Güteraustausch immer komplexer und aufwändiger. Die Güter wurden von den umliegenden Tälern und Ortschaften mit Pferdefuhrwerken zum Meraner Bahnhof gebracht und dort auf die Schiene verladen. 
-Auch in der vierten Generation ist das Unternehmen - seit 1999 mit Sitz in Sinich - der Schiene treu geblieben und koordiniert mit kombiniertem Transport auf Straße und Schiene die termingerechte Warenanlieferung beim Kunden.</desc>
-  </programme>
-  <programme start="20260129203400 +0100" stop="20260129204840 +0100" channel="Rai Südtirol">
-    <title>Olympiahoffnungen 2026</title>
-    <sub-title>Anna Pezzetta</sub-title>
-    <desc>Die 18-jährige Boznerin Anna Pezzetta gehört zu den größten Talenten im italienischen Eiskunstlauf. Für die Verwirklichung ihres Traums, der Teilnahme an den Olympischen Winterspielen 2026, ist sie nach Mailand gezogen, um sich voll und ganz dem Training widmen zu können. Doch was sollte man für seine Passion aufgeben? Und wie gelingt die Balance zwischen Profisport und Privatleben? Ein Porträt über eine Südtirolerin, die ihren Traum lebt - und sich aufmacht, die Welt des Eiskunstlaufs zu erobern.</desc>
-  </programme>
-  <programme start="20260129213000 +0100" stop="20260129215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>EASA mehr als eine Woche fehlt noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Zahlreiche Südtiroler Athletinnen und Athleten haben sich für diese Spiele qualifiziert, einige starten mit berechtigten Medaillenhoffnungen. Bei den letzten Spielen in Peking holte Südtirol fünf Medaillen, diese Marke soll übertroffen werden.</desc>
-  </programme>
-  <programme start="20260129221000 +0100" stop="20260129223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260130180000 +0100" stop="20260130182930 +0100" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -115,6 +83,192 @@ In dF Info berichten wir über zwei Ausstellungen: Zum einen über die Retrospek
   </programme>
   <programme start="20260201221000 +0100" stop="20260201223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260202180000 +0100" stop="20260202181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der FC Obermais kämpft in der Serie D um den Klassenerhalt, deshalb brauchen die Meraner im Heimspiel gegen den Tabellenletzten Portogruaro unbedingt einen Sieg. In der Oberliga findet der zweite Spieltag der Rückrunde statt: Im einzigen Südtiroler Derby dieser Runde empfängt der Bozner FC Partschins. Gröden trifft hingegen in Milland auf Benacense.</desc>
+  </programme>
+  <programme start="20260202181400 +0100" stop="20260202182900 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Zu Besuch im Hallenbad</sub-title>
+    <desc>Die Zipp-ReporterInnen schauen sich in einem öffentlichen Hallenbad um und begeben sich dazu in die ansonsten verschlossenen Kellerräume unter dem großen Schwimmbecken. Dort wird das Wasser permanent in großen, mit Sand gefüllten Tanks gereinigt und mit Chlor und Ozon keimfrei gemacht. Nachdem es in Wärmetauschern erwärmt wird, kommt es warm und sauber wieder zurück in die Becken. Noch ein kurzer Wasserqualitäts-Check unserer Reporter und schon stürzen sie sich Hals über Kopf die Erlebnisrutsche hinunter.</desc>
+  </programme>
+  <programme start="20260202182900 +0100" stop="20260202185750 +0100" channel="Rai Südtirol">
+    <title>Wie wirkt Kälte?</title>
+    <sub-title>Gefahr und Chance</sub-title>
+    <desc>Die Temperaturen fallen, was in der Regel den Körper belastet. Kälte ist ähnlich gefährlich wie
+Hitze. Herzpatienten, Rheumatiker und Asthmatiker leiden besonders darunter.
+Der Leiter der Rheumatologie in Bruneck, Christian Dejaco, hat zurzeit häufig mit einer speziellen
+Krankheit zu tun, bei der die Fingerdurchblutung abnimmt, was sehr schmerzhaft sein kann. Der Sportmediziner Alex Mitterhofer warnt Ungeübte, Sport in der Kälte zu betreiben, denn für den Körper ist Kälte eine enorme Herausforderung.
+Trotzdem ist es heilsam, sich im Winter im Freien zu bewegen und den Körper - mit Bedacht - an die niedrigen Temperaturen zu gewöhnen. Wie man lernt, mit Kälte umzugehen, zeigt Kneipp-Spezialistin Anna Lerchner. Und für Geübte ist die Kältekammer mit immerhin minus 110 Grad eine frostige Herausforderung, um das eigene das Immunsystem anzukurbeln.
+Die Youtuberin und Buchautorin Silvi Gasser empfiehlt Speisen für kalte Tage.
+Ein Film von Ulli Velano.</desc>
+  </programme>
+  <programme start="20260202200000 +0100" stop="20260202202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260202202000 +0100" stop="20260202210500 +0100" channel="Rai Südtirol">
+    <title>Olympia</title>
+    <sub-title>Hinter den Kulissen</sub-title>
+    <desc>Wahrscheinlich ist es bei allen sportlichen Veranstaltungen so, dass erst in letzter Minute alle Vorbereitungsarbeiten abgeschlossen sind. Genauso ist es auch in Antholz, wo auf Hochtouren gearbeitet wird.  
+
+In Antholz werden die Biathlonbewerbe von Milano-Cortina 2026 ausgetragen. Seit mehreren Jahren bereiten sich nicht nur die in Weltcups und Weltmeisterschaften erfahrenen Antholzer auf dieses Großereignis vor, sondern auch viele andere Südtiroler:innen. Die Dokumentation von Rupert Zöschg wirft einen Blick auf die Arbeit der vielfältigen Organisationen und Unternehmen. Zu Wort kommen Fachleute, Sportfunktionäre und natürlich die vielen Freiwilligen aus ganz Südtirol, die dieses Sportevent zu einem unvergesslichen Ereignis für das weltweite Publikum machen.</desc>
+  </programme>
+  <programme start="20260202210500 +0100" stop="20260202212523 +0100" channel="Rai Südtirol">
+    <title>Ein Tag im Schnee</title>
+    <sub-title>Mit Gustav Thöni auf der Piste</sub-title>
+    <desc>Die Sendereihe "Ein Tag im Schnee" ist zu Gast in Trafoi und Sulden. Moderatorin und Skilehrerin Silvia Fontanive trifft dort die Skilegende Gustav Thöni. Gemeinsam erkunden sie das Skigebiet Sulden am Fuß des Ortlermassivs. Gustav Thöni, Olympiasieger, Weltmeister und Weltcupgewinner, trifft Weggefährten und erzählt aus seinem Leben als Rennfahrer. Der kürzlich verstorbene Tausendsassa Paul Hanni, der Sulden weit über die Grenzen des Landes hinaus bekanntgemacht hat, erinnert sich an die Anfänge der Skitestwoche, die jährlich in Sulden stattfindet. Sie führt Rennläufer, Journalisten und Experten zusammen. Ein Pflichttermin für unseren Gast Gustav Thöni.</desc>
+  </programme>
+  <programme start="20260202212500 +0100" stop="20260202215430 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Seit mehr als 200 Jahren setzen sich Frauen für mehr Geschlechtergerechtigkeit ein. Doch was macht jenes Geschlecht, das dafür Privilegien abgeben muss? Auch dort bewegt sich so manch Erfreuliches. Denn wie der aktuelle dF-Bericht zeigt: Immer mehr Männer übernehmen nicht nur im Familienleben gleiche Verantwortung wie Frauen, sondern machen sich auch öffentlich für feministische Anliegen stark. Redakteurin Gabriele Crepaz wohnt in einer Schulstraße in Bozen. Endlich lernt sie die Schülerlotsin kennen, die jeden Tag an der Kreuzung lächelt. Sie scheint mit allen vertraut: Schülern, Radfahrerinnen, Autofahrern, Seniorinnen. Gesellschaft ist Beziehungsarbeit, sagt sie. Ein Porträt über Nadia Bregolato, einen Menschen von nebenan.  
+In dF Info berichten wir über zwei Ausstellungen: Zum einen über die Retrospektive der französischen Künstlerin und Aktivistin Nicola L. im Museion in Bozen und zum anderen über die Wanderausstellung "Meine Oma, meine Mutter und ich" im Frauenmuseum Meran.</desc>
+  </programme>
+  <programme start="20260202221000 +0100" stop="20260202223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260203200000 +0100" stop="20260203202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260203202000 +0100" stop="20260203203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260203203500 +0100" stop="20260203204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der FC Obermais kämpft in der Serie D um den Klassenerhalt, deshalb brauchen die Meraner im Heimspiel gegen den Tabellenletzten Portogruaro unbedingt einen Sieg. In der Oberliga findet der zweite Spieltag der Rückrunde statt: Im einzigen Südtiroler Derby dieser Runde empfängt der Bozner FC Partschins. Gröden trifft hingegen in Milland auf Benacense.</desc>
+  </programme>
+  <programme start="20260203221000 +0100" stop="20260203223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260204200000 +0100" stop="20260204202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260204202000 +0100" stop="20260204204930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Der ehemalige Tourismusmanager Christian Mayrhofer und Musikfestivalorganisator und Makler Karlheinz Ausserhofer im Porträt. 30 Jahre Wirtschaftsmagazin Trend. Es moderiert Christian Pfeifer.  
+
+Von Christian Mayrhofer, dem ehemaligen Brunecker Tourismusmanager und Urgestein der wirtschaftlich-touristischen Entwicklung der Stadt, hören wir ungewöhnliche Anekdoten aus seiner fast 50jährigen Tätigkeit im Tourismus. Seit den 1970er Jahren war Christian Mayrhofer nicht nur in unternehmerischen Initiativen, sondern auch im Sport und Vereinsleben aktiv. Mit Karlheinz Ausserhofer, einem weiteren Brunecker, geht Trend kurz zurück in seine rebellische Zeit als junger Musikfestivalorganisator und die Gründerzeit des visionären Immobilienunternehmers. Ausserhofer hat nicht nur als langjähriger Präsident der Südtiroler Maklervereinigung über Bruneck hinaus gewirkt, er ist auch bekannt für seinen Einsatz für indigene Völker Südamerikas. Zum Abschluss lässt das Wirtschaftsmagazin Trend die eigenen 30 Jahre mit Berichten aus Wirtschaft, Arbeit und Unternehmen Revue passieren.</desc>
+  </programme>
+  <programme start="20260204221000 +0100" stop="20260204223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260205200000 +0100" stop="20260205202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260205202000 +0100" stop="20260205205045 +0100" channel="Rai Südtirol">
+    <title>Franz Haller und die Kampfkunst</title>
+    <sub-title/>
+    <desc>Von seiner Großmutter hat er früh den Leitspruch gehört: "Wosch Bua, des Leben isch a Kompf". Doch Franz Haller - Jahrgang 1959 - hat sich nie gescheut, den Kampf aufzunehmen.  
+ 
+Schon als Jugendlicher entdeckte er die Filme des Kampfkünstlers Bruce Lee für sich - und bald fand er eigene Wege, sich der asiatischen Kampfkunst zu nähern: zunächst Karate, später Kickboxen und Muay Thai.  
+Der mehrfache Weltmeister war ein Pionier und zugleich ein Idol der Kampfsport-Szene in Südtirol. "Man muss den Kampf überwinden, den man gewonnen hat - und den man verloren hat, umso mehr", sagt Franz Haller, der in seinem Leben Höhen und Tiefen erfahren hat. Ein Kickbox-Champion und sein Leben für den Sport.</desc>
+  </programme>
+  <programme start="20260205221000 +0100" stop="20260205223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260206180000 +0100" stop="20260206182932 +0100" channel="Rai Südtirol">
+    <title>Karriereleitern 4</title>
+    <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
+    <desc>Die Fachärztin für Orthopädie und Unfallchirurgie Ines Unterfrauner und der Strafrechtsexperte
+Domenico Rosani geben Einblicke in ihren Werdegang - zwischen Südtirol und der Welt. Ines Unterfrauner aus Gais war viele Jahre in Zürich tätig, zuletzt als Oberärztin und Dozentin. Seit Anfang 2025 ist sie zurück in Südtirol - und arbeitet in der OrthoPlus und der CityClinik in Bozen. Domenico Rosani aus Meran ist Assistenzprofessor für vergleichendes und europäisches Strafrecht an der Universität in Utrecht. Hier lehrt und forscht er zu Kinderrechten, Cyberkriminaltät und dem Schutz von Minderjährigen im digitalen Raum. Er berät europäische Institutionen und unterrichtet seit Kurzem auch in Trient.
+Beide sind Teil des Netzwerks Südstern und wurden 2024 mit dem Futura-Preis ausgezeichnet.</desc>
+  </programme>
+  <programme start="20260206182900 +0100" stop="20260206185830 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Der ehemalige Tourismusmanager Christian Mayrhofer und Musikfestivalorganisator und Makler Karlheinz Ausserhofer im Porträt. 30 Jahre Wirtschaftsmagazin Trend. Es moderiert Christian Pfeifer. Von Christian Mayrhofer, dem ehemaligen Brunecker Tourismusmanager und Urgestein der wirtschaftlich-touristischen Entwicklung der Stadt, hören wir ungewöhnliche Anekdoten aus seiner fast 50jährigen Tätigkeit im Tourismus. Seit den 1970er Jahren war Christian Mayrhofer nicht nur in unternehmerischen Initiativen, sondern auch im Sport und Vereinsleben aktiv.
+Mit Karlheinz Ausserhofer, einem weiteren Brunecker, geht Trend kurz zurück in seine rebellische Zeit als junger Musikfestivalorganisator und die Gründerzeit des visionären Immobilienunternehmers. Ausserhofer hat nicht nur als langjähriger Präsident der Südtiroler Maklervereinigung über Bruneck hinaus gewirkt, er ist auch bekannt für seinen Einsatz für indigene Völker Südamerikas. Zum Abschluss lässt das Wirtschaftsmagazin Trend die eigenen 30 Jahre mit Berichten aus Wirtschaft, Arbeit und Unternehmen Revue passieren.</desc>
+  </programme>
+  <programme start="20260206200000 +0100" stop="20260206202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260206202000 +0100" stop="20260206203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260206203000 +0100" stop="20260206210400 +0100" channel="Rai Südtirol">
+    <title>Das Thema: Die Brennerroute</title>
+    <sub-title/>
+    <desc>Die Reportage von Andreas Niederkofler gibt einen eindrucksvollen Einblick in den Arbeitsalltag der Polizei entlang der Brennerachse, einer der wichtigsten Nord-Süd-Verbindungen Europas.  
+
+Zwischen Autobahn, Bundesstraße und Bahnlinie begleitet das Kamerateam italienische, österreichische und deutsche Einsatzkräfte bei ihren gemeinsamen Kontrollen gegen illegale Migration, Schleusungskriminalität sowie grenzüberschreitende Delikte.  
+Seit der großen Flüchtlingsbewegung 2015/2016 hat sich die Bedeutung der Brennerroute verändert, doch der Kontrolldruck ist hoch geblieben. Die Reportage zeigt, wie Polizist:innen Fahrzeuge, Reisebusse und Züge stichprobenartig überprüfen, wie sie mit fehlenden Papieren, falschen Angaben und teils angespannten Situationen umgehen - und wie eng die internationale Zusammenarbeit heute funktioniert.  
+Neben der sicherheitsrelevanten Seite rückt der Film auch die menschliche Dimension in den Fokus: Migrant:innen und Migranten mit unterschiedlichen Schicksalen treffen auf Beamte, die zwischen klaren gesetzlichen Vorgaben und persönlicher Verantwortung handeln müssen. Die Reportage macht deutlich: Illegale Migration ist weniger sichtbar geworden, aber längst nicht verschwunden - und erfordert weiterhin Aufmerksamkeit, Kooperation und Augenmaß.</desc>
+  </programme>
+  <programme start="20260206210400 +0100" stop="20260206212530 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Brenner</sub-title>
+    <desc>Das Dorf Brenner ist ein wichtiger Verkehrsknotenpunkt, der schon seit Jahrhunderten eine bedeutende Handelsroute darstellt. Die Menschen leben von Handel und Dienstleistungen.
+Schon viele bekannte Persönlichkeiten haben den Ort passiert nicht nur Herrscher, sondern auch Künstler und Gelehrte.
+Bekannt war im 20. Jahrhundert auch das Brennerbad, das prominente Persönlichkeiten aus verschiedenen Ländern anzog. Die Thermalquellen wurden für ihre heilenden Eigenschaften geschätzt. Heute ist das Bad nicht mehr in Betrieb, aber seine Geschichte als historischer Kurort bleibt erhalten.
+Derzeit leben im Dorf Brenner 269 Menschen. Es hat im Laufe der Jahre einen deutlichen Bevölkerungsrückgang erlebt, was hauptsächlich auf den Wegzug von Staatsbeamten und Einheimischen zurückzuführen ist. Die Menschen dort leben hauptsächlich vom Grenz- und Durchgangsverkehr. Seit der Eröffnung eines Outlet-Centers im Jahr 2007 hat der Einzelhandel an Bedeutung gewonnen.
+Die Bar Terminus am Brenner ist eine Gaststätte, die von Einheimischen, aber auch von Durchreisenden genutzt wird. Auch namhafte Politiker haben in dieser Bar bereits Halt gemacht.</desc>
+  </programme>
+  <programme start="20260206212500 +0100" stop="20260206215430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Zu Besuch in zwei Südtiroler Slow Food-Betrieben, die Arbeitgebermarke Join im Fokus, zwei neue Michelin-Sterne für Südtiroler Spitzenköche. Der Restaurantführer Osterie d'Italia zeichnet Betriebe aus, die Regionalität, Qualität und bewussten Genuss leben. Auch Südtirol ist mit mehreren Lokalen vertreten - zwei davon stellen wir vor. 
+Mit JOIN präsentiert der Hoteliers- und Gastwirteverband Südtirol eine neue Arbeitgebermarke. Sie reagiert auf Fachkräftemangel und veränderte Erwartungen an Arbeit, Führung und Teamkultur. Im Mittelpunkt stehen die Menschen, ihre Werte und neue Formen der Zusammenarbeit. Kulinarisch richtet sich anschließend der Blick auf nachhaltige Spitzenleistungen: Der Michelin Guide vergibt den Grünen Stern an den Kircherhof in Albeins. Der Familienbetrieb zeigt, wie Landwirtschaft und Gastronomie im Einklang funktionieren können. Und weitere Sterne leuchten über Südtirols Küche: Im Guide Michelin 2026 erhält auch die Gourmetstube 1897 im Quellenhof Passeier eine Auszeichnung. Küchenchef Michael Mayr spricht über seinen Weg und die Bedeutung des Sterns.</desc>
+  </programme>
+  <programme start="20260206221000 +0100" stop="20260206223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260207180000 +0100" stop="20260207184500 +0100" channel="Rai Südtirol">
+    <title>Olympia</title>
+    <sub-title>Hinter den Kulissen</sub-title>
+    <desc>Wahrscheinlich ist es bei allen sportlichen Veranstaltungen so, dass erst in letzter Minute alle Vorbereitungsarbeiten abgeschlossen sind. Genauso ist es auch in Antholz, wo auf Hochtouren gearbeitet wird. In Antholz werden die Biathlonbewerbe von Milano-Cortina 2026 ausgetragen. Seit mehreren Jahren bereiten sich nicht nur die in Weltcups und Weltmeisterschaften erfahrenen Antholzer auf dieses Großereignis vor, sondern auch viele andere Südtiroler:innen. Die Dokumentation von Rupert Zöschg wirft einen Blick auf die Arbeit der vielfältigen Organisationen und Unternehmen. Zu Wort kommen Fachleute, Sportfunktionäre und natürlich die vielen Freiwilligen aus ganz Südtirol, die dieses Sportevent zu einem unvergesslichen Ereignis für das weltweite Publikum machen.</desc>
+  </programme>
+  <programme start="20260207184500 +0100" stop="20260207185900 +0100" channel="Rai Südtirol">
+    <title>Ein Tag im Schnee</title>
+    <sub-title>Mit Gustav Thöni auf der Piste</sub-title>
+    <desc>Die Sendereihe "Ein Tag im Schnee" ist zu Gast in Trafoi und Sulden. Moderatorin und Skilehrerin Silvia Fontanive trifft dort die Skilegende Gustav Thöni.</desc>
+  </programme>
+  <programme start="20260207200000 +0100" stop="20260207202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260207203000 +0100" stop="20260207203400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260207203400 +0100" stop="20260207204654 +0100" channel="Rai Südtirol">
+    <title>Pfote</title>
+    <sub-title>Tierschützerin Tabea</sub-title>
+    <desc>Tabea Berger aus St. Oswald unterhalb von Kastelruth war von klein auf eine Tiernärrin und hat auf ihrem Hof viele große und kleine Tiere, um die sie sich liebevoll kümmert. Vor allem verletzte und vernachlässigte Tiere sind ihr ein Herzensanliegen.</desc>
+  </programme>
+  <programme start="20260207221000 +0100" stop="20260207223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
     <sub-title/>
     <desc/>
   </programme>
