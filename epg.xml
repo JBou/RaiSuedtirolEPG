@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260130180000 +0100" stop="20260130182930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Elektro, Hybrid oder Verbrenner? Wer heute ein Auto kaufen möchte, steht vor einer grundlegenden Entscheidung. Im Porträt: Der Wohnort und Wirtschaftsstandort Sand in Taufers. 
-Pluspunkt beleuchtet die wichtigsten Kriterien rund um den Autokauf: vom persönlichen Fahrprofil über Reichweite und Ladeinfrastruktur bis hin zu Anschaffungs- und Betriebskosten. Der Beitrag zeigt, wann sich ein Elektroauto lohnt, für wen ein Hybrid eine sinnvolle Lösung sein kann - und wie die Perspektiven des klassischen Verbrennungsmotors einzuschätzen sind. Eine kompakte Orientierungshilfe für alle, die vor dem nächsten Autokauf stehen. Außerdem führt die Sendung in der Rubrik "Lebenswerte Orte in Südtirol" nach Sand in Taufers. Die Gemeinde im Tauferer Ahrntal präsentiert sich als lebenswerter Ort zwischen alpiner Landschaft, gewachsener Dorfgemeinschaft und hoher Lebensqualität.</desc>
-  </programme>
-  <programme start="20260130182900 +0100" stop="20260130185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>EASA mehr als eine Woche fehlt noch bis zu den Olympischen Winterspielen Mailand-Cortina 2026. Zahlreiche Südtiroler Athletinnen und Athleten haben sich für diese Spiele qualifiziert, einige starten mit berechtigten Medaillenhoffnungen. Bei den letzten Spielen in Peking holte Südtirol fünf Medaillen, diese Marke soll übertroffen werden.</desc>
-  </programme>
-  <programme start="20260130200000 +0100" stop="20260130202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260130202000 +0100" stop="20260130215930 +0100" channel="Rai Südtirol">
-    <title>Olympia on fire</title>
-    <sub-title>Der Auftakt zu den Olympischen Winterspielen 2026</sub-title>
-    <desc>Südtirol feiert den Auftakt zu den Olympischen Winterspielen 2026. Das Event vereint Musik, Sport und Gemeinschaft. Rai Südtirol überträgt live aus der Stadthalle Bozen. 
-
-Im Mittelpunkt steht das Feuer, das wir alle in uns tragen - jene Kraft, die uns ermutigt, Grenzen zu überwinden, die uns im Alltag inspiriert, uns antreibt und Menschen miteinander verbindet. Auf der Bühne verschmelzen berauschende Musik, bewegende Bilder und inspirierende Darbietungen zu einem Fest voller Energie, Leidenschaft und Entschlossenheit.  
-Südtirol Filarmonica, Teatro la Ribalta, Luftakrobat Alex Aufderklamm, Musikerin Maria dal Val und viele andere gestalten ein unvergessliches Fest im Sinne der olympischen Idee.</desc>
-  </programme>
-  <programme start="20260130221000 +0100" stop="20260130223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260131180000 +0100" stop="20260131185830 +0100" channel="Rai Südtirol">
     <title>Onfire 2026</title>
     <sub-title>Höhepunkte</sub-title>
@@ -268,6 +239,26 @@ Mit JOIN präsentiert der Hoteliers- und Gastwirteverband Südtirol eine neue Ar
     <desc>Tabea Berger aus St. Oswald unterhalb von Kastelruth war von klein auf eine Tiernärrin und hat auf ihrem Hof viele große und kleine Tiere, um die sie sich liebevoll kümmert. Vor allem verletzte und vernachlässigte Tiere sind ihr ein Herzensanliegen.</desc>
   </programme>
   <programme start="20260207221000 +0100" stop="20260207223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260208200000 +0100" stop="20260208202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260208203000 +0100" stop="20260208204245 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Sktiouren in Nordeuropa</sub-title>
+    <desc>Aufstiege und Skiabfahrten im Angesicht des Nordmeeres, das reizt viele Sportbegeisterte. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
+  </programme>
+  <programme start="20260208204300 +0100" stop="20260208204700 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260208221000 +0100" stop="20260208223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
     <sub-title/>
     <desc/>
