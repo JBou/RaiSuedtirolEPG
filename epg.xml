@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260131180000 +0100" stop="20260131185830 +0100" channel="Rai Südtirol">
-    <title>Onfire 2026</title>
-    <sub-title>Höhepunkte</sub-title>
-    <desc>Südtirol feiert den Auftakt zu den Olympischen Winterspielen 2026. Das Event vereint Musik, Sport und Gemeinschaft. Rai Südtirol überträgt live aus der Stadthalle Bozen. Im Mittelpunkt steht das Feuer, das wir alle in uns tragen - jene Kraft, die uns ermutigt, Grenzen zu überwinden, die uns im Alltag inspiriert, uns antreibt und Menschen miteinander verbindet. Auf der Bühne verschmelzen berauschende Musik, bewegende Bilder und inspirierende Darbietungen zu einem Fest voller Energie, Leidenschaft und Entschlossenheit.  
-Südtirol Filarmonica, Teatro la Ribalta, Luftakrobat Alex Aufderklamm, Musikerin Maria dal Val und viele andere gestalten ein unvergessliches Fest im Sinne der olympischen Idee.</desc>
-  </programme>
-  <programme start="20260131200000 +0100" stop="20260131202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260131202100 +0100" stop="20260131202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260131202500 +0100" stop="20260131205430 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Zu Besuch in zwei Südtiroler Slow Food-Betrieben, die Arbeitgebermarke Join im Fokus, zwei neue Michelin-Sterne für Südtiroler Spitzenköche.  
-
-Der Restaurantführer Osterie d'Italia zeichnet Betriebe aus, die Regionalität, Qualität und bewussten Genuss leben. Auch Südtirol ist mit mehreren Lokalen vertreten - zwei davon stellen wir vor. 
-Mit JOIN präsentiert der Hoteliers- und Gastwirteverband Südtirol eine neue Arbeitgebermarke. Sie reagiert auf Fachkräftemangel und veränderte Erwartungen an Arbeit, Führung und Teamkultur. Im Mittelpunkt stehen die Menschen, ihre Werte und neue Formen der Zusammenarbeit. 
-Kulinarisch richtet sich anschließend der Blick auf nachhaltige Spitzenleistungen: Der Michelin Guide vergibt den Grünen Stern an den Kircherhof in Albeins. Der Familienbetrieb zeigt, wie Landwirtschaft und Gastronomie im Einklang funktionieren können. Und weitere Sterne leuchten über Südtirols Küche: Im Guide Michelin 2026 erhält auch die Gourmetstube 1897 im Quellenhof Passeier eine Auszeichnung. Küchenchef Michael Mayr spricht über seinen Weg und die Bedeutung des Sterns.</desc>
-  </programme>
-  <programme start="20260131221000 +0100" stop="20260131223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260201200000 +0100" stop="20260201202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
