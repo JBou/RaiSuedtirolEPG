@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260203200000 +0100" stop="20260203202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260203202000 +0100" stop="20260203203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260203203500 +0100" stop="20260203204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Der FC Obermais kämpft in der Serie D um den Klassenerhalt, deshalb brauchen die Meraner im Heimspiel gegen den Tabellenletzten Portogruaro unbedingt einen Sieg. In der Oberliga findet der zweite Spieltag der Rückrunde statt: Im einzigen Südtiroler Derby dieser Runde empfängt der Bozner FC Partschins. Gröden trifft hingegen in Milland auf Benacense.</desc>
-  </programme>
-  <programme start="20260203221000 +0100" stop="20260203223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260204200000 +0100" stop="20260204202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
