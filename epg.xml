@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260204200000 +0100" stop="20260204202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260204202000 +0100" stop="20260204204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Der ehemalige Tourismusmanager Christian Mayrhofer und Musikfestivalorganisator und Makler Karlheinz Ausserhofer im Porträt. 30 Jahre Wirtschaftsmagazin Trend. Es moderiert Christian Pfeifer.  
-
-Von Christian Mayrhofer, dem ehemaligen Brunecker Tourismusmanager und Urgestein der wirtschaftlich-touristischen Entwicklung der Stadt, hören wir ungewöhnliche Anekdoten aus seiner fast 50jährigen Tätigkeit im Tourismus. Seit den 1970er Jahren war Christian Mayrhofer nicht nur in unternehmerischen Initiativen, sondern auch im Sport und Vereinsleben aktiv. Mit Karlheinz Ausserhofer, einem weiteren Brunecker, geht Trend kurz zurück in seine rebellische Zeit als junger Musikfestivalorganisator und die Gründerzeit des visionären Immobilienunternehmers. Ausserhofer hat nicht nur als langjähriger Präsident der Südtiroler Maklervereinigung über Bruneck hinaus gewirkt, er ist auch bekannt für seinen Einsatz für indigene Völker Südamerikas. Zum Abschluss lässt das Wirtschaftsmagazin Trend die eigenen 30 Jahre mit Berichten aus Wirtschaft, Arbeit und Unternehmen Revue passieren.</desc>
-  </programme>
-  <programme start="20260204221000 +0100" stop="20260204223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260205200000 +0100" stop="20260205202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
