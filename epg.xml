@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260205200000 +0100" stop="20260205202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260205202000 +0100" stop="20260205205045 +0100" channel="Rai Südtirol">
-    <title>Franz Haller und die Kampfkunst</title>
-    <sub-title/>
-    <desc>Von seiner Großmutter hat er früh den Leitspruch gehört: "Wosch Bua, des Leben isch a Kompf". Doch Franz Haller - Jahrgang 1959 - hat sich nie gescheut, den Kampf aufzunehmen.  
- 
-Schon als Jugendlicher entdeckte er die Filme des Kampfkünstlers Bruce Lee für sich - und bald fand er eigene Wege, sich der asiatischen Kampfkunst zu nähern: zunächst Karate, später Kickboxen und Muay Thai.  
-Der mehrfache Weltmeister war ein Pionier und zugleich ein Idol der Kampfsport-Szene in Südtirol. "Man muss den Kampf überwinden, den man gewonnen hat - und den man verloren hat, umso mehr", sagt Franz Haller, der in seinem Leben Höhen und Tiefen erfahren hat. Ein Kickbox-Champion und sein Leben für den Sport.</desc>
-  </programme>
-  <programme start="20260205221000 +0100" stop="20260205223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260206180000 +0100" stop="20260206182932 +0100" channel="Rai Südtirol">
     <title>Karriereleitern 4</title>
     <sub-title>Erfolgreiche Südtiroler:innen im Ausland</sub-title>
@@ -120,6 +102,215 @@ Mit JOIN präsentiert der Hoteliers- und Gastwirteverband Südtirol eine neue Ar
     <desc/>
   </programme>
   <programme start="20260208221000 +0100" stop="20260208223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260209180000 +0100" stop="20260209181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenmatch des dritten Rückrunden-Spieltages in der Fußball-Oberliga ist das Bozner Derby Virtus gegen Bozner FC.  Beide Mannschaften führen die Tabelle an. Im Duell Brixen gegen Partschins geht es hingegen um den Klassenerhalt. An diesem Wochenende ist auch die Landesliga mit dem Etschtaler Derby Gargazon gegen Lana gestartet.</desc>
+  </programme>
+  <programme start="20260209181400 +0100" stop="20260209183600 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Biathlon</sub-title>
+    <desc>Auch Kinder lieben Biathlon, sowohl den Skilanglauf als auch das Schießen. Beides trainieren die Sportkids aus Antholz in der Südtirolarena, in der derzeit die Olympischen Rennen bestritten werden. Die Kleineren schießen noch mit winzigen Bleikugeln aus Luftdruckgewehren, die größeren allerdings bereits mit Kleinkaliberwaffen.  
+Zipp Dabei-Reporterin Nadia taucht anschließend in Auer in ein mitreißendes Chorkonzert ein, bei dem über 250 begeisterte Kinder und Jugendliche aus ganz Südtirol mitsingen. Zuvor gibt es einen Workshop. Ein unvergessliches Erlebnis - wenn der Popsong "Sing in Auer" entsteht.</desc>
+  </programme>
+  <programme start="20260209183600 +0100" stop="20260209185737 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Felix Tschurtschenthaler</sub-title>
+    <desc>Er ist Künstler und Bergführer. In seiner Kunst, die sich vorwiegend mit der alpinen Kultur
+beschäftigt, fließen diese beiden Leidenschaften ineinander. In einer Winterwanderung erzählt er
+Thomas Hainz mehr über sich und eine Sicht auf das Leben.</desc>
+  </programme>
+  <programme start="20260209200000 +0100" stop="20260209202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260209202000 +0100" stop="20260209203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260209203000 +0100" stop="20260209210800 +0100" channel="Rai Südtirol">
+    <title>Die Restauratorin Sara Perathoner</title>
+    <sub-title/>
+    <desc>Sara Perathoner arbeitet in einer Männerdomäne: sie ist Karosseriespenglerin - und VW Bulli-Liebhaberin. Sie restauriert monatelang eine alte Rostlaube und verwandelt sie in ein Kultauto. 
+
+Eine Frau in einem klassischen Männerberuf geht gemeinsam mit ihrem Vater und ihrem Bruder einer Leidenschaft nach: sie restauriert VW Bullis, Symbol für Freiheit und Abenteuer. Schon in den 60er-Jahren war der Bus eine Ikone, mittlerweile hat das Fahrzeug Kultstatus erreicht. 
+Wir haben die Restauratorin über Monate begleitet und erleben, wie aus einer Rostlaube ein Oldtimer mit unverwechselbarem Design entsteht. Ihre Leidenschaft für Details und ihr handwerkliches Können haben Sara über die Grenzen Südtirols hinaus zu einer anerkannten Expertin gemacht.</desc>
+  </programme>
+  <programme start="20260209210800 +0100" stop="20260209215238 +0100" channel="Rai Südtirol">
+    <title>Sicheres Südtirol?</title>
+    <sub-title>Zwischen Wahrnehmung und Realität</sub-title>
+    <desc>Wie sicher ist Südtirol wirklich? Und warum weicht das persönliche Sicherheitsgefühl oft von der
+tatsächlichen Lage ab? Philipp Bologna geht in einer spannenden Reportage diesen Fragen auf
+den Grund. Wir erhalten exklusive Einblicke in die vielfältige Arbeit von Polizei und Sicherheitskräften, begleiten Streifen im Einsatz und sprechen mit Experten über die aktuelle Sicherheitslage in Südtirol.</desc>
+  </programme>
+  <programme start="20260209221000 +0100" stop="20260209223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260210200000 +0100" stop="20260210202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260210202000 +0100" stop="20260210203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260210203000 +0100" stop="20260210204500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260210204500 +0100" stop="20260210204850 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 3</title>
+    <sub-title>Armin Zöggeler</sub-title>
+    <desc>Das hat in der Olympiageschichte nur Rodel-Legende Armin Zöggeler geschafft: Bei sechs Olympia Teilnahmen holte er sechs Medaillen in einem Einzelbewerb. Ein Rekord.</desc>
+  </programme>
+  <programme start="20260210221000 +0100" stop="20260210223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260211200000 +0100" stop="20260211202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260211202000 +0100" stop="20260211203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260211203000 +0100" stop="20260211205930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die wichtigsten Neuigkeiten in Sachen Steuern und ISEE, Radonmessungen in Innenräumen und Innovation made in Südtirol: wie aus Milch Milchpulver entsteht. 
+
+Die Steuerabteilung des ASGB erklärt die wichtigsten Neuerungen des Haushaltsgesetzes 2026: Änderungen bei Abschreibungen, Sanierungsboni und Steuerfreibeträgen. Zudem informieren wir, welche Unterlagen unbedingt aufbewahrt werden sollten, um Ausgaben bei der Steuererklärung korrekt absetzen zu können. Auch die Neuerungen bei der ISEE werden beleuchtet: Als Grundlage für zahlreiche Boni und Vergünstigungen erfordert sie eine genaue Angabe und Berechnung von Einkommens- und Vermögenswerten - Pluspunkt zeigt, worauf dabei zu achten ist. 
+Thema Radon: Das radioaktive Gas zählt zu den größten vermeidbaren Gesundheitsrisiken in Innenräumen, auch in Südtirol. Neue gesetzliche Vorgaben rücken Radon insbesondere bei Neubauten stärker in den Fokus der Gesundheitsvorsorge. Wie Radon in Schulen und Büros gemessen und erfolgreich reduziert werden kann. Außerdem zeigen wir, wie man das eigene Zuhause überprüfen lassen kann. In der Reihe "Innovation made in Südtirol" besucht Pluspunkt das Unternehmen Dolomites Milk in Vintl. Wir erleben, wie aus hochwertiger Südtiroler Milch Molke und Milchpulver hergestellt werden, die unter anderem in der Süß- und Backwarenindustrie, im Speiseeis und in der Babynahrung verwendet werden.</desc>
+  </programme>
+  <programme start="20260211221000 +0100" stop="20260211223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260212200000 +0100" stop="20260212202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260212202000 +0100" stop="20260212203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260212203000 +0100" stop="20260212205930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Sprachförderung </sub-title>
+    <desc>Jedes Jahr zwischen Jänner und Februar finden die Einschreibungen an Südtirols Kindergärten und Schulen statt. Dabei gibt es einige Entscheidungen zu treffen. Es moderiert Karin Gschnitzer.  
+
+Für Familien mit Migrationshintergrund kommt eine grundsätzliche Entscheidung dazu: das Kind in die deutschsprachige oder italienischsprachige Schule einschreiben? Was, wenn in der Familie weder Deutsch noch Italienisch gesprochen wird?  
+Wir berichten außerdem über den Gewinner des Junior Research Award Südtirol 2025 und werfen einen Blick in das Archiv der Tagesschau von Rai Südtirol am 12.Februar1976.  
+In der Rubrik "Wiedersehen" berichten wir über die Einführung der Mittelschule in Südtirol in den 1960er Jahren.</desc>
+  </programme>
+  <programme start="20260212221000 +0100" stop="20260212223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260213180000 +0100" stop="20260213182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Sprachförderung </sub-title>
+    <desc>Jedes Jahr zwischen Jänner und Februar finden die Einschreibungen an Südtirols Kindergärten und Schulen statt. Dabei gibt es einige Entscheidungen zu treffen. Es moderiert Karin Gschnitzer.  
+
+Für Familien mit Migrationshintergrund kommt eine grundsätzliche Entscheidung dazu: das Kind in die deutschsprachige oder italienischsprachige Schule einschreiben? Was, wenn in der Familie weder Deutsch noch Italienisch gesprochen wird?  
+Wir berichten außerdem über den Gewinner des Junior Research Award Südtirol 2025 und werfen einen Blick in das Archiv der Tagesschau von Rai Südtirol am 12.Februar1976.  
+In der Rubrik "Wiedersehen" berichten wir über die Einführung der Mittelschule in Südtirol in den 1960er Jahren.</desc>
+  </programme>
+  <programme start="20260213182900 +0100" stop="20260213185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Die wichtigsten Neuigkeiten in Sachen Steuern und ISEE, Radonmessungen in Innenräumen und Innovation made in Südtirol: wie aus Milch Milchpulver entsteht. Die Steuerabteilung des ASGB erklärt die wichtigsten Neuerungen des Haushaltsgesetzes 2026: Änderungen bei Abschreibungen, Sanierungsboni und Steuerfreibeträgen. Zudem informieren wir, welche Unterlagen unbedingt aufbewahrt werden sollten, um Ausgaben bei der Steuererklärung korrekt absetzen zu können. Auch die Neuerungen bei der ISEE werden beleuchtet: Als Grundlage für zahlreiche Boni und Vergünstigungen erfordert sie eine genaue Angabe und Berechnung von Einkommens- und Vermögenswerten - Pluspunkt zeigt, worauf dabei zu achten ist. 
+Thema Radon: Das radioaktive Gas zählt zu den größten vermeidbaren Gesundheitsrisiken in Innenräumen, auch in Südtirol. Neue gesetzliche Vorgaben rücken Radon insbesondere bei Neubauten stärker in den Fokus der Gesundheitsvorsorge. Wie Radon in Schulen und Büros gemessen und erfolgreich reduziert werden kann. Außerdem zeigen wir, wie man das eigene Zuhause überprüfen lassen kann. In der Reihe "Innovation made in Südtirol" besucht Pluspunkt das Unternehmen Dolomites Milk in Vintl. Wir erleben, wie aus hochwertiger Südtiroler Milch Molke und Milchpulver hergestellt werden, die unter anderem in der Süß- und Backwarenindustrie, im Speiseeis und in der Babynahrung verwendet werden.</desc>
+  </programme>
+  <programme start="20260213200000 +0100" stop="20260213202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260213202000 +0100" stop="20260213203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260213203000 +0100" stop="20260213212836 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Zusammen mit Theo Hendrich erleben wir die Villnösser Geisler im Winter, anschließend besucht Petra Tschenett drei Restaurator:innen, die uns Einblick in diese besondere Arbeit geben. 
+
+Abseits der großen Touristenströme bietet das Villnösser-Tal vor allem im Winter atemberaubende Wanderungen inmitten einer einzigartigen Naturlandschaft. Theo Hendrich unternimmt eine Schneewanderung, eingebettet in einer traumhaften Winterlandschaft: Es geht Richtung Glatsch-Alm, weiter über den Adolf Munkel-Weg zur idyllisch gelegenen Geisler-Alm am Fuße der Villnösser Geisler.  
+Für "Made in Südtirol" öffnen Restaurator:innen ihre Werkstätten und geben einen seltenen Einblick in ihre Arbeit. Petra Tschenett porträtiert Benedikta Zwerger, Elisabeth Delvai und Karl Hofer, die sich auf Gemälde, Textilien bzw. Skulpturen spezialisiert haben. Sie erzählen, wie sie mit Wissen, individueller Überzeugung, Geduld und Fingerspitzengefühl kulturelles Erbe bewahren.</desc>
+  </programme>
+  <programme start="20260213212900 +0100" stop="20260213213319 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 18</title>
+    <sub-title/>
+    <desc>Südtirol ist ein Sportland, mit vielen Weltklasse-Athletinnen und -Athleten. In 50 Schulen haben unserer Sportler über ihre Olympiaerfahrungen berichtet, 32 Gemeinden haben für ihre Olympia-Medaillengewinner sogar eigene Ehrentafeln aufgestellt.</desc>
+  </programme>
+  <programme start="20260213213300 +0100" stop="20260213214950 +0100" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title/>
+    <desc>Unterwegs in den Pragser Dolomiten mit dem Bergführer und Lawinenexperten Erwin Steiner</desc>
+  </programme>
+  <programme start="20260213215000 +0100" stop="20260213215415 +0100" channel="Rai Südtirol">
+    <title>Angefeuert - Südtirol und Olympia 5</title>
+    <sub-title>Gerda Weissensteiner</sub-title>
+    <desc>Gerda Weissensteiner wurde 1994 in Lillehammer Rodel-Olympiasiegerin und holte zwölf Jahre später in Turin Bronze im Zweier-Bob. Keinem anderen italienischen Sportler ist es gelungen, zwei Medaillen in zwei verschiedenen Disziplinen zu gewinnen.</desc>
+  </programme>
+  <programme start="20260213221000 +0100" stop="20260213223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260214180000 +0100" stop="20260214185836 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Zusammen mit Theo Hendrich erleben wir die Villnösser Geisler im Winter, anschließend besucht Petra Tschenett drei Restaurator:innen, die uns Einblick in diese besondere Arbeit geben. Abseits der großen Touristenströme bietet das Villnösser-Tal vor allem im Winter atemberaubende Wanderungen inmitten einer einzigartigen Naturlandschaft. Theo Hendrich unternimmt eine Schneewanderung, eingebettet in einer traumhaften Winterlandschaft: Es geht Richtung Glatsch-Alm, weiter über den Adolf Munkel-Weg zur idyllisch gelegenen Geisler-Alm am Fuße der Villnösser Geisler.  
+Für "Made in Südtirol" öffnen Restaurator:innen ihre Werkstätten und geben einen seltenen Einblick in ihre Arbeit. Petra Tschenett porträtiert Benedikta Zwerger, Elisabeth Delvai und Karl Hofer, die sich auf Gemälde, Textilien bzw. Skulpturen spezialisiert haben. Sie erzählen, wie sie mit Wissen, individueller Überzeugung, Geduld und Fingerspitzengefühl kulturelles Erbe bewahren.</desc>
+  </programme>
+  <programme start="20260214200000 +0100" stop="20260214202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260214202000 +0100" stop="20260214203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260214203000 +0100" stop="20260214203400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260214203400 +0100" stop="20260214210330 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Tiroler Kartenspiel Perlaggen, der Verein "Frauen helfen Frauen" in Bruneck, die 13 Mondzyklen und der Parahockey-Spieler Christoph Depaoli sind Themen dieser Sendung.
+
+Das Tiroler Kartenspiel Perlaggen wurde von der österreichischen UNESCO-Kommission in das "Verzeichnis des Immateriellen Kulturerbes" aufgenommen. Dieses relativ komplizierte Spiel soll nun wieder aufleben.
+Der Verein "Frauen helfen Frauen in Bruneck feiert heuer sein 40jähriges Bestehen. Die Initiatorin von damals, Anneliese Innerhofer Gasteiger, ist heute Ehrenmitglied.
+Zu Gast von Claudia Schuler ist der Parahockey-Spieler Christoph Depaoli aus Kaltern, der sich derzeit intensiv auf die Paralympics vorbereitet. 
+In der philosophischen Rubrik spricht die Künstlerin und Erwachsenenbildnerin Thea Unteregger über die 13 Mondzyklen und was sie uns zeigen.</desc>
+  </programme>
+  <programme start="20260214221000 +0100" stop="20260214223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
     <sub-title/>
     <desc/>
