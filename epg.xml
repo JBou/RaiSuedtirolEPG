@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260207180000 +0100" stop="20260207184500 +0100" channel="Rai Südtirol">
-    <title>Olympia</title>
-    <sub-title>Hinter den Kulissen</sub-title>
-    <desc>Wahrscheinlich ist es bei allen sportlichen Veranstaltungen so, dass erst in letzter Minute alle Vorbereitungsarbeiten abgeschlossen sind. Genauso ist es auch in Antholz, wo auf Hochtouren gearbeitet wird. In Antholz werden die Biathlonbewerbe von Milano-Cortina 2026 ausgetragen. Seit mehreren Jahren bereiten sich nicht nur die in Weltcups und Weltmeisterschaften erfahrenen Antholzer auf dieses Großereignis vor, sondern auch viele andere Südtiroler:innen. Die Dokumentation von Rupert Zöschg wirft einen Blick auf die Arbeit der vielfältigen Organisationen und Unternehmen. Zu Wort kommen Fachleute, Sportfunktionäre und natürlich die vielen Freiwilligen aus ganz Südtirol, die dieses Sportevent zu einem unvergesslichen Ereignis für das weltweite Publikum machen.</desc>
-  </programme>
-  <programme start="20260207184500 +0100" stop="20260207185900 +0100" channel="Rai Südtirol">
-    <title>Ein Tag im Schnee</title>
-    <sub-title>Mit Gustav Thöni auf der Piste</sub-title>
-    <desc>Die Sendereihe "Ein Tag im Schnee" ist zu Gast in Trafoi und Sulden. Moderatorin und Skilehrerin Silvia Fontanive trifft dort die Skilegende Gustav Thöni.</desc>
-  </programme>
-  <programme start="20260207200000 +0100" stop="20260207202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260207202000 +0100" stop="20260207203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260207203000 +0100" stop="20260207203400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260207203400 +0100" stop="20260207204654 +0100" channel="Rai Südtirol">
-    <title>Pfote</title>
-    <sub-title>Tierschützerin Tabea</sub-title>
-    <desc>Tabea Berger aus St. Oswald unterhalb von Kastelruth war von klein auf eine Tiernärrin und hat auf ihrem Hof viele große und kleine Tiere, um die sie sich liebevoll kümmert. Vor allem verletzte und vernachlässigte Tiere sind ihr ein Herzensanliegen.</desc>
-  </programme>
-  <programme start="20260207221000 +0100" stop="20260207223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260208200000 +0100" stop="20260208202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
