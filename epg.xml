@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260208200000 +0100" stop="20260208202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260208202000 +0100" stop="20260208203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260208203000 +0100" stop="20260208204245 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Sktiouren in Nordeuropa</sub-title>
-    <desc>Aufstiege und Skiabfahrten im Angesicht des Nordmeeres, das reizt viele Sportbegeisterte. Die Bergwelt begleitet Südtiroler Alpinisten auf der Suche nach neuen Horizonten in den Fjorden Norwegens.</desc>
-  </programme>
-  <programme start="20260208204300 +0100" stop="20260208204700 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260208221000 +0100" stop="20260208223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260209180000 +0100" stop="20260209181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
