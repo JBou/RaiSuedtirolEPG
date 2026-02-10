@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260209180000 +0100" stop="20260209181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenmatch des dritten Rückrunden-Spieltages in der Fußball-Oberliga ist das Bozner Derby Virtus gegen Bozner FC.  Beide Mannschaften führen die Tabelle an. Im Duell Brixen gegen Partschins geht es hingegen um den Klassenerhalt. An diesem Wochenende ist auch die Landesliga mit dem Etschtaler Derby Gargazon gegen Lana gestartet.</desc>
-  </programme>
-  <programme start="20260209181400 +0100" stop="20260209183600 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Biathlon</sub-title>
-    <desc>Auch Kinder lieben Biathlon, sowohl den Skilanglauf als auch das Schießen. Beides trainieren die Sportkids aus Antholz in der Südtirolarena, in der derzeit die Olympischen Rennen bestritten werden. Die Kleineren schießen noch mit winzigen Bleikugeln aus Luftdruckgewehren, die größeren allerdings bereits mit Kleinkaliberwaffen.  
-Zipp Dabei-Reporterin Nadia taucht anschließend in Auer in ein mitreißendes Chorkonzert ein, bei dem über 250 begeisterte Kinder und Jugendliche aus ganz Südtirol mitsingen. Zuvor gibt es einen Workshop. Ein unvergessliches Erlebnis - wenn der Popsong "Sing in Auer" entsteht.</desc>
-  </programme>
-  <programme start="20260209183600 +0100" stop="20260209185737 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Felix Tschurtschenthaler</sub-title>
-    <desc>Er ist Künstler und Bergführer. In seiner Kunst, die sich vorwiegend mit der alpinen Kultur
-beschäftigt, fließen diese beiden Leidenschaften ineinander. In einer Winterwanderung erzählt er
-Thomas Hainz mehr über sich und eine Sicht auf das Leben.</desc>
-  </programme>
-  <programme start="20260209200000 +0100" stop="20260209202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260209202000 +0100" stop="20260209203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260209203000 +0100" stop="20260209210800 +0100" channel="Rai Südtirol">
-    <title>Die Restauratorin Sara Perathoner</title>
-    <sub-title/>
-    <desc>Sara Perathoner arbeitet in einer Männerdomäne: sie ist Karosseriespenglerin - und VW Bulli-Liebhaberin. Sie restauriert monatelang eine alte Rostlaube und verwandelt sie in ein Kultauto. 
-
-Eine Frau in einem klassischen Männerberuf geht gemeinsam mit ihrem Vater und ihrem Bruder einer Leidenschaft nach: sie restauriert VW Bullis, Symbol für Freiheit und Abenteuer. Schon in den 60er-Jahren war der Bus eine Ikone, mittlerweile hat das Fahrzeug Kultstatus erreicht. 
-Wir haben die Restauratorin über Monate begleitet und erleben, wie aus einer Rostlaube ein Oldtimer mit unverwechselbarem Design entsteht. Ihre Leidenschaft für Details und ihr handwerkliches Können haben Sara über die Grenzen Südtirols hinaus zu einer anerkannten Expertin gemacht.</desc>
-  </programme>
-  <programme start="20260209210800 +0100" stop="20260209215238 +0100" channel="Rai Südtirol">
-    <title>Sicheres Südtirol?</title>
-    <sub-title>Zwischen Wahrnehmung und Realität</sub-title>
-    <desc>Wie sicher ist Südtirol wirklich? Und warum weicht das persönliche Sicherheitsgefühl oft von der
-tatsächlichen Lage ab? Philipp Bologna geht in einer spannenden Reportage diesen Fragen auf
-den Grund. Wir erhalten exklusive Einblicke in die vielfältige Arbeit von Polizei und Sicherheitskräften, begleiten Streifen im Einsatz und sprechen mit Experten über die aktuelle Sicherheitslage in Südtirol.</desc>
-  </programme>
-  <programme start="20260209221000 +0100" stop="20260209223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260210200000 +0100" stop="20260210202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -63,8 +15,8 @@ den Grund. Wir erhalten exklusive Einblicke in die vielfältige Arbeit von Poliz
     <desc/>
   </programme>
   <programme start="20260210203000 +0100" stop="20260210204500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
+    <title>Im Focus</title>
+    <sub-title/>
     <desc/>
   </programme>
   <programme start="20260210204500 +0100" stop="20260210204850 +0100" channel="Rai Südtirol">
