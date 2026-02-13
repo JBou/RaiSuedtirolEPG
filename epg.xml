@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260212200000 +0100" stop="20260212202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260212202000 +0100" stop="20260212203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260212203000 +0100" stop="20260212205930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Sprachförderung </sub-title>
-    <desc>Jedes Jahr zwischen Jänner und Februar finden die Einschreibungen an Südtirols Kindergärten und Schulen statt. Dabei gibt es einige Entscheidungen zu treffen. Es moderiert Karin Gschnitzer.  
-
-Für Familien mit Migrationshintergrund kommt eine grundsätzliche Entscheidung dazu: das Kind in die deutschsprachige oder italienischsprachige Schule einschreiben? Was, wenn in der Familie weder Deutsch noch Italienisch gesprochen wird?  
-Wir berichten außerdem über den Gewinner des Junior Research Award Südtirol 2025 und werfen einen Blick in das Archiv der Tagesschau von Rai Südtirol am 12.Februar1976.  
-In der Rubrik "Wiedersehen" berichten wir über die Einführung der Mittelschule in Südtirol in den 1960er Jahren.</desc>
-  </programme>
-  <programme start="20260212221000 +0100" stop="20260212223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260213180000 +0100" stop="20260213182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Sprachförderung </sub-title>
@@ -147,6 +123,214 @@ Sie sind noch funktionstüchtig und auch das notwendige Know-how ist vorhanden.<
     <desc/>
   </programme>
   <programme start="20260215221000 +0100" stop="20260215223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260216180000 +0100" stop="20260216181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 19. Oberliga-Runde ist das Duell Tramin gegen St Georgen. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 25. Mal aufeinander, das Hinspiel gewannen die Traminer mit 3:1-Toren.  
+In der Landesliga empfängt Salurn im Unterland Leifers, während Gitschberg-Jochtal in Mühlbach auf Olimpia Meran trifft.</desc>
+  </programme>
+  <programme start="20260216181400 +0100" stop="20260216182940 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Eiskunstlauf</sub-title>
+    <desc>Sportbegeisterte Kinder aus Auer zeigen in dieser Folge der Sportkids ihre Leidenschaft für den Eiskunstlauf. Beim regelmäßigen Training auf dem Eis arbeiten sie an Pirouetten, Sprüngen und eleganten Schrittfolgen und lernen dabei Balance, Ausdauer und Konzentration. Eiskunstlauf erfordert viel Disziplin, Körpergefühl und Mut - und genau das stellen die Sportkids unter Beweis. Bei einem Wettkampf präsentieren sie ihr Können vor Publikum und messen sich mit anderen Jugendlichen aus Südtirol.</desc>
+  </programme>
+  <programme start="20260216183000 +0100" stop="20260216185925 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Tiroler Kartenspiel Perlaggen, der Verein "Frauen helfen Frauen" in Bruneck, die 13 Mondzyklen und der Parahockey-Spieler Christoph Depaoli sind Themen dieser Sendung.
+Das Tiroler Kartenspiel Perlaggen wurde von der österreichischen UNESCO-Kommission in das "Verzeichnis des Immateriellen Kulturerbes" aufgenommen. Dieses relativ komplizierte Spiel soll nun wieder aufleben.
+Der Verein "Frauen helfen Frauen in Bruneck feiert heuer sein 40jähriges Bestehen. Die Initiatorin von damals, Anneliese Innerhofer Gasteiger, ist heute Ehrenmitglied.
+Zu Gast von Claudia Schuler ist der Parahockey-Spieler Christoph Depaoli aus Kaltern, der sich derzeit intensiv auf die Paralympics vorbereitet. 
+In der philosophischen Rubrik spricht die Künstlerin und Erwachsenenbildnerin Thea Unteregger über die 13 Mondzyklen und was sie uns zeigen.</desc>
+  </programme>
+  <programme start="20260216200000 +0100" stop="20260216202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260216202000 +0100" stop="20260216203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260216203000 +0100" stop="20260216212900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Liebesbriefe, Open Stage im Ost-West-Club, der Komponist und Performer Felix Nussbaumer und die VBB-Bühnenmeisterin Verena Mairhofer im Porträt. Moderation: Alex Lechner. 
+
+"Mit tausend zärtlichen Wünschen" hat Greta Maria Pichler im Rahmen der Bücherwelten zu einem Schreibatelier für Liebesbriefe eingeladen, während Studierende der Bozner Fakultät für Design Liebesbriefe von SAAV-Mitgliedern grafisch gestaltet haben. 
+Musik und Zauberei, Poetryslam und Pantomime, Performance und Tanz - all das und noch viel mehr bietet die Open Stage: Allen wird zugehört, ausgebuht wird nicht. 
+Seit 2019 lebt der Südtiroler Komponist und Performer Felix Nussbaumer in Luzern. Nach seinen Anfängen in Punk-Rock und Jazz-Musik haben sich seine musikalischen Interessen auf improvisierte, elektroakustische, performative und multimediale Musik verlagert, in denen er als Komponist sowie als Saxophonist tätig ist. 
+Echt wahr?! ist ein Live-Theaterabend, der Gameshow-Glanz und Gesellschaftsfragen direkt auf die Bühne holt - eine Stückentwicklung über Fake, Fiction und die feine Linie zwischen Wahrheit und Inszenierung. Eine Zusammenarbeit zwischen der Dekadenz und dem Gostner Hoftheater aus Nürnberg.  
+Verena Mairhofer aus Proveis ist Bühnenmeisterin bei den Vereinigten Bühnen Bozen und hat damit für sich einen Traumberuf gefunden: Verantwortung übernehmen, sich handwerklich und kreativ austoben.  
+Zu Gast bei Alex Lechner sind die Künstlerin Karin Schmuck und der Schauspieler Lukas Spisser.</desc>
+  </programme>
+  <programme start="20260216212900 +0100" stop="20260216215500 +0100" channel="Rai Südtirol">
+    <title>So lacht Südtirol</title>
+    <sub-title>Ausschnitte aus den Faschingsrevuen 2025</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260216221000 +0100" stop="20260216223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260217200000 +0100" stop="20260217202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260217202000 +0100" stop="20260217203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260217203000 +0100" stop="20260217204430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Spitzenspiel der 19. Oberliga-Runde ist das Duell Tramin gegen St Georgen. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 25. Mal aufeinander, das Hinspiel gewannen die Traminer mit 3:1-Toren.  
+In der Landesliga empfängt Salurn im Unterland Leifers, während Gitschberg-Jochtal in Mühlbach auf Olimpia Meran trifft.</desc>
+  </programme>
+  <programme start="20260217204500 +0100" stop="20260217204900 +0100" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Hip hop-Tänzerin Valentina Oberhofer</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260217221000 +0100" stop="20260217223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260218200000 +0100" stop="20260218202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260218202000 +0100" stop="20260218203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260218203000 +0100" stop="20260218205930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die indigenen Mapuche in Chile und ihr Kampf gegen Diskriminierung, Armut und für die Rückgabe ihrer angestammten Territorien. Eine Eurac-Tagung für Exil-Tibeter. Es moderiert Christina Khuen.  
+
+Die Mapuche sind mit rund 1,5 Millionen Menschen die größte indigene Gruppe in Chile. Deren Name bedeutet "Menschen der Erde". Heute lebt die Mehrheit in Städten wie Santiago und Temuco. 
+Julia del Carmen Chuñil Catricura, Mapuche-Aktivistin und Umweltschützerin, ist seit November 2024 verschwunden. Sie hat sich für Landrechte und den Schutz der Wälder in der Region Los Ríos engagiert. Ihr Verschwinden wird als Symbol für die Konflikte um indigenen Landbesitz gesehen. Minet war beim Gedenken an die Aktivistin dabei.
+Mitte Jänner fand an der Eurac in Bozen eine Tagung für junge, in Europa aufgewachsene Tibeter:innen statt. Die Teilnehmenden erhielten die Möglichkeit, über ihre eigene Herkunft, kulturelle Identität und politische Teilhabe nachzudenken. 
+In Zusammenarbeit mit Survival International lässt Minet Völker zu Wort kommen, die für ihre Rechte einstehen. Diesmal kommt Choudamma vom Volk der Jenu Kuruba in Indien zu Wort.</desc>
+  </programme>
+  <programme start="20260218221000 +0100" stop="20260218223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260219200000 +0100" stop="20260219202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260219202000 +0100" stop="20260219203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260219203000 +0100" stop="20260219205930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Konservieren versus konservativ</sub-title>
+    <desc>Hat Konservieren etwas mit konservativ sein zu tun und was bedeutet es "bieder" zu sein? Wollen wir an Altem festhalten und nichts Neues zulassen? Es moderiert Magdalena Oberstaller.   
+
+Sind wir mehr und mehr Bewahrer, je schneller sich die Welt dreht? Und wo stehen die jungen Menschen?  
+Zu Gast ist die Landeskonservatorin Karin Dalla Torre, die über die Herausforderungen des Denkmalschutzes spricht.  
+Wir berichten außerdem über die Olympischen Winterspiele 1964 in Innsbruck und geben einen Einblick in die Generation Z.</desc>
+  </programme>
+  <programme start="20260219221000 +0100" stop="20260219223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260220180000 +0100" stop="20260220182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Konservieren versus konservativ</sub-title>
+    <desc>Hat Konservieren etwas mit konservativ sein zu tun und was bedeutet es "bieder" zu sein? Wollen wir an Altem festhalten und nichts Neues zulassen? Es moderiert Magdalena Oberstaller.   
+Sind wir mehr und mehr Bewahrer, je schneller sich die Welt dreht? Und wo stehen die jungen Menschen?  
+Zu Gast ist die Landeskonservatorin Karin Dalla Torre, die über die Herausforderungen des Denkmalschutzes spricht.  
+Wir berichten außerdem über die Olympischen Winterspiele 1964 in Innsbruck und geben einen Einblick in die Generation Z.</desc>
+  </programme>
+  <programme start="20260220182900 +0100" stop="20260220185830 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die indigenen Mapuche in Chile und ihr Kampf gegen Diskriminierung, Armut und für die Rückgabe ihrer angestammten Territorien. Eine Eurac-Tagung für Exil-Tibeter. Es moderiert Christina Khuen.  
+Die Mapuche sind mit rund 1,5 Millionen Menschen die größte indigene Gruppe in Chile. Deren Name bedeutet "Menschen der Erde". Heute lebt die Mehrheit in Städten wie Santiago und Temuco. 
+Julia del Carmen Chuñil Catricura, Mapuche-Aktivistin und Umweltschützerin, ist seit November 2024 verschwunden. Sie hat sich für Landrechte und den Schutz der Wälder in der Region Los Ríos engagiert. Ihr Verschwinden wird als Symbol für die Konflikte um indigenen Landbesitz gesehen. Minet war beim Gedenken an die Aktivistin dabei.
+Mitte Jänner fand an der Eurac in Bozen eine Tagung für junge, in Europa aufgewachsene Tibeter:innen statt. Die Teilnehmenden erhielten die Möglichkeit, über ihre eigene Herkunft, kulturelle Identität und politische Teilhabe nachzudenken. 
+In Zusammenarbeit mit Survival International lässt Minet Völker zu Wort kommen, die für ihre Rechte einstehen. Diesmal kommt Choudamma vom Volk der Jenu Kuruba in Indien zu Wort.</desc>
+  </programme>
+  <programme start="20260220200000 +0100" stop="20260220202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260220202000 +0100" stop="20260220203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260220203000 +0100" stop="20260220215017 +0100" channel="Rai Südtirol">
+    <title>Sturm am Manaslu</title>
+    <sub-title/>
+    <desc>Der Dokumentarfilm von Reinhold Messner zeichnet die tragischen Geschehnisse rund um die Tiroler Himalaya-Expedition 1972 nach, wo zwei Bergsteiger ums Leben kamen.  
+
+50 Jahre später kommen die ehemaligen Expeditionsteilnehmer auf Schloss Juval zusammen und schildern ihre persönlichen Eindrücke von damals. Franz Jäger, der gemeinsam mit Reinhold Messner den Gipfel in Angriff nimmt, kehrt auf halber Strecke um. Messner erreicht im Alleingang den Gipfel, beim Abstieg jedoch bricht der Sturm los und die Situation gerät außer Kontrolle. Vom unteren Lager steigt ein kleiner Versorgungstrupp den Bergsteigern entgegen. Am Ende verschwinden zwei Menschen für immer in den Wirren des Sturms.
+Auf Schloss Juval reflektieren die Überlebenden heute über ihr Leben am Limit: Kann es dafür eine Rechtfertigung geben und ist es vor allem gegenüber ihren Müttern, Frauen und Kindern zu verantworten?</desc>
+  </programme>
+  <programme start="20260220221000 +0100" stop="20260220223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260221180000 +0100" stop="20260221185900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Liebesbriefe, Open Stage im Ost-West-Club, der Komponist und Performer Felix Nussbaumer und die VBB-Bühnenmeisterin Verena Mairhofer im Porträt. Moderation: Alex Lechner. 
+"Mit tausend zärtlichen Wünschen" hat Greta Maria Pichler im Rahmen der Bücherwelten zu einem Schreibatelier für Liebesbriefe eingeladen, während Studierende der Bozner Fakultät für Design Liebesbriefe von SAAV-Mitgliedern grafisch gestaltet haben. 
+Musik und Zauberei, Poetryslam und Pantomime, Performance und Tanz - all das und noch viel mehr bietet die Open Stage: Allen wird zugehört, ausgebuht wird nicht. 
+Seit 2019 lebt der Südtiroler Komponist und Performer Felix Nussbaumer in Luzern. Nach seinen Anfängen in Punk-Rock und Jazz-Musik haben sich seine musikalischen Interessen auf improvisierte, elektroakustische, performative und multimediale Musik verlagert, in denen er als Komponist sowie als Saxophonist tätig ist. 
+Echt wahr?! ist ein Live-Theaterabend, der Gameshow-Glanz und Gesellschaftsfragen direkt auf die Bühne holt - eine Stückentwicklung über Fake, Fiction und die feine Linie zwischen Wahrheit und Inszenierung. Eine Zusammenarbeit zwischen der Dekadenz und dem Gostner Hoftheater aus Nürnberg.  
+Verena Mairhofer aus Proveis ist Bühnenmeisterin bei den Vereinigten Bühnen Bozen und hat damit für sich einen Traumberuf gefunden: Verantwortung übernehmen, sich handwerklich und kreativ austoben.  
+Zu Gast bei Alex Lechner sind die Künstlerin Karin Schmuck und der Schauspieler Lukas Spisser.</desc>
+  </programme>
+  <programme start="20260221200000 +0100" stop="20260221202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260221202000 +0100" stop="20260221203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260221203000 +0100" stop="20260221203400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Frauke Leonhäuser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260221203400 +0100" stop="20260221210330 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Medikamente</sub-title>
+    <desc>Medikamente zwischen Heilung, Missbrauch und Resistenzen. Zu früher oder unbekümmerter Einsatz kann zu gesundheitlichen Risiken führen. Eine Reportage von Ulli Velano. 
+
+Schmerzmittel und Antibiotika gelten als unverzichtbare Helfer der modernen Medizin. Doch ihr zunehmender und oft unreflektierter Einsatz birgt Risiken - ein Problem, das häufig bereits im Kindesalter beginnt. Bei Fieber oder leichten Beschwerden wird schnell zur Tablette gegriffen, später folgen Beruhigungs- oder Schlafmittel bei Stress und Überlastung. Langfristige Folgen wie Abhängigkeiten oder Resistenzen sind dabei keine Seltenheit. 
+Die Reportage Gesundheit beleuchtet den Medikamentenmissbrauch in Südtirol aus medizinischer Sicht. Primar Dr. Michael Zöbl vom Krankenhaus Brixen warnt vor einer zu frühen und unnötigen Medikation bei Kindern, insbesondere beim Einsatz von Antibiotika.  
+Anästhesist und Spezialist für Resistenzen Dr. Ulrich Ortler erklärt, welche dramatischen Auswirkungen es haben kann, wenn Medikamente ihre Wirkung verlieren. 
+Die Reportage zeigt: Medikamente können heilen - doch ihr falscher Gebrauch macht sie zur Gefahr, denn die Dosis macht das Gift.</desc>
+  </programme>
+  <programme start="20260221221000 +0100" stop="20260221223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
     <sub-title/>
     <desc/>
