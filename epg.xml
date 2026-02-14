@@ -4,59 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260213180000 +0100" stop="20260213182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Sprachförderung </sub-title>
-    <desc>Jedes Jahr zwischen Jänner und Februar finden die Einschreibungen an Südtirols Kindergärten und Schulen statt. Dabei gibt es einige Entscheidungen zu treffen. Es moderiert Karin Gschnitzer.  
-
-Für Familien mit Migrationshintergrund kommt eine grundsätzliche Entscheidung dazu: das Kind in die deutschsprachige oder italienischsprachige Schule einschreiben? Was, wenn in der Familie weder Deutsch noch Italienisch gesprochen wird?  
-Wir berichten außerdem über den Gewinner des Junior Research Award Südtirol 2025 und werfen einen Blick in das Archiv der Tagesschau von Rai Südtirol am 12.Februar1976.  
-In der Rubrik "Wiedersehen" berichten wir über die Einführung der Mittelschule in Südtirol in den 1960er Jahren.</desc>
-  </programme>
-  <programme start="20260213182900 +0100" stop="20260213185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die wichtigsten Neuigkeiten in Sachen Steuern und ISEE, Radonmessungen in Innenräumen und Innovation made in Südtirol: wie aus Milch Milchpulver entsteht. Die Steuerabteilung des ASGB erklärt die wichtigsten Neuerungen des Haushaltsgesetzes 2026: Änderungen bei Abschreibungen, Sanierungsboni und Steuerfreibeträgen. Zudem informieren wir, welche Unterlagen unbedingt aufbewahrt werden sollten, um Ausgaben bei der Steuererklärung korrekt absetzen zu können. Auch die Neuerungen bei der ISEE werden beleuchtet: Als Grundlage für zahlreiche Boni und Vergünstigungen erfordert sie eine genaue Angabe und Berechnung von Einkommens- und Vermögenswerten - Pluspunkt zeigt, worauf dabei zu achten ist. 
-Thema Radon: Das radioaktive Gas zählt zu den größten vermeidbaren Gesundheitsrisiken in Innenräumen, auch in Südtirol. Neue gesetzliche Vorgaben rücken Radon insbesondere bei Neubauten stärker in den Fokus der Gesundheitsvorsorge. Wie Radon in Schulen und Büros gemessen und erfolgreich reduziert werden kann. Außerdem zeigen wir, wie man das eigene Zuhause überprüfen lassen kann. In der Reihe "Innovation made in Südtirol" besucht Pluspunkt das Unternehmen Dolomites Milk in Vintl. Wir erleben, wie aus hochwertiger Südtiroler Milch Molke und Milchpulver hergestellt werden, die unter anderem in der Süß- und Backwarenindustrie, im Speiseeis und in der Babynahrung verwendet werden.</desc>
-  </programme>
-  <programme start="20260213200000 +0100" stop="20260213202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260213202000 +0100" stop="20260213203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260213203000 +0100" stop="20260213212836 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Zusammen mit Theo Hendrich erleben wir die Villnösser Geisler im Winter, anschließend besucht Petra Tschenett drei Restaurator:innen, die uns Einblick in diese besondere Arbeit geben. 
-
-Abseits der großen Touristenströme bietet das Villnösser-Tal vor allem im Winter atemberaubende Wanderungen inmitten einer einzigartigen Naturlandschaft. Theo Hendrich unternimmt eine Schneewanderung, eingebettet in einer traumhaften Winterlandschaft: Es geht Richtung Glatsch-Alm, weiter über den Adolf Munkel-Weg zur idyllisch gelegenen Geisler-Alm am Fuße der Villnösser Geisler.  
-Für "Made in Südtirol" öffnen Restaurator:innen ihre Werkstätten und geben einen seltenen Einblick in ihre Arbeit. Petra Tschenett porträtiert Benedikta Zwerger, Elisabeth Delvai und Karl Hofer, die sich auf Gemälde, Textilien bzw. Skulpturen spezialisiert haben. Sie erzählen, wie sie mit Wissen, individueller Überzeugung, Geduld und Fingerspitzengefühl kulturelles Erbe bewahren.</desc>
-  </programme>
-  <programme start="20260213212900 +0100" stop="20260213213319 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 18</title>
-    <sub-title/>
-    <desc>Südtirol ist ein Sportland, mit vielen Weltklasse-Athletinnen und -Athleten. In 50 Schulen haben unserer Sportler über ihre Olympiaerfahrungen berichtet, 32 Gemeinden haben für ihre Olympia-Medaillengewinner sogar eigene Ehrentafeln aufgestellt.</desc>
-  </programme>
-  <programme start="20260213213300 +0100" stop="20260213214950 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title/>
-    <desc>Unterwegs in den Pragser Dolomiten mit dem Bergführer und Lawinenexperten Erwin Steiner</desc>
-  </programme>
-  <programme start="20260213215000 +0100" stop="20260213215415 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 5</title>
-    <sub-title>Gerda Weissensteiner</sub-title>
-    <desc>Gerda Weissensteiner wurde 1994 in Lillehammer Rodel-Olympiasiegerin und holte zwölf Jahre später in Turin Bronze im Zweier-Bob. Keinem anderen italienischen Sportler ist es gelungen, zwei Medaillen in zwei verschiedenen Disziplinen zu gewinnen.</desc>
-  </programme>
-  <programme start="20260213221000 +0100" stop="20260213223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260214180000 +0100" stop="20260214185836 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -331,6 +278,34 @@ Anästhesist und Spezialist für Resistenzen Dr. Ulrich Ortler erklärt, welche 
 Die Reportage zeigt: Medikamente können heilen - doch ihr falscher Gebrauch macht sie zur Gefahr, denn die Dosis macht das Gift.</desc>
   </programme>
   <programme start="20260221221000 +0100" stop="20260221223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260222200000 +0100" stop="20260222202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260222202000 +0100" stop="20260222203000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau Olympiastudio</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260222203100 +0100" stop="20260222205900 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Suchhunde &amp; Lawinenkommission</sub-title>
+    <desc>Bei Lawineneinsätzen oder Vermisstensuche sind sie fast immer mit dabei: die Hundeführer im Bergrettungsdienst mit ihren Suchhunden. Außerdem: Wie arbeiten unsere Lawinenkommissionen? 
+
+Um im Notfall schnell Verschüttete zu orten oder eine abgängige Person zu finden, braucht es regelmäßiges Training und gegenseitiges Vertrauen zwischen Hundeführer und Suchhund.  
+Nach intensiven Schneefällen sind nicht nur Bergsteiger und Skitourengeher der Lawinengefahr ausgesetzt: Die Schneemassen können auch Infrastrukturen wie Straßen, Siedlungen oder Pisten bedrohen: Dann übernimmt der Zivilschutz mit den lokalen Lawinenkommissionen Verantwortung.</desc>
+  </programme>
+  <programme start="20260222205900 +0100" stop="20260222210300 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Fraueke Leonhäuser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260222221000 +0100" stop="20260222223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
     <sub-title/>
     <desc/>
