@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260215200000 +0100" stop="20260215202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260215202000 +0100" stop="20260215203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260215203000 +0100" stop="20260215203930 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Die Weberei und Spinnerei Salutt in Mals</sub-title>
-    <desc>Mitten im Ortskern von Mals wurde von 1940 bis 2009 Wolle versponnen und verwebt. Die Maschinen stehen jetzt still, sollen jetzt aber dem Publikum zugänglich gemacht werden. 
-
-Die Weberei und Spinnerei Salutt war bekannt für die Verarbeitung einheimischer Schafwolle. Schafwolle wurde zu Strickwolle verarbeitet, Fleckenteppiche wurden gewoben, Loden- und Walkstoffe hergestellt. Sieben Jahrzehnte lang ratterten die Maschinen - bis Ende 2009. Der Maschinenpark ist noch immer gut erhalten. Er soll nun dem Publikum zugänglich gemacht werden. So wurde bereits 2021 die ehemalige Verkaufsfläche der Spinnerei zu einem geteilten Arbeitsraum (co working space) umgebaut. 
-Dazu besteht der Plan, die Maschinen einmal im Jahr wieder in Betrieb zu nehmen. 
-Sie sind noch funktionstüchtig und auch das notwendige Know-how ist vorhanden.</desc>
-  </programme>
-  <programme start="20260215204000 +0100" stop="20260215204332 +0100" channel="Rai Südtirol">
-    <title>Angefeuert - Südtirol und Olympia 9</title>
-    <sub-title>Die Paralympics-Teilnehmer</sub-title>
-    <desc>Südtirols größte Medaillenhoffnungen bei den Paralympics sind Snowboarder Emanuel Perathoner und die Para-Eishockey-Mannschaft.</desc>
-  </programme>
-  <programme start="20260215204300 +0100" stop="20260215204700 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260215221000 +0100" stop="20260215223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260216180000 +0100" stop="20260216181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
