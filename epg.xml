@@ -4,58 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260216180000 +0100" stop="20260216181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 19. Oberliga-Runde ist das Duell Tramin gegen St Georgen. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 25. Mal aufeinander, das Hinspiel gewannen die Traminer mit 3:1-Toren.  
-In der Landesliga empfängt Salurn im Unterland Leifers, während Gitschberg-Jochtal in Mühlbach auf Olimpia Meran trifft.</desc>
-  </programme>
-  <programme start="20260216181400 +0100" stop="20260216182940 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Eiskunstlauf</sub-title>
-    <desc>Sportbegeisterte Kinder aus Auer zeigen in dieser Folge der Sportkids ihre Leidenschaft für den Eiskunstlauf. Beim regelmäßigen Training auf dem Eis arbeiten sie an Pirouetten, Sprüngen und eleganten Schrittfolgen und lernen dabei Balance, Ausdauer und Konzentration. Eiskunstlauf erfordert viel Disziplin, Körpergefühl und Mut - und genau das stellen die Sportkids unter Beweis. Bei einem Wettkampf präsentieren sie ihr Können vor Publikum und messen sich mit anderen Jugendlichen aus Südtirol.</desc>
-  </programme>
-  <programme start="20260216183000 +0100" stop="20260216185925 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Das Tiroler Kartenspiel Perlaggen, der Verein "Frauen helfen Frauen" in Bruneck, die 13 Mondzyklen und der Parahockey-Spieler Christoph Depaoli sind Themen dieser Sendung.
-Das Tiroler Kartenspiel Perlaggen wurde von der österreichischen UNESCO-Kommission in das "Verzeichnis des Immateriellen Kulturerbes" aufgenommen. Dieses relativ komplizierte Spiel soll nun wieder aufleben.
-Der Verein "Frauen helfen Frauen in Bruneck feiert heuer sein 40jähriges Bestehen. Die Initiatorin von damals, Anneliese Innerhofer Gasteiger, ist heute Ehrenmitglied.
-Zu Gast von Claudia Schuler ist der Parahockey-Spieler Christoph Depaoli aus Kaltern, der sich derzeit intensiv auf die Paralympics vorbereitet. 
-In der philosophischen Rubrik spricht die Künstlerin und Erwachsenenbildnerin Thea Unteregger über die 13 Mondzyklen und was sie uns zeigen.</desc>
-  </programme>
-  <programme start="20260216200000 +0100" stop="20260216202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260216202000 +0100" stop="20260216203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260216203000 +0100" stop="20260216212900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Liebesbriefe, Open Stage im Ost-West-Club, der Komponist und Performer Felix Nussbaumer und die VBB-Bühnenmeisterin Verena Mairhofer im Porträt. Moderation: Alex Lechner. 
-
-"Mit tausend zärtlichen Wünschen" hat Greta Maria Pichler im Rahmen der Bücherwelten zu einem Schreibatelier für Liebesbriefe eingeladen, während Studierende der Bozner Fakultät für Design Liebesbriefe von SAAV-Mitgliedern grafisch gestaltet haben. 
-Musik und Zauberei, Poetryslam und Pantomime, Performance und Tanz - all das und noch viel mehr bietet die Open Stage: Allen wird zugehört, ausgebuht wird nicht. 
-Seit 2019 lebt der Südtiroler Komponist und Performer Felix Nussbaumer in Luzern. Nach seinen Anfängen in Punk-Rock und Jazz-Musik haben sich seine musikalischen Interessen auf improvisierte, elektroakustische, performative und multimediale Musik verlagert, in denen er als Komponist sowie als Saxophonist tätig ist. 
-Echt wahr?! ist ein Live-Theaterabend, der Gameshow-Glanz und Gesellschaftsfragen direkt auf die Bühne holt - eine Stückentwicklung über Fake, Fiction und die feine Linie zwischen Wahrheit und Inszenierung. Eine Zusammenarbeit zwischen der Dekadenz und dem Gostner Hoftheater aus Nürnberg.  
-Verena Mairhofer aus Proveis ist Bühnenmeisterin bei den Vereinigten Bühnen Bozen und hat damit für sich einen Traumberuf gefunden: Verantwortung übernehmen, sich handwerklich und kreativ austoben.  
-Zu Gast bei Alex Lechner sind die Künstlerin Karin Schmuck und der Schauspieler Lukas Spisser.</desc>
-  </programme>
-  <programme start="20260216212900 +0100" stop="20260216215500 +0100" channel="Rai Südtirol">
-    <title>So lacht Südtirol</title>
-    <sub-title>Ausschnitte aus den Faschingsrevuen 2025</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260216221000 +0100" stop="20260216223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260217200000 +0100" stop="20260217202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
