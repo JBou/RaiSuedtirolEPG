@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260217200000 +0100" stop="20260217202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260217202000 +0100" stop="20260217203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260217203000 +0100" stop="20260217204430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Spitzenspiel der 19. Oberliga-Runde ist das Duell Tramin gegen St Georgen. Die beiden Traditionsklubs treffen in der Meisterschaft bereits zum 25. Mal aufeinander, das Hinspiel gewannen die Traminer mit 3:1-Toren.  
-In der Landesliga empfängt Salurn im Unterland Leifers, während Gitschberg-Jochtal in Mühlbach auf Olimpia Meran trifft.</desc>
-  </programme>
-  <programme start="20260217204500 +0100" stop="20260217204900 +0100" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Hip hop-Tänzerin Valentina Oberhofer</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260217221000 +0100" stop="20260217223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260218200000 +0100" stop="20260218202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
