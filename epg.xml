@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260218200000 +0100" stop="20260218202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260218202000 +0100" stop="20260218203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260218203000 +0100" stop="20260218205930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die indigenen Mapuche in Chile und ihr Kampf gegen Diskriminierung, Armut und für die Rückgabe ihrer angestammten Territorien. Eine Eurac-Tagung für Exil-Tibeter. Es moderiert Christina Khuen.  
-
-Die Mapuche sind mit rund 1,5 Millionen Menschen die größte indigene Gruppe in Chile. Deren Name bedeutet "Menschen der Erde". Heute lebt die Mehrheit in Städten wie Santiago und Temuco. 
-Julia del Carmen Chuñil Catricura, Mapuche-Aktivistin und Umweltschützerin, ist seit November 2024 verschwunden. Sie hat sich für Landrechte und den Schutz der Wälder in der Region Los Ríos engagiert. Ihr Verschwinden wird als Symbol für die Konflikte um indigenen Landbesitz gesehen. Minet war beim Gedenken an die Aktivistin dabei.
-Mitte Jänner fand an der Eurac in Bozen eine Tagung für junge, in Europa aufgewachsene Tibeter:innen statt. Die Teilnehmenden erhielten die Möglichkeit, über ihre eigene Herkunft, kulturelle Identität und politische Teilhabe nachzudenken. 
-In Zusammenarbeit mit Survival International lässt Minet Völker zu Wort kommen, die für ihre Rechte einstehen. Diesmal kommt Choudamma vom Volk der Jenu Kuruba in Indien zu Wort.</desc>
-  </programme>
-  <programme start="20260218221000 +0100" stop="20260218223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260219200000 +0100" stop="20260219202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
