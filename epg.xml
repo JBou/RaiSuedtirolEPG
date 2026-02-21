@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260220180000 +0100" stop="20260220182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Konservieren versus konservativ</sub-title>
-    <desc>Hat Konservieren etwas mit konservativ sein zu tun und was bedeutet es "bieder" zu sein? Wollen wir an Altem festhalten und nichts Neues zulassen? Es moderiert Magdalena Oberstaller.   
-Sind wir mehr und mehr Bewahrer, je schneller sich die Welt dreht? Und wo stehen die jungen Menschen?  
-Zu Gast ist die Landeskonservatorin Karin Dalla Torre, die über die Herausforderungen des Denkmalschutzes spricht.  
-Wir berichten außerdem über die Olympischen Winterspiele 1964 in Innsbruck und geben einen Einblick in die Generation Z.</desc>
-  </programme>
-  <programme start="20260220182900 +0100" stop="20260220185830 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die indigenen Mapuche in Chile und ihr Kampf gegen Diskriminierung, Armut und für die Rückgabe ihrer angestammten Territorien. Eine Eurac-Tagung für Exil-Tibeter. Es moderiert Christina Khuen.  
-Die Mapuche sind mit rund 1,5 Millionen Menschen die größte indigene Gruppe in Chile. Deren Name bedeutet "Menschen der Erde". Heute lebt die Mehrheit in Städten wie Santiago und Temuco. 
-Julia del Carmen Chuñil Catricura, Mapuche-Aktivistin und Umweltschützerin, ist seit November 2024 verschwunden. Sie hat sich für Landrechte und den Schutz der Wälder in der Region Los Ríos engagiert. Ihr Verschwinden wird als Symbol für die Konflikte um indigenen Landbesitz gesehen. Minet war beim Gedenken an die Aktivistin dabei.
-Mitte Jänner fand an der Eurac in Bozen eine Tagung für junge, in Europa aufgewachsene Tibeter:innen statt. Die Teilnehmenden erhielten die Möglichkeit, über ihre eigene Herkunft, kulturelle Identität und politische Teilhabe nachzudenken. 
-In Zusammenarbeit mit Survival International lässt Minet Völker zu Wort kommen, die für ihre Rechte einstehen. Diesmal kommt Choudamma vom Volk der Jenu Kuruba in Indien zu Wort.</desc>
-  </programme>
-  <programme start="20260220200000 +0100" stop="20260220202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260220202000 +0100" stop="20260220203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260220203000 +0100" stop="20260220215017 +0100" channel="Rai Südtirol">
-    <title>Sturm am Manaslu</title>
-    <sub-title/>
-    <desc>Der Dokumentarfilm von Reinhold Messner zeichnet die tragischen Geschehnisse rund um die Tiroler Himalaya-Expedition 1972 nach, wo zwei Bergsteiger ums Leben kamen.  
-
-50 Jahre später kommen die ehemaligen Expeditionsteilnehmer auf Schloss Juval zusammen und schildern ihre persönlichen Eindrücke von damals. Franz Jäger, der gemeinsam mit Reinhold Messner den Gipfel in Angriff nimmt, kehrt auf halber Strecke um. Messner erreicht im Alleingang den Gipfel, beim Abstieg jedoch bricht der Sturm los und die Situation gerät außer Kontrolle. Vom unteren Lager steigt ein kleiner Versorgungstrupp den Bergsteigern entgegen. Am Ende verschwinden zwei Menschen für immer in den Wirren des Sturms.
-Auf Schloss Juval reflektieren die Überlebenden heute über ihr Leben am Limit: Kann es dafür eine Rechtfertigung geben und ist es vor allem gegenüber ihren Müttern, Frauen und Kindern zu verantworten?</desc>
-  </programme>
-  <programme start="20260220221000 +0100" stop="20260220223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260221180000 +0100" stop="20260221185900 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -281,6 +241,32 @@ Ebenfalls ausgezeichnet wurde Josef Gostner, der den HGV-Stern für seine Verdie
 Bodenständig, regional und eng mit der Landschaft verbunden: Die Küche des Eisacktals lebt von einfachen Zutaten, traditionellen Rezepten und echter Handwerkskunst. In dieser Ausgabe des Willkommen-Magazins stehen zwei Betriebe im Eisacktal im Mittelpunkt, die ein typisches Eisacktaler Gericht zubereiten und erzählen, was diese Küche ausmacht und warum sie bis heute Identität stiftet.</desc>
   </programme>
   <programme start="20260228221000 +0100" stop="20260228223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260301200000 +0100" stop="20260301202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260301202000 +0100" stop="20260301204800 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Laag</sub-title>
+    <desc>Laag im Unterland ist eine Fraktion von Neumarkt. Wir besuchen das Klösterle und die romanische Kirche in St.Florian, erfahren von einem besonderen Männerverein und erinnern an das Hochwasser von 1981.  
+
+Gemeinsam mit Herbert Rossi besuchen wir den Weiler St. Florian: Er führt uns zum ehemaligen Pilgerhospiz Klösterle, Raststation auf dem Weg nach Rom. Gleich daneben steht die romanische Kirche St. Florian, ein außergewöhnliches Kunstdenkmal, das ins 12. Jahrhundert datiert wird und zu den ältesten christlichen Sakralbauten Tirols zählt.  
+Laag ist außerdem mit einem großen Namen verbunden: Albrecht Dürer soll hier 1494 auf seiner Reise nach Venedig Station gemacht haben. Heute erinnern ein Dürer-Platz und der Dürerweg an diese Spur durch das Unterland und Richtung Cembratal.  
+Zwei Schwestern, die am Dorfbuch mitgewirkt haben, begleiten uns durch die Gassen von Laag und zeigen persönliche Erinnerungsorte. 
+Lebendig wird Tradition beim Männerverein "Uhr su la Wond": Entstanden 2010 aus dem Wunsch heraus, das Dorf zu beleben und Bräuche zu bewahren, zeigt der Verein seinen besonderen Brauch "Tratto Marzo" mit Liedern und Sprüchen, bei denen junge Leute augenzwinkernd zusammengebracht werden.  
+Ein Zeitzeuge erinnert an das Hochwasser von 1981, als nach extremen Regenfällen der Etschdamm südlich von Laag zerstört und das Unterland schwer getroffen wurde.  Dazu blicken wir auch auf die Arbeit der Feuerwehr.</desc>
+  </programme>
+  <programme start="20260301204800 +0100" stop="20260301205200 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. MAir</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260301221000 +0100" stop="20260301223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
