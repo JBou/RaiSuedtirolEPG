@@ -4,34 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260222200000 +0100" stop="20260222202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260222202000 +0100" stop="20260222203000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau Olympiastudio</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260222203100 +0100" stop="20260222205900 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Suchhunde &amp; Lawinenkommission</sub-title>
-    <desc>Bei Lawineneinsätzen oder Vermisstensuche sind sie fast immer mit dabei: die Hundeführer im Bergrettungsdienst mit ihren Suchhunden. Außerdem: Wie arbeiten unsere Lawinenkommissionen? 
-
-Um im Notfall schnell Verschüttete zu orten oder eine abgängige Person zu finden, braucht es regelmäßiges Training und gegenseitiges Vertrauen zwischen Hundeführer und Suchhund.  
-Nach intensiven Schneefällen sind nicht nur Bergsteiger und Skitourengeher der Lawinengefahr ausgesetzt: Die Schneemassen können auch Infrastrukturen wie Straßen, Siedlungen oder Pisten bedrohen: Dann übernimmt der Zivilschutz mit den lokalen Lawinenkommissionen Verantwortung.</desc>
-  </programme>
-  <programme start="20260222205900 +0100" stop="20260222210300 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Fraueke Leonhäuser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260222221000 +0100" stop="20260222223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10 und Olympiastudio Update</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260223180000 +0100" stop="20260223181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
