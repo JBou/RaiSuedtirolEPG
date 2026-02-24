@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260223180000 +0100" stop="20260223181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Zwanzigster Spieltag in der Fußball-Oberliga: St. Georgen empfängt in Bruneck Ahrntal, beide Teams müssen im Kampf um den Klassenerhalt unbedingt punkten. In der Landesliga trifft Freienfeld zu Hause auf Gitschberg Jochtal, während Tscherms Marling im Etschtaler Derby auswärts gegen Gargazon spielt.</desc>
-  </programme>
-  <programme start="20260223181400 +0100" stop="20260223182900 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Bücherwelten</sub-title>
-    <desc>Zipp TV-Moderator Stefan schaut bei den Bücherwelten im Waltherhaus in Bozen vorbei und stolpert dort in die humorvollen Lesung der Kinderbuchautorin Britta Sabbag. Den vielen Kindern stellt sie gerade ihr neues Buch "Die Dinoschule" vor. In der Dinoschule lernen die Kinder, wie sie auf der Insel Sauritius überleben und sich einen Dinosaurier zum treuen Gefährten machen. 
-Anschließend bei "Kochen kinderleicht" bereiten Hannah und Martina Fleischbällchen mit Kartoffelpüree zu.</desc>
-  </programme>
-  <programme start="20260223182900 +0100" stop="20260223185915 +0100" channel="Rai Südtirol">
-    <title>Franz Haller und die Kampfkunst</title>
-    <sub-title/>
-    <desc>Von seiner Großmutter hat er früh den Leitspruch gehört: "Wosch Bua, des Leben isch a Kompf". Doch Franz Haller - Jahrgang 1959 - hat sich nie gescheut, den Kampf aufzunehmen. Schon als Jugendlicher entdeckte er die Filme des Kampfkünstlers Bruce Lee für sich - und bald fand er eigene Wege, sich der asiatischen Kampfkunst zu nähern: zunächst Karate, später Kickboxen und Muay Thai. Der mehrfache Weltmeister war ein Pionier und zugleich ein Idol der Kampfsport-Szene in Südtirol. "Man muss den Kampf überwinden, den man gewonnen hat - und den man verloren hat, umso mehr", sagt Franz Haller, der in seinem Leben Höhen und Tiefen erfahren hat. Ein Kickbox Champion und sein Leben für den Sport.</desc>
-  </programme>
-  <programme start="20260223200000 +0100" stop="20260223202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260223202000 +0100" stop="20260223215930 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Wenn Familie Hilfe braucht</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Was hilft, wenn die Kleinfamilie unter Druck kommt, überfordert ist von Alltag, Krankheit, persönlichen Krisen? Antworten darauf und ein Film über 70 Jahre Südtiroler Kinderdorf. 
-
-Seit 70 Jahren nimmt das Südtiroler Kinderdorf Kinder und Jugendliche auf. Angelika König zeichnet im filmischen Porträt Lebenslinien die Entwicklung nach, von der Kinderdorfmutter zum Team aus Erziehern und Therapeutinnen, von der Ersatzfamilie zum Prinzip der Prävention. 
-Im Talk fragen wir: Wann müssen Kinder gehen? Und wie sieht mobile Familienarbeit aus, damit Kinder bleiben dürfen? Es sprechen Kinderdorf-Präsidentin Sabina Frei, Jugendrichter Benno Baumgartner, Dieter Burger, Leiter der Ambulanten Familienarbeit bei EOS, und Michael Reiner, Leiter der Jugendberatung Young+Direct. Im Interview: Heinz Senoner, Kinderdorf-Direktor bis 2020, und eine Bewohnerin des Kinderdorfs. Gabriele Crepaz moderiert live aus dem Südtiroler Kinderdorf in Brixen.</desc>
-  </programme>
-  <programme start="20260223221000 +0100" stop="20260223223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260224200000 +0100" stop="20260224202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
