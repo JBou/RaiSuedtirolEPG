@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260224200000 +0100" stop="20260224202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260224202000 +0100" stop="20260224203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260224203500 +0100" stop="20260224204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Zwanzigster Spieltag in der Fußball-Oberliga: St. Georgen empfängt in Bruneck Ahrntal, beide Teams müssen im Kampf um den Klassenerhalt unbedingt punkten. In der Landesliga trifft Freienfeld zu Hause auf Gitschberg Jochtal, während Tscherms Marling im Etschtaler Derby auswärts gegen Gargazon spielt.</desc>
-  </programme>
-  <programme start="20260224221000 +0100" stop="20260224223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260225200000 +0100" stop="20260225202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
