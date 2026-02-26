@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260225200000 +0100" stop="20260225202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260225202000 +0100" stop="20260225204930 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Weinbranche im Umbruch: Wie Südtirols Weinwirtschaft darauf reagiert. Mangel an Tierärzten: Warum es neue Formen der Zusammenarbeit braucht.  
-
-Die Nachfrage nach Wein geht seit rund zehn Jahren kontinuierlich zurück, ein Trend, der sich laut Expert:innen weiter fortsetzen dürfte. Veränderte Konsumgewohnheiten, Klimawandel, steigende Produktionskosten und gesättigte Wein-Märkte setzen die Weinbranche unter Druck. Auch Südtirols Weinwirtschaft steht vor großen Herausforderungen. Land&amp;Leben hat bei freien Weinbauern und in Kellereien nachgefragt, wie sie auf die Krise reagieren.  
-Tierärztin sein aus Leidenschaft, doch zu welchem Preis? In Südtirol wagt Laura Bacher einen anderen Weg und arbeitet in einer Tierärztevereinigung. Denn Freiberuflichkeit ohne Absicherung, endlose Arbeitszeiten und wenig Geld schrecken viele junge Tierärztinnen ab. Besonders in der Nutztierpraxis wird der Nachwuchsmangel zum Problem.  
-Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20260225221000 +0100" stop="20260225223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260226200000 +0100" stop="20260226202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
