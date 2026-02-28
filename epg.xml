@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260227180000 +0100" stop="20260227182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title/>
-    <desc>In einer Gesellschaft, die immer hektischer und kühler wird, geht Freundlichkeit oft verloren. Wie kann es wieder "in"  werden und was macht Freundlichkeit mit uns? Es moderiert Karin Gschnitzer.   
-Zu Gast ist Barbara Zisser, die Menschen dabei hilft, ihre innere Kraft wiederzuentdecken, zu fördern und frei und selbstverantwortlich zu denken und zu handeln. Wir berichten außerdem über die Freundschaft zwischen Mensch und Tier und liefern spannende Fakten zum Thema "Freundlichkeit".</desc>
-  </programme>
-  <programme start="20260227182900 +0100" stop="20260227185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Seit den Olympischen Winterspielen 1964 in Innsbruck haben Südtirols Athlet:innen immer mindestens eine Medaille nach Hause gebracht. Zum 17. Mal in Folge holten sie auch bei den Spielen in Mailand-Cortina 2026 Podestplätze. Wir waren bei den Feiern der Medaillengewinner:innen in ihren Heimatgemeinden dabei.</desc>
-  </programme>
-  <programme start="20260227200000 +0100" stop="20260227202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260227202000 +0100" stop="20260227210032 +0100" channel="Rai Südtirol">
-    <title>In memoriam Andreas Resch</title>
-    <sub-title>Der Nuntius des Unheimlichen</sub-title>
-    <desc>Pater Andreas Resch - verstorben am 1.Februar 2026 - war eine Weltkoryphäe auf dem Gebiet der Parapsychologie. Bis hin zum Papst wird sein Fachwissen geschätzt.  
-
-Der Redemptorist Prof. Andreas Resch stammte aus Steinegg und hatte bereits als Hüterbub seinem Leben eine entscheidende Richtung verliehen. Nämlich als er erkannte, dass die von ihm gehüteten Kühe offensichtlich mit ihm kommunizierten. Dies führte ihn zu einer Frage, die er Zeit seines Lebens zu beantworten suchte: Wie sieht die Welt hinter dem direkt Wahrnehmbaren aus? Was steckt hinter dem Geheimen und Okkulten? 
-Der Film von Rupert Zöschg zeigt das Lebenswerk des Andreas Resch. Er beleuchtet aber auch den Stellenwert unseres Wissens und macht bewusst, dass das, was wir beweisen können, nur ein kleiner Teil dessen ist, was die Welt in ihrer Gesamtheit ausmacht.</desc>
-  </programme>
-  <programme start="20260227210100 +0100" stop="20260227214750 +0100" channel="Rai Südtirol">
-    <title>Der Gsiesertallauf</title>
-    <sub-title/>
-    <desc>Seit 42 Jahren gibt es den Gsiesertallauf. Der heute zweitgrößte Volkslanglauf Italiens, und einer der größten in ganz Europa, kurbelte das Wirtschaftsrad des ganzen Tales an, das damals noch touristisch unterentwickelt war. Pläne von großen Skigebieten fanden in der Bevölkerung keine Mehrheit. Man entschied sich für den umweltfreundlichen und landschaftsschonenden Langlaufsport. Und schon beim allerersten Gsiesertallauf gabs einen heimischen Erfolg: Albert Walder wurde Langstreckensieger über 40 km. 
-Der Film blickt auf die Anfänge dieser erfolgreichen Großveranstaltung zurück und erzählt bisher unbekannte Geschichten über Siege, Visionen, Erfolge, Kuriositäten und Mitwirkende, egal ob in der ersten oder letzten Reihe.</desc>
-  </programme>
-  <programme start="20260227214700 +0100" stop="20260227215600 +0100" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Die Stilfserjochstraße im Winterschlaf</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260227221000 +0100" stop="20260227223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260228180000 +0100" stop="20260228182930 +0100" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title>Suchhunde &amp; Lawinenkommission</sub-title>
@@ -282,6 +242,30 @@ Wir zeigen im Pustertal eine Bergbauernfamilie, die ihren Hof Schritt für Schri
 Der dritte Preisträger in Pfunders hat seinen Hof diversifiziert - mit Milch- und Holzwirtschaft, hofeigenen Produkten, einem Almausschank und Photovoltaik.</desc>
   </programme>
   <programme start="20260307221000 +0100" stop="20260307223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260308200000 +0100" stop="20260308202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260308202000 +0100" stop="20260308204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Wie machen wir die Welt für Frauen passend? Mobilität, Sicherheit? Die Filmemacherin und queere Aktivistin Martine De Biasi im Porträt. Gedanken zum Equal Care Day. Moderation: Martina Kreuzer. 
+
+Mit einer Historikerin sehen wir Stadt durch weibliche Augen. Eine Mobilitätsforscherin erklärt, warum Frauen dem Bus hinterherlaufen. Wir fragen eine Design-Professorin: Wie patriarchal sind die Dinge? Die Direktorin des Arbeitsinspektorats: Wie sieht Sicherheit für Frauen aus? Und zwei Unternehmerinnen suchen Verbündete: Girls wanted.  
+Im dF-Portrait - Martine De Biasi: Geschichte erzählen, Gemeinschaft schaffen, Vielfalt und ein Wir-Gefühl fördern: Das ist der rote Faden, der sich durch das Schaffen von Martine De Biasi zieht. Für das dF-Porträt führt uns die Filmemacherin, dokumentarische Erzählerin und queere Aktivistin an den Ort ihrer Kindheit zurück, gibt Einblick in aktuelle Projekte und verrät, wie frau lernen kann, glücklich anders zu sein.   
+In dF Info berichten wir über den "Sara-Weg" - ein Leitfaden für Unternehmen und Menschen von Judith Senoner und über den Equal Care Day, den Aktionstag, der auf die ungleiche Verteilung von Sorgearbeit aufmerksam macht.</desc>
+  </programme>
+  <programme start="20260308205000 +0100" stop="20260308205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260308221000 +0100" stop="20260308223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
