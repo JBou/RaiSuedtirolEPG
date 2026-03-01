@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260228180000 +0100" stop="20260228182930 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Suchhunde &amp; Lawinenkommission</sub-title>
-    <desc>Bei Lawineneinsätzen oder Vermisstensuche sind sie fast immer mit dabei: die Hundeführer im Bergrettungsdienst mit ihren Suchhunden. Außerdem: Wie arbeiten unsere Lawinenkommissionen? 
-Um im Notfall schnell Verschüttete zu orten oder eine abgängige Person zu finden, braucht es regelmäßiges Training und gegenseitiges Vertrauen zwischen Hundeführer und Suchhund.  
-Nach intensiven Schneefällen sind nicht nur Bergsteiger und Skitourengeher der Lawinengefahr ausgesetzt: Die Schneemassen können auch Infrastrukturen wie Straßen, Siedlungen oder Pisten bedrohen: Dann übernimmt der Zivilschutz mit den lokalen Lawinenkommissionen Verantwortung.</desc>
-  </programme>
-  <programme start="20260228182900 +0100" stop="20260228185830 +0100" channel="Rai Südtirol">
-    <title>Gesundheit - Die Reportage</title>
-    <sub-title>Medikamente</sub-title>
-    <desc>Medikamente zwischen Heilung, Missbrauch und Resistenzen. Zu früher oder unbekümmerter Einsatz kann zu gesundheitlichen Risiken führen. Eine Reportage von Ulli Velano. Schmerzmittel und Antibiotika gelten als unverzichtbare Helfer der modernen Medizin. Doch ihr zunehmender und oft unreflektierter Einsatz birgt Risiken - ein Problem, das häufig bereits im Kindesalter beginnt. Bei Fieber oder leichten Beschwerden wird schnell zur Tablette gegriffen, später folgen Beruhigungs- oder Schlafmittel bei Stress und Überlastung. Langfristige Folgen wie Abhängigkeiten oder Resistenzen sind dabei keine Seltenheit. Die Reportage Gesundheit beleuchtet den Medikamentenmissbrauch in Südtirol aus medizinischer Sicht. Primar Dr. Michael Zöbl vom Krankenhaus Brixen warnt vor einer zu frühen und unnötigen Medikation bei Kindern, insbesondere beim Einsatz von Antibiotika. Anästhesist und Spezialist für Resistenzen Dr. Ulrich Ortler erklärt, welche dramatischen Auswirkungen es haben kann, wenn Medikamente ihre Wirkung verlieren. Die Reportage zeigt: Medikamente können heilen - doch ihr falscher Gebrauch macht sie zur Gefahr, denn die Dosis macht das Gift.</desc>
-  </programme>
-  <programme start="20260228200000 +0100" stop="20260228202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260228202000 +0100" stop="20260228202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260228202400 +0100" stop="20260228205330 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen.entdecken.genießen</sub-title>
-    <desc>Der Knödel als Sinnbild für gelebte Genusskultur, eine Auszeichnung für den ehemaligen Gastwirt Helmuth Fink und für den Unternehmer Josef Gostner, zwei typische Eisacktaler Gerichte. 
-
-Wir zeigen, wie der Knödel bis heute Gastronomie und Tourismus prägt, und warum er nach wie vor im Zentrum der Südtiroler Genusslandschaft steht. 
-In Brixen treffen wir im Restaurant Fink auf den ehemaligen Gastwirt Helmuth Fink, einen Pionier der regionalen Küche, der vom Hoteliers- und Gastwirteverband für sein Lebenswerk ausgezeichnet wurde. Eine Würdigung für einen echten Vordenker, der die Südtiroler Gastronomie nachhaltig geprägt hat.  
-Ebenfalls ausgezeichnet wurde Josef Gostner, der den HGV-Stern für seine Verdienste um die Entwicklung des Flughafens Bozen erhielt. Auch ihn haben wir zum Gespräch getroffen und sprechen über Visionen, Vernetzung und die Bedeutung moderner Mobilität für den Tourismusstandort Südtirol. 
-Bodenständig, regional und eng mit der Landschaft verbunden: Die Küche des Eisacktals lebt von einfachen Zutaten, traditionellen Rezepten und echter Handwerkskunst. In dieser Ausgabe des Willkommen-Magazins stehen zwei Betriebe im Eisacktal im Mittelpunkt, die ein typisches Eisacktaler Gericht zubereiten und erzählen, was diese Küche ausmacht und warum sie bis heute Identität stiftet.</desc>
-  </programme>
-  <programme start="20260228221000 +0100" stop="20260228223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260301200000 +0100" stop="20260301202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
