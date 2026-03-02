@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260301200000 +0100" stop="20260301202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260301202000 +0100" stop="20260301204800 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Laag</sub-title>
-    <desc>Laag im Unterland ist eine Fraktion von Neumarkt. Wir besuchen das Klösterle und die romanische Kirche in St.Florian, erfahren von einem besonderen Männerverein und erinnern an das Hochwasser von 1981.  
-
-Gemeinsam mit Herbert Rossi besuchen wir den Weiler St. Florian: Er führt uns zum ehemaligen Pilgerhospiz Klösterle, Raststation auf dem Weg nach Rom. Gleich daneben steht die romanische Kirche St. Florian, ein außergewöhnliches Kunstdenkmal, das ins 12. Jahrhundert datiert wird und zu den ältesten christlichen Sakralbauten Tirols zählt.  
-Laag ist außerdem mit einem großen Namen verbunden: Albrecht Dürer soll hier 1494 auf seiner Reise nach Venedig Station gemacht haben. Heute erinnern ein Dürer-Platz und der Dürerweg an diese Spur durch das Unterland und Richtung Cembratal.  
-Zwei Schwestern, die am Dorfbuch mitgewirkt haben, begleiten uns durch die Gassen von Laag und zeigen persönliche Erinnerungsorte. 
-Lebendig wird Tradition beim Männerverein "Uhr su la Wond": Entstanden 2010 aus dem Wunsch heraus, das Dorf zu beleben und Bräuche zu bewahren, zeigt der Verein seinen besonderen Brauch "Tratto Marzo" mit Liedern und Sprüchen, bei denen junge Leute augenzwinkernd zusammengebracht werden.  
-Ein Zeitzeuge erinnert an das Hochwasser von 1981, als nach extremen Regenfällen der Etschdamm südlich von Laag zerstört und das Unterland schwer getroffen wurde.  Dazu blicken wir auch auf die Arbeit der Feuerwehr.</desc>
-  </programme>
-  <programme start="20260301204800 +0100" stop="20260301205200 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. MAir</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260301221000 +0100" stop="20260301223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260302180000 +0100" stop="20260302181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
