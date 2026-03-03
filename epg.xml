@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260302180000 +0100" stop="20260302181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Serie D empfängt Obermais den venezianischen Klub Calvi Noale. Beide Mannschaften kämpfen um den Klassenerhalt. In der Landesliga trifft Stegen im Pusterer Derby auf Tabellenführer Bruneck, während in Salurn das Unterlandler Duell zwischen den Hausherren und Weinstraße Süd stattfindet.</desc>
-  </programme>
-  <programme start="20260302181400 +0100" stop="20260302182900 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Bei Uhrmacher Kevin</sub-title>
-    <desc>Der gelernte Tischler und Dachdecker Kevin entschied sich mit 30 Jahren für eine Ausbildung zum Uhrmacher und ist heute der Jüngste dieser seltenen Zunft in Südtirol. Zipp-Reporter Manuel besucht ihn in seiner kleinen Werkstatt in Lana. Dort repariert und restauriert Kevin Stand-, Wand- und Armbanduhren. Manuel darf selbst Hand anlegen und an winzig kleinen Zahnrädern, Federn und Schräubchen drehen.</desc>
-  </programme>
-  <programme start="20260302182900 +0100" stop="20260302185830 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Weinbranche im Umbruch: Wie Südtirols Weinwirtschaft darauf reagiert. Mangel an Tierärzten: Warum es neue Formen der Zusammenarbeit braucht. Die Nachfrage nach Wein geht seit rund zehn Jahren kontinuierlich zurück, ein Trend, der sich laut Expert:innen weiter fortsetzen dürfte. Veränderte Konsumgewohnheiten, Klimawandel, steigende Produktionskosten und gesättigte Wein-Märkte setzen die Weinbranche unter Druck. Auch Südtirols Weinwirtschaft steht vor großen Herausforderungen. Land&amp;Leben hat bei freien Weinbauern und in Kellereien nachgefragt, wie sie auf die Krise reagieren.  
-Tierärztin sein aus Leidenschaft, doch zu welchem Preis? In Südtirol wagt Laura Bacher einen anderen Weg und arbeitet in einer Tierärztevereinigung. Denn Freiberuflichkeit ohne Absicherung, endlose Arbeitszeiten und wenig Geld schrecken viele junge Tierärztinnen ab. Besonders in der Nutztierpraxis wird der Nachwuchsmangel zum Problem.  
-Eine Sendung von Marianne Kasseroler.</desc>
-  </programme>
-  <programme start="20260302200000 +0100" stop="20260302202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260302202000 +0100" stop="20260302212206 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung "Am Runden Tisch". Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20260302212200 +0100" stop="20260302215954 +0100" channel="Rai Südtirol">
-    <title>Freiwillig für Südtirol</title>
-    <sub-title>Ein Ehrenamt schreibt Geschichte</sub-title>
-    <desc>Die Reportage bietet einen Einblick in eine der größten Freiwilligen-Organisationen Südtirols: das
-Weiße Kreuz.
-Seit 1965 prägte es die Entwicklung unseres Südtiroler Gesundheitssystems, mit Hilfe des
-unermüdlichen Einsatzes unzähliger freiwilliger Mitarbeiter - doch warum nutzen Menschen ihre
-Freizeit, um anderen zu helfen? Dieser Frage geht Philipp Bologna auf den Grund und spricht mit
-Freiwilligen der ersten, der aktuellen und der nächsten Generation.</desc>
-  </programme>
-  <programme start="20260302221000 +0100" stop="20260302223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260303200000 +0100" stop="20260303202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
