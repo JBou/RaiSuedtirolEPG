@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260304200000 +0100" stop="20260304202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260304202000 +0100" stop="20260304204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Was bewegt wirtschaftliche Entscheidungen - und wer gestaltet die visuelle Sprache unserer Zeit? In Trend geht es um die Psychologie in Wirtschaft und Kreativität, die in digitalen Schrifttypen steckt.  
-
-Univ.-Prof. Erich Kirchler, aufgewachsen in Mühlen in Sand in Taufers, führte das Psychologiestudium an die Universität Wien, wo er über viele Jahre hinweg forschte und lehrte. Als Gastprofessor arbeitete er an mehreren europäischen Universitäten und ist heute Senior Fellow am Institut für höhere Studien sowie Mitglied der Akademie der Wissenschaften in Wien. In Trend erklärt Professor Kirchler, welche Rolle psychologische Erkenntnisse für wirtschaftspolitische Entscheidungen spielen: vom Geldmanagement in Haushalten, über finanzpsychologische Prozesse, bis hin zu den Unterschieden in der Steuermoral verschiedener Gesellschaften oder Phänomenen in unseren alltäglichen Kaufentscheidungen. 
-Anschließend lernen wir Franziska Weitgruber aus Latsch kennen. Sie ist eine international tätige Typografin und Grafikdesignerin. Nach ihrem Grafikdesign-Studium in St. Pölten absolvierte sie den Masterstudiengang an der Royal Academy of Art in Den Haag. Heute entwickelt sie eigene digitale Schriften und visuelle Konzepte, die sie als kommerzielle Font-Familien und Designlösungen vermarktet. Wie ein solcher kreativer Prozess bis zur digitalen Vermarktung vor sich geht und welche Chancen sich dadurch für Kreative eröffnen, zeigt Franziska Weitgruber im Co-Working-Space BASIS Vinschgau.</desc>
-  </programme>
-  <programme start="20260304221000 +0100" stop="20260304223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260305200000 +0100" stop="20260305202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
