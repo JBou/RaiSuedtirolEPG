@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260305200000 +0100" stop="20260305202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260305202000 +0100" stop="20260305204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Vintage</sub-title>
-    <desc>Secondhand-Mode ist gefragt wie nie. Was aber macht die abgelegten Stücke für junge Menschen so attraktiv? Es moderiert Magdalena Oberstaller.   
-
-Während Vintage-Shopping früher bedeutete, sich durch teils muffige Läden zu wühlen, gibt es inzwischen angesagte Läden und Tauschmärkte. Der Imagewandel zeigt sich auch im neuen sprachlichen Gewand: Statt "aus zweiter Hand" ist nun häufig von "Preloved" oder "Vintage" die Rede. 
-Der Anbau und die Verarbeitung von Flachs stellt das Gegenteil der heutigen sogenannten "Fast Fashion", also der "schnellen Mode" dar. Wir haben dazu Bilder aus dem Amt für Film und Medien.  
-In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Reportage: Second Hand - aus zweiter Hand.</desc>
-  </programme>
-  <programme start="20260305213000 +0100" stop="20260305215930 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Olympischen Winterspiele sind aus Südtiroler Sicht sehr erfolgreich beendet worden, jetzt beginnen die Paralympics. Emanuel Perathoner geht als großer Favorit ins Biathlon-Rennen, aber auch die Para-Eishockey-Mannschaft hat Medaillenchancen.</desc>
-  </programme>
-  <programme start="20260305221000 +0100" stop="20260305223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260306180000 +0100" stop="20260306182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Vintage</sub-title>
@@ -123,6 +99,189 @@ In dF Info berichten wir über den "Sara-Weg" - ein Leitfaden für Unternehmen u
     <desc/>
   </programme>
   <programme start="20260308221000 +0100" stop="20260308223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260309180000 +0100" stop="20260309181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>22. Spieltag in der Fußball-Oberliga: St. Georgen empfängt Partschins, beide Mannschaften sind nach einem verhaltenen Saisonauftakt gut in die Rückrunde gestartet und wollen sich mit einem Sieg im Tabellenmittelfeld bestätigen. In der Landesliga kommt es zum Etschtaler Derby Tscherms Marling gegen Lana, während Latsch in Gargazon zu Gast ist.</desc>
+  </programme>
+  <programme start="20260309181400 +0100" stop="20260309183300 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Karamela: Schuhplatteln in Terenten</sub-title>
+    <desc>Clownfrau Karamela trifft in Terenten auf begeisterte Schuhplattlerkinder. Den fröhlichen alpenländischen Volkstanz lernen die Kinder von ihren Vätern. Begleitet von einer Ziehharmonika macht es großen Spaß, im Kreis zu stampfen, zu klatschen und dem Vordermann spielerisch auf die Lederhose zu treten. Doch plötzlich verschwindet eine Lederhose! Ein Geist, der endlich seine Ruhe haben möchte, ist der Übeltäter - er hat genug von den Juchzern und dem lauten Gestampfe der Kinder. Ob die Kinder es schaffen, den Geist zu überreden, die Lederhose wieder zurückzugeben?</desc>
+  </programme>
+  <programme start="20260309183300 +0100" stop="20260309185730 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Laag</sub-title>
+    <desc>Laag im Unterland ist eine Fraktion von Neumarkt. Wir besuchen das Klösterle und die romanische Kirche in St.Florian, erfahren von einem besonderen Männerverein und erinnern an das Hochwasser von 1981.  
+Gemeinsam mit Herbert Rossi besuchen wir den Weiler St. Florian: Er führt uns zum ehemaligen Pilgerhospiz Klösterle, Raststation auf dem Weg nach Rom. Gleich daneben steht die romanische Kirche St. Florian, ein außergewöhnliches Kunstdenkmal, das ins 12. Jahrhundert datiert wird und zu den ältesten christlichen Sakralbauten Tirols zählt.  
+Laag ist außerdem mit einem großen Namen verbunden: Albrecht Dürer soll hier 1494 auf seiner Reise nach Venedig Station gemacht haben. Heute erinnern ein Dürer-Platz und der Dürerweg an diese Spur durch das Unterland und Richtung Cembratal.  
+Zwei Schwestern, die am Dorfbuch mitgewirkt haben, begleiten uns durch die Gassen von Laag und zeigen persönliche Erinnerungsorte. 
+Lebendig wird Tradition beim Männerverein "Uhr su la Wond": Entstanden 2010 aus dem Wunsch heraus, das Dorf zu beleben und Bräuche zu bewahren, zeigt der Verein seinen besonderen Brauch "Tratto Marzo" mit Liedern und Sprüchen, bei denen junge Leute augenzwinkernd zusammengebracht werden.  
+Ein Zeitzeuge erinnert an das Hochwasser von 1981, als nach extremen Regenfällen der Etschdamm südlich von Laag zerstört und das Unterland schwer getroffen wurde.  Dazu blicken wir auch auf die Arbeit der Feuerwehr.</desc>
+  </programme>
+  <programme start="20260309200000 +0100" stop="20260309202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260309202000 +0100" stop="20260309210423 +0100" channel="Rai Südtirol">
+    <title>Und plötzlich steht die Welt still</title>
+    <sub-title/>
+    <desc>"14-Jähriger stirbt bei Motorradunfall", "Hubschrauberabsturz fordert Tote" und „Familientragödie mit drei Toten“. Schlagzeilen wie diese lassen uns innehalten und werfen eine zentrale Frage auf: Wie geht es den Angehörigen, wenn ein geliebter Mensch von einem Moment auf den anderen aus dem Leben gerissen wird? 
+
+Dieser Frage gehen auch die Filmemacher Erich Grünbacher und Rudy Kaneider nach. Die Lehrerin Michaela Terzer hat ihren Sohn Julian durch einen Unfalltod verloren. Lange kämpft sie gegen den überwältigen Schmerz an, hadert mit ihrem Schicksal und mit ihrer Umwelt. Erst nach und nach gelingt es ihr, neue Kraft zu schöpfen und Schritt für Schritt in den Alltag zurückzufinden. Auch der Tod des 29-jährigen Heiner Oberrauch bei einem Hubschrauberabsturz in Kanada reißt eine tiefe Wunde. Für seinen Vater Georg, einen Bozner Unternehmer, ist der Verlust ein schwerer Schicksalsschlag. Halt und Trost findet er im christlichen Glauben. 
+Besonders tragisch ist das Schicksal von Christian Tschurtschenthaler aus Sexten. Bei einem Frontalzusammenstoß verliert er seine Frau Monika sowie die gemeinsamen Söhne Matthäus und Kassian. Nur Sohn Benedikt überlebt den Unfall. In der dunkelsten Zeit geben Vater und Sohn einander Halt. Heute sehen sie in den Verstorbenen Sterne, die sie begleiten - unsichtbar, aber stets gegenwärtig.</desc>
+  </programme>
+  <programme start="20260309210500 +0100" stop="20260309215000 +0100" channel="Rai Südtirol">
+    <title>Entdeckungen Südtirol</title>
+    <sub-title>Der Vinschgau</sub-title>
+    <desc>Ein faszinierendes Tal und seine Menschen im Jahreslauf. Wir beobachten eine Imkerin und ihre Bienen, die Entstehung einer hölzernen Wasserrinne, die Schafe bei der Transhumanz durch das Schnalstal. Wir erinnern uns an Robert Fliri. Der Erfinder der Zehenschuhe verunglückte im März 2025 tödlich. Außerdem besuchen wir einen Marmorbruch und erleben die Weiterverarbeitung im Werk in Laas. Am Schluss wird der Brauch des Scheibenschlagens gezeigt, der alljährlich zu Beginn der Fastenzeit stattfindet. Ein Film von Susanne Gebhardt.</desc>
+  </programme>
+  <programme start="20260309215000 +0100" stop="20260309220000 +0100" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Gretl und Josef Oberrauch</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260309221000 +0100" stop="20260309223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260310200000 +0100" stop="20260310202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260310202000 +0100" stop="20260310203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260310203500 +0100" stop="20260310204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>22. Spieltag in der Fußball-Oberliga: St. Georgen empfängt Partschins, beide Mannschaften sind nach einem verhaltenen Saisonauftakt gut in die Rückrunde gestartet und wollen sich mit einem Sieg im Tabellenmittelfeld bestätigen. In der Landesliga kommt es zum Etschtaler Derby Tscherms Marling gegen Lana, während Latsch in Gargazon zu Gast ist.</desc>
+  </programme>
+  <programme start="20260310221000 +0100" stop="20260310223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260311200000 +0100" stop="20260311202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260311202000 +0100" stop="20260311204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Ab dem 3. August ist Schluss mit der Papier-Identitätskarte: Künftig gilt nur noch die elektronische Version im Scheckkartenformat. Doch die neue Plastikkarte ist weit mehr als ein Ausweis - sie wird zum digitalen Schlüssel für zahlreiche Online-Dienste der Behörden. Was sie kann und was Bürgerinnen und Bürger jetzt wissen müssen, zeigen wir. 
+
+Schnäppchen geklickt - Geld weg. Rund 12 Prozent der Online-Käufe enden enttäuschend, weil es den Shop gar nicht gibt. Fake-Seiten locken mit günstigen Angeboten für Schmuck, Elektrogeräte oder Smartphones. Wie man Betrug erkennt und sich schützt, erklären die Expertinnen des Europäischen Verbraucherzentrums Bozen. 
+Plastik ist allgegenwärtig: doch bei der Entsorgung herrscht oft Unsicherheit. Was gehört wirklich in den Plastikmüll? Was in den Recyclinghof? Und wie problematisch ist Plastik im Restmüll? Wir bringen Klarheit. 
+In unserer Rubrik "Lebenswerte Orte in Südtirol" sind wir diesmal in Auer unterwegs.</desc>
+  </programme>
+  <programme start="20260311221000 +0100" stop="20260311223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260312200000 +0100" stop="20260312202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260312202000 +0100" stop="20260312204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Kunst-Formen</sub-title>
+    <desc>Wir haben uns auf die Suche nach Kunstformen gemacht und von Tortenkunst bis Körperkunst so einiges an Kunstfertigkeiten gefunden.  Was allen gemeinsam ist, ist die Leidenschaft, mit der Menschen ihrer Kreativität freien Lauf lassen.  
+
+Im Gespräch erzählt Brita Köhler, Verantwortliche für Besucherservice und Bildungsprojekte am Museion, was Kunst ist.  
+Bei "Südtirol Digital" gehen wir der Frage nach, wie Digitalisierung allen zugutekommen kann und wir werfen außerdem einen Blick zurück in das Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976.  
+In der Reihe "Wiedersehen zeigen wir einen Ausschnitt aus der Dokumentation "Der Körper als Kunstwerk". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260312221000 +0100" stop="20260312223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260313180000 +0100" stop="20260313182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Kunst-Formen</sub-title>
+    <desc>Wir haben uns auf die Suche nach Kunstformen gemacht und von Tortenkunst bis Körperkunst so einiges an Kunstfertigkeiten gefunden.  Was allen gemeinsam ist, ist die Leidenschaft, mit der Menschen ihrer Kreativität freien Lauf lassen.  
+Im Gespräch erzählt Brita Köhler, Verantwortliche für Besucherservice und Bildungsprojekte am Museion, was Kunst ist.  
+Bei "Südtirol Digital" gehen wir der Frage nach, wie Digitalisierung allen zugutekommen kann und wir werfen außerdem einen Blick zurück in das Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976.  
+In der Reihe "Wiedersehen zeigen wir einen Ausschnitt aus der Dokumentation "Der Körper als Kunstwerk". Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260313182900 +0100" stop="20260313185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Ab dem 3. August ist Schluss mit der Papier-Identitätskarte: Künftig gilt nur noch die elektronische Version im Scheckkartenformat. Doch die neue Plastikkarte ist weit mehr als ein Ausweis - sie wird zum digitalen Schlüssel für zahlreiche Online-Dienste der Behörden. Was sie kann und was Bürgerinnen und Bürger jetzt wissen müssen, zeigen wir. Schnäppchen geklickt - Geld weg. Rund 12 Prozent der Online-Käufe enden enttäuschend, weil es den Shop gar nicht gibt. Fake-Seiten locken mit günstigen Angeboten für Schmuck, Elektrogeräte oder Smartphones. Wie man Betrug erkennt und sich schützt, erklären die Expertinnen des Europäischen Verbraucherzentrums Bozen. 
+Plastik ist allgegenwärtig: doch bei der Entsorgung herrscht oft Unsicherheit. Was gehört wirklich in den Plastikmüll? Was in den Recyclinghof? Und wie problematisch ist Plastik im Restmüll? Wir bringen Klarheit. 
+In unserer Rubrik "Lebenswerte Orte in Südtirol" sind wir diesmal in Auer unterwegs.</desc>
+  </programme>
+  <programme start="20260313200000 +0100" stop="20260313202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260313202100 +0100" stop="20260313210900 +0100" channel="Rai Südtirol">
+    <title>Wein in Südtirol</title>
+    <sub-title>Die Geschichte eines Aufbruchs</sub-title>
+    <desc>Ab der zweiten Hälfte der 1980er-Jahre ist Südtirols Weinwirtschaft von Grund auf umgebaut und konsequent auf Qualität ausgerichtet worden. 
+
+Diese radikale Wende hat das Fundament für eine Entwicklung gelegt, die Südtirol nicht nur zur maßgebenden Weißweinregion in Italien gemacht hat, sondern auch Südtirols Weine zu international anerkannten Spitzenprodukten. Der Film zeigt auch, dass die Qualitätswende zwar von Visionären vorangetrieben wurde, letztlich aber nur dank einer gemeinschaftlichen Anstrengung der Südtiroler Weinwirtschaft zum Erfolg werden konnte. Neben den Pionieren kommt im Film auch die neue Generation zu Wort, die das Weinland Südtirol heute prägt.</desc>
+  </programme>
+  <programme start="20260313210900 +0100" stop="20260313213830 +0100" channel="Rai Südtirol">
+    <title>Entgleist</title>
+    <sub-title>Die Vinschgerbahn R-108</sub-title>
+    <desc>Der Dokumentarfilm stellt unbequeme Fragen zum schwersten Zugunglück in der Geschichte Südtirols, am 12. April 2010. Es zeigt das fragile Gleichgewicht zwischen Menschen, Technik und Natur. Kein Politiker spricht gern über eine Katastrophe auf jener Vinschger Bahnstrecke, die er einst als Meilenstein feiert. Kein Hinterbliebener über die Zugfahrt, auf der er seine Tochter verlor. Kein Richter über die Frage, die bleibt, wenn ein Verfahren eine unerwartete Wendung nimmt. Kein unschuldig Angeklagter über ein Kapitel, das nie hätte geschrieben werden müssen. Kein Überlebender über das Leben danach und keine Rettungskraft über die Bilder, die nie mehr verschwinden. Und doch brechen sie alle gemeinsam das Schweigen. Aus Verantwortung. Aus Erinnerung. Als Mahnung. Der Dokumentarfilm analysiert erstmals die politischen, juristischen und menschlichen Verflechtungen einer Tragödie und macht ihre Tragweite sichtbar. Das Unglück zeigt, wie fragil das Gleichgewicht zwischen Technik, Natur und Mensch in einer sensiblen, alpinen Kulturlandschaft ist. Ein Film von Michael Schweigkofler und Lisa Hintner über Verantwortung, Macht und Ohnmacht. Und über die Hoffnung, die bleibt.</desc>
+  </programme>
+  <programme start="20260313221000 +0100" stop="20260313223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260314180000 +0100" stop="20260314182930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Was bewegt wirtschaftliche Entscheidungen - und wer gestaltet die visuelle Sprache unserer Zeit? In Trend geht es um die Psychologie in Wirtschaft und Kreativität, die in digitalen Schrifttypen steckt.  
+Univ.-Prof. Erich Kirchler, aufgewachsen in Mühlen in Sand in Taufers, führte das Psychologiestudium an die Universität Wien, wo er über viele Jahre hinweg forschte und lehrte. Als Gastprofessor arbeitete er an mehreren europäischen Universitäten und ist heute Senior Fellow am Institut für höhere Studien sowie Mitglied der Akademie der Wissenschaften in Wien. In Trend erklärt Professor Kirchler, welche Rolle psychologische Erkenntnisse für wirtschaftspolitische Entscheidungen spielen: vom Geldmanagement in Haushalten, über finanzpsychologische Prozesse, bis hin zu den Unterschieden in der Steuermoral verschiedener Gesellschaften oder Phänomenen in unseren alltäglichen Kaufentscheidungen. 
+Anschließend lernen wir Franziska Weitgruber aus Latsch kennen. Sie ist eine international tätige Typografin und Grafikdesignerin. Nach ihrem Grafikdesign-Studium in St. Pölten absolvierte sie den Masterstudiengang an der Royal Academy of Art in Den Haag. Heute entwickelt sie eigene digitale Schriften und visuelle Konzepte, die sie als kommerzielle Font-Familien und Designlösungen vermarktet. Wie ein solcher kreativer Prozess bis zur digitalen Vermarktung vor sich geht und welche Chancen sich dadurch für Kreative eröffnen, zeigt Franziska Weitgruber im Co-Working-Space BASIS Vinschgau.</desc>
+  </programme>
+  <programme start="20260314182900 +0100" stop="20260314185830 +0100" channel="Rai Südtirol">
+    <title>Bergbauernpreis 2026</title>
+    <sub-title/>
+    <desc>Die heurigen Preisträger stammen aus dem Tauferer Ahrntal, dem Sarntal und aus Pfunders. Sie bewirtschaften ihre Höfe und Almen mustergültig, trotz harter Bedingungen. Ein Film von Christoph Wieser. 
+Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten.  
+Wir zeigen im Pustertal eine Bergbauernfamilie, die ihren Hof Schritt für Schritt weiterentwickelt, um auch in Zukunft von den Produkten des Hofes leben zu können.  Im Sarntal trotzen eine junge Bäuerin und ihre Familie dem schweren Schicktal. Sie bewirtschaften ihren Hof mit großem Einsatz mustergültig und haben klare Pläne für die Zukunft.  
+Der dritte Preisträger in Pfunders hat seinen Hof diversifiziert - mit Milch- und Holzwirtschaft, hofeigenen Produkten, einem Almausschank und Photovoltaik.</desc>
+  </programme>
+  <programme start="20260314200000 +0100" stop="20260314202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260314202100 +0100" stop="20260314202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260314202500 +0100" stop="20260314205430 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Der Flicktreff, das Recyclingprojekt "Rex - Material und Dinge", die Sinngebung nach Viktor Frankl und der Tennisprofi Ivan Tratter. Diese Sendung beschäftigt sich mit der Sinnhaftigkeit von Gegenständen, unseres Lebens, von unserem Tun. 
+
+In einer Zeit, in der die Umweltverschmutzung stetig zunimmt, sind Up-Cycling und Recycling-Projekte zu Hoffnungsträgern geworden. In der Nähwerkstatt im Kassianeum in Brixen treffen sich Begeisterte, um gemeinsam Löcher zu stopfen. 
+Im Rex in Brixen wird ebenfalls Gegenständen eine zweite Chance geschenkt: Es gibt hier fast alles außer Kleidung. Im April feiert das Projekt den 5. Geburtstag. 
+Vorhandenes kann neu betrachtet werden. Dieser Perspektivenwechsel ist ein Grundpfeiler der Philosophie Viktor Frankls. "Wie sich der Mensch zu einem unabänderlichen Schicksal einstellt, darauf kommt es an", sagt er. Die seit 33 Jahren in Meran lebende Coachin Elisabeth Hegenauer hat sich intensiv mit seiner Logotherapie und Existenzanalyse beschäftigt. 
+Moderatorin Claudia Schuler begrüßt diesmal als Gast einen jungen Menschen aus Jenesien, der nach einem lebensgefährlichen Rodelunfall im Jahr 2011 querschnittgelähmt ist. Ivan Tratter hat sich mit bemerkenswerter Willensstärke und hartem Training in die internationale Rollstuhltennis-Szene gespielt. Ohne Unfall wäre er -auch mental - niemals dort, wo er heute ist, sagt Tratter.</desc>
+  </programme>
+  <programme start="20260314221000 +0100" stop="20260314223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
