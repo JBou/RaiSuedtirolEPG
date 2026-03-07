@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260306180000 +0100" stop="20260306182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Vintage</sub-title>
-    <desc>Secondhand-Mode ist gefragt wie nie. Was aber macht die abgelegten Stücke für junge Menschen so attraktiv? Es moderiert Magdalena Oberstaller.   
-Während Vintage-Shopping früher bedeutete, sich durch teils muffige Läden zu wühlen, gibt es inzwischen angesagte Läden und Tauschmärkte. Der Imagewandel zeigt sich auch im neuen sprachlichen Gewand: Statt "aus zweiter Hand" ist nun häufig von "Preloved" oder "Vintage" die Rede. 
-Der Anbau und die Verarbeitung von Flachs stellt das Gegenteil der heutigen sogenannten "Fast Fashion", also der "schnellen Mode" dar. Wir haben dazu Bilder aus dem Amt für Film und Medien.  
-In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Reportage: Second Hand - aus zweiter Hand.</desc>
-  </programme>
-  <programme start="20260306182900 +0100" stop="20260306185830 +0100" channel="Rai Südtirol">
-    <title>SportArena</title>
-    <sub-title/>
-    <desc>Die Olympischen Winterspiele sind aus Südtiroler Sicht sehr erfolgreich beendet worden, jetzt beginnen die Paralympics. Emanuel Perathoner geht als großer Favorit ins Biathlon-Rennen, aber auch die Para-Eishockey-Mannschaft hat Medaillenchancen.</desc>
-  </programme>
-  <programme start="20260306200000 +0100" stop="20260306202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260306202100 +0100" stop="20260306212030 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Geräuschkulissen und Dachbesonderheiten - mit Magdalena Oberstaller auf der Spur des Lärms und wie wir besser damit umgehen können - mit Karin Duregger unter den Dächern von Glurns.    
-Magdalena Oberstaller und ihr Team begeben sich diesmal bewusst dorthin, wo es laut ist. An unterschiedlichen Orten, im Gespräch mit Menschen, die täglich von Geräuschen umgeben sind, erkunden sie die Klangkulissen unserer Zeit - und wie wir mit ihnen umgehen können. 
-Dort oben, wo die Balken knarren und die Zeit stillzustehen scheint, da verbergen sich Geschichten - dahin begibt sich Karin Duregger auf Spurensuche. Sie hört Geschichten von Menschen, die einst hier lebten und von jenen, die heute noch hier wirken. Sie macht sich auf die Suche – hinauf, wo die Vergangenheit noch atmet. Mit manchen Türöffnern ist sie verabredet, andere wird sie spontan antreffen.</desc>
-  </programme>
-  <programme start="20260306212000 +0100" stop="20260306214930 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen.entdecken.genießen</sub-title>
-    <desc>Der Knödel als Sinnbild für gelebte Genusskultur, eine Auszeichnung für den ehemaligen Gastwirt Helmuth Fink und für den Unternehmer Josef Gostner, zwei typische Eisacktaler Gerichte. 
-Wir zeigen, wie der Knödel bis heute Gastronomie und Tourismus prägt, und warum er nach wie vor im Zentrum der Südtiroler Genusslandschaft steht. 
-In Brixen treffen wir im Restaurant Fink auf den ehemaligen Gastwirt Helmuth Fink, einen Pionier der regionalen Küche, der vom Hoteliers- und Gastwirteverband für sein Lebenswerk ausgezeichnet wurde. Eine Würdigung für einen echten Vordenker, der die Südtiroler Gastronomie nachhaltig geprägt hat.  
-Ebenfalls ausgezeichnet wurde Josef Gostner, der den HGV-Stern für seine Verdienste um die Entwicklung des Flughafens Bozen erhielt. Auch ihn haben wir zum Gespräch getroffen und sprechen über Visionen, Vernetzung und die Bedeutung moderner Mobilität für den Tourismusstandort Südtirol. 
-Bodenständig, regional und eng mit der Landschaft verbunden: Die Küche des Eisacktals lebt von einfachen Zutaten, traditionellen Rezepten und echter Handwerkskunst. In dieser Ausgabe des Willkommen-Magazins stehen zwei Betriebe im Eisacktal im Mittelpunkt, die ein typisches Eisacktaler Gericht zubereiten und erzählen, was diese Küche ausmacht und warum sie bis heute Identität stiftet.</desc>
-  </programme>
-  <programme start="20260306215000 +0100" stop="20260306215909 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Rudolf Hartmann</sub-title>
-    <desc>Vom k.u.k. Hofspediteur zum modernen Logistikdienstleister. Der Firmengründer begann 1880, Umzüge wohlhabender Wiener nach Meran zu organisieren - auch heute noch werden Waren transportiert.  Im Laufe der Zeit wurde der Güteraustausch immer komplexer und aufwändiger. Die Güter wurden von den umliegenden Tälern und Ortschaften mit Pferdefuhrwerken zum Meraner Bahnhof gebracht und dort auf die Schiene verladen. 
-Auch in der vierten Generation ist das Unternehmen - seit 1999 mit Sitz in Sinich - der Schiene treu geblieben und koordiniert mit kombiniertem Transport auf Straße und Schiene die termingerechte Warenanlieferung beim Kunden.</desc>
-  </programme>
-  <programme start="20260306221000 +0100" stop="20260306223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260307180000 +0100" stop="20260307185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -282,6 +237,30 @@ Vorhandenes kann neu betrachtet werden. Dieser Perspektivenwechsel ist ein Grund
 Moderatorin Claudia Schuler begrüßt diesmal als Gast einen jungen Menschen aus Jenesien, der nach einem lebensgefährlichen Rodelunfall im Jahr 2011 querschnittgelähmt ist. Ivan Tratter hat sich mit bemerkenswerter Willensstärke und hartem Training in die internationale Rollstuhltennis-Szene gespielt. Ohne Unfall wäre er -auch mental - niemals dort, wo er heute ist, sagt Tratter.</desc>
   </programme>
   <programme start="20260314221000 +0100" stop="20260314223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260315200000 +0100" stop="20260315202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260315202100 +0100" stop="20260315204600 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Aktiv werden für die Allgemeinheit mit Ideen junger Menschen, die Herausforderungen beim Gründen eines Unternehmens und ein Einblick in die Technologische Fachoberschule in Bruneck. 
+
+Was passiert, wenn man jungen Menschen einfach Geld in die Hand gibt - und sagt: "Macht was daraus"? Die Weigh Station in Bozen hat genau dieses Experiment gewagt. Mit dem Projekt Tabula Rasa wurden sieben Ideen junger Menschen unterstützt. Zwei davon schauen wir uns genauer an: die mobilen Spieltische der Studentinnen Steffi und Leika - und die mobile Kitchen von Simon Wallis. Zwei unterschiedliche Projekte, die eines gemeinsam haben: Sie bringen Menschen zusammen. Zum Spielen, zum Reden, zum gemeinsamen Tun. 
+Die Gründung eines Unternehmens wird häufig mit Erfolgsgeschichten, Förderprogrammen und ausgefeilten Businessplänen verbunden. Doch der Weg dorthin ist selten geradlinig. Zwei Projekte - eine Fußball-App und eine Wein-App - zeigen, wie vielfältig Gründungswege sein können und wie Mentoring und Eigeninitiative dabei zusammenspielen. 
+In der Technologischen Fachoberschule in Bruneck erhalten wir spannende Einblicke in die Fachrichtung Maschinenbau, Mechatronik und Energie.</desc>
+  </programme>
+  <programme start="20260315204600 +0100" stop="20260315205000 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260315221000 +0100" stop="20260315223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
