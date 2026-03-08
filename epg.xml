@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260307180000 +0100" stop="20260307185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Geräuschkulissen und Dachbesonderheiten - mit Magdalena Oberstaller auf der Spur des Lärms und wie wir besser damit umgehen können - mit Karin Duregger unter den Dächern von Glurns. Magdalena Oberstaller und ihr Team begeben sich diesmal bewusst dorthin, wo es laut ist. An unterschiedlichen Orten, im Gespräch mit Menschen, die täglich von Geräuschen umgeben sind, erkunden sie die Klangkulissen unserer Zeit - und wie wir mit ihnen umgehen können. 
-Dort oben, wo die Balken knarren und die Zeit stillzustehen scheint, da verbergen sich Geschichten - dahin begibt sich Karin Duregger auf Spurensuche. Sie hört Geschichten von Menschen, die einst hier lebten und von jenen, die heute noch hier wirken. Sie macht sich auf die Suche – hinauf, wo die Vergangenheit noch atmet. Mit manchen Türöffnern ist sie verabredet, andere wird sie spontan antreffen.</desc>
-  </programme>
-  <programme start="20260307200000 +0100" stop="20260307202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260307202100 +0100" stop="20260307202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260307202500 +0100" stop="20260307205430 +0100" channel="Rai Südtirol">
-    <title>Bergbauernpreis 2026</title>
-    <sub-title/>
-    <desc>Die heurigen Preisträger stammen aus dem Tauferer Ahrntal, dem Sarntal und aus Pfunders. Sie bewirtschaften ihre Höfe und Almen mustergültig, trotz harter Bedingungen. Ein Film von Christoph Wieser. 
-
-Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten.  
-Wir zeigen im Pustertal eine Bergbauernfamilie, die ihren Hof Schritt für Schritt weiterentwickelt, um auch in Zukunft von den Produkten des Hofes leben zu können.  Im Sarntal trotzen eine junge Bäuerin und ihre Familie dem schweren Schicktal. Sie bewirtschaften ihren Hof mit großem Einsatz mustergültig und haben klare Pläne für die Zukunft.  
-Der dritte Preisträger in Pfunders hat seinen Hof diversifiziert - mit Milch- und Holzwirtschaft, hofeigenen Produkten, einem Almausschank und Photovoltaik.</desc>
-  </programme>
-  <programme start="20260307221000 +0100" stop="20260307223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260308200000 +0100" stop="20260308202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
