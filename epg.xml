@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260308200000 +0100" stop="20260308202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260308202000 +0100" stop="20260308204930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Wie machen wir die Welt für Frauen passend? Mobilität, Sicherheit? Die Filmemacherin und queere Aktivistin Martine De Biasi im Porträt. Gedanken zum Equal Care Day. Moderation: Martina Kreuzer. 
-
-Mit einer Historikerin sehen wir Stadt durch weibliche Augen. Eine Mobilitätsforscherin erklärt, warum Frauen dem Bus hinterherlaufen. Wir fragen eine Design-Professorin: Wie patriarchal sind die Dinge? Die Direktorin des Arbeitsinspektorats: Wie sieht Sicherheit für Frauen aus? Und zwei Unternehmerinnen suchen Verbündete: Girls wanted.  
-Im dF-Portrait - Martine De Biasi: Geschichte erzählen, Gemeinschaft schaffen, Vielfalt und ein Wir-Gefühl fördern: Das ist der rote Faden, der sich durch das Schaffen von Martine De Biasi zieht. Für das dF-Porträt führt uns die Filmemacherin, dokumentarische Erzählerin und queere Aktivistin an den Ort ihrer Kindheit zurück, gibt Einblick in aktuelle Projekte und verrät, wie frau lernen kann, glücklich anders zu sein.   
-In dF Info berichten wir über den "Sara-Weg" - ein Leitfaden für Unternehmen und Menschen von Judith Senoner und über den Equal Care Day, den Aktionstag, der auf die ungleiche Verteilung von Sorgearbeit aufmerksam macht.</desc>
-  </programme>
-  <programme start="20260308205000 +0100" stop="20260308205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260308221000 +0100" stop="20260308223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260309180000 +0100" stop="20260309181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
