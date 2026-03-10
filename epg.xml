@@ -4,54 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260309180000 +0100" stop="20260309181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>22. Spieltag in der Fußball-Oberliga: St. Georgen empfängt Partschins, beide Mannschaften sind nach einem verhaltenen Saisonauftakt gut in die Rückrunde gestartet und wollen sich mit einem Sieg im Tabellenmittelfeld bestätigen. In der Landesliga kommt es zum Etschtaler Derby Tscherms Marling gegen Lana, während Latsch in Gargazon zu Gast ist.</desc>
-  </programme>
-  <programme start="20260309181400 +0100" stop="20260309183300 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Karamela: Schuhplatteln in Terenten</sub-title>
-    <desc>Clownfrau Karamela trifft in Terenten auf begeisterte Schuhplattlerkinder. Den fröhlichen alpenländischen Volkstanz lernen die Kinder von ihren Vätern. Begleitet von einer Ziehharmonika macht es großen Spaß, im Kreis zu stampfen, zu klatschen und dem Vordermann spielerisch auf die Lederhose zu treten. Doch plötzlich verschwindet eine Lederhose! Ein Geist, der endlich seine Ruhe haben möchte, ist der Übeltäter - er hat genug von den Juchzern und dem lauten Gestampfe der Kinder. Ob die Kinder es schaffen, den Geist zu überreden, die Lederhose wieder zurückzugeben?</desc>
-  </programme>
-  <programme start="20260309183300 +0100" stop="20260309185730 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Laag</sub-title>
-    <desc>Laag im Unterland ist eine Fraktion von Neumarkt. Wir besuchen das Klösterle und die romanische Kirche in St.Florian, erfahren von einem besonderen Männerverein und erinnern an das Hochwasser von 1981.  
-Gemeinsam mit Herbert Rossi besuchen wir den Weiler St. Florian: Er führt uns zum ehemaligen Pilgerhospiz Klösterle, Raststation auf dem Weg nach Rom. Gleich daneben steht die romanische Kirche St. Florian, ein außergewöhnliches Kunstdenkmal, das ins 12. Jahrhundert datiert wird und zu den ältesten christlichen Sakralbauten Tirols zählt.  
-Laag ist außerdem mit einem großen Namen verbunden: Albrecht Dürer soll hier 1494 auf seiner Reise nach Venedig Station gemacht haben. Heute erinnern ein Dürer-Platz und der Dürerweg an diese Spur durch das Unterland und Richtung Cembratal.  
-Zwei Schwestern, die am Dorfbuch mitgewirkt haben, begleiten uns durch die Gassen von Laag und zeigen persönliche Erinnerungsorte. 
-Lebendig wird Tradition beim Männerverein "Uhr su la Wond": Entstanden 2010 aus dem Wunsch heraus, das Dorf zu beleben und Bräuche zu bewahren, zeigt der Verein seinen besonderen Brauch "Tratto Marzo" mit Liedern und Sprüchen, bei denen junge Leute augenzwinkernd zusammengebracht werden.  
-Ein Zeitzeuge erinnert an das Hochwasser von 1981, als nach extremen Regenfällen der Etschdamm südlich von Laag zerstört und das Unterland schwer getroffen wurde.  Dazu blicken wir auch auf die Arbeit der Feuerwehr.</desc>
-  </programme>
-  <programme start="20260309200000 +0100" stop="20260309202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260309202000 +0100" stop="20260309210423 +0100" channel="Rai Südtirol">
-    <title>Und plötzlich steht die Welt still</title>
-    <sub-title/>
-    <desc>"14-Jähriger stirbt bei Motorradunfall", "Hubschrauberabsturz fordert Tote" und „Familientragödie mit drei Toten“. Schlagzeilen wie diese lassen uns innehalten und werfen eine zentrale Frage auf: Wie geht es den Angehörigen, wenn ein geliebter Mensch von einem Moment auf den anderen aus dem Leben gerissen wird? 
-
-Dieser Frage gehen auch die Filmemacher Erich Grünbacher und Rudy Kaneider nach. Die Lehrerin Michaela Terzer hat ihren Sohn Julian durch einen Unfalltod verloren. Lange kämpft sie gegen den überwältigen Schmerz an, hadert mit ihrem Schicksal und mit ihrer Umwelt. Erst nach und nach gelingt es ihr, neue Kraft zu schöpfen und Schritt für Schritt in den Alltag zurückzufinden. Auch der Tod des 29-jährigen Heiner Oberrauch bei einem Hubschrauberabsturz in Kanada reißt eine tiefe Wunde. Für seinen Vater Georg, einen Bozner Unternehmer, ist der Verlust ein schwerer Schicksalsschlag. Halt und Trost findet er im christlichen Glauben. 
-Besonders tragisch ist das Schicksal von Christian Tschurtschenthaler aus Sexten. Bei einem Frontalzusammenstoß verliert er seine Frau Monika sowie die gemeinsamen Söhne Matthäus und Kassian. Nur Sohn Benedikt überlebt den Unfall. In der dunkelsten Zeit geben Vater und Sohn einander Halt. Heute sehen sie in den Verstorbenen Sterne, die sie begleiten - unsichtbar, aber stets gegenwärtig.</desc>
-  </programme>
-  <programme start="20260309210500 +0100" stop="20260309215000 +0100" channel="Rai Südtirol">
-    <title>Entdeckungen Südtirol</title>
-    <sub-title>Der Vinschgau</sub-title>
-    <desc>Ein faszinierendes Tal und seine Menschen im Jahreslauf. Wir beobachten eine Imkerin und ihre Bienen, die Entstehung einer hölzernen Wasserrinne, die Schafe bei der Transhumanz durch das Schnalstal. Wir erinnern uns an Robert Fliri. Der Erfinder der Zehenschuhe verunglückte im März 2025 tödlich. Außerdem besuchen wir einen Marmorbruch und erleben die Weiterverarbeitung im Werk in Laas. Am Schluss wird der Brauch des Scheibenschlagens gezeigt, der alljährlich zu Beginn der Fastenzeit stattfindet. Ein Film von Susanne Gebhardt.</desc>
-  </programme>
-  <programme start="20260309215000 +0100" stop="20260309220000 +0100" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Gretl und Josef Oberrauch</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260309221000 +0100" stop="20260309223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260310200000 +0100" stop="20260310202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
