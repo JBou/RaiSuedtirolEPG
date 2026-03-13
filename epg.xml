@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260312200000 +0100" stop="20260312202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260312202000 +0100" stop="20260312204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Kunst-Formen</sub-title>
-    <desc>Wir haben uns auf die Suche nach Kunstformen gemacht und von Tortenkunst bis Körperkunst so einiges an Kunstfertigkeiten gefunden.  Was allen gemeinsam ist, ist die Leidenschaft, mit der Menschen ihrer Kreativität freien Lauf lassen.  
-
-Im Gespräch erzählt Brita Köhler, Verantwortliche für Besucherservice und Bildungsprojekte am Museion, was Kunst ist.  
-Bei "Südtirol Digital" gehen wir der Frage nach, wie Digitalisierung allen zugutekommen kann und wir werfen außerdem einen Blick zurück in das Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976.  
-In der Reihe "Wiedersehen zeigen wir einen Ausschnitt aus der Dokumentation "Der Körper als Kunstwerk". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260312221000 +0100" stop="20260312223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260313180000 +0100" stop="20260313182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Kunst-Formen</sub-title>
@@ -120,6 +101,175 @@ In der Technologischen Fachoberschule in Bruneck erhalten wir spannende Einblick
     <desc/>
   </programme>
   <programme start="20260315221000 +0100" stop="20260315223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260316180000 +0100" stop="20260316181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 23. Spieltag in der Fußball-Oberliga steht der SSV Brixen zu Hause gegen St. Georgen mit dem Rücken zur Wand. Die Eisacktaler müssen unbedingt gewinnen, wenn sie den Klassenerhalt noch schaffen wollen. In der Landesliga ist der Tabellenzweite Naturns in Latsch zu Gast, während Stegen daheim Terlan empfängt.</desc>
+  </programme>
+  <programme start="20260316181400 +0100" stop="20260316183300 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Sportkids "Para-Eishockey"</sub-title>
+    <desc>Para-Eishockey gilt als die anspruchsvollste und schnellste aller Sportarten für Menschen mit körperlichen Behinderungen. Die einzige Kindermannschaft Italiens in dieser paralympischen Sportart trifft sich regelmäßig in Kaltern zum Training. Um sitzend im kleinen Metallschlitten auf zwei schmalen Kufen über das Eis zu flitzen, braucht es große Geschicklichkeit, Kraft, Ausdauer. Einziger Antrieb sind zwei abgeschnittene Hockeyschläger, die neben dem Anschubsen auch dazu benutzt werden, den Puck wie beim üblichen Eishockey ins Tor zu schießen. 
+Außerdem: Kochen kinderleicht "Zitronentörtchen". 
+In der Kinderkochsendung "Kochen kinderleicht" backen Hannah und Martina sommerliche Zitronentörtchen. Die Zitrone ist in der Küche ein Allroundtalent und wird wegen ihren sauren, aber auch sehr fruchtigen Aromen besonders gerne bei Süßspeisen verwendet. Den "blind" gebackenen Mürbteigboden füllen die Beiden mit einer Zitronen-Topfen Füllung, garniert mit Himbeeren.</desc>
+  </programme>
+  <programme start="20260316183300 +0100" stop="20260316185730 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Aktiv werden für die Allgemeinheit mit Ideen junger Menschen, die Herausforderungen beim Gründen eines Unternehmens und ein Einblick in die Technologische Fachoberschule in Bruneck. Was passiert, wenn man jungen Menschen einfach Geld in die Hand gibt - und sagt: "Macht was daraus"? Die Weigh Station in Bozen hat genau dieses Experiment gewagt. Mit dem Projekt Tabula Rasa wurden sieben Ideen junger Menschen unterstützt. Zwei davon schauen wir uns genauer an: die mobilen Spieltische der Studentinnen Steffi und Leika - und die mobile Kitchen von Simon Wallis. Zwei unterschiedliche Projekte, die eines gemeinsam haben: Sie bringen Menschen zusammen. Zum Spielen, zum Reden, zum gemeinsamen Tun. 
+Die Gründung eines Unternehmens wird häufig mit Erfolgsgeschichten, Förderprogrammen und ausgefeilten Businessplänen verbunden. Doch der Weg dorthin ist selten geradlinig. Zwei Projekte - eine Fußball-App und eine Wein-App - zeigen, wie vielfältig Gründungswege sein können und wie Mentoring und Eigeninitiative dabe zusammenspielen. 
+In der Technologischen Fachoberschule in Bruneck erhalten wir spannende Einblicke in die Fachrichtung Maschinenbau, Mechatronik und Energie.</desc>
+  </programme>
+  <programme start="20260316200000 +0100" stop="20260316202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260316202000 +0100" stop="20260316211900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhard und der Intendant des Festival Dolomites, Josef Feichter.  
+
+In den Filmen von Tizza Covi und Rainer Frimmel stehen Menschen am Rand der Gesellschaft im Mittelpunkt. In ihrem neuen Film, "The Loneliest Man in Town" rücken sie den Bluesmusiker Alois Koch alias Al Cook ins Zentrum. Er war ab den 1970er Jahren eine Berühmtheit zumindest in der Wiener Szene. Der Film feierte auf der Berlinale seine Premiere.  
+Im Pop-up-Podium der Vereinigten Bühnen Bozen werden aktuelle Themen außerhalb der gewohnten Theater-Umgebung hinterfragt. Anlässlich des Stückes "Die Nacht kurz vor den Wäldern" - des Monologes eines gesellschaftlichen Außenseiters - begibt sich das letzte Pop-up-Podium dieser Spielzeit ins Nachtlager Dormizil. 
+Die in Bozen geborene Kuratorin, Kunstvermittlerin, Forschende und Autorin Barbara Mahlknecht hat im Februar, gemeinsam mit Johannes Reisigl, die Geschäftsführung des Künstler:innenhauses Büchsenhausen übernommen.  
+Es begann hierzulande um die Jahrtausendwende als Ableger eines Theaterprojektes, das in den 1980ern in Lecco entstanden war. Das Teatro La Ribalta stellte Menschen mit und ohne Behinderung, mit unterschiedlichsten Fähigkeiten und Talenten ins Rampenlicht, um den Blick auf die Vielfalt von Sichtweisen, Weltdeutungen und Lebensformen zu lenken. 2013 wurde das "Teatro la Ribalta - Kunst der Vielfalt" in Bozen gegründet und ist aus der Theaterszene nicht mehr wegzudenken.  
+Die Fahlburg in Prissian wurde in den letzten Jahren umfassend renoviert. Christoph Gufler hat sich mit der Geschichte der Burg befasst, Leo Andergassen mit der baulichen Entwicklung und den kunstgeschichtlichen Aspekten. Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260316211900 +0100" stop="20260316215700 +0100" channel="Rai Südtirol">
+    <title>Musigzeit</title>
+    <sub-title>Simon Rabanser &amp;  Mac Maya</sub-title>
+    <desc>Die Musiker Simon Rabanser und Mac Maya (Markus Mayr) haben ihre Passion zum Hauptberuf gemacht und gehen mittlerweile musikalisch ihren ganz eigenen Weg.
+Sie geben sich nicht mit Live-Auftritten und ein paar Single-Produktionen zufrieden, sondern haben erkannt, dass das Musikbusiness in stetiger Veränderung ist, sich immer wieder weiterentwickelt. Mit diesen Trends gehen die beiden mit und positionieren sich im Musikmarkt
+und den sozialen Medien mit ihrem ganz individuellen Stil.</desc>
+  </programme>
+  <programme start="20260316221000 +0100" stop="20260316223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260317200000 +0100" stop="20260317202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260317202000 +0100" stop="20260317203500 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20260317203500 +0100" stop="20260317204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am 23. Spieltag in der Fußball-Oberliga steht der SSV Brixen zu Hause gegen St. Georgen mit dem Rücken zur Wand. Die Eisacktaler müssen unbedingt gewinnen, wenn sie den Klassenerhalt noch schaffen wollen. In der Landesliga ist der Tabellenzweite Naturns in Latsch zu Gast, während Stegen daheim Terlan empfängt.</desc>
+  </programme>
+  <programme start="20260317221000 +0100" stop="20260317223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260318200000 +0100" stop="20260318202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260318202000 +0100" stop="20260318204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Das Aostatal ist die kleinste Region Italiens, und zeichnet sich auch durch eine große sprachliche Vielfalt aus, die eine lange Geschichte hat. Minet war vor Ort, um sich auf die Spuren der frankoprovenzalischen Sprache zu begeben. Das Frankoprovenzalische ist dort zwar nicht Amtssprache, ist aber für viele Aostanerinnen und Aostaner die eigentliche Herzenssprache.   
+
+Der Iran liegt im Herzen des Nahen Ostens und ist eines der flächenmäßig größten Länder der Region, reich an Erdöl und Erdgas. Mit über 93 Millionen Einwohnern ist es ein stark urbanisiertes Land. Doch das Land befindet sich im Ausnahmezustand. Minet hat einige der in Südtirol lebenden Iraner und Iranerinnen getroffen und mit ihnen über ihr Land gesprochen.  
+Zu Gast im Minet-Gespräch ist der Sprachwissenschaftler Paul Videsott, der den neuen Band des Europäischen Journals für Minderheitenfragen vorstellt.  
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Völker zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe hören wir anlässlich des Weltfrauentages am 8. März den indigenen Frauen zu: Sie sind entschlossen und sie leisten Widerstand! 
+Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260318221000 +0100" stop="20260318223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260319200000 +0100" stop="20260319202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260319202000 +0100" stop="20260319204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Modernes Mäzenatentum</sub-title>
+    <desc>Modernes Mäzenatentum bezeichnet die diskrete, private Förderung von Kunst, Kultur und sozialen Projekten, ohne direkte Gegenleistung. Ziel ist gesellschaftliche Teilhabe, kulturelle Entwicklung und Förderung zeitgenössischer Kunst.  Zu Gast ist der Historiker Hannes Obermair.  
+Unsere Redakteurin Daniela Thaler wird für 9 Monate nach und durch Kanada reisen und uns auf ihrem persönlichen Roadtrip quer durch Kanada von der Westküste bis zum Atlantik mitnehmen und uns auf Unterschiede und Gemeinsamkeiten zu Südtirol und die Erfahrungen, die daraus entstehen, aufmerksam machen. In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Dokumentation "30 Jahre Förderpreis Futura". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260319221000 +0100" stop="20260319223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260320180000 +0100" stop="20260320182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Modernes Mäzenatentum</sub-title>
+    <desc>Modernes Mäzenatentum bezeichnet die diskrete, private Förderung von Kunst, Kultur und sozialen Projekten, ohne direkte Gegenleistung. Ziel ist gesellschaftliche Teilhabe, kulturelle Entwicklung und Förderung zeitgenössischer Kunst. Zu Gast ist der Historiker Hannes Obermair.  Unsere Redakteurin Daniela Thaler wird für 9 Monate nach und durch Kanada reisen und uns auf ihrem persönlichen Roadtrip quer durch Kanada von der Westküste bis zum Atlantik mitnehmen und uns auf Unterschiede und Gemeinsamkeiten zu Südtirol und die Erfahrungen, die daraus entstehen, aufmerksam machen. In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Dokumentation "30 Jahre Förderpreis Futura". Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260320182900 +0100" stop="20260320185830 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Der Flicktreff, das Recyclingprojekt "Rex - Material und Dinge", die Sinngebung nach Viktor Frankl und der Tennisprofi Ivan Tratter. Diese Sendung beschäftigt sich mit der Sinnhaftigkeit von Gegenständen, unseres Lebens, von unserem Tun. 
+In einer Zeit, in der die Umweltverschmutzung stetig zunimmt, sind Up-Cycling und Recycling-Projekte zu Hoffnungsträgern geworden. In der Nähwerkstatt im Kassianeum in Brixen treffen sich Begeisterte, um gemeinsam Löcher zu stopfen. 
+Im Rex in Brixen wird ebenfalls Gegenständen eine zweite Chance geschenkt: Es gibt hier fast alles außer Kleidung. Im April feiert das Projekt den 5. Geburtstag. 
+Vorhandenes kann neu betrachtet werden. Dieser Perspektivenwechsel ist ein Grundpfeiler der Philosophie Viktor Frankls. "Wie sich der Mensch zu einem unabänderlichen Schicksal einstellt, darauf kommt es an", sagt er. Die seit 33 Jahren in Meran lebende Coachin Elisabeth Hegenauer hat sich intensiv mit seiner Logotherapie und Existenzanalyse beschäftigt. 
+Moderatorin Claudia Schuler begrüßt diesmal als Gast einen jungen Menschen aus Jenesien, der nach einem lebensgefährlichen Rodelunfall im Jahr 2011 querschnittgelähmt ist. Ivan Tratter hat sich mit bemerkenswerter Willensstärke und hartem Training in die internationale Rollstuhltennis-Szene gespielt. Ohne Unfall wäre er -auch mental - niemals dort, wo er heute ist, sagt Tratter.</desc>
+  </programme>
+  <programme start="20260320200000 +0100" stop="20260320202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260320202000 +0100" stop="20260320210727 +0100" channel="Rai Südtirol">
+    <title>Fischerei in Südtirol</title>
+    <sub-title>Ein Hobby mit Mehrwert</sub-title>
+    <desc>Das Fischen ist eine Freizeitaktivität, die Ruhe und Entspannung inmitten der Natur verschafft, egal zu welcher Altersklasse man gehört. 
+
+Ob alleine oder in der Gruppe, an einem Fluss, einem Gebirgsbach oder See, die Südtiroler Fischer:innen gehen ihrem Hobby mit Leidenschaft nach. Daneben setzten sie sich aber auch für den Schutz der heimischen Fischbestände ein und haben ein Auge auf diverse Problematiken, zum Beispiel die Gefährdung der Fische durch Prädatoren wie den Kormoran oder die hydroelektrische Nutzung der Gewässer.</desc>
+  </programme>
+  <programme start="20260320210700 +0100" stop="20260320215903 +0100" channel="Rai Südtirol">
+    <title>Über Südtirol</title>
+    <sub-title>Juwelen des Landes</sub-title>
+    <desc>Diese filmische Erzählung aus der Vogelperspektive präsentiert eine umfassende Reihe von Orten und Gegenden aus Südtirol: Die Churburg, die Drei Zinnen, Glurns, der Kirchturm im Reschensee, das Kloster Säben, Meran, der Naturpark Fanes Sennes Prags, die Oberbozner Erdpyramiden, der Ortler mit der Payer Hütte, den Rosengarten, die Seiser Alm, die Spronser Seen und das Villnößtal mit der Kirche St. Johann in Ranui und viele mehr.</desc>
+  </programme>
+  <programme start="20260320221000 +0100" stop="20260320223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260321180000 +0100" stop="20260321185830 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhard und der Intendant des Festival Dolomites, Josef Feichter.
+In den Filmen von Tizza Covi und Rainer Frimmel stehen Menschen am Rand der Gesellschaft im Mittelpunkt. In ihrem neuen Film, "The Loneliest Man in Town" rücken sie den Bluesmusiker Alois Koch alias Al Cook ins Zentrum. Er war ab den 1970er Jahren eine Berühmtheit zumindest in der Wiener Szene. Der Film feierte auf der Berlinale seine Premiere. Im Pop-up-Podium der Vereinigten Bühnen Bozen werden aktuelle Themen außerhalb der gewohnten Theater-Umgebung hinterfragt. Anlässlich des Stückes "Die Nacht kurz vor den Wäldern" - des Monologes eines gesellschaftlichen Außenseiters - begibt sich das letzte Pop-up-Podium dieser Spielzeit ins Nachtlager Dormizil. Die in Bozen geborene Kuratorin, Kunstvermittlerin, Forschende und Autorin Barbara Mahlknecht hat im Februar, gemeinsam mit Johannes Reisigl, die Geschäftsführung des Künstler:innenhauses Büchsenhausen übernommen. Es begann hierzulande um die Jahrtausendwende als Ableger eines Theaterprojektes, das in den 1980ern in Lecco entstanden war. Das Teatro La Ribalta stellte Menschen mit und ohne Behinderung, mit unterschiedlichsten Fähigkeiten und Talenten ins Rampenlicht, um den Blick auf die Vielfalt von Sichtweisen, Weltdeutungen und Lebensformen zu lenken. 2013 wurde das "Teatro la Ribalta - Kunst der Vielfalt" in Bozen gegründet und ist aus der Theaterszene nicht mehr wegzudenken. Die Fahlburg in Prissian wurde in den letzten Jahren umfassend renoviert. Christoph Gufler hat sich mit der Geschichte der Burg befasst, Leo Andergassen mit der baulichen Entwicklung und den kunstgeschichtlichen Aspekten. Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260321200000 +0100" stop="20260321202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260321202100 +0100" stop="20260321202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260321202500 +0100" stop="20260321205430 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Das Gehirn</sub-title>
+    <desc>Die Trigeminusneuralgie ist eine der stärksten bekannten Schmerzformen. Betroffene erleben plötzlich einschießende, extreme Gesichtsschmerzen. 
+
+Wir zeigen, wie die Erkrankung entsteht, welche Behandlungsmöglichkeiten es gibt und wie Patientinnen und Patienten lernen, mit der Krankheit zu leben. 
+Was passiert im Gehirn von Menschen im Autismus-Spektrum? Eine persönliche Geschichte gibt Einblicke in Wahrnehmung, Kommunikation und die Vielfalt des Spektrums - und zeigt, wie wichtig Verständnis und individuelle Unterstützung sind. 
+Und wir blicken in die Zukunft der Medizin: Am Institut für Biomedizin wird an Organoiden geforscht - winzigen, im Labor gezüchteten Gehirnmodellen. Diese könnten helfen, neue Therapien für Parkinson zu entwickeln und die Krankheit besser zu verstehen.</desc>
+  </programme>
+  <programme start="20260321221000 +0100" stop="20260321223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
