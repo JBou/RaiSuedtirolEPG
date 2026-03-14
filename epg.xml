@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260313180000 +0100" stop="20260313182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Kunst-Formen</sub-title>
-    <desc>Wir haben uns auf die Suche nach Kunstformen gemacht und von Tortenkunst bis Körperkunst so einiges an Kunstfertigkeiten gefunden.  Was allen gemeinsam ist, ist die Leidenschaft, mit der Menschen ihrer Kreativität freien Lauf lassen.  
-Im Gespräch erzählt Brita Köhler, Verantwortliche für Besucherservice und Bildungsprojekte am Museion, was Kunst ist.  
-Bei "Südtirol Digital" gehen wir der Frage nach, wie Digitalisierung allen zugutekommen kann und wir werfen außerdem einen Blick zurück in das Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976.  
-In der Reihe "Wiedersehen zeigen wir einen Ausschnitt aus der Dokumentation "Der Körper als Kunstwerk". Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260313182900 +0100" stop="20260313185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Ab dem 3. August ist Schluss mit der Papier-Identitätskarte: Künftig gilt nur noch die elektronische Version im Scheckkartenformat. Doch die neue Plastikkarte ist weit mehr als ein Ausweis - sie wird zum digitalen Schlüssel für zahlreiche Online-Dienste der Behörden. Was sie kann und was Bürgerinnen und Bürger jetzt wissen müssen, zeigen wir. Schnäppchen geklickt - Geld weg. Rund 12 Prozent der Online-Käufe enden enttäuschend, weil es den Shop gar nicht gibt. Fake-Seiten locken mit günstigen Angeboten für Schmuck, Elektrogeräte oder Smartphones. Wie man Betrug erkennt und sich schützt, erklären die Expertinnen des Europäischen Verbraucherzentrums Bozen. 
-Plastik ist allgegenwärtig: doch bei der Entsorgung herrscht oft Unsicherheit. Was gehört wirklich in den Plastikmüll? Was in den Recyclinghof? Und wie problematisch ist Plastik im Restmüll? Wir bringen Klarheit. 
-In unserer Rubrik "Lebenswerte Orte in Südtirol" sind wir diesmal in Auer unterwegs.</desc>
-  </programme>
-  <programme start="20260313200000 +0100" stop="20260313202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260313202100 +0100" stop="20260313210900 +0100" channel="Rai Südtirol">
-    <title>Wein in Südtirol</title>
-    <sub-title>Die Geschichte eines Aufbruchs</sub-title>
-    <desc>Ab der zweiten Hälfte der 1980er-Jahre ist Südtirols Weinwirtschaft von Grund auf umgebaut und konsequent auf Qualität ausgerichtet worden. 
-
-Diese radikale Wende hat das Fundament für eine Entwicklung gelegt, die Südtirol nicht nur zur maßgebenden Weißweinregion in Italien gemacht hat, sondern auch Südtirols Weine zu international anerkannten Spitzenprodukten. Der Film zeigt auch, dass die Qualitätswende zwar von Visionären vorangetrieben wurde, letztlich aber nur dank einer gemeinschaftlichen Anstrengung der Südtiroler Weinwirtschaft zum Erfolg werden konnte. Neben den Pionieren kommt im Film auch die neue Generation zu Wort, die das Weinland Südtirol heute prägt.</desc>
-  </programme>
-  <programme start="20260313210900 +0100" stop="20260313213830 +0100" channel="Rai Südtirol">
-    <title>Entgleist</title>
-    <sub-title>Die Vinschgerbahn R-108</sub-title>
-    <desc>Der Dokumentarfilm stellt unbequeme Fragen zum schwersten Zugunglück in der Geschichte Südtirols, am 12. April 2010. Es zeigt das fragile Gleichgewicht zwischen Menschen, Technik und Natur. Kein Politiker spricht gern über eine Katastrophe auf jener Vinschger Bahnstrecke, die er einst als Meilenstein feiert. Kein Hinterbliebener über die Zugfahrt, auf der er seine Tochter verlor. Kein Richter über die Frage, die bleibt, wenn ein Verfahren eine unerwartete Wendung nimmt. Kein unschuldig Angeklagter über ein Kapitel, das nie hätte geschrieben werden müssen. Kein Überlebender über das Leben danach und keine Rettungskraft über die Bilder, die nie mehr verschwinden. Und doch brechen sie alle gemeinsam das Schweigen. Aus Verantwortung. Aus Erinnerung. Als Mahnung. Der Dokumentarfilm analysiert erstmals die politischen, juristischen und menschlichen Verflechtungen einer Tragödie und macht ihre Tragweite sichtbar. Das Unglück zeigt, wie fragil das Gleichgewicht zwischen Technik, Natur und Mensch in einer sensiblen, alpinen Kulturlandschaft ist. Ein Film von Michael Schweigkofler und Lisa Hintner über Verantwortung, Macht und Ohnmacht. Und über die Hoffnung, die bleibt.</desc>
-  </programme>
-  <programme start="20260313221000 +0100" stop="20260313223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260314180000 +0100" stop="20260314182930 +0100" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -270,6 +233,28 @@ Was passiert im Gehirn von Menschen im Autismus-Spektrum? Eine persönliche Gesc
 Und wir blicken in die Zukunft der Medizin: Am Institut für Biomedizin wird an Organoiden geforscht - winzigen, im Labor gezüchteten Gehirnmodellen. Diese könnten helfen, neue Therapien für Parkinson zu entwickeln und die Krankheit besser zu verstehen.</desc>
   </programme>
   <programme start="20260321221000 +0100" stop="20260321223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260322200000 +0100" stop="20260322202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260322202100 +0100" stop="20260322205030 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Inga Hosp</sub-title>
+    <desc>Zu Gast ist die Publizistin, Autorin und Kulturvermittlerin Inga Hosp. Die in München geborene Germanistin lebt seit über fünf Jahrzehnten am Ritten und gehört zu den profilierten Stimmen des kulturellen Lebens in Südtirol. 
+
+Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus und Kulturarbeit zurück. Schon während ihres Studiums arbeitete sie für den Bayerischen Rundfunk und war später als freie Journalistin für BR, ORF und Rai Südtirol tätig. Bekannt ist sie auch als Mitbegründerin der Rittner Sommerspiele sowie als Mitinitiatorin des internationalen Lyrikpreises Meran. Markus Frings spricht mit ihr über ihre Arbeit als Autorin, ihre Verbundenheit mit Südtirol und das gemeinsame Engagement mit ihrem 2023 verstorbenen Mann, dem früheren Landesrat Bruno Hosp.</desc>
+  </programme>
+  <programme start="20260322205000 +0100" stop="20260322205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260322221000 +0100" stop="20260322223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
