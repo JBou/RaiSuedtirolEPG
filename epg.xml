@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260314180000 +0100" stop="20260314182930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Was bewegt wirtschaftliche Entscheidungen - und wer gestaltet die visuelle Sprache unserer Zeit? In Trend geht es um die Psychologie in Wirtschaft und Kreativität, die in digitalen Schrifttypen steckt.  
-Univ.-Prof. Erich Kirchler, aufgewachsen in Mühlen in Sand in Taufers, führte das Psychologiestudium an die Universität Wien, wo er über viele Jahre hinweg forschte und lehrte. Als Gastprofessor arbeitete er an mehreren europäischen Universitäten und ist heute Senior Fellow am Institut für höhere Studien sowie Mitglied der Akademie der Wissenschaften in Wien. In Trend erklärt Professor Kirchler, welche Rolle psychologische Erkenntnisse für wirtschaftspolitische Entscheidungen spielen: vom Geldmanagement in Haushalten, über finanzpsychologische Prozesse, bis hin zu den Unterschieden in der Steuermoral verschiedener Gesellschaften oder Phänomenen in unseren alltäglichen Kaufentscheidungen. 
-Anschließend lernen wir Franziska Weitgruber aus Latsch kennen. Sie ist eine international tätige Typografin und Grafikdesignerin. Nach ihrem Grafikdesign-Studium in St. Pölten absolvierte sie den Masterstudiengang an der Royal Academy of Art in Den Haag. Heute entwickelt sie eigene digitale Schriften und visuelle Konzepte, die sie als kommerzielle Font-Familien und Designlösungen vermarktet. Wie ein solcher kreativer Prozess bis zur digitalen Vermarktung vor sich geht und welche Chancen sich dadurch für Kreative eröffnen, zeigt Franziska Weitgruber im Co-Working-Space BASIS Vinschgau.</desc>
-  </programme>
-  <programme start="20260314182900 +0100" stop="20260314185830 +0100" channel="Rai Südtirol">
-    <title>Bergbauernpreis 2026</title>
-    <sub-title/>
-    <desc>Die heurigen Preisträger stammen aus dem Tauferer Ahrntal, dem Sarntal und aus Pfunders. Sie bewirtschaften ihre Höfe und Almen mustergültig, trotz harter Bedingungen. Ein Film von Christoph Wieser. 
-Stellvertretend für die vielen Bergbauernfamilien im Lande vergeben der Südtiroler Bauernbund und die Raiffeisenkassen Südtirols alljährlich den Bergbauernpreis. Es ist eine Anerkennung für besondere Menschen, die Außergewöhnliches leisten.  
-Wir zeigen im Pustertal eine Bergbauernfamilie, die ihren Hof Schritt für Schritt weiterentwickelt, um auch in Zukunft von den Produkten des Hofes leben zu können.  Im Sarntal trotzen eine junge Bäuerin und ihre Familie dem schweren Schicktal. Sie bewirtschaften ihren Hof mit großem Einsatz mustergültig und haben klare Pläne für die Zukunft.  
-Der dritte Preisträger in Pfunders hat seinen Hof diversifiziert - mit Milch- und Holzwirtschaft, hofeigenen Produkten, einem Almausschank und Photovoltaik.</desc>
-  </programme>
-  <programme start="20260314200000 +0100" stop="20260314202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260314202100 +0100" stop="20260314202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260314202500 +0100" stop="20260314205430 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Der Flicktreff, das Recyclingprojekt "Rex - Material und Dinge", die Sinngebung nach Viktor Frankl und der Tennisprofi Ivan Tratter. Diese Sendung beschäftigt sich mit der Sinnhaftigkeit von Gegenständen, unseres Lebens, von unserem Tun. 
-
-In einer Zeit, in der die Umweltverschmutzung stetig zunimmt, sind Up-Cycling und Recycling-Projekte zu Hoffnungsträgern geworden. In der Nähwerkstatt im Kassianeum in Brixen treffen sich Begeisterte, um gemeinsam Löcher zu stopfen. 
-Im Rex in Brixen wird ebenfalls Gegenständen eine zweite Chance geschenkt: Es gibt hier fast alles außer Kleidung. Im April feiert das Projekt den 5. Geburtstag. 
-Vorhandenes kann neu betrachtet werden. Dieser Perspektivenwechsel ist ein Grundpfeiler der Philosophie Viktor Frankls. "Wie sich der Mensch zu einem unabänderlichen Schicksal einstellt, darauf kommt es an", sagt er. Die seit 33 Jahren in Meran lebende Coachin Elisabeth Hegenauer hat sich intensiv mit seiner Logotherapie und Existenzanalyse beschäftigt. 
-Moderatorin Claudia Schuler begrüßt diesmal als Gast einen jungen Menschen aus Jenesien, der nach einem lebensgefährlichen Rodelunfall im Jahr 2011 querschnittgelähmt ist. Ivan Tratter hat sich mit bemerkenswerter Willensstärke und hartem Training in die internationale Rollstuhltennis-Szene gespielt. Ohne Unfall wäre er -auch mental - niemals dort, wo er heute ist, sagt Tratter.</desc>
-  </programme>
-  <programme start="20260314221000 +0100" stop="20260314223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260315200000 +0100" stop="20260315202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
