@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260315200000 +0100" stop="20260315202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260315202100 +0100" stop="20260315204600 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Aktiv werden für die Allgemeinheit mit Ideen junger Menschen, die Herausforderungen beim Gründen eines Unternehmens und ein Einblick in die Technologische Fachoberschule in Bruneck. 
-
-Was passiert, wenn man jungen Menschen einfach Geld in die Hand gibt - und sagt: "Macht was daraus"? Die Weigh Station in Bozen hat genau dieses Experiment gewagt. Mit dem Projekt Tabula Rasa wurden sieben Ideen junger Menschen unterstützt. Zwei davon schauen wir uns genauer an: die mobilen Spieltische der Studentinnen Steffi und Leika - und die mobile Kitchen von Simon Wallis. Zwei unterschiedliche Projekte, die eines gemeinsam haben: Sie bringen Menschen zusammen. Zum Spielen, zum Reden, zum gemeinsamen Tun. 
-Die Gründung eines Unternehmens wird häufig mit Erfolgsgeschichten, Förderprogrammen und ausgefeilten Businessplänen verbunden. Doch der Weg dorthin ist selten geradlinig. Zwei Projekte - eine Fußball-App und eine Wein-App - zeigen, wie vielfältig Gründungswege sein können und wie Mentoring und Eigeninitiative dabei zusammenspielen. 
-In der Technologischen Fachoberschule in Bruneck erhalten wir spannende Einblicke in die Fachrichtung Maschinenbau, Mechatronik und Energie.</desc>
-  </programme>
-  <programme start="20260315204600 +0100" stop="20260315205000 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260315221000 +0100" stop="20260315223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260316180000 +0100" stop="20260316181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
