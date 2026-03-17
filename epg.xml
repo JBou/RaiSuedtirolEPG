@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260316180000 +0100" stop="20260316181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 23. Spieltag in der Fußball-Oberliga steht der SSV Brixen zu Hause gegen St. Georgen mit dem Rücken zur Wand. Die Eisacktaler müssen unbedingt gewinnen, wenn sie den Klassenerhalt noch schaffen wollen. In der Landesliga ist der Tabellenzweite Naturns in Latsch zu Gast, während Stegen daheim Terlan empfängt.</desc>
-  </programme>
-  <programme start="20260316181400 +0100" stop="20260316183300 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Sportkids "Para-Eishockey"</sub-title>
-    <desc>Para-Eishockey gilt als die anspruchsvollste und schnellste aller Sportarten für Menschen mit körperlichen Behinderungen. Die einzige Kindermannschaft Italiens in dieser paralympischen Sportart trifft sich regelmäßig in Kaltern zum Training. Um sitzend im kleinen Metallschlitten auf zwei schmalen Kufen über das Eis zu flitzen, braucht es große Geschicklichkeit, Kraft, Ausdauer. Einziger Antrieb sind zwei abgeschnittene Hockeyschläger, die neben dem Anschubsen auch dazu benutzt werden, den Puck wie beim üblichen Eishockey ins Tor zu schießen. 
-Außerdem: Kochen kinderleicht "Zitronentörtchen". 
-In der Kinderkochsendung "Kochen kinderleicht" backen Hannah und Martina sommerliche Zitronentörtchen. Die Zitrone ist in der Küche ein Allroundtalent und wird wegen ihren sauren, aber auch sehr fruchtigen Aromen besonders gerne bei Süßspeisen verwendet. Den "blind" gebackenen Mürbteigboden füllen die Beiden mit einer Zitronen-Topfen Füllung, garniert mit Himbeeren.</desc>
-  </programme>
-  <programme start="20260316183300 +0100" stop="20260316185730 +0100" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Aktiv werden für die Allgemeinheit mit Ideen junger Menschen, die Herausforderungen beim Gründen eines Unternehmens und ein Einblick in die Technologische Fachoberschule in Bruneck. Was passiert, wenn man jungen Menschen einfach Geld in die Hand gibt - und sagt: "Macht was daraus"? Die Weigh Station in Bozen hat genau dieses Experiment gewagt. Mit dem Projekt Tabula Rasa wurden sieben Ideen junger Menschen unterstützt. Zwei davon schauen wir uns genauer an: die mobilen Spieltische der Studentinnen Steffi und Leika - und die mobile Kitchen von Simon Wallis. Zwei unterschiedliche Projekte, die eines gemeinsam haben: Sie bringen Menschen zusammen. Zum Spielen, zum Reden, zum gemeinsamen Tun. 
-Die Gründung eines Unternehmens wird häufig mit Erfolgsgeschichten, Förderprogrammen und ausgefeilten Businessplänen verbunden. Doch der Weg dorthin ist selten geradlinig. Zwei Projekte - eine Fußball-App und eine Wein-App - zeigen, wie vielfältig Gründungswege sein können und wie Mentoring und Eigeninitiative dabe zusammenspielen. 
-In der Technologischen Fachoberschule in Bruneck erhalten wir spannende Einblicke in die Fachrichtung Maschinenbau, Mechatronik und Energie.</desc>
-  </programme>
-  <programme start="20260316200000 +0100" stop="20260316202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260316202000 +0100" stop="20260316211900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhard und der Intendant des Festival Dolomites, Josef Feichter.  
-
-In den Filmen von Tizza Covi und Rainer Frimmel stehen Menschen am Rand der Gesellschaft im Mittelpunkt. In ihrem neuen Film, "The Loneliest Man in Town" rücken sie den Bluesmusiker Alois Koch alias Al Cook ins Zentrum. Er war ab den 1970er Jahren eine Berühmtheit zumindest in der Wiener Szene. Der Film feierte auf der Berlinale seine Premiere.  
-Im Pop-up-Podium der Vereinigten Bühnen Bozen werden aktuelle Themen außerhalb der gewohnten Theater-Umgebung hinterfragt. Anlässlich des Stückes "Die Nacht kurz vor den Wäldern" - des Monologes eines gesellschaftlichen Außenseiters - begibt sich das letzte Pop-up-Podium dieser Spielzeit ins Nachtlager Dormizil. 
-Die in Bozen geborene Kuratorin, Kunstvermittlerin, Forschende und Autorin Barbara Mahlknecht hat im Februar, gemeinsam mit Johannes Reisigl, die Geschäftsführung des Künstler:innenhauses Büchsenhausen übernommen.  
-Es begann hierzulande um die Jahrtausendwende als Ableger eines Theaterprojektes, das in den 1980ern in Lecco entstanden war. Das Teatro La Ribalta stellte Menschen mit und ohne Behinderung, mit unterschiedlichsten Fähigkeiten und Talenten ins Rampenlicht, um den Blick auf die Vielfalt von Sichtweisen, Weltdeutungen und Lebensformen zu lenken. 2013 wurde das "Teatro la Ribalta - Kunst der Vielfalt" in Bozen gegründet und ist aus der Theaterszene nicht mehr wegzudenken.  
-Die Fahlburg in Prissian wurde in den letzten Jahren umfassend renoviert. Christoph Gufler hat sich mit der Geschichte der Burg befasst, Leo Andergassen mit der baulichen Entwicklung und den kunstgeschichtlichen Aspekten. Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20260316211900 +0100" stop="20260316215700 +0100" channel="Rai Südtirol">
-    <title>Musigzeit</title>
-    <sub-title>Simon Rabanser &amp;  Mac Maya</sub-title>
-    <desc>Die Musiker Simon Rabanser und Mac Maya (Markus Mayr) haben ihre Passion zum Hauptberuf gemacht und gehen mittlerweile musikalisch ihren ganz eigenen Weg.
-Sie geben sich nicht mit Live-Auftritten und ein paar Single-Produktionen zufrieden, sondern haben erkannt, dass das Musikbusiness in stetiger Veränderung ist, sich immer wieder weiterentwickelt. Mit diesen Trends gehen die beiden mit und positionieren sich im Musikmarkt
-und den sozialen Medien mit ihrem ganz individuellen Stil.</desc>
-  </programme>
-  <programme start="20260316221000 +0100" stop="20260316223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260317200000 +0100" stop="20260317202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
