@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260317200000 +0100" stop="20260317202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260317202000 +0100" stop="20260317203500 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
-  </programme>
-  <programme start="20260317203500 +0100" stop="20260317204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am 23. Spieltag in der Fußball-Oberliga steht der SSV Brixen zu Hause gegen St. Georgen mit dem Rücken zur Wand. Die Eisacktaler müssen unbedingt gewinnen, wenn sie den Klassenerhalt noch schaffen wollen. In der Landesliga ist der Tabellenzweite Naturns in Latsch zu Gast, während Stegen daheim Terlan empfängt.</desc>
-  </programme>
-  <programme start="20260317221000 +0100" stop="20260317223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260318200000 +0100" stop="20260318202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -99,7 +79,7 @@ Ob alleine oder in der Gruppe, an einem Fluss, einem Gebirgsbach oder See, die S
   <programme start="20260321180000 +0100" stop="20260321185830 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhard und der Intendant des Festival Dolomites, Josef Feichter.
+    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhart und der Intendant des Festival Dolomites, Josef Feichter.
 In den Filmen von Tizza Covi und Rainer Frimmel stehen Menschen am Rand der Gesellschaft im Mittelpunkt. In ihrem neuen Film, "The Loneliest Man in Town" rücken sie den Bluesmusiker Alois Koch alias Al Cook ins Zentrum. Er war ab den 1970er Jahren eine Berühmtheit zumindest in der Wiener Szene. Der Film feierte auf der Berlinale seine Premiere. Im Pop-up-Podium der Vereinigten Bühnen Bozen werden aktuelle Themen außerhalb der gewohnten Theater-Umgebung hinterfragt. Anlässlich des Stückes "Die Nacht kurz vor den Wäldern" - des Monologes eines gesellschaftlichen Außenseiters - begibt sich das letzte Pop-up-Podium dieser Spielzeit ins Nachtlager Dormizil. Die in Bozen geborene Kuratorin, Kunstvermittlerin, Forschende und Autorin Barbara Mahlknecht hat im Februar, gemeinsam mit Johannes Reisigl, die Geschäftsführung des Künstler:innenhauses Büchsenhausen übernommen. Es begann hierzulande um die Jahrtausendwende als Ableger eines Theaterprojektes, das in den 1980ern in Lecco entstanden war. Das Teatro La Ribalta stellte Menschen mit und ohne Behinderung, mit unterschiedlichsten Fähigkeiten und Talenten ins Rampenlicht, um den Blick auf die Vielfalt von Sichtweisen, Weltdeutungen und Lebensformen zu lenken. 2013 wurde das "Teatro la Ribalta - Kunst der Vielfalt" in Bozen gegründet und ist aus der Theaterszene nicht mehr wegzudenken. Die Fahlburg in Prissian wurde in den letzten Jahren umfassend renoviert. Christoph Gufler hat sich mit der Geschichte der Burg befasst, Leo Andergassen mit der baulichen Entwicklung und den kunstgeschichtlichen Aspekten. Es moderiert Alex Lechner.</desc>
   </programme>
   <programme start="20260321200000 +0100" stop="20260321202000 +0100" channel="Rai Südtirol">
