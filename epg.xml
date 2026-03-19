@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260318200000 +0100" stop="20260318202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260318202000 +0100" stop="20260318204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Aostatal ist die kleinste Region Italiens, und zeichnet sich auch durch eine große sprachliche Vielfalt aus, die eine lange Geschichte hat. Minet war vor Ort, um sich auf die Spuren der frankoprovenzalischen Sprache zu begeben. Das Frankoprovenzalische ist dort zwar nicht Amtssprache, ist aber für viele Aostanerinnen und Aostaner die eigentliche Herzenssprache.   
-
-Der Iran liegt im Herzen des Nahen Ostens und ist eines der flächenmäßig größten Länder der Region, reich an Erdöl und Erdgas. Mit über 93 Millionen Einwohnern ist es ein stark urbanisiertes Land. Doch das Land befindet sich im Ausnahmezustand. Minet hat einige der in Südtirol lebenden Iraner und Iranerinnen getroffen und mit ihnen über ihr Land gesprochen.  
-Zu Gast im Minet-Gespräch ist der Sprachwissenschaftler Paul Videsott, der den neuen Band des Europäischen Journals für Minderheitenfragen vorstellt.  
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Völker zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe hören wir anlässlich des Weltfrauentages am 8. März den indigenen Frauen zu: Sie sind entschlossen und sie leisten Widerstand! 
-Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20260318221000 +0100" stop="20260318223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260319200000 +0100" stop="20260319202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
