@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260319200000 +0100" stop="20260319202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260319202000 +0100" stop="20260319204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Modernes Mäzenatentum</sub-title>
-    <desc>Modernes Mäzenatentum bezeichnet die diskrete, private Förderung von Kunst, Kultur und sozialen Projekten, ohne direkte Gegenleistung. Ziel ist gesellschaftliche Teilhabe, kulturelle Entwicklung und Förderung zeitgenössischer Kunst.  Zu Gast ist der Historiker Hannes Obermair.  
-Unsere Redakteurin Daniela Thaler wird für 9 Monate nach und durch Kanada reisen und uns auf ihrem persönlichen Roadtrip quer durch Kanada von der Westküste bis zum Atlantik mitnehmen und uns auf Unterschiede und Gemeinsamkeiten zu Südtirol und die Erfahrungen, die daraus entstehen, aufmerksam machen. In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Dokumentation "30 Jahre Förderpreis Futura". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260319221000 +0100" stop="20260319223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260320180000 +0100" stop="20260320182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Modernes Mäzenatentum</sub-title>
@@ -104,6 +88,164 @@ Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus un
     <desc/>
   </programme>
   <programme start="20260322221000 +0100" stop="20260322223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260323180000 +0100" stop="20260323181430 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>24. Spieltag in der Fußball-Oberliga: Schlusslicht Gröden empfängt Ahrntal, beide Mannschaften brauchen unbedingt Punkte im Kampf um den Klassenerhalt.  
+In der Landesliga kann Tabellenführer Bruneck mit einem Heimsieg gegen den Dritten Olimpia Meran einen großen Schritt in Richtung Titelgewinn machen, während Leifers Freienfeld zu Gast hat.</desc>
+  </programme>
+  <programme start="20260323181400 +0100" stop="20260323183100 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Beim Steinmetz</sub-title>
+    <desc>Die Zipp-Reporterinnen Frieda und Hannah suchen in einem Steinbruch im Sarntal gemeinsam mit Steinmetz Tobias einen Porphyrstein aus, um daraus ein Kunstwerk zu fertigen. Zurück in der Werkstatt versuchen sie diesen mit Hammer und Meißel zu bearbeiten, doch Porphyr ist extrem hart. Nur mit Hilfe von speziellen Bohrern schaffen die Reporter daraus eine kunstvolle Vase, die sie stolz mit nach Hause nehmen. 
+Anschließend stellt Denny sein Lieblingsbuch vor.</desc>
+  </programme>
+  <programme start="20260323183100 +0100" stop="20260323185816 +0100" channel="Rai Südtirol">
+    <title>Genusswanderung auf der Seiser Alm</title>
+    <sub-title/>
+    <desc>Die Seiser Alm ist eine der schönsten Hochalmen weitum, doch leider ist sie auch überlaufen. Aber es gibt auch noch einige Gegenden, wo man nur wenigen Menschen begegnet, zB bei der Rundwanderung am Puflasch, wo man einen 360 Grad-Rundblick auf die verschneiten Bergspitzen hat. Theo Hendrich ist mit Wanderführer Diego Deiana unterwegs. Der kennt die Tiere und Pflanzen dieser Gegend bestens und auch die Almhütten, wo man einkehren kann. Auf der Tschötsch-Alm gibt der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
+  </programme>
+  <programme start="20260323200000 +0100" stop="20260323202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260323202000 +0100" stop="20260323220000 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut</title>
+    <sub-title>Depression - Lichter im Chaos</sub-title>
+    <desc>"Lichter im Chaos": Die Dokumentation von Fabian Zöggeler begleitet Menschen, die an Depression erkrankt sind - anschließend diskutiert Judith Bertagnolli mit ihren Gästen darüber. 
+
+Depression ist eine der häufigsten psychischen Erkrankungen weltweit. Die Doku "Lichter im Chaos" zeigt, wie sich Einsamkeit, Erschöpfung und Hoffnungslosigkeit anfühlen - und welche Wege aus der Krise möglich sind. 
+Im anschließenden Live-Gespräch diskutieren der Psychiater Roger Pycha, Primar der Psychiatrie am Krankenhaus Brixen, der Psychotherapeut Martin Fronthaler, Leiter des Therapiezentrums Bad Bachgart, und die Genesungsbegleiterin Doris Passler über Ursachen, Behandlungsmöglichkeiten und Schutzfaktoren. 
+Live aus der sozialpsychiatrischen Einrichtung "Sägemüllerhof" in Gais. Moderation: Judith Bertagnolli</desc>
+  </programme>
+  <programme start="20260323221000 +0100" stop="20260323223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260324200000 +0100" stop="20260324202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260324202000 +0100" stop="20260324203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260324203500 +0100" stop="20260324204930 +0100" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>24. Spieltag in der Fußball-Oberliga: Schlusslicht Gröden empfängt Ahrntal, beide Mannschaften brauchen unbedingt Punkte im Kampf um den Klassenerhalt.  
+In der Landesliga kann Tabellenführer Bruneck mit einem Heimsieg gegen den Dritten Olimpia Meran einen großen Schritt in Richtung Titelgewinn machen, während Leifers Freienfeld zu Gast hat.</desc>
+  </programme>
+  <programme start="20260324221000 +0100" stop="20260324223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260325200000 +0100" stop="20260325202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260325202000 +0100" stop="20260325204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Im Einklang mit der Natur: Ein Portrait der Bäuerin des Jahres 2026. Außerdem stellen sich Jungzüchter:innen vor. Eine Sendung von Marianne Kasseroler. 
+
+Wer die "Bäuerin des Jahres 2026" besucht, trifft sie im Garten, ihrem Reich. Die 35-jährige widmet sich mit Leidenschaft und Disziplin dem Anbau und der Vermehrung von Kräutern, Gemüse, Hülsenfrüchten, Beeren und Blumen, ganz im Einklang mit der Natur. Ihr Ziel ist es, den Hof mit Milchwirtschaft und Urlaub auf dem Bauernhof nachhaltig zu führen und ihre Familie weitgehend mit eigenen Produkten zu versorgen. Zum 19. Mal wird diese Auszeichnung beim Landesbäuerinnentag vergeben, bis dahin bleibt ihr Name jedoch noch geheim.  
+Immer mehr junge Bäuerinnen und Bauern setzen mit Leidenschaft auf die Haltung und Zucht von Schafen, Ziegen, Schweinen, Rindern und Pferden. In fünf Folgen stellen wir motivierte junge Frauen und Männer vor, die fest an eine zukunftsfähige Viehhaltung auf ihren Höfen glauben.</desc>
+  </programme>
+  <programme start="20260325221000 +0100" stop="20260325223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260326200000 +0100" stop="20260326202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260326202000 +0100" stop="20260326204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Von Teddybären und Stofftieren</sub-title>
+    <desc>Diesmal dreht sich alles um weiche Kuscheltiere und ihre Funktion und Bedeutung für Klein und Groß. Es moderiert Karin Gschnitzer. 
+  
+Kuscheltiere sind mehr als Spielzeug, sie sind wichtige emotionale Anker, die Geborgenheit, Trost und Sicherheit spenden. Aber sind Kuscheltiere heute noch in? Und wo erfüllen sie sogar einen therapeutischen Zweck?  
+Über die Risiken von KI und wie wir uns schützen können, berichten wir in der Reihe "Südtirol Digital".  
+Mit dem Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976 werfen wir einen Blick zurück. In der Reihe "Wiedersehen" zeigen wir einen Beitrag über die Kuscheltierklinik am Krankenhaus Bozen.</desc>
+  </programme>
+  <programme start="20260326221000 +0100" stop="20260326223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260327180000 +0100" stop="20260327182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Von Teddybären und Stofftieren</sub-title>
+    <desc>Diesmal dreht sich alles um weiche Kuscheltiere und ihre Funktion und Bedeutung für Klein und Groß. Es moderiert Karin Gschnitzer.   
+Kuscheltiere sind mehr als Spielzeug, sie sind wichtige emotionale Anker, die Geborgenheit, Trost und Sicherheit spenden. Aber sind Kuscheltiere heute noch in? Und wo erfüllen sie sogar einen therapeutischen Zweck?  
+Über die Risiken von KI und wie wir uns schützen können, berichten wir in der Reihe "Südtirol Digital".  
+Mit dem Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976 werfen wir einen Blick zurück. In der Reihe "Wiedersehen" zeigen wir einen Beitrag über die Kuscheltierklinik am Krankenhaus Bozen.</desc>
+  </programme>
+  <programme start="20260327182900 +0100" stop="20260327185830 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Das Aostatal ist die kleinste Region Italiens, und zeichnet sich auch durch eine große sprachliche Vielfalt aus, die eine lange Geschichte hat. Minet war vor Ort, um sich auf die Spuren der frankoprovenzalischen Sprache zu begeben. Das Frankoprovenzalische ist dort zwar nicht Amtssprache, ist aber für viele Aostanerinnen und Aostaner die eigentliche Herzenssprache.   
+Der Iran liegt im Herzen des Nahen Ostens und ist eines der flächenmäßig größten Länder der Region, reich an Erdöl und Erdgas. Mit über 93 Millionen Einwohnern ist es ein stark urbanisiertes Land. Doch das Land befindet sich im Ausnahmezustand. Minet hat einige der in Südtirol lebenden Iraner und Iranerinnen getroffen und mit ihnen über ihr Land gesprochen.  
+Zu Gast im Minet-Gespräch ist der Sprachwissenschaftler Paul Videsott, der den neuen Band des Europäischen Journals für Minderheitenfragen vorstellt.  
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Völker zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe hören wir anlässlich des Weltfrauentages am 8. März den indigenen Frauen zu: Sie sind entschlossen und sie leisten Widerstand! 
+Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260327200000 +0100" stop="20260327202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260327202000 +0100" stop="20260327215900 +0100" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Musik, Geschichten und Persönlichkeiten aus Südtirol: Gäste bei Thomas Vonmetz sind die langjährige Kinderärztin Hildegard Campidell, Unternehmer Michi Klemera und Musiker David Frank. 
+
+Die langjährige Kinderärztin Hildegard Campidell hat nach Jahrzehnten im Dienst für andere ihre Leidenschaft für den Flamenco entdeckt. Unternehmer Michi Klemera erzählt von der Entstehung der Südtiroler Modemarke Luis Trenker, die vor kurzem ihr 30-jähriges Jubiläum feierte und inzwischen international bekannt ist. Außerdem gibt Musiker David Frank Einblicke in seine vielfältige künstlerische Arbeit und die Entstehung seines aktuellen Albums Venosta. Er wird im Sudwerkkeller auch einige Songs zum Besten geben. 
+Außerdem ist der Blues- und Roots-Singer-Songwriter Moritz Gamper zu hören, der heute in Wien lebt und mit seinem akustischen Sound zwischen Mississippi-Delta und Südtiroler Bergwelt begeistert. Begleitet werden die Auftritte wie gewohnt von der Kellerkapelle. Und natürlich wird auch wieder "gerumplt".</desc>
+  </programme>
+  <programme start="20260327221000 +0100" stop="20260327223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260328180000 +0100" stop="20260328182930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Inga Hosp</sub-title>
+    <desc>Zu Gast ist die Publizistin, Autorin und Kulturvermittlerin Inga Hosp. Die in München geborene Germanistin lebt seit über fünf Jahrzehnten am Ritten und gehört zu den profilierten Stimmen des kulturellen Lebens in Südtirol. Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus und Kulturarbeit zurück. Schon während ihres Studiums arbeitete sie für den Bayerischen Rundfunk und war später als freie Journalistin für BR, ORF und Rai Südtirol tätig. Bekannt ist sie auch als Mitbegründerin der Rittner Sommerspiele sowie als Mitinitiatorin des internationalen Lyrikpreises Meran. Markus Frings spricht mit ihr über ihre Arbeit als Autorin, ihre Verbundenheit mit Südtirol und das gemeinsame Engagement mit ihrem 2023 verstorbenen Mann, dem früheren Landesrat Bruno Hosp.</desc>
+  </programme>
+  <programme start="20260328200000 +0100" stop="20260328202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260328202100 +0100" stop="20260328202500 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260328202500 +0100" stop="20260328205430 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Nachhaltigkeit im Tourismus am Beispiel eines Hotels in Mühlbach, touristischer Pioniergeist in Südtirol in der 1960er Jahren, das kulinarische Angebot unserer Skihütten. 
+
+In Mühlbach besucht das Team ein familiengeführtes Hotel, das in den vergangenen Jahren zahlreiche Maßnahmen umgesetzt hat, um nachhaltiger zu wirtschaften. Fachleuten erklären, wie Betriebe Verantwortung für Umwelt und Ressourcen übernehmen können und warum Nachhaltigkeit mehr ist als ein kurzfristiger Trend. 
+In den 1960er- und 70er-Jahren wurde Südtirol zu einer Tourismuslandschaft. Der Beitrag erinnert an die Aufbruchsstimmung vieler Familien, beleuchtet aber auch die Schattenseiten des rasanten Wachstums. 
+Das Willkommen-Team war in den vergangenen Wochen auf Südtirols Skihütten unterwegs und hat einen Blick in die Kochtöpfe geworfen. Zwischen traditionellen Klassikern und kreativen Neuinterpretationen zeigt sich eine erstaunliche Vielfalt.</desc>
+  </programme>
+  <programme start="20260328221000 +0100" stop="20260328223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
