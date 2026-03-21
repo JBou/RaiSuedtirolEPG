@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260320180000 +0100" stop="20260320182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Modernes Mäzenatentum</sub-title>
-    <desc>Modernes Mäzenatentum bezeichnet die diskrete, private Förderung von Kunst, Kultur und sozialen Projekten, ohne direkte Gegenleistung. Ziel ist gesellschaftliche Teilhabe, kulturelle Entwicklung und Förderung zeitgenössischer Kunst. Zu Gast ist der Historiker Hannes Obermair.  Unsere Redakteurin Daniela Thaler wird für 9 Monate nach und durch Kanada reisen und uns auf ihrem persönlichen Roadtrip quer durch Kanada von der Westküste bis zum Atlantik mitnehmen und uns auf Unterschiede und Gemeinsamkeiten zu Südtirol und die Erfahrungen, die daraus entstehen, aufmerksam machen. In der Reihe "Wiedersehen" zeigen wir einen Ausschnitt aus der Dokumentation "30 Jahre Förderpreis Futura". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260320182900 +0100" stop="20260320185830 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Der Flicktreff, das Recyclingprojekt "Rex - Material und Dinge", die Sinngebung nach Viktor Frankl und der Tennisprofi Ivan Tratter. Diese Sendung beschäftigt sich mit der Sinnhaftigkeit von Gegenständen, unseres Lebens, von unserem Tun. 
-In einer Zeit, in der die Umweltverschmutzung stetig zunimmt, sind Up-Cycling und Recycling-Projekte zu Hoffnungsträgern geworden. In der Nähwerkstatt im Kassianeum in Brixen treffen sich Begeisterte, um gemeinsam Löcher zu stopfen. 
-Im Rex in Brixen wird ebenfalls Gegenständen eine zweite Chance geschenkt: Es gibt hier fast alles außer Kleidung. Im April feiert das Projekt den 5. Geburtstag. 
-Vorhandenes kann neu betrachtet werden. Dieser Perspektivenwechsel ist ein Grundpfeiler der Philosophie Viktor Frankls. "Wie sich der Mensch zu einem unabänderlichen Schicksal einstellt, darauf kommt es an", sagt er. Die seit 33 Jahren in Meran lebende Coachin Elisabeth Hegenauer hat sich intensiv mit seiner Logotherapie und Existenzanalyse beschäftigt. 
-Moderatorin Claudia Schuler begrüßt diesmal als Gast einen jungen Menschen aus Jenesien, der nach einem lebensgefährlichen Rodelunfall im Jahr 2011 querschnittgelähmt ist. Ivan Tratter hat sich mit bemerkenswerter Willensstärke und hartem Training in die internationale Rollstuhltennis-Szene gespielt. Ohne Unfall wäre er -auch mental - niemals dort, wo er heute ist, sagt Tratter.</desc>
-  </programme>
-  <programme start="20260320200000 +0100" stop="20260320202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260320202000 +0100" stop="20260320210727 +0100" channel="Rai Südtirol">
-    <title>Fischerei in Südtirol</title>
-    <sub-title>Ein Hobby mit Mehrwert</sub-title>
-    <desc>Das Fischen ist eine Freizeitaktivität, die Ruhe und Entspannung inmitten der Natur verschafft, egal zu welcher Altersklasse man gehört. 
-
-Ob alleine oder in der Gruppe, an einem Fluss, einem Gebirgsbach oder See, die Südtiroler Fischer:innen gehen ihrem Hobby mit Leidenschaft nach. Daneben setzten sie sich aber auch für den Schutz der heimischen Fischbestände ein und haben ein Auge auf diverse Problematiken, zum Beispiel die Gefährdung der Fische durch Prädatoren wie den Kormoran oder die hydroelektrische Nutzung der Gewässer.</desc>
-  </programme>
-  <programme start="20260320210700 +0100" stop="20260320215903 +0100" channel="Rai Südtirol">
-    <title>Über Südtirol</title>
-    <sub-title>Juwelen des Landes</sub-title>
-    <desc>Diese filmische Erzählung aus der Vogelperspektive präsentiert eine umfassende Reihe von Orten und Gegenden aus Südtirol: Die Churburg, die Drei Zinnen, Glurns, der Kirchturm im Reschensee, das Kloster Säben, Meran, der Naturpark Fanes Sennes Prags, die Oberbozner Erdpyramiden, der Ortler mit der Payer Hütte, den Rosengarten, die Seiser Alm, die Spronser Seen und das Villnößtal mit der Kirche St. Johann in Ranui und viele mehr.</desc>
-  </programme>
-  <programme start="20260320221000 +0100" stop="20260320223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260321180000 +0100" stop="20260321185830 +0100" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -246,6 +210,31 @@ In den 1960er- und 70er-Jahren wurde Südtirol zu einer Tourismuslandschaft. Der
 Das Willkommen-Team war in den vergangenen Wochen auf Südtirols Skihütten unterwegs und hat einen Blick in die Kochtöpfe geworfen. Zwischen traditionellen Klassikern und kreativen Neuinterpretationen zeigt sich eine erstaunliche Vielfalt.</desc>
   </programme>
   <programme start="20260328221000 +0100" stop="20260328223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260329200000 +0200" stop="20260329202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260329202100 +0200" stop="20260329205030 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Versteinerte Saurierspuren, ein wirksames Mittel gegen Haarausfall, die Bereitschaft der Südtiroler:innen zur Organspende, biologische Schädlingsbekämpfung in der Landwirtschaft. 
+
+Im Stilfserjoch Nationalpark hat der Naturfotograf Elio Della Ferrera durch Zufall Tausende versteinerter Fußspuren von Dinosaurieren entdeckt - eine wissenschaftliche Sensation, die zu neuen Erkenntnissen in der Urgeschichte der Erde führen kann. 
+Eine andere wissenschaftliche Entdeckung hat der Südtiroler Immunologe Alexander Steinkasserer am Uniklinikum Erlangen gemacht: Nach 25 Jahren Forschung weiss er jetzt, wie man den Haarausfall wirksam bekämpfen kann.  
+Forschende der Freien Universität Bozen haben das Verhalten von Menschen analysiert, und wie sie zu Organspenden stehen - mit für Südtirol interessanten Ergebnissen. 
+Im Studiogespräch erklärt die Insektenforscherin Silvia Schmidt vom Versuchszentrum Laimburg, wie sie biologische Methoden zur Bekämpfung von Schädlingen in der Landwirtschaft entwickelt.</desc>
+  </programme>
+  <programme start="20260329205000 +0200" stop="20260329205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260329221000 +0200" stop="20260329223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
