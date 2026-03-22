@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260321180000 +0100" stop="20260321185830 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der neue Film von Tizza Covi, die Dialogreihe Pop-up-Podium der VBB, die aktuellen Stücke des Teatro La Ribalta-Kunst der Vielfalt und die neue Aufgabe von Barbara Mahlknecht sind Themen im Kompass im März. Zu Gast sind der Autor Toni Bernhart und der Intendant des Festival Dolomites, Josef Feichter.
-In den Filmen von Tizza Covi und Rainer Frimmel stehen Menschen am Rand der Gesellschaft im Mittelpunkt. In ihrem neuen Film, "The Loneliest Man in Town" rücken sie den Bluesmusiker Alois Koch alias Al Cook ins Zentrum. Er war ab den 1970er Jahren eine Berühmtheit zumindest in der Wiener Szene. Der Film feierte auf der Berlinale seine Premiere. Im Pop-up-Podium der Vereinigten Bühnen Bozen werden aktuelle Themen außerhalb der gewohnten Theater-Umgebung hinterfragt. Anlässlich des Stückes "Die Nacht kurz vor den Wäldern" - des Monologes eines gesellschaftlichen Außenseiters - begibt sich das letzte Pop-up-Podium dieser Spielzeit ins Nachtlager Dormizil. Die in Bozen geborene Kuratorin, Kunstvermittlerin, Forschende und Autorin Barbara Mahlknecht hat im Februar, gemeinsam mit Johannes Reisigl, die Geschäftsführung des Künstler:innenhauses Büchsenhausen übernommen. Es begann hierzulande um die Jahrtausendwende als Ableger eines Theaterprojektes, das in den 1980ern in Lecco entstanden war. Das Teatro La Ribalta stellte Menschen mit und ohne Behinderung, mit unterschiedlichsten Fähigkeiten und Talenten ins Rampenlicht, um den Blick auf die Vielfalt von Sichtweisen, Weltdeutungen und Lebensformen zu lenken. 2013 wurde das "Teatro la Ribalta - Kunst der Vielfalt" in Bozen gegründet und ist aus der Theaterszene nicht mehr wegzudenken. Die Fahlburg in Prissian wurde in den letzten Jahren umfassend renoviert. Christoph Gufler hat sich mit der Geschichte der Burg befasst, Leo Andergassen mit der baulichen Entwicklung und den kunstgeschichtlichen Aspekten. Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20260321200000 +0100" stop="20260321202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260321202100 +0100" stop="20260321202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260321202500 +0100" stop="20260321205430 +0100" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Das Gehirn</sub-title>
-    <desc>Die Trigeminusneuralgie ist eine der stärksten bekannten Schmerzformen. Betroffene erleben plötzlich einschießende, extreme Gesichtsschmerzen. 
-
-Wir zeigen, wie die Erkrankung entsteht, welche Behandlungsmöglichkeiten es gibt und wie Patientinnen und Patienten lernen, mit der Krankheit zu leben. 
-Was passiert im Gehirn von Menschen im Autismus-Spektrum? Eine persönliche Geschichte gibt Einblicke in Wahrnehmung, Kommunikation und die Vielfalt des Spektrums - und zeigt, wie wichtig Verständnis und individuelle Unterstützung sind. 
-Und wir blicken in die Zukunft der Medizin: Am Institut für Biomedizin wird an Organoiden geforscht - winzigen, im Labor gezüchteten Gehirnmodellen. Diese könnten helfen, neue Therapien für Parkinson zu entwickeln und die Krankheit besser zu verstehen.</desc>
-  </programme>
-  <programme start="20260321221000 +0100" stop="20260321223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260322200000 +0100" stop="20260322202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
