@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260322200000 +0100" stop="20260322202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260322202100 +0100" stop="20260322205030 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Inga Hosp</sub-title>
-    <desc>Zu Gast ist die Publizistin, Autorin und Kulturvermittlerin Inga Hosp. Die in München geborene Germanistin lebt seit über fünf Jahrzehnten am Ritten und gehört zu den profilierten Stimmen des kulturellen Lebens in Südtirol. 
-
-Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus und Kulturarbeit zurück. Schon während ihres Studiums arbeitete sie für den Bayerischen Rundfunk und war später als freie Journalistin für BR, ORF und Rai Südtirol tätig. Bekannt ist sie auch als Mitbegründerin der Rittner Sommerspiele sowie als Mitinitiatorin des internationalen Lyrikpreises Meran. Markus Frings spricht mit ihr über ihre Arbeit als Autorin, ihre Verbundenheit mit Südtirol und das gemeinsame Engagement mit ihrem 2023 verstorbenen Mann, dem früheren Landesrat Bruno Hosp.</desc>
-  </programme>
-  <programme start="20260322205000 +0100" stop="20260322205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260322221000 +0100" stop="20260322223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260323180000 +0100" stop="20260323181430 +0100" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
