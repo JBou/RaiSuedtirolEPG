@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260323180000 +0100" stop="20260323181430 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>24. Spieltag in der Fußball-Oberliga: Schlusslicht Gröden empfängt Ahrntal, beide Mannschaften brauchen unbedingt Punkte im Kampf um den Klassenerhalt.  
-In der Landesliga kann Tabellenführer Bruneck mit einem Heimsieg gegen den Dritten Olimpia Meran einen großen Schritt in Richtung Titelgewinn machen, während Leifers Freienfeld zu Gast hat.</desc>
-  </programme>
-  <programme start="20260323181400 +0100" stop="20260323183100 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Beim Steinmetz</sub-title>
-    <desc>Die Zipp-Reporterinnen Frieda und Hannah suchen in einem Steinbruch im Sarntal gemeinsam mit Steinmetz Tobias einen Porphyrstein aus, um daraus ein Kunstwerk zu fertigen. Zurück in der Werkstatt versuchen sie diesen mit Hammer und Meißel zu bearbeiten, doch Porphyr ist extrem hart. Nur mit Hilfe von speziellen Bohrern schaffen die Reporter daraus eine kunstvolle Vase, die sie stolz mit nach Hause nehmen. 
-Anschließend stellt Denny sein Lieblingsbuch vor.</desc>
-  </programme>
-  <programme start="20260323183100 +0100" stop="20260323185816 +0100" channel="Rai Südtirol">
-    <title>Genusswanderung auf der Seiser Alm</title>
-    <sub-title/>
-    <desc>Die Seiser Alm ist eine der schönsten Hochalmen weitum, doch leider ist sie auch überlaufen. Aber es gibt auch noch einige Gegenden, wo man nur wenigen Menschen begegnet, zB bei der Rundwanderung am Puflasch, wo man einen 360 Grad-Rundblick auf die verschneiten Bergspitzen hat. Theo Hendrich ist mit Wanderführer Diego Deiana unterwegs. Der kennt die Tiere und Pflanzen dieser Gegend bestens und auch die Almhütten, wo man einkehren kann. Auf der Tschötsch-Alm gibt der Hüttenkoch Tipps für einen besonders leckeren Kaiserschmarren.</desc>
-  </programme>
-  <programme start="20260323200000 +0100" stop="20260323202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260323202000 +0100" stop="20260323220000 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut</title>
-    <sub-title>Depression - Lichter im Chaos</sub-title>
-    <desc>"Lichter im Chaos": Die Dokumentation von Fabian Zöggeler begleitet Menschen, die an Depression erkrankt sind - anschließend diskutiert Judith Bertagnolli mit ihren Gästen darüber. 
-
-Depression ist eine der häufigsten psychischen Erkrankungen weltweit. Die Doku "Lichter im Chaos" zeigt, wie sich Einsamkeit, Erschöpfung und Hoffnungslosigkeit anfühlen - und welche Wege aus der Krise möglich sind. 
-Im anschließenden Live-Gespräch diskutieren der Psychiater Roger Pycha, Primar der Psychiatrie am Krankenhaus Brixen, der Psychotherapeut Martin Fronthaler, Leiter des Therapiezentrums Bad Bachgart, und die Genesungsbegleiterin Doris Passler über Ursachen, Behandlungsmöglichkeiten und Schutzfaktoren. 
-Live aus der sozialpsychiatrischen Einrichtung "Sägemüllerhof" in Gais. Moderation: Judith Bertagnolli</desc>
-  </programme>
-  <programme start="20260323221000 +0100" stop="20260323223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260324200000 +0100" stop="20260324202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -137,6 +101,13 @@ Außerdem ist der Blues- und Roots-Singer-Songwriter Moritz Gamper zu hören, de
     <title>Privat</title>
     <sub-title>Inga Hosp</sub-title>
     <desc>Zu Gast ist die Publizistin, Autorin und Kulturvermittlerin Inga Hosp. Die in München geborene Germanistin lebt seit über fünf Jahrzehnten am Ritten und gehört zu den profilierten Stimmen des kulturellen Lebens in Südtirol. Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus und Kulturarbeit zurück. Schon während ihres Studiums arbeitete sie für den Bayerischen Rundfunk und war später als freie Journalistin für BR, ORF und Rai Südtirol tätig. Bekannt ist sie auch als Mitbegründerin der Rittner Sommerspiele sowie als Mitinitiatorin des internationalen Lyrikpreises Meran. Markus Frings spricht mit ihr über ihre Arbeit als Autorin, ihre Verbundenheit mit Südtirol und das gemeinsame Engagement mit ihrem 2023 verstorbenen Mann, dem früheren Landesrat Bruno Hosp.</desc>
+  </programme>
+  <programme start="20260328182900 +0100" stop="20260328185830 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Das Gehirn</sub-title>
+    <desc>Die Trigeminusneuralgie ist eine der stärksten bekannten Schmerzformen. Betroffene erleben plötzlich einschießende, extreme Gesichtsschmerzen. Wir zeigen, wie die Erkrankung entsteht, welche Behandlungsmöglichkeiten es gibt und wie Patientinnen und Patienten lernen, mit der Krankheit zu leben. 
+Was passiert im Gehirn von Menschen im Autismus-Spektrum? Eine persönliche Geschichte gibt Einblicke in Wahrnehmung, Kommunikation und die Vielfalt des Spektrums - und zeigt, wie wichtig Verständnis und individuelle Unterstützung sind. 
+Und wir blicken in die Zukunft der Medizin: Am Institut für Biomedizin wird an Organoiden geforscht - winzigen, im Labor gezüchteten Gehirnmodellen. Diese könnten helfen, neue Therapien für Parkinson zu entwickeln und die Krankheit besser zu verstehen.</desc>
   </programme>
   <programme start="20260328200000 +0100" stop="20260328202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
