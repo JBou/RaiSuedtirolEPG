@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260324200000 +0100" stop="20260324202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260324202000 +0100" stop="20260324203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260324203500 +0100" stop="20260324204930 +0100" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>24. Spieltag in der Fußball-Oberliga: Schlusslicht Gröden empfängt Ahrntal, beide Mannschaften brauchen unbedingt Punkte im Kampf um den Klassenerhalt.  
-In der Landesliga kann Tabellenführer Bruneck mit einem Heimsieg gegen den Dritten Olimpia Meran einen großen Schritt in Richtung Titelgewinn machen, während Leifers Freienfeld zu Gast hat.</desc>
-  </programme>
-  <programme start="20260324221000 +0100" stop="20260324223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260325200000 +0100" stop="20260325202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
