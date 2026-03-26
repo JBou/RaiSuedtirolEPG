@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260325200000 +0100" stop="20260325202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260325202000 +0100" stop="20260325204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Im Einklang mit der Natur: Ein Portrait der Bäuerin des Jahres 2026. Außerdem stellen sich Jungzüchter:innen vor. Eine Sendung von Marianne Kasseroler. 
-
-Wer die "Bäuerin des Jahres 2026" besucht, trifft sie im Garten, ihrem Reich. Die 35-jährige widmet sich mit Leidenschaft und Disziplin dem Anbau und der Vermehrung von Kräutern, Gemüse, Hülsenfrüchten, Beeren und Blumen, ganz im Einklang mit der Natur. Ihr Ziel ist es, den Hof mit Milchwirtschaft und Urlaub auf dem Bauernhof nachhaltig zu führen und ihre Familie weitgehend mit eigenen Produkten zu versorgen. Zum 19. Mal wird diese Auszeichnung beim Landesbäuerinnentag vergeben, bis dahin bleibt ihr Name jedoch noch geheim.  
-Immer mehr junge Bäuerinnen und Bauern setzen mit Leidenschaft auf die Haltung und Zucht von Schafen, Ziegen, Schweinen, Rindern und Pferden. In fünf Folgen stellen wir motivierte junge Frauen und Männer vor, die fest an eine zukunftsfähige Viehhaltung auf ihren Höfen glauben.</desc>
-  </programme>
-  <programme start="20260325221000 +0100" stop="20260325223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260326200000 +0100" stop="20260326202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
