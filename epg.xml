@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260327180000 +0100" stop="20260327182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Von Teddybären und Stofftieren</sub-title>
-    <desc>Diesmal dreht sich alles um weiche Kuscheltiere und ihre Funktion und Bedeutung für Klein und Groß. Es moderiert Karin Gschnitzer.   
-Kuscheltiere sind mehr als Spielzeug, sie sind wichtige emotionale Anker, die Geborgenheit, Trost und Sicherheit spenden. Aber sind Kuscheltiere heute noch in? Und wo erfüllen sie sogar einen therapeutischen Zweck?  
-Über die Risiken von KI und wie wir uns schützen können, berichten wir in der Reihe "Südtirol Digital".  
-Mit dem Archiv der Tagesschau von Rai Südtirol aus dem Jahr 1976 werfen wir einen Blick zurück. In der Reihe "Wiedersehen" zeigen wir einen Beitrag über die Kuscheltierklinik am Krankenhaus Bozen.</desc>
-  </programme>
-  <programme start="20260327182900 +0100" stop="20260327185830 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Das Aostatal ist die kleinste Region Italiens, und zeichnet sich auch durch eine große sprachliche Vielfalt aus, die eine lange Geschichte hat. Minet war vor Ort, um sich auf die Spuren der frankoprovenzalischen Sprache zu begeben. Das Frankoprovenzalische ist dort zwar nicht Amtssprache, ist aber für viele Aostanerinnen und Aostaner die eigentliche Herzenssprache.   
-Der Iran liegt im Herzen des Nahen Ostens und ist eines der flächenmäßig größten Länder der Region, reich an Erdöl und Erdgas. Mit über 93 Millionen Einwohnern ist es ein stark urbanisiertes Land. Doch das Land befindet sich im Ausnahmezustand. Minet hat einige der in Südtirol lebenden Iraner und Iranerinnen getroffen und mit ihnen über ihr Land gesprochen.  
-Zu Gast im Minet-Gespräch ist der Sprachwissenschaftler Paul Videsott, der den neuen Band des Europäischen Journals für Minderheitenfragen vorstellt.  
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Völker zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe hören wir anlässlich des Weltfrauentages am 8. März den indigenen Frauen zu: Sie sind entschlossen und sie leisten Widerstand! 
-Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20260327200000 +0100" stop="20260327202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260327202000 +0100" stop="20260327215900 +0100" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Musik, Geschichten und Persönlichkeiten aus Südtirol: Gäste bei Thomas Vonmetz sind die langjährige Kinderärztin Hildegard Campidell, Unternehmer Michi Klemera und Musiker David Frank. 
-
-Die langjährige Kinderärztin Hildegard Campidell hat nach Jahrzehnten im Dienst für andere ihre Leidenschaft für den Flamenco entdeckt. Unternehmer Michi Klemera erzählt von der Entstehung der Südtiroler Modemarke Luis Trenker, die vor kurzem ihr 30-jähriges Jubiläum feierte und inzwischen international bekannt ist. Außerdem gibt Musiker David Frank Einblicke in seine vielfältige künstlerische Arbeit und die Entstehung seines aktuellen Albums Venosta. Er wird im Sudwerkkeller auch einige Songs zum Besten geben. 
-Außerdem ist der Blues- und Roots-Singer-Songwriter Moritz Gamper zu hören, der heute in Wien lebt und mit seinem akustischen Sound zwischen Mississippi-Delta und Südtiroler Bergwelt begeistert. Begleitet werden die Auftritte wie gewohnt von der Kellerkapelle. Und natürlich wird auch wieder "gerumplt".</desc>
-  </programme>
-  <programme start="20260327221000 +0100" stop="20260327223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260328180000 +0100" stop="20260328182930 +0100" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Inga Hosp</sub-title>
@@ -258,6 +223,28 @@ Das Willkommen-Team war in den vergangenen Wochen auf Südtirols Skihütten unte
 In ihrem Wohnzimmer verrät uns die "Diva des Biathlons" nun, wie sie auf ihre Karriere zurückblickt und welche Aufgaben sie in ihrem neuen Lebensabschnitt erwarten.</desc>
   </programme>
   <programme start="20260404221000 +0200" stop="20260404223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260405100000 +0200" stop="20260405113000 +0200" channel="Rai Südtirol">
+    <title>Potifikalamt am Ostersonntag</title>
+    <sub-title>Live aus dem Bozner Dom</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260405200000 +0200" stop="20260405202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260405202000 +0200" stop="20260405220944 +0200" channel="Rai Südtirol">
+    <title>Die letzten Kartäuser</title>
+    <sub-title/>
+    <desc>Im Sommer 2025 wurde der Dorfplatz von Karthaus im Rahmen der Veranstaltungsreihe "Karthaus 700" zur Freilichtbühne. Zur Aufführung kam ein fiktives Musiktheaterstück, gespickt mit historischen Fakten aus der spannenden Geschichte des Klosters Allerengelberg. 
+
+An diesem großen Gemeinschaftsprojekt waren die Heimatbühne und der Kirchenchor Schnals, Instrumentalisten der Musikkapellen, die drei Grundschulen des Tales und unzählige freiwillige Helfer beteiligt. Die Premiere fand am 3. Juli um 21.00 Uhr am Dorfplatz von Karthaus statt. Die Produktion wurde aufgezeichnet.</desc>
+  </programme>
+  <programme start="20260405221000 +0200" stop="20260405223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
