@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260328180000 +0100" stop="20260328182930 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Inga Hosp</sub-title>
-    <desc>Zu Gast ist die Publizistin, Autorin und Kulturvermittlerin Inga Hosp. Die in München geborene Germanistin lebt seit über fünf Jahrzehnten am Ritten und gehört zu den profilierten Stimmen des kulturellen Lebens in Südtirol. Im Gespräch blickt Hosp auf ihren Lebensweg zwischen Literatur, Journalismus und Kulturarbeit zurück. Schon während ihres Studiums arbeitete sie für den Bayerischen Rundfunk und war später als freie Journalistin für BR, ORF und Rai Südtirol tätig. Bekannt ist sie auch als Mitbegründerin der Rittner Sommerspiele sowie als Mitinitiatorin des internationalen Lyrikpreises Meran. Markus Frings spricht mit ihr über ihre Arbeit als Autorin, ihre Verbundenheit mit Südtirol und das gemeinsame Engagement mit ihrem 2023 verstorbenen Mann, dem früheren Landesrat Bruno Hosp.</desc>
-  </programme>
-  <programme start="20260328182900 +0100" stop="20260328185830 +0100" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Das Gehirn</sub-title>
-    <desc>Die Trigeminusneuralgie ist eine der stärksten bekannten Schmerzformen. Betroffene erleben plötzlich einschießende, extreme Gesichtsschmerzen. Wir zeigen, wie die Erkrankung entsteht, welche Behandlungsmöglichkeiten es gibt und wie Patientinnen und Patienten lernen, mit der Krankheit zu leben. 
-Was passiert im Gehirn von Menschen im Autismus-Spektrum? Eine persönliche Geschichte gibt Einblicke in Wahrnehmung, Kommunikation und die Vielfalt des Spektrums - und zeigt, wie wichtig Verständnis und individuelle Unterstützung sind. 
-Und wir blicken in die Zukunft der Medizin: Am Institut für Biomedizin wird an Organoiden geforscht - winzigen, im Labor gezüchteten Gehirnmodellen. Diese könnten helfen, neue Therapien für Parkinson zu entwickeln und die Krankheit besser zu verstehen.</desc>
-  </programme>
-  <programme start="20260328200000 +0100" stop="20260328202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260328202100 +0100" stop="20260328202500 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260328202500 +0100" stop="20260328205430 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Nachhaltigkeit im Tourismus am Beispiel eines Hotels in Mühlbach, touristischer Pioniergeist in Südtirol in der 1960er Jahren, das kulinarische Angebot unserer Skihütten. 
-
-In Mühlbach besucht das Team ein familiengeführtes Hotel, das in den vergangenen Jahren zahlreiche Maßnahmen umgesetzt hat, um nachhaltiger zu wirtschaften. Fachleuten erklären, wie Betriebe Verantwortung für Umwelt und Ressourcen übernehmen können und warum Nachhaltigkeit mehr ist als ein kurzfristiger Trend. 
-In den 1960er- und 70er-Jahren wurde Südtirol zu einer Tourismuslandschaft. Der Beitrag erinnert an die Aufbruchsstimmung vieler Familien, beleuchtet aber auch die Schattenseiten des rasanten Wachstums. 
-Das Willkommen-Team war in den vergangenen Wochen auf Südtirols Skihütten unterwegs und hat einen Blick in die Kochtöpfe geworfen. Zwischen traditionellen Klassikern und kreativen Neuinterpretationen zeigt sich eine erstaunliche Vielfalt.</desc>
-  </programme>
-  <programme start="20260328221000 +0100" stop="20260328223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260329200000 +0200" stop="20260329202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
