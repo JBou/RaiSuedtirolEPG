@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260329200000 +0200" stop="20260329202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260329202100 +0200" stop="20260329205030 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Versteinerte Saurierspuren, ein wirksames Mittel gegen Haarausfall, die Bereitschaft der Südtiroler:innen zur Organspende, biologische Schädlingsbekämpfung in der Landwirtschaft. 
-
-Im Stilfserjoch Nationalpark hat der Naturfotograf Elio Della Ferrera durch Zufall Tausende versteinerter Fußspuren von Dinosaurieren entdeckt - eine wissenschaftliche Sensation, die zu neuen Erkenntnissen in der Urgeschichte der Erde führen kann. 
-Eine andere wissenschaftliche Entdeckung hat der Südtiroler Immunologe Alexander Steinkasserer am Uniklinikum Erlangen gemacht: Nach 25 Jahren Forschung weiss er jetzt, wie man den Haarausfall wirksam bekämpfen kann.  
-Forschende der Freien Universität Bozen haben das Verhalten von Menschen analysiert, und wie sie zu Organspenden stehen - mit für Südtirol interessanten Ergebnissen. 
-Im Studiogespräch erklärt die Insektenforscherin Silvia Schmidt vom Versuchszentrum Laimburg, wie sie biologische Methoden zur Bekämpfung von Schädlingen in der Landwirtschaft entwickelt.</desc>
-  </programme>
-  <programme start="20260329205000 +0200" stop="20260329205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260329221000 +0200" stop="20260329223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260330180000 +0200" stop="20260330181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
