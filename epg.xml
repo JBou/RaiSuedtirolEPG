@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260331200000 +0200" stop="20260331202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260331202000 +0200" stop="20260331203500 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260331203500 +0200" stop="20260331204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der Ober- und Landesliga wird diese Woche nicht gespielt, da die Landesauswahl in Apulien an der Trophäe der Regionen teilnimmt. In der 1. Amateurliga, im Kreis A, empfängt Tabellenführer St. Martin Moos im Psairer Derby Schlusslicht SC Passeier, während die Verfolger Nals und Überetsch im direkten Duell aufeinandertreffen. Im Kreis B ist Latzfons in Ratschings bei der Auswahl Ridnauntal zu Gast.</desc>
-  </programme>
-  <programme start="20260331221000 +0200" stop="20260331223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260401200000 +0200" stop="20260401202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
