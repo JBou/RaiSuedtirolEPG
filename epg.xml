@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260401200000 +0200" stop="20260401202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260401202000 +0200" stop="20260401205255 +0200" channel="Rai Südtirol">
-    <title>Faszination Landmaschinen</title>
-    <sub-title/>
-    <desc>Landmaschinen wie Traktoren, Mähdrescher und Transporter bringen Power in die Landwirtschaft: Sie sind unverzichtbare Helfer, sie sind Prestigeobjekte. Und sie sind ein potenzielles Risiko. 
-
-Lohnunternehmer Christian Früh aus Tirol erntet mit seinem Mähdrescher fremde Felder. Jungbauer Felix kämpft am Pischelehof in Pfalzen um jede Tonne Mais. Peter Gogl aus Sterzing presst mit seiner tonnenschweren Silopresse das Winterfutter für Südtirols Kühe. Die Burggräfler Schlepperfreunde pflegen historische Traktoren wie Schätze. Ihre Leidenschaft: Oldtimer, die Geschichte erzählen. Doch die Statistik ist alarmierend: In Südtirol übersteigt die Zahl der Arbeitsunfälle den italienischen Mittelwert. Besonders betroffen: die Landwirtschaft. 2021 stürzte der Mann von Christine Brunner Bauer mit dem Traktor 100 Meter in die Tiefe und wurde schwer verletzt. Seitdem muss sie allein den Hof führen. Allein den Traktor fahren. Trotz der Angst.</desc>
-  </programme>
-  <programme start="20260401221000 +0200" stop="20260401223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260402200000 +0200" stop="20260402202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
