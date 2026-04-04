@@ -14,15 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --frozen
 
       - name: Setup git config
         run: |
@@ -30,7 +33,7 @@ jobs:
           git config --global user.email 'actions@users.noreply.github.com'
 
       - name: Run EPG Generation Script
-        run: python epg_scraper.py
+        run: uv run python epg_scraper.py
 
       - name: Rebase epg branch
         run:  git fetch origin && git add -f epg.xml && git stash save "EPG" && git checkout -b epg origin/epg && git checkout stash -- epg.xml
@@ -40,7 +43,4 @@ jobs:
           git commit -m "Auto-generated EPG for $(date +"%Y-%m-%d")" epg.xml
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: epg
+        run: git push origin epg

@@ -6,6 +6,25 @@ from zoneinfo import ZoneInfo
 import requests
 
 
+def sanitize_xml_text(value):
+    """Return text safe for XML 1.0 by stripping illegal control characters."""
+    if value is None:
+        return ""
+
+    text = str(value)
+    return "".join(
+        ch for ch in text
+        if (
+            ch == "\t"
+            or ch == "\n"
+            or ch == "\r"
+            or 0x20 <= ord(ch) <= 0xD7FF
+            or 0xE000 <= ord(ch) <= 0xFFFD
+            or 0x10000 <= ord(ch) <= 0x10FFFF
+        )
+    )
+
+
 def fetch_epg_data(start_date, num_days):
     epg_data = {}
     for i in range(num_days - 1):
@@ -20,14 +39,19 @@ def fetch_epg_data(start_date, num_days):
 
 
 def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
+    safe_channel_name = sanitize_xml_text(channel_name)
+    safe_lang = sanitize_xml_text(lang)
+
     tv = Element("tv", source_info_url="https://raibz.rai.it", source_info_name="RAI.bz",
                  generator_info_name="XMLTV", generator_info_url="http://www.xmltv.org/")
 
     # Add channel information
-    channel = SubElement(tv, "channel", id=channel_name)
-    display_name = SubElement(channel, "display-name", lang=lang)
-    display_name.text = channel_name
-    SubElement(channel, "icon", src=icon_url)
+    channel = SubElement(tv, "channel", id=safe_channel_name)
+    display_name = SubElement(channel, "display-name", lang=safe_lang)
+    display_name.text = safe_channel_name
+
+    if icon_url:
+        SubElement(channel, "icon", src=sanitize_xml_text(icon_url))
 
     for date, programs in epg_data.items():
         for program in programs:
@@ -36,16 +60,16 @@ def convert_to_xmltv(epg_data, channel_name, icon_url=None, lang="de"):
             stop_time = start_time + timedelta(seconds=duration_minutes)
 
             programme = SubElement(tv, "programme", start=start_time.strftime("%Y%m%d%H%M%S %z"),
-                                   stop=stop_time.strftime("%Y%m%d%H%M%S %z"), channel=channel_name)
+                                   stop=stop_time.strftime("%Y%m%d%H%M%S %z"), channel=safe_channel_name)
 
             title = SubElement(programme, "title")
-            title.text = program['titolo']
+            title.text = sanitize_xml_text(program.get('titolo', ''))
 
             sub_title = SubElement(programme, "sub-title")
-            sub_title.text = program['sottotitolo']
+            sub_title.text = sanitize_xml_text(program.get('sottotitolo', ''))
 
             desc = SubElement(programme, "desc")
-            desc.text = program['info']
+            desc.text = sanitize_xml_text(program.get('info', ''))
 
     return tostring(tv, encoding="utf-8")
 
