@@ -4,95 +4,13 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260402200000 +0200" stop="20260402202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260402202000 +0200" stop="20260402204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Respektvolles Miteinander</sub-title>
-    <desc>Was bedeutet respektvoller Umgang? Wie drückt sich gegenseitige Wertschätzung aus? Mit Freundlichkeit den Blutdruck senken oder mit einem Lächeln die Wartezeit an der Bushaltestelle verkürzen? Ja, es ist möglich, sich mit Gelassenheit und Respekt selbst und auch anderen etwas Gutes zu tun, heißt es in einer Kommunikationskampagne "Respect" der Südtiroler Landesregierung. Zu Gast ist die Landesrätin Rosmarie Pamer.  
-
-In der Rubrik "Unser Gedächtnis" zeigen wir einen Filmbeitrag aus dem Amt für Film und Medien über die Arbeitnehmer in Südtirol und in der Reihe "Wiedersehen" berichten wir über "Ein Jahr für die Gemeinschaft". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260402221000 +0200" stop="20260402223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260403180000 +0200" stop="20260403182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Respektvolles Miteinander</sub-title>
-    <desc>Was bedeutet respektvoller Umgang? Wie drückt sich gegenseitige Wertschätzung aus? Mit Freundlichkeit den Blutdruck senken oder mit einem Lächeln die Wartezeit an der Bushaltestelle verkürzen? Ja, es ist möglich, sich mit Gelassenheit und Respekt selbst und auch anderen etwas Gutes zu tun, heißt es in einer Kommunikationskampagne "Respect" der Südtiroler Landesregierung. Zu Gast ist die Landesrätin Rosmarie Pamer. 
-In der Rubrik "Unser Gedächtnis" zeigen wir einen Filmbeitrag aus dem Amt für Film und Medien über die Arbeitnehmer in Südtirol und in der Reihe "Wiedersehen" berichten wir über "Ein Jahr für die Gemeinschaft". Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260403182900 +0200" stop="20260403185830 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Versteinerte Saurierspuren, ein wirksames Mittel gegen Haarausfall, die Bereitschaft der Südtiroler:innen zur Organspende, biologische Schädlingsbekämpfung in der Landwirtschaft. 
-Im Stilfserjoch Nationalpark hat der Naturfotograf Elio Della Ferrera durch Zufall Tausende versteinerter Fußspuren von Dinosaurieren entdeckt - eine wissenschaftliche Sensation, die zu neuen Erkenntnissen in der Urgeschichte der Erde führen kann. 
-Eine andere wissenschaftliche Entdeckung hat der Südtiroler Immunologe Alexander Steinkasserer am Uniklinikum Erlangen gemacht: Nach 25 Jahren Forschung weiss er jetzt, wie man den Haarausfall wirksam bekämpfen kann.  
-Forschende der Freien Universität Bozen haben das Verhalten von Menschen analysiert, und wie sie zu Organspenden stehen - mit für Südtirol interessanten Ergebnissen. 
-Im Studiogespräch erklärt die Insektenforscherin Silvia Schmidt vom Versuchszentrum Laimburg, wie sie biologische Methoden zur Bekämpfung von Schädlingen in der Landwirtschaft entwickelt.</desc>
-  </programme>
-  <programme start="20260403200000 +0200" stop="20260403202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260403202000 +0200" stop="20260403211930 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Mit einer neuen Erlebniswanderung führt uns Theo Hendrich diesmal über den Blauburgunderweg im Süden Südtirols, der durch das bekannte Blauburgunderanbaugebiet von Montan nach Glen führt, weiter über Mazon und Pinzon. 
-
-Ideal für eine Frühlingswanderung. Auf dem Weg treffen wir auf historische und kulturelle Kleinode, wie etwa die alte Fleimstaler Bahntrasse, die Pinzoner Stephanskirche mit dem spätgotischen Hans-Klocker-Altar oder die Burgruine Kaldiff. Schöne Aussichtspunkte auf das Südtiroler Unterland belohnen die Wanderer auf ihrem Weg. Davor jedoch dreht sich alles um die faszinierende Welt des Metalls – von traditionellem Handwerk bis zur modernen Fassadenarchitektur. Petra Tschenett trifft einen Kunstschmied, der sich auf die Fertigung von Grabkreuzen spezialisiert hat und innovative Ideen in Metall formt, wirft einen Blick hinter die Kulissen eines Unternehmens für großflächige Metallfassaden und begleitet einen Hufschmied bei seiner täglichen Arbeit am Pferd - und zeigt, wie vielseitig, lebendig und zukunftsorientiert das Schmiedehandwerk ist.</desc>
-  </programme>
-  <programme start="20260403212000 +0200" stop="20260403214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Nachhaltigkeit im Tourismus am Beispiel eines Hotels in Mühlbach, touristischer Pioniergeist in Südtirol in der 1960er Jahren, das kulinarische Angebot unserer Skihütten. In Mühlbach besucht das Team ein familiengeführtes Hotel, das in den vergangenen Jahren zahlreiche Maßnahmen umgesetzt hat, um nachhaltiger zu wirtschaften. Fachleuten erklären, wie Betriebe Verantwortung für Umwelt und Ressourcen übernehmen können und warum Nachhaltigkeit mehr ist als ein kurzfristiger Trend. In den 1960er- und 70er-Jahren wurde Südtirol zu einer Tourismuslandschaft. Der Beitrag erinnert an die Aufbruchsstimmung vieler Familien, beleuchtet aber auch die Schattenseiten des rasanten Wachstums. 
-Das Willkommen-Team war in den vergangenen Wochen auf Südtirols Skihütten unterwegs und hat einen Blick in die Kochtöpfe geworfen. Zwischen traditionellen Klassikern und kreativen Neuinterpretationen zeigt sich eine erstaunliche Vielfalt.</desc>
-  </programme>
-  <programme start="20260403214900 +0200" stop="20260403215856 +0200" channel="Rai Südtirol">
-    <title>Bäuerliches Brauchtum</title>
-    <sub-title>Osterbrot in Durnholz</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260403221000 +0200" stop="20260403223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260404180000 +0200" stop="20260404185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Mit einer neuen Erlebniswanderung führt uns Theo Hendrich diesmal über den Blauburgunderweg im Süden Südtirols, der durch das bekannte Blauburgunderanbaugebiet von Montan nach Glen führt, weiter über Mazon und Pinzon. Ideal für eine Frühlingswanderung. Auf dem Weg treffen wir auf historische und kulturelle Kleinode, wie etwa die alte Fleimstaler Bahntrasse, die Pinzoner Stephanskirche mit dem spätgotischen Hans-Klocker-Altar oder die Burgruine Kaldiff. Schöne Aussichtspunkte auf das Südtiroler Unterland belohnen die Wanderer auf ihrem Weg. Davor jedoch dreht sich alles um die faszinierende Welt des Metalls - von traditionellem Handwerk bis zur modernen Fassadenarchitektur. Petra Tschenett trifft einen Kunstschmied, der sich auf die Fertigung von Grabkreuzen spezialisiert hat und innovative Ideen in Metall formt, wirft einen Blick hinter die Kulissen eines Unternehmens für großflächige Metallfassaden und begleitet einen Hufschmied bei seiner täglichen Arbeit am Pferd - und zeigt, wie vielseitig, lebendig und zukunftsorientiert das Schmiedehandwerk ist.</desc>
-  </programme>
-  <programme start="20260404200000 +0200" stop="20260404202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260404202100 +0200" stop="20260404202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260404202500 +0200" stop="20260404205430 +0200" channel="Rai Südtirol">
-    <title>Dorothea Wierer</title>
-    <sub-title/>
-    <desc>Nach über 80 Podiumsplatzierungen in rund 435 Rennen auf Profiniveau beendete Dorothea Wierer bei den vergangenen Olympischen Spielen zuhause in Antholz ihre Biathlon-Karriere. 
-
-In ihrem Wohnzimmer verrät uns die "Diva des Biathlons" nun, wie sie auf ihre Karriere zurückblickt und welche Aufgaben sie in ihrem neuen Lebensabschnitt erwarten.</desc>
-  </programme>
   <programme start="20260404221000 +0200" stop="20260404223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
   </programme>
   <programme start="20260405100000 +0200" stop="20260405113000 +0200" channel="Rai Südtirol">
-    <title>Potifikalamt am Ostersonntag</title>
+    <title>Pontifikalamt am Ostersonntag</title>
     <sub-title>Live aus dem Bozner Dom</sub-title>
     <desc/>
   </programme>
@@ -104,11 +22,214 @@ In ihrem Wohnzimmer verrät uns die "Diva des Biathlons" nun, wie sie auf ihre K
   <programme start="20260405202000 +0200" stop="20260405220944 +0200" channel="Rai Südtirol">
     <title>Die letzten Kartäuser</title>
     <sub-title/>
-    <desc>Im Sommer 2025 wurde der Dorfplatz von Karthaus im Rahmen der Veranstaltungsreihe "Karthaus 700" zur Freilichtbühne. Zur Aufführung kam ein fiktives Musiktheaterstück, gespickt mit historischen Fakten aus der spannenden Geschichte des Klosters Allerengelberg. 
+    <desc>Im Sommer 2025 wurde der Dorfplatz von Karthaus im Rahmen der Veranstaltungsreihe &quot;Karthaus 700&quot; zur Freilichtbühne. Zur Aufführung kam ein fiktives Musiktheaterstück, gespickt mit historischen Fakten aus der spannenden Geschichte des Klosters Allerengelberg. 
 
 An diesem großen Gemeinschaftsprojekt waren die Heimatbühne und der Kirchenchor Schnals, Instrumentalisten der Musikkapellen, die drei Grundschulen des Tales und unzählige freiwillige Helfer beteiligt. Die Premiere fand am 3. Juli um 21.00 Uhr am Dorfplatz von Karthaus statt. Die Produktion wurde aufgezeichnet.</desc>
   </programme>
   <programme start="20260405221000 +0200" stop="20260405223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260406180000 +0200" stop="20260406181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der Bozner FC empfängt am 25. Spieltag in der Fußball-Oberliga St. Pauls. Die Überetscher kämpfen um den Klassenerhalt und müssen unbedingt punkten.  
+In der Landesliga trifft Gitschberg Jochtal in Vals auf Gargazon, während Stegen zu Hause gegen den Tabellenzweiten Naturns spielt.</desc>
+  </programme>
+  <programme start="20260406181400 +0200" stop="20260406185851 +0200" channel="Rai Südtirol">
+    <title>Der Eisack</title>
+    <sub-title>Leben am Fluss</sub-title>
+    <desc>Von der Quelle am Brenner bis zur Mündung in die Etsch bei Bozen legt der Eisack 100 km zurück. Die Filmemacher Willi Rainer und Benjamin Zwack erkunden seine Geschichte und seine Bedeutung.
+Der Eisack hat im Laufe der Jahrhunderte auch immer wieder Überschwemmungen verursacht. Wir sprechen mit Expert:innen über die Herausforderungen durch den Klimawandel und wie die Flussregulierung heute professionell gelingt.
+Der Eisack lockt aber auch Naturfreunde an, die entlang des Flusslaufes vieles erleben können. In Sterzing, Brixen, Klausen und Bozen erfahren wir mehr über die kulturelle und wirtschaftliche
+Bedeutung des Eisacks für die Bevölkerung.</desc>
+  </programme>
+  <programme start="20260406200000 +0200" stop="20260406202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260406202000 +0200" stop="20260406211800 +0200" channel="Rai Südtirol">
+    <title>Passion Gespannfahren</title>
+    <sub-title>Hannes Weitlaner</sub-title>
+    <desc>Mit Herz und Leinen. Ein Porträt über den Pusterer Hannes Weitlaner, der sich dem Gespannfahren verschrieben hat. Mit seinem Haflinger-Gespann errang er 2011 Edelmetall. 
+
+Ein Jahr lang hat ein Filmteam den Südtiroler Hannes Weitlaner aus dem Pustertal begleitet. Daraus ist ein eindrucksvoller Film von Juri Gasperi über das Gespannfahren entstanden. Das ist ein Pferdesport, der in einer Nische verborgen scheint und doch so viel Interessantes in sich birgt. Hannes Weitlaner gewann 2011 im slowenischen Lipica die WM-Bronzemedaille. Er ist Gestütsleiter auf dem Tolderhof in Oberolang und heute erfolgreicher Nationaltrainer. Das Portrait eines Mannes, der sich ganz seiner Passion verschrieben hat und alles daransetzt, seine Sportart zu erhalten.</desc>
+  </programme>
+  <programme start="20260406211800 +0200" stop="20260406214730 +0200" channel="Rai Südtirol">
+    <title>Dorothea Wierer</title>
+    <sub-title/>
+    <desc>Nach über 80 Podiumsplatzierungen in rund 435 Rennen auf Profiniveau beendete Dorothea Wierer bei den vergangenen Olympischen Spielen zuhause in Antholz ihre Biathlon-Karriere. In ihrem Wohnzimmer verrät uns die &quot;Diva des Biathlons&quot; nun, wie sie auf ihre Karriere zurückblickt und welche Aufgaben sie in ihrem neuen Lebensabschnitt erwarten.</desc>
+  </programme>
+  <programme start="20260406214800 +0200" stop="20260406215810 +0200" channel="Rai Südtirol">
+    <title>Begrwelt Spuren</title>
+    <sub-title>Hugo Rieder</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260406221000 +0200" stop="20260406223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260407200000 +0200" stop="20260407202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260407202000 +0200" stop="20260407202928 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Steinbruch Branzoll</sub-title>
+    <desc>Oberhalb von Branzoll war einst das Zentrum der Südtiroler Pflastersteinproduktion. Heute werden die vielen Arbeiter von einst durch moderne Maschinen ersetzt. Ein Film von Klaus Romen und Gerd Staffler. 
+
+Der rote Bozner Quarzporphyr entstand vor 270 Millionen Jahren und ist vulkanischen Ursprungs. Seit dem 16. Jh. wird er vor allem im Unterland abgebaut. Die Blütezeit der Porphyr-Steinbrüche in Branzoll ist zwar vorbei, aber auch heute noch werden im Steinbruch oberhalb von Branzoll Pflastersteine und Platten gewonnen.  
+Dort wo früher bis 500 Arbeiter beschäftigt waren, sind heute wenige Fachkräfte mit modernen Maschinen am Werk. Die Nachfrage nach Pflastersteinen besteht zwar noch, aber Großaufträge sind seltener geworden.</desc>
+  </programme>
+  <programme start="20260407202900 +0200" stop="20260407203343 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Klarinettistin Andrea Götsch</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260407203400 +0200" stop="20260407204830 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Der Bozner FC empfängt am 25. Spieltag in der Fußball-Oberliga St. Pauls. Die Überetscher kämpfen um den Klassenerhalt und müssen unbedingt punkten.  
+In der Landesliga trifft Gitschberg Jochtal in Vals auf Gargazon, während Stegen zu Hause gegen den Tabellenzweiten Naturns spielt.</desc>
+  </programme>
+  <programme start="20260407221000 +0200" stop="20260407223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260408200000 +0200" stop="20260408202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260408202000 +0200" stop="20260408204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Handwerk, das seine Stärken bewahrt und gleichzeitig moderne Werkzeuge nutzt, von der Ausbildung über die Kommunikation bis hin zum Verkauf. Moderation: Christian Pfeifer. 
+
+Trend präsentiert in dieser Ausgabe Teilnehmer:innen der WorldSkills, die sich, noch überwiegend in Ausbildung, über Monate hinweg intensiv auf die internationale &quot;Olympiade der Handwerksberufe&quot; in Shanghai vorbereiten. Gemeinsam mit ihren Betrieben, Trainern und Trainerinnen investieren sie Zeit, Know-how und oft erhebliche Mittel, um ihr Können auf globaler Bühne unter Beweis zu stellen. 
+Immer mehr Handwerksbetriebe setzen auf Social Media, um ihre Arbeit sichtbar zu machen. Ob eigenproduzierte Videos aus dem Arbeitsalltag oder gezielte Online-Vermarktung - Handwerker wollen zur Marke werden, erreichen neue Kunden und werben um potenzielle Mitarbeiter. 
+Neue Wege für traditionelle Handwerksbetriebe gibt es auch im Vertrieb: Eine Metzgerei bringt Frischfleisch mit einem mobilen Verkaufsstand in verschiedene Orte zu den Kunden und nutzt digitale Kanäle zur Organisation und Bewerbung ihres Angebots.</desc>
+  </programme>
+  <programme start="20260408221000 +0200" stop="20260408223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260409200000 +0200" stop="20260409202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260409202000 +0200" stop="20260409204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Berufsschule oder Gymnasium?</sub-title>
+    <desc>Wofür entscheiden sich Südtirols Jugendliche heute - für Allgemeinbildung oder für eine praxisbezogene Ausbildung? Gast bei Karin Gschnitzer ist Peter Prieth, Landesdirektor der berufsbildenden Schulen.     
+
+Die Wahl zwischen Gymnasium und Berufsschule hängt von den Zielen ab: Das Gymnasium bietet eine breite Allgemeinbildung mit Fokus auf Matura und Studium. Die Berufsschule vermittelt praxisnah theoretisches Wissen für einen konkreten Beruf, sie ermöglicht aber auch höhere Schulabschlüsse. Wofür entscheiden sich Südtirols Jugendliche? Zu Gast ist Peter Prieth, Landesdirektor der berufsbildenden Schulen.  
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Ausschnitte aus der Tagesschau von Rai Südtirol aus dem Jahr 1976 und in &quot;Wiedersehen&quot; besuchen wir das Franziskanergymnasium in Bozen.</desc>
+  </programme>
+  <programme start="20260409221000 +0200" stop="20260409223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260410180000 +0200" stop="20260410182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Berufsschule oder Gymnasium?</sub-title>
+    <desc>Wofür entscheiden sich Südtirols Jugendliche heute - für Allgemeinbildung oder für eine praxisbezogene Ausbildung? Gast bei Karin Gschnitzer ist Peter Prieth, Landesdirektor der berufsbildenden Schulen. Die Wahl zwischen Gymnasium und Berufsschule hängt von den Zielen ab: Das Gymnasium bietet eine breite Allgemeinbildung mit Fokus auf Matura und Studium. Die Berufsschule vermittelt praxisnah theoretisches Wissen für einen konkreten Beruf, sie ermöglicht aber auch höhere Schulabschlüsse. Wofür entscheiden sich Südtirols Jugendliche? Zu Gast ist Peter Prieth, Landesdirektor der berufsbildenden Schulen.  
+In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Ausschnitte aus der Tagesschau von Rai Südtirol aus dem Jahr 1976 und in &quot;Wiedersehen&quot; besuchen wir das Franziskanergymnasium in Bozen.</desc>
+  </programme>
+  <programme start="20260410182900 +0200" stop="20260410185830 +0200" channel="Rai Südtirol">
+    <title>Pflege in Südtirol</title>
+    <sub-title/>
+    <desc>Wer steht an unserem Bett, wenn wir alt, gebrechlich und pflegebedürftig sind? Pflege hat viele Gesichter: die Tochter, die nach einem langen Arbeitstag noch zur Mutter fährt; die &quot;Badante&quot;, die Tag und Nacht zur Stelle ist; die Pflegekraft, die im Morgengrauen einem Bewohner das Gesicht wäscht und abends die Suppe einlöffelt; Pflege bedeutet Nähe, Verantwortung - und oft auch Überforderung. Die Reportage &quot;24 Stunden - Pflege in Südtirol&quot; von Thomas Hainz begleitet Menschen, die pflegen und gepflegt 
+werden, durch ihren Alltag.</desc>
+  </programme>
+  <programme start="20260410200000 +0200" stop="20260410202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260410202000 +0200" stop="20260410215930 +0200" channel="Rai Südtirol">
+    <title>WIR und der Sport</title>
+    <sub-title>Die Alperia Sporthilfe Gala 2026</sub-title>
+    <desc>Einen Abend lang blicken wir zurück auf die sportlichen Highlights der letzten zwölf Monate und erfahren, wer diesmal Sportler:in des Jahres wird. Es moderieren Markus Frings und Laura Moroder. 
+
+Der Meraner Kursaal verwandelt sich für einen Abend in ein riesiges Sportstudio. Zu Wort kommen Persönlichkeiten aus der Welt des Sports. Im Mittelpunkt steht natürlich die Wahl des Sportlers bzw. der Sportlerin des Jahres. Weiters wird der Ossi-Pircher-Preis vergeben, wir erfahren, wer für sein Lebenswerk ausgezeichnet wird und wer diesmal die Auszeichnung Sportler:in mit Herz erhält. WIR und der Sport - live aus dem Meraner Kursaal.</desc>
+  </programme>
+  <programme start="20260410221000 +0200" stop="20260410223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260411180000 +0200" stop="20260411182930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Handwerk, das seine Stärken bewahrt und gleichzeitig moderne Werkzeuge nutzt, von der Ausbildung über die Kommunikation bis hin zum Verkauf. Moderation: Christian Pfeifer. 
+Trend präsentiert in dieser Ausgabe Teilnehmer:innen der WorldSkills, die sich, noch überwiegend in Ausbildung, über Monate hinweg intensiv auf die internationale &quot;Olympiade der Handwerksberufe&quot; in Shanghai vorbereiten. Gemeinsam mit ihren Betrieben, Trainern und Trainerinnen investieren sie Zeit, Know-how und oft erhebliche Mittel, um ihr Können auf globaler Bühne unter Beweis zu stellen. 
+Immer mehr Handwerksbetriebe setzen auf Social Media, um ihre Arbeit sichtbar zu machen. Ob eigenproduzierte Videos aus dem Arbeitsalltag oder gezielte Online-Vermarktung - Handwerker wollen zur Marke werden, erreichen neue Kunden und werben um potenzielle Mitarbeiter. 
+Neue Wege für traditionelle Handwerksbetriebe gibt es auch im Vertrieb: Eine Metzgerei bringt Frischfleisch mit einem mobilen Verkaufsstand in verschiedene Orte zu den Kunden und nutzt digitale Kanäle zur Organisation und Bewerbung ihres Angebots.</desc>
+  </programme>
+  <programme start="20260411182900 +0200" stop="20260411185830 +0200" channel="Rai Südtirol">
+    <title>Lex Gentile</title>
+    <sub-title>Die Schulreform von 1923 und ihre Folgen für Südtirol</sub-title>
+    <desc>Unterrichtsminister Giovanni Gentile erließ 1923 eine umfassende Schulreform, die bis in die 1960er Jahre galt. Die Reform zielte darauf ab, das italienische Bildungsniveau zu heben und zu
+zentralisieren. So wurde im Jahre 1925 in den ersten Klassen der Volksschulen nur mehr Italienisch als Unterrichtssprache zugelassen. Sämtliche Minderheitensprachen wie Slowenisch, Kroatisch oder Deutsch wurden verboten. Was bedeutete dies für den Schulunterricht in Südtirol? Wie wirkte sich diese Reform auf das allgemeine Bildungsniveau der heranwachsenden Generation aus?
+Die Dokumentation von Stefan Nicolini versucht diese Fragen zu beantworten und konzentriert sich zeitlich auf die 1920er Jahre. Dabei kommen Zeitzeugen zu Wort, die ihre persönlichen
+Erfahrungen schildern, aber auch Historiker:innen. Außerdem Prof. Annemarie Augschöll-Blasbichler von der Freien Universität Bozen, die seit Jahren diese Thematik erforscht.
+Reenactment-Szenen mit Mitgliedern der Volksbühne Vahrn schildern den schulischen Alltag in
+anschaulicher Art und Weise.</desc>
+  </programme>
+  <programme start="20260411200000 +0200" stop="20260411202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260411202100 +0200" stop="20260411202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260411202500 +0200" stop="20260411205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Die 95jährige Rosa Zanol Teutsch, der Verein helping hands aus Brixen, Missbrauchsopfer Gernot Paulmichl aus Stilfs und Maria Sparber, Ombudsfrau für innerkirchliche Missbrauchsfälle. 
+
+Seit einem Schlaganfall ist der Alltag entschleunigt, der Tag stiller, das Leben zurückgezogen: Doch wenn Rosa Zanol Teutsch aus Kurtinig ins Reden kommt, erinnert sie sich an Details, die berühren. 
+Helping hands - helfende Hände - ist der Name einer Gruppe beherzter Menschen, die ehrenamtlich Möbel, vorzugsweise Küchen aus- und einbauen und dafür die Verdienstmedaille des Landes Tirol erhielten.  
+Gernot Paulmichls Leben ist geprägt von den zwei Jahren in der Kindheit, in denen er den sexuellen Übergriffen des Pfarrers seines Heimatdorfes ausgesetzt war. Jahrzehnte später konnte er sein Schweigen brechen.  
+Maria Sparber wurde vor mehreren Jahren als außenstehende Supervisorin von der Diözese Bozen-Brixen beauftragt, die Ombudsstelle für innerkirchliche Missbrauchsfälle zu leiten.</desc>
+  </programme>
+  <programme start="20260411221000 +0200" stop="20260411223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260412200000 +0200" stop="20260412202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260412202000 +0200" stop="20260412204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Schlaneid</sub-title>
+    <desc>Hoch über dem Etschtal, auf rund 1.150 Metern, liegt Schlaneid, eine kleine Fraktion der Gemeinde Mölten mit rund 339 Einwohnern. Ein Dorf zwischen Natur, Geschichte und lebendiger Dorfgemeinschaft. 
+
+Bürgermeister Walter Gruber, selbst in Schlaneid aufgewachsen, erinnert sich an Zeiten, als das Dorf nur über einen Gehweg oder die Seilbahn erreichbar war. Heute ist Schlaneid ein beliebter Ausgangspunkt für Wanderungen. 
+Die ehemalige Lehrerin Elfriede Crepaz erzählt von den Anfängen der Schule, Kräuterexpertin Maria Teresa Bortoluzzi sammelt in den Wiesen rund um das Dorf Heilpflanzen und Mesnerin Marianne Hofer Perkmann führt durch die Valentin-Kirche. 
+Der Schlaneiderhof, geführt von Julia Duregger und ihrer Familie, ist die einzige Einkehr im Ort, ein Treffpunkt für Einheimische und Gäste zugleich.</desc>
+  </programme>
+  <programme start="20260412204500 +0200" stop="20260412204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260412221000 +0200" stop="20260412223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
