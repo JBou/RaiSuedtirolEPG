@@ -4,11 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260404221000 +0200" stop="20260404223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260405100000 +0200" stop="20260405113000 +0200" channel="Rai Südtirol">
     <title>Pontifikalamt am Ostersonntag</title>
     <sub-title>Live aus dem Bozner Dom</sub-title>
