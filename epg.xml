@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260406180000 +0200" stop="20260406181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Der Bozner FC empfängt am 25. Spieltag in der Fußball-Oberliga St. Pauls. Die Überetscher kämpfen um den Klassenerhalt und müssen unbedingt punkten.  
-In der Landesliga trifft Gitschberg Jochtal in Vals auf Gargazon, während Stegen zu Hause gegen den Tabellenzweiten Naturns spielt.</desc>
-  </programme>
-  <programme start="20260406181400 +0200" stop="20260406185851 +0200" channel="Rai Südtirol">
-    <title>Der Eisack</title>
-    <sub-title>Leben am Fluss</sub-title>
-    <desc>Von der Quelle am Brenner bis zur Mündung in die Etsch bei Bozen legt der Eisack 100 km zurück. Die Filmemacher Willi Rainer und Benjamin Zwack erkunden seine Geschichte und seine Bedeutung.
-Der Eisack hat im Laufe der Jahrhunderte auch immer wieder Überschwemmungen verursacht. Wir sprechen mit Expert:innen über die Herausforderungen durch den Klimawandel und wie die Flussregulierung heute professionell gelingt.
-Der Eisack lockt aber auch Naturfreunde an, die entlang des Flusslaufes vieles erleben können. In Sterzing, Brixen, Klausen und Bozen erfahren wir mehr über die kulturelle und wirtschaftliche
-Bedeutung des Eisacks für die Bevölkerung.</desc>
-  </programme>
-  <programme start="20260406200000 +0200" stop="20260406202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260406202000 +0200" stop="20260406211800 +0200" channel="Rai Südtirol">
-    <title>Passion Gespannfahren</title>
-    <sub-title>Hannes Weitlaner</sub-title>
-    <desc>Mit Herz und Leinen. Ein Porträt über den Pusterer Hannes Weitlaner, der sich dem Gespannfahren verschrieben hat. Mit seinem Haflinger-Gespann errang er 2011 Edelmetall. 
-
-Ein Jahr lang hat ein Filmteam den Südtiroler Hannes Weitlaner aus dem Pustertal begleitet. Daraus ist ein eindrucksvoller Film von Juri Gasperi über das Gespannfahren entstanden. Das ist ein Pferdesport, der in einer Nische verborgen scheint und doch so viel Interessantes in sich birgt. Hannes Weitlaner gewann 2011 im slowenischen Lipica die WM-Bronzemedaille. Er ist Gestütsleiter auf dem Tolderhof in Oberolang und heute erfolgreicher Nationaltrainer. Das Portrait eines Mannes, der sich ganz seiner Passion verschrieben hat und alles daransetzt, seine Sportart zu erhalten.</desc>
-  </programme>
-  <programme start="20260406211800 +0200" stop="20260406214730 +0200" channel="Rai Südtirol">
-    <title>Dorothea Wierer</title>
-    <sub-title/>
-    <desc>Nach über 80 Podiumsplatzierungen in rund 435 Rennen auf Profiniveau beendete Dorothea Wierer bei den vergangenen Olympischen Spielen zuhause in Antholz ihre Biathlon-Karriere. In ihrem Wohnzimmer verrät uns die &quot;Diva des Biathlons&quot; nun, wie sie auf ihre Karriere zurückblickt und welche Aufgaben sie in ihrem neuen Lebensabschnitt erwarten.</desc>
-  </programme>
-  <programme start="20260406214800 +0200" stop="20260406215810 +0200" channel="Rai Südtirol">
-    <title>Begrwelt Spuren</title>
-    <sub-title>Hugo Rieder</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260406221000 +0200" stop="20260406223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260407200000 +0200" stop="20260407202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
