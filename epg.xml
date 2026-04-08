@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260407200000 +0200" stop="20260407202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260407202000 +0200" stop="20260407202928 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Steinbruch Branzoll</sub-title>
-    <desc>Oberhalb von Branzoll war einst das Zentrum der Südtiroler Pflastersteinproduktion. Heute werden die vielen Arbeiter von einst durch moderne Maschinen ersetzt. Ein Film von Klaus Romen und Gerd Staffler. 
-
-Der rote Bozner Quarzporphyr entstand vor 270 Millionen Jahren und ist vulkanischen Ursprungs. Seit dem 16. Jh. wird er vor allem im Unterland abgebaut. Die Blütezeit der Porphyr-Steinbrüche in Branzoll ist zwar vorbei, aber auch heute noch werden im Steinbruch oberhalb von Branzoll Pflastersteine und Platten gewonnen.  
-Dort wo früher bis 500 Arbeiter beschäftigt waren, sind heute wenige Fachkräfte mit modernen Maschinen am Werk. Die Nachfrage nach Pflastersteinen besteht zwar noch, aber Großaufträge sind seltener geworden.</desc>
-  </programme>
-  <programme start="20260407202900 +0200" stop="20260407203343 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Die Klarinettistin Andrea Götsch</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260407203400 +0200" stop="20260407204830 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Der Bozner FC empfängt am 25. Spieltag in der Fußball-Oberliga St. Pauls. Die Überetscher kämpfen um den Klassenerhalt und müssen unbedingt punkten.  
-In der Landesliga trifft Gitschberg Jochtal in Vals auf Gargazon, während Stegen zu Hause gegen den Tabellenzweiten Naturns spielt.</desc>
-  </programme>
-  <programme start="20260407221000 +0200" stop="20260407223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260408200000 +0200" stop="20260408202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
