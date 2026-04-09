@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260408200000 +0200" stop="20260408202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260408202000 +0200" stop="20260408204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Handwerk, das seine Stärken bewahrt und gleichzeitig moderne Werkzeuge nutzt, von der Ausbildung über die Kommunikation bis hin zum Verkauf. Moderation: Christian Pfeifer. 
-
-Trend präsentiert in dieser Ausgabe Teilnehmer:innen der WorldSkills, die sich, noch überwiegend in Ausbildung, über Monate hinweg intensiv auf die internationale &quot;Olympiade der Handwerksberufe&quot; in Shanghai vorbereiten. Gemeinsam mit ihren Betrieben, Trainern und Trainerinnen investieren sie Zeit, Know-how und oft erhebliche Mittel, um ihr Können auf globaler Bühne unter Beweis zu stellen. 
-Immer mehr Handwerksbetriebe setzen auf Social Media, um ihre Arbeit sichtbar zu machen. Ob eigenproduzierte Videos aus dem Arbeitsalltag oder gezielte Online-Vermarktung - Handwerker wollen zur Marke werden, erreichen neue Kunden und werben um potenzielle Mitarbeiter. 
-Neue Wege für traditionelle Handwerksbetriebe gibt es auch im Vertrieb: Eine Metzgerei bringt Frischfleisch mit einem mobilen Verkaufsstand in verschiedene Orte zu den Kunden und nutzt digitale Kanäle zur Organisation und Bewerbung ihres Angebots.</desc>
-  </programme>
-  <programme start="20260408221000 +0200" stop="20260408223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260409200000 +0200" stop="20260409202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
