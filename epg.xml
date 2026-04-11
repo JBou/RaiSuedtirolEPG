@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260410180000 +0200" stop="20260410182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Berufsschule oder Gymnasium?</sub-title>
-    <desc>Wofür entscheiden sich Südtirols Jugendliche heute - für Allgemeinbildung oder für eine praxisbezogene Ausbildung? Gast bei Karin Gschnitzer ist Peter Prieth, Landesdirektor der berufsbildenden Schulen. Die Wahl zwischen Gymnasium und Berufsschule hängt von den Zielen ab: Das Gymnasium bietet eine breite Allgemeinbildung mit Fokus auf Matura und Studium. Die Berufsschule vermittelt praxisnah theoretisches Wissen für einen konkreten Beruf, sie ermöglicht aber auch höhere Schulabschlüsse. Wofür entscheiden sich Südtirols Jugendliche? Zu Gast ist Peter Prieth, Landesdirektor der berufsbildenden Schulen.  
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Ausschnitte aus der Tagesschau von Rai Südtirol aus dem Jahr 1976 und in &quot;Wiedersehen&quot; besuchen wir das Franziskanergymnasium in Bozen.</desc>
-  </programme>
-  <programme start="20260410182900 +0200" stop="20260410185830 +0200" channel="Rai Südtirol">
-    <title>Pflege in Südtirol</title>
-    <sub-title/>
-    <desc>Wer steht an unserem Bett, wenn wir alt, gebrechlich und pflegebedürftig sind? Pflege hat viele Gesichter: die Tochter, die nach einem langen Arbeitstag noch zur Mutter fährt; die &quot;Badante&quot;, die Tag und Nacht zur Stelle ist; die Pflegekraft, die im Morgengrauen einem Bewohner das Gesicht wäscht und abends die Suppe einlöffelt; Pflege bedeutet Nähe, Verantwortung - und oft auch Überforderung. Die Reportage &quot;24 Stunden - Pflege in Südtirol&quot; von Thomas Hainz begleitet Menschen, die pflegen und gepflegt 
-werden, durch ihren Alltag.</desc>
-  </programme>
-  <programme start="20260410200000 +0200" stop="20260410202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260410202000 +0200" stop="20260410215930 +0200" channel="Rai Südtirol">
-    <title>WIR und der Sport</title>
-    <sub-title>Die Alperia Sporthilfe Gala 2026</sub-title>
-    <desc>Einen Abend lang blicken wir zurück auf die sportlichen Highlights der letzten zwölf Monate und erfahren, wer diesmal Sportler:in des Jahres wird. Es moderieren Markus Frings und Laura Moroder. 
-
-Der Meraner Kursaal verwandelt sich für einen Abend in ein riesiges Sportstudio. Zu Wort kommen Persönlichkeiten aus der Welt des Sports. Im Mittelpunkt steht natürlich die Wahl des Sportlers bzw. der Sportlerin des Jahres. Weiters wird der Ossi-Pircher-Preis vergeben, wir erfahren, wer für sein Lebenswerk ausgezeichnet wird und wer diesmal die Auszeichnung Sportler:in mit Herz erhält. WIR und der Sport - live aus dem Meraner Kursaal.</desc>
-  </programme>
-  <programme start="20260410221000 +0200" stop="20260410223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260411180000 +0200" stop="20260411182930 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -272,6 +243,29 @@ Zusammenlebens werden, in denen Architektur Geborgenheit, Teilhabe und Identitä
 Möwen dringen schon seit Jahren ins Binnenland und auch in die Alpenregionen vor. Auch in Bozen ist die Mittelmeermöwe anzutreffen. Mehrere Brutpaare haben in Bozen Süd eine Heimat gefunden. Die eleganten Segelflieger kreisen am Himmel oberhalb von Bozen und fliegen oft weite Strecken der Flüsse entlang auf Nahrungssuche. 30 verschiedene heimische Fischarten sind im Besucherzentrum Aquaprad im Nationalpark Stilfserjoch zu beobachten.  Die Bewohner von Südtirols Bächen, Flüssen, Mooren und Teichen werden in naturnah gestalteten Aquarien gehalten und ermöglichen so Einblicke in die lokale, oft unbekannte Welt der Fischfauna Südtirols. Weiters berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
   </programme>
   <programme start="20260418221000 +0200" stop="20260418223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260419200000 +0200" stop="20260419202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260419202000 +0200" stop="20260419204430 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Oberschülerinnen berichten über ihren Schüleraustausch. Ein junger Feuerwehrmann und sein Traum. Die neue Fachrichtung Verkauf und Office-Management an der Berufsschule Luis Zuegg in Meran. 
+
+Neue Sprache, neue Freunde, neue Perspektiven: Im Fokus stehen zwei Schülerinnen des Sozialwissenschaftlichen Gymnasiums Bozen, die ein Semester am italienischen Pendant ihrer Schule verbracht haben. Schülerinnen des Gymnasiums Walter von der Vogelweide berichten von ihren Aufenthalten in Barcelona und Süditalien. Eine junge Oberboznerin verbringt derzeit ein Auslandsjahr in Kanada. Beim Videotelefonat mit der Familie wird deutlich, wie sehr ein solcher Schritt sowohl die Jugendlichen als auch ihre Familien bewegt. Mit 23 Jahren lebt Tobias Aberham das, wovon viele als Kinder träumen: Er ist Feuerwehrmann. Doch sein Alltag besteht nicht nur aus Einsätzen und Übungen, sondern auch aus intensivem Training, Teamarbeit und großer Verantwortung. Ausgleich findet Tobias beim Klettern.  
+Verkaufen, organisieren, digital arbeiten - an der Landesberufsschule Luis Zuegg in Meran entsteht mit &quot;Verkauf und Office-Management&quot; eine neue Fachrichtung, die sich gezielt an den Anforderungen der heutigen Arbeitswelt orientiert.</desc>
+  </programme>
+  <programme start="20260419204600 +0200" stop="20260419205000 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260419221000 +0200" stop="20260419223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
