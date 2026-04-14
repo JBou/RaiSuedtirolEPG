@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260413180000 +0200" stop="20260413181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Fünf Spieltage sind in der Oberliga noch ausständig: Tramin empfängt den Bozner FC, beide Mannschaften wollen nach einer schwachen Rückrunde wieder auf die Siegerstraße zurückkehren, während Schlusslicht Gröden den SV Partschins zu Gast hat.   In der Landesliga trifft der Tabellen-Vierte Terlan auf den Tabellen-Dritten Olimpia Meran.</desc>
-  </programme>
-  <programme start="20260413181400 +0200" stop="20260413183200 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Die verborgene Welt der Pilze</sub-title>
-    <desc>Im Naturmuseum Südtirol in Bozen läuft derzeit die Sonderausstellung &quot;Funga&quot; über die faszinierende und oft verborgene Welt der Pilze. Zipp-Reporterin Olivia trifft dort Wissenschaftlerin Margit. Gemeinsam entdecken sie, dass Pilze riesige, unsichtbare Netzwerke im Boden bilden, sie helfen Pflanzen beim Wachsen und sind für das Leben auf der Erde unglaublich wichtig. Sogar in unserem eigenen Körper spielen sie eine bedeutende Rolle. Olivia ist beeindruckt.</desc>
-  </programme>
-  <programme start="20260413183200 +0200" stop="20260413185630 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Schlaneid</sub-title>
-    <desc>Hoch über dem Etschtal, auf rund 1.150 Metern, liegt Schlaneid, eine kleine Fraktion der Gemeinde Mölten mit rund 339 Einwohnern. Ein Dorf zwischen Natur, Geschichte und lebendiger Dorfgemeinschaft. Bürgermeister Walter Gruber, selbst in Schlaneid aufgewachsen, erinnert sich an Zeiten, als das Dorf nur über einen Gehweg oder die Seilbahn erreichbar war. Heute ist Schlaneid ein beliebter Ausgangspunkt für Wanderungen. 
-Die ehemalige Lehrerin Elfriede Crepaz erzählt von den Anfängen der Schule, Kräuterexpertin Maria Teresa Bortoluzzi sammelt in den Wiesen rund um das Dorf Heilpflanzen und Mesnerin Marianne Hofer Perkmann führt durch die Valentin-Kirche. 
-Der Schlaneiderhof, geführt von Julia Duregger und ihrer Familie, ist die einzige Einkehr im Ort, ein Treffpunkt für Einheimische und Gäste zugleich.</desc>
-  </programme>
-  <programme start="20260413200000 +0200" stop="20260413202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260413202000 +0200" stop="20260413212337 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20260413212300 +0200" stop="20260413215004 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Wie machen wir die Welt für Frauen passend? Mobilität, Sicherheit? Die Filmemacherin und queere Aktivistin Martine De Biasi im Porträt. Gedanken zum Equal Care Day. Moderation: Martina Kreuzer. Mit einer Historikerin sehen wir Stadt durch weibliche Augen. Eine Mobilitätsforscherin erklärt, warum Frauen dem Bus hinterherlaufen. Wir fragen eine Design Professorin: Wie patriarchal sind die Dinge? Die Direktorin des Arbeitsinspektorats: Wie sieht Sicherheit für Frauen aus? Und zwei Unternehmerinnen suchen Verbündete: Girls wanted. Im dF-Portrait - Martine De Biasi: Geschichte erzählen, Gemeinschaft schaffen, Vielfalt und ein Wir-Gefühl fördern: Das ist der rote Faden, der sich durch das Schaffen von Martine De Biasi zieht. Für das dF-Porträt führt uns die Filmemacherin, dokumentarische Erzählerin und queere Aktivistin an den Ort ihrer Kindheit zurück, gibt Einblick in aktuelle Projekte und verrät, wie frau lernen kann, glücklich anders zu sein. In dF Info berichten wir über den &quot;Sara-Weg&quot; - ein Leitfaden für Unternehmen und Menschen von Judith Senoner und über den Equal Care Day, den Aktionstag, der auf die ungleiche Verteilung von Sorgearbeit aufmerksam macht.</desc>
-  </programme>
-  <programme start="20260413215000 +0200" stop="20260413215919 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Bildmuseum</sub-title>
-    <desc>Die Illusion der bewegten Bilder im Daumenkino des 19.Jahrhunderts. Keine Kunstwerke waren zu sehen, nur einfache Slapsticks, Doch das Publikum war begeistert, die musikalische Untermalung besorgte eine Spieluhr.  
-Der Besuch in einer der größten Privatsammlungen historischer Foto- und Filmapparate gleicht einer Zeitreise durch über zwei Jahrhunderte. Technische Perfektion gepaart mit kunsthandwerklicher Ästhetik auf engstem Raum. Die Exponate sollen jetzt der Öffentlichkeit zugänglich gemacht werden.</desc>
-  </programme>
-  <programme start="20260413221000 +0200" stop="20260413223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260414200000 +0200" stop="20260414202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
