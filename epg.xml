@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260414200000 +0200" stop="20260414202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260414202000 +0200" stop="20260414203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260414203500 +0200" stop="20260414204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Fünf Spieltage sind in der Oberliga noch ausständig: Tramin empfängt den Bozner FC, beide Mannschaften wollen nach einer schwachen Rückrunde wieder auf die Siegerstraße zurückkehren, während Schlusslicht Gröden den SV Partschins zu Gast hat. In der Landesliga trifft der Tabellen-Vierte Terlan auf den Tabellen-Dritten Olimpia Meran.</desc>
-  </programme>
-  <programme start="20260414221000 +0200" stop="20260414223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260415200000 +0200" stop="20260415202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
