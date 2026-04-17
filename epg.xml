@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260416200000 +0200" stop="20260416202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260416202000 +0200" stop="20260416204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Faszination Extremsport</sub-title>
-    <desc>Was bringt Menschen dazu, sich Gefahren und körperlichen Qualen auszusetzen? Wie gelingt es ihnen, sich immer wieder neu zu motivieren? Es moderiert Magdalena Oberstaller.     
-
-Sie hangeln sich an Eiswänden in schwindelnde Höhen, rennen über 4.000 Kilometer quer durch Europa oder tauchen zehn Minuten lang ohne Sauerstoffgerät unter Wasser. Extremsportler:innen vollbringen Leistungen im Grenzbereich menschlicher Fähigkeiten. Was bringt sie dazu, sich gefährlichen Herausforderungen und körperlichen Qualen auszusetzen? Wie gelingt es ihnen, sich immer wieder neu zu motivieren? 
-Zu Gast ist Axel Bernhart von F-Tech. Einer der Schwerpunkte des Unternehmens sind Filmportraits von Extremsportlern. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Ausschnitte aus der Tagesschau von Rai Südtirol aus dem Jahr 1976 und in &quot;Wiedersehen&quot; zeigen wir Ausschnitte aus der Dokumentation &quot;Warum? Extremsportler auf der Suche nach sich selbst&quot;.</desc>
-  </programme>
-  <programme start="20260416221000 +0200" stop="20260416223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260417180000 +0200" stop="20260417182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Faszination Extremsport</sub-title>
@@ -118,6 +99,179 @@ Verkaufen, organisieren, digital arbeiten - an der Landesberufsschule Luis Zuegg
     <desc/>
   </programme>
   <programme start="20260419221000 +0200" stop="20260419223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260420180000 +0200" stop="20260420181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vier Runden vor Meisterschaftsende stehen in der Fußball-Oberliga zwei Südtiroler Derbys auf dem Programm: Ahrntal kämpft im Heimspiel gegen Tramin um den Klassenerhalt, während St. Georgen beim Bozner FC zu Gast ist. In der Landesliga empfängt Leifers Weinstraße Süd.</desc>
+  </programme>
+  <programme start="20260420181500 +0200" stop="20260420183300 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kochen kinderleicht &quot;Rote Bete Scherennudel mit Spinat&quot;</sub-title>
+    <desc>Kinderköchin Linda zaubert gemeinsam mit Kochlehrerin Martina ein farbenfrohes Gericht: Rote-Bete-Scherennudeln! Dafür kneten sie einen leuchtend purpurroten Nudelteig und formen ihn zu einer großen Kugel. Mit einer Schere schneidet Linda gleichmäßige Nudeln ab, die anschließend im kochenden Wasser garen. Verfeinert mit frischem Spinat entsteht ein kinderleichtes Rezept, das nicht nur lecker schmeckt, sondern auch richtig Spaß macht! 
+Und in Sportkids &quot;Tanzen&quot; stellt sich die Tanzsportgruppe Brixen vor. Die jüngsten TänzerInnen beginnen bereits mit 4 Jahren und bei ihnen steht der Spaß an der Bewegung und das sich Austoben im Rhythmus der Musik im Vordergrund. Die älteren Kids wagen sich nach und nach an die Genres Modern Jazz, Contemporary und Hip-Hop und alle egal ob Anfänger oder Fortgeschrittene, lieben diese faszinierende Kunstform und Sportart; das Tanzen.</desc>
+  </programme>
+  <programme start="20260420183300 +0200" stop="20260420185730 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Oberschülerinnen berichten über ihren Schüleraustausch. Ein junger Feuerwehrmann und sein Traum. Die neue Fachrichtung Verkauf und Office-Management an der Berufsschule Luis Zuegg in Meran. 
+Neue Sprache, neue Freunde, neue Perspektiven: Im Fokus stehen zwei Schülerinnen des Sozialwissenschaftlichen Gymnasiums Bozen, die ein Semester am italienischen Pendant ihrer Schule verbracht haben. Schülerinnen des Gymnasiums Walter von der Vogelweide berichten von ihren Aufenthalten in Barcelona und Süditalien. Eine junge Oberboznerin verbringt derzeit ein Auslandsjahr in Kanada. Beim Videotelefonat mit der Familie wird deutlich, wie sehr ein solcher Schritt sowohl die Jugendlichen als auch ihre Familien bewegt. Mit 23 Jahren lebt Tobias Aberham das, wovon viele als Kinder träumen: Er ist Feuerwehrmann. Doch sein Alltag besteht nicht nur aus Einsätzen und Übungen, sondern auch aus intensivem Training, Teamarbeit und großer Verantwortung. Ausgleich findet Tobias beim Klettern.  
+Verkaufen, organisieren, digital arbeiten - an der Landesberufsschule Luis Zuegg in Meran entsteht mit &quot;Verkauf und Office-Management&quot; eine neue Fachrichtung, die sich gezielt an den Anforderungen der heutigen Arbeitswelt orientiert.</desc>
+  </programme>
+  <programme start="20260420200000 +0200" stop="20260420202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260420202000 +0200" stop="20260420211733 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Sängerin Marika Rainer, der Architekturpreis Südtirol und die VBB- und STV-Gemeinschaftsproduktion Möglichkeitsmenschen sind unter anderem die Themen dieser Sendung. Zu Gast sind der Schauspieler Peter Schorn und Renate Ranzi von der Südtiroler Filmförderung.  
+
+Schwerpunkt Architektur: heuer wurde zum 11. Mal der Architekturpreis Südtirol vergeben. Der Preis dient unter anderem auch dazu, einen offenen gesellschaftlichen und auch politischen Diskurs anzustoßen. So wurden heuer auch Projekte ausgezeichnet, die durchaus kontrovers diskutiert worden sind. Im &quot;aut.architektur und tirol&quot; hingegen ist kürzlich eine Ausstellung über den 2010 verstorbenen Südtiroler Architekten Othmar Barth eröffnet worden.  
+Im Herbst wurde die aus Albeins stammende und in Wien wohnende Sopranistin Marika Rainer gemeinsam mit dem Kunstkollektiv Flirty Horse mit dem Nestroy-Preis in der Kategorie &quot;Beste OFF-Produktion&quot; ausgezeichnet. 
+Möglichkeitsmenschen ist eine Koproduktion der Vereinigten Bühnen Bozen mit dem Südtiroler Theaterverband, gemeinsam stellen sich Menschen aller Altersgruppen auf die Bühne, um sich als jemand anderes zu sehen. 
+Mit ihren Fotografien versucht Caroline Renzler Geschichten zu erzählen; die in Taisten lebende Fotografin - Mitglied des Teams Silbersalz - hat in den vergangenen Jahren eine besondere Vorliebe für Theaterfotografie entwickelt. 
+Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260420211800 +0200" stop="20260420215957 +0200" channel="Rai Südtirol">
+    <title>Öffentlicher Raum</title>
+    <sub-title/>
+    <desc>Noch vor nicht allzu langer Zeit war der Raum, besonders in ländlichen Gebieten, weitgehend öffentlich. Wege, Wiesen und Plätze gehörten allen, sie waren Orte des Austausches, der Begegnung und des öffentlichen Lebens. 
+
+Schilder mit Aufschriften wie &quot;Privat - Zutritt verboten&quot; sind eine vergleichsweise junge Erscheinung - Ausdruck einer zunehmenden Privatisierung und Ausgrenzung. Gerade in touristisch stark geprägten Regionen wie Südtirol verschärft sich die Frage nach der Nutzung und Zugänglichkeit des öffentlichen Raums. Was einst selbstverständlich geteilt wurde, wird heute zunehmend zum Gegenstand von Interessenskonflikten: zwischen Einheimischen und Gästen, zwischen wirtschaftlicher Nutzung und Gemeinwohl, zwischen Erholung und Erhaltung. Ein Film von Karl Prossliner.</desc>
+  </programme>
+  <programme start="20260420221000 +0200" stop="20260420223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260421200000 +0200" stop="20260421202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260421202000 +0200" stop="20260421203430 +0200" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Er steht damit sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20260421203500 +0200" stop="20260421204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Vier Runden vor Meisterschaftsende stehen in der Fußball-Oberliga zwei Südtiroler Derbys auf dem Programm: Ahrntal kämpft im Heimspiel gegen Tramin um den Klassenerhalt, während St. Georgen beim Bozner FC zu Gast ist. In der Landesliga empfängt Leifers Weinstraße Süd.</desc>
+  </programme>
+  <programme start="20260421221000 +0200" stop="20260421223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260422200000 +0200" stop="20260422202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260422202000 +0200" stop="20260422204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die lemkische Kultur im Südosten von Polen erlebt derzeit eine bemerkenswerte Renaissance: Immer mehr junge Menschen entdecken ihre Musik, Sprache und Geschichte neu. Was früher vor allem in kleinen Gemeinschaften lebendig war, gewinnt heute auch darüber hinaus an Bedeutung - trotz der von tiefen Brüchen und durch Zwangsumsiedlungen gekennzeichneten Geschichte. 
+
+Eine überschaubare polnische Minderheit gibt es im Nachbarland Tschechien. Sie konzentriert sich hauptsächlich auf das Gebiet im Nordosten des Landes, nahe zur polnischen Grenze - etwa in der geteilten Stadt Český Těšín. Während ein Teil der Stadt zu Polen gehört, gehört der andere Teil zu Tschechien. Hier pflegt die anerkannte nationale Minderheit der Polen ihre Sprache und Kultur. 
+Minet hat in Bozen lebende Iranerinnen und Iraner getroffen und mit ihnen über ihr Herkunftsland und ihre neue Heimat Südtirol gesprochen.  
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe richten wir unser Augenmerk auf das unkontaktierte Volk der Hongana Manyawa, die durch den Nickelabbau akut bedroht sind.  
+Minderheiten Neuigkeiten lokal und global im Minet-Telegramm.  
+Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260422221000 +0200" stop="20260422223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260423200000 +0200" stop="20260423202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260423202000 +0200" stop="20260423204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Neue Rituale</sub-title>
+    <desc>Das Thema Rituale beschäftigt die Menschen seit jeher. Rituale zu ersinnen und durch sie Halt zu finden oder Identität zu schaffen, ist eine zutiefst menschliche Praxis. &quot;Wir brauchen neue Rituale&quot;, fordern Philosophen wie Byung-Chul Han vor dem Hintergrund der gegenwärtigen Weltlage. Denn das rituelle Teilen des Symbolischen besitzt die Kraft, die Mitglieder einer Gemeinschaft zu verbinden. Wir gehen der Frage nach, welche Rolle &quot;neue&quot; Rituale in Südtirol spielen. 
+
+Zu Gast ist die Religionslehrerin, Referentin für Familienangebote und Theologin Lisa Huber. Daniela Thaler gibt uns in ihrem Reisetagebuch Einblicke über die ersten Wochen unterwegs in Kanada und in der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Stilzer Pfluagziachen: Gelebtes Brauchtum in Südtirol&quot;.  
+Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260423221000 +0200" stop="20260423223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260424180000 +0200" stop="20260424182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Neue Rituale</sub-title>
+    <desc>Das Thema Rituale beschäftigt die Menschen seit jeher. Rituale zu ersinnen und durch sie Halt zu finden oder Identität zu schaffen, ist eine zutiefst menschliche Praxis. &quot;Wir brauchen neue Rituale&quot;, fordern Philosophen wie Byung-Chul Han vor dem Hintergrund der gegenwärtigen Weltlage. Denn das rituelle Teilen des Symbolischen besitzt die Kraft, die Mitglieder einer Gemeinschaft zu verbinden. Wir gehen der Frage nach, welche Rolle &quot;neue&quot; Rituale in Südtirol spielen. Zu Gast ist die Religionslehrerin, Referentin für Familienangebote und Theologin Lisa Huber. Daniela Thaler gibt uns in ihrem Reisetagebuch Einblicke über die ersten Wochen unterwegs in Kanada und in der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Stilzer Pfluagziachen: Gelebtes Brauchtum in Südtirol&quot;.  
+Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260424182900 +0200" stop="20260424185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die lemkische Kultur im Südosten von Polen erlebt derzeit eine bemerkenswerte Renaissance: Immer mehr junge Menschen entdecken ihre Musik, Sprache und Geschichte neu. Was früher vor allem in kleinen Gemeinschaften lebendig war, gewinnt heute auch darüber hinaus an Bedeutung - trotz der von tiefen Brüchen und durch Zwangsumsiedlungen gekennzeichneten Geschichte. 
+Eine überschaubare polnische Minderheit gibt es im Nachbarland Tschechien. Sie konzentriert sich hauptsächlich auf das Gebiet im Nordosten des Landes, nahe zur polnischen Grenze - etwa in der geteilten Stadt Český Těšín. Während ein Teil der Stadt zu Polen gehört, gehört der andere Teil zu Tschechien. Hier pflegt die anerkannte nationale Minderheit der Polen ihre Sprache und Kultur. 
+Minet hat in Bozen lebende Iranerinnen und Iraner getroffen und mit ihnen über ihr Herkunftsland und ihre neue Heimat Südtirol gesprochen.  
+In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe richten wir unser Augenmerk auf das unkontaktierte Volk der Hongana Manyawa, die durch den Nickelabbau akut bedroht sind.  
+Minderheiten Neuigkeiten lokal und global im Minet-Telegramm.  
+Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260424200000 +0200" stop="20260424202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260424202000 +0200" stop="20260424215900 +0200" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Musik, Geschichten und starke Persönlichkeiten: In der zweiten Ausgabe der Toms Kellershow im Jahr 2026 begrüßt Gastgeber Thomas Vonmetz erneut spannende Gäste im Sudwerkkeller.
+
+Zu Gast sind Unternehmerin Sara Canali, die mit ihrem Start-up SHER international für Aufmerksamkeit sorgt und sich für Frauen im Sport engagiert, der Biologe und Wissenschaftskommunikator Wolfgang Dibiasi, der mit seinen Online-Formaten ein großes Publikum für Natur und Wissenschaft begeistert, sowie Marion Prossliner, die als eine der ersten Miss Südtirol bekannt wurde und heute ihren eigenen Weg zwischen Modeln und persönlicher Weiterentwicklung geht.
+Musikalisch gestaltet wird der Abend von Roksy mit Christiane Niederbacher und Lukas Schretzmeier, die Songs aus ihrem aktuellen Album Leben in Echt präsentieren. Außerdem ist Simon Feichter mit seinem Solo-Projekt seasons &amp; colors zu hören, das zwischen Pop, Punk und Alternative angesiedelt ist. Begleitet werden die Auftritte wie gewohnt von der Kellerkapelle.
+Persönliche Gespräche, Live-Musik und besondere Momente aus dem Sudwerkkeller - die neue Ausgabe der Toms Kellershow. Und natürlich darf auch das beliebte Showelement nicht fehlen: Beim Kellershow-Rumpler wird wieder &quot;gerumplt&quot;.</desc>
+  </programme>
+  <programme start="20260424221000 +0200" stop="20260424223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260425180000 +0200" stop="20260425185800 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Sängerin Marika Rainer, der Architekturpreis Südtirol und die VBB- und STV-Gemeinschaftsproduktion Möglichkeitsmenschen sind unter anderem die Themen dieser Sendung. Zu Gast sind der Schauspieler Peter Schorn und Renate Ranzi von der Südtiroler Filmförderung.  
+Schwerpunkt Architektur: heuer wurde zum 11. Mal der Architekturpreis Südtirol vergeben. Der Preis dient unter anderem auch dazu, einen offenen gesellschaftlichen und auch politischen Diskurs anzustoßen. So wurden heuer auch Projekte ausgezeichnet, die durchaus kontrovers diskutiert worden sind. Im &quot;aut.architektur und tirol&quot; hingegen ist kürzlich eine Ausstellung über den 2010 verstorbenen Südtiroler Architekten Othmar Barth eröffnet worden.  
+Im Herbst wurde die aus Albeins stammende und in Wien wohnende Sopranistin Marika Rainer gemeinsam mit dem Kunstkollektiv Flirty Horse mit dem Nestroy-Preis in der Kategorie &quot;Beste OFF-Produktion&quot; ausgezeichnet. 
+Möglichkeitsmenschen ist eine Koproduktion der Vereinigten Bühnen Bozen mit dem Südtiroler Theaterverband, gemeinsam stellen sich Menschen aller Altersgruppen auf die Bühne, um sich als jemand anderes zu sehen. 
+Mit ihren Fotografien versucht Caroline Renzler Geschichten zu erzählen; die in Taisten lebende Fotografin - Mitglied des Teams Silbersalz - hat in den vergangenen Jahren eine besondere Vorliebe für Theaterfotografie entwickelt. 
+Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260425200000 +0200" stop="20260425202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260425202100 +0200" stop="20260425202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260425202500 +0200" stop="20260425205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen entdecken genießen</sub-title>
+    <desc>Im Tourismus wird Innovation zunehmend zum entscheidenden Erfolgsfaktor: Neue Technologien, Digitalisierung und nachhaltige Ansätze helfen Betrieben, effizienter zu arbeiten und auf veränderte Gästebedürfnisse zu reagieren. Orte wie der NOI Techpark in Bozen zeigen, wo diese Innovation entsteht, im Zusammenspiel von Forschung, Start-ups und Praxis. Ziel ist es, Lösungen zu entwickeln, die Betriebe konkret unterstützen und den Tourismus zukunftsfit machen.
+ 
+In einem weiteren Beitrag steht ein Produkt im Mittelpunkt, das in Terlan fest zum Frühling gehört: der Spargel. Zwischen Terlan, Vilpian und Siebeneich wird der &quot;Terlaner Margarete Spargel&quot; von Hand gestochen. Ein Produkt, das eng mit der Region verbunden ist und für das Zusammenspiel von Landwirtschaft und Gastronomie steht. Der Beitrag begleitet die Ernte auf dem Feld und zeigt, wie der Spargel direkt in den Küchen der Gastbetriebe verarbeitet wird. 
+Der Kaiserhof in Meran feiert 50 Jahre als Hotelfachschule. Aus dem früheren Hotel wurde 1975 eine Ausbildungsstätte, in der bis heute junge Menschen für den Tourismus lernen. In diesen Jahrzehnten ging es vor allem darum, Tradition und Praxis zusammenzubringen. Der Kaiserhof ist bis heute ein wichtiger Ort für die Ausbildung im Gastgewerbe.</desc>
+  </programme>
+  <programme start="20260425221000 +0200" stop="20260425223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
