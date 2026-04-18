@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260417180000 +0200" stop="20260417182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Faszination Extremsport</sub-title>
-    <desc>Was bringt Menschen dazu, sich Gefahren und körperlichen Qualen auszusetzen? Wie gelingt es ihnen, sich immer wieder neu zu motivieren? Es moderiert Magdalena Oberstaller. Sie hangeln sich an Eiswänden in schwindelnde Höhen, rennen über 4.000 Kilometer quer durch Europa oder tauchen zehn Minuten lang ohne Sauerstoffgerät unter Wasser. Extremsportler:innen vollbringen Leistungen im Grenzbereich menschlicher Fähigkeiten. Was bringt sie dazu, sich gefährlichen Herausforderungen und körperlichen Qualen auszusetzen? Wie gelingt es ihnen, sich immer wieder neu zu motivieren? 
-Zu Gast ist Axel Bernhart von F-Tech. Einer der Schwerpunkte des Unternehmens sind Filmportraits von Extremsportlern. 
-In der Rubrik &quot;Unser Gedächtnis&quot; zeigen wir Ausschnitte aus der Tagesschau von Rai Südtirol aus dem Jahr 1976 und in &quot;Wiedersehen&quot; zeigen wir Ausschnitte aus der Dokumentation &quot;Warum? Extremsportler auf der Suche nach sich selbst&quot;.</desc>
-  </programme>
-  <programme start="20260417182900 +0200" stop="20260417185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Die 95jährige Rosa Zanol Teutsch, der Verein helping hands aus Brixen, Missbrauchsopfer
-Gernot Paulmichl aus Stilfs und Maria Sparber, Ombudsfrau für innerkirchliche Missbrauchsfälle.
-Seit einem Schlaganfall ist der Alltag  entschleunigt, der Tag stiller, das Leben zurückgezogen: Doch wenn Rosa Zanol Teutsch aus Kurtinig ins Reden kommt, erinnert sie sich an Details, die berühren. Helping hands - helfende Hände - ist der Name einer Gruppe beherzter Menschen, die ehrenamtlich Möbel, vorzugsweise Küchen aus- und einbauen und dafür die Verdienstmedaille des Landes Tirol erhielten.
-Gernot Paulmichls Leben ist geprägt von den zwei Jahren in der Kindheit, in denen er den
-sexuellen Übergriffen des Pfarrers seines Heimatdorfes ausgesetzt war. Jahrzehnte später konnte er sein Schweigen brechen.
-Maria Sparber wurde vor mehreren Jahren als außenstehende Supervisorin von der Diözese
-Bozen-Brixen beauftragt, die Ombudsstelle für innerkirchliche Missbrauchsfälle zu leiten.</desc>
-  </programme>
-  <programme start="20260417200000 +0200" stop="20260417202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260417202000 +0200" stop="20260417215930 +0200" channel="Rai Südtirol">
-    <title>Südtirol im Dialog - Perspektiven von außen</title>
-    <sub-title>Podiumsdiskussion</sub-title>
-    <desc>Rai Südtirol überträgt eine hochkarätig besetzte Podiumsdiskussion aus dem Landtag. Mit Evelyn Palla, Markus Lanz, Ulrich Ladurner und Alessio Lasta, vier Persönlichkeiten mit Südtiroler Wurzeln. 
-
-ZDF-Moderator, Autor und Podcaster Markus Lanz, die Vorstandsvorsitzende der Deutschen Bahn, Evelyn Palla, der Außenpolitik-Experte und Redakteur der Wochenzeitung &quot;Die Zeit&quot;, Ulrich Ladurner und der aus Meran stammende Rai-Journalist, Buchautor und Dozent für investigativen Journalismus, Alessio Lasta, vier Persönlichkeiten mit Südtiroler Wurzeln, die im Gespräch mit Nachgeschaut-Moderatorin Gabriele Crepaz über aktuelle Entwicklungen und zukünftige Herausforderungen Südtirols diskutieren.  
-Durch die Live-Übertragung führt Jana Weissteiner.</desc>
-  </programme>
-  <programme start="20260417221000 +0200" stop="20260417223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260418180000 +0200" stop="20260418182930 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -272,6 +236,28 @@ In einem weiteren Beitrag steht ein Produkt im Mittelpunkt, das in Terlan fest z
 Der Kaiserhof in Meran feiert 50 Jahre als Hotelfachschule. Aus dem früheren Hotel wurde 1975 eine Ausbildungsstätte, in der bis heute junge Menschen für den Tourismus lernen. In diesen Jahrzehnten ging es vor allem darum, Tradition und Praxis zusammenzubringen. Der Kaiserhof ist bis heute ein wichtiger Ort für die Ausbildung im Gastgewerbe.</desc>
   </programme>
   <programme start="20260425221000 +0200" stop="20260425223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260426200000 +0200" stop="20260426202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260426202000 +0200" stop="20260426204930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Im Hinteren Eis</sub-title>
+    <desc>Drei Menschen- ein Thema: Mit Gletscherforscher Georg Kaser sind wir unterwegs zur wissenschaftlichen Forschungsstation am Hinteren Eis. Dort - auf über 3000 Metern Meereshöhe untersucht die Universität Innsbruck die Bewegungen der Gletscher mit einer Messreihe, die bis ins 19. Jahrhundert zurückreicht. 
+
+Der Rückgang des Gletschers beschäftigt auch die Karthauser Fotografin Daniela Brugger: die Lebensgefährtin Kasers teilt das Interesse für den Wandel in der Natur - mit einem allerdings völlig unterschiedlichen Zugang. Und zuletzt erkunden wir das Hintere Eis noch mit einem, der sein ganzes Leben hier unterwegs war. Bergführer Ludwig Golfer hat die Veränderung der Landschaft zwischen dem Ötztal und dem Schnalstal hautnah miterlebt.</desc>
+  </programme>
+  <programme start="20260426205000 +0200" stop="20260426205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260426221000 +0200" stop="20260426223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
