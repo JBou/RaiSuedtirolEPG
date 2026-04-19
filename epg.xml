@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260418180000 +0200" stop="20260418182930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Reform des geförderten Wohnbaus unter der Lupe. Wie barrierefrei ist Südtirol? Ein innovatives Lüftungstechnikunternehmen im Fokus. Moderation: Markus Frings. Mit der Reform des geförderten Wohnbaus soll mehr leistbarer Wohnraum geschaffen und der Mietmarkt gestärkt werden. Auch das Bausparen als Weg zur Erstwohnung - verbunden mit der Zusatzrente - sowie erleichterte Zugangskriterien werden beleuchtet. Ein weiterer Beitrag geht der Frage nach, wie barrierefrei Südtirol tatsächlich ist. Trotz zahlreicher Investitionen zeigen aktuelle Initiativen, dass es im Alltag weiterhin Hürden gibt. 
-In der Rubrik &quot;Innovation made in Südtirol&quot; sind wir beim Unternehmen Weger Lüftungstechnik in Kiens, das für Innovation, Nachhaltigkeit und technisches Know-how steht.</desc>
-  </programme>
-  <programme start="20260418182900 +0200" stop="20260418185910 +0200" channel="Rai Südtirol">
-    <title>Betreutes Wohnen</title>
-    <sub-title>Eine Reise durch Seniorenresidenzen in Südtirol</sub-title>
-    <desc>Würde, Fürsorge, Vertrautheit sind Leitbegriffe der heutigen Architektur für ältere Menschen. Wie
-wurden diese umgesetzt? Wie lernen fünf Beispiele kennen.Die Dokumentation zeigt, wie Architektur auf die letzte Lebensphase antwortet . zwischen Pflege, Gemeinschaft, Geschichte und zeitgemäßer Gestaltung.
-Im Grieserhof in Bozen wurde eine ehemalige Klimastation zu einem offenen, urbanen Zentrum
-für Wohnen, Pflege und Nachbarschaft umgestaltet. Weiter geht es zur markanten und flexibel
-einsetzbaren Residenz St. Barbara in St. Leonhard in Passeier, in das von einem umfassenden
-Kunstkonzept geprägte Seniorenresidenz St. Josef im Herzen von Meran sowie zum innovativ
-erweiterten Schloss Moos in Pfitsch. Den Abschluss bildet der ehemalige Klosterkomplex in Mühlbach, der heute als Seniorenresidenz und zugleich als Ort der Begegnung für mehrere Gemeinden dient. Die unterschiedlichen Beispiele zeigen, wie Seniorenresidenzen heute zu offenen Orten des
-Zusammenlebens werden, in denen Architektur Geborgenheit, Teilhabe und Identität stiftet.</desc>
-  </programme>
-  <programme start="20260418200000 +0200" stop="20260418202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260418202100 +0200" stop="20260418202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260418202500 +0200" stop="20260418205430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Die Mittelmeermöwe ist in Bozen Süd heimisch geworden. Das Besucherzentrum Aquaprad mit seinen naturnahen Aquarien ist die Heimat von 30 lokalen Fischarten. 
-
-Möwen dringen schon seit Jahren ins Binnenland und auch in die Alpenregionen vor. Auch in Bozen ist die Mittelmeermöwe anzutreffen. Mehrere Brutpaare haben in Bozen Süd eine Heimat gefunden. Die eleganten Segelflieger kreisen am Himmel oberhalb von Bozen und fliegen oft weite Strecken der Flüsse entlang auf Nahrungssuche. 30 verschiedene heimische Fischarten sind im Besucherzentrum Aquaprad im Nationalpark Stilfserjoch zu beobachten.  Die Bewohner von Südtirols Bächen, Flüssen, Mooren und Teichen werden in naturnah gestalteten Aquarien gehalten und ermöglichen so Einblicke in die lokale, oft unbekannte Welt der Fischfauna Südtirols. Weiters berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20260418221000 +0200" stop="20260418223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260419200000 +0200" stop="20260419202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
