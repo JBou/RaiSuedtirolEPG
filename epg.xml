@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260419200000 +0200" stop="20260419202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260419202000 +0200" stop="20260419204430 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Oberschülerinnen berichten über ihren Schüleraustausch. Ein junger Feuerwehrmann und sein Traum. Die neue Fachrichtung Verkauf und Office-Management an der Berufsschule Luis Zuegg in Meran. 
-
-Neue Sprache, neue Freunde, neue Perspektiven: Im Fokus stehen zwei Schülerinnen des Sozialwissenschaftlichen Gymnasiums Bozen, die ein Semester am italienischen Pendant ihrer Schule verbracht haben. Schülerinnen des Gymnasiums Walter von der Vogelweide berichten von ihren Aufenthalten in Barcelona und Süditalien. Eine junge Oberboznerin verbringt derzeit ein Auslandsjahr in Kanada. Beim Videotelefonat mit der Familie wird deutlich, wie sehr ein solcher Schritt sowohl die Jugendlichen als auch ihre Familien bewegt. Mit 23 Jahren lebt Tobias Aberham das, wovon viele als Kinder träumen: Er ist Feuerwehrmann. Doch sein Alltag besteht nicht nur aus Einsätzen und Übungen, sondern auch aus intensivem Training, Teamarbeit und großer Verantwortung. Ausgleich findet Tobias beim Klettern.  
-Verkaufen, organisieren, digital arbeiten - an der Landesberufsschule Luis Zuegg in Meran entsteht mit &quot;Verkauf und Office-Management&quot; eine neue Fachrichtung, die sich gezielt an den Anforderungen der heutigen Arbeitswelt orientiert.</desc>
-  </programme>
-  <programme start="20260419204600 +0200" stop="20260419205000 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260419221000 +0200" stop="20260419223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260420180000 +0200" stop="20260420181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
