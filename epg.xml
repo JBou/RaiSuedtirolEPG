@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260420180000 +0200" stop="20260420181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Vier Runden vor Meisterschaftsende stehen in der Fußball-Oberliga zwei Südtiroler Derbys auf dem Programm: Ahrntal kämpft im Heimspiel gegen Tramin um den Klassenerhalt, während St. Georgen beim Bozner FC zu Gast ist. In der Landesliga empfängt Leifers Weinstraße Süd.</desc>
-  </programme>
-  <programme start="20260420181500 +0200" stop="20260420183300 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Kochen kinderleicht &quot;Rote Bete Scherennudel mit Spinat&quot;</sub-title>
-    <desc>Kinderköchin Linda zaubert gemeinsam mit Kochlehrerin Martina ein farbenfrohes Gericht: Rote-Bete-Scherennudeln! Dafür kneten sie einen leuchtend purpurroten Nudelteig und formen ihn zu einer großen Kugel. Mit einer Schere schneidet Linda gleichmäßige Nudeln ab, die anschließend im kochenden Wasser garen. Verfeinert mit frischem Spinat entsteht ein kinderleichtes Rezept, das nicht nur lecker schmeckt, sondern auch richtig Spaß macht! 
-Und in Sportkids &quot;Tanzen&quot; stellt sich die Tanzsportgruppe Brixen vor. Die jüngsten TänzerInnen beginnen bereits mit 4 Jahren und bei ihnen steht der Spaß an der Bewegung und das sich Austoben im Rhythmus der Musik im Vordergrund. Die älteren Kids wagen sich nach und nach an die Genres Modern Jazz, Contemporary und Hip-Hop und alle egal ob Anfänger oder Fortgeschrittene, lieben diese faszinierende Kunstform und Sportart; das Tanzen.</desc>
-  </programme>
-  <programme start="20260420183300 +0200" stop="20260420185730 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Oberschülerinnen berichten über ihren Schüleraustausch. Ein junger Feuerwehrmann und sein Traum. Die neue Fachrichtung Verkauf und Office-Management an der Berufsschule Luis Zuegg in Meran. 
-Neue Sprache, neue Freunde, neue Perspektiven: Im Fokus stehen zwei Schülerinnen des Sozialwissenschaftlichen Gymnasiums Bozen, die ein Semester am italienischen Pendant ihrer Schule verbracht haben. Schülerinnen des Gymnasiums Walter von der Vogelweide berichten von ihren Aufenthalten in Barcelona und Süditalien. Eine junge Oberboznerin verbringt derzeit ein Auslandsjahr in Kanada. Beim Videotelefonat mit der Familie wird deutlich, wie sehr ein solcher Schritt sowohl die Jugendlichen als auch ihre Familien bewegt. Mit 23 Jahren lebt Tobias Aberham das, wovon viele als Kinder träumen: Er ist Feuerwehrmann. Doch sein Alltag besteht nicht nur aus Einsätzen und Übungen, sondern auch aus intensivem Training, Teamarbeit und großer Verantwortung. Ausgleich findet Tobias beim Klettern.  
-Verkaufen, organisieren, digital arbeiten - an der Landesberufsschule Luis Zuegg in Meran entsteht mit &quot;Verkauf und Office-Management&quot; eine neue Fachrichtung, die sich gezielt an den Anforderungen der heutigen Arbeitswelt orientiert.</desc>
-  </programme>
-  <programme start="20260420200000 +0200" stop="20260420202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260420202000 +0200" stop="20260420211733 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Sängerin Marika Rainer, der Architekturpreis Südtirol und die VBB- und STV-Gemeinschaftsproduktion Möglichkeitsmenschen sind unter anderem die Themen dieser Sendung. Zu Gast sind der Schauspieler Peter Schorn und Renate Ranzi von der Südtiroler Filmförderung.  
-
-Schwerpunkt Architektur: heuer wurde zum 11. Mal der Architekturpreis Südtirol vergeben. Der Preis dient unter anderem auch dazu, einen offenen gesellschaftlichen und auch politischen Diskurs anzustoßen. So wurden heuer auch Projekte ausgezeichnet, die durchaus kontrovers diskutiert worden sind. Im &quot;aut.architektur und tirol&quot; hingegen ist kürzlich eine Ausstellung über den 2010 verstorbenen Südtiroler Architekten Othmar Barth eröffnet worden.  
-Im Herbst wurde die aus Albeins stammende und in Wien wohnende Sopranistin Marika Rainer gemeinsam mit dem Kunstkollektiv Flirty Horse mit dem Nestroy-Preis in der Kategorie &quot;Beste OFF-Produktion&quot; ausgezeichnet. 
-Möglichkeitsmenschen ist eine Koproduktion der Vereinigten Bühnen Bozen mit dem Südtiroler Theaterverband, gemeinsam stellen sich Menschen aller Altersgruppen auf die Bühne, um sich als jemand anderes zu sehen. 
-Mit ihren Fotografien versucht Caroline Renzler Geschichten zu erzählen; die in Taisten lebende Fotografin - Mitglied des Teams Silbersalz - hat in den vergangenen Jahren eine besondere Vorliebe für Theaterfotografie entwickelt. 
-Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20260420211800 +0200" stop="20260420215957 +0200" channel="Rai Südtirol">
-    <title>Öffentlicher Raum</title>
-    <sub-title/>
-    <desc>Noch vor nicht allzu langer Zeit war der Raum, besonders in ländlichen Gebieten, weitgehend öffentlich. Wege, Wiesen und Plätze gehörten allen, sie waren Orte des Austausches, der Begegnung und des öffentlichen Lebens. 
-
-Schilder mit Aufschriften wie &quot;Privat - Zutritt verboten&quot; sind eine vergleichsweise junge Erscheinung - Ausdruck einer zunehmenden Privatisierung und Ausgrenzung. Gerade in touristisch stark geprägten Regionen wie Südtirol verschärft sich die Frage nach der Nutzung und Zugänglichkeit des öffentlichen Raums. Was einst selbstverständlich geteilt wurde, wird heute zunehmend zum Gegenstand von Interessenskonflikten: zwischen Einheimischen und Gästen, zwischen wirtschaftlicher Nutzung und Gemeinwohl, zwischen Erholung und Erhaltung. Ein Film von Karl Prossliner.</desc>
-  </programme>
-  <programme start="20260420221000 +0200" stop="20260420223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260421200000 +0200" stop="20260421202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
