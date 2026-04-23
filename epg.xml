@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260422200000 +0200" stop="20260422202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260422202000 +0200" stop="20260422204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die lemkische Kultur im Südosten von Polen erlebt derzeit eine bemerkenswerte Renaissance: Immer mehr junge Menschen entdecken ihre Musik, Sprache und Geschichte neu. Was früher vor allem in kleinen Gemeinschaften lebendig war, gewinnt heute auch darüber hinaus an Bedeutung - trotz der von tiefen Brüchen und durch Zwangsumsiedlungen gekennzeichneten Geschichte. 
-
-Eine überschaubare polnische Minderheit gibt es im Nachbarland Tschechien. Sie konzentriert sich hauptsächlich auf das Gebiet im Nordosten des Landes, nahe zur polnischen Grenze - etwa in der geteilten Stadt Český Těšín. Während ein Teil der Stadt zu Polen gehört, gehört der andere Teil zu Tschechien. Hier pflegt die anerkannte nationale Minderheit der Polen ihre Sprache und Kultur. 
-Minet hat in Bozen lebende Iranerinnen und Iraner getroffen und mit ihnen über ihr Herkunftsland und ihre neue Heimat Südtirol gesprochen.  
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe richten wir unser Augenmerk auf das unkontaktierte Volk der Hongana Manyawa, die durch den Nickelabbau akut bedroht sind.  
-Minderheiten Neuigkeiten lokal und global im Minet-Telegramm.  
-Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20260422221000 +0200" stop="20260422223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260423200000 +0200" stop="20260423202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
