@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260423200000 +0200" stop="20260423202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260423202000 +0200" stop="20260423204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Neue Rituale</sub-title>
-    <desc>Das Thema Rituale beschäftigt die Menschen seit jeher. Rituale zu ersinnen und durch sie Halt zu finden oder Identität zu schaffen, ist eine zutiefst menschliche Praxis. &quot;Wir brauchen neue Rituale&quot;, fordern Philosophen wie Byung-Chul Han vor dem Hintergrund der gegenwärtigen Weltlage. Denn das rituelle Teilen des Symbolischen besitzt die Kraft, die Mitglieder einer Gemeinschaft zu verbinden. Wir gehen der Frage nach, welche Rolle &quot;neue&quot; Rituale in Südtirol spielen. 
-
-Zu Gast ist die Religionslehrerin, Referentin für Familienangebote und Theologin Lisa Huber. Daniela Thaler gibt uns in ihrem Reisetagebuch Einblicke über die ersten Wochen unterwegs in Kanada und in der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Stilzer Pfluagziachen: Gelebtes Brauchtum in Südtirol&quot;.  
-Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260423221000 +0200" stop="20260423223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260424180000 +0200" stop="20260424182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Neue Rituale</sub-title>
@@ -108,6 +90,175 @@ Der Rückgang des Gletschers beschäftigt auch die Karthauser Fotografin Daniela
     <desc/>
   </programme>
   <programme start="20260426221000 +0200" stop="20260426223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260427180000 +0200" stop="20260427181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am drittletzten Spieltag in der Fußball-Oberliga empfängt Ahrntal den Bozner FC. Die Pusterer kämpfen noch um den Klassenerhalt.  
+In der Landesliga ist Tabellenführer Bruneck in Margreid bei Weinstraße Süd zu Gast, während die beiden Verfolger Naturns und Olimpia Meran sich im direkten Duell gegenüberstehen.</desc>
+  </programme>
+  <programme start="20260427181400 +0200" stop="20260427182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Blasmusik in Meransen</sub-title>
+    <desc>Die Kinder von Meransen lieben Blasmusik und laufen voller Freude ins Probelokal der Musikkapelle. Doch oh Schreck, einige Teile ihrer Instrumente fehlen! Jemand muss das Mundstück der Trompete und das Flügelhorn versteckt haben. Inmitten der großen Aufregung taucht Clownfrau Karamela auf und entdeckt sehr bald die Übeltäter: Es waren Mäuse! Sie möchten auch gern musizieren, trauen sich aber nicht, die Kinder anzusprechen. Karamela hilft - und bald spielen alle zusammen - Kinder und Mäuse - fröhlich auf ihren Instrumenten.</desc>
+  </programme>
+  <programme start="20260427182900 +0200" stop="20260427185830 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Im Hinteren Eis</sub-title>
+    <desc>Drei Menschen- ein Thema: Mit Gletscherforscher Georg Kaser sind wir unterwegs zur wissenschaftlichen Forschungsstation am Hinteren Eis. Dort - auf über 3000 Metern Meereshöhe untersucht die Universität Innsbruck die Bewegungen der Gletscher mit einer Messreihe, die bis ins 19. Jahrhundert zurückreicht. Der Rückgang des Gletschers beschäftigt auch die Karthauser Fotografin Daniela Brugger: die Lebensgefährtin Kasers teilt das Interesse für den Wandel in der Natur - mit einem allerdings völlig unterschiedlichen Zugang. Und zuletzt erkunden wir das Hintere Eis noch mit einem, der sein ganzes Leben hier unterwegs war. Bergführer Ludwig Golfer hat die Veränderung der Landschaft zwischen dem Ötztal und dem Schnalstal hautnah miterlebt.</desc>
+  </programme>
+  <programme start="20260427200000 +0200" stop="20260427202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260427202000 +0200" stop="20260427215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Lebensabschnitt Rente...und dann?</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Die Boomer gehen in Pension. Wer will, kann sich neu erfinden. Wer nichts plant, fällt eher in ein Loch. Nur: Wann soll man anfangen, den Lebensabschnitt Rente zu planen? 
+
+Lebensabschnitt Rente: Reif fürs Abstellgleis? Das ist ein Konzept von gestern. Wer sich fühlt, bleibt tätig, ehrenamtlich oder gegen Geld. Wer nichts plant, fällt eher in ein Loch.  
+Filmemacherin Claudia Bosch hat sich umgehört und allerlei Menschen im neuen Probiermodus entdeckt.  
+Im Talk fragen wir: Wie findet man heraus, was man noch will vom Leben, (fast) ohne Kompromisse? Und wie tickt unsere Gesellschaft, wenn viele von uns 67plus sind? Ganz persönlich diesmal. Es sprechen Barbara Willimek, Präsidentin des Seniorengemeinderats Bruneck, Hansi Felder, ehrenamtlich in der privaten Krebshilfe aktiv, die Psychologin Julia Kaufmann und die Künstlerin Karin Welponer. Im Interview: Philipp Moser, hds-Präsident, und Hard Noflatscher, Initiator der AktivSenioren Südtirol.  
+Gabriele Crepaz moderiert. Live aus dem Sitz des Wirtschaftsverbands hds in Bozen.</desc>
+  </programme>
+  <programme start="20260427221000 +0200" stop="20260427223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260428200000 +0200" stop="20260428202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260428202000 +0200" stop="20260428203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260428203500 +0200" stop="20260428204930 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am drittletzten Spieltag in der Fußball-Oberliga empfängt Ahrntal den Bozner FC. Die Pusterer kämpfen noch um den Klassenerhalt.  
+In der Landesliga ist Tabellenführer Bruneck in Margreid bei Weinstraße Süd zu Gast, während die beiden Verfolger Naturns und Olimpia Meran sich im direkten Duell gegenüberstehen.</desc>
+  </programme>
+  <programme start="20260428221000 +0200" stop="20260428223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260429200000 +0200" stop="20260429202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260429202000 +0200" stop="20260429204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Eine Sendung von Marianne Kasseroler</sub-title>
+    <desc>Norikerpferde in allen Farben: Dank Züchtern vor dem Verschwinden bewahrt. Lernen unter freiem Himmel: Der Waldkindergarten &quot;Ameisenherz&quot; in Klausen.
+
+In dieser Ausgabe von &quot;Land&amp;Leben&quot; nehmen wir Sie mit in die Welt der Norikerpferde. Einst unverzichtbar für die Landwirtschaft, die Holzarbeit und als Zugpferde, wären sie ohne engagierte Züchter beinahe vom Aussterben bedroht gewesen. Heute gibt es wieder rund 300 reinrassige Tiere, von tiefschwarzen Rappen über den Braunen bis zum Mohrenkopf. Kraftvoll, zuverlässig und doch mit eigenem Charakter begeistern die Noriker durch Temperament und Treue. Wir besuchen Züchterinnen und Züchter, die mit viel Herzblut die Zukunft dieser majestätischen Pferde sichern. 
+Ein weiterer Beitrag führt in den Waldkindergarten &quot;Ameisenherz&quot; in Klausen, wo Kinder auf einem Bauernhof und inmitten von Wiesen und Wäldern spielerisch lernen, Verantwortung zu übernehmen und die Natur zu erforschen.</desc>
+  </programme>
+  <programme start="20260429221000 +0200" stop="20260429223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260430200000 +0200" stop="20260430202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260430202000 +0200" stop="20260430204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Longevity</sub-title>
+    <desc>Ein Zauberwort macht die Runde: Longevity, Langlebigkeit. Influencer:innen und Vitalkliniken versprechen ein längeres Leben. Hilft das wirklich, um gesund ein hohes Alter zu erreichen? 
+
+Influencer:innen und Vitalkliniken bieten Methoden an, die angeblich die biologische Uhr zurückdrehen. Hilft das wirklich? Zu Gast ist der Wissenschaftler für Integrative, Komplementäre und Psychosoziale Gesundheitswissenschaften, Thomas Stricker.  
+Wir besuchen außerdem den Recyclinghof in Terlan und beobachten und begleiten einen Tag lang die Menschen und das Treiben auf diesem Müllentsorgungsplatz. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Mensch sein - gesund altern&quot;. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260430221000 +0200" stop="20260430223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260501180000 +0200" stop="20260501182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Longevity</sub-title>
+    <desc>Ein Zauberwort macht die Runde: Longevity, Langlebigkeit. Influencer:innen und Vitalkliniken versprechen ein längeres Leben. Hilft das wirklich, um gesund ein hohes Alter zu erreichen? 
+Influencer:innen und Vitalkliniken bieten Methoden an, die angeblich die biologische Uhr zurückdrehen. Hilft das wirklich? Zu Gast ist der Wissenschaftler für Integrative, Komplementäre und Psychosoziale Gesundheitswissenschaften, Thomas Stricker.  
+Wir besuchen außerdem den Recyclinghof in Terlan und beobachten und begleiten einen Tag lang die Menschen und das Treiben auf diesem Müllentsorgungsplatz. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Mensch sein - gesund altern&quot;. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260501182900 +0200" stop="20260501185342 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Die Mittelmeermöwe ist in Bozen Süd heimisch geworden. Das Besucherzentrum Aquaprad mit seinen naturnahen Aquarien ist die Heimat von 30 lokalen Fischarten. Möwen dringen schon seit Jahren ins Binnenland und auch in die Alpenregionen vor. Auch in Bozen ist die Mittelmeermöwe anzutreffen. Mehrere Brutpaare haben in Bozen Süd eine Heimat gefunden. Die eleganten Segelflieger kreisen am Himmel oberhalb von Bozen und fliegen oft weite Strecken der Flüsse entlang auf Nahrungssuche. 30 verschiedene heimische Fischarten sind im Besucherzentrum Aquaprad im Nationalpark Stilfserjoch zu beobachten.  Die Bewohner von Südtirols Bächen, Flüssen, Mooren und Teichen werden in naturnah gestalteten Aquarien gehalten und ermöglichen so Einblicke in die lokale, oft unbekannte Welt der Fischfauna Südtirols. Weiters berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20260501185400 +0200" stop="20260501185843 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Klarinettistin Andrea Götsch</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260501200000 +0200" stop="20260501202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260501202100 +0200" stop="20260501212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Karin Duregger erkundet den historischen Ortskern von Klausen, Magdalena Oberstaller erforscht das Frühlingserwachen der Wildtiere und den Klang des Waldes. 
+
+Erlebnis Südtirol wird diesmal ebenso geräuschvoll wie geheimnisvoll. Magdalena Oberstaller begibt sich hinaus in die Natur und erforscht das Frühlingserwachen der Wildtiere. Dabei sucht sie nicht nur nach visuellen Eindrücken, sondern vor allem nach Tönen, Geräuschen und dem natürlichen Klangteppich des Waldes.  
+Vorher schlendert Karin Duregger durch das historische Klausen mit seinen engen Gassen, kleinen Fenstern und alten Türen. Halt macht sie schließlich an Orten, die unterschiedlicher nicht sein könnten. Sie sieht neue Wohnungen im alten Gerichtsgebäude und Armenspital, ein entstehendes Museum, ein uriges Gasthaus und das wohl schmalste Haus ganz Tirols.</desc>
+  </programme>
+  <programme start="20260501212000 +0200" stop="20260501214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Im Tourismus wird Innovation zunehmend zum entscheidenden Erfolgsfaktor: Neue Technologien, Digitalisierung und nachhaltige Ansätze helfen Betrieben, effizienter zu arbeiten und auf veränderte Gästebedürfnisse zu reagieren. Orte wie der NOI Techpark in Bozen zeigen, wo diese Innovation entsteht, im Zusammenspiel von Forschung, Start-ups und Praxis. Ziel ist es, Lösungen zu entwickeln, die Betriebe konkret unterstützen und den Tourismus zukunftsfit machen. In einem weiteren Beitrag steht ein Produkt im Mittelpunkt, das in Terlan fest zum Frühling gehört: der Spargel. Zwischen Terlan, Vilpian und Siebeneich wird der &quot;Terlaner Margarete Spargel&quot; von Hand gestochen. Ein Produkt, das eng mit der Region verbunden ist und für das Zusammenspiel von Landwirtschaft und Gastronomie steht. Der Beitrag begleitet die Ernte auf dem Feld und zeigt, wie der Spargel direkt in den Küchen der Gastbetriebe verarbeitet wird. 
+Der Kaiserhof in Meran feiert 50 Jahre als Hotelfachschule. Aus dem früheren Hotel wurde 1975 eine Ausbildungsstätte, in der bis heute junge Menschen für den Tourismus lernen. In diesen Jahrzehnten ging es vor allem darum, Tradition und Praxis zusammenzubringen. Der Kaiserhof ist bis heute ein wichtiger Ort für die Ausbildung im Gastgewerbe.</desc>
+  </programme>
+  <programme start="20260501214900 +0200" stop="20260501215750 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title/>
+    <desc>Die Marokkanerin Siham Mouflih hat im Überetsch eine zweite Heimat gefunden und verwöhnt ihre Kunden mit Süßigkeiten und Eis.</desc>
+  </programme>
+  <programme start="20260501221000 +0200" stop="20260501223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260502180000 +0200" stop="20260502185830 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Karin Duregger erkundet den historischen Ortskern von Klausen, Magdalena Oberstaller erforscht das Frühlingserwachen der Wildtiere und den Klang des Waldes. Erlebnis Südtirol wird diesmal ebenso geräuschvoll wie geheimnisvoll. Magdalena Oberstaller begibt sich hinaus in die Natur und erforscht das Frühlingserwachen der Wildtiere. Dabei sucht sie nicht nur nach visuellen Eindrücken, sondern vor allem nach Tönen, Geräuschen und dem natürlichen Klangteppich des Waldes.  
+Vorher schlendert Karin Duregger durch das historische Klausen mit seinen engen Gassen, kleinen Fenstern und alten Türen. Halt macht sie schließlich an Orten, die unterschiedlicher nicht sein könnten. Sie sieht neue Wohnungen im alten Gerichtsgebäude und Armenspital, ein entstehendes Museum, ein uriges Gasthaus und das wohl schmalste Haus ganz Tirols.</desc>
+  </programme>
+  <programme start="20260502200000 +0200" stop="20260502202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260502202100 +0200" stop="20260502202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260502202500 +0200" stop="20260502210530 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Bernhard Karl Pircher. Der Kampf danach</sub-title>
+    <desc>Was bedeutet Stärke wirklich - und wann beginnt sie? Bernhard Karl Pircher ist Kampfsportler, Trainer und Vater. Ein Mann, der gelernt hat zu kämpfen - im Ring und im Leben. 
+
+Mit 15 Jahren wird Bernhard in Bozen Opfer einer brutalen Gewalterfahrung. Ein Moment, der alles verändert. Aus Angst entsteht der Wunsch nach Kontrolle, aus Kontrolle wird Disziplin - und schließlich eine beeindruckende Karriere im Kampfsport. Weltmeistertitel, hunderte Wettkämpfe und jahrzehntelanges Training prägen seinen Weg. 
+Ein zweiter, noch tieferer Wendepunkt folgt Jahre später: die Geburt seines Sohnes Bennett, der mit Down-Syndrom zur Welt kommt. Eine Entscheidung, die Bernhard und seine Familie bewusst treffen - und die seinen Blick auf das Leben grundlegend verändert. 
+Heute gibt Bernhard weiter, was er selbst lernen musste. In Selbstverteidigungskursen für Frauen und im Training mit Jugendlichen geht es um Selbstvertrauen, Haltung und innere Stärke.</desc>
+  </programme>
+  <programme start="20260502221000 +0200" stop="20260502223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
