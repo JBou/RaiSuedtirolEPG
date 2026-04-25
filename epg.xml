@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260424180000 +0200" stop="20260424182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Neue Rituale</sub-title>
-    <desc>Das Thema Rituale beschäftigt die Menschen seit jeher. Rituale zu ersinnen und durch sie Halt zu finden oder Identität zu schaffen, ist eine zutiefst menschliche Praxis. &quot;Wir brauchen neue Rituale&quot;, fordern Philosophen wie Byung-Chul Han vor dem Hintergrund der gegenwärtigen Weltlage. Denn das rituelle Teilen des Symbolischen besitzt die Kraft, die Mitglieder einer Gemeinschaft zu verbinden. Wir gehen der Frage nach, welche Rolle &quot;neue&quot; Rituale in Südtirol spielen. Zu Gast ist die Religionslehrerin, Referentin für Familienangebote und Theologin Lisa Huber. Daniela Thaler gibt uns in ihrem Reisetagebuch Einblicke über die ersten Wochen unterwegs in Kanada und in der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Stilzer Pfluagziachen: Gelebtes Brauchtum in Südtirol&quot;.  
-Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260424182900 +0200" stop="20260424185830 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die lemkische Kultur im Südosten von Polen erlebt derzeit eine bemerkenswerte Renaissance: Immer mehr junge Menschen entdecken ihre Musik, Sprache und Geschichte neu. Was früher vor allem in kleinen Gemeinschaften lebendig war, gewinnt heute auch darüber hinaus an Bedeutung - trotz der von tiefen Brüchen und durch Zwangsumsiedlungen gekennzeichneten Geschichte. 
-Eine überschaubare polnische Minderheit gibt es im Nachbarland Tschechien. Sie konzentriert sich hauptsächlich auf das Gebiet im Nordosten des Landes, nahe zur polnischen Grenze - etwa in der geteilten Stadt Český Těšín. Während ein Teil der Stadt zu Polen gehört, gehört der andere Teil zu Tschechien. Hier pflegt die anerkannte nationale Minderheit der Polen ihre Sprache und Kultur. 
-Minet hat in Bozen lebende Iranerinnen und Iraner getroffen und mit ihnen über ihr Herkunftsland und ihre neue Heimat Südtirol gesprochen.  
-In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe richten wir unser Augenmerk auf das unkontaktierte Volk der Hongana Manyawa, die durch den Nickelabbau akut bedroht sind.  
-Minderheiten Neuigkeiten lokal und global im Minet-Telegramm.  
-Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20260424200000 +0200" stop="20260424202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260424202000 +0200" stop="20260424215900 +0200" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Musik, Geschichten und starke Persönlichkeiten: In der zweiten Ausgabe der Toms Kellershow im Jahr 2026 begrüßt Gastgeber Thomas Vonmetz erneut spannende Gäste im Sudwerkkeller.
-
-Zu Gast sind Unternehmerin Sara Canali, die mit ihrem Start-up SHER international für Aufmerksamkeit sorgt und sich für Frauen im Sport engagiert, der Biologe und Wissenschaftskommunikator Wolfgang Dibiasi, der mit seinen Online-Formaten ein großes Publikum für Natur und Wissenschaft begeistert, sowie Marion Prossliner, die als eine der ersten Miss Südtirol bekannt wurde und heute ihren eigenen Weg zwischen Modeln und persönlicher Weiterentwicklung geht.
-Musikalisch gestaltet wird der Abend von Roksy mit Christiane Niederbacher und Lukas Schretzmeier, die Songs aus ihrem aktuellen Album Leben in Echt präsentieren. Außerdem ist Simon Feichter mit seinem Solo-Projekt seasons &amp; colors zu hören, das zwischen Pop, Punk und Alternative angesiedelt ist. Begleitet werden die Auftritte wie gewohnt von der Kellerkapelle.
-Persönliche Gespräche, Live-Musik und besondere Momente aus dem Sudwerkkeller - die neue Ausgabe der Toms Kellershow. Und natürlich darf auch das beliebte Showelement nicht fehlen: Beim Kellershow-Rumpler wird wieder &quot;gerumplt&quot;.</desc>
-  </programme>
-  <programme start="20260424221000 +0200" stop="20260424223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260425180000 +0200" stop="20260425185800 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -259,6 +224,30 @@ Ein zweiter, noch tieferer Wendepunkt folgt Jahre später: die Geburt seines Soh
 Heute gibt Bernhard weiter, was er selbst lernen musste. In Selbstverteidigungskursen für Frauen und im Training mit Jugendlichen geht es um Selbstvertrauen, Haltung und innere Stärke.</desc>
   </programme>
   <programme start="20260502221000 +0200" stop="20260502223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260503200000 +0200" stop="20260503202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260503202000 +0200" stop="20260503204930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Vor 80 Jahren durften Frauen in Italien zum ersten Mal wählen. Wie wirkt dieser Schritt bis heute nach? Kulturmanagerin Anna Hilber im Porträt. 20 Jahre Frauennetzwerk Wnet. Es moderiert Martina Kreuzer. 
+
+Am 10. März 1946 konnten Frauen in Italien zum ersten Mal wählen. Der Großteil der Südtirolerinnen musste zwar noch zwei Jahre länger warten, dennoch ist dieses 80-jährige Jubiläum der Einführung des Frauenwahlrechtes in Italien ein guter Anlass, einen großen frauenpolitischen Schritt in Erinnerung zu rufen - und nachzufragen, wie er bis heute nachwirkt. 
+Community ist das Herzstück von allem, was sie tut, sagt die Kulturmanagerin Anna Hilber. Wo immer soziales Leben neu gedacht wird, ist sie dabei. Auch Häkeln kann dann zum Aktivismus werden. Ein Porträt einer jungen Frau, die lebt, wie sie wirken will: einfach unkonventionell.  
+In dF Info berichten wir über das 20jährige Jubiläum des Frauennetzwerkes Wnet und wir erörtern, was es mit der europäischen Entgelttransparenzrichtlinie auf sich hat und welche Auswirkungen sie auf den Arbeitsmarkt haben wird.  </desc>
+  </programme>
+  <programme start="20260503205000 +0200" stop="20260503205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260503221000 +0200" stop="20260503223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
