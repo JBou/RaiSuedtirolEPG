@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260425180000 +0200" stop="20260425185800 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Sängerin Marika Rainer, der Architekturpreis Südtirol und die VBB- und STV-Gemeinschaftsproduktion Möglichkeitsmenschen sind unter anderem die Themen dieser Sendung. Zu Gast sind der Schauspieler Peter Schorn und Renate Ranzi von der Südtiroler Filmförderung.  
-Schwerpunkt Architektur: heuer wurde zum 11. Mal der Architekturpreis Südtirol vergeben. Der Preis dient unter anderem auch dazu, einen offenen gesellschaftlichen und auch politischen Diskurs anzustoßen. So wurden heuer auch Projekte ausgezeichnet, die durchaus kontrovers diskutiert worden sind. Im &quot;aut.architektur und tirol&quot; hingegen ist kürzlich eine Ausstellung über den 2010 verstorbenen Südtiroler Architekten Othmar Barth eröffnet worden.  
-Im Herbst wurde die aus Albeins stammende und in Wien wohnende Sopranistin Marika Rainer gemeinsam mit dem Kunstkollektiv Flirty Horse mit dem Nestroy-Preis in der Kategorie &quot;Beste OFF-Produktion&quot; ausgezeichnet. 
-Möglichkeitsmenschen ist eine Koproduktion der Vereinigten Bühnen Bozen mit dem Südtiroler Theaterverband, gemeinsam stellen sich Menschen aller Altersgruppen auf die Bühne, um sich als jemand anderes zu sehen. 
-Mit ihren Fotografien versucht Caroline Renzler Geschichten zu erzählen; die in Taisten lebende Fotografin - Mitglied des Teams Silbersalz - hat in den vergangenen Jahren eine besondere Vorliebe für Theaterfotografie entwickelt. 
-Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20260425200000 +0200" stop="20260425202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260425202100 +0200" stop="20260425202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260425202500 +0200" stop="20260425205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen entdecken genießen</sub-title>
-    <desc>Im Tourismus wird Innovation zunehmend zum entscheidenden Erfolgsfaktor: Neue Technologien, Digitalisierung und nachhaltige Ansätze helfen Betrieben, effizienter zu arbeiten und auf veränderte Gästebedürfnisse zu reagieren. Orte wie der NOI Techpark in Bozen zeigen, wo diese Innovation entsteht, im Zusammenspiel von Forschung, Start-ups und Praxis. Ziel ist es, Lösungen zu entwickeln, die Betriebe konkret unterstützen und den Tourismus zukunftsfit machen.
- 
-In einem weiteren Beitrag steht ein Produkt im Mittelpunkt, das in Terlan fest zum Frühling gehört: der Spargel. Zwischen Terlan, Vilpian und Siebeneich wird der &quot;Terlaner Margarete Spargel&quot; von Hand gestochen. Ein Produkt, das eng mit der Region verbunden ist und für das Zusammenspiel von Landwirtschaft und Gastronomie steht. Der Beitrag begleitet die Ernte auf dem Feld und zeigt, wie der Spargel direkt in den Küchen der Gastbetriebe verarbeitet wird. 
-Der Kaiserhof in Meran feiert 50 Jahre als Hotelfachschule. Aus dem früheren Hotel wurde 1975 eine Ausbildungsstätte, in der bis heute junge Menschen für den Tourismus lernen. In diesen Jahrzehnten ging es vor allem darum, Tradition und Praxis zusammenzubringen. Der Kaiserhof ist bis heute ein wichtiger Ort für die Ausbildung im Gastgewerbe.</desc>
-  </programme>
-  <programme start="20260425221000 +0200" stop="20260425223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260426200000 +0200" stop="20260426202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
