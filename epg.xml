@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260426200000 +0200" stop="20260426202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260426202000 +0200" stop="20260426204930 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Im Hinteren Eis</sub-title>
-    <desc>Drei Menschen- ein Thema: Mit Gletscherforscher Georg Kaser sind wir unterwegs zur wissenschaftlichen Forschungsstation am Hinteren Eis. Dort - auf über 3000 Metern Meereshöhe untersucht die Universität Innsbruck die Bewegungen der Gletscher mit einer Messreihe, die bis ins 19. Jahrhundert zurückreicht. 
-
-Der Rückgang des Gletschers beschäftigt auch die Karthauser Fotografin Daniela Brugger: die Lebensgefährtin Kasers teilt das Interesse für den Wandel in der Natur - mit einem allerdings völlig unterschiedlichen Zugang. Und zuletzt erkunden wir das Hintere Eis noch mit einem, der sein ganzes Leben hier unterwegs war. Bergführer Ludwig Golfer hat die Veränderung der Landschaft zwischen dem Ötztal und dem Schnalstal hautnah miterlebt.</desc>
-  </programme>
-  <programme start="20260426205000 +0200" stop="20260426205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260426221000 +0200" stop="20260426223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260427180000 +0200" stop="20260427181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
