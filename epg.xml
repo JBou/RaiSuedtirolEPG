@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260427180000 +0200" stop="20260427181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am drittletzten Spieltag in der Fußball-Oberliga empfängt Ahrntal den Bozner FC. Die Pusterer kämpfen noch um den Klassenerhalt.  
-In der Landesliga ist Tabellenführer Bruneck in Margreid bei Weinstraße Süd zu Gast, während die beiden Verfolger Naturns und Olimpia Meran sich im direkten Duell gegenüberstehen.</desc>
-  </programme>
-  <programme start="20260427181400 +0200" stop="20260427182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Blasmusik in Meransen</sub-title>
-    <desc>Die Kinder von Meransen lieben Blasmusik und laufen voller Freude ins Probelokal der Musikkapelle. Doch oh Schreck, einige Teile ihrer Instrumente fehlen! Jemand muss das Mundstück der Trompete und das Flügelhorn versteckt haben. Inmitten der großen Aufregung taucht Clownfrau Karamela auf und entdeckt sehr bald die Übeltäter: Es waren Mäuse! Sie möchten auch gern musizieren, trauen sich aber nicht, die Kinder anzusprechen. Karamela hilft - und bald spielen alle zusammen - Kinder und Mäuse - fröhlich auf ihren Instrumenten.</desc>
-  </programme>
-  <programme start="20260427182900 +0200" stop="20260427185830 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>Im Hinteren Eis</sub-title>
-    <desc>Drei Menschen- ein Thema: Mit Gletscherforscher Georg Kaser sind wir unterwegs zur wissenschaftlichen Forschungsstation am Hinteren Eis. Dort - auf über 3000 Metern Meereshöhe untersucht die Universität Innsbruck die Bewegungen der Gletscher mit einer Messreihe, die bis ins 19. Jahrhundert zurückreicht. Der Rückgang des Gletschers beschäftigt auch die Karthauser Fotografin Daniela Brugger: die Lebensgefährtin Kasers teilt das Interesse für den Wandel in der Natur - mit einem allerdings völlig unterschiedlichen Zugang. Und zuletzt erkunden wir das Hintere Eis noch mit einem, der sein ganzes Leben hier unterwegs war. Bergführer Ludwig Golfer hat die Veränderung der Landschaft zwischen dem Ötztal und dem Schnalstal hautnah miterlebt.</desc>
-  </programme>
-  <programme start="20260427200000 +0200" stop="20260427202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260427202000 +0200" stop="20260427215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Lebensabschnitt Rente...und dann?</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Die Boomer gehen in Pension. Wer will, kann sich neu erfinden. Wer nichts plant, fällt eher in ein Loch. Nur: Wann soll man anfangen, den Lebensabschnitt Rente zu planen? 
-
-Lebensabschnitt Rente: Reif fürs Abstellgleis? Das ist ein Konzept von gestern. Wer sich fühlt, bleibt tätig, ehrenamtlich oder gegen Geld. Wer nichts plant, fällt eher in ein Loch.  
-Filmemacherin Claudia Bosch hat sich umgehört und allerlei Menschen im neuen Probiermodus entdeckt.  
-Im Talk fragen wir: Wie findet man heraus, was man noch will vom Leben, (fast) ohne Kompromisse? Und wie tickt unsere Gesellschaft, wenn viele von uns 67plus sind? Ganz persönlich diesmal. Es sprechen Barbara Willimek, Präsidentin des Seniorengemeinderats Bruneck, Hansi Felder, ehrenamtlich in der privaten Krebshilfe aktiv, die Psychologin Julia Kaufmann und die Künstlerin Karin Welponer. Im Interview: Philipp Moser, hds-Präsident, und Hard Noflatscher, Initiator der AktivSenioren Südtirol.  
-Gabriele Crepaz moderiert. Live aus dem Sitz des Wirtschaftsverbands hds in Bozen.</desc>
-  </programme>
-  <programme start="20260427221000 +0200" stop="20260427223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260428200000 +0200" stop="20260428202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
