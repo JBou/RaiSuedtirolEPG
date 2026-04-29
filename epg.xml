@@ -4,27 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260428200000 +0200" stop="20260428202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260428202000 +0200" stop="20260428203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260428203500 +0200" stop="20260428204930 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am drittletzten Spieltag in der Fußball-Oberliga empfängt Ahrntal den Bozner FC. Die Pusterer kämpfen noch um den Klassenerhalt.  
-In der Landesliga ist Tabellenführer Bruneck in Margreid bei Weinstraße Süd zu Gast, während die beiden Verfolger Naturns und Olimpia Meran sich im direkten Duell gegenüberstehen.</desc>
-  </programme>
-  <programme start="20260428221000 +0200" stop="20260428223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260429200000 +0200" stop="20260429202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
