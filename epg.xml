@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260429200000 +0200" stop="20260429202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260429202000 +0200" stop="20260429204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Eine Sendung von Marianne Kasseroler</sub-title>
-    <desc>Norikerpferde in allen Farben: Dank Züchtern vor dem Verschwinden bewahrt. Lernen unter freiem Himmel: Der Waldkindergarten &quot;Ameisenherz&quot; in Klausen.
-
-In dieser Ausgabe von &quot;Land&amp;Leben&quot; nehmen wir Sie mit in die Welt der Norikerpferde. Einst unverzichtbar für die Landwirtschaft, die Holzarbeit und als Zugpferde, wären sie ohne engagierte Züchter beinahe vom Aussterben bedroht gewesen. Heute gibt es wieder rund 300 reinrassige Tiere, von tiefschwarzen Rappen über den Braunen bis zum Mohrenkopf. Kraftvoll, zuverlässig und doch mit eigenem Charakter begeistern die Noriker durch Temperament und Treue. Wir besuchen Züchterinnen und Züchter, die mit viel Herzblut die Zukunft dieser majestätischen Pferde sichern. 
-Ein weiterer Beitrag führt in den Waldkindergarten &quot;Ameisenherz&quot; in Klausen, wo Kinder auf einem Bauernhof und inmitten von Wiesen und Wäldern spielerisch lernen, Verantwortung zu übernehmen und die Natur zu erforschen.</desc>
-  </programme>
-  <programme start="20260429221000 +0200" stop="20260429223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260430200000 +0200" stop="20260430202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
