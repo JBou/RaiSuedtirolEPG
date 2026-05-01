@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260430200000 +0200" stop="20260430202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260430202000 +0200" stop="20260430204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Longevity</sub-title>
-    <desc>Ein Zauberwort macht die Runde: Longevity, Langlebigkeit. Influencer:innen und Vitalkliniken versprechen ein längeres Leben. Hilft das wirklich, um gesund ein hohes Alter zu erreichen? 
-
-Influencer:innen und Vitalkliniken bieten Methoden an, die angeblich die biologische Uhr zurückdrehen. Hilft das wirklich? Zu Gast ist der Wissenschaftler für Integrative, Komplementäre und Psychosoziale Gesundheitswissenschaften, Thomas Stricker.  
-Wir besuchen außerdem den Recyclinghof in Terlan und beobachten und begleiten einen Tag lang die Menschen und das Treiben auf diesem Müllentsorgungsplatz. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Mensch sein - gesund altern&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260430221000 +0200" stop="20260430223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260501180000 +0200" stop="20260501182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Longevity</sub-title>
@@ -118,6 +100,195 @@ In dF Info berichten wir über das 20jährige Jubiläum des Frauennetzwerkes Wne
     <desc/>
   </programme>
   <programme start="20260503221000 +0200" stop="20260503223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260504180000 +0200" stop="20260504181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Das Top-Match des vorletzten Spieltages in der Fußball-Oberliga ist das Derby St. Pauls gegen Virtus Bozen. Für die Überetscher geht es um den Klassenerhalt, Virtus spielt hingegen um den Aufstieg in die Serie D.  
+In der Landesliga empfängt Tabellenführer Bruneck in Reischach den Vierten Terlan, während Gitschberg Jochtal in Vals auf Latsch trifft.</desc>
+  </programme>
+  <programme start="20260504181400 +0200" stop="20260504182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Apfelstreuselkuchen</sub-title>
+    <desc>In einer neuen Folge von &quot;Kochen kinderleicht&quot; backt Kinderköchin Linda gemeinsam mit Kochlehrerin Martina einen herrlich duftenden Apfelstreuselkuchen. Zuerst wird ein Streuselteig zubereitet und zum Kühlen gestellt, während Linda lernt Äpfel richtig zu schälen, zu entkernen und in kleine Stücke zu schneiden. Die Apfelstücke werden mit Zucker, Zimt und Zitrone verfeinert und auf den ausgerollten Teigboden gelegt. Anschließend krümelt Linda die Streusel darüber - ihr liebster Teil! Schon bald erfüllt der Duft von frisch gebackenem Kuchen die Küche. Nach dem Abkühlen kommt der große Moment: Linda probiert ihr Werk - und ist begeistert!</desc>
+  </programme>
+  <programme start="20260504182900 +0200" stop="20260504185830 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Eine Sendung von Marianne Kasseroler</sub-title>
+    <desc>Norikerpferde in allen Farben: Dank Züchtern vor dem Verschwinden bewahrt. Lernen unter freiem Himmel: Der Waldkindergarten &quot;Ameisenherz&quot; in Klausen.In dieser Ausgabe von &quot;Land&amp;Leben&quot; nehmen wir Sie mit in die Welt der Norikerpferde. Einst unverzichtbar für die Landwirtschaft, die Holzarbeit und als Zugpferde, wären sie ohne engagierte Züchter beinahe vom Aussterben bedroht gewesen. Heute gibt es wieder rund 300 reinrassige Tiere, von tiefschwarzen Rappen über den Braunen bis zum Mohrenkopf. Kraftvoll, zuverlässig und doch mit eigenem Charakter begeistern die Noriker durch Temperament und Treue. Wir besuchen Züchterinnen und Züchter, die mit viel Herzblut die Zukunft dieser majestätischen Pferde sichern. 
+Ein weiterer Beitrag führt in den Waldkindergarten &quot;Ameisenherz&quot; in Klausen, wo Kinder auf einem Bauernhof und inmitten von Wiesen und Wäldern spielerisch lernen, Verantwortung zu übernehmen und die Natur zu erforschen.</desc>
+  </programme>
+  <programme start="20260504200000 +0200" stop="20260504202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260504202000 +0200" stop="20260504212930 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. 
+Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20260504213000 +0200" stop="20260504215930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Vor 80 Jahren durften Frauen in Italien zum ersten Mal wählen. Wie wirkt dieser Schritt bis heute nach? Kulturmanagerin Anna Hilber im Porträt. 20 Jahre Frauennetzwerk Wnet. Es moderiert Martina Kreuzer. 
+Am 10. März 1946 konnten Frauen in Italien zum ersten Mal wählen. Der Großteil der Südtirolerinnen musste zwar noch zwei Jahre länger warten, dennoch ist dieses 80-jährige Jubiläum der Einführung des Frauenwahlrechtes in Italien ein guter Anlass, einen großen frauenpolitischen Schritt in Erinnerung zu rufen - und nachzufragen, wie er bis heute nachwirkt. 
+Community ist das Herzstück von allem, was sie tut, sagt die Kulturmanagerin Anna Hilber. Wo immer soziales Leben neu gedacht wird, ist sie dabei. Auch Häkeln kann dann zum Aktivismus werden. Ein Porträt einer jungen Frau, die lebt, wie sie wirken will: einfach unkonventionell.  
+In dF Info berichten wir über das 20jährige Jubiläum des Frauennetzwerkes Wnet und wir erörtern, was es mit der europäischen Entgelttransparenzrichtlinie auf sich hat und welche Auswirkungen sie auf den Arbeitsmarkt haben wird.  </desc>
+  </programme>
+  <programme start="20260504221000 +0200" stop="20260504223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260505200000 +0200" stop="20260505202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260505202000 +0200" stop="20260505203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260505203500 +0200" stop="20260505204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das neue wöchentliche Sportmagazin auf Rai Südtirol widmet sich dem vielfältigen Sportgeschehen im Land. Es beleuchtet die zahlreichen Disziplinen, die in Südtirol von Profis, aber vor allem auch von Kindern, Jugendlichen und Behindertensportlern als Amateure betrieben werden, und erzählt ihre Geschichten auch mit Blick hinter die Kulissen. Moderation: Laura Moroder.</desc>
+  </programme>
+  <programme start="20260505221000 +0200" stop="20260505223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260506200000 +0200" stop="20260506202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260506202000 +0200" stop="20260506204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 70 Jahren ein Pionier in der Fruchtverarbeitung. Auch im Bereich Wärmepumpen entsteht in Südtirol derzeit viel Neues. 
+
+Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 70 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor.  Das Unternehmen, das sich auf die Fruchtverarbeitung spezialisiert hat, war stets ein Vorreiter in Sachen Nachhaltigkeit und effizienter Nutzung von Energieressourcen. 
+Pionierarbeit wird derzeit auch in verschiedenen Bereichen der Nutzung von Energiequellen geleistet: Wärmepumpen werden beispielsweise nicht nur importiert, sondern auch in Südtirol maßgeblich weiterentwickelt.  Chancen in diesem Sektor ergeben sich durch die Kombination von Wärmepumpen mit Photovoltaikanlagen. Die aktuellen Preissprünge auf den Energiemärkten fördern diese Entwicklungen.</desc>
+  </programme>
+  <programme start="20260506221000 +0200" stop="20260506223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260507200000 +0200" stop="20260507202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260507202000 +0200" stop="20260507204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Wer übernimmt den Betrieb?</sub-title>
+    <desc>Bauern oder Handerwerker:innen freuen sich, wenn ihre Kinder den Betrieb weiterführen. Doch das passiert heute seltener. Was sind die Gründe dafür? Es moderiert Karin Gschnitzer.        
+
+Die Landschaft in Südtirol wird maßgeblich von den Bauern mitgestaltet. Menschen, die über die Jahrhunderte ihre Felder und Wälder, Wiesen und Äcker und ihren Hof bewirtschaftet und gepflegt haben. Zwischen Klimawandel, Druck von den Konsument:innen und hoher Arbeitsbelastung sind immer weniger Menschen bereit, diesem Beruf nachzugehen. Was passiert dann mit den Höfen?  
+Gast in der Sendung ist der Tischler Patrick Gampenrieder, der erfolgreich den Handwerksbetrieb von seinem Vater übernommen hat.  
+In der Reihe &quot;Wiedersehen&quot; erzählen wir von Menschen und ihren Lieblingstieren und es startet die neue Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
+  </programme>
+  <programme start="20260507221000 +0200" stop="20260507223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260508175900 +0200" stop="20260508182830 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Wer übernimmt den Betrieb?</sub-title>
+    <desc>Bauern oder Handerwerker:innen freuen sich, wenn ihre Kinder den Betrieb weiterführen. Doch das passiert heute seltener. Was sind die Gründe dafür? Es moderiert Karin Gschnitzer. 
+Die Landschaft in Südtirol wird maßgeblich von den Bauern mitgestaltet. Menschen, die über die Jahrhunderte ihre Felder und Wälder, Wiesen und Äcker und ihren Hof bewirtschaftet und gepflegt haben. Zwischen Klimawandel, Druck von den Konsument:innen und hoher Arbeitsbelastung sind immer weniger Menschen bereit, diesem Beruf nachzugehen. Was passiert dann mit den Höfen?  
+Gast in der Sendung ist der Tischler Patrick Gampenrieder, der erfolgreich den Handwerksbetrieb von seinem Vater übernommen hat.  
+In der Reihe &quot;Wiedersehen&quot; erzählen wir von Menschen und ihren Lieblingstieren und es startet die neue Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
+  </programme>
+  <programme start="20260508182800 +0200" stop="20260508184230 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das neue wöchentliche Sportmagazin auf Rai Südtirol widmet sich dem vielfältigen Sportgeschehen im Land. Es beleuchtet die zahlreichen Disziplinen, die in Südtirol von Profis, aber vor allem auch von Kindern, Jugendlichen und Behindertensportlern als Amateure betrieben werden, und erzählt ihre Geschichten auch mit Blick hinter die Kulissen. Moderation: Laura Moroder.</desc>
+  </programme>
+  <programme start="20260508184300 +0200" stop="20260508184754 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital 4</title>
+    <sub-title>Die praktische Umsetzung von KI</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260508184800 +0200" stop="20260508185911 +0200" channel="Rai Südtirol">
+    <title>Blumen &amp; Co.</title>
+    <sub-title>Was sind Sukkulenten?</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260508200000 +0200" stop="20260508202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260508202000 +0200" stop="20260508205400 +0200" channel="Rai Südtirol">
+    <title>SchachMax</title>
+    <sub-title>Max on Fire</sub-title>
+    <desc>Diesmal wird es brandheiß! Der Brixner Musiker stellt sich den Aufgaben der Freiwilligen Feuerwehr Bozen - und gerät dabei ordentlich ins Schwitzen. 
+
+Jeder kennt sie, jeder braucht sie: die Freiwilligen Feuerwehren in Südtirol. Ob Hausbrand, Verkehrsunfall oder Rettungseinsatz - die Männer und Frauen der Feuerwehr leisten täglich Außergewöhnliches und setzen sich mit vollem Einsatz für die Sicherheit anderer ein. Perfekte Voraussetzungen also für eine neue Herausforderung für Max von Milland. Ob er die Challenge meistert und einen kühlen Kopf bewahrt, sehen Sie in der neuen Ausgabe von Schachmax.</desc>
+  </programme>
+  <programme start="20260508205500 +0200" stop="20260508213055 +0200" channel="Rai Südtirol">
+    <title>Das Thema: Gebaut für den Ernstfall</title>
+    <sub-title>Südtirols Feuerwehrfahrzeuge</sub-title>
+    <desc>Wenn jede Sekunde zählt, sind Südtirols freiwillige Feuerwehren zur Stelle: bei Bränden, Unwettern oder Unfällen. Die Reportage zeigt, wie die Frauen und Männer der freiwilligen Feuerwehr rund um die Uhr Leben retten und dabei auf modernste Technik angewiesen sind. Kameramann Andreas Niederkofler begleitet die Einsatzkräfte bei spektakulären Einsätzen: Vom Brand eines Wirtschaftsgebäudes über einen LKW-Unfall zum Großeinsatz in Gais.  
+
+Zugleich blickt &quot;Das Thema&quot;hinter die Werkstore von Rosenbauer in Leonding und Andrian, wo hochentwickelte Löschfahrzeuge wie der Panther 6x6 oder die maßgeschneiderten AT-Fahrzeuge entstehen.  
+Historische Modelle wie der &quot;Tigrotto&quot; der FF Lana zeigen die Entwicklung der Feuerwehrtechnik von den Anfängen bis heute. Die Dokumentation macht deutlich: Nur wenn Mensch und Maschine perfekt zusammenarbeiten, können Einsätze erfolgreich und sicher bewältigt werden.
+in Film über Mut, Verantwortung und Innovation. Und über die rund 13.000 freiwilligen Helfer:innen, auf die Südtirol täglich zählen kann.</desc>
+  </programme>
+  <programme start="20260508213100 +0200" stop="20260508215955 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Frühlingwanderung bei Kaltern</sub-title>
+    <desc>Gemeinsam mit Theo Hendrich wandern wir von Kaltern über den Friedensweg Richtung Altenburg mit wunderbarem Blick zum Kalterer See. Bei den Ruinen der St.Peter-Basilika führt der Weg hinunter in die abenteuerliche Rastenbachklamm. Mit ihren Wasserfällen, den efeubewachsenen Bäumen, umgefallenen Stämmen stellt sie ein beeindruckendes Naturdenkmal dar. Selbstverständlich darf auf dieser Wanderung ein Abstecher zu einem typischen Familienweingut nicht fehlen.</desc>
+  </programme>
+  <programme start="20260508221000 +0200" stop="20260508223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260509180000 +0200" stop="20260509182930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 70 Jahren ein Pionier in der Fruchtverarbeitung. Auch im Bereich Wärmepumpen entsteht in Südtirol derzeit viel Neues. 
+Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 70 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor.  Das Unternehmen, das sich auf die Fruchtverarbeitung spezialisiert hat, war stets ein Vorreiter in Sachen Nachhaltigkeit und effizienter Nutzung von Energieressourcen. 
+Pionierarbeit wird derzeit auch in verschiedenen Bereichen der Nutzung von Energiequellen geleistet: Wärmepumpen werden beispielsweise nicht nur importiert, sondern auch in Südtirol maßgeblich weiterentwickelt.  Chancen in diesem Sektor ergeben sich durch die Kombination von Wärmepumpen mit Photovoltaikanlagen. Die aktuellen Preissprünge auf den Energiemärkten fördern diese Entwicklungen.</desc>
+  </programme>
+  <programme start="20260509182900 +0200" stop="20260509185810 +0200" channel="Rai Südtirol">
+    <title>Die Garantiegenossenschaft Confidi</title>
+    <sub-title>Vertrauen als Kapital</sub-title>
+    <desc>Zum 50-jährigen Jubiläum der Garantiegenossenschaft Confidi entsteht ein Dokumentarfilm, der zeigt, wie wichtig Vertrauen und Garantien für den Zugang zu Krediten und damit für die wirtschaftliche Entwicklung in Südtirol sind. Im Zentrum stehen Betriebe aus unterschiedlichen Branchen - von Hightech Unternehmen wie Microgate und Microtec über Green-Tech-Pionier Biologik Systems und das Sandgold Alpine Glamping bis hin zu Sozial- und Gesundheitsbetrieben wie der Genossenschaft Coccinella oder Apothekenprojekten in Südtirol und Trentino. Sie alle zeigen, wie Confidi als Brücke zwischen Banken und Unternehmen wirkt und Investitionen, Innovation und Wachstum ermöglicht.</desc>
+  </programme>
+  <programme start="20260509200000 +0200" stop="20260509202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260509202100 +0200" stop="20260509202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260509202500 +0200" stop="20260509205430 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Pfarrersköchin Annemie Bacher Holzknecht, der Ex-Europaparlamentarier Sepp Kusstatscher, Monika und Sepp Marmsoler und die für Arbeitsmarkteingliederung zuständige Simone Paulmichl.   
+
+Das Mutter-Werden war für Annemie Bacher Holzknecht aus Wiesen - nach drei stillen Geburten - der emotionell berührendste Moment des Lebens. Dies in Worte zu kleiden, fällt ihr schwer. Sie wurde in eine Zeit geboren, als über Gefühle noch wenig gesprochen wurde.  
+Dass Senioren geistig wachsam bleiben, ist für Sepp Kusstatscher, den ehemaligen Europa-Abgeordneten der Grünen, ein Anliegen. Er wird nicht müde, sich für Frieden und soziale Gerechtigkeit einzusetzen.  
+In der Bozner Rauschertorgasse gibt es einen kleinen Spiel-Laden, der seit 45 Jahren Wert darauf legt, die Kreativität zu fördern. Mit Jahresende kündigen Monika und Sepp Marmsoler den Mietvertrag. 
+Moderatorin Claudia Schuler begrüßt heute Simone Paulmichl, Fachkraft beim Amt für Arbeitsmarktintegration. Gemeinsam sprechen sie darüber, wie Menschen mit besonderen Bedürfnissen auf ihrem Weg in die Arbeitswelt begleitet werden, welche Herausforderungen ihnen begegnen und welche Chancen sich eröffnen können.</desc>
+  </programme>
+  <programme start="20260509221000 +0200" stop="20260509223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
