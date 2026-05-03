@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260502180000 +0200" stop="20260502185830 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Karin Duregger erkundet den historischen Ortskern von Klausen, Magdalena Oberstaller erforscht das Frühlingserwachen der Wildtiere und den Klang des Waldes. Erlebnis Südtirol wird diesmal ebenso geräuschvoll wie geheimnisvoll. Magdalena Oberstaller begibt sich hinaus in die Natur und erforscht das Frühlingserwachen der Wildtiere. Dabei sucht sie nicht nur nach visuellen Eindrücken, sondern vor allem nach Tönen, Geräuschen und dem natürlichen Klangteppich des Waldes.  
-Vorher schlendert Karin Duregger durch das historische Klausen mit seinen engen Gassen, kleinen Fenstern und alten Türen. Halt macht sie schließlich an Orten, die unterschiedlicher nicht sein könnten. Sie sieht neue Wohnungen im alten Gerichtsgebäude und Armenspital, ein entstehendes Museum, ein uriges Gasthaus und das wohl schmalste Haus ganz Tirols.</desc>
-  </programme>
-  <programme start="20260502200000 +0200" stop="20260502202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260502202100 +0200" stop="20260502202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260502202500 +0200" stop="20260502210530 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Bernhard Karl Pircher. Der Kampf danach</sub-title>
-    <desc>Was bedeutet Stärke wirklich - und wann beginnt sie? Bernhard Karl Pircher ist Kampfsportler, Trainer und Vater. Ein Mann, der gelernt hat zu kämpfen - im Ring und im Leben. 
-
-Mit 15 Jahren wird Bernhard in Bozen Opfer einer brutalen Gewalterfahrung. Ein Moment, der alles verändert. Aus Angst entsteht der Wunsch nach Kontrolle, aus Kontrolle wird Disziplin - und schließlich eine beeindruckende Karriere im Kampfsport. Weltmeistertitel, hunderte Wettkämpfe und jahrzehntelanges Training prägen seinen Weg. 
-Ein zweiter, noch tieferer Wendepunkt folgt Jahre später: die Geburt seines Sohnes Bennett, der mit Down-Syndrom zur Welt kommt. Eine Entscheidung, die Bernhard und seine Familie bewusst treffen - und die seinen Blick auf das Leben grundlegend verändert. 
-Heute gibt Bernhard weiter, was er selbst lernen musste. In Selbstverteidigungskursen für Frauen und im Training mit Jugendlichen geht es um Selbstvertrauen, Haltung und innere Stärke.</desc>
-  </programme>
-  <programme start="20260502221000 +0200" stop="20260502223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260503200000 +0200" stop="20260503202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
