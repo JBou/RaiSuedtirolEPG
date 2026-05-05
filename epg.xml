@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260504180000 +0200" stop="20260504181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Das Top-Match des vorletzten Spieltages in der Fußball-Oberliga ist das Derby St. Pauls gegen Virtus Bozen. Für die Überetscher geht es um den Klassenerhalt, Virtus spielt hingegen um den Aufstieg in die Serie D.  
-In der Landesliga empfängt Tabellenführer Bruneck in Reischach den Vierten Terlan, während Gitschberg Jochtal in Vals auf Latsch trifft.</desc>
-  </programme>
-  <programme start="20260504181400 +0200" stop="20260504182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Apfelstreuselkuchen</sub-title>
-    <desc>In einer neuen Folge von &quot;Kochen kinderleicht&quot; backt Kinderköchin Linda gemeinsam mit Kochlehrerin Martina einen herrlich duftenden Apfelstreuselkuchen. Zuerst wird ein Streuselteig zubereitet und zum Kühlen gestellt, während Linda lernt Äpfel richtig zu schälen, zu entkernen und in kleine Stücke zu schneiden. Die Apfelstücke werden mit Zucker, Zimt und Zitrone verfeinert und auf den ausgerollten Teigboden gelegt. Anschließend krümelt Linda die Streusel darüber - ihr liebster Teil! Schon bald erfüllt der Duft von frisch gebackenem Kuchen die Küche. Nach dem Abkühlen kommt der große Moment: Linda probiert ihr Werk - und ist begeistert!</desc>
-  </programme>
-  <programme start="20260504182900 +0200" stop="20260504185830 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Eine Sendung von Marianne Kasseroler</sub-title>
-    <desc>Norikerpferde in allen Farben: Dank Züchtern vor dem Verschwinden bewahrt. Lernen unter freiem Himmel: Der Waldkindergarten &quot;Ameisenherz&quot; in Klausen.In dieser Ausgabe von &quot;Land&amp;Leben&quot; nehmen wir Sie mit in die Welt der Norikerpferde. Einst unverzichtbar für die Landwirtschaft, die Holzarbeit und als Zugpferde, wären sie ohne engagierte Züchter beinahe vom Aussterben bedroht gewesen. Heute gibt es wieder rund 300 reinrassige Tiere, von tiefschwarzen Rappen über den Braunen bis zum Mohrenkopf. Kraftvoll, zuverlässig und doch mit eigenem Charakter begeistern die Noriker durch Temperament und Treue. Wir besuchen Züchterinnen und Züchter, die mit viel Herzblut die Zukunft dieser majestätischen Pferde sichern. 
-Ein weiterer Beitrag führt in den Waldkindergarten &quot;Ameisenherz&quot; in Klausen, wo Kinder auf einem Bauernhof und inmitten von Wiesen und Wäldern spielerisch lernen, Verantwortung zu übernehmen und die Natur zu erforschen.</desc>
-  </programme>
-  <programme start="20260504200000 +0200" stop="20260504202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260504202000 +0200" stop="20260504212930 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. 
-Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20260504213000 +0200" stop="20260504215930 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Vor 80 Jahren durften Frauen in Italien zum ersten Mal wählen. Wie wirkt dieser Schritt bis heute nach? Kulturmanagerin Anna Hilber im Porträt. 20 Jahre Frauennetzwerk Wnet. Es moderiert Martina Kreuzer. 
-Am 10. März 1946 konnten Frauen in Italien zum ersten Mal wählen. Der Großteil der Südtirolerinnen musste zwar noch zwei Jahre länger warten, dennoch ist dieses 80-jährige Jubiläum der Einführung des Frauenwahlrechtes in Italien ein guter Anlass, einen großen frauenpolitischen Schritt in Erinnerung zu rufen - und nachzufragen, wie er bis heute nachwirkt. 
-Community ist das Herzstück von allem, was sie tut, sagt die Kulturmanagerin Anna Hilber. Wo immer soziales Leben neu gedacht wird, ist sie dabei. Auch Häkeln kann dann zum Aktivismus werden. Ein Porträt einer jungen Frau, die lebt, wie sie wirken will: einfach unkonventionell.  
-In dF Info berichten wir über das 20jährige Jubiläum des Frauennetzwerkes Wnet und wir erörtern, was es mit der europäischen Entgelttransparenzrichtlinie auf sich hat und welche Auswirkungen sie auf den Arbeitsmarkt haben wird.  </desc>
-  </programme>
-  <programme start="20260504221000 +0200" stop="20260504223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260505200000 +0200" stop="20260505202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
