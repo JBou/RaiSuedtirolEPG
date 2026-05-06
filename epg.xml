@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260505200000 +0200" stop="20260505202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260505202000 +0200" stop="20260505203430 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260505203500 +0200" stop="20260505204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Das neue wöchentliche Sportmagazin auf Rai Südtirol widmet sich dem vielfältigen Sportgeschehen im Land. Es beleuchtet die zahlreichen Disziplinen, die in Südtirol von Profis, aber vor allem auch von Kindern, Jugendlichen und Behindertensportlern als Amateure betrieben werden, und erzählt ihre Geschichten auch mit Blick hinter die Kulissen. Moderation: Laura Moroder.</desc>
-  </programme>
-  <programme start="20260505221000 +0200" stop="20260505223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260506200000 +0200" stop="20260506202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
