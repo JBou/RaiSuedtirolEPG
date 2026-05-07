@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260506200000 +0200" stop="20260506202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260506202000 +0200" stop="20260506204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 70 Jahren ein Pionier in der Fruchtverarbeitung. Auch im Bereich Wärmepumpen entsteht in Südtirol derzeit viel Neues. 
-
-Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 70 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor.  Das Unternehmen, das sich auf die Fruchtverarbeitung spezialisiert hat, war stets ein Vorreiter in Sachen Nachhaltigkeit und effizienter Nutzung von Energieressourcen. 
-Pionierarbeit wird derzeit auch in verschiedenen Bereichen der Nutzung von Energiequellen geleistet: Wärmepumpen werden beispielsweise nicht nur importiert, sondern auch in Südtirol maßgeblich weiterentwickelt.  Chancen in diesem Sektor ergeben sich durch die Kombination von Wärmepumpen mit Photovoltaikanlagen. Die aktuellen Preissprünge auf den Energiemärkten fördern diese Entwicklungen.</desc>
-  </programme>
-  <programme start="20260506221000 +0200" stop="20260506223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260507200000 +0200" stop="20260507202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -98,9 +80,11 @@ in Film über Mut, Verantwortung und Innovation. Und über die rund 13.000 freiw
   <programme start="20260509180000 +0200" stop="20260509182930 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 70 Jahren ein Pionier in der Fruchtverarbeitung. Auch im Bereich Wärmepumpen entsteht in Südtirol derzeit viel Neues. 
-Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 70 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor.  Das Unternehmen, das sich auf die Fruchtverarbeitung spezialisiert hat, war stets ein Vorreiter in Sachen Nachhaltigkeit und effizienter Nutzung von Energieressourcen. 
-Pionierarbeit wird derzeit auch in verschiedenen Bereichen der Nutzung von Energiequellen geleistet: Wärmepumpen werden beispielsweise nicht nur importiert, sondern auch in Südtirol maßgeblich weiterentwickelt.  Chancen in diesem Sektor ergeben sich durch die Kombination von Wärmepumpen mit Photovoltaikanlagen. Die aktuellen Preissprünge auf den Energiemärkten fördern diese Entwicklungen.</desc>
+    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 75 Jahren ein Pionier in der Fruchtverarbeitung. Saudi-Arabien ist für Südtirol ein neuer Markt. Und auch im Bereich Wasserstoff gibt es viel Potential.
+
+Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 75 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor. Das Unternehmen war aber stets auch ein Vorreiter in Sachen Nachhaltigkeit.
+Einige Südtiroler Unternehmen haben erfolgreich die ersten Schritte auf dem Exportmarkt Saudi-Arabien gemacht, nachdem sie bereits in den Vereinigten Arabischen Emiraten wertvolle Erfahrungen gesammelt haben.  Macht der aktuelle Konflikt im Iran nun diese Vorbereitungsarbeiten zunichte?
+Die aktuellen Preissprünge auf den Energiemärkten regen dazu an, wieder vermehrt über Wasserstoff nachzudenken. Wasserstoff eignet sich vor allem für LKW, hat aber noch viel Potential als Energiespeicher und im Einsatz in der Industrie. Außerdem gibt es für Wasserstoffprojekte hohe Förderungen von der EU und vom Staat.</desc>
   </programme>
   <programme start="20260509182900 +0200" stop="20260509185810 +0200" channel="Rai Südtirol">
     <title>Die Garantiegenossenschaft Confidi</title>
