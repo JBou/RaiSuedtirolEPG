@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260509180000 +0200" stop="20260509182930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Pionierarbeit ist diesmal das Motto der Sendung: Hans Zipperle war vor 75 Jahren ein Pionier in der Fruchtverarbeitung. Saudi-Arabien ist für Südtirol ein neuer Markt. Und auch im Bereich Wasserstoff gibt es viel Potential.
-
-Pioniere stehen oft vor Herausforderungen, und ihr Erfolg wird erst im Laufe der Zeit deutlich. Ein solcher Pionier war Hans Zipperle, der in den 1950er Jahren ein kleines Familienunternehmen gründete. Heute, 75 Jahre später, zählt es zu den wichtigsten Unternehmen im Südtiroler Lebensmittelsektor. Das Unternehmen war aber stets auch ein Vorreiter in Sachen Nachhaltigkeit.
-Einige Südtiroler Unternehmen haben erfolgreich die ersten Schritte auf dem Exportmarkt Saudi-Arabien gemacht, nachdem sie bereits in den Vereinigten Arabischen Emiraten wertvolle Erfahrungen gesammelt haben.  Macht der aktuelle Konflikt im Iran nun diese Vorbereitungsarbeiten zunichte?
-Die aktuellen Preissprünge auf den Energiemärkten regen dazu an, wieder vermehrt über Wasserstoff nachzudenken. Wasserstoff eignet sich vor allem für LKW, hat aber noch viel Potential als Energiespeicher und im Einsatz in der Industrie. Außerdem gibt es für Wasserstoffprojekte hohe Förderungen von der EU und vom Staat.</desc>
-  </programme>
-  <programme start="20260509182900 +0200" stop="20260509185810 +0200" channel="Rai Südtirol">
-    <title>Die Garantiegenossenschaft Confidi</title>
-    <sub-title>Vertrauen als Kapital</sub-title>
-    <desc>Zum 50-jährigen Jubiläum der Garantiegenossenschaft Confidi entsteht ein Dokumentarfilm, der zeigt, wie wichtig Vertrauen und Garantien für den Zugang zu Krediten und damit für die wirtschaftliche Entwicklung in Südtirol sind. Im Zentrum stehen Betriebe aus unterschiedlichen Branchen - von Hightech Unternehmen wie Microgate und Microtec über Green-Tech-Pionier Biologik Systems und das Sandgold Alpine Glamping bis hin zu Sozial- und Gesundheitsbetrieben wie der Genossenschaft Coccinella oder Apothekenprojekten in Südtirol und Trentino. Sie alle zeigen, wie Confidi als Brücke zwischen Banken und Unternehmen wirkt und Investitionen, Innovation und Wachstum ermöglicht.</desc>
-  </programme>
-  <programme start="20260509200000 +0200" stop="20260509202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260509202100 +0200" stop="20260509202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260509202500 +0200" stop="20260509205430 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Pfarrersköchin Annemie Bacher Holzknecht, der Ex-Europaparlamentarier Sepp Kusstatscher, Monika und Sepp Marmsoler und die für Arbeitsmarkteingliederung zuständige Simone Paulmichl.   
-
-Das Mutter-Werden war für Annemie Bacher Holzknecht aus Wiesen - nach drei stillen Geburten - der emotionell berührendste Moment des Lebens. Dies in Worte zu kleiden, fällt ihr schwer. Sie wurde in eine Zeit geboren, als über Gefühle noch wenig gesprochen wurde.  
-Dass Senioren geistig wachsam bleiben, ist für Sepp Kusstatscher, den ehemaligen Europa-Abgeordneten der Grünen, ein Anliegen. Er wird nicht müde, sich für Frieden und soziale Gerechtigkeit einzusetzen.  
-In der Bozner Rauschertorgasse gibt es einen kleinen Spiel-Laden, der seit 45 Jahren Wert darauf legt, die Kreativität zu fördern. Mit Jahresende kündigen Monika und Sepp Marmsoler den Mietvertrag. 
-Moderatorin Claudia Schuler begrüßt heute Simone Paulmichl, Fachkraft beim Amt für Arbeitsmarktintegration. Gemeinsam sprechen sie darüber, wie Menschen mit besonderen Bedürfnissen auf ihrem Weg in die Arbeitswelt begleitet werden, welche Herausforderungen ihnen begegnen und welche Chancen sich eröffnen können.</desc>
-  </programme>
-  <programme start="20260509221000 +0200" stop="20260509223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260510200000 +0200" stop="20260510202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
