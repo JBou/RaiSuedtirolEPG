@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260510200000 +0200" stop="20260510202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260510202000 +0200" stop="20260510204430 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zwischen Schraubenschlüssel und Trail - Bikefan Fabian. Die Landesfachschule Kaiserhof wird digital(er) mit einem neuen Multimedialabor. Zwei Mütter, zwei Leben - und doch so viel gemeinsam. 
-
-Fabian Höllrigl lebt fürs Biken. Seit der Matura arbeitet er in Schlanders in einem Bikeshop - doch seine eigentliche Leidenschaft beginnt in der Mittagspause: er steigt aufs Rad und trainiert bis zu zwei Stunden. Zwischen Werkbank und Trail verfolgt Fabian konsequent seinen Traum, auch im Wettkampf erfolgreich zu sein. Unterstützt von seinem Umfeld und mit viel Disziplin zeigt er, wie sich Job und Leidenschaft verbinden lassen.  
-Seit über 50 Jahren steht die Landeshotelfachschule Kaiserhof in Meran für fundierte Ausbildung im Hotel- und Gastronomiebereich. Jetzt geht die Schule einen Schritt weiter: Mit einem neuen Multimedia-Labor wird Lernen hier digitaler, vielseitiger - und stärkt gezielt die Kommunikations- und Medienkompetenzen der Schüler:innen. 
-Zum Muttertag begleitet das Jugendmagazin zwei Frauen, deren Alltag unterschiedlicher kaum sein könnte: Sara Pföstl ist 24 Jahre alt, alleinerziehend und lebt mit ihrer kleinen Tochter auf engem Raum. Ihr Leben dreht sich rund um ihr Kind - voller Liebe, aber auch voller Herausforderungen. Die zweite Mutter hat vier Kinder, drei davon mitten in der Pubertät. Der Beitrag zeigt, wie sich Muttersein im Laufe der Jahre verändert - und was immer bleibt: die Liebe.</desc>
-  </programme>
-  <programme start="20260510204600 +0200" stop="20260510205000 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260510221000 +0200" stop="20260510223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260511180000 +0200" stop="20260511181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
