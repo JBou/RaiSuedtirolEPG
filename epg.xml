@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260513200000 +0200" stop="20260513202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260513202000 +0200" stop="20260513204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Sendung Pluspunkt greift diesmal drei aktuelle Verbraucherthemen auf: Abo-Wirtschaft, die Insolvenz der Lebensversicherung FWU Life Lux und Camping im Wandel der Zeit. 
-
-Die sogenannte Abo-Wirtschaft ersetzt zunehmend den klassischen Besitz: von Streaming-Diensten bis hin zu Alltagsprodukten wie Software oder sogar Brillen. Welche Vor- und Nachteile sich daraus für Konsumentinnen und Konsumenten ergeben, erklären die Expertinnen der Verbraucherzentrale Südtirol. Zudem informiert die Sendung über die Insolvenz der Lebensversicherung FWU Life Lux: Betroffene werden derzeit kontaktiert und müssen ihre Ansprüche anmelden - trotz Garantiesystem ist mit finanziellen Verlusten zu rechnen. Und schließlich zeigt Pluspunkt, wie sich Camping in Südtirol gewandelt hat: Zwischen einfachem Zeltplatz und luxuriösem Glamping-Angebot stellt sich die Frage, was Urlauberinnen und Urlauber heute erwarten können - und worauf sie bei der Planung achten sollten. Und schließlich in unserer Rubrik &quot;Lebenswerte Orte in Südtirol&quot; sind wir diesmal in Naturns unterwegs.</desc>
-  </programme>
-  <programme start="20260513221000 +0200" stop="20260513223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260514200000 +0200" stop="20260514202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
