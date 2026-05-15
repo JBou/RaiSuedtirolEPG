@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260514200000 +0200" stop="20260514202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260514202000 +0200" stop="20260514204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Welt im Selfie</sub-title>
-    <desc>Was passiert, wenn wir die Welt und uns darin nur noch durch den Filter unseres Handys sehen? Zwischen Inszenierung und Identität: Wenn die Kamera das Erlebte ersetzt, stellt sich die Frage nach der Echtheit unserer Welt. Verschwindet die Realität hinter dem digitalen Filter, oder wird sie erst durch das Selfie für uns greifbar? 
-
-Zu Gast ist die Fotografin Caroline Renzler von Silbersalz. In der Reihe &quot;Wiedersehen&quot; zeigen wir ein Portrait der Fotografin und Künstlerin Brigitte Niedermair und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260514221000 +0200" stop="20260514223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260515175900 +0200" stop="20260515182830 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Die Welt im Selfie</sub-title>
@@ -116,6 +99,176 @@ Doch auch der Mensch hinter der öffentlichen Figur kommt nicht zu kurz: Rammlma
     <desc/>
   </programme>
   <programme start="20260517221000 +0200" stop="20260517223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260518180000 +0200" stop="20260518181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Im Top-Spiel des vorletzten Spieltages in der Fußball-Landesliga empfängt Meister Bruneck in Reischach den Tabellenzweiten SSV Naturns. Die Überraschungs-Elf der heurigen Meisterschaft, Tscherms Marling trifft auswärts auf Leifers, während Lana im Heimspiel gegen Terlan um den Klassenerhalt zittern muss.</desc>
+  </programme>
+  <programme start="20260518181400 +0200" stop="20260518182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title/>
+    <desc>Als der Bau des Brenner-Basistunnels (dem längsten Eisenbahntunnel der Welt!) begonnen hat, war ZIPP-Reporterin Hannah noch gar nicht auf der Welt. Und wenn er endlich fertig sein wird, kann sie ganz bequem mit dem Zug nach Innsbruck zum Studieren fahren. Aber so lange will Hannah nicht warten! Sie will schon jetzt wissen, wie so ein riesiger Tunnel eigentlich gebaut wird. Auf der Baustelle trifft sie Julia, die sie mit ins Infozentrum nimmt. Dort erfährt Hannah, wie das verzweigte Tunnelsystem tief im Berg aussieht, wie die Züge später mal durch die Alpen sausen werden - und wie eine gigantische Tunnelbohrmaschine funktioniert. 
+
+Und in Sportkids geht es um Orientierungslauf. Ein kurzer Blick auf Karte und Kompass und schon laufen die Sportkids aus Innichen los. Egal ob durch die engen Gassen ihres Dorfes, den dichten Wald oder durch eine fremde Stadt - sie finden zielsicher die orange-weißen Posten, die sie im Laufe des Rennens passieren und elektronisch abstempeln müssen. Welche Gasse oder welche Abkürzung im Wald sie dabei nehmen, das ist jedem Läufer selbst überlassen. Ein Sport also, bei dem es um Orientierung, Ausdauer und Köpfchen geht.</desc>
+  </programme>
+  <programme start="20260518182900 +0200" stop="20260518185830 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>In tiergestützten Interventionen werden Esel zu wichtigen Lernpartnern. Wir waren zu Gast bei der Sozialpädagogin Elisa Di Oto und einer Gruppe erwachsener Menschen mit Beeinträchtigung an einem Ort für heilsame Mensch-Tier Begegnungen im Südtiroler Unterland. Wir konnten das Tier als Mediator beobachten und teilhaben an berührenden Augenblicken zwischen Mensch und Tier. 
+
+Friesenpferde sind für ihre majestätische Erscheinung und Vielseitigkeit bekannt. Silvia Cottone hat ihren Friesen zu einem Film- und Showpferd ausgebildet. Zirzensik ist die Trainingsform, bei der Pferde bestimmte Kunststücke oder Bewegungen lernen, die zwar an die Zirkuswelt erinnern, jedoch weit mehr als bloße Showeinlagen sind.  Die körperliche und geistige Flexibilität der Pferde wird gefördert und das gegenseitige Vertrauen gestärkt. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20260518200000 +0200" stop="20260518202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260518202000 +0200" stop="20260518211930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Kunstbiennale von Venedig, das Singspiel &quot;Im weißen Rössl&quot;, die Uraufführung des zweisprachigen Stückes &quot;Alta tensione. Das Experiment&quot; von Flora Sarubbo, die Biennale Gherdeina und ein Portrait über den Künstler Max Brenner sind die Themen dieser Sendung. Zu Gast sind der junge Schauspieler Frederick Redavid und der Komponist und neu in den Vorstand des SKB gewählte Hannes Kerschbaumer.  
+
+Die 61. Kunstbiennale in Venedig rückt unter dem Titel &quot;In Minor Keys&quot; die leisen, aber kraftvollen Stimmen der Kunst in den Fokus der Weltöffentlichkeit. Mit dem Bozner Kollektiv Lungomare, das das Public Programm und die visuelle Identität des italienischen Pavillons gestaltet, bringt Südtirols innovative Kuratoren-Szene entscheidende Impulse zur gemeinschaftlichen Vernetzung in die Lagunenstadt. Zum Abschluss der Saison haben sich die Vereinigten Bühnen Bozen für eine aufwändige Inszenierung mit einem großen Ensemble entschieden: Im weißen Rössl ist ein Singspiel in drei Akten von Ralph Benatzky aus dem Jahr 1930, es wird als Koproduktion mit der Stiftung Haydn von Bozen und Trient und dem Tiroler Landestheater auf die Bühne gebracht, involviert in die unterschiedlichsten Liebesgeschichten und den ersten &quot;Übertourismus&quot; sind auch die Bürgerkapelle Gries und der Chor &quot;Flat Caps&quot;. Inmitten der imposanten Kulisse der Dolomiten verschmilzt die Biennale Gherdëina zeitgenössische Skulptur mit der unberührten alpinen Natur. Das Festival etabliert sich als einzigartiger Dialograum, der lokale Traditionen und internationale Avantgarde in einer tiefgreifenden ökologischen Erzählung vereint. &quot;Alta tensione. Das Experiment&quot; von Flora Sarrubbo im Theater in der Altstadt in Meran handelt von zwei Familien vor dem Hintergrund der Südtiroler Bombenjahre, die eine stammt aus Rom, die andere aus einem Dorf nahe Bozen. Zwei weit voneinander entfernte Familien, die beide Spielfiguren eines Spiels sind, das sie auf unterschiedliche Weise zu Opfern von politischen Strategien macht. Das Stück ist eine Zusammenarbeit zwischen dem Theater in der Altstadt und dem Contro Tempo Teatro aus Bozen. Mit einer unverkennbaren Formsprache lotet Max Brenner die Grenzen zwischen Materialität und emotionaler Abstraktion immer wieder neu aus. Seine Arbeiten fordern den Betrachter heraus, die Komplexität des Alltäglichen - von der Reizüberflutung urbaner Räume bis zur figürlichen Entfremdung - durch die Linse einer radikal neuen Ästhetik zu betrachten. Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260518212000 +0200" stop="20260518215400 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Max on Fire</sub-title>
+    <desc>Diesmal wird es brandheiß! Der Brixner Musiker stellt sich den Aufgaben der Freiwilligen Feuerwehr Bozen - und gerät dabei ordentlich ins Schwitzen. Jeder kennt sie, jeder braucht sie: die Freiwilligen Feuerwehren in Südtirol. Ob Hausbrand, Verkehrsunfall oder Rettungseinsatz - die Männer und Frauen der Feuerwehr leisten täglich Außergewöhnliches und setzen sich mit vollem Einsatz für die Sicherheit anderer ein. Perfekte Voraussetzungen also für eine neue Herausforderung für Max von Milland. Ob er die Challenge meistert und einen kühlen Kopf bewahrt, sehen Sie in der neuen Ausgabe von Schachmax.</desc>
+  </programme>
+  <programme start="20260518215400 +0200" stop="20260518215936 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Isabel Goller</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260518221000 +0200" stop="20260518223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260519200000 +0200" stop="20260519202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260519202000 +0200" stop="20260519203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260519203500 +0200" stop="20260519204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
+  </programme>
+  <programme start="20260519221000 +0200" stop="20260519223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260520200000 +0200" stop="20260520202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260520202000 +0200" stop="20260520204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Stadtbibliothek Brixen als Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, der indigen Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen und das &quot;Kornische&quot; sind Themen dieser Ausgabe.  
+
+Schwerpunkt Kornisch im Süden Englands: Das Kornische, die keltische Sprache Cornwalls, erhielt im Januar 2026 durch die Aufnahme in die EU-Sprachencharta den höchsten offiziellen Schutzstatus. Nach ihrer Anerkennung als Minderheitensprache im Jahr 2002 markiert dieser jüngste rechtliche Meilenstein einen historischen Sieg gegen das Aussterben einer jahrtausendealten Sprache. Durch die neue Schutzverpflichtung wird das Kornische nun aktiv in Bildung, Justiz und Medien gefördert, um die sprachliche Identität der letzten bedrohten Kelten-Sprache der EU dauerhaft zu sichern. Die Wiederbelebung des Kornischen gelingt vor allem durch die Verankerung in der Alltagskultur, wo moderne Musik, lokale Literatur und zweisprachige Festivals der Sprache eine neue, lebendige Stimme verleihen. Vom 8. bis 9. Mai 2026 wird die Stadtbibliothek Brixen zum Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, wenn 15 Lyriker:innen aus drei Ländern ihre neuesten Werke präsentieren. Das Festival vereint die sprachliche Vielfalt der bündnerromanischen, dolomitenladinischen und friaulischen Gemeinschaften, um den literarischen Reichtum der Alpen sichtbar zu machen. Durch eigens verfasste Gedichte und einen grenzüberschreitenden Austausch stärkt die Veranstaltung die kulturelle Bande innerhalb der Alpenländer und feiert die Poesie als lebendige Brücke zwischen den Regionen. In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe kommen der indigene Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen zu Wort. Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260520221000 +0200" stop="20260520223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260521200000 +0200" stop="20260521202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260521202000 +0200" stop="20260521204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Der Mond und sein Einfluss auf die Erde</sub-title>
+    <desc>Für viele ist der Mond ein wichtiger Einfluss im täglichen Leben, für andere spielt er für das Geschehen auf der Erde keine Rolle. Vielleicht haben beide recht? 
+
+Durch seine Gravitation steuert der Mond nicht nur die Gezeiten der Weltmeere, sondern stabilisiert auch die Erdachse und damit unser Klima. Ohne diesen treuen Begleiter wären Rhythmus und Evolution auf unserem Planeten in ihrer heutigen Form undenkbar. Doch die Meinungen über den Einfluss des Mondes auf die Erde gehen auseinander. Zu Gast haben wir dazu die Bäuerin Rosi Mangger Walder. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Einblick in das Leben der Hirten in Südtirol und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260521221000 +0200" stop="20260521223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260522175900 +0200" stop="20260522182830 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Der Mond und sein Einfluss auf die Erde</sub-title>
+    <desc>Für viele ist der Mond ein wichtiger Einfluss im täglichen Leben, für andere spielt er für das Geschehen auf der Erde keine Rolle. Vielleicht haben beide recht?
+Durch seine Gravitation steuert der Mond nicht nur die Gezeiten der Weltmeere, sondern stabilisiert auch die Erdachse und damit unser Klima. Ohne diesen treuen Begleiter wären Rhythmus und Evolution auf unserem Planeten in ihrer heutigen Form undenkbar. Doch die Meinungen über den Einfluss des Mondes auf die Erde gehen auseinander. Zu Gast haben wir dazu die Bäuerin Rosi Mangger Walder. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Einblick in das Leben der Hirten in Südtirol und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260522182800 +0200" stop="20260522184230 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
+  </programme>
+  <programme start="20260522184300 +0200" stop="20260522185520 +0200" channel="Rai Südtirol">
+    <title>Blumen &amp; Co.</title>
+    <sub-title>Wie werden Sukkulenten genutzt?</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260522185500 +0200" stop="20260522185932 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit Zeitlos</title>
+    <sub-title>Anger, Pop aus Südtirol</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260522200000 +0200" stop="20260522202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260522202000 +0200" stop="20260522211136 +0200" channel="Rai Südtirol">
+    <title>Abenteuer Rucksack</title>
+    <sub-title>Bergwelt im Wandel</sub-title>
+    <desc>Die Bergwelt boomt, die Zeit wird knapper, die Ziele werden mehr - und dennoch setzt sich die Sehnsucht nach Natur immer wieder durch. Karin Duregger ist wieder unterwegs und fragt: Was hat sich in 15 Jahren verändert? 
+
+Auf 61 Kilometern und 2.356 Höhenmetern führt der Dolorama-Weg in vier Etappen durch das Eisack-, Puster- und Gadertal bis zum Eingang von Gröden - von Rodeneck bis nach Lajen. Der reine Wanderweg lässt sich optional um Klettertouren erweitern und bietet idealen Raum für Begegnungen, Einkehr und stille Beobachtung. Denn genau darum geht es in dieser neuen Folge von &quot;Abenteuer Rucksack&quot;: Gehen, begegnen, ausprobieren - und innehalten. Social Media, Zeitdruck und das Bedürfnis, alles schnell zu erleben, haben das Miteinander am Fuße der Berge verändert. Dort oben aber, in der Höhe, steht die Zeit meist still. Auch wenn Hüttenwirtinnen und Touristiker die Berge längst als Eventlocation entdeckt haben - die Natur behält das letzte Wort.</desc>
+  </programme>
+  <programme start="20260522211200 +0200" stop="20260522215819 +0200" channel="Rai Südtirol">
+    <title>Der Monatslohn</title>
+    <sub-title>Worüber man nicht sprechen kann, darüber muss man reden</sub-title>
+    <desc>Früher reichte ein Gehalt für eine Familie, ein Eigenheim und ein sorgenfreies Leben. Und heute? Für viele Arbeitnehmer:innen ist das Monatsende längst ein finanzieller Drahtseilakt. Der preisgekrönte Dokumentarfilm von Karl Prossliner zeigt eindrücklich auf, wie schwierig es für viele ist, mit dem Monatslohn über die Runden zu kommen.</desc>
+  </programme>
+  <programme start="20260522221000 +0200" stop="20260522223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260523180000 +0200" stop="20260523185900 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Kunstbiennale von Venedig, das Singspiel &quot;Im weißen Rössl&quot;, die Uraufführung des zweisprachigen Stückes &quot;Alta tensione. Das Experiment&quot; von Flora Sarubbo, die Biennale Gherdeina und ein Portrait über den Künstler Max Brenner sind die Themen dieser Sendung. Zu Gast sind der junge Schauspieler Frederick Redavid und der Komponist und neu in den Vorstand des SKB gewählte Hannes Kerschbaumer. Die 61. Kunstbiennale in Venedig rückt unter dem Titel &quot;In Minor Keys&quot; die leisen, aber kraftvollen Stimmen der Kunst in den Fokus der Weltöffentlichkeit. Mit dem Bozner Kollektiv Lungomare, das das Public Programm und die visuelle Identität des italienischen Pavillons gestaltet, bringt Südtirols innovative Kuratoren-Szene entscheidende Impulse zur gemeinschaftlichen Vernetzung in die Lagunenstadt. Zum Abschluss der Saison haben sich die Vereinigten Bühnen Bozen für eine aufwändige Inszenierung mit einem großen Ensemble entschieden: Im weißen Rössl ist ein Singspiel in drei Akten von Ralph Benatzky aus dem Jahr 1930, es wird als Koproduktion mit der Stiftung Haydn von Bozen und Trient und dem Tiroler Landestheater auf die Bühne gebracht, involviert in die unterschiedlichsten Liebesgeschichten und den ersten &quot;Übertourismus&quot; sind auch die Bürgerkapelle Gries und der Chor &quot;Flat Caps&quot;. Inmitten der imposanten Kulisse der Dolomiten verschmilzt die Biennale Gherdëina zeitgenössische Skulptur mit der unberührten alpinen Natur. Das Festival etabliert sich als einzigartiger Dialograum, der lokale Traditionen und internationale Avantgarde in einer tiefgreifenden ökologischen Erzählung vereint. &quot;Alta tensione. Das Experiment&quot; von Flora Sarrubbo im Theater in der Altstadt in Meran handelt von zwei Familien vor dem Hintergrund der Südtiroler Bombenjahre, die eine stammt aus Rom, die andere aus einem Dorf nahe Bozen. Zwei weit voneinander entfernte Familien, die beide Spielfiguren eines Spiels sind, das sie auf unterschiedliche Weise zu Opfern von politischen Strategien macht. Das Stück ist eine Zusammenarbeit zwischen dem Theater in der Altstadt und dem Contro Tempo Teatro aus Bozen. Mit einer unverkennbaren Formsprache lotet Max Brenner die Grenzen zwischen Materialität und emotionaler Abstraktion immer wieder neu aus. Seine Arbeiten fordern den Betrachter heraus, die Komplexität des Alltäglichen - von der Reizüberflutung urbaner Räume bis zur figürlichen Entfremdung - durch die Linse einer radikal neuen Ästhetik zu betrachten. Es moderiert Alex Lechner.</desc>
+  </programme>
+  <programme start="20260523200000 +0200" stop="20260523202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260523202100 +0200" stop="20260523202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260523202500 +0200" stop="20260523205430 +0200" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Wenn Gedanken heilen</sub-title>
+    <desc>Was, wenn unsere Gedanken mehr Einfluss auf unsere Gesundheit haben als wir glauben? Ulli Velano geht dieser Frage nach und spricht unter anderem mit dem Neurochirurgen Willi Eisner darüber. Außerdem gibt es Tipps für den Alltag, um die eigenen Gedanken besser zu steuern. 
+
+Dr. Willi Eisner erklärt aus wissenschaftlicher Perspektive, wie eng Emotionen, Denken und körperliche Gesundheit miteinander verknüpft sind. Er sagt: Unser Gehirn ist formbar - und wir haben die Fähigkeit, es bewusst zu beeinflussen. Der Film verbindet medizinisches Wissen mit alltagsnahen Erfahrungen. Er zeigt, wie negative Gedankenmuster Krankheiten, aber auch Heilungsprozesse beeinflussen können - und wie positive Emotionen messbare Auswirkungen auf Körper und Psyche haben. Anhand konkreter Beispiele wird deutlich, dass unser Gehirn auf Reize reagiert, die wir selbst erzeugen: Gedanken, Bewertungen und innere Bilder. Neben der wissenschaftlichen Einordnung lernen wir auch einfache Methoden kennen, um Gedanken zu lenken: Atemtechniken, Perspektivwechsel und bewusste Selbststeuerung werden als Werkzeuge vorgestellt, die jeder Mensch nutzen kann.</desc>
+  </programme>
+  <programme start="20260523221000 +0200" stop="20260523223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
