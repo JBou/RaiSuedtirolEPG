@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260515175900 +0200" stop="20260515182830 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Welt im Selfie</sub-title>
-    <desc>Was passiert, wenn wir die Welt und uns darin nur noch durch den Filter unseres Handys sehen? Zwischen Inszenierung und Identität: Wenn die Kamera das Erlebte ersetzt, stellt sich die Frage nach der Echtheit unserer Welt. Verschwindet die Realität hinter dem digitalen Filter, oder wird sie erst durch das Selfie für uns greifbar? Zu Gast ist die Fotografin Caroline Renzler von Silbersalz. In der Reihe &quot;Wiedersehen&quot; zeigen wir ein Portrait der Fotografin und Künstlerin Brigitte Niedermair und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260515182800 +0200" stop="20260515184230 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
-  </programme>
-  <programme start="20260515184300 +0200" stop="20260515185143 +0200" channel="Rai Südtirol">
-    <title>Archehöfe in Südtirol</title>
-    <sub-title>Lüch da Murin in Alta Badia</sub-title>
-    <desc>Am historischen Bauernhof werden Rinder und seltene Tierrassen gezüchtet, es gibt aber auch
-das Angebot &quot;Schule am Bauernhof&quot;.</desc>
-  </programme>
-  <programme start="20260515185100 +0200" stop="20260515185824 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Kuh-Frisör</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260515200000 +0200" stop="20260515202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260515202000 +0200" stop="20260515211950 +0200" channel="Rai Südtirol">
-    <title>75 Jahre Südtiroler Theaterverband</title>
-    <sub-title/>
-    <desc>Wohl nirgends weltweit gibt es derart viele Theatervereine auf so engem Raum wie in Südtirol. Das Laienspiel entspringt einer uralten Tradition. Im Faschismus verboten, erblühte es nach dem 2. Weltkrieg aus dem Bedürfnis, die Muttersprache und das Volksbewusstsein zu stärken.
- 
-Über die Jahre hin erfand es sich immer wieder neu. Das Laienspiel ist heute zunehmend professionell, im Dachverband vereint sind derzeit 216 Volks- und Heimatbühnen, Städtetheater, soziales und inklusives Theater, Kinder-, Jugend- und Seniorentheater. Astrid Kofler und Helmut Lechthaler schrieben zum Jubiläums-Anlass eine Liebeserklärung an das heimische Theater.</desc>
-  </programme>
-  <programme start="20260515212100 +0200" stop="20260515215918 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Bernhard Karl Pircher. Der Kampf danach</sub-title>
-    <desc>Was bedeutet Stärke wirklich - und wann beginnt sie? Bernhard Karl Pircher ist Kampfsportler, Trainer und Vater. Ein Mann, der gelernt hat zu kämpfen - im Ring und im Leben. Mit 15 Jahren wird Bernhard in Bozen Opfer einer brutalen Gewalterfahrung. Ein Moment, der alles verändert. Aus Angst entsteht der Wunsch nach Kontrolle, aus Kontrolle wird Disziplin - und schließlich eine beeindruckende Karriere im Kampfsport. Weltmeistertitel, hunderte Wettkämpfe und jahrzehntelanges Training prägen seinen Weg. Ein zweiter, noch tieferer Wendepunkt folgt Jahre später: die Geburt seines Sohnes Bennett, der mit Down-Syndrom zur Welt kommt. Eine Entscheidung, die Bernhard und seine Familie bewusst treffen - und die seinen Blick auf das Leben grundlegend verändert. Heute gibt Bernhard weiter, was er selbst lernen musste. In Selbstverteidigungskursen für Frauen und im Training mit Jugendlichen geht es um Selbstvertrauen, Haltung und innere Stärke.</desc>
-  </programme>
-  <programme start="20260515221000 +0200" stop="20260515223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260516180000 +0200" stop="20260516182930 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -269,6 +226,28 @@ Auf 61 Kilometern und 2.356 Höhenmetern führt der Dolorama-Weg in vier Etappen
 Dr. Willi Eisner erklärt aus wissenschaftlicher Perspektive, wie eng Emotionen, Denken und körperliche Gesundheit miteinander verknüpft sind. Er sagt: Unser Gehirn ist formbar - und wir haben die Fähigkeit, es bewusst zu beeinflussen. Der Film verbindet medizinisches Wissen mit alltagsnahen Erfahrungen. Er zeigt, wie negative Gedankenmuster Krankheiten, aber auch Heilungsprozesse beeinflussen können - und wie positive Emotionen messbare Auswirkungen auf Körper und Psyche haben. Anhand konkreter Beispiele wird deutlich, dass unser Gehirn auf Reize reagiert, die wir selbst erzeugen: Gedanken, Bewertungen und innere Bilder. Neben der wissenschaftlichen Einordnung lernen wir auch einfache Methoden kennen, um Gedanken zu lenken: Atemtechniken, Perspektivwechsel und bewusste Selbststeuerung werden als Werkzeuge vorgestellt, die jeder Mensch nutzen kann.</desc>
   </programme>
   <programme start="20260523221000 +0200" stop="20260523223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260524200000 +0200" stop="20260524202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260524202000 +0200" stop="20260524204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Oberinn am Ritten</sub-title>
+    <desc>Gezeigt wird das Leben in einer kleinen Dorfgemeinschaft, in der Landwirtschaft, Handwerk und lokale Betriebe weiterhin eine wichtige Rolle spielen. 
+
+Landwirt und Gemeindereferent Thomas Seebacher erzählt vom Alltag am historischen Mair zu Egg-Hof, wo Milchwirtschaft bis heute das Leben prägt. Auch Schmied Luis Pircher hält ein selten gewordenes Handwerk am Leben und bleibt wichtige Anlaufstelle für Bauern und Betriebe. Neben Landwirtschaft und Handwerk zeigt sich Oberinn auch überraschend vielseitig: Auf dem elterlichen Hof hat Andrea Rottensteiner einen Bogenschießparcours aufgebaut, der Gäste aus aller Welt anzieht und Naturerlebnis mit Konzentration verbindet. Die historischen Fotografien, gesammelt von Peter Righi, geben hingegen Einblick in die Entwicklung des Dorfes und weitere Höfe wie der Wolfhof mit eigener Käseproduktion und musikalische Traditionen wie das Alphornspiel zeigen die Vielfalt der Ortschaft.</desc>
+  </programme>
+  <programme start="20260524204600 +0200" stop="20260524205000 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260524221000 +0200" stop="20260524223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
