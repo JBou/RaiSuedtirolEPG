@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260516180000 +0200" stop="20260516182930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Die Sendung Pluspunkt greift diesmal drei aktuelle Verbraucherthemen auf: Die sogenannte Abo-Wirtschaft ersetzt zunehmend den klassischen Besitz: von Streaming-Diensten bis hin zu Alltagsprodukten wie Software oder sogar Brillen. Welche Vor- und Nachteile sich daraus für Konsumentinnen und Konsumenten ergeben, erklären die Expertinnen der Verbraucherzentrale Südtirol. Zudem informiert die Sendung über die Insolvenz der Lebensversicherung FWU Life Lux: Betroffene werden derzeit kontaktiert und müssen ihre Ansprüche anmelden - trotz Garantiesystem ist mit finanziellen Verlusten zu rechnen. Und schließlich zeigt Pluspunkt, wie sich Camping in Südtirol gewandelt hat: Zwischen einfachem Zeltplatz und luxuriösem Glamping-Angebot stellt sich die Frage, was Urlauberinnen und Urlauber heute erwarten können - und worauf sie bei der Planung achten sollten. Und schließlich in unserer Rubrik &quot;Lebenswerte Orte in Südtirol&quot; sind wir diesmal in Naturns unterwegs.</desc>
-  </programme>
-  <programme start="20260516182900 +0200" stop="20260516185830 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Pfarrersköchin Annemie Bacher Holzknecht, der Ex-Europaparlamentarier Sepp Kusstatscher, Monika und Sepp Marmsoler und die für Arbeitsmarkteingliederung zuständige Simone Paulmichl. Das Mutter-Werden war für Annemie Bacher Holzknecht aus Wiesen - nach drei stillen Geburten - der emotionell berührendste Moment des Lebens. Dies in Worte zu kleiden, fällt ihr schwer. Sie wurde in eine Zeit geboren, als über Gefühle noch wenig gesprochen wurde. Dass Senioren geistig wachsam bleiben, ist für Sepp Kusstatscher, den ehemaligen Europa-Abgeordneten der Grünen, ein Anliegen. Er wird nicht müde, sich für Frieden und soziale Gerechtigkeit einzusetzen. In der Bozner Rauschertorgasse gibt es einen kleinen Spiel-Laden, der seit 45 Jahren Wert darauf legt, die Kreativität zu fördern. Mit Jahresende kündigen Monika und Sepp Marmsoler den Mietvertrag. Moderatorin Claudia Schuler begrüßt heute Simone Paulmichl, Fachkraft beim Amt für Arbeitsmarktintegration. Gemeinsam sprechen sie darüber, wie Menschen mit besonderen Bedürfnissen auf ihrem Weg in die Arbeitswelt begleitet werden, welche Herausforderungen ihnen begegnen und welche Chancen sich eröffnen können.</desc>
-  </programme>
-  <programme start="20260516200000 +0200" stop="20260516202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260516202100 +0200" stop="20260516202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260516202500 +0200" stop="20260516205430 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>In tiergestützten Interventionen werden Esel zu wichtigen Lernpartnern. Wir waren zu Gast bei der Sozialpädagogin Elisa Di Oto und einer Gruppe erwachsener Menschen mit Beeinträchtigung an einem Ort für heilsame Mensch-Tier Begegnungen im Südtiroler Unterland. Wir konnten das Tier als Mediator beobachten und teilhaben an berührenden Augenblicken zwischen Mensch und Tier. 
-
-Friesenpferde sind für ihre majestätische Erscheinung und Vielseitigkeit bekannt. Silvia Cottone hat ihren Friesen zu einem Film- und Showpferd ausgebildet. Zirzensik ist die Trainingsform, bei der Pferde bestimmte Kunststücke oder Bewegungen lernen, die zwar an die Zirkuswelt erinnern, jedoch weit mehr als bloße Showeinlagen sind.  Die körperliche und geistige Flexibilität der Pferde wird gefördert und das gegenseitige Vertrauen gestärkt.
-Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20260516221000 +0200" stop="20260516223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260517200000 +0200" stop="20260517202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
