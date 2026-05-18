@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260517200000 +0200" stop="20260517202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260517202000 +0200" stop="20260517204930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Georg Rammlmair</sub-title>
-    <desc>Moderator Markus Frings trifft auf eine Persönlichkeit, die wie kaum eine andere für Einsatz, Verantwortung und Menschlichkeit steht: Georg Rammlmair. 
-
-Als Arzt und langjähriger Präsident des Weißen Kreuzes hat Rammlmair über viele Jahre hinweg das Rettungswesen in Südtirol entscheidend mitgeprägt. Im Gespräch gewährt er persönliche Einblicke in sein Leben. Er erzählt von den Herausforderungen und von den Werten, die ihn stets geleitet haben. 
-Doch auch der Mensch hinter der öffentlichen Figur kommt nicht zu kurz: Rammlmair spricht über prägende Momente seines privaten Lebens und über seine Passion für Linol- und Holzdrucke.</desc>
-  </programme>
-  <programme start="20260517205100 +0200" stop="20260517205500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260517221000 +0200" stop="20260517223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260518180000 +0200" stop="20260518181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
