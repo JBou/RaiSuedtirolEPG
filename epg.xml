@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260520200000 +0200" stop="20260520202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260520202000 +0200" stop="20260520204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Die Stadtbibliothek Brixen als Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, der indigen Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen und das &quot;Kornische&quot; sind Themen dieser Ausgabe.  
-
-Schwerpunkt Kornisch im Süden Englands: Das Kornische, die keltische Sprache Cornwalls, erhielt im Januar 2026 durch die Aufnahme in die EU-Sprachencharta den höchsten offiziellen Schutzstatus. Nach ihrer Anerkennung als Minderheitensprache im Jahr 2002 markiert dieser jüngste rechtliche Meilenstein einen historischen Sieg gegen das Aussterben einer jahrtausendealten Sprache. Durch die neue Schutzverpflichtung wird das Kornische nun aktiv in Bildung, Justiz und Medien gefördert, um die sprachliche Identität der letzten bedrohten Kelten-Sprache der EU dauerhaft zu sichern. Die Wiederbelebung des Kornischen gelingt vor allem durch die Verankerung in der Alltagskultur, wo moderne Musik, lokale Literatur und zweisprachige Festivals der Sprache eine neue, lebendige Stimme verleihen. Vom 8. bis 9. Mai 2026 wird die Stadtbibliothek Brixen zum Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, wenn 15 Lyriker:innen aus drei Ländern ihre neuesten Werke präsentieren. Das Festival vereint die sprachliche Vielfalt der bündnerromanischen, dolomitenladinischen und friaulischen Gemeinschaften, um den literarischen Reichtum der Alpen sichtbar zu machen. Durch eigens verfasste Gedichte und einen grenzüberschreitenden Austausch stärkt die Veranstaltung die kulturelle Bande innerhalb der Alpenländer und feiert die Poesie als lebendige Brücke zwischen den Regionen. In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe kommen der indigene Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen zu Wort. Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20260520221000 +0200" stop="20260520223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260521200000 +0200" stop="20260521202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
