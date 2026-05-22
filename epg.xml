@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260521200000 +0200" stop="20260521202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260521202000 +0200" stop="20260521204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Der Mond und sein Einfluss auf die Erde</sub-title>
-    <desc>Für viele ist der Mond ein wichtiger Einfluss im täglichen Leben, für andere spielt er für das Geschehen auf der Erde keine Rolle. Vielleicht haben beide recht? 
-
-Durch seine Gravitation steuert der Mond nicht nur die Gezeiten der Weltmeere, sondern stabilisiert auch die Erdachse und damit unser Klima. Ohne diesen treuen Begleiter wären Rhythmus und Evolution auf unserem Planeten in ihrer heutigen Form undenkbar. Doch die Meinungen über den Einfluss des Mondes auf die Erde gehen auseinander. Zu Gast haben wir dazu die Bäuerin Rosi Mangger Walder. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Einblick in das Leben der Hirten in Südtirol und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260521221000 +0200" stop="20260521223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260522175900 +0200" stop="20260522182830 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Der Mond und sein Einfluss auf die Erde</sub-title>
@@ -109,6 +92,190 @@ Landwirt und Gemeindereferent Thomas Seebacher erzählt vom Alltag am historisch
     <desc/>
   </programme>
   <programme start="20260524221000 +0200" stop="20260524223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260525180000 +0200" stop="20260525181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Bruneck hat sich schon vor zwei Wochen zum Landesliga-Meister 2026 gekürt und trifft am letzten Spieltag auswärts auf Tscherms Marling. Spannend bleibt der Kampf um den Klassenerhalt. Neben Freienfeld und Schenna muss der dritte Absteiger zwischen Stegen und Lana ermittelt werden. Die Pusterer empfangen Schenna, Lana muss auswärts gegen den Tabellen-Vierten Gitschberg Jochtal ran.</desc>
+  </programme>
+  <programme start="20260525181400 +0200" stop="20260525183330 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Basketball</sub-title>
+    <desc>Die Sportkids aus Brixen stellen in dieser Folge die spannende und schnelle Ballsportart Basketball vor. Die Kleinsten spielen die Minibasket-Variante mit niedrigeren Körben und leichteren Bällen als bei den Erwachsenen. Mit vollem Einsatz dribbeln, werfen, tricksen sie die Gegner aus und ringen um jeden Korb.  
+Bei einem Freundschaftsspiel gegen Teams aus Bruneck und Bozen kämpfen die Sportkids verbissen um jeden Korb - doch der Gewinner steht von vornherein fest: der Spaß am Sport. 
+Anschließend erkunden die Zipp-Reporter den BBT.</desc>
+  </programme>
+  <programme start="20260525183400 +0200" stop="20260525185830 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Oberinn am Ritten</sub-title>
+    <desc>Gezeigt wird das Leben in einer kleinen Dorfgemeinschaft, in der Landwirtschaft, Handwerk und lokale Betriebe weiterhin eine wichtige Rolle spielen. Landwirt und Gemeindereferent Thomas Seebacher erzählt vom Alltag am historischen Mair zu Egg-Hof, wo Milchwirtschaft bis heute das Leben prägt. Auch Schmied Luis Pircher hält ein selten gewordenes Handwerk am Leben und bleibt wichtige Anlaufstelle für Bauern und Betriebe. Neben Landwirtschaft und Handwerk zeigt sich Oberinn auch überraschend vielseitig: Auf dem elterlichen Hof hat Andrea Rottensteiner einen Bogenschießparcours aufgebaut, der Gäste aus aller Welt anzieht und Naturerlebnis mit Konzentration verbindet. Die historischen Fotografien, gesammelt von Peter Righi, geben hingegen Einblick in die Entwicklung des Dorfes und weitere Höfe wie der Wolfhof mit eigener Käseproduktion und musikalische Traditionen wie das Alphornspiel zeigen die Vielfalt der Ortschaft.</desc>
+  </programme>
+  <programme start="20260525200000 +0200" stop="20260525202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260525202100 +0200" stop="20260525210627 +0200" channel="Rai Südtirol">
+    <title>Sagenhaftes Ladinien</title>
+    <sub-title/>
+    <desc>Die von Gegensätzen geprägte Natur hat auch auf die Menschen abgefärbt: die Ladiner:innen sprechen eine eigene Sprache, leben besondere Traditionen und sind oft künstlerisch produktiv: z.B. die Musikerfamilie Schuen oder der Kabarettist Robert Palfrader, dessen Wurzeln hier sind.
+
+Zu den berühmtesten Bewohnern Ladiniens zählt die Musiker-Familie Schuen: Elisabeth und Marlene sind als Gruppe Ganes mit Liedern in ladinischer Sprache im gesamten deutschsprachigen Raum erfolgreich. Bruder André Schuen ist ein weltberühmter Opernsänger geworden. Bei den seltenen Familientreffen am elterlichen Bauernhof wird gemeinsam musiziert, gekocht und die ladinische Erzähltradition gepflegt.
+Der Tourismus, der vielen von Armut bedrohten Familien einst zu Wohlstand verholfen hat, nimmt überhand und droht althergebrachte Traditionen zu verdrängen. Die Protagonist:innen in Wolfgang Mosers Film kämpfen mit unterschiedlichen Initiativen dagegen an, um die einzigartige Magie Ladiniens zu erhalten.</desc>
+  </programme>
+  <programme start="20260525210700 +0200" stop="20260525215903 +0200" channel="Rai Südtirol">
+    <title>Über Südtirol</title>
+    <sub-title>Juwelen des Landes</sub-title>
+    <desc>Diese filmische Erzählung aus der Vogelperspektive präsentiert eine umfassende Reihe von Orten und Gegenden aus Südtirol: Die Churburg, die Drei Zinnen, Glurns, der Kirchturm im Reschensee, das Kloster Säben, Meran, der Naturpark Fanes Sennes Prags, die Oberbozner Erdpyramiden, der Ortler mit der Payer Hütte, den Rosengarten, die Seiser Alm, die Spronser Seen und das Villnößtal mit der Kirche St. Johann in Ranui und viele mehr.</desc>
+  </programme>
+  <programme start="20260525221000 +0200" stop="20260525223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260526200000 +0200" stop="20260526202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260526202000 +0200" stop="20260526203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260526203500 +0200" stop="20260526204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
+  </programme>
+  <programme start="20260526221000 +0200" stop="20260526223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260527200000 +0200" stop="20260527202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260527202000 +0200" stop="20260527204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Einblick in den Stall eines jungen Braunviehzüchters. Wie angehende Junglandwirte ihre Tiere in Szene setzen. Pflanzenschutz im Umbruch. Eine Sendung von Marianne Kasseroler. 
+
+Diese Ausgabe beleuchtet aktuelle Themen aus der Landwirtschaft und zeigt, wie engagiert die nächste Generation den Wandel mitgestaltet. Im Fokus steht das Braunvieh, das mit Leistungsstärke, Langlebigkeit und Ausstrahlung besonders junge Züchterinnen und Züchter begeistert. Zudem gibt ein Besuch an einer landwirtschaftlichen Schule in Dietenheim Einblick in die Kunst des Kuh-Stylings und die Vorbereitung auf Viehschauen. Wie moderne Technik den Arbeitsalltag verändert, zeigt der Besuch bei einem jungen Braunviehzüchter, der auf Robotik und effiziente Stalllösungen setzt. Ergänzt wird die Ausgabe durch einen Blick auf die Zukunft des Pflanzenschutzes zwischen Anspruch, Fortschritt und Kritik.</desc>
+  </programme>
+  <programme start="20260527221000 +0200" stop="20260527223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260528200000 +0200" stop="20260528202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260528202000 +0200" stop="20260528204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Neo-Biedermeier</sub-title>
+    <desc>Wenn die Welt draußen zu viel wird, ziehen sich viele Menschen ins Private zurück. Wo liegt die Grenze zwischen Entschleunigung und Vereinsamung? Es moderiert Magdalena Oberstaller.  
+
+Neo-Biedermeier beschreibt den Rückzug ins Private als Reaktion auf globale Krisen, Digitalisierung und politische Unsicherheiten. Ähnlich der Epoche im 19. Jahrhundert suchen Menschen Zuflucht in häuslicher Gemütlichkeit und Sicherheit. Es ist eine Sehnsucht nach Entschleunigung, Intimität und Rückzug aus dem öffentlichen Leben, oft auch als Vermeidung verstanden.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Ein Blick zurück nach vorne&quot; und wir statten dem Recyclinghof Bruneck einen Besuch ab.</desc>
+  </programme>
+  <programme start="20260528221000 +0200" stop="20260528223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260529180000 +0200" stop="20260529182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Neo-Biedermeier</sub-title>
+    <desc>Wenn die Welt draußen zu viel wird, ziehen sich viele Menschen ins Private zurück. Wo liegt die Grenze zwischen Entschleunigung und Vereinsamung? Es moderiert Magdalena Oberstaller.   
+Neo-Biedermeier beschreibt den Rückzug ins Private als Reaktion auf globale Krisen, Digitalisierung und politische Unsicherheiten. Ähnlich der Epoche im 19. Jahrhundert suchen Menschen Zuflucht in häuslicher Gemütlichkeit und Sicherheit. Es ist eine Sehnsucht nach Entschleunigung, Intimität und Rückzug aus dem öffentlichen Leben, oft auch als Vermeidung verstanden.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Ein Blick zurück nach vorne&quot; und wir statten dem Recyclinghof Bruneck einen Besuch ab.</desc>
+  </programme>
+  <programme start="20260529182900 +0200" stop="20260529184330 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
+  </programme>
+  <programme start="20260529184400 +0200" stop="20260529185223 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Sophie Tscholl</sub-title>
+    <desc>Sophie Tscholl hat 2024 den Wettbewerb rock-net gewonnen, mit einem eigenen Song. In Klick
+erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen
+Lebenssituationen herausgefunden hat.</desc>
+  </programme>
+  <programme start="20260529185200 +0200" stop="20260529185932 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Tierphysiotherapeutin Katrin Holzknecht</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260529200000 +0200" stop="20260529202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260529202000 +0200" stop="20260529210431 +0200" channel="Rai Südtirol">
+    <title>True Crime</title>
+    <sub-title>Das Oberkommissariat in Bozen</sub-title>
+    <desc>Die Doku von Jutta Kusstatscher gibt Einblicke in die tägliche Arbeit der Staatspolizei. Von hier aus wird die öffentliche Sicherheit gewährleistet. 
+
+Abseits von Reisepässen, Waffenscheinen und Einwanderungspapieren ist der Sitz der Staatspolizei ein hochgesicherter Ort. Aus gutem Grund. Von der Quästur aus wird die öffentliche Sicherheit in Südtirol gewährleistet und Kriminalität gemäß Strafgesetzbuch bekämpft. Wer Krimi oder True Crime mag: Jutta Kußtatscher war mehrere Tage vor Ort in der Quästur Bozen und hat der Polizei bei der Arbeit über die Schulter geschaut.</desc>
+  </programme>
+  <programme start="20260529210500 +0200" stop="20260529214919 +0200" channel="Rai Südtirol">
+    <title>Obdachlos in Südtirol</title>
+    <sub-title/>
+    <desc>Noch leben sie am Rand. Und im Winter parken wir sie in Notschlafstellen. Die Armut wächst in
+Südtirol. Auch Menschen, die arbeiten, können sich oft keine Wohnung leisten. Filmemacher Karl Prossliner lässt Obdachlose erzählen. &quot;Poesie des Alltags&quot; nennt er ihre Geschichten. Leben ist ohne Garantie, aber: Wie holen wir Menschen zurück in die Mitte der Gesellschaft? Wie wirksam sind Konzepte wie Housing First? Und wie gestalten wir urbane Schutzzonen, damit Obdachlose und Arme auch Raum kriegen?</desc>
+  </programme>
+  <programme start="20260529214900 +0200" stop="20260529215848 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Filmregisseur Cornelius Hintner</sub-title>
+    <desc>Cornelius Hintner (1875 - 1922) wuchs in Bozen auf, absolvierte eine Ausbildung als Kunstmaler und feierte später in Budapest und Wien Erfolge als Filmregisseur mit Filmen wie &quot;Die Würghand&quot; oder &quot;Die gelbe Gefahr&quot;.</desc>
+  </programme>
+  <programme start="20260529221000 +0200" stop="20260529223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530182930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Georg Rammlmair</sub-title>
+    <desc>Moderator Markus Frings trifft auf eine Persönlichkeit, die wie kaum eine andere für Einsatz, Verantwortung und Menschlichkeit steht: Georg Rammlmair. 
+Als Arzt und langjähriger Präsident des Weißen Kreuzes hat Rammlmair über viele Jahre hinweg das Rettungswesen in Südtirol entscheidend mitgeprägt. Im Gespräch gewährt er persönliche Einblicke in sein Leben. Er erzählt von den Herausforderungen und von den Werten, die ihn stets geleitet haben. 
+Doch auch der Mensch hinter der öffentlichen Figur kommt nicht zu kurz: Rammlmair spricht über prägende Momente seines privaten Lebens und über seine Passion für Linol- und Holzdrucke.</desc>
+  </programme>
+  <programme start="20260530182900 +0200" stop="20260530185830 +0200" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Wenn Gedanken heilen</sub-title>
+    <desc>Was, wenn unsere Gedanken mehr Einfluss auf unsere Gesundheit haben als wir glauben? Ulli Velano geht dieser Frage nach und spricht unter anderem mit dem Neurochirurgen Willi Eisner darüber. Außerdem gibt es Tipps für den Alltag, um die eigenen Gedanken besser zu steuern. 
+Dr. Willi Eisner erklärt aus wissenschaftlicher Perspektive, wie eng Emotionen, Denken und körperliche Gesundheit miteinander verknüpft sind. Er sagt: Unser Gehirn ist formbar - und wir haben die Fähigkeit, es bewusst zu beeinflussen. Der Film verbindet medizinisches Wissen mit alltagsnahen Erfahrungen. Er zeigt, wie negative Gedankenmuster Krankheiten, aber auch Heilungsprozesse beeinflussen können - und wie positive Emotionen messbare Auswirkungen auf Körper und Psyche haben. Anhand konkreter Beispiele wird deutlich, dass unser Gehirn auf Reize reagiert, die wir selbst erzeugen: Gedanken, Bewertungen und innere Bilder. Neben der wissenschaftlichen Einordnung lernen wir auch einfache Methoden kennen, um Gedanken zu lenken: Atemtechniken, Perspektivwechsel und bewusste Selbststeuerung werden als Werkzeuge vorgestellt, die jeder Mensch nutzen kann.</desc>
+  </programme>
+  <programme start="20260530200000 +0200" stop="20260530202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260530202100 +0200" stop="20260530202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260530202500 +0200" stop="20260530205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Das Qualitätszeichen Südtirol setzt auf regionale Wertschöpfung. Bio und Nachhaltigkeit prägen die Fachtagung COOLinaria. Was gehört zu einer guten Weinbegleitung im Service?  
+
+Beim jährlichen Mitgliedertreffen des Qualitätszeichens Südtirol in Bozen wurde die Bedeutung von Herkunft, geprüfter Qualität und regionaler Wertschöpfung unterstrichen. Ob Brot aus Südtiroler Regiokorn oder Honig mit nachvollziehbarer Herkunft: das Qualitätszeichen Südtirol soll Vertrauen schaffen und regionale Identität stärken. Gerade im Tourismus entwickelt sich Regionalität immer mehr zum Erlebnisfaktor für Gäste und damit zu einem wichtigen Aushängeschild des Landes. 
+Auch bei der diesjährigen COOLinaria - der Fachtagung für Küche und Gastronomie - diskutierten Fachleute aus Küche und Lebensmittelproduktion über den bewussten Umgang mit Ressourcen und über die Umsetzung von Nachhaltigkeit im gastronomischen Alltag.  
+Küche und Service müssen eng zusammenarbeiten, damit Wein und Speisen harmonisch aufeinander abgestimmt werden. Neben Fachwissen sind dabei auch Gespür, Aufmerksamkeit und der persönliche Umgang mit den Gästen gefragt. Gleichzeitig verändern sich auch die Erwartungen vieler Gäste: Persönliche Beratung, ein entspannter Zugang zum Thema Wein und individuelle Empfehlungen gewinnen zunehmend an Bedeutung.</desc>
+  </programme>
+  <programme start="20260530221000 +0200" stop="20260530223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
