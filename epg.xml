@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260522175900 +0200" stop="20260522182830 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Der Mond und sein Einfluss auf die Erde</sub-title>
-    <desc>Für viele ist der Mond ein wichtiger Einfluss im täglichen Leben, für andere spielt er für das Geschehen auf der Erde keine Rolle. Vielleicht haben beide recht?
-Durch seine Gravitation steuert der Mond nicht nur die Gezeiten der Weltmeere, sondern stabilisiert auch die Erdachse und damit unser Klima. Ohne diesen treuen Begleiter wären Rhythmus und Evolution auf unserem Planeten in ihrer heutigen Form undenkbar. Doch die Meinungen über den Einfluss des Mondes auf die Erde gehen auseinander. Zu Gast haben wir dazu die Bäuerin Rosi Mangger Walder. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Einblick in das Leben der Hirten in Südtirol und es folgt eine weitere Episode aus der Reihe &quot;Olympia - mehr als Medaillen&quot;. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260522182800 +0200" stop="20260522184230 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
-  </programme>
-  <programme start="20260522184300 +0200" stop="20260522185520 +0200" channel="Rai Südtirol">
-    <title>Blumen &amp; Co.</title>
-    <sub-title>Wie werden Sukkulenten genutzt?</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260522185500 +0200" stop="20260522185932 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit Zeitlos</title>
-    <sub-title>Anger, Pop aus Südtirol</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260522200000 +0200" stop="20260522202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260522202000 +0200" stop="20260522211136 +0200" channel="Rai Südtirol">
-    <title>Abenteuer Rucksack</title>
-    <sub-title>Bergwelt im Wandel</sub-title>
-    <desc>Die Bergwelt boomt, die Zeit wird knapper, die Ziele werden mehr - und dennoch setzt sich die Sehnsucht nach Natur immer wieder durch. Karin Duregger ist wieder unterwegs und fragt: Was hat sich in 15 Jahren verändert? 
-
-Auf 61 Kilometern und 2.356 Höhenmetern führt der Dolorama-Weg in vier Etappen durch das Eisack-, Puster- und Gadertal bis zum Eingang von Gröden - von Rodeneck bis nach Lajen. Der reine Wanderweg lässt sich optional um Klettertouren erweitern und bietet idealen Raum für Begegnungen, Einkehr und stille Beobachtung. Denn genau darum geht es in dieser neuen Folge von &quot;Abenteuer Rucksack&quot;: Gehen, begegnen, ausprobieren - und innehalten. Social Media, Zeitdruck und das Bedürfnis, alles schnell zu erleben, haben das Miteinander am Fuße der Berge verändert. Dort oben aber, in der Höhe, steht die Zeit meist still. Auch wenn Hüttenwirtinnen und Touristiker die Berge längst als Eventlocation entdeckt haben - die Natur behält das letzte Wort.</desc>
-  </programme>
-  <programme start="20260522211200 +0200" stop="20260522215819 +0200" channel="Rai Südtirol">
-    <title>Der Monatslohn</title>
-    <sub-title>Worüber man nicht sprechen kann, darüber muss man reden</sub-title>
-    <desc>Früher reichte ein Gehalt für eine Familie, ein Eigenheim und ein sorgenfreies Leben. Und heute? Für viele Arbeitnehmer:innen ist das Monatsende längst ein finanzieller Drahtseilakt. Der preisgekrönte Dokumentarfilm von Karl Prossliner zeigt eindrücklich auf, wie schwierig es für viele ist, mit dem Monatslohn über die Runden zu kommen.</desc>
-  </programme>
-  <programme start="20260522221000 +0200" stop="20260522223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260523180000 +0200" stop="20260523185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -276,6 +233,28 @@ Auch bei der diesjährigen COOLinaria - der Fachtagung für Küche und Gastronom
 Küche und Service müssen eng zusammenarbeiten, damit Wein und Speisen harmonisch aufeinander abgestimmt werden. Neben Fachwissen sind dabei auch Gespür, Aufmerksamkeit und der persönliche Umgang mit den Gästen gefragt. Gleichzeitig verändern sich auch die Erwartungen vieler Gäste: Persönliche Beratung, ein entspannter Zugang zum Thema Wein und individuelle Empfehlungen gewinnen zunehmend an Bedeutung.</desc>
   </programme>
   <programme start="20260530221000 +0200" stop="20260530223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260531200000 +0200" stop="20260531202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260531202000 +0200" stop="20260531205900 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 1</sub-title>
+    <desc>Es gibt eine Fortsetzung der Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
+
+Die Talkshow von Rai Südtirol ist der Innovation gewidmet. Der Gewinner bzw. Die Gewinnerin zieht dann ins große Finale ein. In dieser ersten Folge messen sich Davide Loris von Sanevo und Massimo Penasa von Caemate.</desc>
+  </programme>
+  <programme start="20260531210000 +0200" stop="20260531210400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260531221000 +0200" stop="20260531223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
