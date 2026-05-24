@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260523180000 +0200" stop="20260523185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Kunstbiennale von Venedig, das Singspiel &quot;Im weißen Rössl&quot;, die Uraufführung des zweisprachigen Stückes &quot;Alta tensione. Das Experiment&quot; von Flora Sarubbo, die Biennale Gherdeina und ein Portrait über den Künstler Max Brenner sind die Themen dieser Sendung. Zu Gast sind der junge Schauspieler Frederick Redavid und der Komponist und neu in den Vorstand des SKB gewählte Hannes Kerschbaumer. Die 61. Kunstbiennale in Venedig rückt unter dem Titel &quot;In Minor Keys&quot; die leisen, aber kraftvollen Stimmen der Kunst in den Fokus der Weltöffentlichkeit. Mit dem Bozner Kollektiv Lungomare, das das Public Programm und die visuelle Identität des italienischen Pavillons gestaltet, bringt Südtirols innovative Kuratoren-Szene entscheidende Impulse zur gemeinschaftlichen Vernetzung in die Lagunenstadt. Zum Abschluss der Saison haben sich die Vereinigten Bühnen Bozen für eine aufwändige Inszenierung mit einem großen Ensemble entschieden: Im weißen Rössl ist ein Singspiel in drei Akten von Ralph Benatzky aus dem Jahr 1930, es wird als Koproduktion mit der Stiftung Haydn von Bozen und Trient und dem Tiroler Landestheater auf die Bühne gebracht, involviert in die unterschiedlichsten Liebesgeschichten und den ersten &quot;Übertourismus&quot; sind auch die Bürgerkapelle Gries und der Chor &quot;Flat Caps&quot;. Inmitten der imposanten Kulisse der Dolomiten verschmilzt die Biennale Gherdëina zeitgenössische Skulptur mit der unberührten alpinen Natur. Das Festival etabliert sich als einzigartiger Dialograum, der lokale Traditionen und internationale Avantgarde in einer tiefgreifenden ökologischen Erzählung vereint. &quot;Alta tensione. Das Experiment&quot; von Flora Sarrubbo im Theater in der Altstadt in Meran handelt von zwei Familien vor dem Hintergrund der Südtiroler Bombenjahre, die eine stammt aus Rom, die andere aus einem Dorf nahe Bozen. Zwei weit voneinander entfernte Familien, die beide Spielfiguren eines Spiels sind, das sie auf unterschiedliche Weise zu Opfern von politischen Strategien macht. Das Stück ist eine Zusammenarbeit zwischen dem Theater in der Altstadt und dem Contro Tempo Teatro aus Bozen. Mit einer unverkennbaren Formsprache lotet Max Brenner die Grenzen zwischen Materialität und emotionaler Abstraktion immer wieder neu aus. Seine Arbeiten fordern den Betrachter heraus, die Komplexität des Alltäglichen - von der Reizüberflutung urbaner Räume bis zur figürlichen Entfremdung - durch die Linse einer radikal neuen Ästhetik zu betrachten. Es moderiert Alex Lechner.</desc>
-  </programme>
-  <programme start="20260523200000 +0200" stop="20260523202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260523202100 +0200" stop="20260523202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260523202500 +0200" stop="20260523205430 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Wenn Gedanken heilen</sub-title>
-    <desc>Was, wenn unsere Gedanken mehr Einfluss auf unsere Gesundheit haben als wir glauben? Ulli Velano geht dieser Frage nach und spricht unter anderem mit dem Neurochirurgen Willi Eisner darüber. Außerdem gibt es Tipps für den Alltag, um die eigenen Gedanken besser zu steuern. 
-
-Dr. Willi Eisner erklärt aus wissenschaftlicher Perspektive, wie eng Emotionen, Denken und körperliche Gesundheit miteinander verknüpft sind. Er sagt: Unser Gehirn ist formbar - und wir haben die Fähigkeit, es bewusst zu beeinflussen. Der Film verbindet medizinisches Wissen mit alltagsnahen Erfahrungen. Er zeigt, wie negative Gedankenmuster Krankheiten, aber auch Heilungsprozesse beeinflussen können - und wie positive Emotionen messbare Auswirkungen auf Körper und Psyche haben. Anhand konkreter Beispiele wird deutlich, dass unser Gehirn auf Reize reagiert, die wir selbst erzeugen: Gedanken, Bewertungen und innere Bilder. Neben der wissenschaftlichen Einordnung lernen wir auch einfache Methoden kennen, um Gedanken zu lenken: Atemtechniken, Perspektivwechsel und bewusste Selbststeuerung werden als Werkzeuge vorgestellt, die jeder Mensch nutzen kann.</desc>
-  </programme>
-  <programme start="20260523221000 +0200" stop="20260523223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260524200000 +0200" stop="20260524202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
