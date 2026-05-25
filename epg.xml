@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260524200000 +0200" stop="20260524202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260524202000 +0200" stop="20260524204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Oberinn am Ritten</sub-title>
-    <desc>Gezeigt wird das Leben in einer kleinen Dorfgemeinschaft, in der Landwirtschaft, Handwerk und lokale Betriebe weiterhin eine wichtige Rolle spielen. 
-
-Landwirt und Gemeindereferent Thomas Seebacher erzählt vom Alltag am historischen Mair zu Egg-Hof, wo Milchwirtschaft bis heute das Leben prägt. Auch Schmied Luis Pircher hält ein selten gewordenes Handwerk am Leben und bleibt wichtige Anlaufstelle für Bauern und Betriebe. Neben Landwirtschaft und Handwerk zeigt sich Oberinn auch überraschend vielseitig: Auf dem elterlichen Hof hat Andrea Rottensteiner einen Bogenschießparcours aufgebaut, der Gäste aus aller Welt anzieht und Naturerlebnis mit Konzentration verbindet. Die historischen Fotografien, gesammelt von Peter Righi, geben hingegen Einblick in die Entwicklung des Dorfes und weitere Höfe wie der Wolfhof mit eigener Käseproduktion und musikalische Traditionen wie das Alphornspiel zeigen die Vielfalt der Ortschaft.</desc>
-  </programme>
-  <programme start="20260524204600 +0200" stop="20260524205000 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260524221000 +0200" stop="20260524223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260525180000 +0200" stop="20260525181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
