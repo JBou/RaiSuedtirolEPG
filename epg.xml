@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260525180000 +0200" stop="20260525181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Bruneck hat sich schon vor zwei Wochen zum Landesliga-Meister 2026 gekürt und trifft am letzten Spieltag auswärts auf Tscherms Marling. Spannend bleibt der Kampf um den Klassenerhalt. Neben Freienfeld und Schenna muss der dritte Absteiger zwischen Stegen und Lana ermittelt werden. Die Pusterer empfangen Schenna, Lana muss auswärts gegen den Tabellen-Vierten Gitschberg Jochtal ran.</desc>
-  </programme>
-  <programme start="20260525181400 +0200" stop="20260525183330 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Basketball</sub-title>
-    <desc>Die Sportkids aus Brixen stellen in dieser Folge die spannende und schnelle Ballsportart Basketball vor. Die Kleinsten spielen die Minibasket-Variante mit niedrigeren Körben und leichteren Bällen als bei den Erwachsenen. Mit vollem Einsatz dribbeln, werfen, tricksen sie die Gegner aus und ringen um jeden Korb.  
-Bei einem Freundschaftsspiel gegen Teams aus Bruneck und Bozen kämpfen die Sportkids verbissen um jeden Korb - doch der Gewinner steht von vornherein fest: der Spaß am Sport. 
-Anschließend erkunden die Zipp-Reporter den BBT.</desc>
-  </programme>
-  <programme start="20260525183400 +0200" stop="20260525185830 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Oberinn am Ritten</sub-title>
-    <desc>Gezeigt wird das Leben in einer kleinen Dorfgemeinschaft, in der Landwirtschaft, Handwerk und lokale Betriebe weiterhin eine wichtige Rolle spielen. Landwirt und Gemeindereferent Thomas Seebacher erzählt vom Alltag am historischen Mair zu Egg-Hof, wo Milchwirtschaft bis heute das Leben prägt. Auch Schmied Luis Pircher hält ein selten gewordenes Handwerk am Leben und bleibt wichtige Anlaufstelle für Bauern und Betriebe. Neben Landwirtschaft und Handwerk zeigt sich Oberinn auch überraschend vielseitig: Auf dem elterlichen Hof hat Andrea Rottensteiner einen Bogenschießparcours aufgebaut, der Gäste aus aller Welt anzieht und Naturerlebnis mit Konzentration verbindet. Die historischen Fotografien, gesammelt von Peter Righi, geben hingegen Einblick in die Entwicklung des Dorfes und weitere Höfe wie der Wolfhof mit eigener Käseproduktion und musikalische Traditionen wie das Alphornspiel zeigen die Vielfalt der Ortschaft.</desc>
-  </programme>
-  <programme start="20260525200000 +0200" stop="20260525202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260525202100 +0200" stop="20260525210627 +0200" channel="Rai Südtirol">
-    <title>Sagenhaftes Ladinien</title>
-    <sub-title/>
-    <desc>Die von Gegensätzen geprägte Natur hat auch auf die Menschen abgefärbt: die Ladiner:innen sprechen eine eigene Sprache, leben besondere Traditionen und sind oft künstlerisch produktiv: z.B. die Musikerfamilie Schuen oder der Kabarettist Robert Palfrader, dessen Wurzeln hier sind.
-
-Zu den berühmtesten Bewohnern Ladiniens zählt die Musiker-Familie Schuen: Elisabeth und Marlene sind als Gruppe Ganes mit Liedern in ladinischer Sprache im gesamten deutschsprachigen Raum erfolgreich. Bruder André Schuen ist ein weltberühmter Opernsänger geworden. Bei den seltenen Familientreffen am elterlichen Bauernhof wird gemeinsam musiziert, gekocht und die ladinische Erzähltradition gepflegt.
-Der Tourismus, der vielen von Armut bedrohten Familien einst zu Wohlstand verholfen hat, nimmt überhand und droht althergebrachte Traditionen zu verdrängen. Die Protagonist:innen in Wolfgang Mosers Film kämpfen mit unterschiedlichen Initiativen dagegen an, um die einzigartige Magie Ladiniens zu erhalten.</desc>
-  </programme>
-  <programme start="20260525210700 +0200" stop="20260525215903 +0200" channel="Rai Südtirol">
-    <title>Über Südtirol</title>
-    <sub-title>Juwelen des Landes</sub-title>
-    <desc>Diese filmische Erzählung aus der Vogelperspektive präsentiert eine umfassende Reihe von Orten und Gegenden aus Südtirol: Die Churburg, die Drei Zinnen, Glurns, der Kirchturm im Reschensee, das Kloster Säben, Meran, der Naturpark Fanes Sennes Prags, die Oberbozner Erdpyramiden, der Ortler mit der Payer Hütte, den Rosengarten, die Seiser Alm, die Spronser Seen und das Villnößtal mit der Kirche St. Johann in Ranui und viele mehr.</desc>
-  </programme>
-  <programme start="20260525221000 +0200" stop="20260525223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260526200000 +0200" stop="20260526202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
