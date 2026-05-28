@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260527200000 +0200" stop="20260527202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260527202000 +0200" stop="20260527204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Einblick in den Stall eines jungen Braunviehzüchters. Wie angehende Junglandwirte ihre Tiere in Szene setzen. Pflanzenschutz im Umbruch. Eine Sendung von Marianne Kasseroler. 
-
-Diese Ausgabe beleuchtet aktuelle Themen aus der Landwirtschaft und zeigt, wie engagiert die nächste Generation den Wandel mitgestaltet. Im Fokus steht das Braunvieh, das mit Leistungsstärke, Langlebigkeit und Ausstrahlung besonders junge Züchterinnen und Züchter begeistert. Zudem gibt ein Besuch an einer landwirtschaftlichen Schule in Dietenheim Einblick in die Kunst des Kuh-Stylings und die Vorbereitung auf Viehschauen. Wie moderne Technik den Arbeitsalltag verändert, zeigt der Besuch bei einem jungen Braunviehzüchter, der auf Robotik und effiziente Stalllösungen setzt. Ergänzt wird die Ausgabe durch einen Blick auf die Zukunft des Pflanzenschutzes zwischen Anspruch, Fortschritt und Kritik.</desc>
-  </programme>
-  <programme start="20260527221000 +0200" stop="20260527223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260528200000 +0200" stop="20260528202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
