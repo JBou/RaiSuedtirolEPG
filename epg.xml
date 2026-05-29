@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260528200000 +0200" stop="20260528202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260528202000 +0200" stop="20260528204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Neo-Biedermeier</sub-title>
-    <desc>Wenn die Welt draußen zu viel wird, ziehen sich viele Menschen ins Private zurück. Wo liegt die Grenze zwischen Entschleunigung und Vereinsamung? Es moderiert Magdalena Oberstaller.  
-
-Neo-Biedermeier beschreibt den Rückzug ins Private als Reaktion auf globale Krisen, Digitalisierung und politische Unsicherheiten. Ähnlich der Epoche im 19. Jahrhundert suchen Menschen Zuflucht in häuslicher Gemütlichkeit und Sicherheit. Es ist eine Sehnsucht nach Entschleunigung, Intimität und Rückzug aus dem öffentlichen Leben, oft auch als Vermeidung verstanden.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Ein Blick zurück nach vorne&quot; und wir statten dem Recyclinghof Bruneck einen Besuch ab.</desc>
-  </programme>
-  <programme start="20260528221000 +0200" stop="20260528223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260529180000 +0200" stop="20260529182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Neo-Biedermeier</sub-title>
