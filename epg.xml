@@ -4,58 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260529180000 +0200" stop="20260529182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Neo-Biedermeier</sub-title>
-    <desc>Wenn die Welt draußen zu viel wird, ziehen sich viele Menschen ins Private zurück. Wo liegt die Grenze zwischen Entschleunigung und Vereinsamung? Es moderiert Magdalena Oberstaller.   
-Neo-Biedermeier beschreibt den Rückzug ins Private als Reaktion auf globale Krisen, Digitalisierung und politische Unsicherheiten. Ähnlich der Epoche im 19. Jahrhundert suchen Menschen Zuflucht in häuslicher Gemütlichkeit und Sicherheit. Es ist eine Sehnsucht nach Entschleunigung, Intimität und Rückzug aus dem öffentlichen Leben, oft auch als Vermeidung verstanden.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Ein Blick zurück nach vorne&quot; und wir statten dem Recyclinghof Bruneck einen Besuch ab.</desc>
-  </programme>
-  <programme start="20260529182900 +0200" stop="20260529184330 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
-  </programme>
-  <programme start="20260529184400 +0200" stop="20260529185223 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Sophie Tscholl</sub-title>
-    <desc>Sophie Tscholl hat 2024 den Wettbewerb rock-net gewonnen, mit einem eigenen Song. In Klick
-erzählt sie von ihrer Leidenschaft für die Musik und wie sie damit leichter aus schwierigen
-Lebenssituationen herausgefunden hat.</desc>
-  </programme>
-  <programme start="20260529185200 +0200" stop="20260529185932 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Tierphysiotherapeutin Katrin Holzknecht</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260529200000 +0200" stop="20260529202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260529202000 +0200" stop="20260529210431 +0200" channel="Rai Südtirol">
-    <title>True Crime</title>
-    <sub-title>Das Oberkommissariat in Bozen</sub-title>
-    <desc>Die Doku von Jutta Kusstatscher gibt Einblicke in die tägliche Arbeit der Staatspolizei. Von hier aus wird die öffentliche Sicherheit gewährleistet. 
-
-Abseits von Reisepässen, Waffenscheinen und Einwanderungspapieren ist der Sitz der Staatspolizei ein hochgesicherter Ort. Aus gutem Grund. Von der Quästur aus wird die öffentliche Sicherheit in Südtirol gewährleistet und Kriminalität gemäß Strafgesetzbuch bekämpft. Wer Krimi oder True Crime mag: Jutta Kußtatscher war mehrere Tage vor Ort in der Quästur Bozen und hat der Polizei bei der Arbeit über die Schulter geschaut.</desc>
-  </programme>
-  <programme start="20260529210500 +0200" stop="20260529214919 +0200" channel="Rai Südtirol">
-    <title>Obdachlos in Südtirol</title>
-    <sub-title/>
-    <desc>Noch leben sie am Rand. Und im Winter parken wir sie in Notschlafstellen. Die Armut wächst in
-Südtirol. Auch Menschen, die arbeiten, können sich oft keine Wohnung leisten. Filmemacher Karl Prossliner lässt Obdachlose erzählen. &quot;Poesie des Alltags&quot; nennt er ihre Geschichten. Leben ist ohne Garantie, aber: Wie holen wir Menschen zurück in die Mitte der Gesellschaft? Wie wirksam sind Konzepte wie Housing First? Und wie gestalten wir urbane Schutzzonen, damit Obdachlose und Arme auch Raum kriegen?</desc>
-  </programme>
-  <programme start="20260529214900 +0200" stop="20260529215848 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Filmregisseur Cornelius Hintner</sub-title>
-    <desc>Cornelius Hintner (1875 - 1922) wuchs in Bozen auf, absolvierte eine Ausbildung als Kunstmaler und feierte später in Budapest und Wien Erfolge als Filmregisseur mit Filmen wie &quot;Die Würghand&quot; oder &quot;Die gelbe Gefahr&quot;.</desc>
-  </programme>
-  <programme start="20260529221000 +0200" stop="20260529223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260530180000 +0200" stop="20260530182930 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Georg Rammlmair</sub-title>
@@ -111,6 +59,219 @@ Die Talkshow von Rai Südtirol ist der Innovation gewidmet. Der Gewinner bzw. Di
     <desc/>
   </programme>
   <programme start="20260531221000 +0200" stop="20260531223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260601180000 +0200" stop="20260601181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>In der 1. Amateurliga findet der letzte Spieltag statt. In beiden Kreisen ist der Titelkampf noch nicht entschieden. Im Kreis A kämpfen Auer auswärts in Riffian/Kuens und St. Martin/Moos zu Hause gegen Kaltern um die Meisterkrone, während im Kreis B Platz 1 im direkten Duell Latzfons gegen Kiens entschieden wird.</desc>
+  </programme>
+  <programme start="20260601181400 +0200" stop="20260601182830 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kindergemeinderat in Eppan</sub-title>
+    <desc>Einmal im Jahr wird es spannend in Eppan: Dann treffen sich Kinder aus den Grundschulen zum Kindergemeinderat im Rathaus. Sie wurden demokratisch gewählt und dürfen dem Bürgermeister ihre Ideen vorstellen - zum Beispiel, wie man die Gemeinde kinderfreundlicher und sicherer machen kann. Clownfrau Karamela ist in Girlan unterwegs und trifft dort engagierte Kindersuchtrupps. Die spüren Probleme auf – wie kaputte Spielgeräte am Kinderspielplatz, Müll auf den Straßen oder gefährliche Kreuzungen – und sammeln einfache Lösungsvorschläge. Alles wird in einem Protokoll festgehalten, damit es bei der nächsten Sitzung des Kindergemeinderates besprochen werden kann.</desc>
+  </programme>
+  <programme start="20260601182900 +0200" stop="20260601185830 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Einblick in den Stall eines jungen Braunviehzüchters. Wie angehende Junglandwirte ihre Tiere in Szene setzen. Pflanzenschutz im Umbruch. Eine Sendung von Marianne Kasseroler. 
+Diese Ausgabe beleuchtet aktuelle Themen aus der Landwirtschaft und zeigt, wie engagiert die nächste Generation den Wandel mitgestaltet. Im Fokus steht das Braunvieh, das mit Leistungsstärke, Langlebigkeit und Ausstrahlung besonders junge Züchterinnen und Züchter begeistert. Zudem gibt ein Besuch an einer landwirtschaftlichen Schule in Dietenheim Einblick in die Kunst des Kuh-Stylings und die Vorbereitung auf Viehschauen. Wie moderne Technik den Arbeitsalltag verändert, zeigt der Besuch bei einem jungen Braunviehzüchter, der auf Robotik und effiziente Stalllösungen setzt. Ergänzt wird die Ausgabe durch einen Blick auf die Zukunft des Pflanzenschutzes zwischen Anspruch, Fortschritt und Kritik.</desc>
+  </programme>
+  <programme start="20260601200000 +0200" stop="20260601202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260601202000 +0200" stop="20260601215900 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut - Organsspende</title>
+    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Organspende schenkt Leben - warum viele dennoch zögern. Die 19-jährige Anna verdankt ihrem Organspender ein neues Leben. Doch Organspende ist für viele Menschen mit Ängsten verbunden.  
+
+In &quot;Nachgeschaut&quot; gehen wir den medizinischen, ethischen und persönlichen Fragen rund um Organspende und Transplantation nach - zunächst mit der Dokumentation &quot;Neue Niere - neues Herz: Leben und Überleben mit einem gespendeten Organ&quot; von Astrid Kofler.  
+Im Anschluss diskutieren Betroffene und Fachleute über Hoffnungen, Vorbehalte und die Realität hinter dem Thema. Zu Gast sind Marc Kaufmann (Landeskoordinator für Transplantation), Gabriele Morandell (Juristin und ehemalige Volksanwältin), Dr. Werner Passler (Nephrologe)  sowie Gustav Kofler vom Nierenkrankenverein Nierene. Im zweiten Gesprächsteil berichten Elisabeth Kuppelwieser, die ihrem Mann eine Niere gespendet hat, und Anna Negri, Organempfängerin und Italienmeisterin bei den Transplant Games, über ihre persönlichen Erfahrungen. 
+Moderation: Judith Bertagnolli</desc>
+  </programme>
+  <programme start="20260601221000 +0200" stop="20260601223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260602200000 +0200" stop="20260602202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260602202000 +0200" stop="20260602203530 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Angelika König und Simone Mayr &quot;karten&quot; in dieser Episode das Südtiroler Kultspiel Blindwatten.
+
+Schianere oder Schlagtausch? Blind oder offen? Bis 11,15 oder 18? Mit dem Guaten oder dem
+Superguaten? Nahezu jede Talschaft in Südtirol hat ihre eigene Variante, zudem bringt das
+Watten auch Generationen zusammen: vergnüglich oder mit Geschimpfe. Gespielt wird Watten
+seit den Napoleonischen Kriegen, oder vielleicht schon früher, wie das Bonmot vermuten lässt:
+&quot;Schon Adam wattete mies, drum fiel er aus dem Paradies&quot;.</desc>
+  </programme>
+  <programme start="20260602203600 +0200" stop="20260602205030 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>In der SportZeit geht es diesmal um einige Neuheiten: Zum einen werden im Jugendvolleyball die neuen Landesmeister gesucht,  zum anderen plant der VSS den Kinderfußball zu revolutionieren und ab Herbst ein neues Format einzuführen.</desc>
+  </programme>
+  <programme start="20260602221000 +0200" stop="20260602223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260603200000 +0200" stop="20260603202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260603202000 +0200" stop="20260603204930 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Die Fußballerbilder zum Sammeln werden in Bozen gedruckt. Die Plattform Open Data Hub im NOI Techpark. Die traditionelle Lagerhaltung einer Meraner Eisenwarenhandlung.  
+
+Mit der Fußballweltmeisterschaft rücken wieder einmal die bunten Fußballer-Portraitbilder einer renommierten italienischen Marke in den Fokus. Generationen von Fußballfans in aller Welt haben diese Bilder gesammelt, getauscht und in ihre Sammelhefte geklebt.  Die Produktion findet in Bozen statt und erfordert spezielles technologisches Know-how beim Druck. 
+Auch im Open Data Hub des NOI Techpark wird gesammelt – allerdings digitale Daten. Diese &quot;lokale&quot; Plattform bietet Zugriff auf eine Fülle von Informationen über Südtirol, darunter Verkehrsströme, Umweltdaten und vieles mehr. Open Data Hub ermöglicht es Unternehmen und Start-ups, innovative digitale Anwendungen und Produkte zu entwickeln. 
+Im Gegensatz dazu setzt die Eisenwarenhandlung Brugnara in Meran weniger auf digitale Systeme als auf analoge Register, auf das gute Gedächtnis und das Fachwissen des Verkaufspersonals.  Das Geschäft ist bekannt für sein außergewöhnlich großes Sortiment an Eisen- und Haushaltswaren. Trend hat sich angesehen, warum sich die traditionelle Lagerhaltung bis heute bewährt hat.</desc>
+  </programme>
+  <programme start="20260603221000 +0200" stop="20260603223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260604200000 +0200" stop="20260604202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260604202000 +0200" stop="20260604204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Alles auf Tempo</sub-title>
+    <desc>Welche Auswirkungen haben &quot;Schneller, höher, weiter&quot; auf uns Menschen? Dieser Frage geht diese Ausgabe des Südtirol Magazins nach, moderiert von Karin Gschnitzer. 
+
+Stillstand war gestern - heute steht &quot;Alles auf Tempo&quot;: Wir beschleunigen unsere Entwicklungen, um den Anforderungen der Zeit gerecht zu werden. Immer schneller, immer weiter, immer höher. Doch was, wenn wir außer Atem geraten?  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Geschwindigkeitsrausch - der Ralleyfahrer Bernd Zanon&quot; und wir bringen eine weitere Folge aus der Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
+  </programme>
+  <programme start="20260604221000 +0200" stop="20260604223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260605180000 +0200" stop="20260605182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Alles auf Tempo</sub-title>
+    <desc>Welche Auswirkungen haben &quot;Schneller, höher, weiter&quot; auf uns Menschen? Dieser Frage geht diese Ausgabe des Südtirol Magazins nach, moderiert von Karin Gschnitzer. 
+Stillstand war gestern - heute steht &quot;Alles auf Tempo&quot;: Wir beschleunigen unsere Entwicklungen, um den Anforderungen der Zeit gerecht zu werden. Immer schneller, immer weiter, immer höher. Doch was, wenn wir außer Atem geraten?  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Geschwindigkeitsrausch - der Ralleyfahrer Bernd Zanon&quot; und wir bringen eine weitere Folge aus der Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
+  </programme>
+  <programme start="20260605182900 +0200" stop="20260605184330 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>In dieser Ausgabe der SportZeit geht es um die Südtirol-Premiere einer neuen Extremsportart - Dolomites Last Loop  - und um den Senior Golf Cup des VSS im Passeiertal. Es moderiert Laura Moroder. 
+Nur einer bleibt stehen - oder besser gesagt: nur einer läuft weiter! Das ist das gnadenlose Prinzip des neuen Extremsportformats Last Loop. In Toblach geht es so oft auf einen 6-Kilometer-Kurs, bis nur noch ein Mann und eine Frau übrig sind.  
+Die SportZeit  bringt actionreiche Bilder, Interviews und Ergebnisse. Dazu noch Kompaktnews und Sporttermine.</desc>
+  </programme>
+  <programme start="20260605184400 +0200" stop="20260605185248 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Die Pilzzüchter</sub-title>
+    <desc>Feinschmecker ganzjährig mit frischen Edelpilzen versorgen, das haben sich Andreas Kalser und Josef Obkircher am Hof im Thal in Aldein zur Aufgabe gemacht. Unter dem Namen &quot;Kirnig - Südtiroler Edelpilze&quot; züchten die beiden Jungbauern in einem umgebauten Stadel biologische Kräuterseitlinge und Shiitake-Pilze. Sie erzählen darüber, wie sie den Mut fanden, sich so jung selbstständig zu machen, wer ihnen geholfen hat und welche Tipps sie heute für junge Start-Up-Unternehmer haben.</desc>
+  </programme>
+  <programme start="20260605185200 +0200" stop="20260605185820 +0200" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Ein Sarner für den Hund</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260605200000 +0200" stop="20260605202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260605202000 +0200" stop="20260605212000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine Erlebniswanderung am Deutschnonsberg und drei kreative Frauen, die in ihren Werkstätten besondere Taschen anfertigen.  
+
+Theo Hendrich ist am Deutschnonsberg unterwegs, unter anderem auf einem der ältesten Pilgerwege im Alpenraum. Der etwas entlegene Deutschnonsberg ist ein leiser Kraftort mit vielen Wandermöglichkeiten und kulinarischen Überraschungen. Es ist gleichzeitig eine Wanderung entlang der unsichtbaren Grenze zwischen zwei Kulturen.  
+Petra Tschenett besucht anschließend drei Frauen in ihren Werkstätten und bewundert deren Leidenschaft, die in jeder einzelnen ihrer Taschen steckt: Mariana Frühauf, die mit innovativen Formen und mutigen Farbkonzepten überzeugt, Monika Kienzl, wo traditionelle Handwerkskunst auf alpine Inspiration trifft und Doris Oberfrank, die für ihre Materialien und klaren Designs bekannt ist. Ein Blick hinter die Kulissen eines kreativen Handwerks.</desc>
+  </programme>
+  <programme start="20260605212000 +0200" stop="20260605214930 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Beim jährlichen Mitgliedertreffen des Qualitätszeichens Südtirol in Bozen wurde die Bedeutung von Herkunft, geprüfter Qualität und regionaler Wertschöpfung unterstrichen. Ob Brot aus Südtiroler Regiokorn oder Honig mit nachvollziehbarer Herkunft: das Qualitätszeichen Südtirol soll Vertrauen schaffen und regionale Identität stärken. Gerade im Tourismus entwickelt sich Regionalität immer mehr zum Erlebnisfaktor für Gäste und damit zu einem wichtigen Aushängeschild des Landes. Auch bei de diesjährigen COOLinaria - der Fachtagung für Küche und Gastronomie - diskutierten Fachleute aus Küche und Lebensmittelproduktion über den bewussten Umgang mit Ressourcen und über die Umsetzung von Nachhaltigkeit im gastronomischen Alltag.  
+Küche und Service müssen eng zusammenarbeiten, damit Wein und Speisen harmonisch aufeinander abgestimmt werden. Neben Fachwissen sind dabei auch Gespür, Aufmerksamkeit und der persönliche Umgang mit den Gästen gefragt. Gleichzeitig verändern sich auch die Erwartungen vieler Gäste: Persönliche Beratung, ein entspannter Zugang zum Thema Wein und individuelle Empfehlungen gewinnen zunehmend an Bedeutung.</desc>
+  </programme>
+  <programme start="20260605215000 +0200" stop="20260605215919 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Bildmuseum</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260605221000 +0200" stop="20260605223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260606180000 +0200" stop="20260606183500 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 1</sub-title>
+    <desc>Es gibt eine Fortsetzung der Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
+Die Talkshow von Rai Südtirol ist der Innovation gewidmet. Der Gewinner bzw. Die Gewinnerin zieht dann ins große Finale ein. In dieser ersten Folge messen sich Davide Loris von Sanevo und Massimo Penasa von Caemate.</desc>
+  </programme>
+  <programme start="20260606183500 +0200" stop="20260606185923 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Stegen</sub-title>
+    <desc>Viele kennen die Brunecker Fraktion wegen des größten Marktes von Tirol, der alljährlich im
+Oktober am Stegener Marktplatz stattfindet. Ortskundige stellen die Besonderheiten von Stegen
+vor. Während der Fraktionsvorsteher Albin Pramstaller durch das Dorf führt, erinnert sich
+Pfarrgemeinderatspräsident Johann Hilber an vergangene Tage. Seine Schwester Maria Hilber
+hat eine Festschrift über die 1000-Jahr-Feier von Stegen verfasst. Im Dorfgasthaus zur Linde
+beim &quot;Branntweiner&quot; wird heute noch anlässlich des Stegener Marktes die traditionelle Saure
+Suppe gekocht. Und wenn es um Weltklasse-Eisstockschießen geht, dann haben vor allem die
+Damen aus Stegen die Nase vorn.</desc>
+  </programme>
+  <programme start="20260606200000 +0200" stop="20260606202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260606202000 +0200" stop="20260606202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260606202400 +0200" stop="20260606210300 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Helmut &quot; Frederick&quot; Pinggera</sub-title>
+    <desc>Ein Herzproblem verändert vor einigen Jahren das Leben von Helmut Pinggera grundlegend. Während einer Reha in Tisens beginnt er zu schreiben, Musik zu machen und Kunst zu schaffen.  
+Aus dem ehemaligen Lehrer und Regionalentwickler wird &quot;Frederick&quot; - Künstler, Musiker und Autor. Doch das eigentliche Momentum folgt ein paar Jahre später: Seine Frau Maria erleidet einen epileptischen Anfall und stürzt aus dem Fenster der Wohnung. Von einem Moment auf den anderen verändert sich das gemeinsame Leben radikal. 
+Die neue Folge von &quot;Momentum begleitet Helmut &quot;Frederick&quot; Pinggera und seine Frau Maria zwischen Bruneck, Stilfs und dem Gardasee. Sie erzählt von Herkunft und Veränderung, von Kunst als Ausdruck innerer Prozesse - und von einem tiefen Vertrauen ins Leben, das auch in schwierigen Zeiten trägt.</desc>
+  </programme>
+  <programme start="20260606221000 +0200" stop="20260606223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260607202000 +0200" stop="20260607205500 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
+ 
+Der Wettstreit der kreativen Köpfe ist der Innovation gewidmet. Der Gewinner bzw. die Gewinnerin zieht dann ins große Finale ein. In dieser Folge messen sich Stevie Schneider von Bikeflip, einer Plattform für gebrauchte Fahrräder, und Roland Mall von Biotitan, ein Startup, das Nanotechnologie in vielen Bereichen des Alltags einsetzt.</desc>
+  </programme>
+  <programme start="20260607205500 +0200" stop="20260607205900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260607221000 +0200" stop="20260607223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
