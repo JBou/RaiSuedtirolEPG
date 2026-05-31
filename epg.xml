@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260530180000 +0200" stop="20260530182930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Georg Rammlmair</sub-title>
-    <desc>Moderator Markus Frings trifft auf eine Persönlichkeit, die wie kaum eine andere für Einsatz, Verantwortung und Menschlichkeit steht: Georg Rammlmair. 
-Als Arzt und langjähriger Präsident des Weißen Kreuzes hat Rammlmair über viele Jahre hinweg das Rettungswesen in Südtirol entscheidend mitgeprägt. Im Gespräch gewährt er persönliche Einblicke in sein Leben. Er erzählt von den Herausforderungen und von den Werten, die ihn stets geleitet haben. 
-Doch auch der Mensch hinter der öffentlichen Figur kommt nicht zu kurz: Rammlmair spricht über prägende Momente seines privaten Lebens und über seine Passion für Linol- und Holzdrucke.</desc>
-  </programme>
-  <programme start="20260530182900 +0200" stop="20260530185830 +0200" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Wenn Gedanken heilen</sub-title>
-    <desc>Was, wenn unsere Gedanken mehr Einfluss auf unsere Gesundheit haben als wir glauben? Ulli Velano geht dieser Frage nach und spricht unter anderem mit dem Neurochirurgen Willi Eisner darüber. Außerdem gibt es Tipps für den Alltag, um die eigenen Gedanken besser zu steuern. 
-Dr. Willi Eisner erklärt aus wissenschaftlicher Perspektive, wie eng Emotionen, Denken und körperliche Gesundheit miteinander verknüpft sind. Er sagt: Unser Gehirn ist formbar - und wir haben die Fähigkeit, es bewusst zu beeinflussen. Der Film verbindet medizinisches Wissen mit alltagsnahen Erfahrungen. Er zeigt, wie negative Gedankenmuster Krankheiten, aber auch Heilungsprozesse beeinflussen können - und wie positive Emotionen messbare Auswirkungen auf Körper und Psyche haben. Anhand konkreter Beispiele wird deutlich, dass unser Gehirn auf Reize reagiert, die wir selbst erzeugen: Gedanken, Bewertungen und innere Bilder. Neben der wissenschaftlichen Einordnung lernen wir auch einfache Methoden kennen, um Gedanken zu lenken: Atemtechniken, Perspektivwechsel und bewusste Selbststeuerung werden als Werkzeuge vorgestellt, die jeder Mensch nutzen kann.</desc>
-  </programme>
-  <programme start="20260530200000 +0200" stop="20260530202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260530202100 +0200" stop="20260530202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260530202500 +0200" stop="20260530205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Das Qualitätszeichen Südtirol setzt auf regionale Wertschöpfung. Bio und Nachhaltigkeit prägen die Fachtagung COOLinaria. Was gehört zu einer guten Weinbegleitung im Service?  
-
-Beim jährlichen Mitgliedertreffen des Qualitätszeichens Südtirol in Bozen wurde die Bedeutung von Herkunft, geprüfter Qualität und regionaler Wertschöpfung unterstrichen. Ob Brot aus Südtiroler Regiokorn oder Honig mit nachvollziehbarer Herkunft: das Qualitätszeichen Südtirol soll Vertrauen schaffen und regionale Identität stärken. Gerade im Tourismus entwickelt sich Regionalität immer mehr zum Erlebnisfaktor für Gäste und damit zu einem wichtigen Aushängeschild des Landes. 
-Auch bei der diesjährigen COOLinaria - der Fachtagung für Küche und Gastronomie - diskutierten Fachleute aus Küche und Lebensmittelproduktion über den bewussten Umgang mit Ressourcen und über die Umsetzung von Nachhaltigkeit im gastronomischen Alltag.  
-Küche und Service müssen eng zusammenarbeiten, damit Wein und Speisen harmonisch aufeinander abgestimmt werden. Neben Fachwissen sind dabei auch Gespür, Aufmerksamkeit und der persönliche Umgang mit den Gästen gefragt. Gleichzeitig verändern sich auch die Erwartungen vieler Gäste: Persönliche Beratung, ein entspannter Zugang zum Thema Wein und individuelle Empfehlungen gewinnen zunehmend an Bedeutung.</desc>
-  </programme>
-  <programme start="20260530221000 +0200" stop="20260530223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260531200000 +0200" stop="20260531202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
