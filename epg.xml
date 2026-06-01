@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260531200000 +0200" stop="20260531202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260531202000 +0200" stop="20260531205900 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 1</sub-title>
-    <desc>Es gibt eine Fortsetzung der Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
-
-Die Talkshow von Rai Südtirol ist der Innovation gewidmet. Der Gewinner bzw. Die Gewinnerin zieht dann ins große Finale ein. In dieser ersten Folge messen sich Davide Loris von Sanevo und Massimo Penasa von Caemate.</desc>
-  </programme>
-  <programme start="20260531210000 +0200" stop="20260531210400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260531221000 +0200" stop="20260531223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260601180000 +0200" stop="20260601181430 +0200" channel="Rai Südtirol">
     <title>Fußball-Arena</title>
     <sub-title/>
