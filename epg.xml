@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260601180000 +0200" stop="20260601181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>In der 1. Amateurliga findet der letzte Spieltag statt. In beiden Kreisen ist der Titelkampf noch nicht entschieden. Im Kreis A kämpfen Auer auswärts in Riffian/Kuens und St. Martin/Moos zu Hause gegen Kaltern um die Meisterkrone, während im Kreis B Platz 1 im direkten Duell Latzfons gegen Kiens entschieden wird.</desc>
-  </programme>
-  <programme start="20260601181400 +0200" stop="20260601182830 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Kindergemeinderat in Eppan</sub-title>
-    <desc>Einmal im Jahr wird es spannend in Eppan: Dann treffen sich Kinder aus den Grundschulen zum Kindergemeinderat im Rathaus. Sie wurden demokratisch gewählt und dürfen dem Bürgermeister ihre Ideen vorstellen - zum Beispiel, wie man die Gemeinde kinderfreundlicher und sicherer machen kann. Clownfrau Karamela ist in Girlan unterwegs und trifft dort engagierte Kindersuchtrupps. Die spüren Probleme auf – wie kaputte Spielgeräte am Kinderspielplatz, Müll auf den Straßen oder gefährliche Kreuzungen – und sammeln einfache Lösungsvorschläge. Alles wird in einem Protokoll festgehalten, damit es bei der nächsten Sitzung des Kindergemeinderates besprochen werden kann.</desc>
-  </programme>
-  <programme start="20260601182900 +0200" stop="20260601185830 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Einblick in den Stall eines jungen Braunviehzüchters. Wie angehende Junglandwirte ihre Tiere in Szene setzen. Pflanzenschutz im Umbruch. Eine Sendung von Marianne Kasseroler. 
-Diese Ausgabe beleuchtet aktuelle Themen aus der Landwirtschaft und zeigt, wie engagiert die nächste Generation den Wandel mitgestaltet. Im Fokus steht das Braunvieh, das mit Leistungsstärke, Langlebigkeit und Ausstrahlung besonders junge Züchterinnen und Züchter begeistert. Zudem gibt ein Besuch an einer landwirtschaftlichen Schule in Dietenheim Einblick in die Kunst des Kuh-Stylings und die Vorbereitung auf Viehschauen. Wie moderne Technik den Arbeitsalltag verändert, zeigt der Besuch bei einem jungen Braunviehzüchter, der auf Robotik und effiziente Stalllösungen setzt. Ergänzt wird die Ausgabe durch einen Blick auf die Zukunft des Pflanzenschutzes zwischen Anspruch, Fortschritt und Kritik.</desc>
-  </programme>
-  <programme start="20260601200000 +0200" stop="20260601202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260601202000 +0200" stop="20260601215900 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut - Organsspende</title>
-    <sub-title>Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Organspende schenkt Leben - warum viele dennoch zögern. Die 19-jährige Anna verdankt ihrem Organspender ein neues Leben. Doch Organspende ist für viele Menschen mit Ängsten verbunden.  
-
-In &quot;Nachgeschaut&quot; gehen wir den medizinischen, ethischen und persönlichen Fragen rund um Organspende und Transplantation nach - zunächst mit der Dokumentation &quot;Neue Niere - neues Herz: Leben und Überleben mit einem gespendeten Organ&quot; von Astrid Kofler.  
-Im Anschluss diskutieren Betroffene und Fachleute über Hoffnungen, Vorbehalte und die Realität hinter dem Thema. Zu Gast sind Marc Kaufmann (Landeskoordinator für Transplantation), Gabriele Morandell (Juristin und ehemalige Volksanwältin), Dr. Werner Passler (Nephrologe)  sowie Gustav Kofler vom Nierenkrankenverein Nierene. Im zweiten Gesprächsteil berichten Elisabeth Kuppelwieser, die ihrem Mann eine Niere gespendet hat, und Anna Negri, Organempfängerin und Italienmeisterin bei den Transplant Games, über ihre persönlichen Erfahrungen. 
-Moderation: Judith Bertagnolli</desc>
-  </programme>
-  <programme start="20260601221000 +0200" stop="20260601223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260602200000 +0200" stop="20260602202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
