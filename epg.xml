@@ -4,32 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260602200000 +0200" stop="20260602202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260602202000 +0200" stop="20260602203530 +0200" channel="Rai Südtirol">
-    <title>Zwischengas</title>
-    <sub-title>Eine filmische Kolumne</sub-title>
-    <desc>Angelika König und Simone Mayr &quot;karten&quot; in dieser Episode das Südtiroler Kultspiel Blindwatten.
-
-Schianere oder Schlagtausch? Blind oder offen? Bis 11,15 oder 18? Mit dem Guaten oder dem
-Superguaten? Nahezu jede Talschaft in Südtirol hat ihre eigene Variante, zudem bringt das
-Watten auch Generationen zusammen: vergnüglich oder mit Geschimpfe. Gespielt wird Watten
-seit den Napoleonischen Kriegen, oder vielleicht schon früher, wie das Bonmot vermuten lässt:
-&quot;Schon Adam wattete mies, drum fiel er aus dem Paradies&quot;.</desc>
-  </programme>
-  <programme start="20260602203600 +0200" stop="20260602205030 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>In der SportZeit geht es diesmal um einige Neuheiten: Zum einen werden im Jugendvolleyball die neuen Landesmeister gesucht,  zum anderen plant der VSS den Kinderfußball zu revolutionieren und ab Herbst ein neues Format einzuführen.</desc>
-  </programme>
-  <programme start="20260602221000 +0200" stop="20260602223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260603200000 +0200" stop="20260603202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
