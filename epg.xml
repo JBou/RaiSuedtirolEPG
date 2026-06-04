@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260603200000 +0200" stop="20260603202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260603202000 +0200" stop="20260603204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Die Fußballerbilder zum Sammeln werden in Bozen gedruckt. Die Plattform Open Data Hub im NOI Techpark. Die traditionelle Lagerhaltung einer Meraner Eisenwarenhandlung.  
-
-Mit der Fußballweltmeisterschaft rücken wieder einmal die bunten Fußballer-Portraitbilder einer renommierten italienischen Marke in den Fokus. Generationen von Fußballfans in aller Welt haben diese Bilder gesammelt, getauscht und in ihre Sammelhefte geklebt.  Die Produktion findet in Bozen statt und erfordert spezielles technologisches Know-how beim Druck. 
-Auch im Open Data Hub des NOI Techpark wird gesammelt – allerdings digitale Daten. Diese &quot;lokale&quot; Plattform bietet Zugriff auf eine Fülle von Informationen über Südtirol, darunter Verkehrsströme, Umweltdaten und vieles mehr. Open Data Hub ermöglicht es Unternehmen und Start-ups, innovative digitale Anwendungen und Produkte zu entwickeln. 
-Im Gegensatz dazu setzt die Eisenwarenhandlung Brugnara in Meran weniger auf digitale Systeme als auf analoge Register, auf das gute Gedächtnis und das Fachwissen des Verkaufspersonals.  Das Geschäft ist bekannt für sein außergewöhnlich großes Sortiment an Eisen- und Haushaltswaren. Trend hat sich angesehen, warum sich die traditionelle Lagerhaltung bis heute bewährt hat.</desc>
-  </programme>
-  <programme start="20260603221000 +0200" stop="20260603223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260604200000 +0200" stop="20260604202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
