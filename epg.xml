@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260604200000 +0200" stop="20260604202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260604202000 +0200" stop="20260604204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Alles auf Tempo</sub-title>
-    <desc>Welche Auswirkungen haben &quot;Schneller, höher, weiter&quot; auf uns Menschen? Dieser Frage geht diese Ausgabe des Südtirol Magazins nach, moderiert von Karin Gschnitzer. 
-
-Stillstand war gestern - heute steht &quot;Alles auf Tempo&quot;: Wir beschleunigen unsere Entwicklungen, um den Anforderungen der Zeit gerecht zu werden. Immer schneller, immer weiter, immer höher. Doch was, wenn wir außer Atem geraten?  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Geschwindigkeitsrausch - der Ralleyfahrer Bernd Zanon&quot; und wir bringen eine weitere Folge aus der Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
-  </programme>
-  <programme start="20260604221000 +0200" stop="20260604223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260605180000 +0200" stop="20260605182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Alles auf Tempo</sub-title>
@@ -133,6 +115,179 @@ Der Wettstreit der kreativen Köpfe ist der Innovation gewidmet. Der Gewinner bz
     <desc/>
   </programme>
   <programme start="20260607221000 +0200" stop="20260607223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260608180000 +0200" stop="20260608181430 +0200" channel="Rai Südtirol">
+    <title>Fußball-Arena</title>
+    <sub-title/>
+    <desc>Am Wochenende fällt die letzte Entscheidung im Amateurfußball vor der Sommerpause: Die Tabellenzweiten der beiden Kreise in der 1. Amateurliga spielen im direkten Duell um den letzten Aufstiegsplatz in die Landesliga. Zum Saisonende küren wir auch die Top-Elf der Ober- und Landesliga.</desc>
+  </programme>
+  <programme start="20260608181400 +0200" stop="20260608183330 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Kochen kinderleicht - Schüttelbrot-Gemüse- Knödel</sub-title>
+    <desc>Kinderköchin Linda bereitet gemeinsam mit Kochlehrerin Martina ein typisches Südtiroler Gericht zu: Knödel aus traditionellem Schüttelbrot. Dafür muss Linda das harte Schüttelbrot zunächst mit einem Nudelholz zu feinen Krümeln zerstoßen und anschließend mit verschiedenen Zutaten - darunter frisches Gemüse - zu runden Knödeln formen. Das ist gar nicht so einfach, doch Martina kennt wie immer hilfreiche Tricks, die das Kochen kinderleicht machen.</desc>
+  </programme>
+  <programme start="20260608183400 +0200" stop="20260608185837 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Nals</sub-title>
+    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt. Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt. Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
+  </programme>
+  <programme start="20260608200000 +0200" stop="20260608202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260608202000 +0200" stop="20260608212547 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20260608212500 +0200" stop="20260608215903 +0200" channel="Rai Südtirol">
+    <title>Das Thema: Brennerroute</title>
+    <sub-title/>
+    <desc>Die Reportage von Andreas Niederkofler gibt einen eindrucksvollen Einblick in den Arbeitsalltag der Polizei entlang der Brennerachse, einer der wichtigsten Nord-Süd-Verbindungen Europas. Zwischen Autobahn, Bundesstraße und Bahnlinie begleitet das Kamerateam italienische, österreichische und deutsche Einsatzkräfte bei ihren gemeinsamen Kontrollen gegen illegale Migration, Schleusungskriminalität sowie grenzüberschreitende Delikte. Seit der großen Flüchtlingsbewegung 2015/2016 hat sich die Bedeutung der Brennerroute verändert, doch der Kontrolldruck ist hoch geblieben. Die Reportage zeigt, wie Polizist:innen Fahrzeuge, Reisebusse und Züge stichprobenartig überprüfen, wie sie mit fehlenden Papieren, falschen Angaben und teils angespannten Situationen umgehen - und wie eng die internationale Zusammenarbeit heute funktioniert. Neben der sicherheitsrelevanten Seite rückt der Film auch die menschliche Dimension in den Fokus: Migrant:innen und Migranten mit unterschiedlichen Schicksalen treffen auf Beamte, die zwischen klaren gesetzlichen Vorgaben und persönlicher Verantwortung handeln müssen. Die Reportage macht deutlich: Illegale Migration ist weniger sichtbar geworden, aber längst nicht verschwunden - und erfordert weiterhin Aufmerksamkeit, Kooperation und Augenmaß.</desc>
+  </programme>
+  <programme start="20260608221000 +0200" stop="20260608223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260609200000 +0200" stop="20260609202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260609202000 +0200" stop="20260609203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260609203500 +0200" stop="20260609204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Am Dienstag beschäftigt sich die SportZeit auf Rai Südtirol mit zwei Nischensportarten, die in Südtirol aber Tradition haben. Der SSV Bozen Faustball spielt gerade um den möglichen Aufstieg in die erste österreischische Bundesliga. Und am Kalterer See boomt die Segelsaison, auch dank der prächtigen sommerlichen Bedingungen bereits jetzt im Frühjahr. Auch in der letzten Folge von SportZeit vor der Sommerpause, gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
+  </programme>
+  <programme start="20260609221000 +0200" stop="20260609223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260610200000 +0200" stop="20260610202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260610202000 +0200" stop="20260610204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Sommerpraktikum oder Ferialjob - wo liegen die Unterschiede? Die Promille-Zuweisung in der Steuererklärung. Die neue EU-Regeln zur Gentechnik.  
+
+Wo liegen die Unterschiede zwischen Sommerpraktikum und Ferialjob? Was passt zu wem und wo können sich Jugendliche näher informieren? Jetzt ist die Zeit der Steuererklärungen: Was steckt hinter der Zuteilung der 2-, 5- und 8-Promille-Anteile? Experten erklären, welche Folgen eine Unterschrift hat und was passiert, wenn keine Auswahl getroffen wird. Neue EU-Regeln zur Gentechnik sorgen derzeit europaweit für Diskussionen - auch in Südtirol. Künftig könnten bestimmte Lebensmittel, die mithilfe neuer gentechnischer Verfahren verändert wurden, ohne Kennzeichnung verkauft werden. Was bedeutet das für Verbraucher:innen in Südtirol? 
+Und in der Rubrik &quot;Innovation made in Südtirol&quot; sind wir diesmal bei Pichler Projects in Bozen zu Gast.</desc>
+  </programme>
+  <programme start="20260610221000 +0200" stop="20260610223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260611200000 +0200" stop="20260611202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260611202000 +0200" stop="20260611204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Junge Musikszene Südtirols</sub-title>
+    <desc>Sie sind jung, musikalisch und sprengen die Sprachgrenzen - die junge Südtiroler Musikszene. 
+
+Die junge Südtiroler Musikszene sprüht vor kreativer Energie und sprengt mutig alte Genregrenzen. Zwischen alpiner Tradition und urbanen Einflüssen entwickeln sie einen eigenen Sound, der über die Landesgrenzen hinaus Gehör findet. Ob Mundart-Pop oder elektronische Experimente - hier trifft tief verwurzelte Identität auf den Puls der Zeit. Über fehlende Räumlichkeiten für Konzerte in Bozen sprechen wir mit unserem Gast, Thomas Brancaglion, Gemeinderat und Musiker. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku über den Musiker Max von Milland und wir begleiten Daniela Thaler auf ihrer Reise durch Kanada. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260611221000 +0200" stop="20260611223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260612180000 +0200" stop="20260612182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Die Junge Musikszene Südtirols</sub-title>
+    <desc>Sie sind jung, musikalisch und sprengen die Sprachgrenzen - die junge Südtiroler Musikszene. Die junge Südtiroler Musikszene sprüht vor kreativer Energie und sprengt mutig alte Genregrenzen. Zwischen alpiner Tradition und urbanen Einflüssen entwickeln sie einen eigenen Sound, der über die Landesgrenzen hinaus Gehör findet. Ob Mundart-Pop oder elektronische Experimente - hier trifft tief verwurzelte Identität auf den Puls der Zeit. Über fehlende Räumlichkeiten für Konzerte in Bozen sprechen wir mit unserem Gast, Thomas Brancaglion, Gemeinderat und Musiker. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku über den Musiker Max von Milland und wir begleiten Daniela Thaler auf ihrer Reise durch Kanada. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20260612182900 +0200" stop="20260612184330 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die SportZeit auf Rai Südtirol beschäftigt sich diesmal mit zwei Nischensportarten, die in Südtirol aber Tradition haben. Der SSV Bozen Faustball spielt gerade um den möglichen Aufstieg in die erste österreischische Bundesliga. Und am Kalterer See boomt die Segelsaison, auch dank der prächtigen sommerlichen Bedingungen bereits jetzt im Frühjahr. Auch in der letzten Folge von SportZeit vor der Sommerpause, gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
+  </programme>
+  <programme start="20260612184400 +0200" stop="20260612185318 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Second Hand</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260612185300 +0200" stop="20260612185836 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Schildhöfe Passeiertal</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260612200000 +0200" stop="20260612202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260612202000 +0200" stop="20260612205000 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Tausch dich reich</sub-title>
+    <desc>Immer wieder schaffen es clevere Händler, mit scheinbar wertlosen Gegenständen Schritt für Schritt zu etwas ganz Großem zu gelangen. Genau die richtige Herausforderung für SchachMax.  
+
+Tauschgeschäfte boomen - ob Sammelkarten, Vintage-Mode oder Online-Tauschplattformen: Die Faszination, aus wenig immer mehr zu machen, begeistert Menschen seit jeher. In der neuen Folge startet Max von Milland mit nichts weiter als einer einfachen Büroklammer. Seine Mission: sich Stück für Stück nach oben zu tauschen - immer weiter, immer wertvoller. Was zunächst unmöglich klingt, entwickelt sich schnell zu einem spannenden Abenteuer voller überraschender Begegnungen, skurriler Deals und jeder Menge Verhandlungsgeschick. Ob Max es tatsächlich schafft, sich von einer Büroklammer bis zu einer Yacht in Porto Cervo hochzutauschen, sehen Sie in der neuen Folge SchachMax auf RAI Südtirol.</desc>
+  </programme>
+  <programme start="20260612205000 +0200" stop="20260612215000 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine Erlebniswanderung am Deutschnonsberg und drei kreative Frauen, die in ihren Werkstätten besondere Taschen anfertigen.  
+Theo Hendrich ist am Deutschnonsberg unterwegs, unter anderem auf einem der ältesten Pilgerwege im Alpenraum. Der etwas entlegene Deutschnonsberg ist ein leiser Kraftort mit vielen Wandermöglichkeiten und kulinarischen Überraschungen. Es ist gleichzeitig eine Wanderung entlang der unsichtbaren Grenze zwischen zwei Kulturen.  
+Petra Tschenett besucht anschließend drei Frauen in ihren Werkstätten und bewundert deren Leidenschaft, die in jeder einzelnen ihrer Taschen steckt: Mariana Frühauf, die mit innovativen Formen und mutigen Farbkonzepten überzeugt, Monika Kienzl, wo traditionelle Handwerkskunst auf alpine Inspiration trifft und Doris Oberfrank, die für ihre Materialien und klaren Designs bekannt ist. Ein Blick hinter die Kulissen eines kreativen Handwerks.</desc>
+  </programme>
+  <programme start="20260612215000 +0200" stop="20260612215829 +0200" channel="Rai Südtirol">
+    <title>Kunst und Landwirtschaft</title>
+    <sub-title>Paul Thuiles Rosengartenhof in Gargazon</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260612221000 +0200" stop="20260612223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260613180000 +0200" stop="20260613183500 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury. Der Wettstreit der kreativen Köpfe ist der Innovation gewidmet. Der Gewinner bzw. die Gewinnerin zieht dann ins große Finale ein. In dieser Folge messen sich Stevie Schneider von Bikeflip, einer Plattform für gebrauchte Fahrräder, und Roland Mall von Biotitan, ein Startup, das Nanotechnologie in vielen Bereichen des Alltags einsetzt.</desc>
+  </programme>
+  <programme start="20260613183500 +0200" stop="20260613185915 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Staben</sub-title>
+    <desc>Seit der Eröffnung der Tunnelumfahrung hat das Vinschger Dorf Staben an Lebensqualität gewonnen, auch die Lage direkt am Vinschger Radweg tragen zum ständigen Wachsen der Fraktion bei. Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquelle 1892 &quot;äußerst heilkräftige&quot; Wirkung zugeschrieben wurde. Im Jahre 2012 wurde die Quellfassung saniert und eine Ruheoase am Quellwasser gestaltet. Das Wasser und der Waal spielen im Vinschgau eine bedeutende Rolle, während der Verein &quot;Freunde der Eisenbahn&quot;
+besonders stolz auf seinen Landessitz am Bahnhof in Staben ist. Dieser Erlebnisbahnhof wird
+von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses Bahnhofes während der Donaumonarchie.</desc>
+  </programme>
+  <programme start="20260613200000 +0200" stop="20260613202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260613202000 +0200" stop="20260613202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260613202400 +0200" stop="20260613212200 +0200" channel="Rai Südtirol">
+    <title>Griasst Enk</title>
+    <sub-title>Buonomemes - Vom Internet auf die Bühne</sub-title>
+    <desc>Buonomemes ist Südtirols erfolgreichster Comedy-Influencer. Das Internet ist seine Welt. Jetzt will Gabriel Mair - so sein bürgerlicher Name - auch die Bühne erobern. Die Dokumentation von Filmemacher Alexander Lechner begleitet den Influencer auf seinem Weg vom Internet-Star zum Live-Künstler.  
+
+Startpunkt der filmischen Reise ist die Premiere des ersten Bühnenprogramms von Buonomemes in Hallwang (Salzburg). Die Tour führt ihn auch in seine Heimat. Doch Südtirol ist ein schwieriges Pflaster, sagt der 27-Jährige. Wie wird er im Vinschgau empfangen? &quot;Griasst Enk&quot; ist ein sehr persönliches und unkommentiertes Porträt über einen der talentiertesten Entertainer der Gen Z.</desc>
+  </programme>
+  <programme start="20260613221000 +0200" stop="20260613223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
