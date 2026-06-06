@@ -4,59 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260605180000 +0200" stop="20260605182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Alles auf Tempo</sub-title>
-    <desc>Welche Auswirkungen haben &quot;Schneller, höher, weiter&quot; auf uns Menschen? Dieser Frage geht diese Ausgabe des Südtirol Magazins nach, moderiert von Karin Gschnitzer. 
-Stillstand war gestern - heute steht &quot;Alles auf Tempo&quot;: Wir beschleunigen unsere Entwicklungen, um den Anforderungen der Zeit gerecht zu werden. Immer schneller, immer weiter, immer höher. Doch was, wenn wir außer Atem geraten?  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Geschwindigkeitsrausch - der Ralleyfahrer Bernd Zanon&quot; und wir bringen eine weitere Folge aus der Reihe &quot;Olympia - mehr als Medaillen&quot;.</desc>
-  </programme>
-  <programme start="20260605182900 +0200" stop="20260605184330 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>In dieser Ausgabe der SportZeit geht es um die Südtirol-Premiere einer neuen Extremsportart - Dolomites Last Loop  - und um den Senior Golf Cup des VSS im Passeiertal. Es moderiert Laura Moroder. 
-Nur einer bleibt stehen - oder besser gesagt: nur einer läuft weiter! Das ist das gnadenlose Prinzip des neuen Extremsportformats Last Loop. In Toblach geht es so oft auf einen 6-Kilometer-Kurs, bis nur noch ein Mann und eine Frau übrig sind.  
-Die SportZeit  bringt actionreiche Bilder, Interviews und Ergebnisse. Dazu noch Kompaktnews und Sporttermine.</desc>
-  </programme>
-  <programme start="20260605184400 +0200" stop="20260605185248 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Die Pilzzüchter</sub-title>
-    <desc>Feinschmecker ganzjährig mit frischen Edelpilzen versorgen, das haben sich Andreas Kalser und Josef Obkircher am Hof im Thal in Aldein zur Aufgabe gemacht. Unter dem Namen &quot;Kirnig - Südtiroler Edelpilze&quot; züchten die beiden Jungbauern in einem umgebauten Stadel biologische Kräuterseitlinge und Shiitake-Pilze. Sie erzählen darüber, wie sie den Mut fanden, sich so jung selbstständig zu machen, wer ihnen geholfen hat und welche Tipps sie heute für junge Start-Up-Unternehmer haben.</desc>
-  </programme>
-  <programme start="20260605185200 +0200" stop="20260605185820 +0200" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Ein Sarner für den Hund</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260605200000 +0200" stop="20260605202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260605202000 +0200" stop="20260605212000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine Erlebniswanderung am Deutschnonsberg und drei kreative Frauen, die in ihren Werkstätten besondere Taschen anfertigen.  
-
-Theo Hendrich ist am Deutschnonsberg unterwegs, unter anderem auf einem der ältesten Pilgerwege im Alpenraum. Der etwas entlegene Deutschnonsberg ist ein leiser Kraftort mit vielen Wandermöglichkeiten und kulinarischen Überraschungen. Es ist gleichzeitig eine Wanderung entlang der unsichtbaren Grenze zwischen zwei Kulturen.  
-Petra Tschenett besucht anschließend drei Frauen in ihren Werkstätten und bewundert deren Leidenschaft, die in jeder einzelnen ihrer Taschen steckt: Mariana Frühauf, die mit innovativen Formen und mutigen Farbkonzepten überzeugt, Monika Kienzl, wo traditionelle Handwerkskunst auf alpine Inspiration trifft und Doris Oberfrank, die für ihre Materialien und klaren Designs bekannt ist. Ein Blick hinter die Kulissen eines kreativen Handwerks.</desc>
-  </programme>
-  <programme start="20260605212000 +0200" stop="20260605214930 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Beim jährlichen Mitgliedertreffen des Qualitätszeichens Südtirol in Bozen wurde die Bedeutung von Herkunft, geprüfter Qualität und regionaler Wertschöpfung unterstrichen. Ob Brot aus Südtiroler Regiokorn oder Honig mit nachvollziehbarer Herkunft: das Qualitätszeichen Südtirol soll Vertrauen schaffen und regionale Identität stärken. Gerade im Tourismus entwickelt sich Regionalität immer mehr zum Erlebnisfaktor für Gäste und damit zu einem wichtigen Aushängeschild des Landes. Auch bei de diesjährigen COOLinaria - der Fachtagung für Küche und Gastronomie - diskutierten Fachleute aus Küche und Lebensmittelproduktion über den bewussten Umgang mit Ressourcen und über die Umsetzung von Nachhaltigkeit im gastronomischen Alltag.  
-Küche und Service müssen eng zusammenarbeiten, damit Wein und Speisen harmonisch aufeinander abgestimmt werden. Neben Fachwissen sind dabei auch Gespür, Aufmerksamkeit und der persönliche Umgang mit den Gästen gefragt. Gleichzeitig verändern sich auch die Erwartungen vieler Gäste: Persönliche Beratung, ein entspannter Zugang zum Thema Wein und individuelle Empfehlungen gewinnen zunehmend an Bedeutung.</desc>
-  </programme>
-  <programme start="20260605215000 +0200" stop="20260605215919 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Bildmuseum</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260605221000 +0200" stop="20260605223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260606180000 +0200" stop="20260606183500 +0200" channel="Rai Südtirol">
     <title>Master Up</title>
     <sub-title>Folge 1</sub-title>
@@ -288,6 +235,28 @@ von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses 
 Startpunkt der filmischen Reise ist die Premiere des ersten Bühnenprogramms von Buonomemes in Hallwang (Salzburg). Die Tour führt ihn auch in seine Heimat. Doch Südtirol ist ein schwieriges Pflaster, sagt der 27-Jährige. Wie wird er im Vinschgau empfangen? &quot;Griasst Enk&quot; ist ein sehr persönliches und unkommentiertes Porträt über einen der talentiertesten Entertainer der Gen Z.</desc>
   </programme>
   <programme start="20260613221000 +0200" stop="20260613223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260614200000 +0200" stop="20260614202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260614202000 +0200" stop="20260614205500 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 3</sub-title>
+    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
+
+Der Gewinner bzw. die Gewinnerin dieses kreativen Wettstreits zieht dann ins große Finale ein. In dieser Folge messen sich Claudio Marzi von Geomatrix und Alexia Giapoulis von Wavelab.</desc>
+  </programme>
+  <programme start="20260614205500 +0200" stop="20260614205900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260614221000 +0200" stop="20260614223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
