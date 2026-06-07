@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260606180000 +0200" stop="20260606183500 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 1</sub-title>
-    <desc>Es gibt eine Fortsetzung der Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
-Die Talkshow von Rai Südtirol ist der Innovation gewidmet. Der Gewinner bzw. Die Gewinnerin zieht dann ins große Finale ein. In dieser ersten Folge messen sich Davide Loris von Sanevo und Massimo Penasa von Caemate.</desc>
-  </programme>
-  <programme start="20260606183500 +0200" stop="20260606185923 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Stegen</sub-title>
-    <desc>Viele kennen die Brunecker Fraktion wegen des größten Marktes von Tirol, der alljährlich im
-Oktober am Stegener Marktplatz stattfindet. Ortskundige stellen die Besonderheiten von Stegen
-vor. Während der Fraktionsvorsteher Albin Pramstaller durch das Dorf führt, erinnert sich
-Pfarrgemeinderatspräsident Johann Hilber an vergangene Tage. Seine Schwester Maria Hilber
-hat eine Festschrift über die 1000-Jahr-Feier von Stegen verfasst. Im Dorfgasthaus zur Linde
-beim &quot;Branntweiner&quot; wird heute noch anlässlich des Stegener Marktes die traditionelle Saure
-Suppe gekocht. Und wenn es um Weltklasse-Eisstockschießen geht, dann haben vor allem die
-Damen aus Stegen die Nase vorn.</desc>
-  </programme>
-  <programme start="20260606200000 +0200" stop="20260606202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260606202000 +0200" stop="20260606202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260606202400 +0200" stop="20260606210300 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Helmut &quot; Frederick&quot; Pinggera</sub-title>
-    <desc>Ein Herzproblem verändert vor einigen Jahren das Leben von Helmut Pinggera grundlegend. Während einer Reha in Tisens beginnt er zu schreiben, Musik zu machen und Kunst zu schaffen.  
-Aus dem ehemaligen Lehrer und Regionalentwickler wird &quot;Frederick&quot; - Künstler, Musiker und Autor. Doch das eigentliche Momentum folgt ein paar Jahre später: Seine Frau Maria erleidet einen epileptischen Anfall und stürzt aus dem Fenster der Wohnung. Von einem Moment auf den anderen verändert sich das gemeinsame Leben radikal. 
-Die neue Folge von &quot;Momentum begleitet Helmut &quot;Frederick&quot; Pinggera und seine Frau Maria zwischen Bruneck, Stilfs und dem Gardasee. Sie erzählt von Herkunft und Veränderung, von Kunst als Ausdruck innerer Prozesse - und von einem tiefen Vertrauen ins Leben, das auch in schwierigen Zeiten trägt.</desc>
-  </programme>
-  <programme start="20260606221000 +0200" stop="20260606223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260607200000 +0200" stop="20260607202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
