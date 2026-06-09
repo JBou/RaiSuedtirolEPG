@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260608180000 +0200" stop="20260608181430 +0200" channel="Rai Südtirol">
-    <title>Fußball-Arena</title>
-    <sub-title/>
-    <desc>Am Wochenende fällt die letzte Entscheidung im Amateurfußball vor der Sommerpause: Die Tabellenzweiten der beiden Kreise in der 1. Amateurliga spielen im direkten Duell um den letzten Aufstiegsplatz in die Landesliga. Zum Saisonende küren wir auch die Top-Elf der Ober- und Landesliga.</desc>
-  </programme>
-  <programme start="20260608181400 +0200" stop="20260608183330 +0200" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Kochen kinderleicht - Schüttelbrot-Gemüse- Knödel</sub-title>
-    <desc>Kinderköchin Linda bereitet gemeinsam mit Kochlehrerin Martina ein typisches Südtiroler Gericht zu: Knödel aus traditionellem Schüttelbrot. Dafür muss Linda das harte Schüttelbrot zunächst mit einem Nudelholz zu feinen Krümeln zerstoßen und anschließend mit verschiedenen Zutaten - darunter frisches Gemüse - zu runden Knödeln formen. Das ist gar nicht so einfach, doch Martina kennt wie immer hilfreiche Tricks, die das Kochen kinderleicht machen.</desc>
-  </programme>
-  <programme start="20260608183400 +0200" stop="20260608185837 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Nals</sub-title>
-    <desc>Das sogenannte Dorf der Rosen ist bekannt für seine historischen Gebäude, seinen schmackhaften Weißwein, seine kreativen Menschen und eine Ziehorgelwerkstatt. Von der reichen Geschichte in Nals zeugen rätische Kultplätze, die spätbarocke Kirche, aber auch Schloss Payersberg aus dem 13.Jh., das von Reichtum, Brand und Wiederaufbau erzählt. Alex Malpaga, Landwirt und Schlossherr, zeigt auf persönliche Weise, wie das Gebäude über Generationen hinweg gepflegt wurde. Nals ist neben Obst- und Weinanbau und bekannt für seinen Sirmian - einen berühmten Weißburgunder. Floristin Sarah Götsch, Modedesignerin Barbara von Pföstl und Kräuterexpertin Jutta Tappeiner, gestalten mit regionalem Können den Dorfalltag. Der 86-jährige Mineraliensammler Georg Unterrainer bewahrt lokale Mineralien als Kulturgut, während die Ziehorgel-Werkstatt der Familie Geier Generationen und Klangtradition kreativ zusammenschließt.</desc>
-  </programme>
-  <programme start="20260608200000 +0200" stop="20260608202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260608202000 +0200" stop="20260608212547 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20260608212500 +0200" stop="20260608215903 +0200" channel="Rai Südtirol">
-    <title>Das Thema: Brennerroute</title>
-    <sub-title/>
-    <desc>Die Reportage von Andreas Niederkofler gibt einen eindrucksvollen Einblick in den Arbeitsalltag der Polizei entlang der Brennerachse, einer der wichtigsten Nord-Süd-Verbindungen Europas. Zwischen Autobahn, Bundesstraße und Bahnlinie begleitet das Kamerateam italienische, österreichische und deutsche Einsatzkräfte bei ihren gemeinsamen Kontrollen gegen illegale Migration, Schleusungskriminalität sowie grenzüberschreitende Delikte. Seit der großen Flüchtlingsbewegung 2015/2016 hat sich die Bedeutung der Brennerroute verändert, doch der Kontrolldruck ist hoch geblieben. Die Reportage zeigt, wie Polizist:innen Fahrzeuge, Reisebusse und Züge stichprobenartig überprüfen, wie sie mit fehlenden Papieren, falschen Angaben und teils angespannten Situationen umgehen - und wie eng die internationale Zusammenarbeit heute funktioniert. Neben der sicherheitsrelevanten Seite rückt der Film auch die menschliche Dimension in den Fokus: Migrant:innen und Migranten mit unterschiedlichen Schicksalen treffen auf Beamte, die zwischen klaren gesetzlichen Vorgaben und persönlicher Verantwortung handeln müssen. Die Reportage macht deutlich: Illegale Migration ist weniger sichtbar geworden, aber längst nicht verschwunden - und erfordert weiterhin Aufmerksamkeit, Kooperation und Augenmaß.</desc>
-  </programme>
-  <programme start="20260608221000 +0200" stop="20260608223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260609200000 +0200" stop="20260609202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
