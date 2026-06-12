@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260611200000 +0200" stop="20260611202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260611202000 +0200" stop="20260611204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Junge Musikszene Südtirols</sub-title>
-    <desc>Sie sind jung, musikalisch und sprengen die Sprachgrenzen - die junge Südtiroler Musikszene. 
-
-Die junge Südtiroler Musikszene sprüht vor kreativer Energie und sprengt mutig alte Genregrenzen. Zwischen alpiner Tradition und urbanen Einflüssen entwickeln sie einen eigenen Sound, der über die Landesgrenzen hinaus Gehör findet. Ob Mundart-Pop oder elektronische Experimente - hier trifft tief verwurzelte Identität auf den Puls der Zeit. Über fehlende Räumlichkeiten für Konzerte in Bozen sprechen wir mit unserem Gast, Thomas Brancaglion, Gemeinderat und Musiker. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku über den Musiker Max von Milland und wir begleiten Daniela Thaler auf ihrer Reise durch Kanada. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260611221000 +0200" stop="20260611223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260612180000 +0200" stop="20260612182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Die Junge Musikszene Südtirols</sub-title>
@@ -122,6 +105,192 @@ Der Gewinner bzw. die Gewinnerin dieses kreativen Wettstreits zieht dann ins gro
     <desc/>
   </programme>
   <programme start="20260614221000 +0200" stop="20260614223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260615180000 +0200" stop="20260615182930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Die Stadtbibliothek Brixen als Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, der indigen Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen und das &quot;Kornische&quot; sind Themen dieser Ausgabe.  
+Schwerpunkt Kornisch im Süden Englands: Das Kornische, die keltische Sprache Cornwalls, erhielt im Januar 2026 durch die Aufnahme in die EU-Sprachencharta den höchsten offiziellen Schutzstatus. Nach ihrer Anerkennung als Minderheitensprache im Jahr 2002 markiert dieser jüngste rechtliche Meilenstein einen historischen Sieg gegen das Aussterben einer jahrtausendealten Sprache. Durch die neue Schutzverpflichtung wird das Kornische nun aktiv in Bildung, Justiz und Medien gefördert, um die sprachliche Identität der letzten bedrohten Kelten-Sprache der EU dauerhaft zu sichern. Die Wiederbelebung des Kornischen gelingt vor allem durch die Verankerung in der Alltagskultur, wo moderne Musik, lokale Literatur und zweisprachige Festivals der Sprache eine neue, lebendige Stimme verleihen. Vom 8. bis 9. Mai 2026 wird die Stadtbibliothek Brixen zum Zentrum der &quot;Alpinen Poesie der Gegenwart&quot;, wenn 15 Lyriker:innen aus drei Ländern ihre neuesten Werke präsentieren. Das Festival vereint die sprachliche Vielfalt der bündnerromanischen, dolomitenladinischen und friaulischen Gemeinschaften, um den literarischen Reichtum der Alpen sichtbar zu machen. Durch eigens verfasste Gedichte und einen grenzüberschreitenden Austausch stärkt die Veranstaltung die kulturelle Bande innerhalb der Alpenländer und feiert die Poesie als lebendige Brücke zwischen den Regionen. In Zusammenarbeit mit Survival International, einer globalen Bewegung, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe kommen der indigene Anführer Olimpio Santos Guajajara und seine Wald-Wächter:innen zu Wort. Minderheiten Neuigkeiten lokal und global im Minet-Telegramm. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20260615182900 +0200" stop="20260615185830 +0200" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Die Fußballerbilder zum Sammeln werden in Bozen gedruckt. Die Plattform Open Data Hub im NOI Techpark. Die traditionelle Lagerhaltung einer Meraner Eisenwarenhandlung.  
+Mit der Fußballweltmeisterschaft rücken wieder einmal die bunten Fußballer-Portraitbilder einer renommierten italienischen Marke in den Fokus. Generationen von Fußballfans in aller Welt haben diese Bilder gesammelt, getauscht und in ihre Sammelhefte geklebt.  Die Produktion findet in Bozen statt und erfordert spezielles technologisches Know-how beim Druck. 
+Auch im Open Data Hub des NOI Techpark wird gesammelt – allerdings digitale Daten. Diese &quot;lokale&quot; Plattform bietet Zugriff auf eine Fülle von Informationen über Südtirol, darunter Verkehrsströme, Umweltdaten und vieles mehr. Open Data Hub ermöglicht es Unternehmen und Start-ups, innovative digitale Anwendungen und Produkte zu entwickeln. 
+Im Gegensatz dazu setzt die Eisenwarenhandlung Brugnara in Meran weniger auf digitale Systeme als auf analoge Register, auf das gute Gedächtnis und das Fachwissen des Verkaufspersonals.  Das Geschäft ist bekannt für sein außergewöhnlich großes Sortiment an Eisen- und Haushaltswaren. Trend hat sich angesehen, warum sich die traditionelle Lagerhaltung bis heute bewährt hat.</desc>
+  </programme>
+  <programme start="20260615200000 +0200" stop="20260615202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260615202000 +0200" stop="20260615212000 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Biennale in der Festung Franzensfeste, private Sammler auf Schloss Tirol, die Projekte des Künstlers Matthias Vieider, Miriam Kaser, Barbara Westermann und Zita Pichler im Gespräch.  
+
+Von Mitte Juni bis November findet in der Festung Franzensfeste die zweite Ausgabe der FORT Biennale statt. Sie steht in diesem Jahr unter dem Titel &quot;Reclaiming Collective&quot;.  
+Das neue Stück des Theatervereins Praxenknecht ist ein Freilicht-Familientheater im Park der Villa Freischütz. Das theatralisch-musikalische Märchen erzählt die Geschichte eines Bienenstocks im Chaos. 
+Auf Schloss Tirol gewährt die große Sonderausstellung überraschende Einblicke in Südtiroler Privatsammlungen.  
+Die Brixnerin Miriam Kaser arbeitet als Schauspielerin und Regieassistentin in Südtirol sowie in Wien und ist neben dem Theater auch regelmäßig im Filmbereich tätig. Im Sommer spielt sie in Neil Simons Boulevardkomödie &quot;Gerüchte ... Gerüchte ...&quot; im Tschumpus in Brixen. 
+Matthias Vieider - Jahrgang 1990 - lebt als freischaffender Künstler in Wien. Er arbeitet vielseitig in den Bereichen Literatur, Musik und Performance und tritt ebenso als Schriftsteller wie als Musiker auf.  
+Im Studio begrüßt Alex Lechner außerdem Barbara Westermann, die technische Leiterin von Tanz Bozen, sowie die aus Meran stammende Bühnenbildnerin Zita Pichler.</desc>
+  </programme>
+  <programme start="20260615212000 +0200" stop="20260615215100 +0200" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>Tausch dich reich</sub-title>
+    <desc>Immer wieder schaffen es clevere Händler, mit scheinbar wertlosen Gegenständen Schritt für Schritt zu etwas ganz Großem zu gelangen. Genau die richtige Herausforderung für Schach Max.  
+
+Tauschgeschäfte boomen - ob Sammelkarten, Vintage-Mode oder Online-Tauschplattformen: Die Faszination, aus wenig immer mehr zu machen, begeistert Menschen seit jeher. In der neuen Folge startet Max von Milland mit nichts weiter als einer einfachen Büroklammer. Seine Mission: sich Stück für Stück nach oben zu tauschen - immer weiter, immer wertvoller. Was zunächst unmöglich klingt, entwickelt sich schnell zu einem spannenden Abenteuer voller überraschender Begegnungen, skurriler Deals und jeder Menge Verhandlungsgeschick. 
+Ob Max es tatsächlich schafft, sich von einer Büroklammer bis zu einer Yacht in Porto Cervo hochzutauschen?</desc>
+  </programme>
+  <programme start="20260615215100 +0200" stop="20260615215930 +0200" channel="Rai Südtirol">
+    <title>Im Dienst der Burg</title>
+    <sub-title>Karla und Thomas Franzelin</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260615221000 +0200" stop="20260615223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260616200000 +0200" stop="20260616202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260616202000 +0200" stop="20260616203430 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260616203500 +0200" stop="20260616204803 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Zweite Sellaturm</sub-title>
+    <desc>Hüttenwirt David Piazza und die ehemalige Skispringerin Barbara Stuffer klettern zusammen mit Bergführer Manni Stuffer auf den Zweiten Sellaturm. 
+
+Der Zweite Sellaturm ist mit seinen knapp 2600 Metern Höhe nur ein Zwerg neben den Giganten der Dolomiten. Wie schön es da oben trotzdem sein kann, erzählen der Wirt der Raschötzhütte David Piazza und die ehemalige Skispringerin Barbara Stuffer, beide aus Grödner. Geführt vom Bergführer Manfred Stuffer, klettern sie zusammen über den Normalweg bis zum Gipfel, wo der Hüttenwirt mit seinem Alphorn für eine ganz besondere Stimmung sorgt.  
+Gipfelerlebnisse ist ein TV-Reihe von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20260616221000 +0200" stop="20260616223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260617200000 +0200" stop="20260617202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260617202000 +0200" stop="20260617204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>25 Jahre MIDAS für den Schutz von Minderheiten-Zeitungen, die Goralen, eine bäuerliche Minderheit in den polnischen Karpaten, der Schutz des Frankprovenzalischen in Aosta. Es moderiert Christina Khuen. 
+
+Seit 25 Jahren setzt sich die europäische Vereinigung MIDAS für den Schutz, den Austausch und die Sichtbarkeit von Tageszeitungen in Minderheitensprachen ein. Kürzlich gab es ein Treffen in Bozen. ist.  
+Die Goralen sind eine Bergbauern-Volksgruppe im Herzen der polnischen Karpaten. Über Jahrhunderte haben sie ihre markanten Mundart, die lebendige Musiktradition und das kunstvolle Handwerk bewahrt.  
+Das BREL-Institut in Aosta widmet sich der Erforschung und dem Schutz der alpinen Identität der Region. Im Fokus stehen dabei die Pflege des frankoprovenzalischen Dialekts sowie der Aufbau eines multimedialen Archivs, das Traditionen und Geschichte des Aostatals für die Zukunft bewahrt.  
+In Zusammenarbeit mit Survival International, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe zeigen wir ein Bildungsvideo, das sich an Grundschulkinder richtet.</desc>
+  </programme>
+  <programme start="20260617221000 +0200" stop="20260617223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260618200000 +0200" stop="20260618202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260618202000 +0200" stop="20260618204854 +0200" channel="Rai Südtirol">
+    <title>3 Frauen, 1 Ziel</title>
+    <sub-title>Uganda - Wo Hilfe Zukunft schafft</sub-title>
+    <desc>Was bewirkten Entwicklungsprojekte aus Südtirol in Uganda? Diese Frage führt Landesrätin Rosmarie Pamer, Caritas-Direktorin Beatrix Mairhofer und Irene Obexer vom Missionsamt nach Ostafrika.  
+
+Die Dokumentation von Filmemacher Wolfgang Penn begleitet sie zu Flüchtlingslagern, Schulen, Ausbildungszentren und einem Gesundheitszentrum. Überall erleben sie, wie die Unterstützung aus Südtirol den Menschen hilft, den Alltag zu meistern, neue Perspektiven zu entwickeln und ihre Gemeinschaft zu stärken. Die Reise zeigt, wie vielfältig das Engagement ist, welche Wirkung Partnerschaften entfalten und wie Solidarität über Grenzen hinweg ankommt. Durch direkte Begegnungen und Gespräche werden die Herausforderungen sichtbar, denen die Menschen gegenüberstehen, aber auch die Fortschritte, die durch Bildung, Ausbildung und gezielte Hilfe möglich werden.</desc>
+  </programme>
+  <programme start="20260618221000 +0200" stop="20260618223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260619180000 +0200" stop="20260619185930 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Biennale in der Festung Franzensfeste, private Sammler auf Schloss Tirol, die Projekte des Künstlers Matthias Vieider, Miriam Kaser, Barbara Westermann und Zita Pichler im Gespräch.  
+Von Mitte Juni bis November findet in der Festung Franzensfeste die zweite Ausgabe der FORT Biennale statt. Sie steht in diesem Jahr unter dem Titel &quot;Reclaiming Collective&quot;.  
+Das neue Stück des Theatervereins Praxenknecht ist ein Freilicht-Familientheater im Park der Villa Freischütz. Das theatralisch-musikalische Märchen erzählt die Geschichte eines Bienenstocks im Chaos. 
+Auf Schloss Tirol gewährt die große Sonderausstellung überraschende Einblicke in Südtiroler Privatsammlungen.  
+Die Brixnerin Miriam Kaser arbeitet als Schauspielerin und Regieassistentin in Südtirol sowie in Wien und ist neben dem Theater auch regelmäßig im Filmbereich tätig. Im Sommer spielt sie in Neil Simons Boulevardkomödie &quot;Gerüchte ... Gerüchte ...&quot; im Tschumpus in Brixen. 
+Matthias Vieider - Jahrgang 1990 - lebt als freischaffender Künstler in Wien. Er arbeitet vielseitig in den Bereichen Literatur, Musik und Performance und tritt ebenso als Schriftsteller wie als Musiker auf.  
+Im Studio begrüßt Alex Lechner außerdem Barbara Westermann, die technische Leiterin von Tanz Bozen, sowie die aus Meran stammende Bühnenbildnerin Zita Pichler.</desc>
+  </programme>
+  <programme start="20260619200000 +0200" stop="20260619202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260619202000 +0200" stop="20260619210500 +0200" channel="Rai Südtirol">
+    <title>Der Hirnforscher Valentin von Braitenberg</title>
+    <sub-title>Betriebsspionage beim lieben Gott für die Computer der Zukunft</sub-title>
+    <desc>Der Mediziner, Kybernetiker, Musiker, Literat und Philosoph Valentin von Braitenberg wäre am 18. Juni 100 Jahre alt geworden. Die Dokumentation zeichnet seinen wissenschaftlichen Werdegang nach.  
+
+Zeit seines Lebens war sein Forschungsgegenstand das menschliche Gehirn. Er wollte wissen, wie Informationen im Gehirn gesteuert und verarbeitet werden. Und er entwickelte einfache Vehikel, selbstlaufende Maschinen als Vorläufer der heutigen künstlichen Intelligenz. Zu seinen Pionierarbeiten zählt die Erforschung der Stubenfliege an der Universität Neapel, er war außerdem Direktor des Instituts für biologische Kybernetik am Max-Planck-Institut in Tübingen. Welche Universität ihm in Südtirol vorschwebte und weshalb die Stadt Rovereto ihm die Ehrenbürgerschaft verlieh, erfährt man in der Dokumentation von Stefan Nicolini - mit Erinnerungen von Mitarbeiter:innen der ersten Stunde, Zeitzeugen, Freunden und Familienangehörigen.</desc>
+  </programme>
+  <programme start="20260619210500 +0200" stop="20260619214400 +0200" channel="Rai Südtirol">
+    <title>Momentum</title>
+    <sub-title>Helmut &quot;Frederick&quot; Pinggera</sub-title>
+    <desc>Ein Herzproblem verändert vor einigen Jahren das Leben von Helmut Pinggera grundlegend. Während einer Reha in Tisens beginnt er zu schreiben, Musik zu machen und Kunst zu schaffen. Aus dem ehemaligen Lehrer und Regionalentwickler wird &quot;Frederick&quot; - Künstler, Musiker und Autor. Doch das eigentliche Momentum folgt ein paar Jahre später: Seine Frau Maria erleidet einen epileptischen Anfall und stürzt aus dem Fenster der Wohnung. Von einem Moment auf den anderen verändert sich das gemeinsame Leben radikal. 
+Die neue Folge von &quot;Momentum begleitet Helmut &quot;Frederick&quot; Pinggera und seine Frau Maria zwischen Bruneck, Stilfs und dem Gardasee. Sie erzählt von Herkunft und Veränderung, von Kunst als Ausdruck innerer Prozesse - und von einem tiefen Vertrauen ins Leben, das auch in schwierigen Zeiten trägt.</desc>
+  </programme>
+  <programme start="20260619214400 +0200" stop="20260619215757 +0200" channel="Rai Südtirol">
+    <title>Zwischengas</title>
+    <sub-title>Eine filmische Kolumne</sub-title>
+    <desc>Simone Mayr und Angelika König suchen im Unterland nach besonderen Stilblüten und  einzigartigen Wortwechseln. Das Italienische hat dort im Südtiroler Dialekt Niederschlag gefunden, man sagt zum Nummernschild &quot;targa&quot;, zum Einschreiben &quot;raccomandata&quot;. Außerdem gibt es im südlichen Landesteil Mez per sort, Krautwalsch oder Varietäten wie Laivesòt, was für die Sprachwissenschaft Beweis für ein wahrhaftiges Zusammenleben der verschiedenen Sprachgruppen ist. Angelika König und Simone Mayr machen mit ihrer Giulia einen &quot;giro&quot; im Südtiroler Unterland, zwischen Leifers und Salurn.</desc>
+  </programme>
+  <programme start="20260619221000 +0200" stop="20260619223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260620180000 +0200" stop="20260620183328 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 3</sub-title>
+    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  Der Gewinner bzw. die Gewinnerin dieses kreativen Wettstreits zieht dann ins große Finale ein. In dieser Folge messen sich Claudio Marzi von Geomatrix und Alexia Giapoulis von Wavelab.</desc>
+  </programme>
+  <programme start="20260620183300 +0200" stop="20260620185926 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Unser Frau im Schnalstal</sub-title>
+    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der
+Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. Eine
+bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum,
+das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
+  </programme>
+  <programme start="20260620200000 +0200" stop="20260620202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260620202000 +0200" stop="20260620202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260620202400 +0200" stop="20260620205330 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Meraner HOP-Café , 60 Jahre Katholischer Familienverband, der Landart-Künstler Jan Langer und die Wildnispädagogin Lauretta Rudat, Autorin Waltraud Hönes und die Natur. 
+
+HOP ist die Abkürzung von house of prayer. Die Grundidee der weltweiten Bewegung ist die Etablierung von Gebetshäusern, um eine gesellschaftliche Transformation zu bewirken. Seit 2020 gibt es auch in Meran ein HOP. Um Miete und Nebenkosten zu finanzieren, gibt es jetzt ein HOP-Kaffeehaus. 
+Der Katholische Familienverband ist mit 15.000 Mitgliedsfamilien in zehn Bezirken und 122 Zweigstellen die stärkste organisierte Familienstruktur Südtirols. Zu Gast bei Claudia Schuler ist diesmal Angelika Mitterrutzner. Sie ist seit 35 Jahren beim KFS ehrenamtlich tätig und war zwölf Jahre dessen Präsidentin. 
+Er ist Landart-Künstler, sie ist Wildnispädagogin und Naturcoach: Lauretta Rudat und Jan Langer sind privat ein Paar und überprüfen nun beruflich in einer Vortragsreihe die Berührungspunkte ihrer Tätigkeit.  
+Um eine intakte Beziehung zwischen Mensch Natur wieder herzustellen, braucht es für Autorin Waltraut Hönes eine Herzens-Beziehung. Für die philosophische Rubrik hat sie einen Stein-Schrein besucht, den sie mit Gleichgesinnten zu Ehren der Mutter Erde aufgeschichtet hat.</desc>
+  </programme>
+  <programme start="20260620221000 +0200" stop="20260620223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
