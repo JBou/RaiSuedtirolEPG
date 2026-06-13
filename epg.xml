@@ -4,55 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260612180000 +0200" stop="20260612182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Die Junge Musikszene Südtirols</sub-title>
-    <desc>Sie sind jung, musikalisch und sprengen die Sprachgrenzen - die junge Südtiroler Musikszene. Die junge Südtiroler Musikszene sprüht vor kreativer Energie und sprengt mutig alte Genregrenzen. Zwischen alpiner Tradition und urbanen Einflüssen entwickeln sie einen eigenen Sound, der über die Landesgrenzen hinaus Gehör findet. Ob Mundart-Pop oder elektronische Experimente - hier trifft tief verwurzelte Identität auf den Puls der Zeit. Über fehlende Räumlichkeiten für Konzerte in Bozen sprechen wir mit unserem Gast, Thomas Brancaglion, Gemeinderat und Musiker. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku über den Musiker Max von Milland und wir begleiten Daniela Thaler auf ihrer Reise durch Kanada. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20260612182900 +0200" stop="20260612184330 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Die SportZeit auf Rai Südtirol beschäftigt sich diesmal mit zwei Nischensportarten, die in Südtirol aber Tradition haben. Der SSV Bozen Faustball spielt gerade um den möglichen Aufstieg in die erste österreischische Bundesliga. Und am Kalterer See boomt die Segelsaison, auch dank der prächtigen sommerlichen Bedingungen bereits jetzt im Frühjahr. Auch in der letzten Folge von SportZeit vor der Sommerpause, gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
-  </programme>
-  <programme start="20260612184400 +0200" stop="20260612185318 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Second Hand</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260612185300 +0200" stop="20260612185836 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Schildhöfe Passeiertal</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260612200000 +0200" stop="20260612202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260612202000 +0200" stop="20260612205000 +0200" channel="Rai Südtirol">
-    <title>Schach Max</title>
-    <sub-title>Tausch dich reich</sub-title>
-    <desc>Immer wieder schaffen es clevere Händler, mit scheinbar wertlosen Gegenständen Schritt für Schritt zu etwas ganz Großem zu gelangen. Genau die richtige Herausforderung für SchachMax.  
-
-Tauschgeschäfte boomen - ob Sammelkarten, Vintage-Mode oder Online-Tauschplattformen: Die Faszination, aus wenig immer mehr zu machen, begeistert Menschen seit jeher. In der neuen Folge startet Max von Milland mit nichts weiter als einer einfachen Büroklammer. Seine Mission: sich Stück für Stück nach oben zu tauschen - immer weiter, immer wertvoller. Was zunächst unmöglich klingt, entwickelt sich schnell zu einem spannenden Abenteuer voller überraschender Begegnungen, skurriler Deals und jeder Menge Verhandlungsgeschick. Ob Max es tatsächlich schafft, sich von einer Büroklammer bis zu einer Yacht in Porto Cervo hochzutauschen, sehen Sie in der neuen Folge SchachMax auf RAI Südtirol.</desc>
-  </programme>
-  <programme start="20260612205000 +0200" stop="20260612215000 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine Erlebniswanderung am Deutschnonsberg und drei kreative Frauen, die in ihren Werkstätten besondere Taschen anfertigen.  
-Theo Hendrich ist am Deutschnonsberg unterwegs, unter anderem auf einem der ältesten Pilgerwege im Alpenraum. Der etwas entlegene Deutschnonsberg ist ein leiser Kraftort mit vielen Wandermöglichkeiten und kulinarischen Überraschungen. Es ist gleichzeitig eine Wanderung entlang der unsichtbaren Grenze zwischen zwei Kulturen.  
-Petra Tschenett besucht anschließend drei Frauen in ihren Werkstätten und bewundert deren Leidenschaft, die in jeder einzelnen ihrer Taschen steckt: Mariana Frühauf, die mit innovativen Formen und mutigen Farbkonzepten überzeugt, Monika Kienzl, wo traditionelle Handwerkskunst auf alpine Inspiration trifft und Doris Oberfrank, die für ihre Materialien und klaren Designs bekannt ist. Ein Blick hinter die Kulissen eines kreativen Handwerks.</desc>
-  </programme>
-  <programme start="20260612215000 +0200" stop="20260612215829 +0200" channel="Rai Südtirol">
-    <title>Kunst und Landwirtschaft</title>
-    <sub-title>Paul Thuiles Rosengartenhof in Gargazon</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260612221000 +0200" stop="20260612223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260613180000 +0200" stop="20260613183500 +0200" channel="Rai Südtirol">
     <title>Master Up</title>
     <sub-title>Folge 2</sub-title>
@@ -291,6 +242,28 @@ Er ist Landart-Künstler, sie ist Wildnispädagogin und Naturcoach: Lauretta Rud
 Um eine intakte Beziehung zwischen Mensch Natur wieder herzustellen, braucht es für Autorin Waltraut Hönes eine Herzens-Beziehung. Für die philosophische Rubrik hat sie einen Stein-Schrein besucht, den sie mit Gleichgesinnten zu Ehren der Mutter Erde aufgeschichtet hat.</desc>
   </programme>
   <programme start="20260620221000 +0200" stop="20260620223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260621200000 +0200" stop="20260621202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260621202000 +0200" stop="20260621205500 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 4</sub-title>
+    <desc>Zwei kreative Köpfe stellen ihre Geschäftsidee vor und werden hinterher von einer strengen Fachjury beurteilt. Moderation: Christine Lasta. 
+
+Im Stil von &quot;Der Höhle der Löwen&quot; präsentieren zwei junge Startups ihre zündende Idee und erklären, wie sie diese in die Tat umsetzen. Anschließend berät die dreiköpfige Jury, wer von den beiden die besseren Chancen hat, in der Wirtschaftswelt zu überleben.</desc>
+  </programme>
+  <programme start="20260621205500 +0200" stop="20260621205900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260621221000 +0200" stop="20260621223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
