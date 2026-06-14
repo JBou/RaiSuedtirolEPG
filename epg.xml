@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260613180000 +0200" stop="20260613183500 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 2</sub-title>
-    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury. Der Wettstreit der kreativen Köpfe ist der Innovation gewidmet. Der Gewinner bzw. die Gewinnerin zieht dann ins große Finale ein. In dieser Folge messen sich Stevie Schneider von Bikeflip, einer Plattform für gebrauchte Fahrräder, und Roland Mall von Biotitan, ein Startup, das Nanotechnologie in vielen Bereichen des Alltags einsetzt.</desc>
-  </programme>
-  <programme start="20260613183500 +0200" stop="20260613185915 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Staben</sub-title>
-    <desc>Seit der Eröffnung der Tunnelumfahrung hat das Vinschger Dorf Staben an Lebensqualität gewonnen, auch die Lage direkt am Vinschger Radweg tragen zum ständigen Wachsen der Fraktion bei. Bekannt war in Staben einst das Bauernbadl Bad Kochenmoos, da einer Schwefelquelle 1892 &quot;äußerst heilkräftige&quot; Wirkung zugeschrieben wurde. Im Jahre 2012 wurde die Quellfassung saniert und eine Ruheoase am Quellwasser gestaltet. Das Wasser und der Waal spielen im Vinschgau eine bedeutende Rolle, während der Verein &quot;Freunde der Eisenbahn&quot;
-besonders stolz auf seinen Landessitz am Bahnhof in Staben ist. Dieser Erlebnisbahnhof wird
-von Jung und Alt genutzt. Er erinnert zudem an die historische Bedeutung dieses Bahnhofes während der Donaumonarchie.</desc>
-  </programme>
-  <programme start="20260613200000 +0200" stop="20260613202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260613202000 +0200" stop="20260613202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260613202400 +0200" stop="20260613212200 +0200" channel="Rai Südtirol">
-    <title>Griasst Enk</title>
-    <sub-title>Buonomemes - Vom Internet auf die Bühne</sub-title>
-    <desc>Buonomemes ist Südtirols erfolgreichster Comedy-Influencer. Das Internet ist seine Welt. Jetzt will Gabriel Mair - so sein bürgerlicher Name - auch die Bühne erobern. Die Dokumentation von Filmemacher Alexander Lechner begleitet den Influencer auf seinem Weg vom Internet-Star zum Live-Künstler.  
-
-Startpunkt der filmischen Reise ist die Premiere des ersten Bühnenprogramms von Buonomemes in Hallwang (Salzburg). Die Tour führt ihn auch in seine Heimat. Doch Südtirol ist ein schwieriges Pflaster, sagt der 27-Jährige. Wie wird er im Vinschgau empfangen? &quot;Griasst Enk&quot; ist ein sehr persönliches und unkommentiertes Porträt über einen der talentiertesten Entertainer der Gen Z.</desc>
-  </programme>
-  <programme start="20260613221000 +0200" stop="20260613223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260614200000 +0200" stop="20260614202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
