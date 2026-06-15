@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260614200000 +0200" stop="20260614202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260614202000 +0200" stop="20260614205500 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  
-
-Der Gewinner bzw. die Gewinnerin dieses kreativen Wettstreits zieht dann ins große Finale ein. In dieser Folge messen sich Claudio Marzi von Geomatrix und Alexia Giapoulis von Wavelab.</desc>
-  </programme>
-  <programme start="20260614205500 +0200" stop="20260614205900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260614221000 +0200" stop="20260614223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260615180000 +0200" stop="20260615182930 +0200" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
