@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260617200000 +0200" stop="20260617202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260617202000 +0200" stop="20260617204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>25 Jahre MIDAS für den Schutz von Minderheiten-Zeitungen, die Goralen, eine bäuerliche Minderheit in den polnischen Karpaten, der Schutz des Frankprovenzalischen in Aosta. Es moderiert Christina Khuen. 
-
-Seit 25 Jahren setzt sich die europäische Vereinigung MIDAS für den Schutz, den Austausch und die Sichtbarkeit von Tageszeitungen in Minderheitensprachen ein. Kürzlich gab es ein Treffen in Bozen. ist.  
-Die Goralen sind eine Bergbauern-Volksgruppe im Herzen der polnischen Karpaten. Über Jahrhunderte haben sie ihre markanten Mundart, die lebendige Musiktradition und das kunstvolle Handwerk bewahrt.  
-Das BREL-Institut in Aosta widmet sich der Erforschung und dem Schutz der alpinen Identität der Region. Im Fokus stehen dabei die Pflege des frankoprovenzalischen Dialekts sowie der Aufbau eines multimedialen Archivs, das Traditionen und Geschichte des Aostatals für die Zukunft bewahrt.  
-In Zusammenarbeit mit Survival International, die indigenen Völkern eine Stimme verleihen möchte, lassen wir Menschen zu Wort kommen, die für ihre Rechte einstehen. In dieser Ausgabe zeigen wir ein Bildungsvideo, das sich an Grundschulkinder richtet.</desc>
-  </programme>
-  <programme start="20260617221000 +0200" stop="20260617223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260618200000 +0200" stop="20260618202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
