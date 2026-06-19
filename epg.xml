@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260618200000 +0200" stop="20260618202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260618202000 +0200" stop="20260618204854 +0200" channel="Rai Südtirol">
-    <title>3 Frauen, 1 Ziel</title>
-    <sub-title>Uganda - Wo Hilfe Zukunft schafft</sub-title>
-    <desc>Was bewirkten Entwicklungsprojekte aus Südtirol in Uganda? Diese Frage führt Landesrätin Rosmarie Pamer, Caritas-Direktorin Beatrix Mairhofer und Irene Obexer vom Missionsamt nach Ostafrika.  
-
-Die Dokumentation von Filmemacher Wolfgang Penn begleitet sie zu Flüchtlingslagern, Schulen, Ausbildungszentren und einem Gesundheitszentrum. Überall erleben sie, wie die Unterstützung aus Südtirol den Menschen hilft, den Alltag zu meistern, neue Perspektiven zu entwickeln und ihre Gemeinschaft zu stärken. Die Reise zeigt, wie vielfältig das Engagement ist, welche Wirkung Partnerschaften entfalten und wie Solidarität über Grenzen hinweg ankommt. Durch direkte Begegnungen und Gespräche werden die Herausforderungen sichtbar, denen die Menschen gegenüberstehen, aber auch die Fortschritte, die durch Bildung, Ausbildung und gezielte Hilfe möglich werden.</desc>
-  </programme>
-  <programme start="20260618221000 +0200" stop="20260618223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260619180000 +0200" stop="20260619185930 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -116,6 +99,185 @@ Im Stil von &quot;Der Höhle der Löwen&quot; präsentieren zwei junge Startups 
     <desc/>
   </programme>
   <programme start="20260621221000 +0200" stop="20260621223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260622175900 +0200" stop="20260622184448 +0200" channel="Rai Südtirol">
+    <title>Frühsommer im steirischen Joglland</title>
+    <sub-title>Bergdörfer</sub-title>
+    <desc>Nahe Fürstenfeld erstreckt sich im Nordosten der Steiermark eine sanfte und bewaldete Region, die die Menschen dort liebevoll &quot;Joglland&quot; nennen. Der höchste Gipfel, der Rabenwaldkogel, ist 1300 m hoch. Ähnlich wie die Waldheimat verdankt auch diese Gegend ihre Bekanntheit dem Volksdichter Peter Rosegger, der in Krieglach als Bergbauernkind aufgewachsen ist.
+Filmemacher Alfred Ninaus legt sein Augenmerk auf die Menschen, die hier leben: die Bergbauern Silvia und Peter Karelly aus Fischbach oder Gerald und Martina Hofreiter aus St. Jakob im Walde,</desc>
+  </programme>
+  <programme start="20260622184400 +0200" stop="20260622185855 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Klettern am Gardasee</sub-title>
+    <desc>Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino.</desc>
+  </programme>
+  <programme start="20260622200000 +0200" stop="20260622202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260622202000 +0200" stop="20260622215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut: Stillstand - ein Tag ohne Migration in Südtirol</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Ohne sie läuft's in Südtirol nicht mehr: die Ausländer. Denken wir sie uns für einen Tag weg - was passiert dann? Stillstand. Welche Verantwortung haben wir für die Menschen, die für uns arbeiten?  
+
+Regisseurin Audrey Schwarz hat aus der Idee ein beeindruckendes Szenario für Industrie, Pflege, Hotellerie, Bau- und Landwirtschaft und Handel entwickelt, der Titel ihrer Reportage klingt nach Fazit: &quot;Stillstand&quot;. Rechnen wir den Tag auf Jahre hoch, ist unser Wohlstand weg. Warum behandeln wir dann Menschen mit ausländischem Pass oft, als würden wir sie nicht brauchen? Und welche Verantwortung haben wir für die Menschen, die für uns arbeiten? Das ist Thema im Talk. Es sprechen der Unternehmer Lukas Pfitscher, Vladimíra Zubková, Heimgehilfin im Jesuheim, Ivo De Gennaro, Professor für Philosophie der Ökonomie an der unibz, und Roland Lazzeri, Bürgermeister von Salurn. Im Interview: Arbeitsvermittler Rudolf Messner und Christof Brandt, Präsident des Verbands der Hauseigentümer. Gabriele Crepaz moderiert. Live aus der Eurac in Bozen.</desc>
+  </programme>
+  <programme start="20260622221000 +0200" stop="20260622223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260623200000 +0200" stop="20260623202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260623202000 +0200" stop="20260623204719 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Prost oder Preis? Trinkkultur in Südtirol</sub-title>
+    <desc>In der ersten Ausgabe von kontrovers sucht Moderatorin Maddalena Quaia gemeinsam mit ihren Gästen Anna von Anstein und Aaron Kerschbaumer nach Antworten.  
+
+Beim Törggelen gehört der Wein dazu. Nach der Jagd das Schnäpschen. Nach dem Fußball das Bier. In Südtirol ist Alkohol mehr als ein Getränk - er ist Ritual, Gemeinschaft, Tradition. Weitergegeben von Generation zu Generation. Oft ganz selbstverständlich. Oft ohne böse Absicht. Aber hinter der geselligen Fassade steckt eine Frage, über die kaum jemand laut spricht: Wo endet der Genuss - und wo beginnt das Problem? 
+Aaron Kerschbaumer ist 30 Jahre alt und trockener Alkoholiker - er weiß, wie schnell aus Normalität Abhängigkeit werden kann. Anna von Anstein arbeitet in der Alkohol-Prävention und beobachtet, dass sich in der Trinkkultur etwas verändert. Ein offenes Gespräch über Genuss, Verantwortung - und eine Gesellschaft im Wandel.</desc>
+  </programme>
+  <programme start="20260623221000 +0200" stop="20260623223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260624200000 +0200" stop="20260624202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260624202000 +0200" stop="20260624204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Aufbruch in eine neue Heimat: Südtiroler Familien verwirklichen ihren Traum vom eigenen Hof in Österreich. Patrizia und David, Daniela und Peter erzählen von den Freuden und Herausforderungen. 
+
+Als Patrizia und David Oberkofler vor 20 Jahren vergeblich nach einem Hof in Südtirol suchten, wagten sie einen Neuanfang im Burgenland. Dort fanden sie ein Hofgebäude mit fruchtbaren Grundstücken, ein Schritt, der sich lohnen sollte. Heute führen die beiden ein erfolgreiches Bio-Weingut. Doch die Herausforderungen bleiben auch nach zwei Jahrzehnten bestehen.  
+Ähnlich erging es Daniela und Peter Pircher. Ihr Traum vom eigenen Hof mit Vieh und Gästeangebot ließ sich in Südtirol nicht verwirklichen. Vor fünf Jahren zogen sie deshalb mit den beiden Kindern in die Oststeiermark, auf ein großes landwirtschaftliches Gut bei Pöllau. Für die Quereinsteiger war der Start alles andere als einfach. Mit viel Engagement und Ausdauer gelang es ihnen jedoch, ihren Demeter-Hof mit &quot;Urlaub am Bauernhof&quot; zu einem Vorzeigebetrieb auszubauen.</desc>
+  </programme>
+  <programme start="20260624221000 +0200" stop="20260624223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260625200000 +0200" stop="20260625202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260625202000 +0200" stop="20260625204718 +0200" channel="Rai Südtirol">
+    <title>Teneriffa</title>
+    <sub-title>Ein Auslandspraktikum</sub-title>
+    <desc>Wie wird aus Theorie gelebte Praxis? Und welche Erfahrungen prägen angehende Lehrpersonen wirklich? Wir begleiten Johanna Cont in eine deutsche Schule auf den Kanaren. 
+
+Fernab von Südtirol taucht Johanna Cont - Studentin der Bildungswissenschaften der unibz - taucht für mehrere Wochen in den Schulalltag einer privaten, zweisprachigen Schule in Puerto de la Cruz ein. Zwischen Palmen, Meeresluft und tropischem Klima erlebt sie eine Form des Unterrichtens, die von Nähe, Individualität und kreativen Lernformen geprägt ist. 
+Die Dokumentation von Peter Vonmetz zeigt, wie wichtig praktische Erfahrungen für die Ausbildung zukünftiger Lehrpersonen sind. Während ihres Auslandspraktikums lernt Johanna nicht nur neue Unterrichtsmethoden kennen, sondern auch eine andere pädagogische Kultur: kleine Klassen, jahrgangsübergreifender Unterricht, Lernen unter freiem Himmel und ein intensiver Austausch mit Kindern, Eltern und Lehrpersonen. Besonders prägend ist die Zusammenarbeit mit Lehrerin Loredana Siriu, die ihre Erfahrungen mit großer Offenheit an die nächste Generation weitergibt. Eine Geschichte über Lernen, Begegnungen und die Erkenntnis, dass die wichtigsten Erfahrungen oft außerhalb des Klassenzimmers entstehen.</desc>
+  </programme>
+  <programme start="20260625221000 +0200" stop="20260625223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260626180000 +0200" stop="20260626182930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Sommerpraktikum oder Ferialjob - wo liegen die Unterschiede? Die Promille-Zuweisung in der Steuererklärung. Die neue EU-Regeln zur Gentechnik.  
+Wo liegen die Unterschiede zwischen Sommerpraktikum und Ferialjob? Was passt zu wem und wo können sich Jugendliche näher informieren? Jetzt ist die Zeit der Steuererklärungen: Was steckt hinter der Zuteilung der 2-, 5- und 8-Promille-Anteile? Experten erklären, welche Folgen eine Unterschrift hat und was passiert, wenn keine Auswahl getroffen wird. Neue EU-Regeln zur Gentechnik sorgen derzeit europaweit für Diskussionen - auch in Südtirol. Künftig könnten bestimmte Lebensmittel, die mithilfe neuer gentechnischer Verfahren verändert wurden, ohne Kennzeichnung verkauft werden. Was bedeutet das für Verbraucher:innen in Südtirol? 
+Und in der Rubrik &quot;Innovation made in Südtirol&quot; sind wir diesmal bei Pichler Projects in Bozen zu Gast.</desc>
+  </programme>
+  <programme start="20260626182900 +0200" stop="20260626185830 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Das Meraner HOP-Café , 60 Jahre Katholischer Familienverband, der Landart-Künstler Jan Langer und die Wildnispädagogin Lauretta Rudat, Autorin Waltraud Hönes und die Natur. 
+HOP ist die Abkürzung von house of prayer. Die Grundidee der weltweiten Bewegung ist die Etablierung von Gebetshäusern, um eine gesellschaftliche Transformation zu bewirken. Seit 2020 gibt es auch in Meran ein HOP. Um Miete und Nebenkosten zu finanzieren, gibt es jetzt ein HOP-Kaffeehaus. 
+Der Katholische Familienverband ist mit 15.000 Mitgliedsfamilien in zehn Bezirken und 122 Zweigstellen die stärkste organisierte Familienstruktur Südtirols. Zu Gast bei Claudia Schuler ist diesmal Angelika Mitterrutzner. Sie ist seit 35 Jahren beim KFS ehrenamtlich tätig und war zwölf Jahre dessen Präsidentin. 
+Er ist Landart-Künstler, sie ist Wildnispädagogin und Naturcoach: Lauretta Rudat und Jan Langer sind privat ein Paar und überprüfen nun beruflich in einer Vortragsreihe die Berührungspunkte ihrer Tätigkeit.  
+Um eine intakte Beziehung zwischen Mensch Natur wieder herzustellen, braucht es für Autorin Waltraut Hönes eine Herzens-Beziehung. Für die philosophische Rubrik hat sie einen Stein-Schrein besucht, den sie mit Gleichgesinnten zu Ehren der Mutter Erde aufgeschichtet hat.</desc>
+  </programme>
+  <programme start="20260626200000 +0200" stop="20260626202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260626202000 +0200" stop="20260626210320 +0200" channel="Rai Südtirol">
+    <title>Naturdenkmäler in Südtirol - Der Osten</title>
+    <sub-title/>
+    <desc>Südtirols Naturdenkmäler sind eine ökologische und ästhetische Bereicherung unserer Landschaft. Die etwa 1000 Naturdenkmäler sind streng geschützt. Ein Film von Willi Rainer und Johannes Ortner. 
+
+Naturdenkmäler lassen sich in hydrologische, geologische und botanische Denkmäler einteilen. All diesen Naturschätzen möchte sich der Film in vielschichtiger Weise nähern: Besitzer:innen erzählen von ihrem persönlichen Verhältnis zum Naturdenkmal, Biolog:innen und Förster bringen uns den Wert des Naturdenkmals näher. Auch Geschichten und Sagen ranken sich um die Naturdenkmäler aufstöbern. Die Filmemacher Willi Rainer und Johannes Ortner waren im Osten Südtirols unterwegs.</desc>
+  </programme>
+  <programme start="20260626210400 +0200" stop="20260626214119 +0200" channel="Rai Südtirol">
+    <title>Reportage</title>
+    <sub-title>Jagd nach den Steinen</sub-title>
+    <desc>Im Inneren der Berge schlummern verborgene Schätze, funkelnde Kristalle und seltene
+Mineralien. Von den passionierten Strahlern, die im Ahrntal nach besonderen Mineralien suchen,
+über den Abenteurer, der in den Dolomiten nach Fossilien gräbt, bis hin zum Arbeiter, der den
+berühmten Laaser Marmor abbaut - sie alle verbindet die Lust auf die Jagd nach den Steinen.
+Nirgendwo sonst wird die Perfektion der Natur so deutlich wie in funkelnden Kristallen oder
+Fossilien aus längst vergangenen Tagen. Egal ob glasklar, violett oder tief dunkel schimmernd ?
+besondere Mineralien, Fossilien und sogar Marmor gibt es in ganz Südtirol zu finden. Unter teils
+abenteuerlichen Umständen suchen Mineraliensammler, Experten und Bergarbeiter nach
+außergewöhnlichen und verborgenen Schätzen in den Tiefen der Erde. Eine Reportage von Andreas Niederkofler.</desc>
+  </programme>
+  <programme start="20260626214100 +0200" stop="20260626215028 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Steinbruch Branzoll</sub-title>
+    <desc>Oberhalb von Branzoll war einst das Zentrum der Südtiroler Pflastersteinproduktion. Heute werden die vielen Arbeiter von einst durch moderne Maschinen ersetzt. Ein Film von Klaus Romen und Gerd Staffler.
+Der rote Bozner Quarzporphyr entstand vor 270 Millionen Jahren und ist vulkanischen Ursprungs.
+Seit dem 16. Jh. wird er vor allem im Unterland abgebaut. Die Blütezeit der Porphyr-Steinbrüche
+in Branzoll ist zwar vorbei, aber auch heute noch werden im Steinbruch oberhalb von Branzoll
+Pflastersteine und Platten gewonnen.
+Dort wo früher bis 500 Arbeiter beschäftigt waren, sind heute wenige Fachkräfte mit modernen Maschinen am Werk. Die Nachfrage nach Pflastersteinen besteht zwar noch, aber Großaufträge sind seltener geworden.</desc>
+  </programme>
+  <programme start="20260626215100 +0200" stop="20260626215923 +0200" channel="Rai Südtirol">
+    <title>Im Dienst der Burg</title>
+    <sub-title>Burg Taufers</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260626221000 +0200" stop="20260626223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260627175800 +0200" stop="20260627183234 +0200" channel="Rai Südtirol">
+    <title>Master Up</title>
+    <sub-title>Folge 4</sub-title>
+    <desc>Zwei kreative Köpfe stellen ihre Geschäftsidee vor und werden hinterher von einer strengen Fachjury beurteilt. Moderation: Christine Lasta. 
+Im Stil von &quot;Der Höhle der Löwen&quot; präsentieren zwei junge Startups ihre zündende Idee und erklären, wie sie diese in die Tat umsetzen. Anschließend berät die dreiköpfige Jury, wer von den beiden die besseren Chancen hat, in der Wirtschaftswelt zu überleben.</desc>
+  </programme>
+  <programme start="20260627183200 +0200" stop="20260627185845 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Burgstall</sub-title>
+    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der
+gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der
+Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen. Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
+  </programme>
+  <programme start="20260627200000 +0200" stop="20260627202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260627202100 +0200" stop="20260627202500 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260627202500 +0200" stop="20260627205430 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Der Restaurantführer Gault Millau kürt heuer Peter Girtler zum &quot;Koch des Jahres&quot; und Jakob Zeller zu den &quot;Newcomern des Jahres&quot;. Und was bedeutet Camping im Jahr 2026?  
+
+Der erste Beitrag begleitet die ausgezeichneten Köche durch ihren Alltag, vom Kräutergarten im Wipptal bis zum biodynamischen Gemüseanbau hoch über Eppan. Außerdem beleuchten wir die facettenreiche Welt des Campings - vom traditionsreichen Campingverband bis zum kleinen, familiären Platz in Laas: Was bedeutet Camping heute und wohin geht die Reise? 
+Der Zusammenhalt der Gastwirte in St. Martin kennt keine Grenzen. Seit vielen Jahren ziehen sie an einem Strang - auch konkret beim Tauziehen in Meran.</desc>
+  </programme>
+  <programme start="20260627221000 +0200" stop="20260627223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
