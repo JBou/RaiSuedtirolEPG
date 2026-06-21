@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260620180000 +0200" stop="20260620183328 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Die Talkshow im Stil von &quot;Die Höhle der Löwen&quot;:  Zwei Startups treten wieder mit innovativen Ideen gegeneinander an, bewertet von einer strengen Jury.  Der Gewinner bzw. die Gewinnerin dieses kreativen Wettstreits zieht dann ins große Finale ein. In dieser Folge messen sich Claudio Marzi von Geomatrix und Alexia Giapoulis von Wavelab.</desc>
-  </programme>
-  <programme start="20260620183300 +0200" stop="20260620185926 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Unser Frau im Schnalstal</sub-title>
-    <desc>Unser Frau im Schnalstal liegt auf rund 1500 m Höhe. Der Name des Dorfes rührt von der
-Wallfahrtskirche Unser Frau in Schnals her, die auf das frühe 14. Jahrhundert zurückgeht. Eine
-bedeutende Einrichtung im Ort ist der ArcheoParc Schnals, ein archäologisches Freilichtmuseum,
-das die Lebensumstände von &quot;Ötzi&quot; beleuchtet. Der Ort Unser Frau liegt unterhalb des Vernagt-Stausees. Er entstand vor rund 70 Jahren. Errichtet wurde eine 65 Meter hohe Staumauer. Im Stausee versanken acht Höfe und das &quot;Leiter-Kirchlein&quot;, dessen Turmspitze im Frühjahr bei niedrigem Wasserstand aus dem See ragt. Eine neu errichte kleine Kapelle befindet sich neben dem See. Jährlich findet dort im Mai ein Kirchtag statt. Oberhalb des Stausees liegen die schon im Mittelalter urkundlich genannten Bergbauernhöfe Tisenhof und Finailhof.</desc>
-  </programme>
-  <programme start="20260620200000 +0200" stop="20260620202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260620202000 +0200" stop="20260620202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260620202400 +0200" stop="20260620205330 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Das Meraner HOP-Café , 60 Jahre Katholischer Familienverband, der Landart-Künstler Jan Langer und die Wildnispädagogin Lauretta Rudat, Autorin Waltraud Hönes und die Natur. 
-
-HOP ist die Abkürzung von house of prayer. Die Grundidee der weltweiten Bewegung ist die Etablierung von Gebetshäusern, um eine gesellschaftliche Transformation zu bewirken. Seit 2020 gibt es auch in Meran ein HOP. Um Miete und Nebenkosten zu finanzieren, gibt es jetzt ein HOP-Kaffeehaus. 
-Der Katholische Familienverband ist mit 15.000 Mitgliedsfamilien in zehn Bezirken und 122 Zweigstellen die stärkste organisierte Familienstruktur Südtirols. Zu Gast bei Claudia Schuler ist diesmal Angelika Mitterrutzner. Sie ist seit 35 Jahren beim KFS ehrenamtlich tätig und war zwölf Jahre dessen Präsidentin. 
-Er ist Landart-Künstler, sie ist Wildnispädagogin und Naturcoach: Lauretta Rudat und Jan Langer sind privat ein Paar und überprüfen nun beruflich in einer Vortragsreihe die Berührungspunkte ihrer Tätigkeit.  
-Um eine intakte Beziehung zwischen Mensch Natur wieder herzustellen, braucht es für Autorin Waltraut Hönes eine Herzens-Beziehung. Für die philosophische Rubrik hat sie einen Stein-Schrein besucht, den sie mit Gleichgesinnten zu Ehren der Mutter Erde aufgeschichtet hat.</desc>
-  </programme>
-  <programme start="20260620221000 +0200" stop="20260620223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260621200000 +0200" stop="20260621202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
