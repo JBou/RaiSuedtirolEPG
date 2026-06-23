@@ -4,34 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260622175900 +0200" stop="20260622184448 +0200" channel="Rai Südtirol">
-    <title>Frühsommer im steirischen Joglland</title>
-    <sub-title>Bergdörfer</sub-title>
-    <desc>Nahe Fürstenfeld erstreckt sich im Nordosten der Steiermark eine sanfte und bewaldete Region, die die Menschen dort liebevoll &quot;Joglland&quot; nennen. Der höchste Gipfel, der Rabenwaldkogel, ist 1300 m hoch. Ähnlich wie die Waldheimat verdankt auch diese Gegend ihre Bekanntheit dem Volksdichter Peter Rosegger, der in Krieglach als Bergbauernkind aufgewachsen ist.
-Filmemacher Alfred Ninaus legt sein Augenmerk auf die Menschen, die hier leben: die Bergbauern Silvia und Peter Karelly aus Fischbach oder Gerald und Martina Hofreiter aus St. Jakob im Walde,</desc>
-  </programme>
-  <programme start="20260622184400 +0200" stop="20260622185855 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Klettern am Gardasee</sub-title>
-    <desc>Im Hinterland des Gardasees finden sich bis heute Stellungen und Befestigungen des Gebirgskrieges: Wo früher die Frontlinie des Ersten Weltkrieges verlaufen ist, gibt es heute zahlreiche Wander- und Klettermöglichkeiten. Mit Bice Bones aus dem Sarchetal und der Bozner Kletterer Klaus Zelger ist die Sendereihe Bergwelt unterwegs in den Felsen oberhalb von Pregasina an der Punta Larici im Trentino.</desc>
-  </programme>
-  <programme start="20260622200000 +0200" stop="20260622202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260622202000 +0200" stop="20260622215930 +0200" channel="Rai Südtirol">
-    <title>Nachgeschaut: Stillstand - ein Tag ohne Migration in Südtirol</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Ohne sie läuft's in Südtirol nicht mehr: die Ausländer. Denken wir sie uns für einen Tag weg - was passiert dann? Stillstand. Welche Verantwortung haben wir für die Menschen, die für uns arbeiten?  
-
-Regisseurin Audrey Schwarz hat aus der Idee ein beeindruckendes Szenario für Industrie, Pflege, Hotellerie, Bau- und Landwirtschaft und Handel entwickelt, der Titel ihrer Reportage klingt nach Fazit: &quot;Stillstand&quot;. Rechnen wir den Tag auf Jahre hoch, ist unser Wohlstand weg. Warum behandeln wir dann Menschen mit ausländischem Pass oft, als würden wir sie nicht brauchen? Und welche Verantwortung haben wir für die Menschen, die für uns arbeiten? Das ist Thema im Talk. Es sprechen der Unternehmer Lukas Pfitscher, Vladimíra Zubková, Heimgehilfin im Jesuheim, Ivo De Gennaro, Professor für Philosophie der Ökonomie an der unibz, und Roland Lazzeri, Bürgermeister von Salurn. Im Interview: Arbeitsvermittler Rudolf Messner und Christof Brandt, Präsident des Verbands der Hauseigentümer. Gabriele Crepaz moderiert. Live aus der Eurac in Bozen.</desc>
-  </programme>
-  <programme start="20260622221000 +0200" stop="20260622223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260623200000 +0200" stop="20260623202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
