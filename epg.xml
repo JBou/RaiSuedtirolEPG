@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260623200000 +0200" stop="20260623202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260623202000 +0200" stop="20260623204719 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Prost oder Preis? Trinkkultur in Südtirol</sub-title>
-    <desc>In der ersten Ausgabe von kontrovers sucht Moderatorin Maddalena Quaia gemeinsam mit ihren Gästen Anna von Anstein und Aaron Kerschbaumer nach Antworten.  
-
-Beim Törggelen gehört der Wein dazu. Nach der Jagd das Schnäpschen. Nach dem Fußball das Bier. In Südtirol ist Alkohol mehr als ein Getränk - er ist Ritual, Gemeinschaft, Tradition. Weitergegeben von Generation zu Generation. Oft ganz selbstverständlich. Oft ohne böse Absicht. Aber hinter der geselligen Fassade steckt eine Frage, über die kaum jemand laut spricht: Wo endet der Genuss - und wo beginnt das Problem? 
-Aaron Kerschbaumer ist 30 Jahre alt und trockener Alkoholiker - er weiß, wie schnell aus Normalität Abhängigkeit werden kann. Anna von Anstein arbeitet in der Alkohol-Prävention und beobachtet, dass sich in der Trinkkultur etwas verändert. Ein offenes Gespräch über Genuss, Verantwortung - und eine Gesellschaft im Wandel.</desc>
-  </programme>
-  <programme start="20260623221000 +0200" stop="20260623223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260624200000 +0200" stop="20260624202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
