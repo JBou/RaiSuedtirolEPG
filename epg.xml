@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260624200000 +0200" stop="20260624202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260624202000 +0200" stop="20260624204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Aufbruch in eine neue Heimat: Südtiroler Familien verwirklichen ihren Traum vom eigenen Hof in Österreich. Patrizia und David, Daniela und Peter erzählen von den Freuden und Herausforderungen. 
-
-Als Patrizia und David Oberkofler vor 20 Jahren vergeblich nach einem Hof in Südtirol suchten, wagten sie einen Neuanfang im Burgenland. Dort fanden sie ein Hofgebäude mit fruchtbaren Grundstücken, ein Schritt, der sich lohnen sollte. Heute führen die beiden ein erfolgreiches Bio-Weingut. Doch die Herausforderungen bleiben auch nach zwei Jahrzehnten bestehen.  
-Ähnlich erging es Daniela und Peter Pircher. Ihr Traum vom eigenen Hof mit Vieh und Gästeangebot ließ sich in Südtirol nicht verwirklichen. Vor fünf Jahren zogen sie deshalb mit den beiden Kindern in die Oststeiermark, auf ein großes landwirtschaftliches Gut bei Pöllau. Für die Quereinsteiger war der Start alles andere als einfach. Mit viel Engagement und Ausdauer gelang es ihnen jedoch, ihren Demeter-Hof mit &quot;Urlaub am Bauernhof&quot; zu einem Vorzeigebetrieb auszubauen.</desc>
-  </programme>
-  <programme start="20260624221000 +0200" stop="20260624223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260625200000 +0200" stop="20260625202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
