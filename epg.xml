@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260625200000 +0200" stop="20260625202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260625202000 +0200" stop="20260625204718 +0200" channel="Rai Südtirol">
-    <title>Teneriffa</title>
-    <sub-title>Ein Auslandspraktikum</sub-title>
-    <desc>Wie wird aus Theorie gelebte Praxis? Und welche Erfahrungen prägen angehende Lehrpersonen wirklich? Wir begleiten Johanna Cont in eine deutsche Schule auf den Kanaren. 
-
-Fernab von Südtirol taucht Johanna Cont - Studentin der Bildungswissenschaften der unibz - taucht für mehrere Wochen in den Schulalltag einer privaten, zweisprachigen Schule in Puerto de la Cruz ein. Zwischen Palmen, Meeresluft und tropischem Klima erlebt sie eine Form des Unterrichtens, die von Nähe, Individualität und kreativen Lernformen geprägt ist. 
-Die Dokumentation von Peter Vonmetz zeigt, wie wichtig praktische Erfahrungen für die Ausbildung zukünftiger Lehrpersonen sind. Während ihres Auslandspraktikums lernt Johanna nicht nur neue Unterrichtsmethoden kennen, sondern auch eine andere pädagogische Kultur: kleine Klassen, jahrgangsübergreifender Unterricht, Lernen unter freiem Himmel und ein intensiver Austausch mit Kindern, Eltern und Lehrpersonen. Besonders prägend ist die Zusammenarbeit mit Lehrerin Loredana Siriu, die ihre Erfahrungen mit großer Offenheit an die nächste Generation weitergibt. Eine Geschichte über Lernen, Begegnungen und die Erkenntnis, dass die wichtigsten Erfahrungen oft außerhalb des Klassenzimmers entstehen.</desc>
-  </programme>
-  <programme start="20260625221000 +0200" stop="20260625223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260626180000 +0200" stop="20260626182930 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
@@ -66,7 +48,7 @@ außergewöhnlichen und verborgenen Schätzen in den Tiefen der Erde. Eine Repor
   <programme start="20260626214100 +0200" stop="20260626215028 +0200" channel="Rai Südtirol">
     <title>Drehmomente</title>
     <sub-title>Steinbruch Branzoll</sub-title>
-    <desc>Oberhalb von Branzoll war einst das Zentrum der Südtiroler Pflastersteinproduktion. Heute werden die vielen Arbeiter von einst durch moderne Maschinen ersetzt. Ein Film von Klaus Romen und Gerd Staffler.
+    <desc>Oberhalb von Branzoll war einst das Zentrum der Südtiroler ***********************. Heute werden die vielen Arbeiter von einst durch moderne Maschinen ersetzt. Ein Film von Klaus Romen und Gerd Staffler.
 Der rote Bozner Quarzporphyr entstand vor 270 Millionen Jahren und ist vulkanischen Ursprungs.
 Seit dem 16. Jh. wird er vor allem im Unterland abgebaut. Die Blütezeit der Porphyr-Steinbrüche
 in Branzoll ist zwar vorbei, aber auch heute noch werden im Steinbruch oberhalb von Branzoll
@@ -127,9 +109,9 @@ Der Zusammenhalt der Gastwirte in St. Martin kennt keine Grenzen. Seit vielen Ja
   <programme start="20260628202000 +0200" stop="20260628204930 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Flora Emma Kröss</sub-title>
-    <desc>Die Sarnerin ist Mitbegründerin des Lichtsystemherstellers ewo und Alperia-Präsidentin. Nachhaltigkeit, Innovationskraft und regionale Verantwortung liegen ihr am Herzen. 
+    <desc>Die Sarnerin ist Mitbegründerin des ********************** ewo und Alperia-Präsidentin. Nachhaltigkeit, Innovationskraft und regionale Verantwortung liegen ihr am Herzen. 
 
-Flora Emma Kröss aus dem Sarntal zählt zu den bekanntesten Unternehmerinnen Südtirols. Sie ist Mitgründerin des international erfolgreichen Lichtsystemherstellers ewo und Präsidentin des Energieunternehmens Alperia. Als strategisch denkende und öffentlich eher zurückhaltende Führungspersönlichkeit steht sie für Nachhaltigkeit, Innovationskraft und regionale Verantwortung. In der Sendung privat mit Markus Frings spricht Flora Kröss über ihren Weg als Unternehmerin, ihre Rolle als Mutter und Familienmensch sowie über die Herausforderungen, die sie auf ihrem Lebensweg geprägt haben. Dabei gewährt sie auch einen sehr persönlichen Einblick in einen schweren Schicksalsschlag, der ihr Leben nachhaltig verändert hat.</desc>
+Flora Emma Kröss aus dem Sarntal zählt zu den bekanntesten Unternehmerinnen Südtirols. Sie ist Mitgründerin des international erfolgreichen ********************** ewo und Präsidentin des Energieunternehmens Alperia. Als strategisch denkende und öffentlich eher zurückhaltende Führungspersönlichkeit steht sie für Nachhaltigkeit, Innovationskraft und regionale Verantwortung. In der Sendung privat mit Markus Frings spricht Flora Kröss über ihren Weg als Unternehmerin, ihre Rolle als Mutter und Familienmensch sowie über die Herausforderungen, die sie auf ihrem Lebensweg geprägt haben. Dabei gewährt sie auch einen sehr persönlichen Einblick in einen schweren Schicksalsschlag, der ihr Leben nachhaltig verändert hat.</desc>
   </programme>
   <programme start="20260628205000 +0200" stop="20260628205400 +0200" channel="Rai Südtirol">
     <title>Nachgedacht mit Jakob Declara</title>
