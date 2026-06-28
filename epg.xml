@@ -4,42 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260627175800 +0200" stop="20260627183234 +0200" channel="Rai Südtirol">
-    <title>Master Up</title>
-    <sub-title>Folge 4</sub-title>
-    <desc>Zwei kreative Köpfe stellen ihre Geschäftsidee vor und werden hinterher von einer strengen Fachjury beurteilt. Moderation: Christine Lasta. 
-Im Stil von &quot;Der Höhle der Löwen&quot; präsentieren zwei junge Startups ihre zündende Idee und erklären, wie sie diese in die Tat umsetzen. Anschließend berät die dreiköpfige Jury, wer von den beiden die besseren Chancen hat, in der Wirtschaftswelt zu überleben.</desc>
-  </programme>
-  <programme start="20260627183200 +0200" stop="20260627185845 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Burgstall</sub-title>
-    <desc>Das Dorf Burgstall im Burggrafenamt, erstmals im 13. Jahrhundert erwähnt, ist um die Ruinen der
-gleichnamigen Burg erbaut. Historische Gebäude erinnern an das mittelalterliche Leben, als der
-Talboden noch versumpft war. Heute leben die Einwohner:innen hauptsächlich von Landwirtschaft im Obstanbau, Tourismus und Dienstleistungen. Der Moarhof, ein 700 Jahre alter Bauernhof, und das lebendige Vereinsleben prägen das Dorf. Mit Musikkapelle, Freiwilliger Feuerwehr, Volkstanzgruppe und der Dorfzeitschrift &quot;Volkmar&quot; bleibt die Gemeinschaft eng verbunden. In &quot;Land und Leute: Burgstall&quot; erzählen u.a. Roland Pircher, der ehemalige Obmann der Musikkapelle und Herta Burger vom Heimatpflegeverein.</desc>
-  </programme>
-  <programme start="20260627200000 +0200" stop="20260627202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260627202100 +0200" stop="20260627202500 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260627202500 +0200" stop="20260627205430 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Der Restaurantführer Gault Millau kürt heuer Peter Girtler zum &quot;Koch des Jahres&quot; und Jakob Zeller zu den &quot;Newcomern des Jahres&quot;. Und was bedeutet Camping im Jahr 2026?  
-
-Der erste Beitrag begleitet die ausgezeichneten Köche durch ihren Alltag, vom Kräutergarten im Wipptal bis zum biodynamischen Gemüseanbau hoch über Eppan. Außerdem beleuchten wir die facettenreiche Welt des Campings - vom traditionsreichen Campingverband bis zum kleinen, familiären Platz in Laas: Was bedeutet Camping heute und wohin geht die Reise? 
-Der Zusammenhalt der Gastwirte in St. Martin kennt keine Grenzen. Seit vielen Jahren ziehen sie an einem Strang - auch konkret beim Tauziehen in Meran.</desc>
-  </programme>
-  <programme start="20260627221000 +0200" stop="20260627223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260628200000 +0200" stop="20260628202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
