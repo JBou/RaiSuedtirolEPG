@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260628200000 +0200" stop="20260628202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260628202000 +0200" stop="20260628204930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Flora Emma Kröss</sub-title>
-    <desc>Die Sarnerin ist Mitbegründerin des Lichtsystemherstellers ewo und Alperia-Präsidentin. Nachhaltigkeit, Innovationskraft und regionale Verantwortung liegen ihr am Herzen. 
-
-Flora Emma Kröss aus dem Sarntal zählt zu den bekanntesten Unternehmerinnen Südtirols. Sie ist Mitgründerin des international erfolgreichen Lichtsystemherstellers ewo und Präsidentin des Energieunternehmens Alperia. Als strategisch denkende und öffentlich eher zurückhaltende Führungspersönlichkeit steht sie für Nachhaltigkeit, Innovationskraft und regionale Verantwortung. In der Sendung privat mit Markus Frings spricht Flora Kröss über ihren Weg als Unternehmerin, ihre Rolle als Mutter und Familienmensch sowie über die Herausforderungen, die sie auf ihrem Lebensweg geprägt haben. Dabei gewährt sie auch einen sehr persönlichen Einblick in einen schweren Schicksalsschlag, der ihr Leben nachhaltig verändert hat.</desc>
-  </programme>
-  <programme start="20260628205000 +0200" stop="20260628205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260628221000 +0200" stop="20260628223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260629175900 +0200" stop="20260629184136 +0200" channel="Rai Südtirol">
     <title>Bergdörfer</title>
     <sub-title>Vom Großen Walsertal bis zum Montafon</sub-title>
