@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260629175900 +0200" stop="20260629184136 +0200" channel="Rai Südtirol">
-    <title>Bergdörfer</title>
-    <sub-title>Vom Großen Walsertal bis zum Montafon</sub-title>
-    <desc>Es sind zwei Täler in Vorarlberg, die von Norden und Süden nach Bludenz münden. Die Bergbauern dort können von der Landwirtschaft allein nicht mehr leben und bieten Ferienwohnungen an oder haben einen Nebenerwerb im Tal. Doch sie lieben das Leben am Berg und die vielen Traditionen. Wir erleben ihren Alltag, unter anderem den Almabtrieb im Herbst. Die Bauern im Walsertal und im Montafon verbindet eines, nämlich die Verwurzelung mit ihrer Heimat.</desc>
-  </programme>
-  <programme start="20260629184100 +0200" stop="20260629185828 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Unterwegs im Apennin</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260629200000 +0200" stop="20260629202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260629202000 +0200" stop="20260629215930 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Verkaufte Heimat</sub-title>
-    <desc>Die Freilichtspiele Lana brachten 2025 ein historisches Theaterstück auf die Bühne: Verkaufte Heimat, eine Südtiroler Familiensaga aus der Optionszeit von Felix Mitterer. Regie: Thomas Hochkofler.  
-
-Einem Janusgesicht gleich richtet sich der Theatertext einerseits nach hinten, auf die tragische Geschichte der Option, andererseits zeigt er nach vorne, indem er die Besucher anregt, sich auf die persönliche Suche nach einem zeitgemäßen Heimatbegriff zu machen. In diesem Spannungsfeld spielt die Theaterhandlung, umgesetzt von Regisseur Thomas Hochkofler mit dem mittlerweile bewährten Team von Schauspieler:innen.</desc>
-  </programme>
-  <programme start="20260629221000 +0200" stop="20260629223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260630200000 +0200" stop="20260630202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
