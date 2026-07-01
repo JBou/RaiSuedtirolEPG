@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260630200000 +0200" stop="20260630202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260630202000 +0200" stop="20260630204930 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Gleiche Heimat, verschiedene Klassenzimmer</sub-title>
-    <desc>In Südtirol ist die Trennung der Sprachgruppen im Bildungssystem historisch gewachsen und gesetzlich verankert. Doch wie erleben junge Südtiroler:innen dieses System heute? 
-
-Moderatorin Maddalena Quaia bringt Stimmen zusammen, die unterschiedlicher kaum sein könnten: Melanie Mair von der Südtiroler Freiheit steht für die Überzeugung, dass getrennte Schulen die sprachliche und kulturelle Identität schützen. Davide Mahmoudy, Gemeinderat in Bozen mit iranischen Wurzeln, bringt eine Perspektive ein, die das Thema von außen beleuchtet. Gemeinsam diskutieren sie, ob das Südtiroler Bildungsmodell ein Schutzraum ist - oder eine unsichtbare Mauer. Wäre gemeinsames Lernen eine Chance für mehr Verständnis? Oder geht dabei etwas Wesentliches verloren?</desc>
-  </programme>
-  <programme start="20260630221000 +0200" stop="20260630223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260701200000 +0200" stop="20260701202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
