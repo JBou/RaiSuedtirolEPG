@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260701200000 +0200" stop="20260701202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260701202000 +0200" stop="20260701205033 +0200" channel="Rai Südtirol">
-    <title>Angeklopft</title>
-    <sub-title>Chorkultur</sub-title>
-    <desc>Im Oberpustertal findet alljährlich ein internationales Chöretreffen statt. Wir erkunden die unterschiedlichen Chorklänge und die Kraft des gemeinsamen Singens.  
-Magdalena Oberstaller war letzten Sommer in Sexten und Welsberg unterwegs und hat den wunderbaren Klängen diverser Chöre aus dem In- und Ausland gelauscht. Wir erfahren mehr über die Wurzeln der Chorkultur, besuchen eine kurzweilige Chorprobe in Brixen und erleben, welche tiefgreifende Wirkung das gemeinsame Singen haben kann.</desc>
-  </programme>
-  <programme start="20260701221000 +0200" stop="20260701223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260702200000 +0200" stop="20260702202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
