@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260702200000 +0200" stop="20260702202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260702202000 +0200" stop="20260702205620 +0200" channel="Rai Südtirol">
-    <title>Charly Daprá</title>
-    <sub-title>Der Friseur und der Serienkiller von Meran</sub-title>
-    <desc>Karl Daprá, genannt Charly, war der Friseur der Weltstars - und zugleich der Mann, der mit einem einzigen Blick auf ein Phantombild half, einen der aufsehenerregendsten Mordfälle Südtirols aufzuklären.  
-
-Seit über fünfzig Jahren arbeitet Karl Daprá als Friseur im Herzen von Meran. Sein Salon am Brunnenplatz ist weit mehr als ein Arbeitsplatz: Er ist ein stilles Archiv der Zeitgeschichte. An den Wänden hängen Fotografien seiner prominenten Kunden. Doch Charlies eigenes Leben gerät unfreiwillig ins Rampenlicht, als er vor dreißig Jahren selbst weltweite Aufmerksamkeit erlangt. Im Zuge der Fahndung nach Ferdinand Gamper veröffentlicht die Polizei ein Phantombild des mutmaßlichen Serienmörders. Charly erkennt darin seinen ehemaligen Schulfreund und gibt den entscheidenden Hinweis. Kurz zuvor waren sie noch gemeinsam unterwegs gewesen, während nachts Hubschrauber über der Stadt nach dem Täter suchten. Ein Film über ein außergewöhnliches Leben zwischen Glamour und Schuld, Öffentlichkeit und Schweigen.</desc>
-  </programme>
-  <programme start="20260702221000 +0200" stop="20260702223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260703175900 +0200" stop="20260703182933 +0200" channel="Rai Südtirol">
     <title>Minet</title>
     <sub-title>Das Minderheitenmagazin</sub-title>
