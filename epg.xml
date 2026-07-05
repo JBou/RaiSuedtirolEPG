@@ -4,38 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260704180000 +0200" stop="20260704185930 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Theo Hendrich erkundet das beschauliche Pensertal, während Karin Duregger den Schlossgarten in Entiklar besucht, aber auch die Landesforstgärten und eine Trudner Kräuterfrau. Wenn Bienen summen und die Farben um die Wette eifern, dann ist Karin Duregger wieder im Grünen unterwegs und blickt hinter einen Gartenzaun. Diesmal führt ihr Weg in den Süden des Landes: in einen märchenhaften Schlossgarten in Entiklar, zu den Landesforstgärten und ihren verborgenen Mechanismen - und nach Truden, wo eine Kräuterhexe ihr Wissen über Heilpflanzen mit ihr teilt. Davor jedoch ist Theo Hendrich mit seiner Erlebniswanderung im recht beschaulichen Pensertal unterwegs. Die Wanderung führt ab Weißenbach durch ein langes, naturbelassenes und einsames Seitental zur schön gelegenen Ebenbergalm und von dort auf den Aussichtsgipfel, die Seeblspitz auf 2.343 m.</desc>
-  </programme>
-  <programme start="20260704200000 +0200" stop="20260704202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260704202000 +0200" stop="20260704202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260704202400 +0200" stop="20260704210746 +0200" channel="Rai Südtirol">
-    <title>Bergbäuerinnen in Südtirol</title>
-    <sub-title>Mut und Freude zur Landwirtschaft</sub-title>
-    <desc>Im Internationalen Jahr der Bäuerinnen rücken wir besondere Frauen in den Mittelpunkt: Sarah, Kathrin und Franziska leisten am Hof täglich wertvolle und schweißtreibende Arbeit.
-
-Sarah Hoffmann stammt aus Köln und hat in Mühlwald am Bacherhof eine neue Heimat gefunden. Kathrin Laner Durnwalder lebt am Knollhof, ein Heumilchbetrieb, der oberhalb von Niederdorf liegt. Hofeigene Produkte sind der Ortsbäuerin wichtig, Blumen liebt sie über alles. Franziska Mitterer bewirtschaftet den Ungererhof in Laurein. Die gelernte Tischlerin fordert von der Politik eine Lösung für die Almwirtschaft, denn gerade am Deutschnonsberg sind Großwildtiere ein Problem. Eine Filmreihe von Matthias und Hubert Schönegger.</desc>
-  </programme>
-  <programme start="20260704210800 +0200" stop="20260704215336 +0200" channel="Rai Südtirol">
-    <title>Im Bann des Bären</title>
-    <sub-title/>
-    <desc>Die Dokumentation von Markus Frings und Marco Polo führt ins Brenta-Gebiet und bringt beeindruckende Bilder von großartigen Landschaften, durch die die Bären streifen. Artenschutz und Almwirtschaft stehen in Konflikt zueinander, die jeweiligen Ziele und Interessen sind unvereinbar. Da bleibt die Frage: Ist ein dauerhaftes Zusammenleben von Mensch und Wildtier in den Alpen realistisch?</desc>
-  </programme>
-  <programme start="20260704221000 +0200" stop="20260704223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260705200000 +0200" stop="20260705202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
