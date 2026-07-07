@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260706180000 +0200" stop="20260706184520 +0200" channel="Rai Südtirol">
-    <title>Bergdörfer</title>
-    <sub-title> Vom Almenland bis in Roseggers Waldheimat</sub-title>
-    <desc>Im Mürztal in der Steiermark gibt es einige traditionelle Bergdörfer mit alteingesessenen Bauernfamilien: In Krieglach auf etwa tausend Metern Meereshöhe bewirtschaftet Hubert Schwaiger einen Hof, in dem vier Generationen unter einem Dach leben. Selbst seine Mutter hilft bei der Bewirtschaftung des Hofs noch mit. Doch schon bald soll die nächste Generation das Ruder übernehmen.
-In Brandlucken ist Christoph Jantscher Teil einer Bauerngesellschaft, die einander gegenseitig unterstützen. Vor einigen Jahren führte Friedrich Bauernhofer seinen Hof im Nebenerwerb. Mittlerweile ist er Vollerwerbsbauer mit mehr als 60 Kühen. Daneben ist er Obmann der Theatergruppe, wo er selbst auch mitspielt.
-Regisseur Alfred Ninaus porträtiert auch Ziegenbäuerin Elisabeth Harrer aus Passail und Bäuerin Waltraud Froihofer aus Fischbach.</desc>
-  </programme>
-  <programme start="20260706184500 +0200" stop="20260706185849 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Hike and fly</sub-title>
-    <desc>Dieser neue Trend ist die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem Gleitschirm. Er fasziniert immer mehr Südtiroler:innen, birgt aber auch Gefahren. Deshalb braucht es für Hike and fly viel Hintergrundwissen und Erfahrung. Wir begleiten Elisabeth und Patrick bei einem ihrer Abenteuer.</desc>
-  </programme>
-  <programme start="20260706200000 +0200" stop="20260706202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260706202000 +0200" stop="20260706215939 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Lysistrata in Rock</sub-title>
-    <desc>In der Vorburg von Schloss Tirol präsentierten die Schlossfestspiele Dorf Tirol 2025 &quot;Lysistrata&quot; des griechischen Dichters Aristophanes in einer modernen, humorvollen Bearbeitung.  
-
-Das Publikum erwartet ein unvergessliches Theatererlebnis, bei dem Antike und Gegenwart aufeinandertreffen - laut, rockig und mit viel Humor. Ohne Frieden kein Sex, beschließen die Frauen. Ob diese Maßnahme zum Frieden führt?  
-In den Hauptrollen erleben Sie unter anderem Anna Fink, Hanenn Huber, Judit Pixner und Gabriel Mair - bekannt als Influencer Buonomemes. Regie führt Manfred Schweigkofler.</desc>
-  </programme>
-  <programme start="20260706221000 +0200" stop="20260706223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260707200000 +0200" stop="20260707202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
