@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260707200000 +0200" stop="20260707202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260707202000 +0200" stop="20260707204654 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Arbeiten, aber anders - wie tickt die junge Generation?</sub-title>
-    <desc>Früh aufstehen, anpacken, nicht klagen. In Südtirol ist das Buggeln tief verwurzelt - im Handwerk, in der Landwirtschaft, im Tourismus. Von Generation zu Generation weitergegeben.  Aber wollen die Jungen das noch so? 
-
-Homeoffice statt Stempeluhr, Sinn statt Sicherheit, Work-Life-Balance statt Vollgas. Die Vorstellungen von Arbeit verändern sich - und schnell fällt das Urteil: zu bequem, zu anspruchsvoll, zu wenig belastbar. Doch was steckt wirklich hinter diesem Wandel? In dieser Ausgabe von kontrovers sprechen Social-Media-Strategin Rebekka Eller und Patissier Simon Unterholzner offen über ihre Vorstellungen vom Arbeiten - zwischen Selbstverwirklichung und wirtschaftlicher Realität, zwischen neuen Rollenbildern und alten Erwartungen.</desc>
-  </programme>
-  <programme start="20260707221000 +0200" stop="20260707223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260708200000 +0200" stop="20260708202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
