@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260708200000 +0200" stop="20260708202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260708202000 +0200" stop="20260708204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Verbraucherrechte bei nationalen Gas-, Strom- und Telefonanbietern, die Auswirkungen internationaler Krisen auf den Reiseverkehr, ein Besuch in Latsch mit seinen vielfältigen Angeboten. 
-
-Die Verbraucherzentrale Südtirol hat die Reklamationsmöglichkeiten bei nationalen Gas-, Strom- und Telefonanbietern untersucht. Die Ergebnisse zeigen, wie Kundinnen und Kunden ihre Beschwerden vorbringen können und ob die gesetzlichen Vorgaben eingehalten werden. 
-Was gilt, wenn Flüge aufgrund außergewöhnlicher Umstände gestrichen werden? Welche Rechte haben Fluggäste und unter welchen Voraussetzungen dürfen sich die Preise von Pauschalreisen nachträglich ändern? 
-Außerdem besucht Pluspunkt ein Südtiroler Unternehmen, das einen Großteil seines Strombedarfs durch Photovoltaik und Batteriespeicher selbst deckt. Der Beitrag beleuchtet die Chancen und Grenzen einer weitgehenden Energieautarkie für Betriebe.  
-Für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; führt die Sendung diesmal nach Latsch im Vinschgau, eine Gemeinde mit aktivem Gemeinschaftsleben und vielfältigen Angeboten.</desc>
-  </programme>
-  <programme start="20260708221000 +0200" stop="20260708223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260709200000 +0200" stop="20260709202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -113,7 +93,7 @@ Für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; führt die Sendung dies
 Noch bevor der Tag anbricht, sind sie längst im Einsatz. Sie packen überall an - im Stall, auf den Feldern und in der Pflege jahrhundertealter Handwerkskunst. Diese Stärke und Leidenschaft möchten sie weitergeben. Sie wollen Frauen ermutigen, ihren eigenen Weg in der Landwirtschaft zu gehen. Und sie zeigen auf, dass sich die Herausforderungen des Berglebens mit Einsatz, Begeisterung und Zuversicht meistern lassen - ganz gleich ob als Frau oder als Mann. Ein Film von Matthias und Hubert Schönegger.</desc>
   </programme>
   <programme start="20260711210700 +0200" stop="20260711215442 +0200" channel="Rai Südtirol">
-    <title>Zurück in die Einsamkeit</title>
+    <title>Zurück in die Einfachheit</title>
     <sub-title/>
     <desc>Am abgeschiedenen Berghof zi Lärchegg in Mühlwald auf 1600 m Meereshöhe eingebettet im Hochwald wohnt der Pächter Ferdinand Holzer, der Fuchs-Ferdl. Er hat sich dort seine eigene Welt geschaffen, lebt die Genügsamkeit und die Einfachheit. Die Abgeschiedenheit sucht er ganz bewusst. Als Selbstversorger nutzt er alles, was auf den steilen Feldern wächst: Gemüse, Getreide, Kartoffeln werden angebaut, das Heu für die Ziegen und Schafe eingebracht.  
 Im Jänner 2023 vernichtet ein Brand über Nacht den gesamten Hof mit Maschinen und Einrichtungen. Ferdl kann sich mit seinen Tieren retten, der Schock sitzt tief. Aber er gibt nicht auf. Im Frühjahr kehrt er mit den Tieren zurück und richtet sich provisorisch ein. Für das Vieh errichtet er einen Unterstand, er selber lebt in einem Wohnwagen. In der Zwischenzeit wird am neuen Haus und am Wirtschaftsgebäude gearbeitet. Ein Film von Hans Rieder.</desc>
