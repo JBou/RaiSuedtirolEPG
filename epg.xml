@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260709200000 +0200" stop="20260709202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260709202000 +0200" stop="20260709205208 +0200" channel="Rai Südtirol">
-    <title>Route der Romanik 1</title>
-    <sub-title>Vom Vinschgau bis ins Unterland</sub-title>
-    <desc>Moderator Mirko Frainer begibt sich auf die Spuren der romanischen Kunst in Südtirol beginnend in Taufers im Münstertal bis in den unteren Vinschgau und besucht Burgen, Kirchen und Klöster. 
-
-Diese romanischen Kulturzeugnisse aus dem 10. bis 12.Jh. liegen an den alten Handels- und Pilgerwegen, die einst über die Alpen geführt haben.  Auf dieser filmischen Reise werden wir von Kunsthistoriker Florian Hofer und Elke Larcher begleitet. Sie ist die Koordinatorin des Projekts &quot;Alpine Straße der Romanik&quot;.  
-Vom Münstertal bis in den Untervinschgau werden wir die schönsten Beispiele der Romanik näher kennenlernen, z.B. St. Johann in Prad, aber auch Kloster Marienberg. Und wir erfahren viele spannende Geschichten, die sich um diese Kulturschätze ranken. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20260709221000 +0200" stop="20260709223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260710180000 +0200" stop="20260710184346 +0200" channel="Rai Südtirol">
     <title>Bergbäuerinnen in Südtirol</title>
     <sub-title>Mut und Freude zur Landwirtschaft</sub-title>
@@ -122,6 +104,188 @@ Auf der Seite der Alliierten bei der Pariser Friedenskonferenz: der amerikanisch
     <desc/>
   </programme>
   <programme start="20260712221000 +0200" stop="20260712223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260713180000 +0200" stop="20260713184427 +0200" channel="Rai Südtirol">
+    <title>Rund um die Karawanken</title>
+    <sub-title/>
+    <desc>Mächtig und schroff erheben sich die beeindruckenden Karawanken im zweisprachigen Gebiet Kärntens, an der Grenze zu Slowenien. Ihre rustikale Schönheit prägt die Dörfer entlang ihrer
+Hänge und Täler. Im Laufe der Generationen und einer oft problematischen Geschichte entwickelten sich die Gemeinden weiter, die Wertschätzung der Traditionen und der Natur ist jedoch geblieben. Malerische Dorfkirchlein vor imposanten Felsmassiven, grüne Weiden von der flachen morgendlichen Sonne gestreichelt - wer vom Sommer in den Bergen träumt, wird hier mit fast schon klischeehaft schönen Bildern bedient.</desc>
+  </programme>
+  <programme start="20260713184400 +0200" stop="20260713185208 +0200" channel="Rai Südtirol">
+    <title>Klick  mini</title>
+    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260713185200 +0200" stop="20260713185804 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title>Die öffentliche Mobilität</sub-title>
+    <desc>In den vergangenen fünf Jahren erlebte die öffentliche Mobilität in Südtirol einen tiefgreifenden digitalen Wandel. Neue Ticketing-Systeme, Echtzeitdaten und digitale Services verändern nachhaltig, wie Fahrgäste Bus und Bahn nutzen. Eine zentrale Rolle spielt dabei die Südtiroler Transportstrukturen AG als Motor der Digitalisierung im öffentlichen Verkehr. 
+Im Service- und Informationszentrum in Bozen laufen heute alle Fäden zusammen – von Fahrgastinformation bis Betriebsüberwachung. Mit QR-Code-Tickets, &quot;Tap and Go&quot; und der südtirolmobil-App wird Mobilität einfacher, schneller und flexibler. Neue Angebote wie Fix365 oder der Callbus erweitern das System gezielt dort, wo klassische Linien an Grenzen stoßen.</desc>
+  </programme>
+  <programme start="20260713200000 +0200" stop="20260713202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260713202000 +0200" stop="20260713211820 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Sommerausstellung im ECK Museum in Bruneck, die Uraufführung des Stückes &quot;Das Schweigen der Stadt&quot; von Luis Zagler, ein Portrait des Lichtdesigners Julian Marmsoler.  
+
+Im Studio begrüßt Moderator Alexander Lechner Cornelia Brugger, Schauspielerin, Grünen-Gemeinderätin und Vorstandsmitglied bei den Rittner Sommerspielen, und Ewald Kontschieder, Mitbegründer von MeranOJazz.  
+Sylvie Riant kuratiert die Ausstellung „WOCHENBETT“ im ECK Museum in Bruneck. Sie beleuchtet die Postpartum-Phase als vielschichtiges Spannungsfeld zwischen Verletzlichkeit und gesellschaftlichen Zwängen.  
+Heuer bringen die Meraner Festspiele 2026 ein zeitgeschichtliches Thema auf die Bühne: &quot;Das Schweigen der Stadt&quot; handelt vom Missbrauch einer jungen Frau im Machtgefüge wirtschaftlicher Interessen. Regie führt Torsten Schilling, zu sehen ist unter anderem Filmschauspielerin Christine Mayn. 
+Bereits zum 2. Mal wird in Bozen der Piero-Siena-Preis in Erinnerung an den Kunstkritiker vergeben. Mit dem Preis werden verdiente Künstler:innen ausgezeichnet, die in den letzten 25 Jahren in Südtirol tätig waren.  
+Im &quot;Sommernachtstraum&quot; von Michael Niavarani und Laurence Boswell wird es unheimlich und zauberhaft zugleich. Das Eisacktaler Volkstheater hat sich heuer zum 75-Jubiläum des Südtiroler Theaterverbandes etwas Besonderes ausgedacht. 
+Licht im Theater ist ein elementares Gestaltungsmittel, das weit über die &quot;Sichtbarmachung&quot; hinausgeht. Julian Marmsoler beschäftigt sich seit über zwei Jahrzehnten mit der Bühnenbeleuchtung. Allein im heurigen Sommer entwirft er das Lichtkonzept für sechs Freilichtbühnen.</desc>
+  </programme>
+  <programme start="20260713211800 +0200" stop="20260713215919 +0200" channel="Rai Südtirol">
+    <title>Ich bin nie fertig!</title>
+    <sub-title>Der Künstler Gotthard Bonell</sub-title>
+    <desc>Er ist nicht nur Maler, Zeichner, Radierer, sondern auch lyrischer Bariton - Gotthard Bonell, Jahrgang 1953. In all seinen Arbeiten kann man erkennen, wie er sich mit den existentiellen Fragen des Menschen - dem Leben und Sterben - künstlerisch auseinandersetzt hat und wie stark ihn das Dorf Truden geprägt hat. Das kommt in den Porträtbildern am besten zum Ausdruck. Hier schafft er es, zum Wesen des Menschen vorzudringen. Doch auch die Landschaftsbilder wirken wie Seelenlandschaften, in denen sich die Betrachter verlieren können. Anlässlich seines 70.Geburtstag hat Stefan Nicolini diese Dokumentation geschaffen: Sie beginnt im Theater in der Josefstadt in Wien, wo Bonells Bilder in das Bühnenbild integriert wurden.</desc>
+  </programme>
+  <programme start="20260713221000 +0200" stop="20260713223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260714200000 +0200" stop="20260714202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260714202000 +0200" stop="20260714204526 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Generation Wozu - zwischen Sinn und Selbstoptimierung</sub-title>
+    <desc>Was wollen wir wirklich - und wofür lohnt es sich zu leben? Zwei junge Frauen, zwei unterschiedliche Wege. Und am Ende vielleicht mehr Gemeinsamkeiten als erwartet. 
+
+Moderatorin Maddalena Quaia diskutiert mit Sophie Körner, Polit-Aktivistin auf Social Media, und Eva Prunner von der Katholischen Jugend Südtirols. Eva findet ihren Sinn in der Verwurzelung - im Heimatdorf, im Ehrenamt, in der Arbeit mit Kindern und Jugendlichen. Sophie sucht ihn im digitalen Raum, in politischem Engagement, im Sichtbarmachen. Beide stellen sich dieselben Grundfragen - und beide haben für sich Antworten gefunden, die nicht dem entsprechen, was die Gesellschaft von ihrer Generation erwartet. 
+Denn während Ältere der Jugend oft Selbstbezogenheit und mangelnden Biss vorwerfen, zeigt diese Sendung: Viele junge Südtiroler:innen wissen sehr genau, was sie wollen. Die Frage ist nur, ob das auch gehört wird. 
+Ein Gespräch über Träume und Zweifel, über Selbstoptimierungsdruck und echten Lebenssinn - und darüber, dass es mehr als einen Weg gibt, diesen Lebenssinn zu finden.</desc>
+  </programme>
+  <programme start="20260714221000 +0200" stop="20260714223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260715200000 +0200" stop="20260715202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260715202000 +0200" stop="20260715204930 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Gedächtnis der Xuetas</sub-title>
+    <desc>Unterwegs in Mallorca auf den Spuren der Xuetas, Nachfahren von zwangskonvertierten jüdischen Familien. Eine Minderheit, die ihre Herkunft oft verschweigt. 
+
+Miró, Fuster, Valls sind Familiennamen, denen man auf der Ferieninsel Mallorca oft begegnet.  Miró, Fuster, Valls und weitere Zwölf erzählen von einer längst vergangenen, auch vergessenen Geschichte, die dennoch bis ins Heute strahlt. Denn diese Mallorquiner gehören zu den Xuetas, einer Minderheit, die oftmals den Mantel des Schweigens über ihre Herkunft breitet.  
+Xuetas sind die Nachfahren von zwangskonvertierten jüdischen Familien aus dem Mittelalter, Opfer der spanischen Inquisition. Ihre Geschichte ist eine Geschichte der Verfolgung über Jahrhunderte, des Kryptojudaismus, aber auch des Widerstands. Diese Dokumentation von Erna Cuesta und Agostino Fuscaldo spürt dem Vermächtnis und Gedächtnis der Xuetas nach. Mit Historikerinnen, Genealogen, Musikologinnen, Familien und deren Lebensgeschichten. Eine Reise in die Vergangenheit, um die Zukunft zu verstehen. Es war einmal auf Mallorca...</desc>
+  </programme>
+  <programme start="20260715221000 +0200" stop="20260715223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260716200000 +0200" stop="20260716202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260716202000 +0200" stop="20260716205208 +0200" channel="Rai Südtirol">
+    <title>Route der Romanik Folge 2</title>
+    <sub-title>Vom Vinschgau bis ins Unterland</sub-title>
+    <desc>Moderator Mirko Frainer setzt seine filmische Reise fort und zeigt uns besondere romanische
+Kirchen und Burgen, die zwischen dem Untervinschgau und dem Unterland liegen. Die filmische Reise beginnt in St. Prokulus bei Naturns, besucht die Kapellen von Schloss Tirol
+und Hocheppan und außerdem die wertvollen Fresken von St.Jakob in Kastelaz oberhalb Tramin.
+Mit dabei auch Kunsthistoriker Florian Hofer und Elke Larcher, Koordinatorin des Projekts &quot;Alpine
+Straße der Romanik&quot;. Wir erfahren viele spannende Geschichten, die sich um diese Kulturschätze ranken. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20260716221000 +0200" stop="20260716223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260717180000 +0200" stop="20260717184328 +0200" channel="Rai Südtirol">
+    <title>Bergbäuerinnen in Südtirol</title>
+    <sub-title>Einsatz und Begeisterung</sub-title>
+    <desc>Barbara Kostner, Patrizia Declara, Sophie Wagnes sind drei Bergbäuerinnen, die mit Herz, Mut und Energie Verantwortung übernommen haben - für Hof, Familie und Traditionen.  
+Noch bevor der Tag anbricht, sind sie längst im Einsatz. Sie packen überall an - im Stall, auf den Feldern und in der Pflege jahrhundertealter Handwerkskunst. Diese Stärke und Leidenschaft möchten sie weitergeben. Sie wollen Frauen ermutigen, ihren eigenen Weg in der Landwirtschaft zu gehen. Und sie zeigen auf, dass sich die Herausforderungen des Berglebens mit Einsatz, Begeisterung und Zuversicht meistern lassen - ganz gleich ob als Frau oder als Mann. Ein Film von Matthias und Hubert Schönegger.</desc>
+  </programme>
+  <programme start="20260717184300 +0200" stop="20260717185237 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Selina Prantl, die Motorsportlerin</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260717185300 +0200" stop="20260717185848 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital</title>
+    <sub-title>Digidays an Schulen</sub-title>
+    <desc>Der mobile DigiPoint war im Rahmen eines DIGIDAYs an der Oberschule Claudia de Medici in Bozen zu Gast. Tutor Roberto vermittelte den Schüler:innen praxisnah den Umgang mit digitalen Diensten wie SPID und der digitalen Identitätskarte. Ziel ist es, digitale Kompetenzen zu stärken und junge Menschen auf eine zunehmend digitale Zukunft vorzubereiten.</desc>
+  </programme>
+  <programme start="20260717200000 +0200" stop="20260717202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260717202000 +0200" stop="20260717210500 +0200" channel="Rai Südtirol">
+    <title>Über den Wolken</title>
+    <sub-title>Südtirols höchste Schutzhütten</sub-title>
+    <desc>Becherhaus, Schwarzensteinhütte, Weißkugelhütte und Zwickauerhütte sind Südtirols höchstgelegene Schutzhütten. Sie blicken alle auf eine wechselvolle Geschichte zurück. 
+
+Drei Hüttenwirte und eine Hüttenwirtin verbringen ihren Sommer im Hochgebirge, fernab der Zivilisation. Ihre Hütten liegen am Alpenhauptkamm zum Teil über 3000 m und sind der ideale Ausgangspunkt für sportliche Abenteuer.  
+Ende Juni verabschieden sich die Wirte in die Höhe, um erst wieder Ende September ins Tal zurückzukehren. Freizeit und Privatsphäre sind in dieser Zeit Mangelware - und manchmal auch der Schlaf. Zudem sind sie für kleine und große Probleme immer der erste Ansprechpartner. Dies erfordert eine ganze Bandbreite an Fähigkeiten und eine starke Persönlichkeit. Lukas Pitscheider begleitet die Hüttenwirt:innen bei ihrer anspruchsvollen Tätigkeit fernab der Zivilisation.</desc>
+  </programme>
+  <programme start="20260717210500 +0200" stop="20260717215551 +0200" channel="Rai Südtirol">
+    <title>Abenteuer Rucksack</title>
+    <sub-title>Bergwelt im Wandel</sub-title>
+    <desc>Die Bergwelt boomt, die Zeit wird knapper, die Ziele werden mehr - und dennoch setzt sich die
+Sehnsucht nach Natur immer wieder durch. Karin Duregger ist wieder unterwegs und fragt: Was
+hat sich in 15 Jahren verändert?
+Auf 61 Kilometern und 2.356 Höhenmetern führt der Dolorama-Weg in vier Etappen durch das Eisack-, Puster- und Gadertal bis zum Eingang von Gröden - von Rodeneck bis nach Lajen. Der reine Wanderweg lässt sich optional um Klettertouren erweitern und bietet idealen Raum für Begegnungen, Einkehr und stille Beobachtung. Denn genau darum geht es in dieser neuen Folge von &quot;Abenteuer Rucksack&quot;: Gehen, begegnen, ausprobieren - und innehalten. Social Media, Zeitdruck und das Bedürfnis, alles schnell zu erleben, haben das Miteinander am Fuße der Berge verändert. Dort oben aber, in der Höhe, steht die Zeit meist still. Auch wenn Hüttenwirtinnen und´Touristiker die Berge längst als Eventlocation entdeckt haben - die Natur  behält das letzte Wort.</desc>
+  </programme>
+  <programme start="20260717221000 +0200" stop="20260717223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260718180000 +0200" stop="20260718182945 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Flora Emma Kröss</sub-title>
+    <desc>Die Sarnerin ist Mitbegründerin des Lichtsystemherstellers ewo und Alperia-Präsidentin. Nachhaltigkeit, Innovationskraft und regionale Verantwortung liegen ihr am Herzen. 
+Flora Emma Kröss aus dem Sarntal zählt zu den bekanntesten Unternehmerinnen Südtirols. Sie ist Mitgründerin des international erfolgreichen Lichtsystemherstellers ewo und Präsidentin des Energieunternehmens Alperia. Als strategisch denkende und öffentlich eher zurückhaltende Führungspersönlichkeit steht sie für Nachhaltigkeit, Innovationskraft und regionale Verantwortung. In der Sendung privat mit Markus Frings spricht Flora Kröss über ihren Weg als Unternehmerin, ihre Rolle als Mutter und Familienmensch sowie über die Herausforderungen, die sie auf ihrem Lebensweg geprägt haben. Dabei gewährt sie auch einen sehr persönlichen Einblick in einen schweren Schicksalsschlag, der ihr Leben nachhaltig verändert hat.</desc>
+  </programme>
+  <programme start="20260718182900 +0200" stop="20260718185830 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Gedächtnis der Xuetas</sub-title>
+    <desc>Unterwegs in Mallorca auf den Spuren der Xuetas, Nachfahren von zwangskonvertierten jüdischen Familien. Eine Minderheit, die ihre Herkunft oft verschweigt. 
+Miró, Fuster, Valls sind Familiennamen, denen man auf der Ferieninsel Mallorca oft begegnet.  Miró, Fuster, Valls und weitere Zwölf erzählen von einer längst vergangenen, auch vergessenen Geschichte, die dennoch bis ins Heute strahlt. Denn diese Mallorquiner gehören zu den Xuetas, einer Minderheit, die oftmals den Mantel des Schweigens über ihre Herkunft breitet.  
+Xuetas sind die Nachfahren von zwangskonvertierten jüdischen Familien aus dem Mittelalter, Opfer der spanischen Inquisition. Ihre Geschichte ist eine Geschichte der Verfolgung über Jahrhunderte, des Kryptojudaismus, aber auch des Widerstands. Diese Dokumentation von Erna Cuesta und Agostino Fuscaldo spürt dem Vermächtnis und Gedächtnis der Xuetas nach. Mit Historikerinnen, Genealogen, Musikologinnen, Familien und deren Lebensgeschichten. Eine Reise in die Vergangenheit, um die Zukunft zu verstehen. Es war einmal auf Mallorca...</desc>
+  </programme>
+  <programme start="20260718200000 +0200" stop="20260718202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260718202000 +0200" stop="20260718202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260718202400 +0200" stop="20260718210728 +0200" channel="Rai Südtirol">
+    <title>Bergbäuerinnen in Südtirol</title>
+    <sub-title>Neue Perspektiven für die Landwirtschaft</sub-title>
+    <desc>Irene Amegg, Kathrin Freund und Kathrin Brugger sind drei Bäuerinnen, die mit viel Einsatz und Hingabe ihren Bauernhof bewirtschaften. Ein Film von Matthias und Hubert Schönegger. 
+
+Irene Amegg lebt mit ihrer Familie auf dem Haselberghof am Unterfennberg, wo sie gemeinsam mit ihren Töchtern den Hofalltag bewältigt. Kathrin Freund führt einen abgelegenen Hof im Pflerschtal unter den Felswänden des Tribulaun und widmet sich mit besonderer Leidenschaft der Haltung von Kleintieren. Im Sarntal arbeitet Kathrin Brugger mit ihrer Familie am Grubhof, wo ihr besonders das Verarbeiten der Kräuter und das Musizieren am Herzen liegt.</desc>
+  </programme>
+  <programme start="20260718210700 +0200" stop="20260718215012 +0200" channel="Rai Südtirol">
+    <title>Traumschlösser und Burgen Südtirols</title>
+    <sub-title/>
+    <desc>In Südtirol ist die Anzahl an Burgen und Schlössern so hoch wie kaum sonstwo in Europa. Wir besuchen die Churburg in Schluderns, die seit mehr als 500 Jahren im Besitz der Familie Trapp ist. Johannes Graf Trapp, der vor kurzem verstarb, kümmerte sich auch persönlich um die Führungen durch die Burg mit ihrer einzigartigen Waffenkammer. Weitere Etappen der Schlössertour von Filmemacher Fritz Aigner sind Schloss Tirol, Schloss Schenna und die Brunnenburg im Burggrafenamt, die Festungsanlage von Schloss Sigmundskron und schließlich Schloss Taufers im Tauferer Ahrntal.</desc>
+  </programme>
+  <programme start="20260718221000 +0200" stop="20260718223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
