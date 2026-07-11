@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260710180000 +0200" stop="20260710184346 +0200" channel="Rai Südtirol">
-    <title>Bergbäuerinnen in Südtirol</title>
-    <sub-title>Mut und Freude zur Landwirtschaft</sub-title>
-    <desc>Im Internationalen Jahr der Bäuerinnen rücken wir besondere Frauen in den Mittelpunkt: Sarah, Kathrin und Franziska leisten am Hof täglich wertvolle und schweißtreibende Arbeit.
-Sarah Hoffmann stammt aus Köln und hat in Mühlwald am Bacherhof eine neue Heimat gefunden. Kathrin Laner Durnwalder lebt am Knollhof, ein Heumilchbetrieb, der oberhalb von Niederdorf liegt. Hofeigene Produkte sind der Ortsbäuerin wichtig, Blumen liebt sie über alles. Franziska Mitterer bewirtschaftet den Ungererhof in Laurein. Die gelernte Tischlerin fordert von der Politik eine Lösung für die Almwirtschaft, denn gerade am Deutschnonsberg sind Großwildtiere ein Problem. Eine Filmreihe von Matthias und Hubert Schönegger.</desc>
-  </programme>
-  <programme start="20260710184300 +0200" stop="20260710185813 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Gletscherhöhlen</sub-title>
-    <desc>Durch die massive Gletscherschmelze entstehen seit einigen Jahren zum Teil massive Hohlräume am Rand der Ferner. Diese Eishöhlen sind von bizarrer Schönheit und haben zwei Südtiroler Bergsteiger in ihren Bann gezogen. Mit ihnen ist Thomas Hainz unterwegs in der südlichen Ortlergruppe unterhalb der Punta San Matteo.</desc>
-  </programme>
-  <programme start="20260710200000 +0200" stop="20260710202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260710202000 +0200" stop="20260710214915 +0200" channel="Rai Südtirol">
-    <title>Alkohol  - der globale Rausch</title>
-    <sub-title/>
-    <desc>Alkohol ist die mächtigste Droge der Welt. Vier Milliarden Menschen trinken regelmäßig Alkohol und die Zahlen steigen. Ein Film von Andreas Pichler. 
-
-Seit tausenden von Jahren ist Alkohol Teil der westlichen Kultur. Alkohol steht heute für Vergnügen und gute Laune. In Deutschland, Frankeich und der gesamten EU ist Alkohol zudem ein wichtiger Wirtschaftsfaktor. Auf den ersten Blick scheint Alkohol auch eine lukrative Geldquelle für den Staat zu sein. Bei näherer Betrachtung aber sind die Ergebnisse niederschmetternd. Alle zehn Sekunden stirbt weltweit jemand an den Folgen zu hohen Alkoholkonsums - beinahe 3 Millionen Menschen jedes Jahr. Aus einer rein faktenbasierten Sicht scheint es komplett unvernünftig zu sein, Alkohol nicht umfassend zu verbieten oder zumindest stark einzuschränken. Aber warum geschieht das nicht? Und warum trinken weltweit immer mehr Menschen?</desc>
-  </programme>
-  <programme start="20260710214900 +0200" stop="20260710215904 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Pure Leidenschaft</sub-title>
-    <desc>Wegepate Adolf Altstätter ist einer der dienstältesten Wegepaten. Er hat im Laufe seines Lebens über 200 Kilometer Wanderwege in Martell markiert. 2024 hat er Farbe und Pinsel an einen jüngeren Wegewart weitergegeben.</desc>
-  </programme>
-  <programme start="20260710221000 +0200" stop="20260710223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260711180000 +0200" stop="20260711182430 +0200" channel="Rai Südtirol">
     <title>Land und Leute</title>
     <sub-title>Tisens bei Kastelruth</sub-title>
@@ -286,6 +253,28 @@ Irene Amegg lebt mit ihrer Familie auf dem Haselberghof am Unterfennberg, wo sie
     <desc>In Südtirol ist die Anzahl an Burgen und Schlössern so hoch wie kaum sonstwo in Europa. Wir besuchen die Churburg in Schluderns, die seit mehr als 500 Jahren im Besitz der Familie Trapp ist. Johannes Graf Trapp, der vor kurzem verstarb, kümmerte sich auch persönlich um die Führungen durch die Burg mit ihrer einzigartigen Waffenkammer. Weitere Etappen der Schlössertour von Filmemacher Fritz Aigner sind Schloss Tirol, Schloss Schenna und die Brunnenburg im Burggrafenamt, die Festungsanlage von Schloss Sigmundskron und schließlich Schloss Taufers im Tauferer Ahrntal.</desc>
   </programme>
   <programme start="20260718221000 +0200" stop="20260718223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260719200000 +0200" stop="20260719202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260719202000 +0200" stop="20260719210730 +0200" channel="Rai Südtirol">
+    <title>Der Rest ist Österreich - Teil 2</title>
+    <sub-title/>
+    <desc>&quot;Der Rest ist Österreich&quot; soll Frankreichs Ministerpräsident Clemenceau 1919 beim Vertrag von Saint-Germain, in dem Österreichs Grenzen festgelegt wurden, höhnisch gesagt haben.  
+
+Aus dem einst mächtigen Vielvölkerstaat wurde ein Rumpfstaat mit 6,5 Millionen Einwohnern. Der kleine Staat mit einer hungernden Bevölkerung durfte nicht einmal seinen selbstgewählten Namen Deutschösterreich behalten und niemand sah wirklich eine Zukunft für ihn. Nach dem Ersten Weltkrieg war die Welt in Unordnung geraten und die Verhältnisse sollten letztlich zu einem noch größeren Krieg führen. Dazwischen schlingerte die Erste Republik dahin, geprägt von scheinbar unlösbaren Problemen und zerrissen vom gegenseitigen Hass der politischen Parteien. Ein Film von Walter Seledec.</desc>
+  </programme>
+  <programme start="20260719210800 +0200" stop="20260719211200 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260719221000 +0200" stop="20260719223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
