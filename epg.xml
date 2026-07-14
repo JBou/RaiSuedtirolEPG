@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260713180000 +0200" stop="20260713184427 +0200" channel="Rai Südtirol">
-    <title>Rund um die Karawanken</title>
-    <sub-title/>
-    <desc>Mächtig und schroff erheben sich die beeindruckenden Karawanken im zweisprachigen Gebiet Kärntens, an der Grenze zu Slowenien. Ihre rustikale Schönheit prägt die Dörfer entlang ihrer
-Hänge und Täler. Im Laufe der Generationen und einer oft problematischen Geschichte entwickelten sich die Gemeinden weiter, die Wertschätzung der Traditionen und der Natur ist jedoch geblieben. Malerische Dorfkirchlein vor imposanten Felsmassiven, grüne Weiden von der flachen morgendlichen Sonne gestreichelt - wer vom Sommer in den Bergen träumt, wird hier mit fast schon klischeehaft schönen Bildern bedient.</desc>
-  </programme>
-  <programme start="20260713184400 +0200" stop="20260713185208 +0200" channel="Rai Südtirol">
-    <title>Klick  mini</title>
-    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260713185200 +0200" stop="20260713185804 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title>Die öffentliche Mobilität</sub-title>
-    <desc>In den vergangenen fünf Jahren erlebte die öffentliche Mobilität in Südtirol einen tiefgreifenden digitalen Wandel. Neue Ticketing-Systeme, Echtzeitdaten und digitale Services verändern nachhaltig, wie Fahrgäste Bus und Bahn nutzen. Eine zentrale Rolle spielt dabei die Südtiroler Transportstrukturen AG als Motor der Digitalisierung im öffentlichen Verkehr. 
-Im Service- und Informationszentrum in Bozen laufen heute alle Fäden zusammen – von Fahrgastinformation bis Betriebsüberwachung. Mit QR-Code-Tickets, &quot;Tap and Go&quot; und der südtirolmobil-App wird Mobilität einfacher, schneller und flexibler. Neue Angebote wie Fix365 oder der Callbus erweitern das System gezielt dort, wo klassische Linien an Grenzen stoßen.</desc>
-  </programme>
-  <programme start="20260713200000 +0200" stop="20260713202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260713202000 +0200" stop="20260713211820 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Die Sommerausstellung im ECK Museum in Bruneck, die Uraufführung des Stückes &quot;Das Schweigen der Stadt&quot; von Luis Zagler, ein Portrait des Lichtdesigners Julian Marmsoler.  
-
-Im Studio begrüßt Moderator Alexander Lechner Cornelia Brugger, Schauspielerin, Grünen-Gemeinderätin und Vorstandsmitglied bei den Rittner Sommerspielen, und Ewald Kontschieder, Mitbegründer von MeranOJazz.  
-Sylvie Riant kuratiert die Ausstellung „WOCHENBETT“ im ECK Museum in Bruneck. Sie beleuchtet die Postpartum-Phase als vielschichtiges Spannungsfeld zwischen Verletzlichkeit und gesellschaftlichen Zwängen.  
-Heuer bringen die Meraner Festspiele 2026 ein zeitgeschichtliches Thema auf die Bühne: &quot;Das Schweigen der Stadt&quot; handelt vom Missbrauch einer jungen Frau im Machtgefüge wirtschaftlicher Interessen. Regie führt Torsten Schilling, zu sehen ist unter anderem Filmschauspielerin Christine Mayn. 
-Bereits zum 2. Mal wird in Bozen der Piero-Siena-Preis in Erinnerung an den Kunstkritiker vergeben. Mit dem Preis werden verdiente Künstler:innen ausgezeichnet, die in den letzten 25 Jahren in Südtirol tätig waren.  
-Im &quot;Sommernachtstraum&quot; von Michael Niavarani und Laurence Boswell wird es unheimlich und zauberhaft zugleich. Das Eisacktaler Volkstheater hat sich heuer zum 75-Jubiläum des Südtiroler Theaterverbandes etwas Besonderes ausgedacht. 
-Licht im Theater ist ein elementares Gestaltungsmittel, das weit über die &quot;Sichtbarmachung&quot; hinausgeht. Julian Marmsoler beschäftigt sich seit über zwei Jahrzehnten mit der Bühnenbeleuchtung. Allein im heurigen Sommer entwirft er das Lichtkonzept für sechs Freilichtbühnen.</desc>
-  </programme>
-  <programme start="20260713211800 +0200" stop="20260713215919 +0200" channel="Rai Südtirol">
-    <title>Ich bin nie fertig!</title>
-    <sub-title>Der Künstler Gotthard Bonell</sub-title>
-    <desc>Er ist nicht nur Maler, Zeichner, Radierer, sondern auch lyrischer Bariton - Gotthard Bonell, Jahrgang 1953. In all seinen Arbeiten kann man erkennen, wie er sich mit den existentiellen Fragen des Menschen - dem Leben und Sterben - künstlerisch auseinandersetzt hat und wie stark ihn das Dorf Truden geprägt hat. Das kommt in den Porträtbildern am besten zum Ausdruck. Hier schafft er es, zum Wesen des Menschen vorzudringen. Doch auch die Landschaftsbilder wirken wie Seelenlandschaften, in denen sich die Betrachter verlieren können. Anlässlich seines 70.Geburtstag hat Stefan Nicolini diese Dokumentation geschaffen: Sie beginnt im Theater in der Josefstadt in Wien, wo Bonells Bilder in das Bühnenbild integriert wurden.</desc>
-  </programme>
-  <programme start="20260713221000 +0200" stop="20260713223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260714200000 +0200" stop="20260714202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
