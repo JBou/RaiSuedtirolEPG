@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260714200000 +0200" stop="20260714202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260714202000 +0200" stop="20260714204526 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Generation Wozu - zwischen Sinn und Selbstoptimierung</sub-title>
-    <desc>Was wollen wir wirklich - und wofür lohnt es sich zu leben? Zwei junge Frauen, zwei unterschiedliche Wege. Und am Ende vielleicht mehr Gemeinsamkeiten als erwartet. 
-
-Moderatorin Maddalena Quaia diskutiert mit Sophie Körner, Polit-Aktivistin auf Social Media, und Eva Prunner von der Katholischen Jugend Südtirols. Eva findet ihren Sinn in der Verwurzelung - im Heimatdorf, im Ehrenamt, in der Arbeit mit Kindern und Jugendlichen. Sophie sucht ihn im digitalen Raum, in politischem Engagement, im Sichtbarmachen. Beide stellen sich dieselben Grundfragen - und beide haben für sich Antworten gefunden, die nicht dem entsprechen, was die Gesellschaft von ihrer Generation erwartet. 
-Denn während Ältere der Jugend oft Selbstbezogenheit und mangelnden Biss vorwerfen, zeigt diese Sendung: Viele junge Südtiroler:innen wissen sehr genau, was sie wollen. Die Frage ist nur, ob das auch gehört wird. 
-Ein Gespräch über Träume und Zweifel, über Selbstoptimierungsdruck und echten Lebenssinn - und darüber, dass es mehr als einen Weg gibt, diesen Lebenssinn zu finden.</desc>
-  </programme>
-  <programme start="20260714221000 +0200" stop="20260714223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260715200000 +0200" stop="20260715202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
