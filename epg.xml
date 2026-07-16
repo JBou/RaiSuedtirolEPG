@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260715200000 +0200" stop="20260715202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260715202000 +0200" stop="20260715204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Gedächtnis der Xuetas</sub-title>
-    <desc>Unterwegs in Mallorca auf den Spuren der Xuetas, Nachfahren von zwangskonvertierten jüdischen Familien. Eine Minderheit, die ihre Herkunft oft verschweigt. 
-
-Miró, Fuster, Valls sind Familiennamen, denen man auf der Ferieninsel Mallorca oft begegnet.  Miró, Fuster, Valls und weitere Zwölf erzählen von einer längst vergangenen, auch vergessenen Geschichte, die dennoch bis ins Heute strahlt. Denn diese Mallorquiner gehören zu den Xuetas, einer Minderheit, die oftmals den Mantel des Schweigens über ihre Herkunft breitet.  
-Xuetas sind die Nachfahren von zwangskonvertierten jüdischen Familien aus dem Mittelalter, Opfer der spanischen Inquisition. Ihre Geschichte ist eine Geschichte der Verfolgung über Jahrhunderte, des Kryptojudaismus, aber auch des Widerstands. Diese Dokumentation von Erna Cuesta und Agostino Fuscaldo spürt dem Vermächtnis und Gedächtnis der Xuetas nach. Mit Historikerinnen, Genealogen, Musikologinnen, Familien und deren Lebensgeschichten. Eine Reise in die Vergangenheit, um die Zukunft zu verstehen. Es war einmal auf Mallorca...</desc>
-  </programme>
-  <programme start="20260715221000 +0200" stop="20260715223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260716200000 +0200" stop="20260716202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
