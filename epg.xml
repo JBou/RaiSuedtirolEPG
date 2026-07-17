@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260716200000 +0200" stop="20260716202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260716202000 +0200" stop="20260716205208 +0200" channel="Rai Südtirol">
-    <title>Route der Romanik Folge 2</title>
-    <sub-title>Vom Vinschgau bis ins Unterland</sub-title>
-    <desc>Moderator Mirko Frainer setzt seine filmische Reise fort und zeigt uns besondere romanische
-Kirchen und Burgen, die zwischen dem Untervinschgau und dem Unterland liegen. Die filmische Reise beginnt in St. Prokulus bei Naturns, besucht die Kapellen von Schloss Tirol
-und Hocheppan und außerdem die wertvollen Fresken von St.Jakob in Kastelaz oberhalb Tramin.
-Mit dabei auch Kunsthistoriker Florian Hofer und Elke Larcher, Koordinatorin des Projekts &quot;Alpine
-Straße der Romanik&quot;. Wir erfahren viele spannende Geschichten, die sich um diese Kulturschätze ranken. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20260716221000 +0200" stop="20260716223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260717180000 +0200" stop="20260717184328 +0200" channel="Rai Südtirol">
     <title>Bergbäuerinnen in Südtirol</title>
     <sub-title>Einsatz und Begeisterung</sub-title>
