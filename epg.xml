@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260717180000 +0200" stop="20260717184328 +0200" channel="Rai Südtirol">
-    <title>Bergbäuerinnen in Südtirol</title>
-    <sub-title>Einsatz und Begeisterung</sub-title>
-    <desc>Barbara Kostner, Patrizia Declara, Sophie Wagnes sind drei Bergbäuerinnen, die mit Herz, Mut und Energie Verantwortung übernommen haben - für Hof, Familie und Traditionen.  
-Noch bevor der Tag anbricht, sind sie längst im Einsatz. Sie packen überall an - im Stall, auf den Feldern und in der Pflege jahrhundertealter Handwerkskunst. Diese Stärke und Leidenschaft möchten sie weitergeben. Sie wollen Frauen ermutigen, ihren eigenen Weg in der Landwirtschaft zu gehen. Und sie zeigen auf, dass sich die Herausforderungen des Berglebens mit Einsatz, Begeisterung und Zuversicht meistern lassen - ganz gleich ob als Frau oder als Mann. Ein Film von Matthias und Hubert Schönegger.</desc>
-  </programme>
-  <programme start="20260717184300 +0200" stop="20260717185237 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Selina Prantl, die Motorsportlerin</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260717185300 +0200" stop="20260717185848 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital</title>
-    <sub-title>Digidays an Schulen</sub-title>
-    <desc>Der mobile DigiPoint war im Rahmen eines DIGIDAYs an der Oberschule Claudia de Medici in Bozen zu Gast. Tutor Roberto vermittelte den Schüler:innen praxisnah den Umgang mit digitalen Diensten wie SPID und der digitalen Identitätskarte. Ziel ist es, digitale Kompetenzen zu stärken und junge Menschen auf eine zunehmend digitale Zukunft vorzubereiten.</desc>
-  </programme>
-  <programme start="20260717200000 +0200" stop="20260717202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260717202000 +0200" stop="20260717210500 +0200" channel="Rai Südtirol">
-    <title>Über den Wolken</title>
-    <sub-title>Südtirols höchste Schutzhütten</sub-title>
-    <desc>Becherhaus, Schwarzensteinhütte, Weißkugelhütte und Zwickauerhütte sind Südtirols höchstgelegene Schutzhütten. Sie blicken alle auf eine wechselvolle Geschichte zurück. 
-
-Drei Hüttenwirte und eine Hüttenwirtin verbringen ihren Sommer im Hochgebirge, fernab der Zivilisation. Ihre Hütten liegen am Alpenhauptkamm zum Teil über 3000 m und sind der ideale Ausgangspunkt für sportliche Abenteuer.  
-Ende Juni verabschieden sich die Wirte in die Höhe, um erst wieder Ende September ins Tal zurückzukehren. Freizeit und Privatsphäre sind in dieser Zeit Mangelware - und manchmal auch der Schlaf. Zudem sind sie für kleine und große Probleme immer der erste Ansprechpartner. Dies erfordert eine ganze Bandbreite an Fähigkeiten und eine starke Persönlichkeit. Lukas Pitscheider begleitet die Hüttenwirt:innen bei ihrer anspruchsvollen Tätigkeit fernab der Zivilisation.</desc>
-  </programme>
-  <programme start="20260717210500 +0200" stop="20260717215551 +0200" channel="Rai Südtirol">
-    <title>Abenteuer Rucksack</title>
-    <sub-title>Bergwelt im Wandel</sub-title>
-    <desc>Die Bergwelt boomt, die Zeit wird knapper, die Ziele werden mehr - und dennoch setzt sich die
-Sehnsucht nach Natur immer wieder durch. Karin Duregger ist wieder unterwegs und fragt: Was
-hat sich in 15 Jahren verändert?
-Auf 61 Kilometern und 2.356 Höhenmetern führt der Dolorama-Weg in vier Etappen durch das Eisack-, Puster- und Gadertal bis zum Eingang von Gröden - von Rodeneck bis nach Lajen. Der reine Wanderweg lässt sich optional um Klettertouren erweitern und bietet idealen Raum für Begegnungen, Einkehr und stille Beobachtung. Denn genau darum geht es in dieser neuen Folge von &quot;Abenteuer Rucksack&quot;: Gehen, begegnen, ausprobieren - und innehalten. Social Media, Zeitdruck und das Bedürfnis, alles schnell zu erleben, haben das Miteinander am Fuße der Berge verändert. Dort oben aber, in der Höhe, steht die Zeit meist still. Auch wenn Hüttenwirtinnen und´Touristiker die Berge längst als Eventlocation entdeckt haben - die Natur  behält das letzte Wort.</desc>
-  </programme>
-  <programme start="20260717221000 +0200" stop="20260717223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260718180000 +0200" stop="20260718182945 +0200" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Flora Emma Kröss</sub-title>
@@ -104,6 +62,216 @@ Aus dem einst mächtigen Vielvölkerstaat wurde ein Rumpfstaat mit 6,5 Millionen
     <desc/>
   </programme>
   <programme start="20260719221000 +0200" stop="20260719223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260720180000 +0200" stop="20260720184500 +0200" channel="Rai Südtirol">
+    <title>Bergdörfer</title>
+    <sub-title>Leben in den Kärntner Nockbergen</sub-title>
+    <desc>Die filmische Reise führt in unverwechselbare Kärntner Bergdörfer in den Nockbergen. Wir
+besuchen Menschen in ihrer bergbäuerlichen Welt. Zwar nimmt die Zahl der bewirtschafteten
+Höfe in den Höhenlagen seit Jahrzehnten ab, doch die weitergeführten Betriebe sind ungemein
+lebendig. Meist leben noch mehrere Generationen auf einem Hof zusammen. Heutzutage muss
+man erfinderisch sein und sich den modernen Anforderungen öffnen. Noch finden sich junge
+Menschen, die bereit sind, Höfe weiterzuführen.</desc>
+  </programme>
+  <programme start="20260720184500 +0200" stop="20260720185319 +0200" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Natur- und Wildnisschule</sub-title>
+    <desc>Die Natur- und Wildnisschule &quot;die Wurzel&quot; befindet sich in Platzers oberhalb von Tisens und bietet Camps, Kurse und Naturverbindung für Kinder, Erwachsene und Familien.</desc>
+  </programme>
+  <programme start="20260720185300 +0200" stop="20260720185815 +0200" channel="Rai Südtirol">
+    <title>Südtirol digital 8</title>
+    <sub-title>Die Elektronische Gesundheitsakte</sub-title>
+    <desc>Die Elektronische Gesundheitsakte (EGA) macht wichtige medizinische Informationen in Südtirol zentral digital verfügbar, von Befunden über Verschreibungen bis zu Impfungen.  
+Mit dem Einverständnis der Bürger:innen können berechtigte Gesundheitsfachkräfte bei Bedarf rasch darauf zugreifen, besonders hilfreich in Notfällen. Gleichzeitig bleibt die Kontrolle bei den Nutzer:innen: Zugriffe sind nachvollziehbar, die Freigabe ist jederzeit widerrufbar, einzelne Dokumente können auf Wunsch &quot;verdunkelt&quot; werden. Die EGA ist also ein wichtiger Baustein für eine vernetzte und patientenzentrierte Gesundheitsversorgung.</desc>
+  </programme>
+  <programme start="20260720200000 +0200" stop="20260720202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260720202000 +0200" stop="20260720215300 +0200" channel="Rai Südtirol">
+    <title>Logenplatz Rai Südtirol</title>
+    <sub-title>Im Faulturm</sub-title>
+    <desc>Freilichttheater der Pustertaler Theatergemeinschaft im Sommer 2025 über das Leben des Täuferpredigers Hans Kral, der im Faulturm von Burg Taufers gefoltert wurde.  
+
+Tirol im 16. Jahrhundert: Die Reformation erschüttert das Land. Der Täuferprediger Hans Kral wird im gefürchteten Faulturm der Burg Taufers eingekerkert und schwer gefoltert - dennoch bleibt er seinem Glauben treu. Das Freilichttheaterstück &quot;Im Faulturm&quot; der Tiroler Autorin Gertrud Geissler erzählt von der religiösen Gemeinschaft der Hutterer und ihrer enormen Glaubensstärke. Es thematisiert die Kraft der Überzeugung, den Preis der Freiheit und den Widerstand gegen Unterdrückung. Uraufgeführt wurde das Freilichtstück von der Pustertaler Theatergemeinschaft im Sommer 2025 beim Ansitz Hebenstreit in St. Lorenzen, unweit von Jakob Huters Heimat - dem Namensgeber der Hutterer.</desc>
+  </programme>
+  <programme start="20260720215300 +0200" stop="20260720215847 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Filmemacher und Fotograf Georg Zeller</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260720221000 +0200" stop="20260720223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260721200000 +0200" stop="20260721202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260721202000 +0200" stop="20260721204916 +0200" channel="Rai Südtirol">
+    <title>Kontrovers - Selbstbestimmt?</title>
+    <sub-title>Frauen in Südtirol zwischen Erwartung und Wirklichkeit</sub-title>
+    <desc>Die Mutter räumt auf. Die Tochter passt auf die Geschwister auf. Der Vater ist auf der Arbeit - oder beim Vereinsabend. In Südtirol sind Rollenbilder oft noch klar verteilt. 
+
+Die Rollenbilder werden von Generation zu Generation weitergegeben. Oft ganz selbstverständlich. Oft ohne böse Absicht. Aber hinter der scheinbar heilen Familienwelt steckt eine Frage, über die zu wenig laut gesprochen wird: Wie selbstbestimmt ist die Südtiroler Frau heute - wirklich? 
+Moderatorin Maddalena Quaia diskutiert darüber mit Barbara Plagg - Mutter, Autorin, Wissenschaftlerin und Feministin - und Pearl Ewa Bianco, Gender-Forscherin, über Gleichberechtigung, Rollenbilder und die Frage, was es bräuchte, damit Selbstbestimmung in Südtirol mehr ist als ein Schlagwort.</desc>
+  </programme>
+  <programme start="20260721221000 +0200" stop="20260721223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260722200000 +0200" stop="20260722202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260722202000 +0200" stop="20260722205007 +0200" channel="Rai Südtirol">
+    <title>Hinterm Gartenzaun</title>
+    <sub-title>Ort der Kräfte</sub-title>
+    <desc>Gärten sind ein Ort der Kraft, wo unterschiedliche Menschen zusammenkommen. Reporterin Karin Duregger schlüpft wieder durch Gartentore: in Glurns, Kortsch und Terlan. 
+
+Karin Duregger besucht einen Privatgarten in Terlan, der demenzkranken Menschen zur Verfügung steht, außerdem den Gemeinschaftsgarten in Glurns, den die Künstlerin Carmen Müller initiiert hatte. Unsere Gartenreporterin taucht schließlich ein in eine grüne Oase voller Kuriositäten in Kortsch. Sie gehört Roman Altstätter. Er lässt einige Bereiche wild wuchern, um Insekten und Kleintieren ein Refugium zu schenken.</desc>
+  </programme>
+  <programme start="20260722221000 +0200" stop="20260722223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260723200000 +0200" stop="20260723202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260723202000 +0200" stop="20260723204658 +0200" channel="Rai Südtirol">
+    <title>Sommerwanderung in Passeier</title>
+    <sub-title/>
+    <desc>Wanderreporter Theo Hendrich führt uns ins hinterste Passeiertal: ins Bunkermuseum, aber auch nach Rabenstein, wo sich einst der Kummersee befand, der sogar Meran bedrohte. 
+
+Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. Entlang der Passer führt der Weg dann bis nach Rabenstein zum Kummersee. Der See, den es heute nicht mehr gibt, hatte über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
+  </programme>
+  <programme start="20260723221000 +0200" stop="20260723223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260724180000 +0200" stop="20260724184333 +0200" channel="Rai Südtirol">
+    <title>Bergbäuerinnen in Südtirol</title>
+    <sub-title>Neue Perspektiven für die Landwirtschaft</sub-title>
+    <desc>Irene Amegg, Kathrin Freund und Kathrin Brugger sind drei Bäuerinnen, die mit viel Einsatz und Hingabe ihren Bauernhof bewirtschaften. Ein Film von Matthias und Hubert Schönegger. 
+Irene Amegg lebt mit ihrer Familie auf dem Haselberghof am Unterfennberg, wo sie gemeinsam mit ihren Töchtern den Hofalltag bewältigt. Kathrin Freund führt einen abgelegenen Hof im Pflerschtal unter den Felswänden des Tribulaun und widmet sich mit besonderer Leidenschaft der Haltung von Kleintieren. Im Sarntal arbeitet Kathrin Brugger mit ihrer Familie am Grubhof, wo ihr besonders das Verarbeiten der Kräuter und das Musizieren am Herzen liegt.</desc>
+  </programme>
+  <programme start="20260724184300 +0200" stop="20260724185537 +0200" channel="Rai Südtirol">
+    <title>Christophorus-Aktion 2026</title>
+    <sub-title>Madagaskar: Hoffnung auf vier Rädern</sub-title>
+    <desc>Wo Straßen enden, beginnt die Hilfe: Ein Rettungswagen aus Südtirol bringt Hoffnung nach Madagaskar. Unwegsame Straßen, extreme Entfernungen und eine kaum vorhandene Infrastruktur prägen den Alltag in vielen Regionen Madagaskars.  Für verletzte, kranke oder schwangere Menschen zählt dort oft jede Minute - doch der Weg zum nächsten Krankenhaus ist ohne Transportmittel meist unüberwindbar. Ein konkretes Hilfsprojekt setzt genau hier an und rettet Leben. Möglich macht diese Hilfe die Christophorusaktion der Katholischen Männerbewegung, gemeinsam mit missio Bozen-Brixen. Mit den Spenden aus Südtirol konnte ein Rettungswagen für die Mission in Analalava finanziert werden. Das Fahrzeug verbindet abgelegene Dörfer mit der neu errichteten Krankenstation und bringt medizinische Hilfe dorthin, wo sie dringend gebraucht wird.</desc>
+  </programme>
+  <programme start="20260724200000 +0200" stop="20260724202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260724202000 +0200" stop="20260724210641 +0200" channel="Rai Südtirol">
+    <title>Die Sarntaler Alpen</title>
+    <sub-title/>
+    <desc>Sportlerpersönlichkeiten wie Tamara Lunger, Simon Messner, Patrick Thaler und Trailrunnerin Regina Spieß zeigen uns knifflige Klettertouren, fordernde Trainingsrouten und viel Natur. 
+
+In den Sarntaler Alpen wurde auf einer Anhöhe eine eindrucksvolle Weltkugel aus Stahl und Beton errichtet. Von hier aus bietet sich ein 360 Grad-Panorama vom Ortler über die Ötztaler, Zillertaler und Stubaier Alpen bis hin zu den Dolomiten. Wir erleben, wie die beiden Extrembergsteiger Tamara Lunger und Simon Messner die Verdinser Plattenspitze erklimmen. Es gibt eine spektakuläre Bergrettungsübung im historischen Bergwerk von Villanders. Bergführer Hias Hofer und Rodler Simon Kainzwalder wagen sich an die Sarner Scharte und ihre steile Porphyrwand. Die Trailrunnerin Regina Spieß trainiert für den Ultra Sky Race - zwischen Familie, Beruf und sportlichen Extremen. Und schließlich trifft Ex-Skirennläufer Manfred Pranger seinen Freund Patrick Thaler im Sarntal und bricht mit ihm zu den mythischen &quot;Stoanernen Mandln&quot; auf, um dort den Sonnenaufgang zu erleben.</desc>
+  </programme>
+  <programme start="20260724210700 +0200" stop="20260724215454 +0200" channel="Rai Südtirol">
+    <title>Fischerei in Südtirol</title>
+    <sub-title>Ein Hobby mit Mehrwert</sub-title>
+    <desc>Das Fischen ist eine Freizeitaktivität, die Ruhe und Entspannung inmitten der Natur verschafft,
+egal zu welcher Altersklasse man gehört. Ob alleine oder in der Gruppe, an einem Fluss, einem Gebirgsbach oder See, die Südtiroler Fischer:innen gehen ihrem Hobby mit Leidenschaft nach. Daneben setzten sie sich aber auch für den Schutz der heimischen Fischbestände ein und haben ein Auge auf diverse Problematiken, zum Beispiel die Gefährdung der Fische durch Prädatoren wie den Kormoran oder die hydroelektrische Nutzung der Gewässer.</desc>
+  </programme>
+  <programme start="20260724215500 +0200" stop="20260724215904 +0200" channel="Rai Südtirol">
+    <title>Unbekanntes Ladinien</title>
+    <sub-title>Historische Kalköfen</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260724221000 +0200" stop="20260724223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260725180000 +0200" stop="20260725185845 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Die Sommerausstellung im ECK Museum in Bruneck, die Uraufführung des Stückes &quot;Das Schweigen der Stadt&quot; von Luis Zagler, ein Portrait des Lichtdesigners Julian Marmsoler. Im Studio begrüßt Moderator Alexander Lechner Cornelia Brugger, Schauspielerin, Grünen-Gemeinderätin und Vorstandsmitglied bei den Rittner Sommerspielen, und Ewald Kontschieder, Mitbegründer von MeranOJazz.
+Sylvie Riant kuratiert die Ausstellung &quot;WOCHENBETT&quot;im ECK Museum in Bruneck. Sie
+beleuchtet die Postpartum-Phase als vielschichtiges Spannungsfeld zwischen Verletzlichkeit und gesellschaftlichen Zwängen.
+Heuer bringen die Meraner Festspiele 2026 ein zeitgeschichtliches Thema auf die Bühne: &quot;Das
+Schweigen der Stadt&quot; handelt vom Missbrauch einer jungen Frau im Machtgefüge wirtschaftlicher
+Interessen. Regie führt Torsten Schilling, zu sehen ist unter anderem Filmschauspielerin Christine Mayn. Bereits zum 2. Mal wird in Bozen der Piero-Siena-Preis in Erinnerung an den Kunstkritiker vergeben. Mit dem Preis werden verdiente Künstler:innen ausgezeichnet, die in den letzten 25 Jahren in Südtirol tätig waren.
+Im &quot;Sommernachtstraum&quot; von Michael Niavarani und Laurence Boswell wird es unheimlich und
+zauberhaft zugleich. Das Eisacktaler Volkstheater hat sich heuer zum 75-Jubiläum des Südtiroler
+Theaterverbandes etwas Besonderes ausgedacht.
+Licht im Theater ist ein elementares Gestaltungsmittel, das weit über die &quot;Sichtbarmachung&quot; hinausgeht. Julian Marmsoler beschäftigt sich seit über zwei Jahrzehnten mit der Bühnenbeleuchtung. Allein im heurigen Sommer entwirft er das Lichtkonzept für sechs Freilichtbühnen.</desc>
+  </programme>
+  <programme start="20260725200000 +0200" stop="20260725202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260725202000 +0200" stop="20260725202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260725202400 +0200" stop="20260725203637 +0200" channel="Rai Südtirol">
+    <title>Christophorus-Aktion 2026</title>
+    <sub-title>Madagaskar: Hoffnung auf vier Rädern</sub-title>
+    <desc>Wo Straßen enden, beginnt die Hilfe: Ein Rettungswagen aus Südtirol bringt Hoffnung nach Madagaskar. 
+
+Unwegsame Straßen, extreme Entfernungen und eine kaum vorhandene Infrastruktur prägen den Alltag in vielen Regionen Madagaskars. Für verletzte, kranke oder schwangere Menschen zählt dort oft jede Minute - doch der Weg zum nächsten Krankenhaus ist ohne Transportmittel meist unüberwindbar. Ein konkretes Hilfsprojekt setzt genau hier an und rettet Leben. Möglich macht diese Hilfe die Christophorusaktion der Katholischen Männerbewegung, gemeinsam mit missio Bozen-Brixen. Mit den Spenden aus Südtirol konnte ein Rettungswagen für die Mission in Analalava finanziert werden. Das Fahrzeug verbindet abgelegene Dörfer mit der neu errichteten Krankenstation und bringt medizinische Hilfe dorthin, wo sie dringend gebraucht wird.</desc>
+  </programme>
+  <programme start="20260725203700 +0200" stop="20260725212700 +0200" channel="Rai Südtirol">
+    <title>Notfallmedizin in Südtirol</title>
+    <sub-title>Wenn jede Sekunde zählt</sub-title>
+    <desc>In Südtirol sind rund um die Uhr zahlreiche Notärzte, Notärztinnen und Rettungskräfte im Einsatz, damit verletzte und Erkrankte Menschen so schnell wie möglich versorgt werden können.
+Dabei sind sie Teil eines ausgeklügelten notfallmedizinischen Modells, das hierzulande anders aufgebaut ist als in den meisten Ländern. Gerade weil es Unterschiede und Besonderheiten gibt, lohnt sich ein genauerer Blick auf diesen im wahrsten Sinne des Wortes ,lebensrettenden Sektor'. Die Filmemacher Claudia Bosch und Hans Peter Karbon begleiten in ihrer Dokumentation nicht nur Notärzt:innen auf der Intensivstation oder im Schockraum, sondern auch im luft- und
+bodengebundenen Rettungsdienst und in der Landesnotrufzentrale.</desc>
+  </programme>
+  <programme start="20260725212700 +0200" stop="20260725215630 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>Auf der Payerhütte</sub-title>
+    <desc>Seit 150 Jahren gibt es am Tabarettakamm am Fuß des Ortlers einen Stützpunkt für Bergsteiger:
+die Payerhütte. Wir beobachten den Hüttenalltag und erkunden selten begangene Zustiegswege.
+Als höchster Gipfel der Donaumonarchie war der Ortler schon vor dem Ersten Weltkrieg ein
+touristisches Sehnsuchtsziel...aber auch die Payerhütte war und ist noch heute viel besucht. Das Team der Sendereihe Bergwelt schaut zurück auf die Geschichte des Bergsteigens am Ortler Normalweg und blickt hinter die Kulissen des Hüttenalltags.Dazu erkundet Moderator Thomas Hainz selten begangene Zustiegswege von Trafoi und von
+Sulden aus.</desc>
+  </programme>
+  <programme start="20260725221000 +0200" stop="20260725223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260726200000 +0200" stop="20260726202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260726202000 +0200" stop="20260726204930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Pestizidfreie Methode gegen Blutlaus, neue Pflanzenschutzmittel, die Luftqualität von Innenräumen, das neue Kompetenzzentrum für Internationales Wirtschafts- und Steuerrecht an der unibz. 
+
+Die Blutlaus ist eine invasive Art, die in Südirols Obstgärten großen Schäden anrichtet. Forschende an der Freien Universität Bozen versuchen Methoden zu finden, die Tiere auch ohne Einsatz von Pestiziden einzudämmen.  
+Am Versuchszentrum Laimburg wird derzeit eine neue Behandlungsmethode von Pflanzenschutzmitteln im Obst und Weinbau getestet, und zwar ohne Einsatz von Traktoren oder Menschenkraft. Die Spritzmittel werden einfach über die Beregnungsanlage versprüht.  
+In einem weiteren Beitrag steht die Luftqualität von Innenräumen im Fokus. 90 Prozent unserer Zeit verbringen wir in geschlossenen Räumen. Die Eurac testen die Qualität von Bauteilen und analysiert, wie stark sie flüchtige Verbindungen freisetzen, die gesundheitsschädlich sein können. Gast im Studio ist Peter Agstner, Professor für Wirtschafts- und Insolvenzrecht an der der Freien Universität Bozen. Er erklärt Rolle und Bedeutung des neuen Kompetenzzentrums für Internationales Wirtschafts- und Steuerrecht, das er leitet.</desc>
+  </programme>
+  <programme start="20260726205000 +0200" stop="20260726205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260726221000 +0200" stop="20260726223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
