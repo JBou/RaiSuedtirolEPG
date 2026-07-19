@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260718180000 +0200" stop="20260718182945 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Flora Emma Kröss</sub-title>
-    <desc>Die Sarnerin ist Mitbegründerin des Lichtsystemherstellers ewo und Alperia-Präsidentin. Nachhaltigkeit, Innovationskraft und regionale Verantwortung liegen ihr am Herzen. 
-Flora Emma Kröss aus dem Sarntal zählt zu den bekanntesten Unternehmerinnen Südtirols. Sie ist Mitgründerin des international erfolgreichen Lichtsystemherstellers ewo und Präsidentin des Energieunternehmens Alperia. Als strategisch denkende und öffentlich eher zurückhaltende Führungspersönlichkeit steht sie für Nachhaltigkeit, Innovationskraft und regionale Verantwortung. In der Sendung privat mit Markus Frings spricht Flora Kröss über ihren Weg als Unternehmerin, ihre Rolle als Mutter und Familienmensch sowie über die Herausforderungen, die sie auf ihrem Lebensweg geprägt haben. Dabei gewährt sie auch einen sehr persönlichen Einblick in einen schweren Schicksalsschlag, der ihr Leben nachhaltig verändert hat.</desc>
-  </programme>
-  <programme start="20260718182900 +0200" stop="20260718185830 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Gedächtnis der Xuetas</sub-title>
-    <desc>Unterwegs in Mallorca auf den Spuren der Xuetas, Nachfahren von zwangskonvertierten jüdischen Familien. Eine Minderheit, die ihre Herkunft oft verschweigt. 
-Miró, Fuster, Valls sind Familiennamen, denen man auf der Ferieninsel Mallorca oft begegnet.  Miró, Fuster, Valls und weitere Zwölf erzählen von einer längst vergangenen, auch vergessenen Geschichte, die dennoch bis ins Heute strahlt. Denn diese Mallorquiner gehören zu den Xuetas, einer Minderheit, die oftmals den Mantel des Schweigens über ihre Herkunft breitet.  
-Xuetas sind die Nachfahren von zwangskonvertierten jüdischen Familien aus dem Mittelalter, Opfer der spanischen Inquisition. Ihre Geschichte ist eine Geschichte der Verfolgung über Jahrhunderte, des Kryptojudaismus, aber auch des Widerstands. Diese Dokumentation von Erna Cuesta und Agostino Fuscaldo spürt dem Vermächtnis und Gedächtnis der Xuetas nach. Mit Historikerinnen, Genealogen, Musikologinnen, Familien und deren Lebensgeschichten. Eine Reise in die Vergangenheit, um die Zukunft zu verstehen. Es war einmal auf Mallorca...</desc>
-  </programme>
-  <programme start="20260718200000 +0200" stop="20260718202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260718202000 +0200" stop="20260718202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260718202400 +0200" stop="20260718210728 +0200" channel="Rai Südtirol">
-    <title>Bergbäuerinnen in Südtirol</title>
-    <sub-title>Neue Perspektiven für die Landwirtschaft</sub-title>
-    <desc>Irene Amegg, Kathrin Freund und Kathrin Brugger sind drei Bäuerinnen, die mit viel Einsatz und Hingabe ihren Bauernhof bewirtschaften. Ein Film von Matthias und Hubert Schönegger. 
-
-Irene Amegg lebt mit ihrer Familie auf dem Haselberghof am Unterfennberg, wo sie gemeinsam mit ihren Töchtern den Hofalltag bewältigt. Kathrin Freund führt einen abgelegenen Hof im Pflerschtal unter den Felswänden des Tribulaun und widmet sich mit besonderer Leidenschaft der Haltung von Kleintieren. Im Sarntal arbeitet Kathrin Brugger mit ihrer Familie am Grubhof, wo ihr besonders das Verarbeiten der Kräuter und das Musizieren am Herzen liegt.</desc>
-  </programme>
-  <programme start="20260718210700 +0200" stop="20260718215012 +0200" channel="Rai Südtirol">
-    <title>Traumschlösser und Burgen Südtirols</title>
-    <sub-title/>
-    <desc>In Südtirol ist die Anzahl an Burgen und Schlössern so hoch wie kaum sonstwo in Europa. Wir besuchen die Churburg in Schluderns, die seit mehr als 500 Jahren im Besitz der Familie Trapp ist. Johannes Graf Trapp, der vor kurzem verstarb, kümmerte sich auch persönlich um die Führungen durch die Burg mit ihrer einzigartigen Waffenkammer. Weitere Etappen der Schlössertour von Filmemacher Fritz Aigner sind Schloss Tirol, Schloss Schenna und die Brunnenburg im Burggrafenamt, die Festungsanlage von Schloss Sigmundskron und schließlich Schloss Taufers im Tauferer Ahrntal.</desc>
-  </programme>
-  <programme start="20260718221000 +0200" stop="20260718223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260719200000 +0200" stop="20260719202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
