@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260719200000 +0200" stop="20260719202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260719202000 +0200" stop="20260719210730 +0200" channel="Rai Südtirol">
-    <title>Der Rest ist Österreich - Teil 2</title>
-    <sub-title/>
-    <desc>&quot;Der Rest ist Österreich&quot; soll Frankreichs Ministerpräsident Clemenceau 1919 beim Vertrag von Saint-Germain, in dem Österreichs Grenzen festgelegt wurden, höhnisch gesagt haben.  
-
-Aus dem einst mächtigen Vielvölkerstaat wurde ein Rumpfstaat mit 6,5 Millionen Einwohnern. Der kleine Staat mit einer hungernden Bevölkerung durfte nicht einmal seinen selbstgewählten Namen Deutschösterreich behalten und niemand sah wirklich eine Zukunft für ihn. Nach dem Ersten Weltkrieg war die Welt in Unordnung geraten und die Verhältnisse sollten letztlich zu einem noch größeren Krieg führen. Dazwischen schlingerte die Erste Republik dahin, geprägt von scheinbar unlösbaren Problemen und zerrissen vom gegenseitigen Hass der politischen Parteien. Ein Film von Walter Seledec.</desc>
-  </programme>
-  <programme start="20260719210800 +0200" stop="20260719211200 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260719221000 +0200" stop="20260719223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260720180000 +0200" stop="20260720184500 +0200" channel="Rai Südtirol">
     <title>Bergdörfer</title>
     <sub-title>Leben in den Kärntner Nockbergen</sub-title>
