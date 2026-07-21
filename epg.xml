@@ -4,49 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260720180000 +0200" stop="20260720184500 +0200" channel="Rai Südtirol">
-    <title>Bergdörfer</title>
-    <sub-title>Leben in den Kärntner Nockbergen</sub-title>
-    <desc>Die filmische Reise führt in unverwechselbare Kärntner Bergdörfer in den Nockbergen. Wir
-besuchen Menschen in ihrer bergbäuerlichen Welt. Zwar nimmt die Zahl der bewirtschafteten
-Höfe in den Höhenlagen seit Jahrzehnten ab, doch die weitergeführten Betriebe sind ungemein
-lebendig. Meist leben noch mehrere Generationen auf einem Hof zusammen. Heutzutage muss
-man erfinderisch sein und sich den modernen Anforderungen öffnen. Noch finden sich junge
-Menschen, die bereit sind, Höfe weiterzuführen.</desc>
-  </programme>
-  <programme start="20260720184500 +0200" stop="20260720185319 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Natur- und Wildnisschule</sub-title>
-    <desc>Die Natur- und Wildnisschule &quot;die Wurzel&quot; befindet sich in Platzers oberhalb von Tisens und bietet Camps, Kurse und Naturverbindung für Kinder, Erwachsene und Familien.</desc>
-  </programme>
-  <programme start="20260720185300 +0200" stop="20260720185815 +0200" channel="Rai Südtirol">
-    <title>Südtirol digital 8</title>
-    <sub-title>Die Elektronische Gesundheitsakte</sub-title>
-    <desc>Die Elektronische Gesundheitsakte (EGA) macht wichtige medizinische Informationen in Südtirol zentral digital verfügbar, von Befunden über Verschreibungen bis zu Impfungen.  
-Mit dem Einverständnis der Bürger:innen können berechtigte Gesundheitsfachkräfte bei Bedarf rasch darauf zugreifen, besonders hilfreich in Notfällen. Gleichzeitig bleibt die Kontrolle bei den Nutzer:innen: Zugriffe sind nachvollziehbar, die Freigabe ist jederzeit widerrufbar, einzelne Dokumente können auf Wunsch &quot;verdunkelt&quot; werden. Die EGA ist also ein wichtiger Baustein für eine vernetzte und patientenzentrierte Gesundheitsversorgung.</desc>
-  </programme>
-  <programme start="20260720200000 +0200" stop="20260720202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260720202000 +0200" stop="20260720215300 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Im Faulturm</sub-title>
-    <desc>Freilichttheater der Pustertaler Theatergemeinschaft im Sommer 2025 über das Leben des Täuferpredigers Hans Kral, der im Faulturm von Burg Taufers gefoltert wurde.  
-
-Tirol im 16. Jahrhundert: Die Reformation erschüttert das Land. Der Täuferprediger Hans Kral wird im gefürchteten Faulturm der Burg Taufers eingekerkert und schwer gefoltert - dennoch bleibt er seinem Glauben treu. Das Freilichttheaterstück &quot;Im Faulturm&quot; der Tiroler Autorin Gertrud Geissler erzählt von der religiösen Gemeinschaft der Hutterer und ihrer enormen Glaubensstärke. Es thematisiert die Kraft der Überzeugung, den Preis der Freiheit und den Widerstand gegen Unterdrückung. Uraufgeführt wurde das Freilichtstück von der Pustertaler Theatergemeinschaft im Sommer 2025 beim Ansitz Hebenstreit in St. Lorenzen, unweit von Jakob Huters Heimat - dem Namensgeber der Hutterer.</desc>
-  </programme>
-  <programme start="20260720215300 +0200" stop="20260720215847 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Filmemacher und Fotograf Georg Zeller</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260720221000 +0200" stop="20260720223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260721200000 +0200" stop="20260721202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
