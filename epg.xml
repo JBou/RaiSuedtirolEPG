@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260721200000 +0200" stop="20260721202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260721202000 +0200" stop="20260721204916 +0200" channel="Rai Südtirol">
-    <title>Kontrovers - Selbstbestimmt?</title>
-    <sub-title>Frauen in Südtirol zwischen Erwartung und Wirklichkeit</sub-title>
-    <desc>Die Mutter räumt auf. Die Tochter passt auf die Geschwister auf. Der Vater ist auf der Arbeit - oder beim Vereinsabend. In Südtirol sind Rollenbilder oft noch klar verteilt. 
-
-Die Rollenbilder werden von Generation zu Generation weitergegeben. Oft ganz selbstverständlich. Oft ohne böse Absicht. Aber hinter der scheinbar heilen Familienwelt steckt eine Frage, über die zu wenig laut gesprochen wird: Wie selbstbestimmt ist die Südtiroler Frau heute - wirklich? 
-Moderatorin Maddalena Quaia diskutiert darüber mit Barbara Plagg - Mutter, Autorin, Wissenschaftlerin und Feministin - und Pearl Ewa Bianco, Gender-Forscherin, über Gleichberechtigung, Rollenbilder und die Frage, was es bräuchte, damit Selbstbestimmung in Südtirol mehr ist als ein Schlagwort.</desc>
-  </programme>
-  <programme start="20260721221000 +0200" stop="20260721223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260722200000 +0200" stop="20260722202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
