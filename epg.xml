@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260722200000 +0200" stop="20260722202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260722202000 +0200" stop="20260722205007 +0200" channel="Rai Südtirol">
-    <title>Hinterm Gartenzaun</title>
-    <sub-title>Ort der Kräfte</sub-title>
-    <desc>Gärten sind ein Ort der Kraft, wo unterschiedliche Menschen zusammenkommen. Reporterin Karin Duregger schlüpft wieder durch Gartentore: in Glurns, Kortsch und Terlan. 
-
-Karin Duregger besucht einen Privatgarten in Terlan, der demenzkranken Menschen zur Verfügung steht, außerdem den Gemeinschaftsgarten in Glurns, den die Künstlerin Carmen Müller initiiert hatte. Unsere Gartenreporterin taucht schließlich ein in eine grüne Oase voller Kuriositäten in Kortsch. Sie gehört Roman Altstätter. Er lässt einige Bereiche wild wuchern, um Insekten und Kleintieren ein Refugium zu schenken.</desc>
-  </programme>
-  <programme start="20260722221000 +0200" stop="20260722223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260723200000 +0200" stop="20260723202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
