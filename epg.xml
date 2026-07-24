@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260723200000 +0200" stop="20260723202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260723202000 +0200" stop="20260723204658 +0200" channel="Rai Südtirol">
-    <title>Sommerwanderung in Passeier</title>
-    <sub-title/>
-    <desc>Wanderreporter Theo Hendrich führt uns ins hinterste Passeiertal: ins Bunkermuseum, aber auch nach Rabenstein, wo sich einst der Kummersee befand, der sogar Meran bedrohte. 
-
-Ausgehend im Ortskern von Moos gibt es einen kurzen Abstecher ins Bunkermuseum, um dort die Bartgeier zu beobachten. Entlang der Passer führt der Weg dann bis nach Rabenstein zum Kummersee. Der See, den es heute nicht mehr gibt, hatte über Jahrhunderte die Menschen in Passeier und bis nach Meran in seinem Bann gehalten. Das Wasser des einstigen Sees wird heute in riesigen Kavernen zur Energieerzeugung verwendet. Ein Besuch in den Kavernen darf auf dieser erfrischenden Rundwanderung nicht fehlen.</desc>
-  </programme>
-  <programme start="20260723221000 +0200" stop="20260723223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260724180000 +0200" stop="20260724184333 +0200" channel="Rai Südtirol">
     <title>Bergbäuerinnen in Südtirol</title>
     <sub-title>Neue Perspektiven für die Landwirtschaft</sub-title>
@@ -132,6 +115,189 @@ In einem weiteren Beitrag steht die Luftqualität von Innenräumen im Fokus. 90 
     <desc/>
   </programme>
   <programme start="20260726221000 +0200" stop="20260726223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260727180000 +0200" stop="20260727182930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Pestizidfreie Methode gegen Blutlaus, neue Pflanzenschutzmittel, die Luftqualität von Innenräumen, das neue Kompetenzzentrum für Internationales Wirtschafts- und Steuerrecht an der unibz. Die Blutlaus ist eine invasive Art, die in Südirols Obstgärten großen Schäden anrichtet. Forschende an der Freien Universität Bozen versuchen Methoden zu finden, die Tiere auch ohne Einsatz von Pestiziden einzudämmen.  
+Am Versuchszentrum Laimburg wird derzeit eine neue Behandlungsmethode von Pflanzenschutzmitteln im Obst und Weinbau getestet, und zwar ohne Einsatz von Traktoren oder Menschenkraft. Die Spritzmittel werden einfach über die Beregnungsanlage versprüht.  
+In einem weiteren Beitrag steht die Luftqualität von Innenräumen im Fokus. 90 Prozent unserer Zeit verbringen wir in geschlossenen Räumen. Die Eurac testen die Qualität von Bauteilen und analysiert, wie stark sie flüchtige Verbindungen freisetzen, die gesundheitsschädlich sein können. Gast im Studio ist Peter Agstner, Professor für Wirtschafts- und Insolvenzrecht an der der Freien Universität Bozen. Er erklärt Rolle und Bedeutung des neuen Kompetenzzentrums für Internationales Wirtschafts- und Steuerrecht, das er leitet.</desc>
+  </programme>
+  <programme start="20260727182900 +0200" stop="20260727185759 +0200" channel="Rai Südtirol">
+    <title>3 Frauen, 1 Ziel</title>
+    <sub-title>Uganda - Wo Hilfe Zukunft schafft</sub-title>
+    <desc>Was bewirkten Entwicklungsprojekte aus Südtirol in Uganda? Diese Frage führt Landesrätin Rosmarie Pamer, Caritas-Direktorin Beatrix Mairhofer und Irene Obexer vom Missionsamt nach Ostafrika.  
+Die Dokumentation von Filmemacher Wolfgang Penn begleitet sie zu Flüchtlingslagern, Schulen, Ausbildungszentren und einem Gesundheitszentrum. Überall erleben sie, wie die Unterstützung aus Südtirol den Menschen hilft, den Alltag zu meistern, neue Perspektiven zu entwickeln und ihre Gemeinschaft zu stärken. Die Reise zeigt, wie vielfältig das Engagement ist, welche Wirkung Partnerschaften entfalten und wie Solidarität über Grenzen hinweg ankommt. Durch direkte Begegnungen und Gespräche werden die Herausforderungen sichtbar, denen die Menschen gegenüberstehen, aber auch die Fortschritte, die durch Bildung, Ausbildung und gezielte Hilfe möglich werden.</desc>
+  </programme>
+  <programme start="20260727200000 +0200" stop="20260727202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260727202000 +0200" stop="20260727213403 +0200" channel="Rai Südtirol">
+    <title>Logenplatz Rai Südtirol</title>
+    <sub-title>Die Wölfe</sub-title>
+    <desc>Im Rahmen des Südtiroler Freilichtsommers zeigten die Meraner Festspiele im Areal oberhalb der Gärten von Schloss Trautmannsdorff das historische Drama &quot;Die Wölfe&quot; von Luis Zagler in der Regie von Judith Keller.
+
+Tirol 1816: Es herrschte bittere Armut, extreme Wetterverhältnisse bringen Missernten, Hunger und Elend. Die Bevölkerung leidet unter den Nachwehen des Krieges, harte Winter setzen den Bauern zu und die Angst vor den Wölfen geht um. Doch die Not der Bauern bleibt ungehört. Vor diesem Hintergrund dreht sich das Stück um die Geschichte eines 17-jährigen Mädchens. Sie wird von ihrem Stiefvater dazu angehalten, sich mit dem Sohn des Grafen zu treffen, damit er die Bauern im Kampf um die Wölfe unterstützt.</desc>
+  </programme>
+  <programme start="20260727213400 +0200" stop="20260727215844 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Vahrn</sub-title>
+    <desc>Historische Bauten und interessante Menschen geben Vahrn seinen ganz eigenen Charakter: ein Waffensammler, eine Eisherstellerin, ein Karikaturist? Am Berghang befindet sich die Pfarrkirche St. Georg, die über die Ortschaft zu wachen schein. Nicht unweit davon befindet sich die Burg Salern, eine Ruine, die jedoch besichtigt werden kann. Landwirt Toni Jöchler kennt die Geschichte seines Heimatortes und besitzt im Ansitz Gartnerhof ein kleines privates Waffenmuseum. Die Geschwister Alexander und Lisi Stolz vom Ansitz Hubenbauer betreiben gemeinsam Landwirtschaft und einen Buschenschank. Mit viel Leidenschaft braut Alexander das eigene Bier, und Lisi kümmert sich um die hofeigene Eisproduktion. Aus Vahrn stammt auch der Künstler und Karikaturist Jochen Gasser, der heute in Wien lebt. In Vahrn hat er seine Karikaturen verewigt.</desc>
+  </programme>
+  <programme start="20260727221000 +0200" stop="20260727223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260728200000 +0200" stop="20260728202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260728202000 +0200" stop="20260728204930 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Studieren. Weggehen. Und dann?</sub-title>
+    <desc>Bessere Gehälter, mehr Anerkennung, Abschlüsse, die zählen – was viele junge Südtiroler:innen suchen, finden sie oft nicht zu Hause. Südtirol verliert Köpfe. Und tut zu wenig dagegen. 
+
+Aber ist das Leben im Ausland die Lösung? Zwischen Remote Work, befristeten Verträgen und der Frage, wo man eigentlich hingehört, bleibt vieles offen. Gehen, bleiben, zurückkommen - oder irgendwas dazwischen? 
+Moderatorin Maddalena Quaia spricht mit Anna Ganthaler, die für einen internationalen Konzern in London arbeitet - und dabei trotzdem in Südtirol lebt. Und mit Ärztin Ines Unterfrauner, die in ihrem eigenen Land nur in der Privatmedizin eine Stelle gefunden hat. 
+Zwei Frauen, zwei Wege - und die Frage, was das über Südtirol sagt.</desc>
+  </programme>
+  <programme start="20260728221000 +0200" stop="20260728223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260729200000 +0200" stop="20260729202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260729202000 +0200" stop="20260729204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Südtirols Landwirtschaft zwischen Kulturerbe und Pioniergeist: &quot;Land&amp;Leben&quot; blickt hinter die Kulissen und zeigt die faszinierende Bandbreite der Berglandwirtschaft.
+
+Das Magazin blickt zuerst ins Passeiertal auf das Tiroler Grauvieh und die Pseirer Gebirgsziege, die als lebendiges Kulturerbe gemeinsam mit leidenschaftlichen Züchtern die raue Berglandwirtschaft prägen. Dass dieses Brauchtum kein verstaubtes Relikt ist, beweist im Anschluss der junge Züchterinnen-Nachwuchs beim Grauvieh im Sarntal, wo Tradition echter, junger Alltag bleibt. Zum Abschluss zeigt ein junges Paar im Pustertal mutigen Pioniergeist und etabliert mit Wachteln, Wachteleiern sowie Bruteiern erfolgreich einen neuen Einkommenszweig auf seinem kleinen Hof.</desc>
+  </programme>
+  <programme start="20260729221000 +0200" stop="20260729223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260730200000 +0200" stop="20260730202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260730202000 +0200" stop="20260730205003 +0200" channel="Rai Südtirol">
+    <title>Auf der Suche nach Verantwortung</title>
+    <sub-title/>
+    <desc>Karin Duregger trifft Menschen, die soziale Verantwortung spüren. 
+
+Beispielsweise einen Obervinschger, der mit seiner Frau vor über zehn Jahren eine Sozialgenossenschaft gegründet hat, die auch Menschen mit Beeinträchtigung oder sozial benachteiligte Menschen engagiert. In einer Bar lernt sie eine Clown-Frau kennen, und in einem Tattoostudio eine junge Frau, die Stoffbinden für Frauen in Tansania näht.</desc>
+  </programme>
+  <programme start="20260730221000 +0200" stop="20260730223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260731180000 +0200" stop="20260731182718 +0200" channel="Rai Südtirol">
+    <title>Teneriffa</title>
+    <sub-title>Ein Auslandspraktikum</sub-title>
+    <desc>Wie wird aus Theorie gelebte Praxis? Und welche Erfahrungen prägen angehende Lehrpersonen
+wirklich? Wir begleiten Johanna Cont in eine deutsche Schule auf den Kanaren. Fernab von Südtirol taucht Johanna Cont - Studentin der Bildungswissenschaften der unibz - taucht für mehrere Wochen in den Schulalltag einer privaten, zweisprachigen Schule in Puerto de la Cruz ein. Zwischen Palmen, Meeresluft und tropischem Klima erlebt sie eine Form des Unterrichtens, die von Nähe, Individualität und kreativen Lernformen geprägt ist.
+Die Dokumentation von Peter Vonmetz zeigt, wie wichtig praktische Erfahrungen für die
+Ausbildung zukünftiger Lehrpersonen sind. Während ihres Auslandspraktikums lernt Johanna
+nicht nur neue Unterrichtsmethoden kennen, sondern auch eine andere pädagogische Kultur:
+kleine Klassen, jahrgangsübergreifender Unterricht, Lernen unter freiem Himmel und ein
+intensiver Austausch mit Kindern, Eltern und Lehrpersonen. Besonders prägend ist die
+Zusammenarbeit mit Lehrerin Loredana Siriu, die ihre Erfahrungen mit großer Offenheit an die
+nächste Generation weitergibt. Eine Geschichte über Lernen, Begegnungen und die Erkenntnis,
+dass die wichtigsten Erfahrungen oft außerhalb des Klassenzimmers entstehen.</desc>
+  </programme>
+  <programme start="20260731182700 +0200" stop="20260731185955 +0200" channel="Rai Südtirol">
+    <title>Faszination Landmaschinen</title>
+    <sub-title/>
+    <desc>Landmaschinen wie Traktoren, Mähdrescher und Transporter bringen Power in die Landwirtschaft: Sie sind unverzichtbare Helfer, sie sind Prestigeobjekte. Und sie sind ein potenzielles Risiko.
+Lohnunternehmer Christian Früh aus Tirol erntet mit seinem Mähdrescher fremde Felder.
+Jungbauer Felix kämpft am Pischelehof in Pfalzen um jede Tonne Mais. Peter Gogl aus Sterzing presst mit seiner tonnenschweren Silopresse das Winterfutter für Südtirols Kühe. Die Burggräfler
+Schlepperfreunde pflegen historische Traktoren wie Schätze. Ihre Leidenschaft: Oldtimer, die Geschichte erzählen. Doch die Statistik ist alarmierend: In Südtirol übersteigt die Zahl der
+Arbeitsunfälle den italienischen Mittelwert. Besonders betroffen: die Landwirtschaft. 2021 stürzte der Mann von Christine Brunner Bauer mit dem Traktor 100 Meter in die Tiefe und wurde schwer verletzt. Seitdem muss sie allein den Hof führen. Allein den Traktor fahren. Trotz der Angst.</desc>
+  </programme>
+  <programme start="20260731200000 +0200" stop="20260731202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260731202000 +0200" stop="20260731210500 +0200" channel="Rai Südtirol">
+    <title>Eine Schatzsuche</title>
+    <sub-title>Auf Höfen und Almen im Gsiesertal</sub-title>
+    <desc>Sanfte Almhänge, jahrhundertealte Bauernhöfe und urige Almhütten - das Gsiesertal im Osten Südtirols ist ein Ort, an dem die Zeit langsamer vergeht. 
+
+Dort, wo sich Almen auf weichen Hügeln aneinanderreihen, leben Menschen, die noch heute tief mit der Natur, den Bergen und ihrer Geschichte verbunden sind: von Sennerin Sieglinde über Josef Mair, der ein jahrhundertealtes Bauernhaus behutsam restauriert hat, bis zu Felix Hofmann, der mithilfe einer Seilbahn moderne Berglandwirtschaft betreibt. Auch architektonische Projekte wie die Biwaks am Schwarzsee und lebendige Traditionen wie das Herz-Jesus-Feuer oder das Goaßlschnöllen stehen im Mittelpunkt der Sendung. Mit eindrucksvollen Bildern und persönlichen Geschichten erzählt sie von einem Tal, das seine Ursprünglichkeit zu bewahren sucht.</desc>
+  </programme>
+  <programme start="20260731210500 +0200" stop="20260731215853 +0200" channel="Rai Südtirol">
+    <title>Pioniere des Fernsehens</title>
+    <sub-title>Europas erster deutschsprachiger Privatsender TVS</sub-title>
+    <desc>Ein kleiner TV-Sender aus Naturns erobert die Wohnzimmer in Südtirol. Eine Geschichte von Pioniergeist und Aufbruchstimmung erzählt von Helmut Lechthaler und Alexander Lechner. Südtirol Ende der 1970er Jahre. Fernsehmacher aus Deutschland und Österreich blicken mit Verwunderung nach Naturns. Ausgerechnet in dem kleinen Ort im Vinschgau wird 1978 das deutsche Privatfernsehen aus der Taufe gehoben. Mit TVS weckt Senderchef Karlheinz Gamper nicht nur Begehrlichkeiten im Ausland, wo Privat-TV zu der Zeit noch ein Fremdwort ist, er stillt damit auch ein Bedürfnis in der lokalen Bevölkerung nach Innovation und Direktheit. Die Gründungsgeschichte des Senders spiegelt den Zeitgeist wider, der geprägt war von der Abwendung verstaubter Konventionen und von der Aufbruchstimmung einer ganzen Gesellschaft.</desc>
+  </programme>
+  <programme start="20260731221000 +0200" stop="20260731223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260801180000 +0200" stop="20260801185800 +0200" channel="Rai Südtirol">
+    <title>Passion Gespannfahren</title>
+    <sub-title>Hannes Weitlaner</sub-title>
+    <desc>Mit Herz und Leinen. Ein Porträt über den Pusterer Hannes Weitlaner, der sich dem Gespannfahren verschrieben hat. Mit seinem Haflinger-Gespann errang er 2011 Edelmetall. Ein Jahr lang hat ein Filmteam den Südtiroler Hannes Weitlaner aus dem Pustertal begleitet. Daraus ist ein eindrucksvoller Film von Juri Gasperi über das Gespannfahren entstanden. Das ist ein Pferdesport, der in einer Nische verborgen scheint und doch so viel Interessantes in sich birgt. Hannes Weitlaner gewann 2011 im slowenischen Lipica die WM Bronzemedaille. Er ist Gestütsleiter auf dem Tolderhof in Oberolang und heute erfolgreicher Nationaltrainer. Das Portrait eines Mannes, der sich ganz seiner Passion verschrieben hat und alles daransetzt, seine Sportart zu erhalten.</desc>
+  </programme>
+  <programme start="20260801200000 +0200" stop="20260801202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260801202000 +0200" stop="20260801202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260801202400 +0200" stop="20260801205330 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Ein Besuch auf dem ältesten Dorffest Südtirols, Junggastwirt des Jahres Damian Alber und die alltäglichen Herausforderungen  auf Schutzhütten. 
+
+Früh aufstehen, lange Arbeitstage und die ständige Frage, wie man Gäste auf über 2.000 Metern Höhe versorgt: Der Alltag auf einer Schutzhütte ist oft weit anspruchsvoller, als viele vermuten. Im Willkommen-Magazin besuchen wir zwei Hütten im Naturpark Fanes-Sennes-Prags und begleiten ihre Pächterinnen bei der Arbeit. Auf der Lavarella-Hütte zeigt Anna Frenner, wie Tradition und Innovation zusammenfinden, unter anderem mit der höchstgelegenen Brauerei Europas. Auf der Fodara Vedla gewährt Lorena Mutschlechner Einblicke in das Leben und Arbeiten fernab des Talalltags. Der Beitrag zeigt, welche Herausforderungen die Hüttenwirte heute bewältigen müssen und wie viel Einsatz hinter einem gelungenen Aufenthalt in den Bergen steckt. 
+Im Restaurant Vögele in Bozen treffen wir den heurigen Junggastwirt des Jahres: Damian Alber. Er verrät, wie er Tradition und Innovation vereint und den Herausforderungen der Branche begegnet. Außerdem hat sich die Hoteliers- und Gastwirtejugend mit Wirtschaftsvertretern vernetzt, um Zukunft zu gestalten. 
+Seit über fünf Jahrzehnten gehört das Laubenfest zu Neumarkt wie die historischen Lauben selbst. Was 1973 als Idee engagierter Vereinsmitglieder begann, gilt heute als das älteste Dorffest Südtirols. Doch wie ist aus einem kleinen Vereinsfest eine Veranstaltung geworden, die Generationen verbindet? Und was steckt hinter einem Fest, das Jahr für Jahr von Ehrenamtlichen getragen wird? Wir haben uns auf Spurensuche begeben.</desc>
+  </programme>
+  <programme start="20260801205400 +0200" stop="20260801213832 +0200" channel="Rai Südtirol">
+    <title>Unterm Horizont des Vinschgaus</title>
+    <sub-title/>
+    <desc>Die Wiederansiedlung des Bartgeiers, die Herausforderungen der Bergbauern am Naturnser
+Sonnenberg, das Bewässerungssystem der Malser Haide, die erste biozertifizierte Alm Südtirols.
+Seit Jahren folgt der Naturfotograf Philipp Egger der Spur des Bartgeiers, einer der
+eindrucksvollsten Vögel der Alpen. Seine Fotografien sind nicht nur Momentaufnahmen, sondern Ausdruck der tiefen Verbindung zwischen Mensch und Natur in dieser beeindruckenden
+Bergwelt. Außerdem wird die Bedeutung des traditionellen Bewässerungssystems der Malser
+Haide beleuchtet, ein Meisterwerk menschlicher Ingenieurskunst, das Leben in die karge
+Landschaft bringt. Die harte Arbeit der Bergbauern am Vinschger Sonnenberg wird ebenso gewürdigt. Sie erzählen von Kampf und Überleben inmitten der rauen Bergwelt und vom Bewahren des kulturellen Erbes ihrer Vorfahren. Kunst und Geschichte finden ihre Bühne im Marmorabbau in Göflan und im Kloster Marienberg, das seit Jahrhunderten den spirituellen Horizont der Region prägt. Auf der Gonda Alm im Matschertal, der ersten biozertifizierten Alm Südtirols, zeigt sich wie Tradition und innovative Ideen zu einer nachhaltigen Zukunft verschmelzen. Dieser alpine Streifzug durch den Vinschgau ist eine tiefgehende Reflexion über die Beziehung zwischen Mensch, Berg und Tal im Westen Südtirols.</desc>
+  </programme>
+  <programme start="20260801213800 +0200" stop="20260801214643 +0200" channel="Rai Südtirol">
+    <title>Tierschutzverein Vinschgau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260801214700 +0200" stop="20260801215930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Unterwegs mit Slackliner Benjamin Kofler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260801221000 +0200" stop="20260801223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
