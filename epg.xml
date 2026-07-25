@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260724180000 +0200" stop="20260724184333 +0200" channel="Rai Südtirol">
-    <title>Bergbäuerinnen in Südtirol</title>
-    <sub-title>Neue Perspektiven für die Landwirtschaft</sub-title>
-    <desc>Irene Amegg, Kathrin Freund und Kathrin Brugger sind drei Bäuerinnen, die mit viel Einsatz und Hingabe ihren Bauernhof bewirtschaften. Ein Film von Matthias und Hubert Schönegger. 
-Irene Amegg lebt mit ihrer Familie auf dem Haselberghof am Unterfennberg, wo sie gemeinsam mit ihren Töchtern den Hofalltag bewältigt. Kathrin Freund führt einen abgelegenen Hof im Pflerschtal unter den Felswänden des Tribulaun und widmet sich mit besonderer Leidenschaft der Haltung von Kleintieren. Im Sarntal arbeitet Kathrin Brugger mit ihrer Familie am Grubhof, wo ihr besonders das Verarbeiten der Kräuter und das Musizieren am Herzen liegt.</desc>
-  </programme>
-  <programme start="20260724184300 +0200" stop="20260724185537 +0200" channel="Rai Südtirol">
-    <title>Christophorus-Aktion 2026</title>
-    <sub-title>Madagaskar: Hoffnung auf vier Rädern</sub-title>
-    <desc>Wo Straßen enden, beginnt die Hilfe: Ein Rettungswagen aus Südtirol bringt Hoffnung nach Madagaskar. Unwegsame Straßen, extreme Entfernungen und eine kaum vorhandene Infrastruktur prägen den Alltag in vielen Regionen Madagaskars.  Für verletzte, kranke oder schwangere Menschen zählt dort oft jede Minute - doch der Weg zum nächsten Krankenhaus ist ohne Transportmittel meist unüberwindbar. Ein konkretes Hilfsprojekt setzt genau hier an und rettet Leben. Möglich macht diese Hilfe die Christophorusaktion der Katholischen Männerbewegung, gemeinsam mit missio Bozen-Brixen. Mit den Spenden aus Südtirol konnte ein Rettungswagen für die Mission in Analalava finanziert werden. Das Fahrzeug verbindet abgelegene Dörfer mit der neu errichteten Krankenstation und bringt medizinische Hilfe dorthin, wo sie dringend gebraucht wird.</desc>
-  </programme>
-  <programme start="20260724200000 +0200" stop="20260724202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260724202000 +0200" stop="20260724210641 +0200" channel="Rai Südtirol">
-    <title>Die Sarntaler Alpen</title>
-    <sub-title/>
-    <desc>Sportlerpersönlichkeiten wie Tamara Lunger, Simon Messner, Patrick Thaler und Trailrunnerin Regina Spieß zeigen uns knifflige Klettertouren, fordernde Trainingsrouten und viel Natur. 
-
-In den Sarntaler Alpen wurde auf einer Anhöhe eine eindrucksvolle Weltkugel aus Stahl und Beton errichtet. Von hier aus bietet sich ein 360 Grad-Panorama vom Ortler über die Ötztaler, Zillertaler und Stubaier Alpen bis hin zu den Dolomiten. Wir erleben, wie die beiden Extrembergsteiger Tamara Lunger und Simon Messner die Verdinser Plattenspitze erklimmen. Es gibt eine spektakuläre Bergrettungsübung im historischen Bergwerk von Villanders. Bergführer Hias Hofer und Rodler Simon Kainzwalder wagen sich an die Sarner Scharte und ihre steile Porphyrwand. Die Trailrunnerin Regina Spieß trainiert für den Ultra Sky Race - zwischen Familie, Beruf und sportlichen Extremen. Und schließlich trifft Ex-Skirennläufer Manfred Pranger seinen Freund Patrick Thaler im Sarntal und bricht mit ihm zu den mythischen &quot;Stoanernen Mandln&quot; auf, um dort den Sonnenaufgang zu erleben.</desc>
-  </programme>
-  <programme start="20260724210700 +0200" stop="20260724215454 +0200" channel="Rai Südtirol">
-    <title>Fischerei in Südtirol</title>
-    <sub-title>Ein Hobby mit Mehrwert</sub-title>
-    <desc>Das Fischen ist eine Freizeitaktivität, die Ruhe und Entspannung inmitten der Natur verschafft,
-egal zu welcher Altersklasse man gehört. Ob alleine oder in der Gruppe, an einem Fluss, einem Gebirgsbach oder See, die Südtiroler Fischer:innen gehen ihrem Hobby mit Leidenschaft nach. Daneben setzten sie sich aber auch für den Schutz der heimischen Fischbestände ein und haben ein Auge auf diverse Problematiken, zum Beispiel die Gefährdung der Fische durch Prädatoren wie den Kormoran oder die hydroelektrische Nutzung der Gewässer.</desc>
-  </programme>
-  <programme start="20260724215500 +0200" stop="20260724215904 +0200" channel="Rai Südtirol">
-    <title>Unbekanntes Ladinien</title>
-    <sub-title>Historische Kalköfen</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260724221000 +0200" stop="20260724223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260725180000 +0200" stop="20260725185845 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -298,6 +259,28 @@ Landschaft bringt. Die harte Arbeit der Bergbauern am Vinschger Sonnenberg wird 
     <desc/>
   </programme>
   <programme start="20260801221000 +0200" stop="20260801223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260802200000 +0200" stop="20260802202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260802202000 +0200" stop="20260802204430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Spinges</sub-title>
+    <desc>Spinges ist eine idyllische Fraktion der Gemeinde Mühlbach und liegt auf einem sonnigen Hochplateau auf 1.105 Metern Höhe, genau dort, wo das Pustertal in das Eisacktal übergeht. 
+
+&quot;Land und Leute&quot; führt in das geschichtsträchtige Bergdorf, das für seine eindrucksvolle Landschaft ebenso bekannt ist wie für seine bewegte Vergangenheit. Im ehemaligen Sommerhaus des berühmten Tiroler Malers Franz von Defregger gewährt dessen Ur-Enkel persönliche Einblicke in das Leben und Wirken des Künstlers. Die Sendung erinnert an die Volksheldin Katharina Lanz, begleitet das bäuerliche Leben auf den Almen, zeigt gelebte Traditionen und ein Kulturpfad lässt die Geschichte des Dorfes an zahlreichen Stationen wieder lebendig werden.</desc>
+  </programme>
+  <programme start="20260802204500 +0200" stop="20260802204745 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260802221000 +0200" stop="20260802223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
