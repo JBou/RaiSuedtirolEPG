@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260726200000 +0200" stop="20260726202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260726202000 +0200" stop="20260726204930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Pestizidfreie Methode gegen Blutlaus, neue Pflanzenschutzmittel, die Luftqualität von Innenräumen, das neue Kompetenzzentrum für Internationales Wirtschafts- und Steuerrecht an der unibz. 
-
-Die Blutlaus ist eine invasive Art, die in Südirols Obstgärten großen Schäden anrichtet. Forschende an der Freien Universität Bozen versuchen Methoden zu finden, die Tiere auch ohne Einsatz von Pestiziden einzudämmen.  
-Am Versuchszentrum Laimburg wird derzeit eine neue Behandlungsmethode von Pflanzenschutzmitteln im Obst und Weinbau getestet, und zwar ohne Einsatz von Traktoren oder Menschenkraft. Die Spritzmittel werden einfach über die Beregnungsanlage versprüht.  
-In einem weiteren Beitrag steht die Luftqualität von Innenräumen im Fokus. 90 Prozent unserer Zeit verbringen wir in geschlossenen Räumen. Die Eurac testen die Qualität von Bauteilen und analysiert, wie stark sie flüchtige Verbindungen freisetzen, die gesundheitsschädlich sein können. Gast im Studio ist Peter Agstner, Professor für Wirtschafts- und Insolvenzrecht an der der Freien Universität Bozen. Er erklärt Rolle und Bedeutung des neuen Kompetenzzentrums für Internationales Wirtschafts- und Steuerrecht, das er leitet.</desc>
-  </programme>
-  <programme start="20260726205000 +0200" stop="20260726205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260726221000 +0200" stop="20260726223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260727180000 +0200" stop="20260727182930 +0200" channel="Rai Südtirol">
     <title>Campus</title>
     <sub-title>Magazin für Forschung und Entwicklung</sub-title>
