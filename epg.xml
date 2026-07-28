@@ -4,41 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260727180000 +0200" stop="20260727182930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Pestizidfreie Methode gegen Blutlaus, neue Pflanzenschutzmittel, die Luftqualität von Innenräumen, das neue Kompetenzzentrum für Internationales Wirtschafts- und Steuerrecht an der unibz. Die Blutlaus ist eine invasive Art, die in Südirols Obstgärten großen Schäden anrichtet. Forschende an der Freien Universität Bozen versuchen Methoden zu finden, die Tiere auch ohne Einsatz von Pestiziden einzudämmen.  
-Am Versuchszentrum Laimburg wird derzeit eine neue Behandlungsmethode von Pflanzenschutzmitteln im Obst und Weinbau getestet, und zwar ohne Einsatz von Traktoren oder Menschenkraft. Die Spritzmittel werden einfach über die Beregnungsanlage versprüht.  
-In einem weiteren Beitrag steht die Luftqualität von Innenräumen im Fokus. 90 Prozent unserer Zeit verbringen wir in geschlossenen Räumen. Die Eurac testen die Qualität von Bauteilen und analysiert, wie stark sie flüchtige Verbindungen freisetzen, die gesundheitsschädlich sein können. Gast im Studio ist Peter Agstner, Professor für Wirtschafts- und Insolvenzrecht an der der Freien Universität Bozen. Er erklärt Rolle und Bedeutung des neuen Kompetenzzentrums für Internationales Wirtschafts- und Steuerrecht, das er leitet.</desc>
-  </programme>
-  <programme start="20260727182900 +0200" stop="20260727185759 +0200" channel="Rai Südtirol">
-    <title>3 Frauen, 1 Ziel</title>
-    <sub-title>Uganda - Wo Hilfe Zukunft schafft</sub-title>
-    <desc>Was bewirkten Entwicklungsprojekte aus Südtirol in Uganda? Diese Frage führt Landesrätin Rosmarie Pamer, Caritas-Direktorin Beatrix Mairhofer und Irene Obexer vom Missionsamt nach Ostafrika.  
-Die Dokumentation von Filmemacher Wolfgang Penn begleitet sie zu Flüchtlingslagern, Schulen, Ausbildungszentren und einem Gesundheitszentrum. Überall erleben sie, wie die Unterstützung aus Südtirol den Menschen hilft, den Alltag zu meistern, neue Perspektiven zu entwickeln und ihre Gemeinschaft zu stärken. Die Reise zeigt, wie vielfältig das Engagement ist, welche Wirkung Partnerschaften entfalten und wie Solidarität über Grenzen hinweg ankommt. Durch direkte Begegnungen und Gespräche werden die Herausforderungen sichtbar, denen die Menschen gegenüberstehen, aber auch die Fortschritte, die durch Bildung, Ausbildung und gezielte Hilfe möglich werden.</desc>
-  </programme>
-  <programme start="20260727200000 +0200" stop="20260727202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260727202000 +0200" stop="20260727213403 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Die Wölfe</sub-title>
-    <desc>Im Rahmen des Südtiroler Freilichtsommers zeigten die Meraner Festspiele im Areal oberhalb der Gärten von Schloss Trautmannsdorff das historische Drama &quot;Die Wölfe&quot; von Luis Zagler in der Regie von Judith Keller.
-
-Tirol 1816: Es herrschte bittere Armut, extreme Wetterverhältnisse bringen Missernten, Hunger und Elend. Die Bevölkerung leidet unter den Nachwehen des Krieges, harte Winter setzen den Bauern zu und die Angst vor den Wölfen geht um. Doch die Not der Bauern bleibt ungehört. Vor diesem Hintergrund dreht sich das Stück um die Geschichte eines 17-jährigen Mädchens. Sie wird von ihrem Stiefvater dazu angehalten, sich mit dem Sohn des Grafen zu treffen, damit er die Bauern im Kampf um die Wölfe unterstützt.</desc>
-  </programme>
-  <programme start="20260727213400 +0200" stop="20260727215844 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Vahrn</sub-title>
-    <desc>Historische Bauten und interessante Menschen geben Vahrn seinen ganz eigenen Charakter: ein Waffensammler, eine Eisherstellerin, ein Karikaturist? Am Berghang befindet sich die Pfarrkirche St. Georg, die über die Ortschaft zu wachen schein. Nicht unweit davon befindet sich die Burg Salern, eine Ruine, die jedoch besichtigt werden kann. Landwirt Toni Jöchler kennt die Geschichte seines Heimatortes und besitzt im Ansitz Gartnerhof ein kleines privates Waffenmuseum. Die Geschwister Alexander und Lisi Stolz vom Ansitz Hubenbauer betreiben gemeinsam Landwirtschaft und einen Buschenschank. Mit viel Leidenschaft braut Alexander das eigene Bier, und Lisi kümmert sich um die hofeigene Eisproduktion. Aus Vahrn stammt auch der Künstler und Karikaturist Jochen Gasser, der heute in Wien lebt. In Vahrn hat er seine Karikaturen verewigt.</desc>
-  </programme>
-  <programme start="20260727221000 +0200" stop="20260727223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260728200000 +0200" stop="20260728202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
