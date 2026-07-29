@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260728200000 +0200" stop="20260728202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260728202000 +0200" stop="20260728204930 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Studieren. Weggehen. Und dann?</sub-title>
-    <desc>Bessere Gehälter, mehr Anerkennung, Abschlüsse, die zählen – was viele junge Südtiroler:innen suchen, finden sie oft nicht zu Hause. Südtirol verliert Köpfe. Und tut zu wenig dagegen. 
-
-Aber ist das Leben im Ausland die Lösung? Zwischen Remote Work, befristeten Verträgen und der Frage, wo man eigentlich hingehört, bleibt vieles offen. Gehen, bleiben, zurückkommen - oder irgendwas dazwischen? 
-Moderatorin Maddalena Quaia spricht mit Anna Ganthaler, die für einen internationalen Konzern in London arbeitet - und dabei trotzdem in Südtirol lebt. Und mit Ärztin Ines Unterfrauner, die in ihrem eigenen Land nur in der Privatmedizin eine Stelle gefunden hat. 
-Zwei Frauen, zwei Wege - und die Frage, was das über Südtirol sagt.</desc>
-  </programme>
-  <programme start="20260728221000 +0200" stop="20260728223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260729200000 +0200" stop="20260729202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
