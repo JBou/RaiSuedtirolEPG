@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260729200000 +0200" stop="20260729202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260729202000 +0200" stop="20260729204930 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Südtirols Landwirtschaft zwischen Kulturerbe und Pioniergeist: &quot;Land&amp;Leben&quot; blickt hinter die Kulissen und zeigt die faszinierende Bandbreite der Berglandwirtschaft.
-
-Das Magazin blickt zuerst ins Passeiertal auf das Tiroler Grauvieh und die Pseirer Gebirgsziege, die als lebendiges Kulturerbe gemeinsam mit leidenschaftlichen Züchtern die raue Berglandwirtschaft prägen. Dass dieses Brauchtum kein verstaubtes Relikt ist, beweist im Anschluss der junge Züchterinnen-Nachwuchs beim Grauvieh im Sarntal, wo Tradition echter, junger Alltag bleibt. Zum Abschluss zeigt ein junges Paar im Pustertal mutigen Pioniergeist und etabliert mit Wachteln, Wachteleiern sowie Bruteiern erfolgreich einen neuen Einkommenszweig auf seinem kleinen Hof.</desc>
-  </programme>
-  <programme start="20260729221000 +0200" stop="20260729223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260730200000 +0200" stop="20260730202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
