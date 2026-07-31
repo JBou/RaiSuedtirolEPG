@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260730200000 +0200" stop="20260730202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260730202000 +0200" stop="20260730205003 +0200" channel="Rai Südtirol">
-    <title>Auf der Suche nach Verantwortung</title>
-    <sub-title/>
-    <desc>Karin Duregger trifft Menschen, die soziale Verantwortung spüren. 
-
-Beispielsweise einen Obervinschger, der mit seiner Frau vor über zehn Jahren eine Sozialgenossenschaft gegründet hat, die auch Menschen mit Beeinträchtigung oder sozial benachteiligte Menschen engagiert. In einer Bar lernt sie eine Clown-Frau kennen, und in einem Tattoostudio eine junge Frau, die Stoffbinden für Frauen in Tansania näht.</desc>
-  </programme>
-  <programme start="20260730221000 +0200" stop="20260730223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260731180000 +0200" stop="20260731182718 +0200" channel="Rai Südtirol">
     <title>Teneriffa</title>
     <sub-title>Ein Auslandspraktikum</sub-title>
@@ -134,6 +117,163 @@ Landschaft bringt. Die harte Arbeit der Bergbauern am Vinschger Sonnenberg wird 
     <desc/>
   </programme>
   <programme start="20260802221000 +0200" stop="20260802223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260803180000 +0200" stop="20260803182933 +0200" channel="Rai Südtirol">
+    <title>Made in Südtirol</title>
+    <sub-title>Innenarchitektur</sub-title>
+    <desc>Architektinnen, Designer und Innenraumexpertinnen zeigen, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen, in der Hotellerie, in Geschäften und im privaten Bereich. Zu Besuch sind wir bei Christiana Biasi von Berg, der Firma Schweitzer in Naturns und bei Petra Tarantello.</desc>
+  </programme>
+  <programme start="20260803182900 +0200" stop="20260803185650 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Südtirols Landwirtschaft zwischen Kulturerbe und Pioniergeist: &quot;Land&amp;Leben&quot; blickt hinter die Kulissen und zeigt die faszinierende Bandbreite der Berglandwirtschaft. Das Magazin blickt zuerst ins Passeiertal auf das Tiroler Grauvieh und die Pseirer Gebirgsziege, die als lebendiges Kulturerbe gemeinsam mit leidenschaftlichen Züchtern die raue Berglandwirtschaft prägen. Dass dieses Brauchtum kein verstaubtes Relikt ist, beweist im Anschluss der junge Züchterinnen-Nachwuchs beim Grauvieh im Sarntal, wo Tradition echter, junger Alltag bleibt. Zum Abschluss zeigt ein junges Paar im Pustertal mutigen Pioniergeist und etabliert mit Wachteln, Wachteleiern sowie Bruteiern erfolgreich einen neuen Einkommenszweig auf seinem kleinen Hof.</desc>
+  </programme>
+  <programme start="20260803200000 +0200" stop="20260803202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260803202000 +0200" stop="20260803220057 +0200" channel="Rai Südtirol">
+    <title>Logenplatz Rai Südtirol</title>
+    <sub-title>Das Gespenst von Canterville nach Oskar Wilde</sub-title>
+    <desc>Die Schlossfestspiele Dorf Tirol haben im Sommer 2024 einen komödiantischen Klassiker auf die Bühne gebracht: Furchtlose Amerikaner treffen in Schloss Canterville auf ein Schlossgespenst. 
+ 
+Die amerikanische Familie Otis lässt sich trotz zahlreicher Warnungen auf Schloss Canterville nieder. Dort spukt der schuldbeladene Geist von Sir Simon schon jahrhundertelang durch die Hallen. Doch zum Schrecken dieses altehrwürdigen Gespenstes fehlt den &quot;kulturlosen Amerikanern&quot; jeglicher Respekt vor dem ausgefeilten Repertoire an Gruselattacken. Es ist also fraglich, ob die turbulenten Begegnungen dennoch zum Happy End für alle führen können. Regie führte Torsten Schilling.</desc>
+  </programme>
+  <programme start="20260803221100 +0200" stop="20260803223100 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260804200000 +0200" stop="20260804202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260804202000 +0200" stop="20260804204930 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Der starke Mann? Rollenbilder im Wandel</sub-title>
+    <desc>Nicht weinen. Nicht zweifeln. Funktionieren. Diese Botschaften kommen nicht nur von Instagram. Sie sitzen im Elternhaus, in der Schule, im Freundeskreis. 
+
+Was Forschende als &quot;toxische Männlichkeit&quot; beschreiben, ist kein Trend - es ist ein Muster, das viele junge Männer aus ihrer eigenen Geschichte kennen. Und gleichzeitig verändert sich etwas. Väter, die mehr sein wollen als Versorger. Männer, die sich fragen: Was nehme ich mit - und was lasse ich hinter mir? In der 7. Ausgabe diskutiert Moderatorin Maddalena Quaia mit Christof Fauster, dem Initiator der Kampagne &quot;Vater - Kind - gewinnt&quot;, der aktive Vaterschaft in Südtirol sichtbar machen will - und mit Andreas Augschöll, der als MOU im Netz ein traditionelleres Bild von Männlichkeit vertritt. Zwei Männer, zwei Haltungen - und die alte Frage, die heute neu gestellt werden muss: Wann ist Mann ein Mann?</desc>
+  </programme>
+  <programme start="20260804221000 +0200" stop="20260804223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260805200000 +0200" stop="20260805202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260805202000 +0200" stop="20260805204930 +0200" channel="Rai Südtirol">
+    <title>Bäuerin für einen Tag</title>
+    <sub-title/>
+    <desc>In der ersten Folge der neuen Reihe tauscht die ehemalige Profisurferin Greta Marchegger ihren gewohnten Alltag gegen einen arbeitsreichen Tag auf dem Stauderhof in Deutschnofen. 
+
+Gemeinsam mit Bäuerin Susi Hofer packt sie bereits frühmorgens im Stall mit an, versucht sich beim Melken und hilft später beim Brotbacken im hofeigenen Holzofen. Auch bei der schweißtreibenden Heuernte ist voller Einsatz gefragt. Susi, die den Hof gemeinsam mit ihrem Mann Klaus und ihren drei Söhnen bewirtschaftet, zeigt Greta zudem, wie die Ferienwohnungen für die Gäste vorbereitet werden. Dabei wird deutlich, welche große Bedeutung der &quot;Urlaub auf dem Bauernhof&quot; als wichtigste Einnahmequelle für die Familie hat. Eine ebenso unterhaltsame wie authentische Begegnung mit dem echten bäuerlichen Alltag aus Sicht einer jungen Bäuerin, die sich bewusst für die Landwirtschaft entschieden hat.</desc>
+  </programme>
+  <programme start="20260805221000 +0200" stop="20260805223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260806200000 +0200" stop="20260806202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260806202000 +0200" stop="20260806204930 +0200" channel="Rai Südtirol">
+    <title>Schätze der Südtiroler</title>
+    <sub-title/>
+    <desc>Wein, Kunst und schnelle Autos: drei Welten, in denen Vermögen gelebt und geliebt wird.
+
+In der Kellerei St. Michael-Eppan reift unter Kellermeister Jakob Gasser der Appius heran: ein streng limitierter Weißwein, der jedes Jahr neu komponiert und in immer neuem Flaschendesign zur Sammlerrarität wird. Bei den Bozner Kunstauktionen von Stefano Consolati und dem Kunsthistoriker Carl Kraus kommen auf Schloss Maretsch Werke von Defregger bis Warhol unter den Hammer - umkämpft von Bietern im Saal wie aus dem Ausland. Und in der Scuderia Bolzano Bozen, der Ferrari-Adresse in Südtirol, zeigt sich beim Verkaufsberater Michael Renzler, dass ein Ferrari mehr verlangt als nur Geld. So verschieden die drei Welten sind, eint sie eine Frage: Lohnt sich so eine Anlage überhaupt - und was ist die wahre Rendite, wenn sie sich nicht in Zahlen messen lässt? Zwischen Weinberg, Auktionssaal und Werkstatt erzählt die Reportage von Sachwerten, die man trinken, an die Wand hängen oder spazieren fahren kann - und von Menschen, die ihre Schätze lieben, statt sie nur zu besitzen.</desc>
+  </programme>
+  <programme start="20260806221000 +0200" stop="20260806223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260807180000 +0200" stop="20260807182430 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Spinges</sub-title>
+    <desc>Spinges ist eine idyllische Fraktion der Gemeinde Mühlbach und liegt auf einem sonnigen Hochplateau auf 1.105 Metern Höhe, genau dort, wo das Pustertal in das Eisacktal übergeht. &quot;Land und Leute&quot; führt in das geschichtsträchtige Bergdorf, das für seine eindrucksvolle Landschaft ebenso bekannt ist wie für seine bewegte Vergangenheit. Im ehemaligen Sommerhaus des berühmten Tiroler Malers Franz von Defregger gewährt dessen Ur-Enkel persönliche Einblicke in das Leben und Wirken des Künstlers. Die Sendung erinnert an die Volksheldin Katharina Lanz, begleitet das bäuerliche Leben auf den Almen, zeigt gelebte Traditionen und ein Kulturpfad lässt die Geschichte des Dorfes an zahlreichen Stationen wieder lebendig werden.</desc>
+  </programme>
+  <programme start="20260807182400 +0200" stop="20260807185400 +0200" channel="Rai Südtirol">
+    <title>Angeklopft</title>
+    <sub-title>MusikerInnen, Komponisten und Sounddesigne</sub-title>
+    <desc>Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter. Wie werden Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, treffen wir die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
+  </programme>
+  <programme start="20260807185400 +0200" stop="20260807185923 +0200" channel="Rai Südtirol">
+    <title>Pluto minis</title>
+    <sub-title>Buntbarsche</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260807200000 +0200" stop="20260807202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260807202000 +0200" stop="20260807210357 +0200" channel="Rai Südtirol">
+    <title>Menschen und Landschaften im Einklang</title>
+    <sub-title>Ahrntaler Geschichte und Geschichten</sub-title>
+    <desc>Im Ahrntal, umgeben von imposanten Alpenmassiven, prägen seit Generationen Menschen mit harter Arbeit, Tradition und Leidenschaft ihre Heimat. 
+
+Der Film begleitet die Hirtin Annelies Lechner auf die Hochalm im Keilbachtal, den Senner Rudolf Steger bei der Herstellung des typischen Graukäses sowie die Pächterfamilie der Kasseler Hütte. Gleichzeitig führt er ins Schaubergwerk von Prettau, wo die bewegte Geschichte des Kupferabbaus lebendig bleibt. Authentische Einblicke in den Alltag auf den Almen, das Leben im Hochgebirge und das überlieferte Handwerk zeigen eindrucksvoll, wie eng Natur und Mensch miteinander verbunden sind. Vergangenheit und Gegenwart verschmelzen zu einem eindringlichen Porträt einer Region, die ihre Wurzeln bewahrt und zugleich in der Gegenwart lebt.</desc>
+  </programme>
+  <programme start="20260807210400 +0200" stop="20260807214803 +0200" channel="Rai Südtirol">
+    <title>Die Fledermaus</title>
+    <sub-title>Auf den Spuren eines faszinierenden Säugetiers</sub-title>
+    <desc>Fledermäuse sind in vielerlei Hinsicht besonders, weil sie nachtaktiv sind und sich mit Hilfe einer Ultraschall-Echo-Ortung orientieren. Ein Film von Claudia Bosch über Lebensraum und Schutz der Fledermaus.</desc>
+  </programme>
+  <programme start="20260807214800 +0200" stop="20260807215904 +0200" channel="Rai Südtirol">
+    <title>Auf weißroten Spuren in Frankreich</title>
+    <sub-title>Andreas Kofler</sub-title>
+    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. &quot;Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können,&quot; sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
+  </programme>
+  <programme start="20260807221000 +0200" stop="20260807223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260808180000 +0200" stop="20260808185823 +0200" channel="Rai Südtirol">
+    <title>Lieder der Dolomiten</title>
+    <sub-title/>
+    <desc>Wie klingt Heimat? Wie klingen die Dolomiten? Die Dokumentation &quot;Lieder der Dolomiten&quot; begibt sich auf Spurensuche nach den Volksliedern der Dolomiten, die zu verstummen drohen. Die Dokumentation beleuchtet, wie ursprüngliche Musik einst spontan bei Festen und im Alltag erklang und fragt, warum sie heute oft als verstaubt gilt. Dabei zeigt der Film, dass ursprüngliche Klänge noch immer eine Quelle der Inspiration und Kraft sein können. Zwischen Tradition und Moderne begleitet die Reise leidenschaftliche Sängerinnen und Sänger - von Volksmusiklegenden bis zu jungen Talenten - und zeigt, wie lebendig und vielfältig Lieder der Dolomiten auch heute noch klingen. Ein Film, der Heimatklänge in die Gegenwart holt und sich auf die Suche nach Menschen macht, die sie bewahren.</desc>
+  </programme>
+  <programme start="20260808200000 +0200" stop="20260808202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260808202000 +0200" stop="20260808202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260808202400 +0200" stop="20260808210152 +0200" channel="Rai Südtirol">
+    <title>Rund um den Laugen</title>
+    <sub-title>Flurnamen in Ulten und am Deutschnonsberg</sub-title>
+    <desc>Die Herkunft der Orts-, Flur- und Gewässernamen in Ulten und Umgebung sind vielfältig. Wir sind mit Johannes Ortner, dem Beauftragten für Flurnamen des Landes Südtirol, unterwegs. 
+
+Der Symbolberg dieser Landschaft an der Sprachgrenze ist der Laugen, vorrömisch &quot;lichter Wald&quot;. Der Name des Talbaches Falschauer leitet sich von &quot;Val scura&quot; ab. Aber auch im Haupttal stößt man auf vorrömische wie romanische Flurnamen wie Falkomai (eingekerbtes Tal), Mariol (kleine Mure) oder Pils (sprudelnde Quelle). Humorige Benennungen wie Klemmsäcklegg im Almtal Klapfberg zeugen von einst kargen Zeiten auf den Almen, ebenso der Hofname Gigglhirn. Siedlungsgeschichtlich eng mit Ulten verbunden sind die vier Gemeinden am Deutschnonsberg. Während der Name Proveis vorrömischer Herkunft ist, tragen die Großfluren wie Malgasott, Kampadiring (in St. Felix) oder Matzlaun (in Proveis) romanische Namen.</desc>
+  </programme>
+  <programme start="20260808210200 +0200" stop="20260808213820 +0200" channel="Rai Südtirol">
+    <title>Charly Daprá</title>
+    <sub-title>Der Friseur und der Serienkiller von Meran</sub-title>
+    <desc>Karl Daprá, genannt Charly, war der Friseur der Weltstars - und zugleich der Mann, der mit einem einzigen Blick auf ein Phantombild half, einen der aufsehenerregendsten Mordfälle Südtirols aufzuklären. Seit über fünfzig Jahren arbeitet Karl Daprá als Friseur im Herzen von Meran. Sein Salon am Brunnenplatz ist weit mehr als ein Arbeitsplatz: Er ist ein stilles Archiv der Zeitgeschichte. An den Wänden hängen Fotografien seiner prominenten Kunden. Doch Charlies eigenes Leben gerät unfreiwillig ins Rampenlicht, als er vor dreißig Jahren selbst weltweite Aufmerksamkeit erlangt. Im Zuge der Fahndung nach Ferdinand Gamper veröffentlicht die Polizei ein Phantombild des mutmaßlichen Serienmörders. Charly erkennt darin seinen ehemaligen Schulfreund und gibt den entscheidenden Hinweis. Kurz zuvor waren sie noch gemeinsam unterwegs gewesen, während nachts Hubschrauber über der Stadt nach dem Täter suchten. Ein Film über ein außergewöhnliches Leben zwischen Glamour und Schuld, Öffentlichkeit und Schweigen.</desc>
+  </programme>
+  <programme start="20260808213800 +0200" stop="20260808215710 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Der Penauder Höhenweg</sub-title>
+    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
+  </programme>
+  <programme start="20260808221000 +0200" stop="20260808223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
