@@ -4,51 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260731180000 +0200" stop="20260731182718 +0200" channel="Rai Südtirol">
-    <title>Teneriffa</title>
-    <sub-title>Ein Auslandspraktikum</sub-title>
-    <desc>Wie wird aus Theorie gelebte Praxis? Und welche Erfahrungen prägen angehende Lehrpersonen
-wirklich? Wir begleiten Johanna Cont in eine deutsche Schule auf den Kanaren. Fernab von Südtirol taucht Johanna Cont - Studentin der Bildungswissenschaften der unibz - taucht für mehrere Wochen in den Schulalltag einer privaten, zweisprachigen Schule in Puerto de la Cruz ein. Zwischen Palmen, Meeresluft und tropischem Klima erlebt sie eine Form des Unterrichtens, die von Nähe, Individualität und kreativen Lernformen geprägt ist.
-Die Dokumentation von Peter Vonmetz zeigt, wie wichtig praktische Erfahrungen für die
-Ausbildung zukünftiger Lehrpersonen sind. Während ihres Auslandspraktikums lernt Johanna
-nicht nur neue Unterrichtsmethoden kennen, sondern auch eine andere pädagogische Kultur:
-kleine Klassen, jahrgangsübergreifender Unterricht, Lernen unter freiem Himmel und ein
-intensiver Austausch mit Kindern, Eltern und Lehrpersonen. Besonders prägend ist die
-Zusammenarbeit mit Lehrerin Loredana Siriu, die ihre Erfahrungen mit großer Offenheit an die
-nächste Generation weitergibt. Eine Geschichte über Lernen, Begegnungen und die Erkenntnis,
-dass die wichtigsten Erfahrungen oft außerhalb des Klassenzimmers entstehen.</desc>
-  </programme>
-  <programme start="20260731182700 +0200" stop="20260731185955 +0200" channel="Rai Südtirol">
-    <title>Faszination Landmaschinen</title>
-    <sub-title/>
-    <desc>Landmaschinen wie Traktoren, Mähdrescher und Transporter bringen Power in die Landwirtschaft: Sie sind unverzichtbare Helfer, sie sind Prestigeobjekte. Und sie sind ein potenzielles Risiko.
-Lohnunternehmer Christian Früh aus Tirol erntet mit seinem Mähdrescher fremde Felder.
-Jungbauer Felix kämpft am Pischelehof in Pfalzen um jede Tonne Mais. Peter Gogl aus Sterzing presst mit seiner tonnenschweren Silopresse das Winterfutter für Südtirols Kühe. Die Burggräfler
-Schlepperfreunde pflegen historische Traktoren wie Schätze. Ihre Leidenschaft: Oldtimer, die Geschichte erzählen. Doch die Statistik ist alarmierend: In Südtirol übersteigt die Zahl der
-Arbeitsunfälle den italienischen Mittelwert. Besonders betroffen: die Landwirtschaft. 2021 stürzte der Mann von Christine Brunner Bauer mit dem Traktor 100 Meter in die Tiefe und wurde schwer verletzt. Seitdem muss sie allein den Hof führen. Allein den Traktor fahren. Trotz der Angst.</desc>
-  </programme>
-  <programme start="20260731200000 +0200" stop="20260731202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260731202000 +0200" stop="20260731210500 +0200" channel="Rai Südtirol">
-    <title>Eine Schatzsuche</title>
-    <sub-title>Auf Höfen und Almen im Gsiesertal</sub-title>
-    <desc>Sanfte Almhänge, jahrhundertealte Bauernhöfe und urige Almhütten - das Gsiesertal im Osten Südtirols ist ein Ort, an dem die Zeit langsamer vergeht. 
-
-Dort, wo sich Almen auf weichen Hügeln aneinanderreihen, leben Menschen, die noch heute tief mit der Natur, den Bergen und ihrer Geschichte verbunden sind: von Sennerin Sieglinde über Josef Mair, der ein jahrhundertealtes Bauernhaus behutsam restauriert hat, bis zu Felix Hofmann, der mithilfe einer Seilbahn moderne Berglandwirtschaft betreibt. Auch architektonische Projekte wie die Biwaks am Schwarzsee und lebendige Traditionen wie das Herz-Jesus-Feuer oder das Goaßlschnöllen stehen im Mittelpunkt der Sendung. Mit eindrucksvollen Bildern und persönlichen Geschichten erzählt sie von einem Tal, das seine Ursprünglichkeit zu bewahren sucht.</desc>
-  </programme>
-  <programme start="20260731210500 +0200" stop="20260731215853 +0200" channel="Rai Südtirol">
-    <title>Pioniere des Fernsehens</title>
-    <sub-title>Europas erster deutschsprachiger Privatsender TVS</sub-title>
-    <desc>Ein kleiner TV-Sender aus Naturns erobert die Wohnzimmer in Südtirol. Eine Geschichte von Pioniergeist und Aufbruchstimmung erzählt von Helmut Lechthaler und Alexander Lechner. Südtirol Ende der 1970er Jahre. Fernsehmacher aus Deutschland und Österreich blicken mit Verwunderung nach Naturns. Ausgerechnet in dem kleinen Ort im Vinschgau wird 1978 das deutsche Privatfernsehen aus der Taufe gehoben. Mit TVS weckt Senderchef Karlheinz Gamper nicht nur Begehrlichkeiten im Ausland, wo Privat-TV zu der Zeit noch ein Fremdwort ist, er stillt damit auch ein Bedürfnis in der lokalen Bevölkerung nach Innovation und Direktheit. Die Gründungsgeschichte des Senders spiegelt den Zeitgeist wider, der geprägt war von der Abwendung verstaubter Konventionen und von der Aufbruchstimmung einer ganzen Gesellschaft.</desc>
-  </programme>
-  <programme start="20260731221000 +0200" stop="20260731223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260801180000 +0200" stop="20260801185800 +0200" channel="Rai Südtirol">
     <title>Passion Gespannfahren</title>
     <sub-title>Hannes Weitlaner</sub-title>
@@ -274,6 +229,28 @@ Der Symbolberg dieser Landschaft an der Sprachgrenze ist der Laugen, vorrömisch
     <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
   </programme>
   <programme start="20260808221000 +0200" stop="20260808223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260809200000 +0200" stop="20260809202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260809202000 +0200" stop="20260809210500 +0200" channel="Rai Südtirol">
+    <title>Die Berge der Zukunft</title>
+    <sub-title>Ratschings</sub-title>
+    <desc>Südlich des Alpenhauptkammes, in den Stubaier Alpen, entfaltet das Ratschingstal seine beeindruckende landschaftliche Vielfalt: Von eindrucksvollen Naturdenkmälern wie der Gilfenklamm mit ihren tosenden Wasserfällen über imposante Dreitausender, unzählige Hochmoor- und Bergseen bis hin zum höchstgelegenen Schutzhaus Südtirols, dem Becherhaus auf 3.195 Metern Seehöhe, das einst für Kaiserin Sisi errichtet wurde. 
+
+In berührenden und packenden Geschichten erzählen die Menschen im Tal, wie unterschiedlich sie den Herausforderungen der Natur begegnen. Wie beispielsweise Zimmerermeister Franz Volgger, der seit Jahrzehnten die Steige der Gilfenklamm instand hält. Biobäuerin Margareth Vanzetta bewirtschaftet ihren Bergbauernhof mit großer Hingabe. Und hochalpin wird es mit Bergführer Stefan Fasnauer auf dem Weg über den Übertalferner zum Becherhaus, einem besonderen Kraftplatz, den Hüttenwirt Lukas Lantschner gemeinsam mit seiner Familie bewirtet.</desc>
+  </programme>
+  <programme start="20260809210500 +0200" stop="20260809210900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260809221000 +0200" stop="20260809223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
