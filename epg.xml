@@ -4,56 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260801180000 +0200" stop="20260801185800 +0200" channel="Rai Südtirol">
-    <title>Passion Gespannfahren</title>
-    <sub-title>Hannes Weitlaner</sub-title>
-    <desc>Mit Herz und Leinen. Ein Porträt über den Pusterer Hannes Weitlaner, der sich dem Gespannfahren verschrieben hat. Mit seinem Haflinger-Gespann errang er 2011 Edelmetall. Ein Jahr lang hat ein Filmteam den Südtiroler Hannes Weitlaner aus dem Pustertal begleitet. Daraus ist ein eindrucksvoller Film von Juri Gasperi über das Gespannfahren entstanden. Das ist ein Pferdesport, der in einer Nische verborgen scheint und doch so viel Interessantes in sich birgt. Hannes Weitlaner gewann 2011 im slowenischen Lipica die WM Bronzemedaille. Er ist Gestütsleiter auf dem Tolderhof in Oberolang und heute erfolgreicher Nationaltrainer. Das Portrait eines Mannes, der sich ganz seiner Passion verschrieben hat und alles daransetzt, seine Sportart zu erhalten.</desc>
-  </programme>
-  <programme start="20260801200000 +0200" stop="20260801202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260801202000 +0200" stop="20260801202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260801202400 +0200" stop="20260801205330 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Ein Besuch auf dem ältesten Dorffest Südtirols, Junggastwirt des Jahres Damian Alber und die alltäglichen Herausforderungen  auf Schutzhütten. 
-
-Früh aufstehen, lange Arbeitstage und die ständige Frage, wie man Gäste auf über 2.000 Metern Höhe versorgt: Der Alltag auf einer Schutzhütte ist oft weit anspruchsvoller, als viele vermuten. Im Willkommen-Magazin besuchen wir zwei Hütten im Naturpark Fanes-Sennes-Prags und begleiten ihre Pächterinnen bei der Arbeit. Auf der Lavarella-Hütte zeigt Anna Frenner, wie Tradition und Innovation zusammenfinden, unter anderem mit der höchstgelegenen Brauerei Europas. Auf der Fodara Vedla gewährt Lorena Mutschlechner Einblicke in das Leben und Arbeiten fernab des Talalltags. Der Beitrag zeigt, welche Herausforderungen die Hüttenwirte heute bewältigen müssen und wie viel Einsatz hinter einem gelungenen Aufenthalt in den Bergen steckt. 
-Im Restaurant Vögele in Bozen treffen wir den heurigen Junggastwirt des Jahres: Damian Alber. Er verrät, wie er Tradition und Innovation vereint und den Herausforderungen der Branche begegnet. Außerdem hat sich die Hoteliers- und Gastwirtejugend mit Wirtschaftsvertretern vernetzt, um Zukunft zu gestalten. 
-Seit über fünf Jahrzehnten gehört das Laubenfest zu Neumarkt wie die historischen Lauben selbst. Was 1973 als Idee engagierter Vereinsmitglieder begann, gilt heute als das älteste Dorffest Südtirols. Doch wie ist aus einem kleinen Vereinsfest eine Veranstaltung geworden, die Generationen verbindet? Und was steckt hinter einem Fest, das Jahr für Jahr von Ehrenamtlichen getragen wird? Wir haben uns auf Spurensuche begeben.</desc>
-  </programme>
-  <programme start="20260801205400 +0200" stop="20260801213832 +0200" channel="Rai Südtirol">
-    <title>Unterm Horizont des Vinschgaus</title>
-    <sub-title/>
-    <desc>Die Wiederansiedlung des Bartgeiers, die Herausforderungen der Bergbauern am Naturnser
-Sonnenberg, das Bewässerungssystem der Malser Haide, die erste biozertifizierte Alm Südtirols.
-Seit Jahren folgt der Naturfotograf Philipp Egger der Spur des Bartgeiers, einer der
-eindrucksvollsten Vögel der Alpen. Seine Fotografien sind nicht nur Momentaufnahmen, sondern Ausdruck der tiefen Verbindung zwischen Mensch und Natur in dieser beeindruckenden
-Bergwelt. Außerdem wird die Bedeutung des traditionellen Bewässerungssystems der Malser
-Haide beleuchtet, ein Meisterwerk menschlicher Ingenieurskunst, das Leben in die karge
-Landschaft bringt. Die harte Arbeit der Bergbauern am Vinschger Sonnenberg wird ebenso gewürdigt. Sie erzählen von Kampf und Überleben inmitten der rauen Bergwelt und vom Bewahren des kulturellen Erbes ihrer Vorfahren. Kunst und Geschichte finden ihre Bühne im Marmorabbau in Göflan und im Kloster Marienberg, das seit Jahrhunderten den spirituellen Horizont der Region prägt. Auf der Gonda Alm im Matschertal, der ersten biozertifizierten Alm Südtirols, zeigt sich wie Tradition und innovative Ideen zu einer nachhaltigen Zukunft verschmelzen. Dieser alpine Streifzug durch den Vinschgau ist eine tiefgehende Reflexion über die Beziehung zwischen Mensch, Berg und Tal im Westen Südtirols.</desc>
-  </programme>
-  <programme start="20260801213800 +0200" stop="20260801214643 +0200" channel="Rai Südtirol">
-    <title>Tierschutzverein Vinschgau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260801214700 +0200" stop="20260801215930 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Unterwegs mit Slackliner Benjamin Kofler</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260801221000 +0200" stop="20260801223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260802200000 +0200" stop="20260802202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
