@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260802200000 +0200" stop="20260802202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260802202000 +0200" stop="20260802204430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Spinges</sub-title>
-    <desc>Spinges ist eine idyllische Fraktion der Gemeinde Mühlbach und liegt auf einem sonnigen Hochplateau auf 1.105 Metern Höhe, genau dort, wo das Pustertal in das Eisacktal übergeht. 
-
-&quot;Land und Leute&quot; führt in das geschichtsträchtige Bergdorf, das für seine eindrucksvolle Landschaft ebenso bekannt ist wie für seine bewegte Vergangenheit. Im ehemaligen Sommerhaus des berühmten Tiroler Malers Franz von Defregger gewährt dessen Ur-Enkel persönliche Einblicke in das Leben und Wirken des Künstlers. Die Sendung erinnert an die Volksheldin Katharina Lanz, begleitet das bäuerliche Leben auf den Almen, zeigt gelebte Traditionen und ein Kulturpfad lässt die Geschichte des Dorfes an zahlreichen Stationen wieder lebendig werden.</desc>
-  </programme>
-  <programme start="20260802204500 +0200" stop="20260802204745 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260802221000 +0200" stop="20260802223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260803180000 +0200" stop="20260803182933 +0200" channel="Rai Südtirol">
     <title>Made in Südtirol</title>
     <sub-title>Innenarchitektur</sub-title>
