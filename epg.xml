@@ -4,33 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260803180000 +0200" stop="20260803182933 +0200" channel="Rai Südtirol">
-    <title>Made in Südtirol</title>
-    <sub-title>Innenarchitektur</sub-title>
-    <desc>Architektinnen, Designer und Innenraumexpertinnen zeigen, wie gut durchdachte Innenräume unser Wohlbefinden beeinflussen, in der Hotellerie, in Geschäften und im privaten Bereich. Zu Besuch sind wir bei Christiana Biasi von Berg, der Firma Schweitzer in Naturns und bei Petra Tarantello.</desc>
-  </programme>
-  <programme start="20260803182900 +0200" stop="20260803185650 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Südtirols Landwirtschaft zwischen Kulturerbe und Pioniergeist: &quot;Land&amp;Leben&quot; blickt hinter die Kulissen und zeigt die faszinierende Bandbreite der Berglandwirtschaft. Das Magazin blickt zuerst ins Passeiertal auf das Tiroler Grauvieh und die Pseirer Gebirgsziege, die als lebendiges Kulturerbe gemeinsam mit leidenschaftlichen Züchtern die raue Berglandwirtschaft prägen. Dass dieses Brauchtum kein verstaubtes Relikt ist, beweist im Anschluss der junge Züchterinnen-Nachwuchs beim Grauvieh im Sarntal, wo Tradition echter, junger Alltag bleibt. Zum Abschluss zeigt ein junges Paar im Pustertal mutigen Pioniergeist und etabliert mit Wachteln, Wachteleiern sowie Bruteiern erfolgreich einen neuen Einkommenszweig auf seinem kleinen Hof.</desc>
-  </programme>
-  <programme start="20260803200000 +0200" stop="20260803202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260803202000 +0200" stop="20260803220057 +0200" channel="Rai Südtirol">
-    <title>Logenplatz Rai Südtirol</title>
-    <sub-title>Das Gespenst von Canterville nach Oskar Wilde</sub-title>
-    <desc>Die Schlossfestspiele Dorf Tirol haben im Sommer 2024 einen komödiantischen Klassiker auf die Bühne gebracht: Furchtlose Amerikaner treffen in Schloss Canterville auf ein Schlossgespenst. 
- 
-Die amerikanische Familie Otis lässt sich trotz zahlreicher Warnungen auf Schloss Canterville nieder. Dort spukt der schuldbeladene Geist von Sir Simon schon jahrhundertelang durch die Hallen. Doch zum Schrecken dieses altehrwürdigen Gespenstes fehlt den &quot;kulturlosen Amerikanern&quot; jeglicher Respekt vor dem ausgefeilten Repertoire an Gruselattacken. Es ist also fraglich, ob die turbulenten Begegnungen dennoch zum Happy End für alle führen können. Regie führte Torsten Schilling.</desc>
-  </programme>
-  <programme start="20260803221100 +0200" stop="20260803223100 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260804200000 +0200" stop="20260804202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
@@ -87,12 +60,12 @@ In der Kellerei St. Michael-Eppan reift unter Kellermeister Jakob Gasser der App
     <sub-title>Spinges</sub-title>
     <desc>Spinges ist eine idyllische Fraktion der Gemeinde Mühlbach und liegt auf einem sonnigen Hochplateau auf 1.105 Metern Höhe, genau dort, wo das Pustertal in das Eisacktal übergeht. &quot;Land und Leute&quot; führt in das geschichtsträchtige Bergdorf, das für seine eindrucksvolle Landschaft ebenso bekannt ist wie für seine bewegte Vergangenheit. Im ehemaligen Sommerhaus des berühmten Tiroler Malers Franz von Defregger gewährt dessen Ur-Enkel persönliche Einblicke in das Leben und Wirken des Künstlers. Die Sendung erinnert an die Volksheldin Katharina Lanz, begleitet das bäuerliche Leben auf den Almen, zeigt gelebte Traditionen und ein Kulturpfad lässt die Geschichte des Dorfes an zahlreichen Stationen wieder lebendig werden.</desc>
   </programme>
-  <programme start="20260807182400 +0200" stop="20260807185400 +0200" channel="Rai Südtirol">
-    <title>Angeklopft</title>
-    <sub-title>MusikerInnen, Komponisten und Sounddesigne</sub-title>
-    <desc>Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter. Wie werden Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, treffen wir die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
+  <programme start="20260807182400 +0200" stop="20260807185311 +0200" channel="Rai Südtirol">
+    <title>In memoriam Josef Gelmi</title>
+    <sub-title/>
+    <desc>Josef Gelmi war Präsident der Hofburg und emeritierter Professor für Kirchen- und Diözesangeschichte an der Theologischen Hochschule Brixen. Der Schwerpunkt seiner Forschungstätigkeit lag auf der Kirchengeschichte Tirols und der Geschichte der Päpste. Über 30 Bücher hat Prof. Gelmi veröffentlicht - und er arbeitet derzeit an einem neuen Werk.</desc>
   </programme>
-  <programme start="20260807185400 +0200" stop="20260807185923 +0200" channel="Rai Südtirol">
+  <programme start="20260807185300 +0200" stop="20260807185823 +0200" channel="Rai Südtirol">
     <title>Pluto minis</title>
     <sub-title>Buntbarsche</sub-title>
     <desc/>
