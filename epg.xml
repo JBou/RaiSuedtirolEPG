@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260804200000 +0200" stop="20260804202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260804202000 +0200" stop="20260804204930 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Der starke Mann? Rollenbilder im Wandel</sub-title>
-    <desc>Nicht weinen. Nicht zweifeln. Funktionieren. Diese Botschaften kommen nicht nur von Instagram. Sie sitzen im Elternhaus, in der Schule, im Freundeskreis. 
-
-Was Forschende als &quot;toxische Männlichkeit&quot; beschreiben, ist kein Trend - es ist ein Muster, das viele junge Männer aus ihrer eigenen Geschichte kennen. Und gleichzeitig verändert sich etwas. Väter, die mehr sein wollen als Versorger. Männer, die sich fragen: Was nehme ich mit - und was lasse ich hinter mir? In der 7. Ausgabe diskutiert Moderatorin Maddalena Quaia mit Christof Fauster, dem Initiator der Kampagne &quot;Vater - Kind - gewinnt&quot;, der aktive Vaterschaft in Südtirol sichtbar machen will - und mit Andreas Augschöll, der als MOU im Netz ein traditionelleres Bild von Männlichkeit vertritt. Zwei Männer, zwei Haltungen - und die alte Frage, die heute neu gestellt werden muss: Wann ist Mann ein Mann?</desc>
-  </programme>
-  <programme start="20260804221000 +0200" stop="20260804223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260805200000 +0200" stop="20260805202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
