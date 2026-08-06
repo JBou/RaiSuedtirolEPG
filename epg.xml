@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260805200000 +0200" stop="20260805202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260805202000 +0200" stop="20260805204930 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title/>
-    <desc>In der ersten Folge der neuen Reihe tauscht die ehemalige Profisurferin Greta Marchegger ihren gewohnten Alltag gegen einen arbeitsreichen Tag auf dem Stauderhof in Deutschnofen. 
-
-Gemeinsam mit Bäuerin Susi Hofer packt sie bereits frühmorgens im Stall mit an, versucht sich beim Melken und hilft später beim Brotbacken im hofeigenen Holzofen. Auch bei der schweißtreibenden Heuernte ist voller Einsatz gefragt. Susi, die den Hof gemeinsam mit ihrem Mann Klaus und ihren drei Söhnen bewirtschaftet, zeigt Greta zudem, wie die Ferienwohnungen für die Gäste vorbereitet werden. Dabei wird deutlich, welche große Bedeutung der &quot;Urlaub auf dem Bauernhof&quot; als wichtigste Einnahmequelle für die Familie hat. Eine ebenso unterhaltsame wie authentische Begegnung mit dem echten bäuerlichen Alltag aus Sicht einer jungen Bäuerin, die sich bewusst für die Landwirtschaft entschieden hat.</desc>
-  </programme>
-  <programme start="20260805221000 +0200" stop="20260805223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260806200000 +0200" stop="20260806202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
