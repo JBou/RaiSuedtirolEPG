@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260806200000 +0200" stop="20260806202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260806202000 +0200" stop="20260806204930 +0200" channel="Rai Südtirol">
-    <title>Schätze der Südtiroler</title>
-    <sub-title/>
-    <desc>Wein, Kunst und schnelle Autos: drei Welten, in denen Vermögen gelebt und geliebt wird.
-
-In der Kellerei St. Michael-Eppan reift unter Kellermeister Jakob Gasser der Appius heran: ein streng limitierter Weißwein, der jedes Jahr neu komponiert und in immer neuem Flaschendesign zur Sammlerrarität wird. Bei den Bozner Kunstauktionen von Stefano Consolati und dem Kunsthistoriker Carl Kraus kommen auf Schloss Maretsch Werke von Defregger bis Warhol unter den Hammer - umkämpft von Bietern im Saal wie aus dem Ausland. Und in der Scuderia Bolzano Bozen, der Ferrari-Adresse in Südtirol, zeigt sich beim Verkaufsberater Michael Renzler, dass ein Ferrari mehr verlangt als nur Geld. So verschieden die drei Welten sind, eint sie eine Frage: Lohnt sich so eine Anlage überhaupt - und was ist die wahre Rendite, wenn sie sich nicht in Zahlen messen lässt? Zwischen Weinberg, Auktionssaal und Werkstatt erzählt die Reportage von Sachwerten, die man trinken, an die Wand hängen oder spazieren fahren kann - und von Menschen, die ihre Schätze lieben, statt sie nur zu besitzen.</desc>
-  </programme>
-  <programme start="20260806221000 +0200" stop="20260806223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260807180000 +0200" stop="20260807182430 +0200" channel="Rai Südtirol">
     <title>Land und Leute</title>
     <sub-title>Spinges</sub-title>
@@ -118,6 +101,193 @@ In berührenden und packenden Geschichten erzählen die Menschen im Tal, wie unt
     <desc/>
   </programme>
   <programme start="20260809221000 +0200" stop="20260809223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260810175900 +0200" stop="20260810182730 +0200" channel="Rai Südtirol">
+    <title>Schätze der Südtiroler</title>
+    <sub-title/>
+    <desc>Wein, Kunst und schnelle Autos: drei Welten, in denen Vermögen gelebt und geliebt wird. In der Kellerei St. Michael-Eppan reift unter Kellermeister Jakob Gasser der Appius heran: ein streng limitierter Weißwein, der jedes Jahr neu komponiert und in immer neuem Flaschendesign zur Sammlerrarität wird. Bei den Bozner Kunstauktionen von Stefano Consolati und dem Kunsthistoriker Carl Kraus kommen auf Schloss Maretsch Werke von Defregger bis Warhol unter den Hammer - umkämpft von Bietern im Saal wie aus dem Ausland. Und in der Scuderia Bolzano Bozen, der Ferrari-Adresse in Südtirol, zeigt sich beim Verkaufsberater Michael Renzler, dass ein Ferrari mehr verlangt als nur Geld. So verschieden die drei Welten sind, eint sie eine Frage: Lohnt sich so eine Anlage überhaupt - und was ist die wahre Rendite, wenn sie sich nicht in Zahlen messen lässt? Zwischen Weinberg, Auktionssaal und Werkstatt erzählt die Reportage von Sachwerten, die man trinken, an die Wand hängen oder spazieren fahren kann - und von Menschen, die ihre Schätze lieben, statt sie nur zu besitzen.</desc>
+  </programme>
+  <programme start="20260810182700 +0200" stop="20260810185850 +0200" channel="Rai Südtirol">
+    <title>Herzen ohne Grenzen</title>
+    <sub-title>Zwei Südtirolerinnen in Afrika</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260810200000 +0200" stop="20260810202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260810202000 +0200" stop="20260810211826 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>&quot;Kompass&quot; im August berichtet von den Gustav Mahler Musikwochen in Toblach, über das Stück &quot;Kasimir und Karoline&quot; der Freilichtspiele Unterland, Felix Mitterers &quot;Feuernacht&quot; bei den Tiroler Volksschauspielen in der Südtirol-Siedlung in Telfs, &quot;In 80 Tagen um die Welt&quot; des Freien Theaters Bozen und zeigt ein Portrait des Bildhauers Othmar Prenner.  
+
+Im Studio begrüßt Alexander Lechner außerdem Katharina Gschnell, sie ist seit 2026 Künstlerische Leiterin des Vereins &quot;Freilichtspiele Südtiroler Unterland - Theater an der Etsch&quot; und den Germanisten und Kunsthistoriker Andreas Hapkemeyer, der sich zu Beginn seiner Karriere mit Ingeborg Bachmann auseinandergesetzt hat.  Die Gustav Mahler Musikwochen stehen 2026 ganz unter dem richtungsweisenden Motto &quot;Der Anfang&quot;. Erstmals prägt Dirigent Dirk Kaftan das Festivalprogramm künstlerisch an der Seite des langjährigen Leiters Josef Lanz. Gemeinsam setzen sie mit Spitzenorchestern und jungen Talenten ein starkes Zeichen für Tradition und Aufbruch in Toblach  
+Felix Mitterers &quot;Feuernacht&quot; erzählt von Courage und Zweifeln, von Flucht und Heimat, Freiheit und Identität, auf einer Bühne aus Schutt werden Lebensmomente von Menschen in Zeiten des Aufruhrs erzählt, verstrickt in der großen Geschichte, die immer auch eine globale und sehr gegenwärtige ist. Herbert Pixner hat die Musik nicht nur komponiert, er steht selbst jeden Abend live auf der Bühne. 
+Die Freilichtspiele Südtiroler Unterland führen Ödön von Horváths berühmtes Volksstück &quot;Kasimir und Karoline&quot;auf. Das melancholisch-tragikomische Stück über eine entzweite Liebe während eines Volksfests in Krisenzeiten wird im Schulhof der Grundschule in Neumarkt unter der Regie von Mona Kraushaar gespielt. 
+Der Südtiroler Bildhauer und Designer Othmar Prenner verbindet auf einzigartige Weise freie Kunst mit radikaler Architektur. Besonderes Aufsehen erlangte er durch die minimalistische Transformation historischer Alpenbunker im Vinschgau zu zeitlosen Wohn- und Kunsträumen. In seinen Arbeiten trifft die raue Geschichte der Betonkolosse auf eine puristische, ortsbezogene Formensprache.  
+Das &quot;Versorgungshaus&quot; in Tisens wird bald 650 Jahre alt, verlassen verfällt es vor sich hin: Für das Freie Theater Bozen der perfekte Ort, um im verwunschenen Garten Sommertheater zu inszenieren: Auf dem Spielplan steht diesmal &quot;In 80 Tagen um die Welt&quot;, dem weltberühmten Roman von Jules Verne. Das FTB hat dafür eine eigene Fassung für ein kleines Ensemble erstellt. Es moderiert Alexander Lechner.</desc>
+  </programme>
+  <programme start="20260810211800 +0200" stop="20260810213229 +0200" channel="Rai Südtirol">
+    <title>Raritäten Profil</title>
+    <sub-title>Josef Rainer</sub-title>
+    <desc>Der Südtiroler Künstler Josef Rainer interessiert sich für versteckte Orte des Alltags. Im Zentrum seiner Arbeit steht das Spiel mit den Dimensionen und deren Verschiebung. In der Dokumentation &quot;Raritäten&quot; von Traudi Messini wird Rainers Gedankenwelt erkundet - und der Künstler bei der Arbeit beobachtet.</desc>
+  </programme>
+  <programme start="20260810213300 +0200" stop="20260810215935 +0200" channel="Rai Südtirol">
+    <title>Sommer. Sonne. Hochsaison</title>
+    <sub-title>Ansturm auf Südtirol</sub-title>
+    <desc>Filmemacher Andreas Niederkofler beleuchtet eindrucksvoll die Schattenseiten des Overtourism in Südtirol. 
+
+In den weltbekannten Hotspots spricht er mit Gästen und Einheimischen. Zwischen überfüllten Hotspots wie dem Pragser Wildsee, der Seceda und den Drei Zinnen zeigt der Film, wie 8,7 Millionen Gäste auf 500.000 Einheimische treffen - mit Folgen für Natur, Infrastruktur und Lebensqualität. Stimmen von Touristen und Einheimischen zeichnen ein vielschichtiges Bild im Spannungsfeld zwischen wirtschaftlichem Erfolg und wachsender Belastung.</desc>
+  </programme>
+  <programme start="20260810221000 +0200" stop="20260810223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260811200000 +0200" stop="20260811202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260811202000 +0200" stop="20260811204930 +0200" channel="Rai Südtirol">
+    <title>Kontrovers</title>
+    <sub-title>Liebe, wer du bist! Geschlechteridentität in Südtirol</sub-title>
+    <desc>Regenbogenfahnen im Schaufenster. Queere Sichtbarkeit auf Social Media. Und trotzdem fällt das Wort &quot;schwul&quot; auf dem Schulhof noch immer wie ein Schlag. Was nach Fortschritt aussieht, kratzt oft nur an der Oberfläche. 
+
+Wie offen eine Gesellschaft wirklich ist, zeigt sich nicht in Bekenntnissen - sondern in den kleinen Momenten. Wenn jemand zögert, bevor er seinem Vater erzählt, wen er liebt. Wenn Sichtbarkeit zu viel kostet. Wenn Schweigen einfacher ist als Ehrlichkeit. Tobias Alber weiß, was es bedeutet, sich in einer Gesellschaft zu behaupten, die Eindeutigkeit erwartet. Als Trans-Mann ist er diesen Weg selbst gegangen. Madu Alber vom Forum Prävention setzt sich genau damit auseinander: Wo endet Akzeptanz und wo beginnt echte Offenheit? Gemeinsam mit Moderatorin Maddalena Quaia sprechen sie über das, was selten laut gesagt wird. Wie frei ist man in Südtirol, man selbst zu sein - wirklich?</desc>
+  </programme>
+  <programme start="20260811221000 +0200" stop="20260811223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260812200000 +0200" stop="20260812202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260812202000 +0200" stop="20260812204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wir informieren über finanzielle Unterstützungen für die Kinderbetreuung während der Sommerferien und zeigen, welche Beiträge bilaterale Körperschaften im Jahr 2026 gewähren und welche Fristen Familien beachten müssen. 
+
+Außerdem gibt es neue Bestimmungen zur Abfertigung (TFR): Seit Juli 2026 haben neu eingestellte Arbeitnehmerinnen und Arbeitnehmer nur noch 60 Tage Zeit, um über den Bestimmungsort ihrer Abfertigung zu entscheiden. Ein weiterer Beitrag widmet sich der Wasserqualität in Südtirols Badeseen. Wir begleiten das Biologische Landeslabor bei seinen Kontrollen und gehen der Frage nach, welche Auswirkungen steigende Temperaturen auf die Gewässer haben und wie sich Badevergnügen, Sonnenschutz und Naturschutz miteinander vereinbaren lassen. 
+In der Rubrik &quot;Innovation made in Südtirol&quot; besuchen wir diesmal das Unternehmen Röchling in Leifers. Dort entstehen innovative Kunststofflösungen und Hightech-Bauteile für die Automobilindustrie, die weltweit zum Einsatz kommen.</desc>
+  </programme>
+  <programme start="20260812221000 +0200" stop="20260812223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260813200000 +0200" stop="20260813202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260813202000 +0200" stop="20260813204912 +0200" channel="Rai Südtirol">
+    <title>Maria</title>
+    <sub-title>Die Heilige mit dem Verständnis fürs Menschliche</sub-title>
+    <desc>Die Vielfalt der marianischen Verehrungsformen und die Darstellung der Muttergottes im Laufe der Kunstgeschichte bis in unsere Zeit. 
+
+Ein Film von Günther Neumair und Helene Dietl Laganda. Keine andere Heilige nimmt in der Volksfrömmigkeit einen so großen Stellenwert ein wie Maria. Ihre Darstellungsformen sind vielfältig, nehmen im Laufe der Zeit immer wieder neue Formen an und spiegeln neben der Glaubenshaltung auch den Zeitgeist in der Kunst wieder. Mag der Glaube in unserer Zeit auch zu etwas sehr Persönlichem geworden sein, die Marienverehrung scheint immer noch zu verbinden.</desc>
+  </programme>
+  <programme start="20260813221000 +0200" stop="20260813223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260814175900 +0200" stop="20260814182830 +0200" channel="Rai Südtirol">
+    <title>Bäuerin für einen Tag</title>
+    <sub-title/>
+    <desc>In der ersten Folge der neuen Reihe tauscht die ehemalige Profisurferin Greta Marchegger ihren gewohnten Alltag gegen einen arbeitsreichen Tag auf dem Stauderhof in Deutschnofen.
+
+Gemeinsam mit Bäuerin Susi Hofer packt sie bereits frühmorgens im Stall mit an, versucht sich beim Melken und hilft später beim Brotbacken im hofeigenen Holzofen. Auch bei der schweißtreibenden Heuernte ist voller Einsatz gefragt. Susi, die den Hof gemeinsam mit ihrem Mann Klaus und ihren drei Söhnen bewirtschaftet, zeigt Greta zudem, wie die Ferienwohnungen für die Gäste vorbereitet werden. Dabei wird deutlich, welche große Bedeutung der &quot;Urlaub auf dem Bauernhof&quot; als wichtigste Einnahmequelle für die Familie hat. Eine ebenso unterhaltsame wie authentische Begegnung mit dem echten bäuerlichen Alltag aus Sicht einer jungen Bäuerin, die sich bewusst für die Landwirtschaft entschieden hat.</desc>
+  </programme>
+  <programme start="20260814182800 +0200" stop="20260814185810 +0200" channel="Rai Südtirol">
+    <title>Made in Südtirol</title>
+    <sub-title>Generationenbekleidung aus Südtirol</sub-title>
+    <desc>Petra Tschenett stellt Südtirols einzige Lederhosenmanufaktur vor, eine Trachtenschneiderin und eine Schneiderei, die unter anderem den traditionellen Wetterfleck für Jäger herstellt. Alle Produkte sind sogenannte Generationenbekleidung - hochwertig, langlebig und mit Liebe zum Detail gefertigt. Und in allen drei Betrieben hat das Schneiderhandwerk eine lange Familientradition.</desc>
+  </programme>
+  <programme start="20260814200000 +0200" stop="20260814202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260814202000 +0200" stop="20260814210430 +0200" channel="Rai Südtirol">
+    <title>Schluderns im Bann der Ritter</title>
+    <sub-title>20 Jahre Südtiroler Ritterspiele</sub-title>
+    <desc>Seit zwei Jahrzehnten verwandelt sich das Vinschger Dorf Schluderns jeden Sommer in eine Bühne der Geschichte: Wenn die Südtiroler Ritterspiele beginnen, reisen Hunderte Darstellerinnen und Darsteller aus ganz Europa an, um am Fuße der Churburg das Mittelalter lebendig werden zu lassen.
+
+Von Schluderns aus entwickelte sich das Festival zu einem der größten und renommiertesten Mittelalter-Events Europas, ein Fest der Begegnung, das weit über historische Reitturniere hinausgeht. Es legt den Fokus auf das, was das Festival im Kern so besonders macht: die Gemeinschaft, die es trägt. Schluderns ist nicht einfach Veranstaltungsort, sondern Gastgeber im besten Sinne. Hinter dem internationalen Event steht eine Dorfgemeinschaft, die mit enormem ehrenamtlichem Engagement organisiert, unterstützt und verbindet. Die Dokumentation zeigt Schluderns als europäischen Mikrokosmos, in dem Vielfalt, Offenheit und Zusammenhalt selbstverständlich gelebt werden. Menschen unterschiedlicher Sprachen, Religionen und Herkunft arbeiten hier Seite an Seite, vereint durch die Liebe zur Geschichte und den Wunsch, Kultur im ländlichen Raum erlebbar zu machen.</desc>
+  </programme>
+  <programme start="20260814210500 +0200" stop="20260814213408 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Ein Besuch auf dem ältesten Dorffest Südtirols, Junggastwirt des Jahres Damian Alber und die alltäglichen Herausforderungen  auf Schutzhütten. 
+
+Früh aufstehen, lange Arbeitstage und die ständige Frage, wie man Gäste auf über 2.000 Metern Höhe versorgt: Der Alltag auf einer Schutzhütte ist oft weit anspruchsvoller, als viele vermuten. Im Willkommen-Magazin besuchen wir zwei Hütten im Naturpark Fanes-Sennes-Prags und begleiten ihre Pächterinnen bei der Arbeit. Auf der Lavarella-Hütte zeigt Anna Frenner, wie Tradition und Innovation zusammenfinden, unter anderem mit der höchstgelegenen Brauerei Europas. Auf der Fodara Vedla gewährt Lorena Mutschlechner Einblicke in das Leben und Arbeiten fernab des Talalltags. Der Beitrag zeigt, welche Herausforderungen die Hüttenwirte heute bewältigen müssen und wie viel Einsatz hinter einem gelungenen Aufenthalt in den Bergen steckt.
+Im Restaurant Vögele in Bozen treffen wir den heurigen Junggastwirt des Jahres: Damian Alber. Er verrät, wie er Tradition und Innovation vereint und den Herausforderungen der Branche begegnet. Außerdem hat sich die Hoteliers- und Gastwirtejugend mit Wirtschaftsvertretern vernetzt, um Zukunft zu gestalten. 
+Seit über fünf Jahrzehnten gehört das Laubenfest zu Neumarkt wie die historischen Lauben selbst. Was 1973 als Idee engagierter Vereinsmitglieder begann, gilt heute als das älteste Dorffest Südtirols. Doch wie ist aus einem kleinen Vereinsfest eine Veranstaltung geworden, die Generationen verbindet? Und was steckt hinter einem Fest, das Jahr für Jahr von Ehrenamtlichen getragen wird? Wir haben uns auf Spurensuche begeben.</desc>
+  </programme>
+  <programme start="20260814213400 +0200" stop="20260814215427 +0200" channel="Rai Südtirol">
+    <title>Auf weißroten Spuren in Frankreich</title>
+    <sub-title>Der Musiker Ernesto Insam</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260814215500 +0200" stop="20260814215955 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Der Vinschger Maler Christian Stecher</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260814221000 +0200" stop="20260814223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260815180000 +0200" stop="20260815184357 +0200" channel="Rai Südtirol">
+    <title>Menschen und Landschaften im Einklang</title>
+    <sub-title>Ahrntaler Geschichte und Geschichten</sub-title>
+    <desc>Im Ahrntal, umgeben von imposanten Alpenmassiven, prägen seit Generationen Menschen mit harter Arbeit, Tradition und Leidenschaft ihre Heimat. 
+
+Der Film begleitet die Hirtin Annelies Lechner auf die Hochalm im Keilbachtal, den Senner Rudolf Steger bei der Herstellung des typischen Graukäses sowie die Pächterfamilie der Kasseler Hütte. Gleichzeitig führt er ins Schaubergwerk von Prettau, wo die bewegte Geschichte des Kupferabbaus lebendig bleibt. Authentische Einblicke in den Alltag auf den Almen, das Leben im Hochgebirge und das überlieferte Handwerk zeigen eindrucksvoll, wie eng Natur und Mensch miteinander verbunden sind. Vergangenheit und Gegenwart verschmelzen zu einem eindringlichen Porträt einer Region, die ihre Wurzeln bewahrt und zugleich in der Gegenwart lebt.</desc>
+  </programme>
+  <programme start="20260815184400 +0200" stop="20260815185903 +0200" channel="Rai Südtirol">
+    <title>Raritäten Profil</title>
+    <sub-title>Der Geigenbauer Michael Stauder</sub-title>
+    <desc>Michael Stauder ist Geigenbauer aus Leidenschaft. In seinem Haus in Wiesen bei Sterzing baut und repariert er Streichinstrumente aller Art. Der Instrumentenbau hat ihn schon als Kind interessiert. Nach einem Grafikstudium kehrt er zu seiner alten Leidenschaft zurück und besucht die angesehenen Geigenbauschulen in Mittenwald und Zürich. Einmal im Monat verlässt er seinen Heimatort Wiesen, um in Zürich Großstadtluft zu schnuppern und gleichzeitig bei einem erfahrenen Geigenbaumeister neue Kenntnisse zu erwerben. Das Leben des jungen Südtirolers liegt in diesem Spannungsfeld zwischen Naturverbundenheit und Großstadthektik. Ein Film von Traudi Messini.</desc>
+  </programme>
+  <programme start="20260815200000 +0200" stop="20260815202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260815202000 +0200" stop="20260815202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260815202400 +0200" stop="20260815210650 +0200" channel="Rai Südtirol">
+    <title>Berge der Zukunft</title>
+    <sub-title>Von Villnöss in die Dolomiten</sub-title>
+    <desc>Sanfte Almlandschaften, schroffe Felswände, ruhige Gletscherseen und Berge, die wie Monumente in den Himmel ragen: Die Dolomiten stehen als Wahrzeichen Südtirols für eine atemberaubende Szenerie und einen Ort, wo die Natur den Rhythmus vorgibt.
+
+Wir reisen zu den grünen Almen des Puez-Geisler Naturparks, besuchen idyllische Bergbauernhöfe oder das Gipfelkreuz der Geislerspitze und begegnen Reinhold Messner. Der Extrembergsteiger hat die Berge der Welt wie kein anderer erobert und zeigt uns den Ort, wo seine eigene Geschichte begann - Villnöss.</desc>
+  </programme>
+  <programme start="20260815210700 +0200" stop="20260815214822 +0200" channel="Rai Südtirol">
+    <title>Die Brennerbahn</title>
+    <sub-title/>
+    <desc>Als man die aufwändige Trasse von Innsbruck über den Brenner nach Bozen in Angriff nahm, war das ein Meilenstein der Eisenbahngeschichte. Noch kurz zuvor schien es unmöglich, den auf fast 1400 Metern Meereshöhe gelegenen Pass mit Dampfloks zu überwinden. Doch findige Ingenieure wie der Pionier Karl von Etzel wollten nicht klein beigeben und tüftelten an Lösungsmöglichkeiten. Das Wagnis gelingt - und nach ungewöhnlich kurzer Bauzeit, nach nur drei Jahren, konnte die neue Eisenbahnlinie im Sommer 1867 für den Verkehr freigegeben werden. Filmemacherin Claudia Bosch schildert die Geschichte einer eindrucksvollen, ungewöhnlichen Bahnstrecke über die Alpen.</desc>
+  </programme>
+  <programme start="20260815214800 +0200" stop="20260815215852 +0200" channel="Rai Südtirol">
+    <title>Gesichter mit Geschichten</title>
+    <sub-title>Maria und Hans Kargruber</sub-title>
+    <desc>Sie sind über 90, hatten eine karge Kindheit erlebt und politische Umwälzungen, die sie ein Leben lang prägten. Weil sie ständig aktiv blieben, sind sie heute noch äußerst rüstig. Hans Kargruber aus Taisten zählt trotz seines hohen Alters noch immer zu den besten Goaslschnöllern des Landes. Mit seiner Frau Maria Lanz ist er noch täglich im Wald beim Holzschneiden anzutreffen.</desc>
+  </programme>
+  <programme start="20260815221000 +0200" stop="20260815223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
