@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260807180000 +0200" stop="20260807182430 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Spinges</sub-title>
-    <desc>Spinges ist eine idyllische Fraktion der Gemeinde Mühlbach und liegt auf einem sonnigen Hochplateau auf 1.105 Metern Höhe, genau dort, wo das Pustertal in das Eisacktal übergeht. &quot;Land und Leute&quot; führt in das geschichtsträchtige Bergdorf, das für seine eindrucksvolle Landschaft ebenso bekannt ist wie für seine bewegte Vergangenheit. Im ehemaligen Sommerhaus des berühmten Tiroler Malers Franz von Defregger gewährt dessen Ur-Enkel persönliche Einblicke in das Leben und Wirken des Künstlers. Die Sendung erinnert an die Volksheldin Katharina Lanz, begleitet das bäuerliche Leben auf den Almen, zeigt gelebte Traditionen und ein Kulturpfad lässt die Geschichte des Dorfes an zahlreichen Stationen wieder lebendig werden.</desc>
-  </programme>
-  <programme start="20260807182400 +0200" stop="20260807185311 +0200" channel="Rai Südtirol">
-    <title>In memoriam Josef Gelmi</title>
-    <sub-title/>
-    <desc>Josef Gelmi war Präsident der Hofburg und emeritierter Professor für Kirchen- und Diözesangeschichte an der Theologischen Hochschule Brixen. Der Schwerpunkt seiner Forschungstätigkeit lag auf der Kirchengeschichte Tirols und der Geschichte der Päpste. Über 30 Bücher hat Prof. Gelmi veröffentlicht - und er arbeitet derzeit an einem neuen Werk.</desc>
-  </programme>
-  <programme start="20260807185300 +0200" stop="20260807185823 +0200" channel="Rai Südtirol">
-    <title>Pluto minis</title>
-    <sub-title>Buntbarsche</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260807200000 +0200" stop="20260807202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260807202000 +0200" stop="20260807210357 +0200" channel="Rai Südtirol">
-    <title>Menschen und Landschaften im Einklang</title>
-    <sub-title>Ahrntaler Geschichte und Geschichten</sub-title>
-    <desc>Im Ahrntal, umgeben von imposanten Alpenmassiven, prägen seit Generationen Menschen mit harter Arbeit, Tradition und Leidenschaft ihre Heimat. 
-
-Der Film begleitet die Hirtin Annelies Lechner auf die Hochalm im Keilbachtal, den Senner Rudolf Steger bei der Herstellung des typischen Graukäses sowie die Pächterfamilie der Kasseler Hütte. Gleichzeitig führt er ins Schaubergwerk von Prettau, wo die bewegte Geschichte des Kupferabbaus lebendig bleibt. Authentische Einblicke in den Alltag auf den Almen, das Leben im Hochgebirge und das überlieferte Handwerk zeigen eindrucksvoll, wie eng Natur und Mensch miteinander verbunden sind. Vergangenheit und Gegenwart verschmelzen zu einem eindringlichen Porträt einer Region, die ihre Wurzeln bewahrt und zugleich in der Gegenwart lebt.</desc>
-  </programme>
-  <programme start="20260807210400 +0200" stop="20260807214803 +0200" channel="Rai Südtirol">
-    <title>Die Fledermaus</title>
-    <sub-title>Auf den Spuren eines faszinierenden Säugetiers</sub-title>
-    <desc>Fledermäuse sind in vielerlei Hinsicht besonders, weil sie nachtaktiv sind und sich mit Hilfe einer Ultraschall-Echo-Ortung orientieren. Ein Film von Claudia Bosch über Lebensraum und Schutz der Fledermaus.</desc>
-  </programme>
-  <programme start="20260807214800 +0200" stop="20260807215904 +0200" channel="Rai Südtirol">
-    <title>Auf weißroten Spuren in Frankreich</title>
-    <sub-title>Andreas Kofler</sub-title>
-    <desc>Auf der Suche nach Südtiroler:innen, die im Ausland leben, führt eine Spur nach Frankreich, zu Andreas Kofler, ein Architekt mit Meraner Wurzeln. &quot;Es gibt wahnsinnig viele Südtiroler im Ausland und ich glaube, wir Südtiroler trauen uns weit hinaus, weil wir wissen, dass wir immer wieder zurückkommen können,&quot; sagt er erzählt von seinem Leben im Ausland und von den bleibenden Linien zu seinem Heimatland.</desc>
-  </programme>
-  <programme start="20260807221000 +0200" stop="20260807223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260808180000 +0200" stop="20260808185823 +0200" channel="Rai Südtirol">
     <title>Lieder der Dolomiten</title>
     <sub-title/>
@@ -288,6 +246,28 @@ Wir reisen zu den grünen Almen des Puez-Geisler Naturparks, besuchen idyllische
     <desc>Sie sind über 90, hatten eine karge Kindheit erlebt und politische Umwälzungen, die sie ein Leben lang prägten. Weil sie ständig aktiv blieben, sind sie heute noch äußerst rüstig. Hans Kargruber aus Taisten zählt trotz seines hohen Alters noch immer zu den besten Goaslschnöllern des Landes. Mit seiner Frau Maria Lanz ist er noch täglich im Wald beim Holzschneiden anzutreffen.</desc>
   </programme>
   <programme start="20260815221000 +0200" stop="20260815223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260816200000 +0200" stop="20260816202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260816202000 +0200" stop="20260816205017 +0200" channel="Rai Südtirol">
+    <title>Knistern, Klacken, Blincken</title>
+    <sub-title>Die Welt der Retrotechnik</sub-title>
+    <desc>Game Boys aus den 90ern, Röhrenradios aus den 30ern, analoge Fotokameras: Alte Technik erlebt eine Renaissance. 
+
+Die Reportage begleitet drei Südtiroler, die aus Leidenschaft für Retro-Geräte leben - und zeigt, warum immer mehr Menschen in einer schnelllebigen digitalen Welt das Analoge wiederentdecken. Es gibt einen neuen Trend: Alte Technik. Was vor wenigen Jahren noch als nostalgische Marotte galt, ist heute ein gesellschaftliches Phänomen. Wir begleiten drei Südtiroler, für die alte Technik mehr ist als ein Hobby.</desc>
+  </programme>
+  <programme start="20260816205000 +0200" stop="20260816205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Bischof Ivo Muser</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260816221000 +0200" stop="20260816223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
