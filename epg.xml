@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260808180000 +0200" stop="20260808185823 +0200" channel="Rai Südtirol">
-    <title>Lieder der Dolomiten</title>
-    <sub-title/>
-    <desc>Wie klingt Heimat? Wie klingen die Dolomiten? Die Dokumentation &quot;Lieder der Dolomiten&quot; begibt sich auf Spurensuche nach den Volksliedern der Dolomiten, die zu verstummen drohen. Die Dokumentation beleuchtet, wie ursprüngliche Musik einst spontan bei Festen und im Alltag erklang und fragt, warum sie heute oft als verstaubt gilt. Dabei zeigt der Film, dass ursprüngliche Klänge noch immer eine Quelle der Inspiration und Kraft sein können. Zwischen Tradition und Moderne begleitet die Reise leidenschaftliche Sängerinnen und Sänger - von Volksmusiklegenden bis zu jungen Talenten - und zeigt, wie lebendig und vielfältig Lieder der Dolomiten auch heute noch klingen. Ein Film, der Heimatklänge in die Gegenwart holt und sich auf die Suche nach Menschen macht, die sie bewahren.</desc>
-  </programme>
-  <programme start="20260808200000 +0200" stop="20260808202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260808202000 +0200" stop="20260808202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260808202400 +0200" stop="20260808210152 +0200" channel="Rai Südtirol">
-    <title>Rund um den Laugen</title>
-    <sub-title>Flurnamen in Ulten und am Deutschnonsberg</sub-title>
-    <desc>Die Herkunft der Orts-, Flur- und Gewässernamen in Ulten und Umgebung sind vielfältig. Wir sind mit Johannes Ortner, dem Beauftragten für Flurnamen des Landes Südtirol, unterwegs. 
-
-Der Symbolberg dieser Landschaft an der Sprachgrenze ist der Laugen, vorrömisch &quot;lichter Wald&quot;. Der Name des Talbaches Falschauer leitet sich von &quot;Val scura&quot; ab. Aber auch im Haupttal stößt man auf vorrömische wie romanische Flurnamen wie Falkomai (eingekerbtes Tal), Mariol (kleine Mure) oder Pils (sprudelnde Quelle). Humorige Benennungen wie Klemmsäcklegg im Almtal Klapfberg zeugen von einst kargen Zeiten auf den Almen, ebenso der Hofname Gigglhirn. Siedlungsgeschichtlich eng mit Ulten verbunden sind die vier Gemeinden am Deutschnonsberg. Während der Name Proveis vorrömischer Herkunft ist, tragen die Großfluren wie Malgasott, Kampadiring (in St. Felix) oder Matzlaun (in Proveis) romanische Namen.</desc>
-  </programme>
-  <programme start="20260808210200 +0200" stop="20260808213820 +0200" channel="Rai Südtirol">
-    <title>Charly Daprá</title>
-    <sub-title>Der Friseur und der Serienkiller von Meran</sub-title>
-    <desc>Karl Daprá, genannt Charly, war der Friseur der Weltstars - und zugleich der Mann, der mit einem einzigen Blick auf ein Phantombild half, einen der aufsehenerregendsten Mordfälle Südtirols aufzuklären. Seit über fünfzig Jahren arbeitet Karl Daprá als Friseur im Herzen von Meran. Sein Salon am Brunnenplatz ist weit mehr als ein Arbeitsplatz: Er ist ein stilles Archiv der Zeitgeschichte. An den Wänden hängen Fotografien seiner prominenten Kunden. Doch Charlies eigenes Leben gerät unfreiwillig ins Rampenlicht, als er vor dreißig Jahren selbst weltweite Aufmerksamkeit erlangt. Im Zuge der Fahndung nach Ferdinand Gamper veröffentlicht die Polizei ein Phantombild des mutmaßlichen Serienmörders. Charly erkennt darin seinen ehemaligen Schulfreund und gibt den entscheidenden Hinweis. Kurz zuvor waren sie noch gemeinsam unterwegs gewesen, während nachts Hubschrauber über der Stadt nach dem Täter suchten. Ein Film über ein außergewöhnliches Leben zwischen Glamour und Schuld, Öffentlichkeit und Schweigen.</desc>
-  </programme>
-  <programme start="20260808213800 +0200" stop="20260808215710 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Der Penauder Höhenweg</sub-title>
-    <desc>Die Berge im Talschluss von Schnals kennt jeder. Aber wer kennt das Mastauntal oder die Penaud Alm? Bergwelt Spuren erkundet diese beiden Gebirgstäler bei Karthaus über den selten begangenen Penauder Höhenweg.</desc>
-  </programme>
-  <programme start="20260808221000 +0200" stop="20260808223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260809200000 +0200" stop="20260809202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
