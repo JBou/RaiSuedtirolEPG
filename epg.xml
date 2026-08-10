@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260809200000 +0200" stop="20260809202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260809202000 +0200" stop="20260809210500 +0200" channel="Rai Südtirol">
-    <title>Die Berge der Zukunft</title>
-    <sub-title>Ratschings</sub-title>
-    <desc>Südlich des Alpenhauptkammes, in den Stubaier Alpen, entfaltet das Ratschingstal seine beeindruckende landschaftliche Vielfalt: Von eindrucksvollen Naturdenkmälern wie der Gilfenklamm mit ihren tosenden Wasserfällen über imposante Dreitausender, unzählige Hochmoor- und Bergseen bis hin zum höchstgelegenen Schutzhaus Südtirols, dem Becherhaus auf 3.195 Metern Seehöhe, das einst für Kaiserin Sisi errichtet wurde. 
-
-In berührenden und packenden Geschichten erzählen die Menschen im Tal, wie unterschiedlich sie den Herausforderungen der Natur begegnen. Wie beispielsweise Zimmerermeister Franz Volgger, der seit Jahrzehnten die Steige der Gilfenklamm instand hält. Biobäuerin Margareth Vanzetta bewirtschaftet ihren Bergbauernhof mit großer Hingabe. Und hochalpin wird es mit Bergführer Stefan Fasnauer auf dem Weg über den Übertalferner zum Becherhaus, einem besonderen Kraftplatz, den Hüttenwirt Lukas Lantschner gemeinsam mit seiner Familie bewirtet.</desc>
-  </programme>
-  <programme start="20260809210500 +0200" stop="20260809210900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260809221000 +0200" stop="20260809223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260810175900 +0200" stop="20260810182730 +0200" channel="Rai Südtirol">
     <title>Schätze der Südtiroler</title>
     <sub-title/>
