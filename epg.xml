@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260811200000 +0200" stop="20260811202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260811202000 +0200" stop="20260811204930 +0200" channel="Rai Südtirol">
-    <title>Kontrovers</title>
-    <sub-title>Liebe, wer du bist! Geschlechteridentität in Südtirol</sub-title>
-    <desc>Regenbogenfahnen im Schaufenster. Queere Sichtbarkeit auf Social Media. Und trotzdem fällt das Wort &quot;schwul&quot; auf dem Schulhof noch immer wie ein Schlag. Was nach Fortschritt aussieht, kratzt oft nur an der Oberfläche. 
-
-Wie offen eine Gesellschaft wirklich ist, zeigt sich nicht in Bekenntnissen - sondern in den kleinen Momenten. Wenn jemand zögert, bevor er seinem Vater erzählt, wen er liebt. Wenn Sichtbarkeit zu viel kostet. Wenn Schweigen einfacher ist als Ehrlichkeit. Tobias Alber weiß, was es bedeutet, sich in einer Gesellschaft zu behaupten, die Eindeutigkeit erwartet. Als Trans-Mann ist er diesen Weg selbst gegangen. Madu Alber vom Forum Prävention setzt sich genau damit auseinander: Wo endet Akzeptanz und wo beginnt echte Offenheit? Gemeinsam mit Moderatorin Maddalena Quaia sprechen sie über das, was selten laut gesagt wird. Wie frei ist man in Südtirol, man selbst zu sein - wirklich?</desc>
-  </programme>
-  <programme start="20260811221000 +0200" stop="20260811223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260812200000 +0200" stop="20260812202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
