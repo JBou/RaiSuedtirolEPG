@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260812200000 +0200" stop="20260812202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260812202000 +0200" stop="20260812204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wir informieren über finanzielle Unterstützungen für die Kinderbetreuung während der Sommerferien und zeigen, welche Beiträge bilaterale Körperschaften im Jahr 2026 gewähren und welche Fristen Familien beachten müssen. 
-
-Außerdem gibt es neue Bestimmungen zur Abfertigung (TFR): Seit Juli 2026 haben neu eingestellte Arbeitnehmerinnen und Arbeitnehmer nur noch 60 Tage Zeit, um über den Bestimmungsort ihrer Abfertigung zu entscheiden. Ein weiterer Beitrag widmet sich der Wasserqualität in Südtirols Badeseen. Wir begleiten das Biologische Landeslabor bei seinen Kontrollen und gehen der Frage nach, welche Auswirkungen steigende Temperaturen auf die Gewässer haben und wie sich Badevergnügen, Sonnenschutz und Naturschutz miteinander vereinbaren lassen. 
-In der Rubrik &quot;Innovation made in Südtirol&quot; besuchen wir diesmal das Unternehmen Röchling in Leifers. Dort entstehen innovative Kunststofflösungen und Hightech-Bauteile für die Automobilindustrie, die weltweit zum Einsatz kommen.</desc>
-  </programme>
-  <programme start="20260812221000 +0200" stop="20260812223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260813200000 +0200" stop="20260813202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
