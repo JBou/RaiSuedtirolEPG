@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260813200000 +0200" stop="20260813202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260813202000 +0200" stop="20260813204912 +0200" channel="Rai Südtirol">
-    <title>Maria</title>
-    <sub-title>Die Heilige mit dem Verständnis fürs Menschliche</sub-title>
-    <desc>Die Vielfalt der marianischen Verehrungsformen und die Darstellung der Muttergottes im Laufe der Kunstgeschichte bis in unsere Zeit. 
-
-Ein Film von Günther Neumair und Helene Dietl Laganda. Keine andere Heilige nimmt in der Volksfrömmigkeit einen so großen Stellenwert ein wie Maria. Ihre Darstellungsformen sind vielfältig, nehmen im Laufe der Zeit immer wieder neue Formen an und spiegeln neben der Glaubenshaltung auch den Zeitgeist in der Kunst wieder. Mag der Glaube in unserer Zeit auch zu etwas sehr Persönlichem geworden sein, die Marienverehrung scheint immer noch zu verbinden.</desc>
-  </programme>
-  <programme start="20260813221000 +0200" stop="20260813223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260814175900 +0200" stop="20260814182830 +0200" channel="Rai Südtirol">
     <title>Bäuerin für einen Tag</title>
     <sub-title/>
@@ -131,6 +114,167 @@ Die Reportage begleitet drei Südtiroler, die aus Leidenschaft für Retro-Gerät
     <desc/>
   </programme>
   <programme start="20260816221000 +0200" stop="20260816223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260817180000 +0200" stop="20260817184430 +0200" channel="Rai Südtirol">
+    <title>Schluderns im Bann der Ritter</title>
+    <sub-title>20 Jahre Südtiroler Ritterspiele</sub-title>
+    <desc>Seit zwei Jahrzehnten verwandelt sich das Vinschger Dorf Schluderns jeden Sommer in eine Bühne der Geschichte: Wenn die Südtiroler Ritterspiele beginnen, reisen Hunderte Darstellerinnen und Darsteller aus ganz Europa an, um am Fuße der Churburg das Mittelalter lebendig werden zu lassen. Von Schluderns aus entwickelte sich das Festival zu einem der größten und renommiertesten Mittelalter-Events Europas, ein Fest der Begegnung, das weit über historische Reitturniere hinausgeht. Es legt den Fokus auf das, was das Festival im Kern so besonders macht: die Gemeinschaft, die es trägt. Schluderns ist nicht einfach Veranstaltungsort, sondern Gastgeber im besten Sinne. Hinter dem internationalen Event steht eine Dorfgemeinschaft, die mit enormem ehrenamtlichem Engagement organisiert, unterstützt und verbindet. Die Dokumentation zeigt Schluderns als europäischen Mikrokosmos, in dem Vielfalt, Offenheit und Zusammenhalt selbstverständlich gelebt werden. Menschen unterschiedlicher Sprachen, Religionen und Herkunft arbeiten hier Seite an Seite, vereint durch die Liebe zur Geschichte und den Wunsch, Kultur im ländlichen Raum erlebbar zu machen.</desc>
+  </programme>
+  <programme start="20260817184400 +0200" stop="20260817185857 +0200" channel="Rai Südtirol">
+    <title>Raritäten Profil</title>
+    <sub-title>Die Künstlerin Esther Stocker</sub-title>
+    <desc>Die Kurzdokumentation zu Esther Stocker aus Schlanders skizziert das Werk der erfolgreichen jungen Künstlerin. Reduzierte Arbeitsweise und reduzierte Inhalte führen zu einer großen Konzentration in ihren Werken, die viel mehr in sich verbergen, als sie auf den ersten Blick vermuten lassen. Die Rauminstallationen von Esther Stocker folgen alle dem gleichen Prinzip, nämlich der Untersuchung unseres Wahrnehmungsverhaltens, dem wir durch die traditionelle Seherziehung unterworfen sind.</desc>
+  </programme>
+  <programme start="20260817200000 +0200" stop="20260817202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260817202000 +0200" stop="20260817212505 +0200" channel="Rai Südtirol">
+    <title>Emma Hellenstainer</title>
+    <sub-title>Eine Frau im rauen Tirol</sub-title>
+    <desc>&quot;Niemals lächeln&quot;, hatte ihr ihre Mutter auf den Weg mitgegeben, als diese die erst 24-jährige Emerenzia Hausbacher im Jahr 1842 ins weit entfernte Toblach im Südtiroler Pustertal schickte, um dort eine Brauerei samt Stallungen, Mägden und Knechten zu führen. 
+
+Doch wie hat es die junge Frau dann geschafft, zur berühmtesten aller Wirtinnen zu werden und im Laufe der Jahre Menschen aus der ganzen Welt ins kleine Niederdorf bringen? Muss man da nicht freundlich sein und lächeln? Wie kam es dazu, dass ein Brief aus Amerika mit der bloßen Adressierung &quot;Frau Emma, Europa-Tyrol&quot; tatsächlich auch bei ihr ankam? Und wie war es, als Kaiser Franz Josef I. ihr persönlich das Österreichische Verdienstkreuz mit den Worten überreichte: &quot;Also Sie sind die weltbekannte Frau Emma? Ich freue mich, Sie persönlich kennen zu lernen in Ihrem hohen Alter und bei der Ihnen noch gegönnten Rüstigkeit zur Arbeit. Mit der wohlverdienten Auszeichnung wünsche ich Ihnen noch viele Jahre des Wohlergehens!&quot; Wer war diese Emma Hellenstainer?</desc>
+  </programme>
+  <programme start="20260817212500 +0200" stop="20260817214844 +0200" channel="Rai Südtirol">
+    <title>In memoriam Paul Fischnaller</title>
+    <sub-title>Ein Leben für die Teiser Kugeln</sub-title>
+    <desc>Paul Fischnaller sucht aus Leidenschaft und mit großer Kenntnis nach den berühmten Teiser Kugeln. Filmemacher Michael Wachtler porträtiert diesen Mann und schildert sein Lebenswerk. In den harten Basaltfelsen bei Teis finden sich besondere Schätze: Die so genannten Teiser Kugeln. In ihnen zeigt sich eine eindrucksvolle Vielfalt besonders wertvoller Kristalle, wie der violette Amethyst oder der grüne Prehnit. Der Film &quot;Paul Fischnaller - Ein Leben für die Teiser Kugeln&quot; zeigt in eindrucksvollen Bildern, wie ein einfacher Mann trotz eines bewegten Lebens mit zähem Willen Großartiges schaffen kann.</desc>
+  </programme>
+  <programme start="20260817214900 +0200" stop="20260817215950 +0200" channel="Rai Südtirol">
+    <title>Der schwarze Mamor von Rucavà</title>
+    <sub-title/>
+    <desc>Der schwarze Marmor von Rucavà Bodenschätze aus Buchenstein Im Bergwerk von Fursil in der Gemeinde Col in Buchenstein hat man 600 Jahre lang, von 1177 bis 1756, hochwertiges Eisenerz abgebaut. Daneben wurden weitere Bodenschätze erschlossen - wie der &quot;schwarze Marmor von Rucavà&quot;. Der Steinbruch befand sich am rechten Ufer des Pignazza-Bachs an der Grenze zwischen der Gemeinde Fodom und der Gemeinde Col in Buchenstein. Er war bis 1940 in Betrieb. Mündliche Überlieferungen erzählen von der Art und Weise, wie der Rohstoff abgebaut und als Baumaterial verwendet wurde. Obwohl es sich nicht wirklich um Marmor handelte, sondern um einen dunklen Kalkstein aus den Buchensteiner Schichten, war eine große Anzahl von Steinhauern aus Col und den angrenzenden Dörfern mit der Arbeit im Bruch beschäftigt. Ein Film von Giulia Tasser und Hans Peter Karbon.</desc>
+  </programme>
+  <programme start="20260817221000 +0200" stop="20260817223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260818200000 +0200" stop="20260818202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260818202000 +0200" stop="20260818205127 +0200" channel="Rai Südtirol">
+    <title>Pietro Mitolo</title>
+    <sub-title/>
+    <desc>Der politische Werdegang eines Italieners, der als prominentester Vertreter des Movimento Sociale Italiano MSI galt und als Verehrer Mussolinis. Eine filmische Biografie von Audrey Schwarz und Klaus Romen. Für die italienische Linke und für den Großteil der Südtiroler waren die Mitolo-Brüder erklärte Neofaschisten und mitverantwortlich für die Radikalisierung des politischen Klimas im Nachkriegssüdtirol. Andrea wurde 1914 als Sohn eines Carabiniere in Sizilien geboren und kam im Alter von vier Jahren nach Bozen. Bereits seine Kindheit war geprägt von der Konfrontation mit Südtirolern. Auch sein jüngerer Bruder Pietro war ein begeisterter Mussolini-Anhänger. Nach der Achse Berlin-Rom absolvierte er in Bayern die Ausbildung zum Kampfpiloten und lernte Deutsch. Beide Mitolo-Brüder kämpften nach 1943 auf Seiten der Repubblica di Salò gegen die Resistenza. Nach dem Ende der faschistischen Diktatur bekannten sich Andrea und Pietro Mitolo zur parlamentarischen Demokratie und bewarben sich für den Movimento Sociale Italiano MSI um Sitze im Bozner Gemeinderat, im Regionalrat und in der Abgeordnetenkammer - und Pietro Mitolo sogar im Europaparlament.</desc>
+  </programme>
+  <programme start="20260818221000 +0200" stop="20260818223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260819200000 +0200" stop="20260819202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260819202000 +0200" stop="20260819204930 +0200" channel="Rai Südtirol">
+    <title>Bäuerin für einen Tag</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Was haben Marillen, Apfel-Popcorn und Leinöl aus dem Vinschgau gemeinsam? Hinter all diesen Produkten stehen das Wissen, die Kreativität und die Leidenschaft von Bäuerin Nadia Luggin. 
+
+In der zweiten Folge &quot;Bäuerin für einen Tag&quot; ist Greta Marchegger auf dem Kandlwaal-Hof in Laas zu Gast. Dort hilft sie bei der Marillenernte, bei der Herstellung von Apfel-Popcorn und beim Pressen des wertvollen Leinöls mit. Dabei zeigt sich schnell: Die Arbeit auf dem Hof ist auch diesmal kein Honigschlecken. Ein spannender Blick hinter die Kulissen eines vielseitigen bäuerlichen Arbeitsalltags, bei dem neben körperlichem Einsatz auch unternehmerisches Denken und innovative Produktentwicklung gefragt sind.</desc>
+  </programme>
+  <programme start="20260819221000 +0200" stop="20260819223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260820200000 +0200" stop="20260820202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260820202000 +0200" stop="20260820204930 +0200" channel="Rai Südtirol">
+    <title>Arbeiten und Leben unter der Sonne</title>
+    <sub-title/>
+    <desc>Die Adria - für viele ist sie mehr als nur ein Meer, mehr als nur ein Platz an der Sonne. Sie ist ein Versprechen: von Sommer, Freiheit, Aufbruch und neuen Möglichkeiten. 
+
+Die Reportage &quot;Meer statt Berge&quot; begleitet junge Südtirolerinnen und Südtiroler, die an der italienischen Adriaküste nicht nur Urlaub machen, sondern dort arbeiten, leben und wachsen. Lorena geht nach der Matura nach Jesolo, sammelt erste Erfahrungen im Restaurant-Service und verbindet Arbeit, Selbstständigkeit und Strandgefühl in einem prägenden Sommer. In Misano Adriatico erzählt der Film die Geschichte von Toni, Tanja, Valentina und Lorenzo Minchillo, die von Leifers an die Riviera Romagnola gezogen sind und dort eine neue Heimat gefunden haben. Zwischen Bergen und Meer entsteht ein lebendiges Porträt über Familie, Jugend, Arbeit und die Sehnsucht nach einem Leben am Wasser.</desc>
+  </programme>
+  <programme start="20260820221000 +0200" stop="20260820223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260821175800 +0200" stop="20260821182730 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Wir informieren über finanzielle Unterstützungen für die Kinderbetreuung während der Sommerferien und zeigen, welche Beiträge bilaterale Körperschaften im Jahr 2026 gewähren und welche Fristen Familien beachten müssen. 
+Außerdem gibt es neue Bestimmungen zur Abfertigung (TFR): Seit Juli 2026 haben neu eingestellte Arbeitnehmerinnen und Arbeitnehmer nur noch 60 Tage Zeit, um über den Bestimmungsort ihrer Abfertigung zu entscheiden. Ein weiterer Beitrag widmet sich der Wasserqualität in Südtirols Badeseen. Wir begleiten das Biologische Landeslabor bei seinen Kontrollen und gehen der Frage nach, welche Auswirkungen steigende Temperaturen auf die Gewässer haben und wie sich Badevergnügen, Sonnenschutz und Naturschutz miteinander vereinbaren lassen. 
+In der Rubrik &quot;Innovation made in Südtirol&quot; besuchen wir diesmal das Unternehmen Röchling in Leifers. Dort entstehen innovative Kunststofflösungen und Hightech-Bauteile für die Automobilindustrie, die weltweit zum Einsatz kommen.</desc>
+  </programme>
+  <programme start="20260821182900 +0200" stop="20260821185900 +0200" channel="Rai Südtirol">
+    <title>Angeklopft</title>
+    <sub-title>MusikerInnen, Komponisten und Sounddesigner</sub-title>
+    <desc>Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter. Wie werden Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, treffen wir die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
+  </programme>
+  <programme start="20260821200000 +0200" stop="20260821202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260821202000 +0200" stop="20260821215350 +0200" channel="Rai Südtirol">
+    <title>A Musig und a Hetz</title>
+    <sub-title/>
+    <desc>Auf 2.220 m Seehöhe liegt die Jimmy Hütte am Grödner Joch - umgeben von spektakulärem Dolomitenpanorama. Hier treffen sich echte Volksmusikanten zu einem stimmungsvollen musikalischen Hüttenerlebnis mit Moderatorin Barbara Plattner. 
+
+Musikalisch mit dabei sind die Brodjaga Musi, Pajadu, der Viergesang Dolomiti, die Garner Schuachplattler sowie Sonya Profanter gemeinsam mit ihren Kindern Sophia und Jeremia.</desc>
+  </programme>
+  <programme start="20260821215400 +0200" stop="20260821215928 +0200" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Die Schriftstellerin Isabel Folie</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260821221000 +0200" stop="20260821223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260822175900 +0200" stop="20260822185830 +0200" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>&quot;Kompass&quot; im August berichtet von den Gustav Mahler Musikwochen in Toblach, über das Stück &quot;Kasimir und Karoline&quot; der Freilichtspiele Unterland, Felix Mitterers &quot;Feuernacht&quot; bei den Tiroler Volksschauspielen in der Südtirol-Siedlung in Telfs, &quot;In 80 Tagen um die Welt&quot; des Freien Theaters Bozen und zeigt ein Portrait des Bildhauers Othmar Prenner. Im Studio begrüßt Alexander Lechner außerdem Katharina Gschnell, sie ist seit 2026 Künstlerische Leiterin des Vereins &quot;Freilichtspiele Südtiroler Unterland - Theater an der Etsch&quot; und den Germanisten und Kunsthistoriker Andreas Hapkemeyer, der sich zu Beginn seiner Karriere mit Ingeborg Bachmann auseinandergesetzt hat.  Die Gustav Mahler Musikwochen stehen 2026 ganz unter dem richtungsweisenden Motto &quot;Der Anfang&quot;. Erstmals prägt Dirigent Dirk Kaftan das Festivalprogramm künstlerisch an der Seite des langjährigen Leiters Josef Lanz. Gemeinsam setzen sie mit Spitzenorchestern und jungen Talenten ein starkes Zeichen für Tradition und Aufbruch in Toblach  
+Felix Mitterers &quot;Feuernacht&quot; erzählt von Courage und Zweifeln, von Flucht und Heimat, Freiheit und Identität, auf einer Bühne aus Schutt werden Lebensmomente von Menschen in Zeiten des Aufruhrs erzählt, verstrickt in der großen Geschichte, die immer auch eine globale und sehr gegenwärtige ist. Herbert Pixner hat die Musik nicht nur komponiert, er steht selbst jeden Abend live auf der Bühne. 
+Die Freilichtspiele Südtiroler Unterland führen Ödön von Horváths berühmtes Volksstück &quot;Kasimir und Karoline&quot;auf. Das melancholisch-tragikomische Stück über eine entzweite Liebe während eines Volksfests in Krisenzeiten wird im Schulhof der Grundschule in Neumarkt unter der Regie von Mona Kraushaar gespielt. 
+Der Südtiroler Bildhauer und Designer Othmar Prenner verbindet auf einzigartige Weise freie Kunst mit radikaler Architektur. Besonderes Aufsehen erlangte er durch die minimalistische Transformation historischer Alpenbunker im Vinschgau zu zeitlosen Wohn- und Kunsträumen. In seinen Arbeiten trifft die raue Geschichte der Betonkolosse auf eine puristische, ortsbezogene Formensprache.  
+Das &quot;Versorgungshaus&quot; in Tisens wird bald 650 Jahre alt, verlassen verfällt es vor sich hin: Für das Freie Theater Bozen der perfekte Ort, um im verwunschenen Garten Sommertheater zu inszenieren: Auf dem Spielplan steht diesmal &quot;In 80 Tagen um die Welt&quot;, dem weltberühmten Roman von Jules Verne. Das FTB hat dafür eine eigene Fassung für ein kleines Ensemble erstellt. Es moderiert Alexander Lechner.</desc>
+  </programme>
+  <programme start="20260822200000 +0200" stop="20260822202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260822202000 +0200" stop="20260822202300 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260822202300 +0200" stop="20260822210300 +0200" channel="Rai Südtirol">
+    <title>Flurnamen rund um den Schlern</title>
+    <sub-title/>
+    <desc>Flurnamenexperte Johannes Ortner erkundet das Gebiet nördlich und südlich des Schlerns und erklärt vorrömische Ortsnamen wie Seis, erzählt aber auch besondere Geschichten. 
+
+Johannes Ortner erklärt noch weitere vorrömische Ortsnamen wie Völs oder Tiers. In dieser Gegend gibt es aber auch eine Fülle an alpenromanischen Hof- und Flurnamen wie Panid (Föhrenwald), Peterfrag (gebrochener Stein), Tschafon (Großjoch) oder Tscherndui (Viehscheide). Rund um den Schlern findet man häufig Bezeichnungen wie Schwaige (Almhütten auf der Seiser Alm) oder Gufln (Felsüberhänge im Dolomitgestein). Um manche Bezeichnungen ranken sich besondere Geschichten: z.B. die Quelle Schlernblut, die Serbische Kappe auf der Schlern-Hochfläche oder das Tschetterloch in Tiers.</desc>
+  </programme>
+  <programme start="20260822210300 +0200" stop="20260822215100 +0200" channel="Rai Südtirol">
+    <title>Wein in Südtirol</title>
+    <sub-title>Die Geschichte eines Aufbruchs</sub-title>
+    <desc>Ab der zweiten Hälfte der 1980er-Jahre ist Südtirols Weinwirtschaft von Grund auf umgebaut und konsequent auf Qualität ausgerichtet worden. Diese radikale Wende hat das Fundament für eine Entwicklung gelegt, die Südtirol nicht nur zur maßgebenden Weißweinregion in Italien gemacht hat, sondern auch Südtirols Weine zu international anerkannten Spitzenprodukten. Der Film zeigt auch, dass die Qualitätswende zwar von Visionären vorangetrieben wurde, letztlich aber nur dank einer gemeinschaftlichen Anstrengung der Südtiroler Weinwirtschaft zum Erfolg werden konnte. Neben den Pionieren kommt im Film auch die neue Generation zu Wort, die das Weinland Südtirol heute prägt.</desc>
+  </programme>
+  <programme start="20260822215100 +0200" stop="20260822215800 +0200" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Die Dozentin und Journalistin Wittfrieda Mitterer</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260822221000 +0200" stop="20260822223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
