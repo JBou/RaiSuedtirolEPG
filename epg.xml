@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260815180000 +0200" stop="20260815184357 +0200" channel="Rai Südtirol">
-    <title>Menschen und Landschaften im Einklang</title>
-    <sub-title>Ahrntaler Geschichte und Geschichten</sub-title>
-    <desc>Im Ahrntal, umgeben von imposanten Alpenmassiven, prägen seit Generationen Menschen mit harter Arbeit, Tradition und Leidenschaft ihre Heimat. 
-
-Der Film begleitet die Hirtin Annelies Lechner auf die Hochalm im Keilbachtal, den Senner Rudolf Steger bei der Herstellung des typischen Graukäses sowie die Pächterfamilie der Kasseler Hütte. Gleichzeitig führt er ins Schaubergwerk von Prettau, wo die bewegte Geschichte des Kupferabbaus lebendig bleibt. Authentische Einblicke in den Alltag auf den Almen, das Leben im Hochgebirge und das überlieferte Handwerk zeigen eindrucksvoll, wie eng Natur und Mensch miteinander verbunden sind. Vergangenheit und Gegenwart verschmelzen zu einem eindringlichen Porträt einer Region, die ihre Wurzeln bewahrt und zugleich in der Gegenwart lebt.</desc>
-  </programme>
-  <programme start="20260815184400 +0200" stop="20260815185903 +0200" channel="Rai Südtirol">
-    <title>Raritäten Profil</title>
-    <sub-title>Der Geigenbauer Michael Stauder</sub-title>
-    <desc>Michael Stauder ist Geigenbauer aus Leidenschaft. In seinem Haus in Wiesen bei Sterzing baut und repariert er Streichinstrumente aller Art. Der Instrumentenbau hat ihn schon als Kind interessiert. Nach einem Grafikstudium kehrt er zu seiner alten Leidenschaft zurück und besucht die angesehenen Geigenbauschulen in Mittenwald und Zürich. Einmal im Monat verlässt er seinen Heimatort Wiesen, um in Zürich Großstadtluft zu schnuppern und gleichzeitig bei einem erfahrenen Geigenbaumeister neue Kenntnisse zu erwerben. Das Leben des jungen Südtirolers liegt in diesem Spannungsfeld zwischen Naturverbundenheit und Großstadthektik. Ein Film von Traudi Messini.</desc>
-  </programme>
-  <programme start="20260815200000 +0200" stop="20260815202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260815202000 +0200" stop="20260815202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260815202400 +0200" stop="20260815210650 +0200" channel="Rai Südtirol">
-    <title>Berge der Zukunft</title>
-    <sub-title>Von Villnöss in die Dolomiten</sub-title>
-    <desc>Sanfte Almlandschaften, schroffe Felswände, ruhige Gletscherseen und Berge, die wie Monumente in den Himmel ragen: Die Dolomiten stehen als Wahrzeichen Südtirols für eine atemberaubende Szenerie und einen Ort, wo die Natur den Rhythmus vorgibt.
-
-Wir reisen zu den grünen Almen des Puez-Geisler Naturparks, besuchen idyllische Bergbauernhöfe oder das Gipfelkreuz der Geislerspitze und begegnen Reinhold Messner. Der Extrembergsteiger hat die Berge der Welt wie kein anderer erobert und zeigt uns den Ort, wo seine eigene Geschichte begann - Villnöss.</desc>
-  </programme>
-  <programme start="20260815210700 +0200" stop="20260815214822 +0200" channel="Rai Südtirol">
-    <title>Die Brennerbahn</title>
-    <sub-title/>
-    <desc>Als man die aufwändige Trasse von Innsbruck über den Brenner nach Bozen in Angriff nahm, war das ein Meilenstein der Eisenbahngeschichte. Noch kurz zuvor schien es unmöglich, den auf fast 1400 Metern Meereshöhe gelegenen Pass mit Dampfloks zu überwinden. Doch findige Ingenieure wie der Pionier Karl von Etzel wollten nicht klein beigeben und tüftelten an Lösungsmöglichkeiten. Das Wagnis gelingt - und nach ungewöhnlich kurzer Bauzeit, nach nur drei Jahren, konnte die neue Eisenbahnlinie im Sommer 1867 für den Verkehr freigegeben werden. Filmemacherin Claudia Bosch schildert die Geschichte einer eindrucksvollen, ungewöhnlichen Bahnstrecke über die Alpen.</desc>
-  </programme>
-  <programme start="20260815214800 +0200" stop="20260815215852 +0200" channel="Rai Südtirol">
-    <title>Gesichter mit Geschichten</title>
-    <sub-title>Maria und Hans Kargruber</sub-title>
-    <desc>Sie sind über 90, hatten eine karge Kindheit erlebt und politische Umwälzungen, die sie ein Leben lang prägten. Weil sie ständig aktiv blieben, sind sie heute noch äußerst rüstig. Hans Kargruber aus Taisten zählt trotz seines hohen Alters noch immer zu den besten Goaslschnöllern des Landes. Mit seiner Frau Maria Lanz ist er noch täglich im Wald beim Holzschneiden anzutreffen.</desc>
-  </programme>
-  <programme start="20260815221000 +0200" stop="20260815223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260816200000 +0200" stop="20260816202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
