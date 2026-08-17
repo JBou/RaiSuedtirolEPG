@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260816200000 +0200" stop="20260816202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260816202000 +0200" stop="20260816205017 +0200" channel="Rai Südtirol">
-    <title>Knistern, Klacken, Blincken</title>
-    <sub-title>Die Welt der Retrotechnik</sub-title>
-    <desc>Game Boys aus den 90ern, Röhrenradios aus den 30ern, analoge Fotokameras: Alte Technik erlebt eine Renaissance. 
-
-Die Reportage begleitet drei Südtiroler, die aus Leidenschaft für Retro-Geräte leben - und zeigt, warum immer mehr Menschen in einer schnelllebigen digitalen Welt das Analoge wiederentdecken. Es gibt einen neuen Trend: Alte Technik. Was vor wenigen Jahren noch als nostalgische Marotte galt, ist heute ein gesellschaftliches Phänomen. Wir begleiten drei Südtiroler, für die alte Technik mehr ist als ein Hobby.</desc>
-  </programme>
-  <programme start="20260816205000 +0200" stop="20260816205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Bischof Ivo Muser</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260816221000 +0200" stop="20260816223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260817180000 +0200" stop="20260817184430 +0200" channel="Rai Südtirol">
     <title>Schluderns im Bann der Ritter</title>
     <sub-title>20 Jahre Südtiroler Ritterspiele</sub-title>
