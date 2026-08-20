@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260819200000 +0200" stop="20260819202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260819202000 +0200" stop="20260819204930 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title>Folge 2</sub-title>
-    <desc>Was haben Marillen, Apfel-Popcorn und Leinöl aus dem Vinschgau gemeinsam? Hinter all diesen Produkten stehen das Wissen, die Kreativität und die Leidenschaft von Bäuerin Nadia Luggin. 
-
-In der zweiten Folge &quot;Bäuerin für einen Tag&quot; ist Greta Marchegger auf dem Kandlwaal-Hof in Laas zu Gast. Dort hilft sie bei der Marillenernte, bei der Herstellung von Apfel-Popcorn und beim Pressen des wertvollen Leinöls mit. Dabei zeigt sich schnell: Die Arbeit auf dem Hof ist auch diesmal kein Honigschlecken. Ein spannender Blick hinter die Kulissen eines vielseitigen bäuerlichen Arbeitsalltags, bei dem neben körperlichem Einsatz auch unternehmerisches Denken und innovative Produktentwicklung gefragt sind.</desc>
-  </programme>
-  <programme start="20260819221000 +0200" stop="20260819223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260820200000 +0200" stop="20260820202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
