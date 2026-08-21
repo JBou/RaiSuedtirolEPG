@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260820200000 +0200" stop="20260820202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260820202000 +0200" stop="20260820204930 +0200" channel="Rai Südtirol">
-    <title>Arbeiten und Leben unter der Sonne</title>
-    <sub-title/>
-    <desc>Die Adria - für viele ist sie mehr als nur ein Meer, mehr als nur ein Platz an der Sonne. Sie ist ein Versprechen: von Sommer, Freiheit, Aufbruch und neuen Möglichkeiten. 
-
-Die Reportage &quot;Meer statt Berge&quot; begleitet junge Südtirolerinnen und Südtiroler, die an der italienischen Adriaküste nicht nur Urlaub machen, sondern dort arbeiten, leben und wachsen. Lorena geht nach der Matura nach Jesolo, sammelt erste Erfahrungen im Restaurant-Service und verbindet Arbeit, Selbstständigkeit und Strandgefühl in einem prägenden Sommer. In Misano Adriatico erzählt der Film die Geschichte von Toni, Tanja, Valentina und Lorenzo Minchillo, die von Leifers an die Riviera Romagnola gezogen sind und dort eine neue Heimat gefunden haben. Zwischen Bergen und Meer entsteht ein lebendiges Porträt über Familie, Jugend, Arbeit und die Sehnsucht nach einem Leben am Wasser.</desc>
-  </programme>
-  <programme start="20260820221000 +0200" stop="20260820223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260821175800 +0200" stop="20260821182730 +0200" channel="Rai Südtirol">
     <title>Pluspunkt</title>
     <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
