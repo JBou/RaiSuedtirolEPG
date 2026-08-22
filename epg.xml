@@ -4,40 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260821175800 +0200" stop="20260821182730 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Wir informieren über finanzielle Unterstützungen für die Kinderbetreuung während der Sommerferien und zeigen, welche Beiträge bilaterale Körperschaften im Jahr 2026 gewähren und welche Fristen Familien beachten müssen. 
-Außerdem gibt es neue Bestimmungen zur Abfertigung (TFR): Seit Juli 2026 haben neu eingestellte Arbeitnehmerinnen und Arbeitnehmer nur noch 60 Tage Zeit, um über den Bestimmungsort ihrer Abfertigung zu entscheiden. Ein weiterer Beitrag widmet sich der Wasserqualität in Südtirols Badeseen. Wir begleiten das Biologische Landeslabor bei seinen Kontrollen und gehen der Frage nach, welche Auswirkungen steigende Temperaturen auf die Gewässer haben und wie sich Badevergnügen, Sonnenschutz und Naturschutz miteinander vereinbaren lassen. 
-In der Rubrik &quot;Innovation made in Südtirol&quot; besuchen wir diesmal das Unternehmen Röchling in Leifers. Dort entstehen innovative Kunststofflösungen und Hightech-Bauteile für die Automobilindustrie, die weltweit zum Einsatz kommen.</desc>
-  </programme>
-  <programme start="20260821182900 +0200" stop="20260821185900 +0200" channel="Rai Südtirol">
-    <title>Angeklopft</title>
-    <sub-title>MusikerInnen, Komponisten und Sounddesigner</sub-title>
-    <desc>Magdalena Oberstaller schaut Musikerinnen und Produzenten über die Schulter. Wie werden Lieder und Texte aufgenommen und verarbeitet, damit sie später für uns online immer wieder abrufbar sind? Um dies herauszufinden, treffen wir die Menschen dahinter: Produzenten, Musikerinnen, Komponisten oder Sounddesigner.</desc>
-  </programme>
-  <programme start="20260821200000 +0200" stop="20260821202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260821202000 +0200" stop="20260821215350 +0200" channel="Rai Südtirol">
-    <title>A Musig und a Hetz</title>
-    <sub-title/>
-    <desc>Auf 2.220 m Seehöhe liegt die Jimmy Hütte am Grödner Joch - umgeben von spektakulärem Dolomitenpanorama. Hier treffen sich echte Volksmusikanten zu einem stimmungsvollen musikalischen Hüttenerlebnis mit Moderatorin Barbara Plattner. 
-
-Musikalisch mit dabei sind die Brodjaga Musi, Pajadu, der Viergesang Dolomiti, die Garner Schuachplattler sowie Sonya Profanter gemeinsam mit ihren Kindern Sophia und Jeremia.</desc>
-  </programme>
-  <programme start="20260821215400 +0200" stop="20260821215928 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Die Schriftstellerin Isabel Folie</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260821221000 +0200" stop="20260821223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260822175900 +0200" stop="20260822185830 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -97,6 +63,214 @@ Er studierte an den Kunstakademien in Venedig und Mailand und lebt bis heute in 
     <desc/>
   </programme>
   <programme start="20260823221000 +0200" stop="20260823223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260824175900 +0200" stop="20260824182830 +0200" channel="Rai Südtirol">
+    <title>Arbeiten und Leben unter der Sonne</title>
+    <sub-title/>
+    <desc>Die Adria - für viele ist sie mehr als nur ein Meer, mehr als nur ein Platz an der Sonne. Sie ist ein Versprechen: von Sommer, Freiheit, Aufbruch und neuen Möglichkeiten. 
+Die Reportage &quot;Meer statt Berge&quot; begleitet junge Südtirolerinnen und Südtiroler, die an der italienischen Adriaküste nicht nur Urlaub machen, sondern dort arbeiten, leben und wachsen. Lorena geht nach der Matura nach Jesolo, sammelt erste Erfahrungen im Restaurant-Service und verbindet Arbeit, Selbstständigkeit und Strandgefühl in einem prägenden Sommer. In Misano Adriatico erzählt der Film die Geschichte von Toni, Tanja, Valentina und Lorenzo Minchillo, die von Leifers an die Riviera Romagnola gezogen sind und dort eine neue Heimat gefunden haben. Zwischen Bergen und Meer entsteht ein lebendiges Porträt über Familie, Jugend, Arbeit und die Sehnsucht nach einem Leben am Wasser.</desc>
+  </programme>
+  <programme start="20260824182800 +0200" stop="20260824185817 +0200" channel="Rai Südtirol">
+    <title>Knistern, Klacken, Blincken</title>
+    <sub-title>Die Welt der Retrotechnik</sub-title>
+    <desc>Game Boys aus den 90ern, Röhrenradios aus den 30ern, analoge Fotokameras: Alte Technik erlebt eine Renaissance. Die Reportage begleitet drei Südtiroler, die aus Leidenschaft für Retro-Geräte leben - und zeigt, warum immer mehr Menschen in einer schnelllebigen digitalen Welt das Analoge wiederentdecken. Es gibt einen neuen Trend: Alte Technik. Was vor wenigen Jahren noch als nostalgische Marotte galt, ist heute ein gesellschaftliches Phänomen. Wir begleiten drei Südtiroler, für die alte Technik mehr ist als ein Hobby.</desc>
+  </programme>
+  <programme start="20260824200000 +0200" stop="20260824202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260824202000 +0200" stop="20260824210237 +0200" channel="Rai Südtirol">
+    <title>Almgeschichten und Hirtenleben</title>
+    <sub-title>Die Geschichte der Almen</sub-title>
+    <desc>Auf Südtirols Almen wird seit mindestens 4000 Jahren gehütet und gekäst, wissen Archäologen. Der Hirtenberuf gehört zu den ältesten überhaupt. Der Dokumentarfilm von Christoph Wieser erzählt, welche Historie die Weidewirtschaft darstellt und was sie für Hirten bedeutet.</desc>
+  </programme>
+  <programme start="20260824210200 +0200" stop="20260824213032 +0200" channel="Rai Südtirol">
+    <title>Hinterm Gartenzaun</title>
+    <sub-title>Gartenlust und Heilkräuterkraft</sub-title>
+    <desc>Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt.</desc>
+  </programme>
+  <programme start="20260824213100 +0200" stop="20260824215951 +0200" channel="Rai Südtirol">
+    <title>Verrückt nach Pizza</title>
+    <sub-title>Die Reportage</sub-title>
+    <desc>Egal ob dick oder dünn, reichlich belegt oder puristisch gehalten - Pizza begeistert fast alle. Doch was auf dem Teller so einfach aussieht, ist eine Wissenschaft für sich. Eine Reportage von
+Andreas Niederkofler.
+Mittlerweile ist die Pizza nicht mehr aus der Südtiroler Küche wegzudenken. Auch wenn es für
+den Teig nur Mehl, Wasser, Hefe und Salz braucht, kommt es auf viele Kleinigkeiten an , damit
+die perfekte Pizza entsteht. Dies erfahren auch die Kursteilnehmer:innen bei einer Ausbildung in
+Brixen. In 180 Stunden erlernen sie die Kunst des Pizzabackens und erfahren dabei so manches
+Geheimnis rund um das italienische Nationalgericht. Aber auch bei den Profis hat jeder sein Rezept: der Pizzaiolo, der auf die Biga - den Vorteig - schwört, der Gastronom, der mit einem alten Familienrezept seine Gäste begeistert bis hin zur handgemachten Tiefkühlpizza.</desc>
+  </programme>
+  <programme start="20260824221000 +0200" stop="20260824223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260825200000 +0200" stop="20260825202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260825202000 +0200" stop="20260825203648 +0200" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Zielklettersteig in der Texelgruppe</sub-title>
+    <desc>Im Naturpark der Texelgruppe gibt es eine neue Route, den sogenannten Zielklettersteig im Zieltal. Der Bergführer Manfred Stuffer klettert diese familientaugliche Tourmit der Boznerin Brigitte Schritt. 
+ 
+Referentin, Konfliktberaterin und Gesundheitsmanagerin Brigitte Schrott erzählt, wie es dazu kam, dass sie steile Felswände wie diese erklimmt und sie erklärt, wie man den ersten Schritt aus der eigenen Komfortzone schafft. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20260825203700 +0200" stop="20260825205235 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Michl Innerkofler</sub-title>
+    <desc>Klettern wie die ersten Reisenden in den Dolomiten Ende des 19.Jhs. Der Sextner Bergführer Michl Innerkofler mit Maria Eckarth eine Erstbegehung in der Cristallogruppe gemacht, die man in seinem Reisebericht nachlesen kann.</desc>
+  </programme>
+  <programme start="20260825221000 +0200" stop="20260825223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260826200000 +0200" stop="20260826202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260826202000 +0200" stop="20260826204930 +0200" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Der Kurzfilm &quot;Tshegl&quot; zeigt einen jungen Weinbauern zwischen Tradition, Selbstverwirklichung und der Frage: Was ist Heimat? Außerdem: Spitzenweine trotz Krise? Ein Lokalaugenschein im Weinberg und in der Kellerei Terlan. 
+
+&quot;Tshegl&quot; zeigt die Geschichte eines jungen Bozner Weinbauern, der zwischen seinem Studium in Wien und dem elterlichen Hof seinen eigenen Weg sucht. Für ihn steht fest: Er will nach Südtirol zurückkehren und den Familienbetrieb weiterführen, auch wenn er wegen seines Aussehens mit gegensätzlichen Vorurteilen konfrontiert wird. Die einen belächeln ihn als &quot;Tscheggl&quot;, andere bewundern seinen Einsatz&quot;für den Hof und seine Heimat. Im Anschluss spricht Filmemacher Philipp Silbernagl über die Idee zu diesem Kurzfilm und darüber, warum junge Menschen bleiben, gehen oder bewusst zurückkehren. Außerdem begleiten wir zum Auftakt der Traubenlese eine Winzerfamilie und besuchen die Kellerei Terlan. Dort gehen wir der Frage nach, wie es gelingt, trotz Klimawandel und rückläufigem Weinkonsum Jahr für Jahr Spitzenweine zu produzieren?</desc>
+  </programme>
+  <programme start="20260826221000 +0200" stop="20260826223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260827200000 +0200" stop="20260827202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260827202000 +0200" stop="20260827204930 +0200" channel="Rai Südtirol">
+    <title>Hobbyköche</title>
+    <sub-title>Leidenschaft am Herd</sub-title>
+    <desc>Überall in Südtirol wird mit Leidenschaft gekocht. Diese Reportage zeigt Menschen, die nicht vom Kochen leben, sondern fürs Kochen. Männer und Frauen, die ihre Freizeit damit verbringen, neue Gerichte zu erfinden, alte Familienrezepte zu verfeinern und ihre Gäste zu überraschen. 
+
+Der Film begleitet sie bei Einkauf, Vorbereitung und Verkostung. Dabei wird klar: Es geht nicht nur um Essen, sondern um Gemeinschaft, Kreativität und das Teilen von Freude.</desc>
+  </programme>
+  <programme start="20260827221000 +0200" stop="20260827223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260828180000 +0200" stop="20260828182930 +0200" channel="Rai Südtirol">
+    <title>Bäuerin für einen Tag</title>
+    <sub-title>Folge 2</sub-title>
+    <desc>Was haben Marillen, Apfel-Popcorn und Leinöl aus dem Vinschgau gemeinsam? Hinter all diesen Produkten stehen das Wissen, die Kreativität und die Leidenschaft von Bäuerin Nadia Luggin. 
+In der zweiten Folge &quot;Bäuerin für einen Tag&quot; ist Greta Marchegger auf dem Kandlwaal-Hof in Laas zu Gast. Dort hilft sie bei der Marillenernte, bei der Herstellung von Apfel-Popcorn und beim Pressen des wertvollen Leinöls mit. Dabei zeigt sich schnell: Die Arbeit auf dem Hof ist auch diesmal kein Honigschlecken. Ein spannender Blick hinter die Kulissen eines vielseitigen bäuerlichen Arbeitsalltags, bei dem neben körperlichem Einsatz auch unternehmerisches Denken und innovative Produktentwicklung gefragt sind.</desc>
+  </programme>
+  <programme start="20260828182900 +0200" stop="20260828185846 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Gotthard Bonell</sub-title>
+    <desc>Der in Truden geborene Gotthard Bonell zählt zu den renommiertesten Künstlern Südtirols. 
+Er studierte an den Kunstakademien in Venedig und Mailand und lebt bis heute in seiner Heimatgemeinde. Als Maler, Zeichner, Radierer und Sänger hat er sich weit über Südtirol hinaus einen Namen gemacht. Seine Werke befinden sich in Museen und Sammlungen in Italien, Österreich und Deutschland. Viele Rai Südtirol Hörerinnen und Hörer kennen ihn aus dem Radioprogramm &quot;Der Liederabend&quot;. Im Februar 2026 wurde Gotthard Bonell mit dem Ehrenzeichen des Landes Tirol ausgezeichnet. Außerdem ist er 1. Ehrenbürger der Gemeinde Truden.</desc>
+  </programme>
+  <programme start="20260828200000 +0200" stop="20260828202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260828202000 +0200" stop="20260828212000 +0200" channel="Rai Südtirol">
+    <title>Karl Zeller</title>
+    <sub-title>Die Autonomie leben</sub-title>
+    <desc>Er hat die Entwicklung der Südtiroler Autonomie maßgeblich mitgeprägt. Er war einer der ganz jungen SVP-Abgeordneten im Parlament und einer der dienstältesten Senatoren auf dem römischen Parkett.   
+
+Die Südtiroler Autonomie beschäftigt den Anwalt und Verfassungsjuristen seit seiner akademischen Tätigkeit an der Universität Innsbruck bis heute.  Karl Zeller ist ein unkonventioneller Charakter, der einen ungewöhnlichen Politikstil praktizierte. In der Dokumentation, im Portrait dieses Politikers, gemeinsam gestaltet, vom Trio Oskar Außerer, Osmund Zöschg und Rupert Zöschg, geben Karl Zeller selbst und seine Mitstreiter, Freunde und Kritiker seltene Einblicke darin, wie in der italienischen Hauptstadt auch hinter den Kulissen Politik gemacht wird und wie Meilensteine der Südtiroler Autonomie gesetzt wurden.</desc>
+  </programme>
+  <programme start="20260828212000 +0200" stop="20260828215914 +0200" channel="Rai Südtirol">
+    <title>Martha und Toni Ebner</title>
+    <sub-title>Ein Leben für Südtirol</sub-title>
+    <desc>Martha und Toni Ebner zählen zu den bedeutendsten Persönlichkeiten der jüngeren Südtiroler Geschichte. Als Mitbegründer der Südtiroler Volkspartei und langjähriger Leiter des  Athesia-Verlags prägte Toni Ebner das politische und mediale Leben des Landes maßgeblich mit.
+An seiner Seite: Martha Ebner - engagiert in Partei, Gesellschaft und Verlag, Mutter von fünf
+Kindern und eine Frau mit klarer Haltung. Die Dokumentation zeichnet ein vielschichtiges Porträt
+dieses außergewöhnlichen Paars - zwischen Einsatz für die Autonomie, den Herausforderungen
+der Bombenjahre und einem tiefen Verständnis für Verantwortung. Persönliche Erinnerungen
+ihrer Söhne sowie Stimmen langjähriger Wegbegleiterinnen und Wegbegleiter lassen die private wie öffentliche Dimension ihres Lebens spürbar werden. Im Zentrum steht Martha Ebner, heute über 100 Jahre alt, die mit klarem Blick und leiser Kraft auf ein Jahrhundert Südtiroler Geschichte zurückblickt.</desc>
+  </programme>
+  <programme start="20260828221000 +0200" stop="20260828223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260829180000 +0200" stop="20260829182930 +0200" channel="Rai Südtirol">
+    <title>Hobbyköche</title>
+    <sub-title>Leidenschaft am Herd</sub-title>
+    <desc>Überall in Südtirol wird mit Leidenschaft gekocht. Diese Reportage zeigt Menschen, die nicht vom Kochen leben, sondern fürs Kochen. Männer und Frauen, die ihre Freizeit damit verbringen, neue Gerichte zu erfinden, alte Familienrezepte zu verfeinern und ihre Gäste zu überraschen.  Der Film begleitet sie bei Einkauf, Vorbereitung und Verkostung. Dabei wird klar: Es geht nicht nur um Essen, sondern um Gemeinschaft, Kreativität und das Teilen von Freude.</desc>
+  </programme>
+  <programme start="20260829182900 +0200" stop="20260829185858 +0200" channel="Rai Südtirol">
+    <title>Alois Vijo Pupp</title>
+    <sub-title>Architekt des modernen Südtirol</sub-title>
+    <desc>Alois Pupp (1901-1973) war ein bedeutender Südtiroler Politiker, von 1956 bis 1960 der zweite
+Landeshauptmann Südtirols, ein einflussreicher Gestalter der Autonomie. Er war Mitglied der Südtiroler Volkspartei und prägte die Anfangsjahre der Autonomie Südtirols. In einer politisch schwierigen Zeit, geprägt von Spannungen zwischen Südtirol und dem italienischen Zentralstaat, setzte sich Pupp für die Rechte der deutsch- und ladinischsprachigen Bevölkerung ein. Er legte den Grundstein für viele politische und kulturelle Entwicklungen, die Südtirols Identität bis heute prägen. Pupp wird als Brückenbauer zwischen den verschiedenen Bevölkerungsgruppen in Erinnerung behalten.</desc>
+  </programme>
+  <programme start="20260829200000 +0200" stop="20260829202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260829202000 +0200" stop="20260829202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260829202400 +0200" stop="20260829205330 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Vor einem Jahr hat der HGV seine Initiative zur Stärkung der Arbeitgeberattraktivität gestartet. Ziel ist es, die Mitgliedsbetriebe dabei zu unterstützen, sich als moderne, innovative und wertschätzende Arbeitgeber zu positionieren. Im Willkommen-Magazin fragen wir bei Gastgeberinnen und Gastgebern im Tal wie am Berg sowie bei ihren Mitarbeitenden nach: Was macht einen attraktiven Arbeitsplatz aus? Welche Maßnahmen bewähren sich in der Praxis? Und was ist den Menschen, die im Tourismus arbeiten, wirklich wichtig? 
+
+Warum reisen Menschen im digitalen Zeitalter für Seminare und Weiterbildungen noch nach Brixen? Die Cusanus Akademie geht dieser Frage seit vielen Jahren auf besondere Weise nach. Als Bildungs- und Begegnungsort bietet sie nicht nur ein vielfältiges Veranstaltungsprogramm, sondern auch Unterkunft und Verpflegung für ihre Gäste. Dabei gehen wir der Frage nach, welchen Mehrwert Bildungsreisen für Brixen und Südtirol schaffen und verdeutlichen, wie Bildung, Tourismus und regionale Wertschöpfung miteinander verbunden sind und warum persönliche Begegnungen auch heute nichts von ihrer Bedeutung verloren haben. 
+Abseits der bekannten Tourismusorte gibt es in Südtirol Regionen, die ihren ursprünglichen Charakter bewahrt haben. Zwei Gastgeber zeigen, wie eng ihre Küche mit der Region verbunden ist: mit hochwertigen Zutaten regionaler Produzenten und einer eigenen Philosophie. So entstehen kulinarische Erlebnisse, die weit über gutes Essen hinausgehen.</desc>
+  </programme>
+  <programme start="20260829205400 +0200" stop="20260829213712 +0200" channel="Rai Südtirol">
+    <title>Naturdenkmäler</title>
+    <sub-title>Die Mitte</sub-title>
+    <desc>Die Südtiroler Naturdenkmäler sind &quot;Highlights&quot; der Landschaft - sehens- und schützenswerte Objekte, die eine große ökologische und ästhetische Bereicherung unserer Landschaft darstellen. Die ca. 1000 Naturdenkmäler sind streng geschützt und lassen sich in hydrologische, geologische und botanische Denkmäler einteilen. Für diese Folge über die Naturdenkmäler waren die Filmemacher Willi Rainer und Johannes Ortner in der Mitte von Südtirol unterwegs.</desc>
+  </programme>
+  <programme start="20260829213700 +0200" stop="20260829214256 +0200" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Der Koloss unterm Joch</sub-title>
+    <desc>Wer von Sterzing aufs Penserjoch fährt, dem fällt ein Felskoloss auf. Wie ein Obelisk ragt er in den Himmel. Interessant ist der Name &quot;Amradam-Stein&quot;. Doch wie kam es zu diesem Namen? Und warum klingt dieser Name so sehr nach einem Berg in Abessinien, wo Italien einst einen erbitterten Krieg führte?</desc>
+  </programme>
+  <programme start="20260829214300 +0200" stop="20260829215929 +0200" channel="Rai Südtirol">
+    <title>Raritäten - Margareth Dorigatti</title>
+    <sub-title/>
+    <desc>Die Künstlerin Margareth Dorigatti bewegt sich zwischen zwei Polen, zwischen der nördlichen und der südlichen Kultur. Ihre Kunst verbindet den kühlen Intellekt Deutschlands mit der Wärme Italiens. In Berlin besuchte die aus Salurn stammende Margareth Dorigatti die Akademie; dort liegen auch ihre geistigen Wurzeln. In Rom lebt und arbeitet sie als Professorin und Künstlerin; hier hat sie auch ihren eigenen Weg gefunden. Das zentrale Thema ist immer die weibliche Sicht auf Kultur und Leben. Die Dokumentation unterstreicht diese Gegenpole und damit das Wesen der Kunst Dorigattis.</desc>
+  </programme>
+  <programme start="20260829221000 +0200" stop="20260829223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260830200000 +0200" stop="20260830202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260830202000 +0200" stop="20260830204930 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>In die Wildnis</sub-title>
+    <desc>Was empfinden Menschen als Wildnis und wieviel echte Wildnis gibt es noch in den Alpen? Dieser Frage geht die Sendereihe Bergwelt in zwei noch sehr ursprünglichen alpinen Landschaften nach.  
+
+Mit dem Wanderkajak erkundet Thomas Hainz mit dem Eppaner Wildnispädagogen Florian Egger die Flusslandschaften am Tagliamento im benachbarten Veneto. Und auf der Suche nach den letzten Urwäldern erkundet das Team unwegsame und unzugängliche Täler im Nationalpark Kalkalpen in Österreich.</desc>
+  </programme>
+  <programme start="20260830205000 +0200" stop="20260830205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260830221000 +0200" stop="20260830223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
