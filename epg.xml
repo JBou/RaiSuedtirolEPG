@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260822175900 +0200" stop="20260822185830 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>&quot;Kompass&quot; im August berichtet von den Gustav Mahler Musikwochen in Toblach, über das Stück &quot;Kasimir und Karoline&quot; der Freilichtspiele Unterland, Felix Mitterers &quot;Feuernacht&quot; bei den Tiroler Volksschauspielen in der Südtirol-Siedlung in Telfs, &quot;In 80 Tagen um die Welt&quot; des Freien Theaters Bozen und zeigt ein Portrait des Bildhauers Othmar Prenner. Im Studio begrüßt Alexander Lechner außerdem Katharina Gschnell, sie ist seit 2026 Künstlerische Leiterin des Vereins &quot;Freilichtspiele Südtiroler Unterland - Theater an der Etsch&quot; und den Germanisten und Kunsthistoriker Andreas Hapkemeyer, der sich zu Beginn seiner Karriere mit Ingeborg Bachmann auseinandergesetzt hat.  Die Gustav Mahler Musikwochen stehen 2026 ganz unter dem richtungsweisenden Motto &quot;Der Anfang&quot;. Erstmals prägt Dirigent Dirk Kaftan das Festivalprogramm künstlerisch an der Seite des langjährigen Leiters Josef Lanz. Gemeinsam setzen sie mit Spitzenorchestern und jungen Talenten ein starkes Zeichen für Tradition und Aufbruch in Toblach  
-Felix Mitterers &quot;Feuernacht&quot; erzählt von Courage und Zweifeln, von Flucht und Heimat, Freiheit und Identität, auf einer Bühne aus Schutt werden Lebensmomente von Menschen in Zeiten des Aufruhrs erzählt, verstrickt in der großen Geschichte, die immer auch eine globale und sehr gegenwärtige ist. Herbert Pixner hat die Musik nicht nur komponiert, er steht selbst jeden Abend live auf der Bühne. 
-Die Freilichtspiele Südtiroler Unterland führen Ödön von Horváths berühmtes Volksstück &quot;Kasimir und Karoline&quot;auf. Das melancholisch-tragikomische Stück über eine entzweite Liebe während eines Volksfests in Krisenzeiten wird im Schulhof der Grundschule in Neumarkt unter der Regie von Mona Kraushaar gespielt. 
-Der Südtiroler Bildhauer und Designer Othmar Prenner verbindet auf einzigartige Weise freie Kunst mit radikaler Architektur. Besonderes Aufsehen erlangte er durch die minimalistische Transformation historischer Alpenbunker im Vinschgau zu zeitlosen Wohn- und Kunsträumen. In seinen Arbeiten trifft die raue Geschichte der Betonkolosse auf eine puristische, ortsbezogene Formensprache.  
-Das &quot;Versorgungshaus&quot; in Tisens wird bald 650 Jahre alt, verlassen verfällt es vor sich hin: Für das Freie Theater Bozen der perfekte Ort, um im verwunschenen Garten Sommertheater zu inszenieren: Auf dem Spielplan steht diesmal &quot;In 80 Tagen um die Welt&quot;, dem weltberühmten Roman von Jules Verne. Das FTB hat dafür eine eigene Fassung für ein kleines Ensemble erstellt. Es moderiert Alexander Lechner.</desc>
-  </programme>
-  <programme start="20260822200000 +0200" stop="20260822202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260822202000 +0200" stop="20260822202300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260822202300 +0200" stop="20260822210300 +0200" channel="Rai Südtirol">
-    <title>Flurnamen rund um den Schlern</title>
-    <sub-title/>
-    <desc>Flurnamenexperte Johannes Ortner erkundet das Gebiet nördlich und südlich des Schlerns und erklärt vorrömische Ortsnamen wie Seis, erzählt aber auch besondere Geschichten. 
-
-Johannes Ortner erklärt noch weitere vorrömische Ortsnamen wie Völs oder Tiers. In dieser Gegend gibt es aber auch eine Fülle an alpenromanischen Hof- und Flurnamen wie Panid (Föhrenwald), Peterfrag (gebrochener Stein), Tschafon (Großjoch) oder Tscherndui (Viehscheide). Rund um den Schlern findet man häufig Bezeichnungen wie Schwaige (Almhütten auf der Seiser Alm) oder Gufln (Felsüberhänge im Dolomitgestein). Um manche Bezeichnungen ranken sich besondere Geschichten: z.B. die Quelle Schlernblut, die Serbische Kappe auf der Schlern-Hochfläche oder das Tschetterloch in Tiers.</desc>
-  </programme>
-  <programme start="20260822210300 +0200" stop="20260822215100 +0200" channel="Rai Südtirol">
-    <title>Wein in Südtirol</title>
-    <sub-title>Die Geschichte eines Aufbruchs</sub-title>
-    <desc>Ab der zweiten Hälfte der 1980er-Jahre ist Südtirols Weinwirtschaft von Grund auf umgebaut und konsequent auf Qualität ausgerichtet worden. Diese radikale Wende hat das Fundament für eine Entwicklung gelegt, die Südtirol nicht nur zur maßgebenden Weißweinregion in Italien gemacht hat, sondern auch Südtirols Weine zu international anerkannten Spitzenprodukten. Der Film zeigt auch, dass die Qualitätswende zwar von Visionären vorangetrieben wurde, letztlich aber nur dank einer gemeinschaftlichen Anstrengung der Südtiroler Weinwirtschaft zum Erfolg werden konnte. Neben den Pionieren kommt im Film auch die neue Generation zu Wort, die das Weinland Südtirol heute prägt.</desc>
-  </programme>
-  <programme start="20260822215100 +0200" stop="20260822215800 +0200" channel="Rai Südtirol">
-    <title>dF-Frauenbilder</title>
-    <sub-title>Die Dozentin und Journalistin Wittfrieda Mitterer</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260822221000 +0200" stop="20260822223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260823200000 +0200" stop="20260823202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
