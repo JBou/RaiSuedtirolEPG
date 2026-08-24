@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260823200000 +0200" stop="20260823202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260823202000 +0200" stop="20260823204930 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Gotthard Bonell</sub-title>
-    <desc>Der in Truden geborene Gotthard Bonell zählt zu den renommiertesten Künstlern Südtirols. 
-
-Er studierte an den Kunstakademien in Venedig und Mailand und lebt bis heute in seiner Heimatgemeinde. Als Maler, Zeichner, Radierer und Sänger hat er sich weit über Südtirol hinaus einen Namen gemacht. Seine Werke befinden sich in Museen und Sammlungen in Italien, Österreich und Deutschland. Viele Rai Südtirol Hörerinnen und Hörer kennen ihn aus dem Radioprogramm &quot;Der Liederabend&quot;. Im Februar 2026 wurde Gotthard Bonell mit dem Ehrenzeichen des Landes Tirol ausgezeichnet. Außerdem ist er 1. Ehrenbürger der Gemeinde Truden.</desc>
-  </programme>
-  <programme start="20260823205000 +0200" stop="20260823205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260823221000 +0200" stop="20260823223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260824175900 +0200" stop="20260824182830 +0200" channel="Rai Südtirol">
     <title>Arbeiten und Leben unter der Sonne</title>
     <sub-title/>
