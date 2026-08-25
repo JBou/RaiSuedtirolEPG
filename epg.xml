@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260824175900 +0200" stop="20260824182830 +0200" channel="Rai Südtirol">
-    <title>Arbeiten und Leben unter der Sonne</title>
-    <sub-title/>
-    <desc>Die Adria - für viele ist sie mehr als nur ein Meer, mehr als nur ein Platz an der Sonne. Sie ist ein Versprechen: von Sommer, Freiheit, Aufbruch und neuen Möglichkeiten. 
-Die Reportage &quot;Meer statt Berge&quot; begleitet junge Südtirolerinnen und Südtiroler, die an der italienischen Adriaküste nicht nur Urlaub machen, sondern dort arbeiten, leben und wachsen. Lorena geht nach der Matura nach Jesolo, sammelt erste Erfahrungen im Restaurant-Service und verbindet Arbeit, Selbstständigkeit und Strandgefühl in einem prägenden Sommer. In Misano Adriatico erzählt der Film die Geschichte von Toni, Tanja, Valentina und Lorenzo Minchillo, die von Leifers an die Riviera Romagnola gezogen sind und dort eine neue Heimat gefunden haben. Zwischen Bergen und Meer entsteht ein lebendiges Porträt über Familie, Jugend, Arbeit und die Sehnsucht nach einem Leben am Wasser.</desc>
-  </programme>
-  <programme start="20260824182800 +0200" stop="20260824185817 +0200" channel="Rai Südtirol">
-    <title>Knistern, Klacken, Blincken</title>
-    <sub-title>Die Welt der Retrotechnik</sub-title>
-    <desc>Game Boys aus den 90ern, Röhrenradios aus den 30ern, analoge Fotokameras: Alte Technik erlebt eine Renaissance. Die Reportage begleitet drei Südtiroler, die aus Leidenschaft für Retro-Geräte leben - und zeigt, warum immer mehr Menschen in einer schnelllebigen digitalen Welt das Analoge wiederentdecken. Es gibt einen neuen Trend: Alte Technik. Was vor wenigen Jahren noch als nostalgische Marotte galt, ist heute ein gesellschaftliches Phänomen. Wir begleiten drei Südtiroler, für die alte Technik mehr ist als ein Hobby.</desc>
-  </programme>
-  <programme start="20260824200000 +0200" stop="20260824202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260824202000 +0200" stop="20260824210237 +0200" channel="Rai Südtirol">
-    <title>Almgeschichten und Hirtenleben</title>
-    <sub-title>Die Geschichte der Almen</sub-title>
-    <desc>Auf Südtirols Almen wird seit mindestens 4000 Jahren gehütet und gekäst, wissen Archäologen. Der Hirtenberuf gehört zu den ältesten überhaupt. Der Dokumentarfilm von Christoph Wieser erzählt, welche Historie die Weidewirtschaft darstellt und was sie für Hirten bedeutet.</desc>
-  </programme>
-  <programme start="20260824210200 +0200" stop="20260824213032 +0200" channel="Rai Südtirol">
-    <title>Hinterm Gartenzaun</title>
-    <sub-title>Gartenlust und Heilkräuterkraft</sub-title>
-    <desc>Karin Duregger streift durch die Gartenlandschaft, dieses Mal mit Besuchen eines Gartens mitten im Nirgendwo. Wir erfahren, wie steile Hänge zu wundervollen Grünparadiesen umgewandelt werden und erleben das Atelier eines Künstlers, das direkt an den Gemüse- und Blumengarten anschließt.</desc>
-  </programme>
-  <programme start="20260824213100 +0200" stop="20260824215951 +0200" channel="Rai Südtirol">
-    <title>Verrückt nach Pizza</title>
-    <sub-title>Die Reportage</sub-title>
-    <desc>Egal ob dick oder dünn, reichlich belegt oder puristisch gehalten - Pizza begeistert fast alle. Doch was auf dem Teller so einfach aussieht, ist eine Wissenschaft für sich. Eine Reportage von
-Andreas Niederkofler.
-Mittlerweile ist die Pizza nicht mehr aus der Südtiroler Küche wegzudenken. Auch wenn es für
-den Teig nur Mehl, Wasser, Hefe und Salz braucht, kommt es auf viele Kleinigkeiten an , damit
-die perfekte Pizza entsteht. Dies erfahren auch die Kursteilnehmer:innen bei einer Ausbildung in
-Brixen. In 180 Stunden erlernen sie die Kunst des Pizzabackens und erfahren dabei so manches
-Geheimnis rund um das italienische Nationalgericht. Aber auch bei den Profis hat jeder sein Rezept: der Pizzaiolo, der auf die Biga - den Vorteig - schwört, der Gastronom, der mit einem alten Familienrezept seine Gäste begeistert bis hin zur handgemachten Tiefkühlpizza.</desc>
-  </programme>
-  <programme start="20260824221000 +0200" stop="20260824223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260825200000 +0200" stop="20260825202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
