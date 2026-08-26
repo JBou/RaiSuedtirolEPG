@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260825200000 +0200" stop="20260825202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260825202000 +0200" stop="20260825203648 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Zielklettersteig in der Texelgruppe</sub-title>
-    <desc>Im Naturpark der Texelgruppe gibt es eine neue Route, den sogenannten Zielklettersteig im Zieltal. Der Bergführer Manfred Stuffer klettert diese familientaugliche Tourmit der Boznerin Brigitte Schritt. 
- 
-Referentin, Konfliktberaterin und Gesundheitsmanagerin Brigitte Schrott erzählt, wie es dazu kam, dass sie steile Felswände wie diese erklimmt und sie erklärt, wie man den ersten Schritt aus der eigenen Komfortzone schafft. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20260825203700 +0200" stop="20260825205235 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Michl Innerkofler</sub-title>
-    <desc>Klettern wie die ersten Reisenden in den Dolomiten Ende des 19.Jhs. Der Sextner Bergführer Michl Innerkofler mit Maria Eckarth eine Erstbegehung in der Cristallogruppe gemacht, die man in seinem Reisebericht nachlesen kann.</desc>
-  </programme>
-  <programme start="20260825221000 +0200" stop="20260825223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260826200000 +0200" stop="20260826202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
