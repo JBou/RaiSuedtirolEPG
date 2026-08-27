@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260826200000 +0200" stop="20260826202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260826202000 +0200" stop="20260826204930 +0200" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Der Kurzfilm &quot;Tshegl&quot; zeigt einen jungen Weinbauern zwischen Tradition, Selbstverwirklichung und der Frage: Was ist Heimat? Außerdem: Spitzenweine trotz Krise? Ein Lokalaugenschein im Weinberg und in der Kellerei Terlan. 
-
-&quot;Tshegl&quot; zeigt die Geschichte eines jungen Bozner Weinbauern, der zwischen seinem Studium in Wien und dem elterlichen Hof seinen eigenen Weg sucht. Für ihn steht fest: Er will nach Südtirol zurückkehren und den Familienbetrieb weiterführen, auch wenn er wegen seines Aussehens mit gegensätzlichen Vorurteilen konfrontiert wird. Die einen belächeln ihn als &quot;Tscheggl&quot;, andere bewundern seinen Einsatz&quot;für den Hof und seine Heimat. Im Anschluss spricht Filmemacher Philipp Silbernagl über die Idee zu diesem Kurzfilm und darüber, warum junge Menschen bleiben, gehen oder bewusst zurückkehren. Außerdem begleiten wir zum Auftakt der Traubenlese eine Winzerfamilie und besuchen die Kellerei Terlan. Dort gehen wir der Frage nach, wie es gelingt, trotz Klimawandel und rückläufigem Weinkonsum Jahr für Jahr Spitzenweine zu produzieren?</desc>
-  </programme>
-  <programme start="20260826221000 +0200" stop="20260826223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260827200000 +0200" stop="20260827202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
