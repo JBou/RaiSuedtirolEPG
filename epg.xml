@@ -4,45 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260828180000 +0200" stop="20260828182930 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title>Folge 2</sub-title>
-    <desc>Was haben Marillen, Apfel-Popcorn und Leinöl aus dem Vinschgau gemeinsam? Hinter all diesen Produkten stehen das Wissen, die Kreativität und die Leidenschaft von Bäuerin Nadia Luggin. 
-In der zweiten Folge &quot;Bäuerin für einen Tag&quot; ist Greta Marchegger auf dem Kandlwaal-Hof in Laas zu Gast. Dort hilft sie bei der Marillenernte, bei der Herstellung von Apfel-Popcorn und beim Pressen des wertvollen Leinöls mit. Dabei zeigt sich schnell: Die Arbeit auf dem Hof ist auch diesmal kein Honigschlecken. Ein spannender Blick hinter die Kulissen eines vielseitigen bäuerlichen Arbeitsalltags, bei dem neben körperlichem Einsatz auch unternehmerisches Denken und innovative Produktentwicklung gefragt sind.</desc>
-  </programme>
-  <programme start="20260828182900 +0200" stop="20260828185846 +0200" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Gotthard Bonell</sub-title>
-    <desc>Der in Truden geborene Gotthard Bonell zählt zu den renommiertesten Künstlern Südtirols. 
-Er studierte an den Kunstakademien in Venedig und Mailand und lebt bis heute in seiner Heimatgemeinde. Als Maler, Zeichner, Radierer und Sänger hat er sich weit über Südtirol hinaus einen Namen gemacht. Seine Werke befinden sich in Museen und Sammlungen in Italien, Österreich und Deutschland. Viele Rai Südtirol Hörerinnen und Hörer kennen ihn aus dem Radioprogramm &quot;Der Liederabend&quot;. Im Februar 2026 wurde Gotthard Bonell mit dem Ehrenzeichen des Landes Tirol ausgezeichnet. Außerdem ist er 1. Ehrenbürger der Gemeinde Truden.</desc>
-  </programme>
-  <programme start="20260828200000 +0200" stop="20260828202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260828202000 +0200" stop="20260828212000 +0200" channel="Rai Südtirol">
-    <title>Karl Zeller</title>
-    <sub-title>Die Autonomie leben</sub-title>
-    <desc>Er hat die Entwicklung der Südtiroler Autonomie maßgeblich mitgeprägt. Er war einer der ganz jungen SVP-Abgeordneten im Parlament und einer der dienstältesten Senatoren auf dem römischen Parkett.   
-
-Die Südtiroler Autonomie beschäftigt den Anwalt und Verfassungsjuristen seit seiner akademischen Tätigkeit an der Universität Innsbruck bis heute.  Karl Zeller ist ein unkonventioneller Charakter, der einen ungewöhnlichen Politikstil praktizierte. In der Dokumentation, im Portrait dieses Politikers, gemeinsam gestaltet, vom Trio Oskar Außerer, Osmund Zöschg und Rupert Zöschg, geben Karl Zeller selbst und seine Mitstreiter, Freunde und Kritiker seltene Einblicke darin, wie in der italienischen Hauptstadt auch hinter den Kulissen Politik gemacht wird und wie Meilensteine der Südtiroler Autonomie gesetzt wurden.</desc>
-  </programme>
-  <programme start="20260828212000 +0200" stop="20260828215914 +0200" channel="Rai Südtirol">
-    <title>Martha und Toni Ebner</title>
-    <sub-title>Ein Leben für Südtirol</sub-title>
-    <desc>Martha und Toni Ebner zählen zu den bedeutendsten Persönlichkeiten der jüngeren Südtiroler Geschichte. Als Mitbegründer der Südtiroler Volkspartei und langjähriger Leiter des  Athesia-Verlags prägte Toni Ebner das politische und mediale Leben des Landes maßgeblich mit.
-An seiner Seite: Martha Ebner - engagiert in Partei, Gesellschaft und Verlag, Mutter von fünf
-Kindern und eine Frau mit klarer Haltung. Die Dokumentation zeichnet ein vielschichtiges Porträt
-dieses außergewöhnlichen Paars - zwischen Einsatz für die Autonomie, den Herausforderungen
-der Bombenjahre und einem tiefen Verständnis für Verantwortung. Persönliche Erinnerungen
-ihrer Söhne sowie Stimmen langjähriger Wegbegleiterinnen und Wegbegleiter lassen die private wie öffentliche Dimension ihres Lebens spürbar werden. Im Zentrum steht Martha Ebner, heute über 100 Jahre alt, die mit klarem Blick und leiser Kraft auf ein Jahrhundert Südtiroler Geschichte zurückblickt.</desc>
-  </programme>
-  <programme start="20260828221000 +0200" stop="20260828223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260829180000 +0200" stop="20260829182930 +0200" channel="Rai Südtirol">
     <title>Hobbyköche</title>
     <sub-title>Leidenschaft am Herd</sub-title>
@@ -280,6 +241,31 @@ Im Anschluss wandert Theo Hendrich von St. Jakob in Pfitsch durch Lärchenwald z
 Ein Festakt mit den Staatsoberhäuptern Italiens und Österreichs, Sergio Mattarella und  Alexander Van der Bellen im Kursaal Meran - umrahmt vom Haydn Orchester von Bozen und Trient und einer Auftragskomposition von Gerd Hermann Ortler.</desc>
   </programme>
   <programme start="20260905221000 +0200" stop="20260905223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260906200000 +0200" stop="20260906202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260906202000 +0200" stop="20260906204930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Von Social Freezing spricht man, wenn Eizellen der Frau entnommen und eingefroren werden, ohne dass eine medizinische Indikation (wie etwa Krebs) vorliegt. Verspricht das mehr Selbstbestimmung oder erhöht es den Druck auf Frauen?  
+
+Die eingefrorenen Eizellen werden bis zu dem Zeitpunkt aufbewahrt, an welchem eine Schwangerschaft gewünscht ist. Ist die &quot;tickende biologische Uhr&quot; damit Geschichte und dem Karrierewunsch steht nichts mehr im Wege? Oder geraten Frauen damit noch mehr unter Zugzwang? Solange Beruf und Familie für Frauen noch immer schwer vereinbar sind und Mutterschaft im Arbeitsleben Nachteile bringen kann, bleibt die vermeintliche Freiheit ambivalent. 
+Eine dF-Nahaufnahme über Selbstbestimmung, Karriere, Kinderwunsch und die Frage, ob Social Freezing Frauen tatsächlich mehr Freiheit schenkt - oder ihnen eine weitere Verantwortung aufbürdet. 
+Vor fünf Jahren wurden sie mit ihrem ersten gemeinsamen Buch &quot;Hure oder Heilige&quot; als Duo bekannt. Nun legen die Fotografin Franziska Gilli und die Reporterin Barbara Bachmann einen Band zum Mannsein in Italien nach. Ein df-Doppelporträt über zwei Frauen, die in die Tiefe gehen und sich dabei gegenseitig ergänzen und inspirieren.
+In dF-Info berichten wir über die neu gegründete queer-feministische online Plattform Pink Studio und stellen das Buch &quot;Perspektiven und Positionen im zeitgenössischen Feminismus&quot; vor.</desc>
+  </programme>
+  <programme start="20260906205000 +0200" stop="20260906205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260906221000 +0200" stop="20260906223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
