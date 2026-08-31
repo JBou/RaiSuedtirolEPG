@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260830200000 +0200" stop="20260830202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260830202000 +0200" stop="20260830204930 +0200" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title>In die Wildnis</sub-title>
-    <desc>Was empfinden Menschen als Wildnis und wieviel echte Wildnis gibt es noch in den Alpen? Dieser Frage geht die Sendereihe Bergwelt in zwei noch sehr ursprünglichen alpinen Landschaften nach.  
-
-Mit dem Wanderkajak erkundet Thomas Hainz mit dem Eppaner Wildnispädagogen Florian Egger die Flusslandschaften am Tagliamento im benachbarten Veneto. Und auf der Suche nach den letzten Urwäldern erkundet das Team unwegsame und unzugängliche Täler im Nationalpark Kalkalpen in Österreich.</desc>
-  </programme>
-  <programme start="20260830205000 +0200" stop="20260830205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260830221000 +0200" stop="20260830223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260831180000 +0200" stop="20260831182853 +0200" channel="Rai Südtirol">
     <title>Die Reportage</title>
     <sub-title>Faszination Unimog</sub-title>
