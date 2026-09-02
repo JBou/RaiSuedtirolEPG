@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260901200000 +0200" stop="20260901202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260901202000 +0200" stop="20260901203456 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Contessina Turm</sub-title>
-    <desc>Am südlichen Eingang zum Naturpark Puez-Geisler, in der Cirgruppe, gibt es eine winzige Felsnadel namens &quot;Contessina&quot;. 
-
-Der Grödner Holzbildhauer Armin Rifesser Grunt besteigt den kleinen Berg und erzählt uns dabei, was er mit seiner Kunst bewirken will. Dabei geht es ihm vor allem um den Dialog zwischen seinen Holzfiguren und den Betrachtern.</desc>
-  </programme>
-  <programme start="20260901203500 +0200" stop="20260901204849 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Hike and fly</sub-title>
-    <desc>Dieser neue Trend ist die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem
-Gleitschirm. Er fasziniert immer mehr Südtiroler:innen, birgt aber auch Gefahren. Deshalb braucht es für Hike and fly viel Hintergrundwissen und Erfahrung. Wir begleiten Elisabeth und Patrick bei einem ihrer Abenteuer.</desc>
-  </programme>
-  <programme start="20260901221000 +0200" stop="20260901223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260902200000 +0200" stop="20260902202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
