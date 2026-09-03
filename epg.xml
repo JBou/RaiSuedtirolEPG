@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260902200000 +0200" stop="20260902202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260902202000 +0200" stop="20260902204930 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Die dritte Ausgabe von &quot;Bäuerin für einen Tag&quot; führt Greta Marchegger dieses Mal nach Pichl im Gsieser Tal zu Anna Reier.  
-
-Gemeinsam mit ihrem Mann Martin bewirtschaftet sie nicht nur den hauseigenen Hof, sondern auch die &quot;Houfa Hitte&quot; auf 1883 m Höhe. Anna nimmt Greta mit auf einen abwechslungsreichen Tag und gibt ihr einen Einblick in ihr Leben zwischen Wachteleiern, Almhütte und freilaufenden Schweinen.</desc>
-  </programme>
-  <programme start="20260902221000 +0200" stop="20260902223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260903200000 +0200" stop="20260903202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
