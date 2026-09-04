@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260903200000 +0200" stop="20260903202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260903202000 +0200" stop="20260903204944 +0200" channel="Rai Südtirol">
-    <title>60 Jahre RAI Südtirol</title>
-    <sub-title/>
-    <desc>Seit 1960 erzählt RAI Südtirol die Geschichte einer Minderheit, begleitet politische Umbrüche und prägt ein kulturelles Selbstverständnis. Eine Dokumentation von Gottfried Deghenghi. 
-
-Die Dokumentation zeichnet die Entstehung, Entwicklung und Zukunft des deutschsprachigen Fernsehens in Italien nach - als Spiegel einer ganzen Region. 
-Wie hat sich RAI Südtirol vom anfänglich provisorischen Minderheitenprojekt zu einer zentralen Medieninstitution entwickelt. Der Film verbindet Historie, Archivschätze, journalistische Schlüsselereignisse und persönliche Erinnerungen von Mitarbeiter:innen und Zuschauer:innen.</desc>
-  </programme>
-  <programme start="20260903221000 +0200" stop="20260903223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260904180000 +0200" stop="20260904181456 +0200" channel="Rai Südtirol">
     <title>Gipfelerlebnisse</title>
     <sub-title>Der Contessina Turm</sub-title>
@@ -123,6 +105,188 @@ In dF-Info berichten wir über die neu gegründete queer-feministische online Pl
     <desc/>
   </programme>
   <programme start="20260906221000 +0200" stop="20260906223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260907180000 +0200" stop="20260907182800 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Jungscharspaß in Tschötsch</sub-title>
+    <desc>Die Jungschargruppe Tschötsch lädt Clownfrau Karamela zu ihrer Sommerjungscharwoche ein und empfängt sie gleich mit einer Schatzsuche. Diese führt Karamela quer durch das kleine Dorf oberhalb von Brixen: zum Kneippen im Dorfbrunnen, in die kleine Kirche und schließlich zur Feuerwehr. Dort wartet auf Karamela noch eine ganz besondere Abkühlung – mit dem Feuerwehrschlauch.  
+Und anschließend gehts zum Bogenschießen, das vor allem Kindern großen Spaß macht.</desc>
+  </programme>
+  <programme start="20260907182800 +0200" stop="20260907185730 +0200" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title>In die Wildnis</sub-title>
+    <desc>Was empfinden Menschen als Wildnis und wieviel echte Wildnis gibt es noch in den Alpen? Dieser Frage geht die Sendereihe Bergwelt in zwei noch sehr ursprünglichen alpinenLandschaften nach. Mit dem Wanderkajak erkundet Thomas Hainz mit dem Eppaner Wildnispädagogen Florian Egger die Flusslandschaften am Tagliamento im benachbarten Veneto. Und auf der Suche nach den letzten Urwäldern erkundet das Team unwegsame und unzugängliche Täler im Nationalpark Kalkalpen in Österreich.</desc>
+  </programme>
+  <programme start="20260907200000 +0200" stop="20260907202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260907202000 +0200" stop="20260907212930 +0200" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20260907213000 +0200" stop="20260907215930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Von Social Freezing spricht man, wenn Eizellen der Frau entnommen und eingefroren werden, ohne dass eine medizinische Indikation (wie etwa Krebs) vorliegt. Verspricht das mehr Selbstbestimmung oder erhöht es den Druck auf Frauen?  Die eingefrorenen Eizellen werden bis zu dem Zeitpunkt aufbewahrt, an welchem eine Schwangerschaft gewünscht ist. Ist die &quot;tickende biologische Uhr&quot; damit Geschichte und dem Karrierewunsch steht nichts mehr im Wege? Oder geraten Frauen damit noch mehr unter Zugzwang? Solange Beruf und Familie für Frauen noch immer schwer vereinbar sind und Mutterschaft im Arbeitsleben Nachteile bringen kann, bleibt die vermeintliche Freiheit ambivalent. Eine dF-Nahaufnahme über Selbstbestimmung, Karriere, Kinderwunsch und die Frage, ob Social Freezing Frauen tatsächlich mehr Freiheit schenkt - oder ihnen eine weitere Verantwortung aufbürdet. 
+Vor fünf Jahren wurden sie mit ihrem ersten gemeinsamen Buch &quot;Hure oder Heilige&quot; als Duo bekannt. Nun legen die Fotografin Franziska Gilli und die Reporterin Barbara Bachmann einen Band zum Mannsein in Italien nach. Ein df-Doppelporträt über zwei Frauen, die in die Tiefe gehen und sich dabei gegenseitig ergänzen und inspirieren.
+In dF-Info berichten wir über die neu gegründete queer-feministische online Plattform Pink Studio und stellen das Buch &quot;Perspektiven und Positionen im zeitgenössischen Feminismus&quot; vor.</desc>
+  </programme>
+  <programme start="20260907221000 +0200" stop="20260907223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260908200000 +0200" stop="20260908202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260908202000 +0200" stop="20260908203500 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260908203500 +0200" stop="20260908204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Wir besuchen die jungen Biathletinnnen Auchentaller und Passler beim Sommertraining und berichten über die MTB-Landesmeisterschaften in Pichl Gsies. 
+
+Die SportZeit startet wieder mit wöchentlicher Berichterstattung rund um den Südtiroler Sport. Die italienische Biathlonmannschaft hat es durch die Erfolge der letzten Jahre geschafft, die Popularität des Sports in Italien enorm zu steigern. Olympia daheim ist nun abgehakt und Aushängeschild Dorothea Wierer hat ihre Karriere beendet. Damit die Euphorie anhält, wollen jetzt die jungen Biathletinnnen Auchentaller und Passler auftrumpfen. Die Sportzeit hat die beider Sportlerinnen im Sommertrainingslager in Antholz besucht.  
+Gleichzeitig kämpfen die Südtiroler MTB-Athleten um die diesjährigen Landesmeistertitel beim großen Südtirol-Cup-Finale in Pichl Gsies.  
+Dazu gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
+  </programme>
+  <programme start="20260908221000 +0200" stop="20260908223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260909200000 +0200" stop="20260909202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260909202000 +0200" stop="20260909204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Worauf achten bei privaten Kranken- und Sanitätsversicherungen? Inwiefern beeinflussen Informationen unsere Kaufentscheidungen? Neuerungen beim Europäischen Unfallbericht. 
+
+Private Kranken- und Sanitätsversicherungen sind in Südtirol weit verbreitet - doch sind sie ihr Geld wert? Die Verbraucherzentrale hat die gängigsten Angebote am Südtiroler Markt verglichen. Doch welche Leistungen sind tatsächlich enthalten und worauf sollten Verbraucher achten? 
+Eine wissenschaftliche Studie zu Lebensmittel-Labels zeigt: Je konkreter Verbraucher informiert sind, desto fundierter entscheiden sie und desto geringer sind Fehleinschätzungen. 
+Unfall auf dem Parkplatz, Auffahrunfall oder Blechschaden - nach einem Verkehrsunfall muss oft schnell gehandelt werden. Seit April 2026 kann der Europäische Unfallbericht in Italien auch digital per App ausgefüllt werden. Doch wann ist das sinnvoll, welche Voraussetzungen müssen erfüllt sein und warum sollte das Papierformular trotzdem im Auto bleiben? Pluspunkt erklärt die wichtigsten Neuerungen 
+Für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; führt die Sendung diesmal nach Mühlbach. Wie tickt die Marktgemeinde an der Grenze zwischen Eisack- und Pustertal?</desc>
+  </programme>
+  <programme start="20260909221000 +0200" stop="20260909223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260910200000 +0200" stop="20260910202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260910202000 +0200" stop="20260910204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Anfang</sub-title>
+    <desc>Über die Chancen und Herausforderungen eines jeden Anfangs. Neuanfänge prägen unser Leben - ob freiwillig gewählt oder durch Veränderungen erzwungen.  Es moderiert Karin Gschnitzer.  
+
+In dieser Sendung begleiten wir Menschen, die das Ungewisse gewagt und eine neue Zukunft gestaltet haben: Elisabeth Tocca berichtet über ihre Erfahrungen mit ihrem Start Up.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Neuanfang in Freiheit - Das Leben nach dem Kerker&quot;.</desc>
+  </programme>
+  <programme start="20260910221000 +0200" stop="20260910223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260911180000 +0200" stop="20260911182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Anfang</sub-title>
+    <desc>Über die Chancen und Herausforderungen eines jeden Anfangs. Neuanfänge prägen unser Leben - ob freiwillig gewählt oder durch Veränderungen erzwungen.  Es moderiert Karin Gschnitzer.  
+In dieser Sendung begleiten wir Menschen, die das Ungewisse gewagt und eine neue Zukunft gestaltet haben: Elisabeth Tocca berichtet über ihre Erfahrungen mit ihrem Start Up.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Neuanfang in Freiheit - Das Leben nach dem Kerker&quot;.</desc>
+  </programme>
+  <programme start="20260911182900 +0200" stop="20260911184330 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Wir besuchen die jungen Biathletinnnen Auchentaller und Passler beim Sommertraining und berichten über die MTB-Landesmeisterschaften in Pichl Gsies. Die SportZeit startet wieder mit wöchentlicher Berichterstattung rund um den Südtiroler Sport. Die italienische Biathlonmannschaft hat es durch die Erfolge der letzten Jahre geschafft, die Popularität des Sports in Italien enorm zu steigern. Olympia daheim ist nun abgehakt und Aushängeschild Dorothea Wierer hat ihre Karriere beendet. Damit die Euphorie anhält, wollen jetzt die jungen Biathletinnnen Auchentaller und Passler auftrumpfen. Die Sportzeit hat die beider Sportlerinnen im Sommertrainingslager in Antholz besucht.  
+Gleichzeitig kämpfen die Südtiroler MTB-Athleten um die diesjährigen Landesmeistertitel beim großen Südtirol-Cup-Finale in Pichl Gsies.  
+Dazu gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
+  </programme>
+  <programme start="20260911184400 +0200" stop="20260911185820 +0200" channel="Rai Südtirol">
+    <title>Raritäten</title>
+    <sub-title>Peter Senoner</sub-title>
+    <desc>Der Bildhauer und Künstler ist viel in der Welt herumgekommen. Er studierte in München, arbeitete in New York, Tokyo, Wien, Detroit. Er war Dozent an der Architektur-Uni Innsbruck, an der Design-Fakultät in Bozen und an der Uni Rosenheim.</desc>
+  </programme>
+  <programme start="20260911200000 +0200" stop="20260911202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260911202000 +0200" stop="20260911205000 +0200" channel="Rai Südtirol">
+    <title>Schachmax im MMA-Käfig</title>
+    <sub-title>Überlebt Max von Milland den härtesten Sport der Welt?</sub-title>
+    <desc>Auf Max von Milland eine Challenge der Extraklasse: Er wagt sich an Mixed Martial Arts (MMA) heran. Es ist die Königsdisziplin des Kampfsports. 
+
+MMA ist eine vielseitige und intensive Mischung aus Kickboxen, Ringen, Judo und brasilianischem Jiu-Jitsu. Es wird sowohl im Stand als auch am Boden gekämpft. 
+Unterstützung bekommt Max dabei von keinem Geringeren als dem Südtiroler MMA-Profi Raphael &quot;Virtuoso&quot; Federico. Der erfahrene Fighter nimmt den Moderator unter seine Fittiche, zeigt ihm die Grundlagen des Vollkontaktsports und stellt ihn vor eine schmerzhafte Zerreißprobe. Ob Max von Milland in der Arena seine Nerven behält oder am Ende ordentlich &quot;eine auf den Deckel&quot; bekommt?</desc>
+  </programme>
+  <programme start="20260911205100 +0200" stop="20260911213910 +0200" channel="Rai Südtirol">
+    <title>25 Jahre Transart</title>
+    <sub-title>Im Raum des Möglichen</sub-title>
+    <desc>Der Dokumentarfilm von Angelika König und Marina Baldo zeichnet die 25-jährige Entwicklung des zeitgenössischen Kulturfestivals internationaler Prägung in Bozen/Südtirol nach. Es ist von Beginn an bekannt für das Bespielen ungewöhnlicher Orte, das Überraschen mit unerwarteten Klängen und für das Schaffen ungewohnter Kulturerlebnisse. Das Statement ist klar: Kultur nimmt Stellung zu gesellschaftspolitischen Herausforderungen, Kultur setzt in Bewegung. Welche Impulse konnte das Kulturfestival in der Stadt Bozen und darüber hinaussetzen?</desc>
+  </programme>
+  <programme start="20260911213900 +0200" stop="20260911215803 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Sammlerglück</sub-title>
+    <desc>Artur Kirchler findet bei seinen Hochgebirgswanderungen im Ahrntal wunderschöne Mineralien, der bergbegeisterte Journalist Markus Kaserer hingegen sammelt 3000er.</desc>
+  </programme>
+  <programme start="20260911221000 +0200" stop="20260911223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260912175900 +0200" stop="20260912182900 +0200" channel="Rai Südtirol">
+    <title>Schachmax im MMA-Käfig</title>
+    <sub-title>Überlebt Max von Milland den härtesten Sport der Welt?</sub-title>
+    <desc>Auf Max von Milland eine Challenge der Extraklasse: Er wagt sich an Mixed Martial Arts (MMA) heran. Es ist die Königsdisziplin des Kampfsports. MMA ist eine vielseitige und intensive Mischung aus Kickboxen, Ringen, Judo und brasilianischem Jiu-Jitsu. Es wird sowohl im Stand als auch am Boden gekämpft. 
+Unterstützung bekommt Max dabei von keinem Geringeren als dem Südtiroler MMA-Profi Raphael &quot;Virtuoso&quot; Federico. Der erfahrene Fighter nimmt den Moderator unter seine Fittiche, zeigt ihm die Grundlagen des Vollkontaktsports und stellt ihn vor eine schmerzhafte Zerreißprobe. Ob Max von Milland in der Arena seine Nerven behält oder am Ende ordentlich &quot;eine auf den Deckel&quot; bekommt?</desc>
+  </programme>
+  <programme start="20260912182900 +0200" stop="20260912185830 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Worauf achten bei privaten Kranken- und Sanitätsversicherungen? Inwiefern beeinflussen Informationen unsere Kaufentscheidungen? Neuerungen beim Europäischen Unfallbericht. 
+Private Kranken- und Sanitätsversicherungen sind in Südtirol weit verbreitet - doch sind sie ihr Geld wert? Die Verbraucherzentrale hat die gängigsten Angebote am Südtiroler Markt verglichen. Doch welche Leistungen sind tatsächlich enthalten und worauf sollten Verbraucher achten? 
+Eine wissenschaftliche Studie zu Lebensmittel-Labels zeigt: Je konkreter Verbraucher informiert sind, desto fundierter entscheiden sie und desto geringer sind Fehleinschätzungen. 
+Unfall auf dem Parkplatz, Auffahrunfall oder Blechschaden - nach einem Verkehrsunfall muss oft schnell gehandelt werden. Seit April 2026 kann der Europäische Unfallbericht in Italien auch digital per App ausgefüllt werden. Doch wann ist das sinnvoll, welche Voraussetzungen müssen erfüllt sein und warum sollte das Papierformular trotzdem im Auto bleiben? Pluspunkt erklärt die wichtigsten Neuerungen 
+Für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; führt die Sendung diesmal nach Mühlbach. Wie tickt die Marktgemeinde an der Grenze zwischen Eisack- und Pustertal?</desc>
+  </programme>
+  <programme start="20260912200000 +0200" stop="20260912202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260912202000 +0200" stop="20260912202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260912202400 +0200" stop="20260912205330 +0200" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Der Frauenhausdienst Bruneck, Gewalt in der Beziehung, die Theologin Johanna Brunner im Porträt,  Achtsamkeit den eigenen Bedürfnissen gegenüber - das sind die Themen. 
+
+In Südtirol gibt es fünf Frauenhausdienste. Der Frauenhausdienst Bruneck wird von der Bezirksgemeinschaft Pustertal geführt und feiert heuer sein 10jähriges Jubiläum.  
+Der Ausstieg aus der Beziehung begann für eine junge Mutter nach einer Auseinandersetzung, in deren Folge sie im Krankenhaus behandelt werden musste. Erschwerend war für sie, dass sie ins Heimatdorf des Mannes gezogen war; dort war er und ist er beliebt, sie blieb immer die Zugezogene. 
+Die aus dem Pustertal stammende Theologin und Traumapädagogin Johanna Brunner leitet seit 2017 das Amt für Ehe und Familie im Bischöflichen Ordinariat, seit 2025 zusätzlich die neu geschaffene Stabstelle zur Prävention und Aufarbeitung von sexuellen Missbrauchsfällen. 
+Der digitale Konsum und der soziale Rückzug sind in der Kinder- und Jugendpsychiatrie ein großes Thema. Die Psychologin und Psychotherapeutin Angelika Fauster hat dafür ein resilient machendes Konzept: Achtsamkeit und positive Aufmerksamkeit den eigenen Bedürfnissen gegenüber, um so ins Spüren zu kommen.</desc>
+  </programme>
+  <programme start="20260912221000 +0200" stop="20260912223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
