@@ -4,52 +4,7 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260904180000 +0200" stop="20260904181456 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Der Contessina Turm</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260904181400 +0200" stop="20260904182749 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Hike and fly</sub-title>
-    <desc>Dieser neue Trend ist die Kombination aus sportlichem Anstieg und luftiger Abfahrt mit einem
-Gleitschirm. Er fasziniert immer mehr Südtiroler:innen, birgt aber auch Gefahren. Deshalb braucht es für Hike and fly viel Hintergrundwissen und Erfahrung. Wir begleiten Elisabeth und Patrick bei einem ihrer Abenteuer.</desc>
-  </programme>
-  <programme start="20260904182800 +0200" stop="20260904185744 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title>Folge 3</sub-title>
-    <desc>Die dritte Ausgabe von &quot;Bäuerin für einen Tag&quot; führt Greta Marchegger dieses Mal nach Pichl im Gsieser Tal zu Anna Reier. Gemeinsam mit ihrem Mann Martin bewirtschaftet sie nicht nur den hauseigenen Hof, sondern auch die &quot;Houfa Hitte&quot; auf 1883 m Höhe. Anna nimmt Greta mit auf einen abwechslungsreichen Tag und gibt ihr einen Einblick in ihr Leben zwischen Wachteleiern, Almhütte und freilaufenden Schweinen.</desc>
-  </programme>
-  <programme start="20260904200000 +0200" stop="20260904202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260904202000 +0200" stop="20260904211930 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Von verborgenen Gärten in Mals bis zu einsamen Bergpfaden im Pfitschtal - zwei Erlebnis-Touren, die das Publikum mit auf eine spannende Reise nehmen. 
-
-Karin Duregger blickt hinter die Gartenmauern von Mals, wo sich Anger seit alters her verbergen. Vier Gärten, vier Geschichten: eine offene Galerie mit Malerei und Naturkunst, ein Anwesen im Dialog mit der umgebenden Landschaft und Architektur, ein Gemüsegarten als grünes Herzstück und mehrere Oasen, umrahmt von einem einstigen Pfarrhaus und einer romanischen Kirche. Und vor allem spannende Gartenbesitzer:innen, die ihre grünen Wohnzimmer schätzen, lieben und pflegen. 
-Im Anschluss wandert Theo Hendrich von St. Jakob in Pfitsch durch Lärchenwald zum Weiler &quot;Stein&quot;, wo das wahrscheinlich &quot;beste Käse-Schinken-Omelett der Welt&quot; wartet. Weiter geht's über den Pfitscher Bach zum Moassl-Wasserfall, wo Maria Tötsch die Geologie des Tals erklärt. Die Tour endet im einzigartigen Biotop &quot;Sanderau&quot; nahe St. Jakob.</desc>
-  </programme>
-  <programme start="20260904212000 +0200" stop="20260904214923 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Vor einem Jahr hat der HGV seine Initiative zur Stärkung der Arbeitgeberattraktivität gestartet. Ziel ist es, die Mitgliedsbetriebe dabei zu unterstützen, sich als moderne, innovative und wertschätzende Arbeitgeber zu positionieren. Im Willkommen-Magazin fragen wir bei Gastgeberinnen und Gastgebern im Tal wie am Berg sowie bei ihren Mitarbeitenden nach: Was macht einen attraktiven Arbeitsplatz aus? Welche Maßnahmen bewähren sich in der Praxis? Und was ist den Menschen, die im Tourismus arbeiten, wirklich wichtig? Warum reisen Menschen im digitalen Zeitalter für Seminare und Weiterbildungen noch nach Brixen? Die Cusanus Akademie geht dieser Frage seit vielen Jahren auf besondere Weise nach. Als Bildungs- und Begegnungsort bietet sie nicht nur ein vielfältiges Veranstaltungsprogramm, sondern auch Unterkunft und Verpflegung für ihre Gäste. Dabei gehen wir der Frage nach, welchen Mehrwert Bildungsreisen für Brixen und Südtirol schaffen und verdeutlichen, wie Bildung, Tourismus und regionale Wertschöpfung miteinander verbunden sind und warum persönliche Begegnungen auch heute nichts von ihrer Bedeutung verloren haben. 
-Abseits der bekannten Tourismusorte gibt es in Südtirol Regionen, die ihren ursprünglichen Charakter bewahrt haben. Zwei Gastgeber zeigen, wie eng ihre Küche mit der Region verbunden ist: mit hochwertigen Zutaten regionaler Produzenten und einer eigenen Philosophie. So entstehen kulinarische Erlebnisse, die weit über gutes Essen hinausgehen.</desc>
-  </programme>
-  <programme start="20260904214900 +0200" stop="20260904215837 +0200" channel="Rai Südtirol">
-    <title>Klick mini</title>
-    <sub-title>Die Motorsportlerin Selina Prantl</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260904221000 +0200" stop="20260904223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260905110000 +0200" stop="20260905130000 +0200" channel="Rai Südtirol">
+  <programme start="20260905105000 +0200" stop="20260905122000 +0200" channel="Rai Südtirol">
     <title>Festakt 80 Jahre Pariser Vertrag</title>
     <sub-title>Live aus dem Meraner Kursaal</sub-title>
     <desc>Das Land Südtirol erinnert an ein wichtiges Jubiläum der Autonomiegeschichte - den Pariser Vertrag, der vor 80 Jahren zwischen Italien und Österreich geschlossen wurde. Er bildet die völkerrechtliche Grundlage für unsere heutige Autonomie. 
@@ -67,17 +22,22 @@ Im Anschluss wandert Theo Hendrich von St. Jakob in Pfitsch durch Lärchenwald z
     <sub-title/>
     <desc/>
   </programme>
-  <programme start="20260905202000 +0200" stop="20260905202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
+  <programme start="20260905202000 +0200" stop="20260905203447 +0200" channel="Rai Südtirol">
+    <title>Die Kunst des Kompromisses</title>
+    <sub-title>Paris-Südtirol 1946</sub-title>
     <desc/>
   </programme>
-  <programme start="20260905202400 +0200" stop="20260905215930 +0200" channel="Rai Südtirol">
+  <programme start="20260905203500 +0200" stop="20260905215500 +0200" channel="Rai Südtirol">
     <title>Festakt 80 Jahre Pariser Vertrag</title>
     <sub-title/>
     <desc>Das Land Südtirol erinnert an ein wichtiges Jubiläum der Autonomiegeschichte - den Pariser Vertrag, der vor 80 Jahren zwischen Italien und Österreich geschlossen wurde. Er bildet die völkerrechtliche Grundlage für unsere heutige Autonomie. 
 
 Ein Festakt mit den Staatsoberhäuptern Italiens und Österreichs, Sergio Mattarella und  Alexander Van der Bellen im Kursaal Meran - umrahmt vom Haydn Orchester von Bozen und Trient und einer Auftragskomposition von Gerd Hermann Ortler.</desc>
+  </programme>
+  <programme start="20260905215500 +0200" stop="20260905215900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
   </programme>
   <programme start="20260905221000 +0200" stop="20260905223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
@@ -287,6 +247,29 @@ Die aus dem Pustertal stammende Theologin und Traumapädagogin Johanna Brunner l
 Der digitale Konsum und der soziale Rückzug sind in der Kinder- und Jugendpsychiatrie ein großes Thema. Die Psychologin und Psychotherapeutin Angelika Fauster hat dafür ein resilient machendes Konzept: Achtsamkeit und positive Aufmerksamkeit den eigenen Bedürfnissen gegenüber, um so ins Spüren zu kommen.</desc>
   </programme>
   <programme start="20260912221000 +0200" stop="20260912223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260913200000 +0200" stop="20260913202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260913202000 +0200" stop="20260913204430 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Zu Besuch im Sommerlager der Eppaner Pfadfinder und in der Fachschule für Landwirtschaft in Dietenheim. Moderation: Mara Marth. 
+
+Abenteuer, Gemeinschaft und jede Menge Natur: das erleben die Pfadfinder aus Eppan bei ihrem Sommerlager auf 1750 Metern. Zwischen Zelten, Lagerfeuer und gemeinsamen Aktivitäten erfahren wir, was Jugendliche an der mehr als 100 Jahre alten Pfadfinderbewegung bis heute begeistert.  
+Von der Idee zum eigenen Projekt: KLICK besucht Schüler:innen der Fachschule für Landwirtschaft Dietenheim, die im Fach Projektmanagement ihre eigenen Maturaprojekte planen und umsetzen. Wir stellen drei dieser Projekte vor, die sich mit Nachhaltigkeit, Biodiversität und Tiergesundheit beschäftigen. Dabei erfahren wir, wieviel Eigeninitiative, Planung und Verantwortung hinter den Projekten der Jugendlichen steckt.</desc>
+  </programme>
+  <programme start="20260913204500 +0200" stop="20260913204900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260913221000 +0200" stop="20260913223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
