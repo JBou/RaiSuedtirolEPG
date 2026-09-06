@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260905105000 +0200" stop="20260905122000 +0200" channel="Rai Südtirol">
-    <title>Festakt 80 Jahre Pariser Vertrag</title>
-    <sub-title>Live aus dem Meraner Kursaal</sub-title>
-    <desc>Das Land Südtirol erinnert an ein wichtiges Jubiläum der Autonomiegeschichte - den Pariser Vertrag, der vor 80 Jahren zwischen Italien und Österreich geschlossen wurde. Er bildet die völkerrechtliche Grundlage für unsere heutige Autonomie. 
-
-Ein Festakt mit den Staatsoberhäuptern Italiens und Österreichs, Sergio Mattarella und  Alexander Van der Bellen im Kursaal Meran - umrahmt vom Haydn Orchester von Bozen und Trient und einer Auftragskomposition von Gerd Hermann Ortler.</desc>
-  </programme>
-  <programme start="20260905175900 +0200" stop="20260905185830 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Von verborgenen Gärten in Mals bis zu einsamen Bergpfaden im Pfitschtal - zwei Erlebnis-Touren, die das Publikum mit auf eine spannende Reise nehmen. Karin Duregger blickt hinter die Gartenmauern von Mals, wo sich Anger seit alters her verbergen. Vier Gärten, vier Geschichten: eine offene Galerie mit Malerei und Naturkunst, ein Anwesen im Dialog mit der umgebenden Landschaft und Architektur, ein Gemüsegarten als grünes Herzstück und mehrere Oasen, umrahmt von einem einstigen Pfarrhaus und einer romanischen Kirche. Und vor allem spannende Gartenbesitzer:innen, die ihre grünen Wohnzimmer schätzen, lieben und pflegen. 
-Im Anschluss wandert Theo Hendrich von St. Jakob in Pfitsch durch Lärchenwald zum Weiler &quot;Stein&quot;, wo das wahrscheinlich &quot;beste Käse-Schinken-Omelett der Welt&quot; wartet. Weiter geht's über den Pfitscher Bach zum Moassl-Wasserfall, wo Maria Tötsch die Geologie des Tals erklärt. Die Tour endet im einzigartigen Biotop &quot;Sanderau&quot; nahe St. Jakob.</desc>
-  </programme>
-  <programme start="20260905200000 +0200" stop="20260905202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260905202000 +0200" stop="20260905203447 +0200" channel="Rai Südtirol">
-    <title>Die Kunst des Kompromisses</title>
-    <sub-title>Paris-Südtirol 1946</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260905203500 +0200" stop="20260905215500 +0200" channel="Rai Südtirol">
-    <title>Festakt 80 Jahre Pariser Vertrag</title>
-    <sub-title/>
-    <desc>Das Land Südtirol erinnert an ein wichtiges Jubiläum der Autonomiegeschichte - den Pariser Vertrag, der vor 80 Jahren zwischen Italien und Österreich geschlossen wurde. Er bildet die völkerrechtliche Grundlage für unsere heutige Autonomie. 
-
-Ein Festakt mit den Staatsoberhäuptern Italiens und Österreichs, Sergio Mattarella und  Alexander Van der Bellen im Kursaal Meran - umrahmt vom Haydn Orchester von Bozen und Trient und einer Auftragskomposition von Gerd Hermann Ortler.</desc>
-  </programme>
-  <programme start="20260905215500 +0200" stop="20260905215900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260905221000 +0200" stop="20260905223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260906200000 +0200" stop="20260906202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
