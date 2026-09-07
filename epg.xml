@@ -4,31 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260906200000 +0200" stop="20260906202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260906202000 +0200" stop="20260906204930 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Von Social Freezing spricht man, wenn Eizellen der Frau entnommen und eingefroren werden, ohne dass eine medizinische Indikation (wie etwa Krebs) vorliegt. Verspricht das mehr Selbstbestimmung oder erhöht es den Druck auf Frauen?  
-
-Die eingefrorenen Eizellen werden bis zu dem Zeitpunkt aufbewahrt, an welchem eine Schwangerschaft gewünscht ist. Ist die &quot;tickende biologische Uhr&quot; damit Geschichte und dem Karrierewunsch steht nichts mehr im Wege? Oder geraten Frauen damit noch mehr unter Zugzwang? Solange Beruf und Familie für Frauen noch immer schwer vereinbar sind und Mutterschaft im Arbeitsleben Nachteile bringen kann, bleibt die vermeintliche Freiheit ambivalent. 
-Eine dF-Nahaufnahme über Selbstbestimmung, Karriere, Kinderwunsch und die Frage, ob Social Freezing Frauen tatsächlich mehr Freiheit schenkt - oder ihnen eine weitere Verantwortung aufbürdet. 
-Vor fünf Jahren wurden sie mit ihrem ersten gemeinsamen Buch &quot;Hure oder Heilige&quot; als Duo bekannt. Nun legen die Fotografin Franziska Gilli und die Reporterin Barbara Bachmann einen Band zum Mannsein in Italien nach. Ein df-Doppelporträt über zwei Frauen, die in die Tiefe gehen und sich dabei gegenseitig ergänzen und inspirieren.
-In dF-Info berichten wir über die neu gegründete queer-feministische online Plattform Pink Studio und stellen das Buch &quot;Perspektiven und Positionen im zeitgenössischen Feminismus&quot; vor.</desc>
-  </programme>
-  <programme start="20260906205000 +0200" stop="20260906205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260906221000 +0200" stop="20260906223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260907180000 +0200" stop="20260907182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Jungscharspaß in Tschötsch</sub-title>
