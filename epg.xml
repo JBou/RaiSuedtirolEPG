@@ -4,30 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260908200000 +0200" stop="20260908202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260908202000 +0200" stop="20260908203500 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260908203500 +0200" stop="20260908204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Wir besuchen die jungen Biathletinnnen Auchentaller und Passler beim Sommertraining und berichten über die MTB-Landesmeisterschaften in Pichl Gsies. 
-
-Die SportZeit startet wieder mit wöchentlicher Berichterstattung rund um den Südtiroler Sport. Die italienische Biathlonmannschaft hat es durch die Erfolge der letzten Jahre geschafft, die Popularität des Sports in Italien enorm zu steigern. Olympia daheim ist nun abgehakt und Aushängeschild Dorothea Wierer hat ihre Karriere beendet. Damit die Euphorie anhält, wollen jetzt die jungen Biathletinnnen Auchentaller und Passler auftrumpfen. Die Sportzeit hat die beider Sportlerinnen im Sommertrainingslager in Antholz besucht.  
-Gleichzeitig kämpfen die Südtiroler MTB-Athleten um die diesjährigen Landesmeistertitel beim großen Südtirol-Cup-Finale in Pichl Gsies.  
-Dazu gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
-  </programme>
-  <programme start="20260908221000 +0200" stop="20260908223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260909200000 +0200" stop="20260909202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
