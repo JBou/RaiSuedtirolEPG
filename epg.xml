@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260911180000 +0200" stop="20260911182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Anfang</sub-title>
-    <desc>Über die Chancen und Herausforderungen eines jeden Anfangs. Neuanfänge prägen unser Leben - ob freiwillig gewählt oder durch Veränderungen erzwungen.  Es moderiert Karin Gschnitzer.  
-In dieser Sendung begleiten wir Menschen, die das Ungewisse gewagt und eine neue Zukunft gestaltet haben: Elisabeth Tocca berichtet über ihre Erfahrungen mit ihrem Start Up.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Neuanfang in Freiheit - Das Leben nach dem Kerker&quot;.</desc>
-  </programme>
-  <programme start="20260911182900 +0200" stop="20260911184330 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Wir besuchen die jungen Biathletinnnen Auchentaller und Passler beim Sommertraining und berichten über die MTB-Landesmeisterschaften in Pichl Gsies. Die SportZeit startet wieder mit wöchentlicher Berichterstattung rund um den Südtiroler Sport. Die italienische Biathlonmannschaft hat es durch die Erfolge der letzten Jahre geschafft, die Popularität des Sports in Italien enorm zu steigern. Olympia daheim ist nun abgehakt und Aushängeschild Dorothea Wierer hat ihre Karriere beendet. Damit die Euphorie anhält, wollen jetzt die jungen Biathletinnnen Auchentaller und Passler auftrumpfen. Die Sportzeit hat die beider Sportlerinnen im Sommertrainingslager in Antholz besucht.  
-Gleichzeitig kämpfen die Südtiroler MTB-Athleten um die diesjährigen Landesmeistertitel beim großen Südtirol-Cup-Finale in Pichl Gsies.  
-Dazu gibt es wie immer Sportergebnisse in Kompaktform und Veranstaltungstipps.</desc>
-  </programme>
-  <programme start="20260911184400 +0200" stop="20260911185820 +0200" channel="Rai Südtirol">
-    <title>Raritäten</title>
-    <sub-title>Peter Senoner</sub-title>
-    <desc>Der Bildhauer und Künstler ist viel in der Welt herumgekommen. Er studierte in München, arbeitete in New York, Tokyo, Wien, Detroit. Er war Dozent an der Architektur-Uni Innsbruck, an der Design-Fakultät in Bozen und an der Uni Rosenheim.</desc>
-  </programme>
-  <programme start="20260911200000 +0200" stop="20260911202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260911202000 +0200" stop="20260911205000 +0200" channel="Rai Südtirol">
-    <title>Schachmax im MMA-Käfig</title>
-    <sub-title>Überlebt Max von Milland den härtesten Sport der Welt?</sub-title>
-    <desc>Auf Max von Milland eine Challenge der Extraklasse: Er wagt sich an Mixed Martial Arts (MMA) heran. Es ist die Königsdisziplin des Kampfsports. 
-
-MMA ist eine vielseitige und intensive Mischung aus Kickboxen, Ringen, Judo und brasilianischem Jiu-Jitsu. Es wird sowohl im Stand als auch am Boden gekämpft. 
-Unterstützung bekommt Max dabei von keinem Geringeren als dem Südtiroler MMA-Profi Raphael &quot;Virtuoso&quot; Federico. Der erfahrene Fighter nimmt den Moderator unter seine Fittiche, zeigt ihm die Grundlagen des Vollkontaktsports und stellt ihn vor eine schmerzhafte Zerreißprobe. Ob Max von Milland in der Arena seine Nerven behält oder am Ende ordentlich &quot;eine auf den Deckel&quot; bekommt?</desc>
-  </programme>
-  <programme start="20260911205100 +0200" stop="20260911213910 +0200" channel="Rai Südtirol">
-    <title>25 Jahre Transart</title>
-    <sub-title>Im Raum des Möglichen</sub-title>
-    <desc>Der Dokumentarfilm von Angelika König und Marina Baldo zeichnet die 25-jährige Entwicklung des zeitgenössischen Kulturfestivals internationaler Prägung in Bozen/Südtirol nach. Es ist von Beginn an bekannt für das Bespielen ungewöhnlicher Orte, das Überraschen mit unerwarteten Klängen und für das Schaffen ungewohnter Kulturerlebnisse. Das Statement ist klar: Kultur nimmt Stellung zu gesellschaftspolitischen Herausforderungen, Kultur setzt in Bewegung. Welche Impulse konnte das Kulturfestival in der Stadt Bozen und darüber hinaussetzen?</desc>
-  </programme>
-  <programme start="20260911213900 +0200" stop="20260911215803 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Sammlerglück</sub-title>
-    <desc>Artur Kirchler findet bei seinen Hochgebirgswanderungen im Ahrntal wunderschöne Mineralien, der bergbegeisterte Journalist Markus Kaserer hingegen sammelt 3000er.</desc>
-  </programme>
-  <programme start="20260911221000 +0200" stop="20260911223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260912175900 +0200" stop="20260912182900 +0200" channel="Rai Südtirol">
     <title>Schachmax im MMA-Käfig</title>
     <sub-title>Überlebt Max von Milland den härtesten Sport der Welt?</sub-title>
@@ -317,6 +270,34 @@ Andrea Mair aus Rodeneck kennt diese Frage nur zu gut. Im Sommer 2019 verliert s
 In der neuen Folge von Momentum erzählt Andrea mit großer Offenheit von ihrer Trauer, von Erinnerungen, die bis heute Kraft geben, und von ihrem Weg zurück ins Leben. Gemeinsam mit ihrem Partner Ewald, ihrer Schwester Petra und an Orten, die für sie eine besondere Bedeutung haben, blickt sie auf eine Geschichte, die tief berührt. Heute arbeitet Andrea im Kinderdorf in Brixen und begleitet dort Kinder in schwierigen Lebenssituationen. Sie hat ein Buch geschrieben, hält Lesungen und spricht mit Menschen, die selbst Verluste erlebt haben. Dabei zeigt sie, dass Trauer und Hoffnung kein Widerspruch sein müssen. Es ist eine Reise durch Schmerz, Liebe und die Kraft, trotz allem wieder nach vorne zu schauen. Ein bewegendes Porträt über Verlust, Hoffnung und die Erkenntnis, dass Liebe den Tod überdauern kann. Denn manchmal bleibt am Ende genau das, was am Anfang schon da war: Liebe.</desc>
   </programme>
   <programme start="20260919221000 +0200" stop="20260919223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260920200000 +0200" stop="20260920202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260920202000 +0200" stop="20260920212500 +0200" channel="Rai Südtirol">
+    <title>Feuernacht</title>
+    <sub-title>Tiroler Volksschauspiele Telfs - Teil 2</sub-title>
+    <desc>Felix Mitterers &quot;Feuernacht&quot; mit Tiroler und Südtiroler Schauspieler:innen und Live-Bühnenmusik von Herbert Pixner und Manu Delago. Inszenierung Thomas Gassner. 
+
+Als Bühnenbild der Tiroler Volksschauspiele fungiert das letzte noch bestehende Haus der ehemaligen Telfer Südtiroler Siedlung. Mit einer Live-Kamera werden einzelne Szenen verfolgt und auf eine große Leinwand projiziert, was ein besonderes nahegehendes Theatererlebnis ermöglicht.  &quot;Feuernacht&quot; zeigt am Beispiel von drei Familien eindringlich die Folgen von politischer Gewalt. Über vierzig Schauspieler:innen aus Tirol und Südtirol sind im Einsatz: unter anderem Lisa Hörtnagl, Brigitte Jaufenthaler, Lukas Lobis, Markus Oberrauch, Lukas Spisser  und Fabian Mair-Mitterer.</desc>
+  </programme>
+  <programme start="20260920212500 +0200" stop="20260920215555 +0200" channel="Rai Südtirol">
+    <title>Denkmal unbekannt</title>
+    <sub-title>Botschaften und Erinnerungen</sub-title>
+    <desc>Welche Bedeutung und welche Ausstrahlung kann ein Denkmal haben? In Südtirol - wie auch anderswo - gibt es viele Denkmäler: Büsten, Statuen, Säulen...Die meisten erinnern an herausragende Persönlichkeiten. Doch wer kennt sie? Im Zentrum der Aufmerksamkeit stehen meistens jene Denkmäler, die in einem geschichtlichen oder auch politischen Kontext stehen.
+Der Dokumentarfilm &quot;Denkmal unbekannt&quot; erinnert allerdings weniger an diese Denkmäler, als vielmehr an jene, die weitgehend in Vergessenheit geraten sind, die im Schatten stehen oder Träger von Botschaften sind, die heute nicht mehr verstanden werden.</desc>
+  </programme>
+  <programme start="20260920215600 +0200" stop="20260920215900 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260920221000 +0200" stop="20260920223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
