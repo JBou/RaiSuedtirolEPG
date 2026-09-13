@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260912175900 +0200" stop="20260912182900 +0200" channel="Rai Südtirol">
-    <title>Schachmax im MMA-Käfig</title>
-    <sub-title>Überlebt Max von Milland den härtesten Sport der Welt?</sub-title>
-    <desc>Auf Max von Milland eine Challenge der Extraklasse: Er wagt sich an Mixed Martial Arts (MMA) heran. Es ist die Königsdisziplin des Kampfsports. MMA ist eine vielseitige und intensive Mischung aus Kickboxen, Ringen, Judo und brasilianischem Jiu-Jitsu. Es wird sowohl im Stand als auch am Boden gekämpft. 
-Unterstützung bekommt Max dabei von keinem Geringeren als dem Südtiroler MMA-Profi Raphael &quot;Virtuoso&quot; Federico. Der erfahrene Fighter nimmt den Moderator unter seine Fittiche, zeigt ihm die Grundlagen des Vollkontaktsports und stellt ihn vor eine schmerzhafte Zerreißprobe. Ob Max von Milland in der Arena seine Nerven behält oder am Ende ordentlich &quot;eine auf den Deckel&quot; bekommt?</desc>
-  </programme>
-  <programme start="20260912182900 +0200" stop="20260912185830 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Worauf achten bei privaten Kranken- und Sanitätsversicherungen? Inwiefern beeinflussen Informationen unsere Kaufentscheidungen? Neuerungen beim Europäischen Unfallbericht. 
-Private Kranken- und Sanitätsversicherungen sind in Südtirol weit verbreitet - doch sind sie ihr Geld wert? Die Verbraucherzentrale hat die gängigsten Angebote am Südtiroler Markt verglichen. Doch welche Leistungen sind tatsächlich enthalten und worauf sollten Verbraucher achten? 
-Eine wissenschaftliche Studie zu Lebensmittel-Labels zeigt: Je konkreter Verbraucher informiert sind, desto fundierter entscheiden sie und desto geringer sind Fehleinschätzungen. 
-Unfall auf dem Parkplatz, Auffahrunfall oder Blechschaden - nach einem Verkehrsunfall muss oft schnell gehandelt werden. Seit April 2026 kann der Europäische Unfallbericht in Italien auch digital per App ausgefüllt werden. Doch wann ist das sinnvoll, welche Voraussetzungen müssen erfüllt sein und warum sollte das Papierformular trotzdem im Auto bleiben? Pluspunkt erklärt die wichtigsten Neuerungen 
-Für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; führt die Sendung diesmal nach Mühlbach. Wie tickt die Marktgemeinde an der Grenze zwischen Eisack- und Pustertal?</desc>
-  </programme>
-  <programme start="20260912200000 +0200" stop="20260912202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260912202000 +0200" stop="20260912202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260912202400 +0200" stop="20260912205330 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Der Frauenhausdienst Bruneck, Gewalt in der Beziehung, die Theologin Johanna Brunner im Porträt,  Achtsamkeit den eigenen Bedürfnissen gegenüber - das sind die Themen. 
-
-In Südtirol gibt es fünf Frauenhausdienste. Der Frauenhausdienst Bruneck wird von der Bezirksgemeinschaft Pustertal geführt und feiert heuer sein 10jähriges Jubiläum.  
-Der Ausstieg aus der Beziehung begann für eine junge Mutter nach einer Auseinandersetzung, in deren Folge sie im Krankenhaus behandelt werden musste. Erschwerend war für sie, dass sie ins Heimatdorf des Mannes gezogen war; dort war er und ist er beliebt, sie blieb immer die Zugezogene. 
-Die aus dem Pustertal stammende Theologin und Traumapädagogin Johanna Brunner leitet seit 2017 das Amt für Ehe und Familie im Bischöflichen Ordinariat, seit 2025 zusätzlich die neu geschaffene Stabstelle zur Prävention und Aufarbeitung von sexuellen Missbrauchsfällen. 
-Der digitale Konsum und der soziale Rückzug sind in der Kinder- und Jugendpsychiatrie ein großes Thema. Die Psychologin und Psychotherapeutin Angelika Fauster hat dafür ein resilient machendes Konzept: Achtsamkeit und positive Aufmerksamkeit den eigenen Bedürfnissen gegenüber, um so ins Spüren zu kommen.</desc>
-  </programme>
-  <programme start="20260912221000 +0200" stop="20260912223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260913200000 +0200" stop="20260913202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
