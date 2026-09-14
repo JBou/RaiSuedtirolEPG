@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260913200000 +0200" stop="20260913202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260913202000 +0200" stop="20260913204430 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Zu Besuch im Sommerlager der Eppaner Pfadfinder und in der Fachschule für Landwirtschaft in Dietenheim. Moderation: Mara Marth. 
-
-Abenteuer, Gemeinschaft und jede Menge Natur: das erleben die Pfadfinder aus Eppan bei ihrem Sommerlager auf 1750 Metern. Zwischen Zelten, Lagerfeuer und gemeinsamen Aktivitäten erfahren wir, was Jugendliche an der mehr als 100 Jahre alten Pfadfinderbewegung bis heute begeistert.  
-Von der Idee zum eigenen Projekt: KLICK besucht Schüler:innen der Fachschule für Landwirtschaft Dietenheim, die im Fach Projektmanagement ihre eigenen Maturaprojekte planen und umsetzen. Wir stellen drei dieser Projekte vor, die sich mit Nachhaltigkeit, Biodiversität und Tiergesundheit beschäftigen. Dabei erfahren wir, wieviel Eigeninitiative, Planung und Verantwortung hinter den Projekten der Jugendlichen steckt.</desc>
-  </programme>
-  <programme start="20260913204500 +0200" stop="20260913204900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260913221000 +0200" stop="20260913223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260914180000 +0200" stop="20260914182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Heimische Schlangen</sub-title>
