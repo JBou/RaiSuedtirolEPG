@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260915200000 +0200" stop="20260915202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260915202000 +0200" stop="20260915203500 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260915203500 +0200" stop="20260915204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Der 25. Südtiroler Firmenlauf 2026 und die wichtigsten Nachrichten aus dem Südtiroler Sport präsentiert von Laura Moroder. 
-
-Der diesjährige Südtiroler Firmenlauf, bei dem Hunderte von Arbeitskolleg:innen aus unterschiedlichen Wirtschaftssparten zum gemeinsamen Laufen antreten, fand kürzlich in Neumarkt statt, wobei der Fokus auf Gesundheit, Bewegung und ausgeprägtem Teamgeist liegt. Außerdem gibt es noch die wichtigsten Sportnews in Kurzform und die spannendsten Sporttermine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20260915221000 +0200" stop="20260915223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260916200000 +0200" stop="20260916202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
