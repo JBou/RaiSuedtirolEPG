@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260916200000 +0200" stop="20260916202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260916202000 +0200" stop="20260916204930 +0200" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Slowenisch ist in Santa Croce (Križ) bei Triest fest verankert. Die Parallelen zwischen dem süditalienischen Griko und dem Kornischen in Cornwall. Toni Visentinis Engagement für Minderheitensprachen. 
-
-Die historische slowenische Minderheit pflegt ihre Sprache traditionsbewusst in lokalen Vereinen, der Gastronomie und im Zusammenleben. Als verbindendes Element schlägt das Slowenische hier eine lebendige Brücke zwischen den Kulturen der Adria Region.  
-Ein von der EU gefördertes Forschungsprojekt in Cornwall untersucht die Parallelen zwischen dem keltischen Kornisch und dem in Süditalien gesprochenen Griko. Obwohl die beiden Sprachen sprachhistorisch völlig unterschiedlich sind, stehen sie vor den gleichen Herausforderungen beim Erhalt ihres Kulturerbes.  
-Der italienische Journalist Toni Visentini setzt sich aktiv für das Bewusstsein und den Erhalt regionaler Minderheitensprachen ein. Durch seine Arbeit unterstützt er Initiativen, die das kulturelle Erbe sprachlicher Minderheiten im italienischen Raum pflegen. Seit einigen Jahren ist er im Ruhestand, jedoch immer in Bewegung.  
-In der Reihe Tribal Voices in Zusammenarbeit mit Survival International erzählt Adlun Fiqri aus Indonesien über den Kampf seines Volkes gegen den Nickelabbau internationaler Konzerne.</desc>
-  </programme>
-  <programme start="20260916221000 +0200" stop="20260916223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260917200000 +0200" stop="20260917202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
