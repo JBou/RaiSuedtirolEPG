@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260917200000 +0200" stop="20260917202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260917202000 +0200" stop="20260917204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Handschrift</sub-title>
-    <desc>Generation Touchscreen: Geht uns das Schreiben von Hand immer mehr verloren? Was macht das mit uns? Das fragt Magdalena Oberstaller Sven Nickel, Professor für Bildungswissenschaften an der Uni Bozen. 
-
-Neue Studien zeigen: Wer mit der Hand schreibt, lernt nachhaltiger und verarbeitet Informationen tiefer als am Bildschirm. Dennoch greifen immer weniger Menschen zu Stift und Papier - mit spürbaren Folgen für die kognitive Entwicklung, sagt Prof.Nickel.  
-In der Reihe &quot;Wiedersehen&quot; besuchen wir die Bergschule Lanebach und machen außerdem einen Abstecher in den Recyclinghof von Bruneck.</desc>
-  </programme>
-  <programme start="20260917221000 +0200" stop="20260917223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260918175900 +0200" stop="20260918182830 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Handschrift</sub-title>
@@ -135,6 +117,173 @@ Der Dokumentarfilm &quot;Denkmal unbekannt&quot; erinnert allerdings weniger an 
     <desc/>
   </programme>
   <programme start="20260920221000 +0200" stop="20260920223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260921180000 +0200" stop="20260921182800 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title/>
+    <desc>Die beiden Zipp Reporterinnen Eva und Mira besuchen Manuel Niederkofler in seinem Garten in Sand in Taufers. Er hat ein ganz besonderes Hobby: Er züchtet und gestaltet Bonsaibäumchen. Über 200 Bäumchen pflegt und hegt er. Täglich wird gegossen, geschnitten, umgetopft und gedrahtet. Das Resultat seiner Mühen sieht man bei manchen Bäumchen erst in 10-20 Jahren. Aber das ist kein Problem, denn Zeit hat man ja, sagt Manuel. Die beiden Reporterinnen dürfen unter Manuels Anleitung ihr erstes Bäumchen zurechtstutzen, in ein selbst gemachtes Töpfchen pflanzen und dann zur weiteren Pflege mit nach Hause nehmen. 
+Zipp Pflanzenfachfrau Karin stellt außerdem die Sukkulenten vor. Sukkulenten sind saftreiche Pflanzen, die in trockenen, heißen Gegenden wachsen, da sie in ihren Blättern, Stämmen oder Wurzeln Wasser speichern können. Die bekanntesten unter ihnen sind Kakteen, Agaven, Aloe Vera, aber auch die Orchideen. Doch mit welchen Tricks trotzen die raffinierten Sukkulenten der Trockenheit?</desc>
+  </programme>
+  <programme start="20260921182800 +0200" stop="20260921185607 +0200" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Slowenisch ist in Santa Croce (Križ) bei Triest fest verankert. Die Parallelen zwischen dem süditalienischen Griko und dem Kornischen in Cornwall. Toni Visentinis Engagement für Minderheitensprachen. Die historische slowenische Minderheit pflegt ihre Sprache traditionsbewusst in lokalen Vereinen, der Gastronomie und im Zusammenleben. Als verbindendes Element schlägt das Slowenische hier eine lebendige Brücke zwischen den Kulturen der Adria Region.  
+Ein von der EU gefördertes Forschungsprojekt in Cornwall untersucht die Parallelen zwischen dem keltischen Kornisch und dem in Süditalien gesprochenen Griko. Obwohl die beiden Sprachen sprachhistorisch völlig unterschiedlich sind, stehen sie vor den gleichen Herausforderungen beim Erhalt ihres Kulturerbes.  
+Der italienische Journalist Toni Visentini setzt sich aktiv für das Bewusstsein und den Erhalt regionaler Minderheitensprachen ein. Durch seine Arbeit unterstützt er Initiativen, die das kulturelle Erbe sprachlicher Minderheiten im italienischen Raum pflegen. Seit einigen Jahren ist er im Ruhestand, jedoch immer in Bewegung.  
+In der Reihe Tribal Voices in Zusammenarbeit mit Survival International erzählt Adlun Fiqri aus Indonesien über den Kampf seines Volkes gegen den Nickelabbau internationaler Konzerne.</desc>
+  </programme>
+  <programme start="20260921200000 +0200" stop="20260921202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260921202000 +0200" stop="20260921215930 +0200" channel="Rai Südtirol">
+    <title>Nachgeschaut</title>
+    <sub-title>Mein Körper und ich - Freund, Fremder oder Projekt?</sub-title>
+    <desc>Er trägt uns durchs Leben, meistens ohne dass wir viel darüber nachdenken. Wir betrachten ihn im Spiegel, vergleichen ihn mit anderen, trainieren, pflegen und optimieren ihn. Wir freuen uns, wenn er funktioniert – und erleben, wie verletzlich wir sind, wenn er krank wird, sich verändert oder älter wird. 
+
+Eine Doku von Uli Velano beleuchtet unser Verhältnis zum eigenen Körper: Schönheit und Selbstwert, Jugend und Alter, Essstörungen, Schönheitschirurgie und den Wunsch nach Selbstoptimierung. Im Zentrum steht die Frage: Können wir unseren Körper annehmen, wie er ist – oder ist er zunehmend zu einem Projekt geworden, das wir ständig verbessern wollen? Darüber diskutieren Model Karin Perathoner, Evi Ploner von der Fachstelle INFES, der plastische Chirurg Alexander Gardetto und der langjährige Allgemeinmediziner Karl Lintner.</desc>
+  </programme>
+  <programme start="20260921221000 +0200" stop="20260921223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260922200000 +0200" stop="20260922202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260922202000 +0200" stop="20260922203500 +0200" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Dann steht der jeweilige Gast sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die neue Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20260922203500 +0200" stop="20260922204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Diesmal berichtet die SportZeit unter anderem über einen der traditionsreichsten Bergläufe Südtirols. Wer beim Drei Zinnen Alpine Run mitläuft, muss nicht nur all seine Kräfte mobilisieren, um ans Ziel zu kommen, sondern wird dabei auch mit einem der atemberaubendsten Panoramen der Dolomiten belohnt. Und auch in dieser Folge gibt es Sportnews sowie die wichtigsten Termine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20260922221000 +0200" stop="20260922223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260923200000 +0200" stop="20260923202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260923202000 +0200" stop="20260923204930 +0200" channel="Rai Südtirol">
+    <title>Bäuerin für einen Tag</title>
+    <sub-title>Folge 4</sub-title>
+    <desc>Diesmal geht es für Greta Marchegger ins Unterland, wo sie auf Monika Torggler Anrather trifft. 
+
+Die gelernte Kindergärtnerin half schon als Kind in den elterlichen Apfelwiesen mit, bevor sie den Betrieb im Jahr 2000 selbst übernahm. Greta geht ihr bei den Erntevorbereitungen zur Hand, kommt selbst als Erntehelferin zum Einsatz und erhält durch Monika einen Einblick, wie viel Arbeit wirklich hinter dem weltbekannten Südtiroler Apfel steckt.</desc>
+  </programme>
+  <programme start="20260923221000 +0200" stop="20260923223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260924200000 +0200" stop="20260924202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260924202000 +0200" stop="20260924204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
+    <desc>Sie sind jung, haben viele Ideen und viele Fragen - Fahrplan Zukunft für Südtirols Jugendliche.
+
+Sie stecken voller Träume und Ideen und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wo finden Jugendliche in Südtirol Orientierung, wer beantwortet drängende Fragen und eröffnet konkrete Perspektiven? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. 
+In der Reihe &quot;Wiedersehen“&quot;zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260924221000 +0200" stop="20260924223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260925175900 +0200" stop="20260925182830 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
+    <desc>Sie sind jung, haben viele Ideen und viele Fragen - Fahrplan Zukunft für Südtirols Jugendliche. 
+Sie stecken voller Träume und Ideen und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wo finden Jugendliche in Südtirol Orientierung, wer beantwortet drängende Fragen und eröffnet konkrete Perspektiven? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. 
+In der Reihe &quot;Wiedersehen“&quot;zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten. Es moderiert Karin Gschnitzer.</desc>
+  </programme>
+  <programme start="20260925182800 +0200" stop="20260925184230 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Diesmal berichtet die SportZeit unter anderem über einen der traditionsreichsten Bergläufe Südtirols. Wer beim Drei Zinnen Alpine Run mitläuft, muss nicht nur all seine Kräfte mobilisieren, um ans Ziel zu kommen, sondern wird dabei auch mit einem der atemberaubendsten Panoramen der Dolomiten belohnt. Und auch in dieser Folge gibt es Sportnews sowie die wichtigsten Termine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20260925200000 +0200" stop="20260925202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260925202000 +0200" stop="20260925211008 +0200" channel="Rai Südtirol">
+    <title>Filmland Südtirol</title>
+    <sub-title>Teil 1</sub-title>
+    <desc>Wer Filmemacherinnen und Filmemachern bei ihrer Arbeit über die Schulter schaut und einen Blick hinter die Kulissen einer Filmproduktion wirft, beginnt zu verstehen, was tatsächlich alles hinter dem kleinen Wort &quot;Action!&quot; steckt. 
+
+Südtirol hat sich in den vergangenen zwei Jahrzehnten einen festen Platz in der Filmwelt erarbeitet. Nicht zuletzt durch die Filmförderung des Landes konnten sich qualifizierte Filmschaffende in Südtirol etablieren. Gleichzeitig ist eine neue Generation professionell ausgebildeter Filmschaffender herangewachsen, die heute die Möglichkeit hat, in ihrer Heimat ihrer Leidenschaft und ihrem Beruf nachzugehen. 
+Im ersten Teil unserer Reise hinter die Kulissen beschäftigen wir uns zunächst mit der Filmfinanzierung. Anschließend begleiten wir die Produktions- und Regieassistentin Katharina Kammerer an ein Filmset. Dort zeigt sie uns die wichtigsten Bereiche der Base und des Sets und stellt bei einem Rundgang verschiedene Berufe vor: vom Set Runner über den Base Manager und den Set-Aufnahmeleiter bis hin zum Produktionsfahrer. 
+Lisa Maria Kerschbaumer gibt uns Einblicke in die Arbeit einer Drehbuchautorin. Mit Valeria Errighi lernen wir die Aufgaben eines Location Scouts und einer Motivaufnahmeleiterin kennen. Sieglinde Michaeler und Gudrun Pichler erzählen von ihrer Arbeit in Kostüm und Maske, während Sarah Pergher und Sebastian Martin uns in die Welt des Szenenbilds mitnehmen.</desc>
+  </programme>
+  <programme start="20260925211000 +0200" stop="20260925215048 +0200" channel="Rai Südtirol">
+    <title>Vom Dorfladen zur digitalen Welt</title>
+    <sub-title>Südtirols Handel im Wandel der Zeit</sub-title>
+    <desc>Wie haben Handel und Dienstleistung Südtirol geprägt und wie haben sie sich über die Jahrzehnte verändert? Der Film von Markus Frings und Audrey Schwarz erzählt von Pioniergeist, Wandel und Menschen, die unser Land wirtschaftlich und gesellschaftlich mitgestaltet haben. Vom kleinen Dorfladen bis zur digitalen Welt entsteht ein lebendiges Porträt einer vielseitigen Branche, die alle Wirtschaftsbereiche beeinflusst und vor großen Herausforderungen steht.</desc>
+  </programme>
+  <programme start="20260925215100 +0200" stop="20260925215858 +0200" channel="Rai Südtirol">
+    <title>Riversurfen in Brixen</title>
+    <sub-title/>
+    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
+  </programme>
+  <programme start="20260925221000 +0200" stop="20260925223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260926180000 +0200" stop="20260926183445 +0200" channel="Rai Südtirol">
+    <title>Die Welt des Similaun-Mannes</title>
+    <sub-title/>
+    <desc>Zwischen den Landschaften Südtirols und des Schnalstals erzählt der Film von Roberto Condotta von Überlebenstechniken der Steinzeit, inspiriert vom Leben Ötzis. Die Dokumentation begleitet Philipp Schraut, Experten für Archäotechnik, bei seiner Forschungs- und Experimentierarbeit zu prähistorischem Wissen. In Begleitung einer Gruppe von Interessierten, die - in neolithischer Kleidung und Ausrüstung - entlang eines möglichen Weges Ötzis geführt werden, zeigt der Film, dass diese Praktiken nicht nur Geschichte sind, sondern eine Möglichkeit, die tiefe Verbindung zwischen Mensch und Natur neu zu entdecken.</desc>
+  </programme>
+  <programme start="20260926183400 +0200" stop="20260926185800 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Tanas</sub-title>
+    <desc>Das kleine Dorf oberhalb von Laas, mit knapp 150 Einwohnern, hat einige Besonderheiten: Kirschenanbau, eine Zwergschule, ein Dorfgasthaus, die zentrale Rolle der Feuerwehr. In der kleinen Dorfschule werden derzeit etwa zehn Kinder in den Klassen 1, 2 und 4 unterrichtet. Neben der Schule spielt die Feuerwehr eine zentrale Rolle, denn fast jede Familie ist hier Mitglied und sorgt für die Sicherheit in diesem abgelegenen Dorf. Eine weitere Besonderheit: Seit einigen Jahren werden hier Kirschen angebaut. Im einzigen Gasthaus erinnern sich die älteren Einwohner an längst vergangene Tage, als der Ort nur über die Materialseilbahn erreichbar war. Heute hat Tanas eine Straße, die Abwanderung ist deshalb zurückgegangen. Auf dem höchsten bewirtschafteten Hof der gesamten Gemeinde Laas lebt eine Bäuerin mit über 1000 Hennen und einigen Kühen.</desc>
+  </programme>
+  <programme start="20260926200000 +0200" stop="20260926202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260926202000 +0200" stop="20260926202300 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260926202300 +0200" stop="20260926211800 +0200" channel="Rai Südtirol">
+    <title>Luis Durnwalder</title>
+    <sub-title>Ein Leben für Südtirol</sub-title>
+    <desc>25 Jahre lang stand Luis Durnwalder als Landeshauptmann an der Spitze Südtirols und hat die Entwicklung des Landes maßgeblich geprägt. 
+
+In seine Amtszeit fallen wichtige Schritte beim weiteren Ausbau der Südtiroler Autonomie, der wirtschaftlichen Entwicklung und der Öffnung nach Europa. Anlässlich seines 85. Geburtstags zeichnet die Dokumentation seinen Weg vom Bergbauernsohn aus Pfalzen zu einem der prägendsten Politiker der jüngeren Südtiroler Geschichte nach. Politische Weggefährten, Freunde und langjährige Vertraute aus Südtirol und darüber hinaus erzählen von gemeinsamen Erlebnissen und vom Menschen hinter dem Politiker. Auch Luis Durnwalder selbst blickt auf wichtige Stationen, politische Erfolge und persönliche Begegnungen zurück.</desc>
+  </programme>
+  <programme start="20260926211900 +0200" stop="20260926214830 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen - entdecken - genießen</sub-title>
+    <desc>Was tut sich derzeit in den Küchen Alta Badias? Die Genussregion entwickelt sich stetig weiter: Neue kulinarische Konzepte entstehen, junge Köchinnen und Köche setzen Akzente und erst vor Kurzem wurde ein weiteres Restaurant mit einem Michelin-Stern ausgezeichnet. Gleichzeitig bewahren Familienbetriebe die kulinarischen Wurzeln des Tales. Wir besuchen zwei unterschiedliche Betriebe und zeigen, wie sich Alta Badias Küche zwischen Innovation und Tradition weiterentwickelt. 
+
+In einem zweiten Beitrag dreht sich alles um eine typische Herbstfrucht aus dem Eisacktal: die Kastanie. Wenn der Herbst ins Eisacktal einzieht, beginnt auch ihre Zeit. Rund um die Eisacktaler Kastanienwochen rückt die Herbstfrucht in zahlreichen Gastbetrieben in den Mittelpunkt der Küche. Wir zeigen, wie vielseitig die Kastanie heute verarbeitet wird - zwischen gelebter Tradition, kreativen Rezepten und regionalen Zutaten. 
+Landwirtschaft und Tourismus sind im Vinschgau seit jeher eng miteinander verbunden. Marillen, Äpfel, Beeren und Gemüse prägen nicht nur die Landschaft, sondern auch das kulinarische Angebot. Vor allem die Vinschger Marille ist ein Stück regionaler Identität und Ausgangspunkt für besondere Erzeugnisse - von Marmeladen und Säften über Trockenfrüchte bis hin zu Spirituosen. Wir zeigen, wie heimische Rohstoffe veredelt werden, ihren Weg in Gastronomie und Hotellerie finden und damit regionale Wertschöpfung schaffen.</desc>
+  </programme>
+  <programme start="20260926221000 +0200" stop="20260926223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
