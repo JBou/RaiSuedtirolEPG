@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260918175900 +0200" stop="20260918182830 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Handschrift</sub-title>
-    <desc>Generation Touchscreen: Geht uns das Schreiben von Hand immer mehr verloren? Was macht das mit uns? Das fragt Magdalena Oberstaller Sven Nickel, Professor für Bildungswissenschaften an der Uni Bozen. 
-Neue Studien zeigen: Wer mit der Hand schreibt, lernt nachhaltiger und verarbeitet Informationen tiefer als am Bildschirm. Dennoch greifen immer weniger Menschen zu Stift und Papier - mit spürbaren Folgen für die kognitive Entwicklung, sagt Prof.Nickel.  
-In der Reihe &quot;Wiedersehen&quot; besuchen wir die Bergschule Lanebach und machen außerdem einen Abstecher in den Recyclinghof von Bruneck.</desc>
-  </programme>
-  <programme start="20260918182800 +0200" stop="20260918184230 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Der 25. Südtiroler Firmenlauf 2026 und die wichtigsten Nachrichten aus dem Südtiroler Sport präsentiert von Laura Moroder. 
-Der diesjährige Südtiroler Firmenlauf, bei dem Hunderte von Arbeitskolleg:innen aus unterschiedlichen Wirtschaftssparten zum gemeinsamen Laufen antreten, fand kürzlich in Neumarkt statt, wobei der Fokus auf Gesundheit, Bewegung und ausgeprägtem Teamgeist liegt. Außerdem gibt es noch die wichtigsten Sportnews in Kurzform und die spannendsten Sporttermine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20260918184300 +0200" stop="20260918185948 +0200" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Zielklettersteig in der Texelgruppe</sub-title>
-    <desc>Im Naturpark der Texelgruppe gibt es eine neue Route, den sogenannten Zielklettersteig im Zieltal. Der Bergführer Manfred Stuffer klettert diese familientaugliche Tourmit der Boznerin Brigitte Schritt. Referentin, Konfliktberaterin und Gesundheitsmanagerin Brigitte Schrott erzählt, wie es dazu kam, dass sie steile Felswände wie diese erklimmt und sie erklärt, wie man den ersten Schritt aus der eigenen Komfortzone schafft. Gipfelerlebnisse ist ein Programm von Hans Peter Karbon und Manfred Stuffer.</desc>
-  </programme>
-  <programme start="20260918200000 +0200" stop="20260918202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260918202000 +0200" stop="20260918205445 +0200" channel="Rai Südtirol">
-    <title>Die Welt des Similaun-Mannes</title>
-    <sub-title/>
-    <desc>Zwischen den Landschaften Südtirols und des Schnalstals erzählt der Film von Roberto Condotta von Überlebenstechniken der Steinzeit, inspiriert vom Leben Ötzis.  
-
-Die Dokumentation begleitet Philipp Schraut, Experten für Archäotechnik, bei seiner Forschungs- und Experimentierarbeit zu prähistorischem Wissen. In Begleitung einer Gruppe von Interessierten, die - in neolithischer Kleidung und Ausrüstung - entlang eines möglichen Weges Ötzis geführt werden, zeigt der Film, dass diese Praktiken nicht nur Geschichte sind, sondern eine Möglichkeit, die tiefe Verbindung zwischen Mensch und Natur neu zu entdecken.</desc>
-  </programme>
-  <programme start="20260918205600 +0200" stop="20260918211354 +0200" channel="Rai Südtirol">
-    <title>Net amol gwisst</title>
-    <sub-title/>
-    <desc>Drei besondere Orte in Südtirol, die Filmemacher Jiri Gasperi aufgespürt hat:  
-Wenn man vom Wipptal aus die Penserjochstraße hinauffährt, trifft man bald auf einen markanten Felsdurchbruch namens Amba Aradam, benannt nach einem historischen Kriegsereignis in Abessinien vor 90 Jahren.  
-Am Radweg bei Burgstall erinnert eine Raststation an ein tragisches Zugunglück vor genau hundert Jahren. Und kaum jemand weiß, dass hinter dem alten Kramerhaus in Mauls eine Kopie eines bedeutenden Mithras-Steins verborgen ist.</desc>
-  </programme>
-  <programme start="20260918211400 +0200" stop="20260918215900 +0200" channel="Rai Südtirol">
-    <title>Oktoberfest</title>
-    <sub-title>Vom Spatenstich bis zum Anstich</sub-title>
-    <desc>Morgen, am 19.September, beginnt das Münchner Oktoberfest, das größte Volksfest der Welt. Doch die Vorbereitungen bis zum traditionellen &quot;Ozapft is&quot; sind lang und aufwändig. 10 Wochen lang wird auf der Theresienwiese auf Hochtouren gearbeitet, damit das Mammutprojekt Oktoberfest ein Erfolg wird. 5000 Arbeiter aus der ganzen Welt bauen die Zeltstadt auf. Da ist die Kommunikation oft eine Herausforderung. Wir begleiten auch einen Pferdemeister und einen Wiesnwirt, die Einblick in diese spannende Vorbereitungszeit geben. Am Ende aber ist der Oberbürgermeister der Hauptdarsteller, denn mit seinem Fassanstich kann das traditionelle Volksfest endlich beginnen.</desc>
-  </programme>
-  <programme start="20260918221000 +0200" stop="20260918223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260919180000 +0200" stop="20260919185900 +0200" channel="Rai Südtirol">
     <title>Kompass</title>
     <sub-title>Szenen der Kultur</sub-title>
@@ -284,6 +237,28 @@ In einem zweiten Beitrag dreht sich alles um eine typische Herbstfrucht aus dem 
 Landwirtschaft und Tourismus sind im Vinschgau seit jeher eng miteinander verbunden. Marillen, Äpfel, Beeren und Gemüse prägen nicht nur die Landschaft, sondern auch das kulinarische Angebot. Vor allem die Vinschger Marille ist ein Stück regionaler Identität und Ausgangspunkt für besondere Erzeugnisse - von Marmeladen und Säften über Trockenfrüchte bis hin zu Spirituosen. Wir zeigen, wie heimische Rohstoffe veredelt werden, ihren Weg in Gastronomie und Hotellerie finden und damit regionale Wertschöpfung schaffen.</desc>
   </programme>
   <programme start="20260926221000 +0200" stop="20260926223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260927200000 +0200" stop="20260927202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260927202000 +0200" stop="20260927204930 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Das Forschungszentrum ECO Research führt eine breit angelegte Studie durch, um zu erfahren, wie stark die Fließgewässer in Südtirol von Mikroplastik kontaminiert sind. 
+
+Wir präsentieren erste Ergebnisse. Die Getreidesorte Hirse ist hitzeresistent und braucht wenig Wasser, um zu gedeihen. Das Lebensmitteilunternehmen Dr. Schär setzt verstärkt auf dieses Getreide, um die Versorgungssicherheit zu gewährleisten. Das Forschungszentrum Laimburg testet eine neue Sortiermaschine bei der Weinlese, um die Qualität der Trauben weiter zu erhöhen. Im Studio begrüßen wir Gabriele Pircher, Direktorin der Gärten Schloss Trautmannsdorff. Sie schildert, welche Rolle Gärten in den kommenden Jahren spielen werden, wenn das Klima sich verändert.</desc>
+  </programme>
+  <programme start="20260927205000 +0200" stop="20260927205300 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260927221000 +0200" stop="20260927223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
