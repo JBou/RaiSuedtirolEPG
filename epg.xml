@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260919180000 +0200" stop="20260919185900 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Das Fest der Allianz für Kultur auf Schloss Gandegg, die Kunsttriennale Klausen, ein Portrait des Beleuchters Jan Gasperi und verborgene Schätze in Südtirols Museen. Es moderiert Alexander Lechner. 
-Zu Gast sind Mona Schlatter, seit einem Jahr Dramaturgin der Vereinigten Bühnen Bozen und der Dirigent der Südtirol Filarmonica, Michael Pichler.  
-Das Netzwerk Allianz der Kultur feierte Anfang September auf Schloss Gandegg die Vielfalt der Südtiroler Kultur, es gab Autor:innenlesungen, Ausstellungen, Konzerte, Workshops, Podiumsdiskussionen und DJ-Sets.   
-Jan Gasperi ist ausgebildeter Beleuchtungsmeister, Bühnentechniker und Bühnenpyrotechniker, seit 2020 technischer Leiter des Stadttheaters Bruneck, das er 1994 mitgegründet hat. Er liebt es, Stücke ins Licht zu setzen, er selbst sitzt lieber im Dunkeln, am Mischpult. 
-Das Mart Rovereto präsentiert mit der Ausstellung Di quadro in quadro. L'arte della citazione eine faszinierende Reise durch die Kunst des Wiederverwendens visueller Motive.  
-Unter dem Leitthema &quot;Mensch sein&quot; verwandelt die erste Ausgabe der Triennale Klausen das historische Künstlerstädtchen bis Anfang November 2026 in eine Freiluftbühne für zeitgenössische Kunst.  
-Hinter den Kulissen der Südtiroler Museen entfaltet sich ein faszinierendes, sonst oft verborgenes Eigenleben. In einer neuen Reihe in Zusammenarbeit mit dem Amt für Museen richten wir das Scheinwerferlicht auf das Restaurieren und das leise Erzählen verstaubter Geschichten.</desc>
-  </programme>
-  <programme start="20260919200000 +0200" stop="20260919202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260919202000 +0200" stop="20260919202300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260919202300 +0200" stop="20260919212000 +0200" channel="Rai Südtirol">
-    <title>Feuernacht</title>
-    <sub-title>Tiroler Volksschauspiele Telfs - Teil 1</sub-title>
-    <desc>Felix Mitterers &quot;Feuernacht&quot;, spektakulär inszeniert von Thomas Gassner, erzählt die Geschichte dreier Familien während der Bombenjahre - mit Live-Bühnenmusik von Herbert Pixner und Manu Delago.   
-
-Die Erfolgsproduktion im Sommer 2026 bei den Tiroler Volkschauspielen in Telfs beleuchtet das Drama der Südtiroler Attentate durch das Schicksal von drei Familien. Die Familie Rabensteiner leidet unter der Verhaftung und Folter des Vaters Sepp (Lukas Lobis) sowie dem tragischen Verrat des Sohnes Alfons. Die Familie Tschurtschentaler erlebt die Flucht des Vaters Hermann (Markus Oberrauch) nach Österreich und den tödlichen Verlust des Sohnes Toni. Die italienische Familie Magalone mit Sohn Andrea (Fabian Mair-Mitterer) macht die Identitätskrisen der italienischen Minderheit in Südtirol spürbar.  
-Über vierzig Schauspieler:innen aus Tirol und Südtirol sind im Einsatz: unter anderem Lisa Hörtnagl, Brigitte Jaufenthaler, Lukas Spisser und Lenz Moretti.</desc>
-  </programme>
-  <programme start="20260919212100 +0200" stop="20260919215900 +0200" channel="Rai Südtirol">
-    <title>Momentum</title>
-    <sub-title>Andrea Mair -- Was bleibt, ist Liebe</sub-title>
-    <desc>Wie lebt man weiter, wenn sich das eigene Leben von einem Tag auf den anderen für immer verändert?
-
-Andrea Mair aus Rodeneck kennt diese Frage nur zu gut. Im Sommer 2019 verliert sie ihre 17-jährige Tochter Miri bei einem Verkehrsunfall. Ein Schicksalsschlag, der ihr Leben in ein &quot;Vorher&quot; und ein &quot;Nachher&quot; teilt.  
-In der neuen Folge von Momentum erzählt Andrea mit großer Offenheit von ihrer Trauer, von Erinnerungen, die bis heute Kraft geben, und von ihrem Weg zurück ins Leben. Gemeinsam mit ihrem Partner Ewald, ihrer Schwester Petra und an Orten, die für sie eine besondere Bedeutung haben, blickt sie auf eine Geschichte, die tief berührt. Heute arbeitet Andrea im Kinderdorf in Brixen und begleitet dort Kinder in schwierigen Lebenssituationen. Sie hat ein Buch geschrieben, hält Lesungen und spricht mit Menschen, die selbst Verluste erlebt haben. Dabei zeigt sie, dass Trauer und Hoffnung kein Widerspruch sein müssen. Es ist eine Reise durch Schmerz, Liebe und die Kraft, trotz allem wieder nach vorne zu schauen. Ein bewegendes Porträt über Verlust, Hoffnung und die Erkenntnis, dass Liebe den Tod überdauern kann. Denn manchmal bleibt am Ende genau das, was am Anfang schon da war: Liebe.</desc>
-  </programme>
-  <programme start="20260919221000 +0200" stop="20260919223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260920200000 +0200" stop="20260920202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
