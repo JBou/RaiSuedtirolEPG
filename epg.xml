@@ -4,34 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260920200000 +0200" stop="20260920202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260920202000 +0200" stop="20260920212500 +0200" channel="Rai Südtirol">
-    <title>Feuernacht</title>
-    <sub-title>Tiroler Volksschauspiele Telfs - Teil 2</sub-title>
-    <desc>Felix Mitterers &quot;Feuernacht&quot; mit Tiroler und Südtiroler Schauspieler:innen und Live-Bühnenmusik von Herbert Pixner und Manu Delago. Inszenierung Thomas Gassner. 
-
-Als Bühnenbild der Tiroler Volksschauspiele fungiert das letzte noch bestehende Haus der ehemaligen Telfer Südtiroler Siedlung. Mit einer Live-Kamera werden einzelne Szenen verfolgt und auf eine große Leinwand projiziert, was ein besonderes nahegehendes Theatererlebnis ermöglicht.  &quot;Feuernacht&quot; zeigt am Beispiel von drei Familien eindringlich die Folgen von politischer Gewalt. Über vierzig Schauspieler:innen aus Tirol und Südtirol sind im Einsatz: unter anderem Lisa Hörtnagl, Brigitte Jaufenthaler, Lukas Lobis, Markus Oberrauch, Lukas Spisser  und Fabian Mair-Mitterer.</desc>
-  </programme>
-  <programme start="20260920212500 +0200" stop="20260920215555 +0200" channel="Rai Südtirol">
-    <title>Denkmal unbekannt</title>
-    <sub-title>Botschaften und Erinnerungen</sub-title>
-    <desc>Welche Bedeutung und welche Ausstrahlung kann ein Denkmal haben? In Südtirol - wie auch anderswo - gibt es viele Denkmäler: Büsten, Statuen, Säulen...Die meisten erinnern an herausragende Persönlichkeiten. Doch wer kennt sie? Im Zentrum der Aufmerksamkeit stehen meistens jene Denkmäler, die in einem geschichtlichen oder auch politischen Kontext stehen.
-Der Dokumentarfilm &quot;Denkmal unbekannt&quot; erinnert allerdings weniger an diese Denkmäler, als vielmehr an jene, die weitgehend in Vergessenheit geraten sind, die im Schatten stehen oder Träger von Botschaften sind, die heute nicht mehr verstanden werden.</desc>
-  </programme>
-  <programme start="20260920215600 +0200" stop="20260920215900 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260920221000 +0200" stop="20260920223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260921180000 +0200" stop="20260921182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title/>
