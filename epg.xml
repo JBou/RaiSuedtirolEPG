@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260922200000 +0200" stop="20260922202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260922202000 +0200" stop="20260922203500 +0200" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Dann steht der jeweilige Gast sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die neue Talksendung von Hannes Senfter.</desc>
-  </programme>
-  <programme start="20260922203500 +0200" stop="20260922204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Diesmal berichtet die SportZeit unter anderem über einen der traditionsreichsten Bergläufe Südtirols. Wer beim Drei Zinnen Alpine Run mitläuft, muss nicht nur all seine Kräfte mobilisieren, um ans Ziel zu kommen, sondern wird dabei auch mit einem der atemberaubendsten Panoramen der Dolomiten belohnt. Und auch in dieser Folge gibt es Sportnews sowie die wichtigsten Termine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20260922221000 +0200" stop="20260922223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260923200000 +0200" stop="20260923202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
