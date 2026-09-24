@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260923200000 +0200" stop="20260923202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260923202000 +0200" stop="20260923204930 +0200" channel="Rai Südtirol">
-    <title>Bäuerin für einen Tag</title>
-    <sub-title>Folge 4</sub-title>
-    <desc>Diesmal geht es für Greta Marchegger ins Unterland, wo sie auf Monika Torggler Anrather trifft. 
-
-Die gelernte Kindergärtnerin half schon als Kind in den elterlichen Apfelwiesen mit, bevor sie den Betrieb im Jahr 2000 selbst übernahm. Greta geht ihr bei den Erntevorbereitungen zur Hand, kommt selbst als Erntehelferin zum Einsatz und erhält durch Monika einen Einblick, wie viel Arbeit wirklich hinter dem weltbekannten Südtiroler Apfel steckt.</desc>
-  </programme>
-  <programme start="20260923221000 +0200" stop="20260923223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260924200000 +0200" stop="20260924202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
