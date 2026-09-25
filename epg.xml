@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260924200000 +0200" stop="20260924202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260924202000 +0200" stop="20260924204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
-    <desc>Sie sind jung, haben viele Ideen und viele Fragen - Fahrplan Zukunft für Südtirols Jugendliche.
-
-Sie stecken voller Träume und Ideen und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wo finden Jugendliche in Südtirol Orientierung, wer beantwortet drängende Fragen und eröffnet konkrete Perspektiven? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. 
-In der Reihe &quot;Wiedersehen“&quot;zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260924221000 +0200" stop="20260924223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260925175900 +0200" stop="20260925182830 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
@@ -121,6 +103,173 @@ Wir präsentieren erste Ergebnisse. Die Getreidesorte Hirse ist hitzeresistent u
     <desc/>
   </programme>
   <programme start="20260927221000 +0200" stop="20260927223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260928180000 +0200" stop="20260928182800 +0200" channel="Rai Südtirol">
+    <title>Zipp TV</title>
+    <sub-title>Goaßlschnöllen</sub-title>
+    <desc>Clown Karamela ist im hintersten Passeiertal unterwegs und entdeckt einen eigenartigen Gegenstand, der aussieht wie eine Schlange. Dass diese &quot;Schlange&quot; auch ganz schön laut knallen kann, erfährt sie wenig später, als sie die Goaßlschnöller-Kinder aus Walten trifft. Sie treffen sich regelmäßig zum gemeinsamen &quot;Schnöllen&quot;. Dabei müssen die Goaßln in einem ganz bestimmten Rhythmus und in der richtigen Reihenfolge geknallt werden - gar nicht so einfach! Auch Karamela darf es ausprobieren. Dabei muss sie allerdings gut aufpassen, dass ihr das gedrehte Lederseil nicht um die Ohren fliegt.
+
+Die &quot;Zipp&quot;-Reporterinnen Corinna und Nadine sind außerdem auf Schatzsuche und treffen in den Villnösser Bergen auf Paul, der schon seit 35 Jahren mit Hammer und Meißel nach den wunderschönen Teiser Kugeln sucht. Paul löst einen unscheinbaren Steinklumpen aus dem Felsen, nach wenigen gekonnten Schlägen mit dem Hammer zerbricht er und entpuppt sich als wertvoller Achat. Die Reporterinnen laufen damit ins Mineralienmuseum in Teis, wo sie all die wunderschönen Kristalle bewundern können, die Paul im Laufe seines Lebens gefunden hat.</desc>
+  </programme>
+  <programme start="20260928182800 +0200" stop="20260928185654 +0200" channel="Rai Südtirol">
+    <title>Campus</title>
+    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
+    <desc>Das Forschungszentrum ECO Research führt eine breit angelegte Studie durch, um zu erfahren, wie stark die Fließgewässer in Südtirol von Mikroplastik kontaminiert sind. Wir präsentieren erste Ergebnisse. Die Getreidesorte Hirse ist hitzeresistent und braucht wenig Wasser, um zu gedeihen. Das Lebensmitteilunternehmen Dr. Schär setzt verstärkt auf dieses Getreide, um die Versorgungssicherheit zu gewährleisten. Das Forschungszentrum Laimburg testet eine neue Sortiermaschine bei der Weinlese, um die Qualität der Trauben weiter zu erhöhen. Im Studio begrüßen wir Gabriele Pircher, Direktorin der Gärten Schloss Trautmannsdorff. Sie schildert, welche Rolle Gärten in den kommenden Jahren spielen werden, wenn das Klima sich verändert.</desc>
+  </programme>
+  <programme start="20260928200000 +0200" stop="20260928202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260928202000 +0200" stop="20260928211130 +0200" channel="Rai Südtirol">
+    <title>Eurac Research</title>
+    <sub-title/>
+    <desc>Seit über 30 Jahren zeigt Eurac Research, wie vielseitig, vernetzt und zukunftsorientiert Wissenschaft sein kann - mitten in Südtirol. 
+
+Mit über 500 Forscher*innen aus mehr als 35 Ländern arbeitet Eurac Research an Themen, die von Gesundheit über Umwelt bis hin zu Gesellschaft, Autonomie und globalen Krisen reichen. Der Film &quot;Eurac Research: Forschung für unsere Zukunft&quot; öffnet die Türen zu dieser einzigartigen Institution, begleitet Wissenschaftler*innen bei ihrer Arbeit und macht sichtbar, wie eng Forschung mit den Herausforderungen unserer Zeit verbunden ist. Ein Einblick in eine Südtiroler Erfolgsgeschichte, die weit über die Region hinausstrahlt.</desc>
+  </programme>
+  <programme start="20260928211100 +0200" stop="20260928215155 +0200" channel="Rai Südtirol">
+    <title>Julius Perathoner</title>
+    <sub-title>Bürgermeister von Bozen - Pionier und Visionär</sub-title>
+    <desc>Er verkörperte Tradition und Fortschritt gleichermaßen: Julius Perathoner (1849-1926) war einer der großen und der letzte deutsche Bürgermeister der Stadt Bozen. Er hat seine Stadt sichtlich geprägt und sie zu einer der modernsten des Alpenraums gestaltet. In seiner Amtsperiode entstehen bedeutende öffentliche Bauten wie das neue Rathaus, Schulen und Promenaden. Bozen und Gries erleben wirtschaftlich einen Höhenflug - und es werden die meisten noch heute bestehenden deutschen Vereine gegründet. Perathoners Ära findet mit den faschistischen Banden der frühen Zwanzigerjahre ein jähes Ende. Er tritt zurück - und die Stadt wird bis nach dem Krieg kommissarisch verwaltet. Perathoner verstarb vor 100 Jahren. Er galt zeitlebens als Leitfigur und Persönlichkeit von weitblickender Modernität.</desc>
+  </programme>
+  <programme start="20260928215200 +0200" stop="20260928215832 +0200" channel="Rai Südtirol">
+    <title>Pioniere</title>
+    <sub-title>Christian Josef Tschuggmall</sub-title>
+    <desc>Christian Josef Tschuggmall, so heißt heute die Landesberufsschule für Handel, Handwerk und Industrie in Brixen. Der Name ist gut gewählt, denn Tschuggmall war ein außergewöhnlich begabter Tiroler. Nachdem er sich als Seifensieder und Krippenschnitzer versuchte, konstruierte er als Autodidakt ein Automatentheater, das der damaligen Zeit im 19.Jahrhundert weit voraus war. Von Südtirol aus zog er als Schausteller durch ganz Europa und präsentierte seinen Automaten in vielen Kulturmetropolen wie Prag, Dresden und sogar der Zarenfamilie in St. Petersburg. Sein Tun und Handeln gilt als vorbildlich, weshalb Schüler:innen und angehende Handwerker:innen sich auch heute noch danach richten können.</desc>
+  </programme>
+  <programme start="20260928220900 +0200" stop="20260928222900 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260929200000 +0200" stop="20260929202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260929202000 +0200" stop="20260929203500 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20260929203500 +0200" stop="20260929204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die Minigolfmeisterschaft in Seis und eine Radtour der Sportgruppe für Körperbehinderte Südtirols. Moderation: Laura Moroder.
+
+Diesmal berichtet die SportZeit von der Südtiroler Meisterschaft im Minigolf, die in Seis stattgefunden hat und nimmt Sie mit auf eine ganz besondere Radtour mit den Athletinnen und Athleten der Sportgruppe für Körperbehinderte Südtirols SGKS. Dazu Sportergebnisse in Kompaktform und die wichtigsten Termine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20260929221000 +0200" stop="20260929223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260930200000 +0200" stop="20260930202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20260930202000 +0200" stop="20260930204930 +0200" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Wie wichtig Pilze in der Ernährung und für die Natur sind. Warum junge Viehzüchter auf Fleckvieh und Pustertaler Sprinzen setzen. Eine Sendung von Marianne Kasseroler. 
+
+Land&amp;Leben betritt das faszinierende Reich der Pilze. Im Sarntal erleben wir, wie ein junger Bauer edle Speisepilze kultiviert, und wir gehen mit einem Pilzexperten auf Entdeckungsreise in den Wald. Außerdem schauen wir auf die Zukunft der Rinderzucht, denn diese hat viele Gesichter. So setzen junge Fleckvieh-Züchter auf digitale Herdebuchprogramme, moderne Genetik und europaweiten Austausch. Gleichzeitig aber kehren die traditionellen Pustertaler Sprinzen zurück, eine alte Rasse, die junge Hofübernehmerinnen neu entdecken.</desc>
+  </programme>
+  <programme start="20260930221000 +0200" stop="20260930223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261001200000 +0200" stop="20261001202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261001202000 +0200" stop="20261001204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
+    <desc>Sie sind jung, haben viele Ideen und viele Fragen. Wo finden Jugendliche in Südtirol Orientierung, wer eröffnet konkrete Perspektiven? Es moderiert Karin Gschnitzer.         
+
+Sie stecken voller Träume und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wer beantwortet diese rängenden Fragen? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten.</desc>
+  </programme>
+  <programme start="20261001221000 +0200" stop="20261001223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261002175900 +0200" stop="20261002182830 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
+    <desc>Sie sind jung, haben viele Ideen und viele Fragen. Wo finden Jugendliche in Südtirol Orientierung, wer eröffnet konkrete Perspektiven? Es moderiert Karin Gschnitzer. Sie stecken voller Träume und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wer beantwortet diese rängenden Fragen? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten.</desc>
+  </programme>
+  <programme start="20261002182800 +0200" stop="20261002184230 +0200" channel="Rai Südtirol">
+    <title>SporZeit</title>
+    <sub-title/>
+    <desc>Die Minigolfmeisterschaft in Seis und eine Radtour der Sportgruppe für Körperbehinderte Südtirols. Moderation: Laura Moroder. Diesmal berichtet die SportZeit von der Südtiroler Meisterschaft im Minigolf, die in Seis stattgefunden hat und nimmt Sie mit auf eine ganz besondere Radtour mit den Athletinnen und Athleten der Sportgruppe für Körperbehinderte Südtirols SGKS. Dazu Sportergebnisse in Kompaktform und die wichtigsten Termine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20261002184300 +0200" stop="20261002185845 +0200" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Brunnenburg</sub-title>
+    <desc>Die Brunnenburg in Dorf Tirol beherbergt ein Landwirtschaftsmuseum, ist aber auch Erinnerungsort an den bekannten amerikanischen Dichter Ezra Pound, der hier gelebt hat. Die Brunnenburg wurde um 1250 von Wilhelm Tarant in unmittelbarer Nähe von Schloss Tirol erbaut. Nachdem sie im Laufe der Jahrhunderte verfallen war, wurde sie 1900 im historisierenden Stil wieder aufgebaut. Als ehemaliger Wohnort des amerikanischen Dichters Ezra Pound wird das Schloss heute von der Familie de Rachewiltz, den Erben des Dichters, geführt. Das umfangreiche Landwirtschaftsmuseum, das heute hier untergebracht ist, ist das Ergebnis jahrelanger Forschung und Sammlung verschiedener Objekte und bietet einen Einblick in das Leben der früheren Südtiroler Bergbauern und Gewerbetreibenden. Die Brunnenburg ist aber auch ein Ort der Erinnerung an Ezra Pound und ein Zentrum für kulturelle Begegnungen. Ein Film von Roberto Condotta.</desc>
+  </programme>
+  <programme start="20261002200000 +0200" stop="20261002202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261002202000 +0200" stop="20261002211930 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol zeigt sich diesmal bunt und vielfältig: einerseits erleben wir Dorfgärten und Bauerngärten im Wipptal, andererseits die kulturelle Vielfalt von Toblach bis Schlanders. 
+
+Karin Duregger begibt sich auf die Suche nach Gärten, die mit der Auszeichnung &quot;Natur im Garten&quot; prämiert wurden. Schauplatz für ihre Gartenportraits sind ein Bauerngarten und zwei Dorfgärten in Mauls im Wipptal, hinzu kommt ein Besuch bei der Kräuter- und Gartenexpertin Hildegard Kreiter. Vorher nimmt Sie Magdalena Oberstaller mit auf eine musikalische Tour durch Südtirol. Von Toblach bis nach Schlanders besucht sie Kulturzentren, Konzerte, ein Festival und Menschen, die sich täglich mit Musik beschäftigen, Kunstschaffende, Veranstalter ebenso wie kulturbegeistertes Publikum. Eine bunte Szenereportage mit vielen Stimmen und Bildern.</desc>
+  </programme>
+  <programme start="20261002211900 +0200" stop="20261002214830 +0200" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen.entdecken.genießen</sub-title>
+    <desc>Was sich derzeit in den Küchen des Gadertals tut. Wie vielseitig die Kastanie in der herbstlichen Küche verwendet wird. Wie heimische Marillen, Äpfel und Beeren veredelt werden. Die Genussregion Alta Badia entwickelt sich stetig weiter: Neue kulinarische Konzepte entstehen, junge Köch:innen setzen Akzente und erst vor Kurzem wurde ein weiteres Restaurant mit einem Michelin-Stern ausgezeichnet. Gleichzeitig bewahren Familienbetriebe die kulinarischen Wurzeln des Tales. Wenn der Herbst ins Eisacktal einzieht, beginnt auch die Zeit der Kastanien. Rund um die Eisacktaler Kastanienwochen rückt die Herbstfrucht in zahlreichen Gastbetrieben in den Mittelpunkt der Küche. Wir zeigen, wie vielseitig die Kastanie heute verarbeitet wird. 
+Landwirtschaft und Tourismus sind im Vinschgau seit jeher eng miteinander verbunden. Marillen, Äpfel, Beeren und Gemüse prägen nicht nur die Landschaft, sondern auch das kulinarische Angebot. Vor allem die Vinschger Marille ist ein Stück regionaler Identität und Ausgangspunkt für besondere Erzeugnisse - von Marmeladen und Säften über Trockenfrüchte bis hin zu Spirituosen. Wir zeigen, wie heimische Rohstoffe veredelt werden, ihren Weg in Gastronomie und Hotellerie finden und damit regionale Wertschöpfung schaffen.</desc>
+  </programme>
+  <programme start="20261002214900 +0200" stop="20261002215906 +0200" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Tempelarchitektur in Bozen</sub-title>
+    <desc>Warum der Münchner Klassizismus in Bozen mehr Spuren hinterließ als die Wiener k.u.k.-Architektur. Bestes Beispiel war das frühere Bozner Stadttheater, das im 2.Weltkrieg zerbombt wurde. Im 19. Jahrhundert wurde die Bozner Stadtplanung stark von München aus beeinflusst. Auf Weisung des bayrischen Königs Max Joseph I. wurde vor 1809 der heutige Waltherplatz als früheste stadtplanerische Erweiterung der engen Altstadt anstelle der bestehenden Weingärten geplant. 1857 wurde der Münchner Architekt Sebastian Altmann zum Bozner Stadtarchitekten berufen. Auch seine Nachfolger Johann Bittner und Gustav Nolte kamen aus München. Herausragendes Beispiel dieser spätklassizistischen Phase war das 1918 vollendete Bozner Stadttheater mit seinem imposanten Säulenvorbau. Es wurde im Zweiten Weltkrieg durch Bomben zerstört und nicht wieder aufgebaut.</desc>
+  </programme>
+  <programme start="20261002221000 +0200" stop="20261002223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261003180000 +0200" stop="20261003185900 +0200" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Erlebnis Südtirol zeigt sich diesmal bunt und vielfältig: einerseits erleben wir Dorfgärten und Bauerngärten im Wipptal, andererseits die kulturelle Vielfalt von Toblach bis Schlanders. 
+Karin Duregger begibt sich auf die Suche nach Gärten, die mit der Auszeichnung &quot;Natur im Garten&quot; prämiert wurden. Schauplatz für ihre Gartenportraits sind ein Bauerngarten und zwei Dorfgärten in Mauls im Wipptal, hinzu kommt ein Besuch bei der Kräuter- und Gartenexpertin Hildegard Kreiter. Vorher nimmt Sie Magdalena Oberstaller mit auf eine musikalische Tour durch Südtirol. Von Toblach bis nach Schlanders besucht sie Kulturzentren, Konzerte, ein Festival und Menschen, die sich täglich mit Musik beschäftigen, Kunstschaffende, Veranstalter ebenso wie kulturbegeistertes Publikum. Eine bunte Szenereportage mit vielen Stimmen und Bildern.</desc>
+  </programme>
+  <programme start="20261003200000 +0200" stop="20261003202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261003202000 +0200" stop="20261003202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261003202400 +0200" stop="20261003204830 +0200" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Zu Besuch bei einer Schafhirtin, die am Rittnerhorn fast 500 Schafe betreut. Das Training von Hunden für die Wasserrettung. 
+
+Fast 500 Schafe verbringen den Sommer auf den Weiden am Rittnerhorn, fern von der Hitze im Tal und unter der Obhut einer Hirtin. Sie folgt der Herde, ihren Bewegungen, beobachtet, lenkt, pflegt und beschützt die Tiere, um sie im Herbst gesund und gut ernährt ins Tal zu bringen. 
+Das Potential von Hunden als Rettungsschwimmer haben wir bei einem Training der Wasserrettungshunde an einem Badetag am See verfolgt und uns über die Ausbildung zum Rettungsteam informiert. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20261003221000 +0200" stop="20261003223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
