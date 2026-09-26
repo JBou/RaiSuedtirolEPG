@@ -4,47 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260925175900 +0200" stop="20260925182830 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Fahrplan Zukunft für junge Menschen</sub-title>
-    <desc>Sie sind jung, haben viele Ideen und viele Fragen - Fahrplan Zukunft für Südtirols Jugendliche. 
-Sie stecken voller Träume und Ideen und stehen vor richtungsweisenden Entscheidungen für ihre Zukunft. Welcher berufliche Weg passt am besten und welche Chancen bietet der Heimatstandort? Wo finden Jugendliche in Südtirol Orientierung, wer beantwortet drängende Fragen und eröffnet konkrete Perspektiven? Zu Gast ist Sandra Mercuri, Koordinatorin von JugendCoachingGiovani. 
-In der Reihe &quot;Wiedersehen“&quot;zeigen wir einen Ausschnitt aus der Doku &quot;Lust auf Text&quot; und hören zum letzten Mal Südtiroler Olympioniken zu, was sie über ihre Teilnahme bei Olympia berichten. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20260925182800 +0200" stop="20260925184230 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Diesmal berichtet die SportZeit unter anderem über einen der traditionsreichsten Bergläufe Südtirols. Wer beim Drei Zinnen Alpine Run mitläuft, muss nicht nur all seine Kräfte mobilisieren, um ans Ziel zu kommen, sondern wird dabei auch mit einem der atemberaubendsten Panoramen der Dolomiten belohnt. Und auch in dieser Folge gibt es Sportnews sowie die wichtigsten Termine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20260925200000 +0200" stop="20260925202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260925202000 +0200" stop="20260925211008 +0200" channel="Rai Südtirol">
-    <title>Filmland Südtirol</title>
-    <sub-title>Teil 1</sub-title>
-    <desc>Wer Filmemacherinnen und Filmemachern bei ihrer Arbeit über die Schulter schaut und einen Blick hinter die Kulissen einer Filmproduktion wirft, beginnt zu verstehen, was tatsächlich alles hinter dem kleinen Wort &quot;Action!&quot; steckt. 
-
-Südtirol hat sich in den vergangenen zwei Jahrzehnten einen festen Platz in der Filmwelt erarbeitet. Nicht zuletzt durch die Filmförderung des Landes konnten sich qualifizierte Filmschaffende in Südtirol etablieren. Gleichzeitig ist eine neue Generation professionell ausgebildeter Filmschaffender herangewachsen, die heute die Möglichkeit hat, in ihrer Heimat ihrer Leidenschaft und ihrem Beruf nachzugehen. 
-Im ersten Teil unserer Reise hinter die Kulissen beschäftigen wir uns zunächst mit der Filmfinanzierung. Anschließend begleiten wir die Produktions- und Regieassistentin Katharina Kammerer an ein Filmset. Dort zeigt sie uns die wichtigsten Bereiche der Base und des Sets und stellt bei einem Rundgang verschiedene Berufe vor: vom Set Runner über den Base Manager und den Set-Aufnahmeleiter bis hin zum Produktionsfahrer. 
-Lisa Maria Kerschbaumer gibt uns Einblicke in die Arbeit einer Drehbuchautorin. Mit Valeria Errighi lernen wir die Aufgaben eines Location Scouts und einer Motivaufnahmeleiterin kennen. Sieglinde Michaeler und Gudrun Pichler erzählen von ihrer Arbeit in Kostüm und Maske, während Sarah Pergher und Sebastian Martin uns in die Welt des Szenenbilds mitnehmen.</desc>
-  </programme>
-  <programme start="20260925211000 +0200" stop="20260925215048 +0200" channel="Rai Südtirol">
-    <title>Vom Dorfladen zur digitalen Welt</title>
-    <sub-title>Südtirols Handel im Wandel der Zeit</sub-title>
-    <desc>Wie haben Handel und Dienstleistung Südtirol geprägt und wie haben sie sich über die Jahrzehnte verändert? Der Film von Markus Frings und Audrey Schwarz erzählt von Pioniergeist, Wandel und Menschen, die unser Land wirtschaftlich und gesellschaftlich mitgestaltet haben. Vom kleinen Dorfladen bis zur digitalen Welt entsteht ein lebendiges Porträt einer vielseitigen Branche, die alle Wirtschaftsbereiche beeinflusst und vor großen Herausforderungen steht.</desc>
-  </programme>
-  <programme start="20260925215100 +0200" stop="20260925215858 +0200" channel="Rai Südtirol">
-    <title>Riversurfen in Brixen</title>
-    <sub-title/>
-    <desc>Bereits seit einigen Jahren wird im Eisack gesurft. Die Wasserbegeisterten halten sich an einem Seil, das an der Brücke befestigt ist.</desc>
-  </programme>
-  <programme start="20260925221000 +0200" stop="20260925223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260926180000 +0200" stop="20260926183445 +0200" channel="Rai Südtirol">
     <title>Die Welt des Similaun-Mannes</title>
     <sub-title/>
@@ -270,6 +229,28 @@ Fast 500 Schafe verbringen den Sommer auf den Weiden am Rittnerhorn, fern von de
 Das Potential von Hunden als Rettungsschwimmer haben wir bei einem Training der Wasserrettungshunde an einem Badetag am See verfolgt und uns über die Ausbildung zum Rettungsteam informiert. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
   </programme>
   <programme start="20261003221000 +0200" stop="20261003223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261004200000 +0200" stop="20261004202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261004202000 +0200" stop="20261004204930 +0200" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Frauen mit Migrationshintergrund der zweiten Generation erzählen von ihrem Weg zu einem selbstbestimmten Frau-Sein. Die Köchin Rahma Tesfa Ahmed im Porträt. 40 Jahre Frauen helfen Frauen. 
+
+Zwischen Brückenfunktion und Identitätsfindung: In welchem Spannungsfeld leben Mädchen und Frauen der zweiten Generation, wenn es um ihre Definition von Weiblichkeit, von Frau-Sein geht? Studien zur Migrationsforschung belegen, dass Frauen mit Migrationshintergrund eine hohe Anpassungs- und Widerstandsfähigkeit an den Tag legen. Sie haben gelernt, zwischen mehreren Welten zu navigieren: zwischen Anforderungen aus der Herkunftsfamilie und der Mehrheitsgesellschaft, zwischen traditionellen Stereotypen. dF spricht mit mehreren Frauen, die genau diese Dynamik im Alltag mit Leben füllen. Rahma Tesfa Ahmed ist Köchin. Äthiopierin. Alleinerziehend. Sie hat bereits für Stanley Tucci gekocht und wollte mit der Ziegenbäuerin Agitu Ideo Gudeta ein Restaurant eröffnen. Im Schullian Bistro &amp; Flowers in Bozen nutzt sie ihre Chance. Wie aus Frauensolidarität eine Erfolgsgeschichte wird. In dF Info blicken wir auf 40 Jahre des Vereins Frauen helfen Frauen zurück und stellen einen feministischen Buchclub in Bozen vor.</desc>
+  </programme>
+  <programme start="20261004205000 +0200" stop="20261004205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261004221000 +0200" stop="20261004223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
