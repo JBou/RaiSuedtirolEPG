@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260926180000 +0200" stop="20260926183445 +0200" channel="Rai Südtirol">
-    <title>Die Welt des Similaun-Mannes</title>
-    <sub-title/>
-    <desc>Zwischen den Landschaften Südtirols und des Schnalstals erzählt der Film von Roberto Condotta von Überlebenstechniken der Steinzeit, inspiriert vom Leben Ötzis. Die Dokumentation begleitet Philipp Schraut, Experten für Archäotechnik, bei seiner Forschungs- und Experimentierarbeit zu prähistorischem Wissen. In Begleitung einer Gruppe von Interessierten, die - in neolithischer Kleidung und Ausrüstung - entlang eines möglichen Weges Ötzis geführt werden, zeigt der Film, dass diese Praktiken nicht nur Geschichte sind, sondern eine Möglichkeit, die tiefe Verbindung zwischen Mensch und Natur neu zu entdecken.</desc>
-  </programme>
-  <programme start="20260926183400 +0200" stop="20260926185800 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Tanas</sub-title>
-    <desc>Das kleine Dorf oberhalb von Laas, mit knapp 150 Einwohnern, hat einige Besonderheiten: Kirschenanbau, eine Zwergschule, ein Dorfgasthaus, die zentrale Rolle der Feuerwehr. In der kleinen Dorfschule werden derzeit etwa zehn Kinder in den Klassen 1, 2 und 4 unterrichtet. Neben der Schule spielt die Feuerwehr eine zentrale Rolle, denn fast jede Familie ist hier Mitglied und sorgt für die Sicherheit in diesem abgelegenen Dorf. Eine weitere Besonderheit: Seit einigen Jahren werden hier Kirschen angebaut. Im einzigen Gasthaus erinnern sich die älteren Einwohner an längst vergangene Tage, als der Ort nur über die Materialseilbahn erreichbar war. Heute hat Tanas eine Straße, die Abwanderung ist deshalb zurückgegangen. Auf dem höchsten bewirtschafteten Hof der gesamten Gemeinde Laas lebt eine Bäuerin mit über 1000 Hennen und einigen Kühen.</desc>
-  </programme>
-  <programme start="20260926200000 +0200" stop="20260926202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260926202000 +0200" stop="20260926202300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260926202300 +0200" stop="20260926211800 +0200" channel="Rai Südtirol">
-    <title>Luis Durnwalder</title>
-    <sub-title>Ein Leben für Südtirol</sub-title>
-    <desc>25 Jahre lang stand Luis Durnwalder als Landeshauptmann an der Spitze Südtirols und hat die Entwicklung des Landes maßgeblich geprägt. 
-
-In seine Amtszeit fallen wichtige Schritte beim weiteren Ausbau der Südtiroler Autonomie, der wirtschaftlichen Entwicklung und der Öffnung nach Europa. Anlässlich seines 85. Geburtstags zeichnet die Dokumentation seinen Weg vom Bergbauernsohn aus Pfalzen zu einem der prägendsten Politiker der jüngeren Südtiroler Geschichte nach. Politische Weggefährten, Freunde und langjährige Vertraute aus Südtirol und darüber hinaus erzählen von gemeinsamen Erlebnissen und vom Menschen hinter dem Politiker. Auch Luis Durnwalder selbst blickt auf wichtige Stationen, politische Erfolge und persönliche Begegnungen zurück.</desc>
-  </programme>
-  <programme start="20260926211900 +0200" stop="20260926214830 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen - entdecken - genießen</sub-title>
-    <desc>Was tut sich derzeit in den Küchen Alta Badias? Die Genussregion entwickelt sich stetig weiter: Neue kulinarische Konzepte entstehen, junge Köchinnen und Köche setzen Akzente und erst vor Kurzem wurde ein weiteres Restaurant mit einem Michelin-Stern ausgezeichnet. Gleichzeitig bewahren Familienbetriebe die kulinarischen Wurzeln des Tales. Wir besuchen zwei unterschiedliche Betriebe und zeigen, wie sich Alta Badias Küche zwischen Innovation und Tradition weiterentwickelt. 
-
-In einem zweiten Beitrag dreht sich alles um eine typische Herbstfrucht aus dem Eisacktal: die Kastanie. Wenn der Herbst ins Eisacktal einzieht, beginnt auch ihre Zeit. Rund um die Eisacktaler Kastanienwochen rückt die Herbstfrucht in zahlreichen Gastbetrieben in den Mittelpunkt der Küche. Wir zeigen, wie vielseitig die Kastanie heute verarbeitet wird - zwischen gelebter Tradition, kreativen Rezepten und regionalen Zutaten. 
-Landwirtschaft und Tourismus sind im Vinschgau seit jeher eng miteinander verbunden. Marillen, Äpfel, Beeren und Gemüse prägen nicht nur die Landschaft, sondern auch das kulinarische Angebot. Vor allem die Vinschger Marille ist ein Stück regionaler Identität und Ausgangspunkt für besondere Erzeugnisse - von Marmeladen und Säften über Trockenfrüchte bis hin zu Spirituosen. Wir zeigen, wie heimische Rohstoffe veredelt werden, ihren Weg in Gastronomie und Hotellerie finden und damit regionale Wertschöpfung schaffen.</desc>
-  </programme>
-  <programme start="20260926221000 +0200" stop="20260926223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260927200000 +0200" stop="20260927202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
