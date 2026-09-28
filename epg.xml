@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260927200000 +0200" stop="20260927202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260927202000 +0200" stop="20260927204930 +0200" channel="Rai Südtirol">
-    <title>Campus</title>
-    <sub-title>Magazin für Forschung und Entwicklung</sub-title>
-    <desc>Das Forschungszentrum ECO Research führt eine breit angelegte Studie durch, um zu erfahren, wie stark die Fließgewässer in Südtirol von Mikroplastik kontaminiert sind. 
-
-Wir präsentieren erste Ergebnisse. Die Getreidesorte Hirse ist hitzeresistent und braucht wenig Wasser, um zu gedeihen. Das Lebensmitteilunternehmen Dr. Schär setzt verstärkt auf dieses Getreide, um die Versorgungssicherheit zu gewährleisten. Das Forschungszentrum Laimburg testet eine neue Sortiermaschine bei der Weinlese, um die Qualität der Trauben weiter zu erhöhen. Im Studio begrüßen wir Gabriele Pircher, Direktorin der Gärten Schloss Trautmannsdorff. Sie schildert, welche Rolle Gärten in den kommenden Jahren spielen werden, wenn das Klima sich verändert.</desc>
-  </programme>
-  <programme start="20260927205000 +0200" stop="20260927205300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Manuela Unterthiner</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260927221000 +0200" stop="20260927223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260928180000 +0200" stop="20260928182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV</title>
     <sub-title>Goaßlschnöllen</sub-title>
