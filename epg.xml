@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20260929200000 +0200" stop="20260929202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20260929202000 +0200" stop="20260929203500 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20260929203500 +0200" stop="20260929204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Die Minigolfmeisterschaft in Seis und eine Radtour der Sportgruppe für Körperbehinderte Südtirols. Moderation: Laura Moroder.
-
-Diesmal berichtet die SportZeit von der Südtiroler Meisterschaft im Minigolf, die in Seis stattgefunden hat und nimmt Sie mit auf eine ganz besondere Radtour mit den Athletinnen und Athleten der Sportgruppe für Körperbehinderte Südtirols SGKS. Dazu Sportergebnisse in Kompaktform und die wichtigsten Termine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20260929221000 +0200" stop="20260929223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20260930200000 +0200" stop="20260930202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
