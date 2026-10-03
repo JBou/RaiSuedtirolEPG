@@ -4,50 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261002175900 +0200" stop="20261002182830 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Wie KI Einzug in unseren Leben hält</sub-title>
-    <desc>Künstliche Intelligenz: Wie viel Steuerung überlassen wir bereits Algorithmen?
-Ob Smartphone, Arbeitsplatz oder Medizin: KI prägt unseren Alltag bereits mehr, als die meisten ahnen. Wir zeigen, wie weit die Vernetzung bereits fortgeschritten ist und was das für unsere Zukunft bedeutet. Zu Gast ist Oskar Giovanelli von YoungHands. Er spricht über die Auswirkungen von KI auf junge Menschen. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku über den Hirnforscher Valentin von Braitenberg. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261002182800 +0200" stop="20261002184230 +0200" channel="Rai Südtirol">
-    <title>SporZeit</title>
-    <sub-title/>
-    <desc>Die Minigolfmeisterschaft in Seis und eine Radtour der Sportgruppe für Körperbehinderte Südtirols. Moderation: Laura Moroder. Diesmal berichtet die SportZeit von der Südtiroler Meisterschaft im Minigolf, die in Seis stattgefunden hat und nimmt Sie mit auf eine ganz besondere Radtour mit den Athletinnen und Athleten der Sportgruppe für Körperbehinderte Südtirols SGKS. Dazu Sportergebnisse in Kompaktform und die wichtigsten Termine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20261002184300 +0200" stop="20261002185845 +0200" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>Brunnenburg</sub-title>
-    <desc>Die Brunnenburg in Dorf Tirol beherbergt ein Landwirtschaftsmuseum, ist aber auch Erinnerungsort an den bekannten amerikanischen Dichter Ezra Pound, der hier gelebt hat. Die Brunnenburg wurde um 1250 von Wilhelm Tarant in unmittelbarer Nähe von Schloss Tirol erbaut. Nachdem sie im Laufe der Jahrhunderte verfallen war, wurde sie 1900 im historisierenden Stil wieder aufgebaut. Als ehemaliger Wohnort des amerikanischen Dichters Ezra Pound wird das Schloss heute von der Familie de Rachewiltz, den Erben des Dichters, geführt. Das umfangreiche Landwirtschaftsmuseum, das heute hier untergebracht ist, ist das Ergebnis jahrelanger Forschung und Sammlung verschiedener Objekte und bietet einen Einblick in das Leben der früheren Südtiroler Bergbauern und Gewerbetreibenden. Die Brunnenburg ist aber auch ein Ort der Erinnerung an Ezra Pound und ein Zentrum für kulturelle Begegnungen. Ein Film von Roberto Condotta.</desc>
-  </programme>
-  <programme start="20261002200000 +0200" stop="20261002202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261002202000 +0200" stop="20261002211930 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol zeigt sich diesmal bunt und vielfältig: einerseits erleben wir Dorfgärten und Bauerngärten im Wipptal, andererseits die kulturelle Vielfalt von Toblach bis Schlanders. 
-
-Karin Duregger begibt sich auf die Suche nach Gärten, die mit der Auszeichnung &quot;Natur im Garten&quot; prämiert wurden. Schauplatz für ihre Gartenportraits sind ein Bauerngarten und zwei Dorfgärten in Mauls im Wipptal, hinzu kommt ein Besuch bei der Kräuter- und Gartenexpertin Hildegard Kreiter. Vorher nimmt Sie Magdalena Oberstaller mit auf eine musikalische Tour durch Südtirol. Von Toblach bis nach Schlanders besucht sie Kulturzentren, Konzerte, ein Festival und Menschen, die sich täglich mit Musik beschäftigen, Kunstschaffende, Veranstalter ebenso wie kulturbegeistertes Publikum. Eine bunte Szenereportage mit vielen Stimmen und Bildern.</desc>
-  </programme>
-  <programme start="20261002211900 +0200" stop="20261002214830 +0200" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>sehen.entdecken.genießen</sub-title>
-    <desc>Was sich derzeit in den Küchen des Gadertals tut. Wie vielseitig die Kastanie in der herbstlichen Küche verwendet wird. Wie heimische Marillen, Äpfel und Beeren veredelt werden. Die Genussregion Alta Badia entwickelt sich stetig weiter: Neue kulinarische Konzepte entstehen, junge Köch:innen setzen Akzente und erst vor Kurzem wurde ein weiteres Restaurant mit einem Michelin-Stern ausgezeichnet. Gleichzeitig bewahren Familienbetriebe die kulinarischen Wurzeln des Tales. Wenn der Herbst ins Eisacktal einzieht, beginnt auch die Zeit der Kastanien. Rund um die Eisacktaler Kastanienwochen rückt die Herbstfrucht in zahlreichen Gastbetrieben in den Mittelpunkt der Küche. Wir zeigen, wie vielseitig die Kastanie heute verarbeitet wird. 
-Landwirtschaft und Tourismus sind im Vinschgau seit jeher eng miteinander verbunden. Marillen, Äpfel, Beeren und Gemüse prägen nicht nur die Landschaft, sondern auch das kulinarische Angebot. Vor allem die Vinschger Marille ist ein Stück regionaler Identität und Ausgangspunkt für besondere Erzeugnisse - von Marmeladen und Säften über Trockenfrüchte bis hin zu Spirituosen. Wir zeigen, wie heimische Rohstoffe veredelt werden, ihren Weg in Gastronomie und Hotellerie finden und damit regionale Wertschöpfung schaffen.</desc>
-  </programme>
-  <programme start="20261002214900 +0200" stop="20261002215906 +0200" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Tempelarchitektur in Bozen</sub-title>
-    <desc>Warum der Münchner Klassizismus in Bozen mehr Spuren hinterließ als die Wiener k.u.k.-Architektur. Bestes Beispiel war das frühere Bozner Stadttheater, das im 2.Weltkrieg zerbombt wurde. Im 19. Jahrhundert wurde die Bozner Stadtplanung stark von München aus beeinflusst. Auf Weisung des bayrischen Königs Max Joseph I. wurde vor 1809 der heutige Waltherplatz als früheste stadtplanerische Erweiterung der engen Altstadt anstelle der bestehenden Weingärten geplant. 1857 wurde der Münchner Architekt Sebastian Altmann zum Bozner Stadtarchitekten berufen. Auch seine Nachfolger Johann Bittner und Gustav Nolte kamen aus München. Herausragendes Beispiel dieser spätklassizistischen Phase war das 1918 vollendete Bozner Stadttheater mit seinem imposanten Säulenvorbau. Es wurde im Zweiten Weltkrieg durch Bomben zerstört und nicht wieder aufgebaut.</desc>
-  </programme>
-  <programme start="20261002221000 +0200" stop="20261002223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261003180000 +0200" stop="20261003185900 +0200" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -265,6 +221,28 @@ All diesen Naturschätzen möchte sich der Film in vielschichtiger Weise nähern
 Die Wissenschaft hat es schon längst bestätigt: wenn wir selbst gut für uns sorgen, inneren Frieden empfinden, so sorgen wir auch gut für das Außen, die Menschen in unserem Umfeld. Das Werkzeug für ein gutes Leben und Zusammenleben ist für den Meraner Leo Matzneller die Freundlichkeit. Mit der Freundlichkeit ist es wie mit der Liebe, je mehr wir davon teilen, desto mehr wird sie, desto mehr kommt zurück. Auch Humor verbindet: Nach 50 Jahren hat sich Maria Mayr Kußtatscher im vergangenen Jahr aus dem Landesausschuss des KVW verabschiedet. Die gebürtige Brunecknerin hat Theologie studiert und ist nach wie vor ehrenamtlich tätig. Humor - so sagt sie - ist eine Betrachtungsweise aus der Distanz, Humor hilft uns auch, Dinge sein zu lassen oder anzunehmen: Gebürtig ist sie aus Allitz, mit 19 ging sie nach Vorarlberg, lernte die ganzheitliche traditionelle chinesische Medizin, wurde Resilienztrainerin, Gesundheits- und Ernährungsberaterin, Meditationslehrerin, Achtsamkeitstrainerin. Jahrelang hat sie anderen zugehört, um sie in Heilungsprozessen zu unterstützen und dabei beinahe vergessen sich selbst &quot;zuzulosn&quot;. Nach 30 Jahren ist Sabine Stark nach Südtirol zurückgekehrt und wohnt derzeit auf einem Bergbauernhof am Schludernser Sonnenberg, um von hier aus neu zu beginnen. Sie ist diesmal Gast bei Claudia Schuler. Die Tage sind sichtlich kürzer, abends ist ein warmer Pullover wieder angenehm. Stricken ist wieder in Mode und nicht etwas Altmodisches für Omas - stricken ist auch bei jungen Menschen beliebt. Just zur kühleren Jahreszeit treffen sich wieder begeistere Menschen im Jukas zum Häkel- und Stricktreff, um gemeinsam Kreatives zu schaffen, sich zu unterstützen, zu inspirieren.</desc>
   </programme>
   <programme start="20261010221000 +0200" stop="20261010223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261011200000 +0200" stop="20261011202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261011202000 +0200" stop="20261011204930 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Tanzen, Singen oder mit Worten begeistern: Bei der Show &quot;brassMut&quot; im Bozner Waltherhaus zeigen junge Talente, was in ihnen steckt. 
+
+KLICK begleitet drei junge Frauen bei den Proben: Hip-Hopperin Mia, Poetry-Slammerin Helena und Sängerin Marie. Drei unterschiedliche Talente und Geschichten, die eines verbindet: der Mut, sich auf eine große Bühne zu wagen. Dabei erfahren wir, welche Herausforderungen sie meistern, wie sie von ihren Coaches unterstützt werden und wie sie über sich hinauswachsen. Dieses Jahr wird erstmals das &quot;Südtiroler Jugendwort des Jahres&quot; gekürt. Zu diesem Anlass haben wir uns umgehört: wie spricht die hiesige Jugend und was sagt die Sprache über sie aus? Wie sieht Schule aus, wenn Wirtschaft, Sprachen und internationale Zusammenhänge aufeinandertreffen? KLICK besucht die Wirtschaftsfachoberschule Franz Kafka in Meran und lernt die jüngste Fachrichtung &quot;Weltwirtschaft und Sprachen&quot; näher kennen. Wir begleiten Schülerinnen und Schüler im Unterricht und erfahren, welche Schwerpunkte die Ausbildung setzt und welche Möglichkeiten sie den Jugendlichen für ihre Zukunft eröffnet.</desc>
+  </programme>
+  <programme start="20261011205000 +0200" stop="20261011205300 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Cyrill Greiter</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261011221000 +0200" stop="20261011223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
