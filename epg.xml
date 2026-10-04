@@ -4,35 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261003180000 +0200" stop="20261003185900 +0200" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Erlebnis Südtirol zeigt sich diesmal bunt und vielfältig: einerseits erleben wir Dorfgärten und Bauerngärten im Wipptal, andererseits die kulturelle Vielfalt von Toblach bis Schlanders. 
-Karin Duregger begibt sich auf die Suche nach Gärten, die mit der Auszeichnung &quot;Natur im Garten&quot; prämiert wurden. Schauplatz für ihre Gartenportraits sind ein Bauerngarten und zwei Dorfgärten in Mauls im Wipptal, hinzu kommt ein Besuch bei der Kräuter- und Gartenexpertin Hildegard Kreiter. Vorher nimmt Sie Magdalena Oberstaller mit auf eine musikalische Tour durch Südtirol. Von Toblach bis nach Schlanders besucht sie Kulturzentren, Konzerte, ein Festival und Menschen, die sich täglich mit Musik beschäftigen, Kunstschaffende, Veranstalter ebenso wie kulturbegeistertes Publikum. Eine bunte Szenereportage mit vielen Stimmen und Bildern.</desc>
-  </programme>
-  <programme start="20261003200000 +0200" stop="20261003202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261003202000 +0200" stop="20261003202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261003202400 +0200" stop="20261003204830 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Zu Besuch bei einer Schafhirtin, die am Rittnerhorn fast 500 Schafe betreut. Das Training von Hunden für die Wasserrettung. 
-
-Fast 500 Schafe verbringen den Sommer auf den Weiden am Rittnerhorn, fern von der Hitze im Tal und unter der Obhut einer Hirtin. Sie folgt der Herde, ihren Bewegungen, beobachtet, lenkt, pflegt und beschützt die Tiere, um sie im Herbst gesund und gut ernährt ins Tal zu bringen. 
-Das Potential von Hunden als Rettungsschwimmer haben wir bei einem Training der Wasserrettungshunde an einem Badetag am See verfolgt und uns über die Ausbildung zum Rettungsteam informiert. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20261003221000 +0200" stop="20261003223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261004200000 +0200" stop="20261004202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
