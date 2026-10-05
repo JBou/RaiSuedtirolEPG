@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261004200000 +0200" stop="20261004202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261004202000 +0200" stop="20261004204930 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Frauen mit Migrationshintergrund der zweiten Generation erzählen von ihrem Weg zu einem selbstbestimmten Frau-Sein. Die Köchin Rahma Tesfa Ahmed im Porträt. 40 Jahre Frauen helfen Frauen. 
-
-Zwischen Brückenfunktion und Identitätsfindung: In welchem Spannungsfeld leben Mädchen und Frauen der zweiten Generation, wenn es um ihre Definition von Weiblichkeit, von Frau-Sein geht? Studien zur Migrationsforschung belegen, dass Frauen mit Migrationshintergrund eine hohe Anpassungs- und Widerstandsfähigkeit an den Tag legen. Sie haben gelernt, zwischen mehreren Welten zu navigieren: zwischen Anforderungen aus der Herkunftsfamilie und der Mehrheitsgesellschaft, zwischen traditionellen Stereotypen. dF spricht mit mehreren Frauen, die genau diese Dynamik im Alltag mit Leben füllen. Rahma Tesfa Ahmed ist Köchin. Äthiopierin. Alleinerziehend. Sie hat bereits für Stanley Tucci gekocht und wollte mit der Ziegenbäuerin Agitu Ideo Gudeta ein Restaurant eröffnen. Im Schullian Bistro &amp; Flowers in Bozen nutzt sie ihre Chance. Wie aus Frauensolidarität eine Erfolgsgeschichte wird. In dF Info blicken wir auf 40 Jahre des Vereins Frauen helfen Frauen zurück und stellen einen feministischen Buchclub in Bozen vor.</desc>
-  </programme>
-  <programme start="20261004205000 +0200" stop="20261004205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261004221000 +0200" stop="20261004223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261005180000 +0200" stop="20261005182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV</title>
     <sub-title>Spiel- und Sportfest in Lana</sub-title>
