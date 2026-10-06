@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261005180000 +0200" stop="20261005182800 +0200" channel="Rai Südtirol">
-    <title>Zipp TV</title>
-    <sub-title>Spiel- und Sportfest in Lana</sub-title>
-    <desc>Beim VSS/KFS Spiel- und Sportfest in Lana dreht sich alles um Bewegung, Spiel und Spaß. Die Zipp-Reporterinnen und Reporter sind überwältigt von der riesigen Auswahl an Stationen, die sie am liebsten gleich alle ausprobieren möchten. Egal, ob Geschicklichkeit, Schnelligkeit oder Teamwork gefragt sind - eines haben alle Sport- und Spielangebote gemeinsam: Heute geht es nicht ums Gewinnen oder Verlieren, sondern darum, mit der Familie oder mit Freunden Spaß zu haben und vielleicht die eine oder andere Sportart für sich zu entdecken.</desc>
-  </programme>
-  <programme start="20261005182800 +0200" stop="20261005185654 +0200" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Wie wichtig Pilze in der Ernährung und für die Natur sind. Warum junge Viehzüchter auf Fleckvieh und Pustertaler Sprinzen setzen. Eine Sendung von Marianne Kasseroler. Land&amp;Leben betritt das faszinierende Reich der Pilze. Im Sarntal erleben wir, wie ein junger Bauer edle Speisepilze kultiviert, und wir gehen mit einem Pilzexperten auf Entdeckungsreise in den Wald. Außerdem schauen wir auf die Zukunft der Rinderzucht, denn diese hat viele Gesichter. So setzen junge Fleckvieh-Züchter auf digitale Herdebuchprogramme, moderne Genetik und europaweiten Austausch. Gleichzeitig aber kehren die traditionellen Pustertaler Sprinzen zurück, eine alte Rasse, die junge Hofübernehmerinnen neu entdecken.</desc>
-  </programme>
-  <programme start="20261005200000 +0200" stop="20261005202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261005202000 +0200" stop="20261005212408 +0200" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20261005212400 +0200" stop="20261005215330 +0200" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Frauen mit Migrationshintergrund der zweiten Generation erzählen von ihrem Weg zu einem selbstbestimmten Frau-Sein. Die Köchin Rahma Tesfa Ahmed im Porträt. 40 Jahre Frauen helfen Frauen.
-
-Zwischen Brückenfunktion und Identitätsfindung: In welchem Spannungsfeld leben Mädchen und Frauen der zweiten Generation, wenn es um ihre Definition von Weiblichkeit, von Frau-Sein geht? Studien zur Migrationsforschung belegen, dass Frauen mit Migrationshintergrund eine hohe Anpassungs- und Widerstandsfähigkeit an den Tag legen. Sie haben gelernt, zwischen mehreren Welten zu navigieren: zwischen Anforderungen aus der Herkunftsfamilie und der Mehrheitsgesellschaft, zwischen traditionellen Stereotypen. dF spricht mit mehreren Frauen, die genau diese Dynamik im Alltag mit Leben füllen. Rahma Tesfa Ahmed ist Köchin. Äthiopierin. Alleinerziehend. Sie hat bereits für Stanley Tucci gekocht und wollte mit der Ziegenbäuerin Agitu Ideo Gudeta ein Restaurant eröffnen. Im Schullian Bistro &amp; Flowers in Bozen nutzt sie ihre Chance. Wie aus Frauensolidarität eine Erfolgsgeschichte wird. In dF Info blicken wir auf 40 Jahre des Vereins Frauen helfen Frauen zurück und stellen einen feministischen Buchclub in Bozen vor.</desc>
-  </programme>
-  <programme start="20261005215300 +0200" stop="20261005215852 +0200" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title>Das neue MyCivis</sub-title>
-    <desc>Ein Behördengang beginnt oft mit der Suche nach dem richtigen Ansprechpartner. Genau diese Hürde soll die neue Generation von MyCivis beseitigen. Digitale Dienste und persönliche Unterstützung greifen dabei ineinander, damit öffentliche Verwaltung einfacher, verständlicher und bürgernäher wird.</desc>
-  </programme>
-  <programme start="20261005221000 +0200" stop="20261005223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261006200000 +0200" stop="20261006202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
