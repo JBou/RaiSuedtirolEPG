@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261007200000 +0200" stop="20261007202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261007202000 +0200" stop="20261007204930 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wo das Digitale und das Reale nahtlos ineinandergreifen und manchmal sogar verschmelzen. 
-
-Vor Jahrzehnten besuchten Unternehmer und Unternehmerinnen Messen wie die Fachmesse Hotel, um neue Produkte zu entdecken und diese am Stand sogar selbst auszuprobieren. Heute hingegen erleben Messebesucher die Präsentation innovativer Geschäftsmodelle und abstrakter Ideen, gepaart mit der Möglichkeit, Experten, die sie aus dem Internet kennen, persönlich kennenzulernen. Im Internet wiederum können sich Unternehmer und Konsumenten vor allem über technische Produkte umfassend informieren. Influencer und Tech-Blogger spielen dabei eine entscheidende Rolle. Trend beleuchtet anhand eines Südtiroler Beispiels, wie die Arbeit eines Tech-Bloggers aussieht und was es braucht, um weltweit Fans, Fachleute und Follower von einem Produkt zu begeistern und gleichzeitig seinen Lebensunterhalt aus diesem Geschäftsmodell zu bestreiten. Auch in traditionellen Gewerben wie im Bauhandwerk ist die digitale Präsenz unerlässlich. Lehm, ein Baustoff, der besonders nördlich der Alpen wieder an Bedeutung gewinnt, obwohl er sich nach wie vor um ein Nischenprodukt handelt, profitiert von digitalen Medien.  Um Handwerkern und Handwerkerinnen die Verwendung neuer oder alter Baustoffe näher zu bringen, sind neben praktischen Erfahrungen in Workshops auch detaillierte Video-Anleitungen auf dem Smartphone unerlässlich.</desc>
-  </programme>
-  <programme start="20261007221000 +0200" stop="20261007223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261008200000 +0200" stop="20261008202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
