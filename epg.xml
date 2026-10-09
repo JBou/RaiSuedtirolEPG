@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261008200000 +0200" stop="20261008202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261008202000 +0200" stop="20261008204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ressource Wasser</sub-title>
-    <desc>Wenn das Wasser fehlt - über neue Herausforderungen in der Landwirtschaft, aber auch in unser aller Leben.  
-
-Klimawandel, steigende Meeresspiegel und der Kampf um sauberes Trinkwasser verändern unsere Welt grundlegend. Schmelzende Gletscher, sinkende Grundwasserspiegel: Südtirol steht beim Thema Wasser vor historischen Herausforderungen. Wir zeigen, wie Trockenheit den Obstbau, die Landwirtschaft und die Trinkwasserversorgung in unseren Tälern schon heute verändert. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Brixen und das Wasser&quot; und zeigen Archivbilder aus dem Amt für Film und Medien über den Vernagter Stausee. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20261008221000 +0200" stop="20261008223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261009180000 +0200" stop="20261009182930 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Ressource Wasser</sub-title>
