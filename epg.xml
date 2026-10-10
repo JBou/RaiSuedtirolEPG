@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261009180000 +0200" stop="20261009182930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ressource Wasser</sub-title>
-    <desc>Wenn das Wasser fehlt - über neue Herausforderungen in der Landwirtschaft, aber auch in unser aller Leben. Klimawandel, steigende Meeresspiegel und der Kampf um sauberes Trinkwasser verändern unsere Welt grundlegend. Schmelzende Gletscher, sinkende Grundwasserspiegel: Südtirol steht beim Thema Wasser vor historischen Herausforderungen. Wir zeigen, wie Trockenheit den Obstbau, die Landwirtschaft und die Trinkwasserversorgung in unseren Tälern schon heute verändert. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Brixen und das Wasser&quot; und zeigen Archivbilder aus dem Amt für Film und Medien über den Vernagter Stausee. Es moderiert Karin Gschnitzer.</desc>
-  </programme>
-  <programme start="20261009182900 +0200" stop="20261009184330 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine.</desc>
-  </programme>
-  <programme start="20261009184400 +0200" stop="20261009185810 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>In die Wildnis</sub-title>
-    <desc>Was empfinden Menschen als Wildnis und wieviel echte Wildnis gibt es noch in den Alpen? Dieser Frage geht die Sendereihe Bergwelt in zwei noch sehr ursprünglichen alpinen Landschaften nach. Mit dem Wanderkajak erkundet Thomas Hainz mit dem Eppaner Wildnispädagogen Florian Egger die Flusslandschaften am Tagliamento im benachbarten Veneto. Und auf der Suche nach den letzten Urwäldern erkundet das Team unwegsame und unzugängliche Täler im Nationalpark Kalkalpen in Österreich.</desc>
-  </programme>
-  <programme start="20261009200000 +0200" stop="20261009202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261009202000 +0200" stop="20261009210331 +0200" channel="Rai Südtirol">
-    <title>Naturdenkmäler in Südtirol</title>
-    <sub-title>Der Westen</sub-title>
-    <desc>Südtirols Naturdenkmäler sind eine ökologische und ästhetische Bereicherung unserer Landschaft. Die etwa 1.000 Naturdenkmäler sind streng geschützt. Naturdenkmäler lassen sich in hydrologische, geologische und botanische Denkmäler einteilen.
-
-All diesen Naturschätzen möchte sich der Film in vielschichtiger Weise nähern: Besitzer:innen erzählen von ihrem persönlichen Verhältnis zum Naturdenkmal, Biolog:innen und Förster bringen uns den Wert des Naturdenkmals näher. Auch Geschichten und Sagen lassen sich um die Naturdenkmäler aufstöbern. Die Filmemacher Willi Rainer und Johannes Ortner waren im Westen Südtirols unterwegs.</desc>
-  </programme>
-  <programme start="20261009210400 +0200" stop="20261009214945 +0200" channel="Rai Südtirol">
-    <title>Im Sextner Tal</title>
-    <sub-title/>
-    <desc>Im Sextner Tal auf 1.300 Meter Höhe, eingerahmt von den Dolomiten, leben hier die Menschen ganz traditionell im Rhythmus der Jahreszeiten. Im Spätsommer bereiten sich Bauern wie die Familie Holzer Tschurtschenthaler auf den Almabtrieb und den dazugehörigen Festumzug vor. Doch plötzlicher starker Schneefall bringt diesmal die Pläne des Almhirten Hannes Tschurtschenthaler durcheinander. Die Dokumentation zeigt, wie die Bauern und Bäuerinnen in Sexten die Herausforderungen meistern, die ihnen die Natur stellt. Nebenher werden in der Region viele handwerkliche Traditionen bewahrt, so pflegt Monika Tschurtschenthaler das Wollspinnen, die Familie Zacher das Filzen und Albert und Florian Tschurtschenthaler die Holzschnitzkunst. Und der Geschichtsforscher Rupert Gietl blickt zurück auf die Zeit, als das Tal noch zu Österreich gehörte.</desc>
-  </programme>
-  <programme start="20261009214900 +0200" stop="20261009215832 +0200" channel="Rai Südtirol">
-    <title>Bergwelt Spuren</title>
-    <sub-title>Der Fotograf Sepp Hackhofer</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261009221000 +0200" stop="20261009223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261010175900 +0200" stop="20261010182830 +0200" channel="Rai Südtirol">
     <title>Trend</title>
     <sub-title>Das Wirtschaftsmagazin</sub-title>
@@ -101,6 +59,204 @@ KLICK begleitet drei junge Frauen bei den Proben: Hip-Hopperin Mia, Poetry-Slamm
     <desc/>
   </programme>
   <programme start="20261011221000 +0200" stop="20261011223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261012180000 +0200" stop="20261012182800 +0200" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Wildkatzen</sub-title>
+    <desc>Im Alpenzoo in Innsbruck trifft Pfote-Moderator Stefan auf Laura, die gerade auf dem Weg zum Wildkatzengehege ist. Wildkatzen sind äußerst selten und in freier Natur kaum noch anzutreffen. Dem Alpenzoo ist es gelungen, erfolgreich Nachwuchs zu züchten, und Stefan kann die kleinen Wildkatzen beim unbeschwerten Spielen beobachten. Eine weitere Wildkatze im Zoo ist der Luchs, der sich hoch oben in den Baumkronen am wohlsten fühlt – zumindest so lange, bis Stefan ihm ein großes Stück Fleisch serviert. Eddy, ein Luchsmännchen, das aus dem fernen England nach Innsbruck gebracht wurde, lässt sich schließlich doch dazu bewegen, vom Baum herunterzukommen und sich das Steak zu schnappen. Weibchen Emma hingegen beobachtet das Geschehen lieber von hoch oben.</desc>
+  </programme>
+  <programme start="20261012182800 +0200" stop="20261012185230 +0200" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Tanzen, Singen oder mit Worten begeistern: Bei der Show &quot;brassMut&quot; im Bozner Waltherhaus zeigen junge Talente, was in ihnen steckt. KLICK begleitet drei junge Frauen bei den Proben: Hip-Hopperin Mia, Poetry-Slammerin Helena und Sängerin Marie. Drei unterschiedliche Talente und Geschichten, die eines verbindet: der Mut, sich auf eine große Bühne zu wagen. Dabei erfahren wir, welche Herausforderungen sie meistern, wie sie von ihren Coaches unterstützt werden und wie sie über sich hinauswachsen. Dieses Jahr wird erstmals das &quot;Südtiroler Jugendwort des Jahres&quot; gekürt. Zu diesem Anlass haben wir uns umgehört: wie spricht die hiesige Jugend und was sagt die Sprache über sie aus? Wie sieht Schule aus, wenn Wirtschaft, Sprachen und internationale Zusammenhänge aufeinandertreffen? KLICK besucht die Wirtschaftsfachoberschule Franz Kafka in Meran und lernt die jüngste Fachrichtung &quot;Weltwirtschaft und Sprachen&quot; näher kennen. Wir begleiten Schülerinnen und Schüler im Unterricht und erfahren, welche Schwerpunkte die Ausbildung setzt und welche Möglichkeiten sie den Jugendlichen für ihre Zukunft eröffnet.</desc>
+  </programme>
+  <programme start="20261012185200 +0200" stop="20261012185814 +0200" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Zwei wuchtige Pfeiler am Radweg</sub-title>
+    <desc>Rollt man mit dem Rad gemütlich entlang der Etsch in Richtung Schlanders, kommt man bei zwei merkwürdigen steinernen Pfeilern vorbei. Diese beiden massigen Gebilde erzählen die Geschichte eines dramatischen Unglücks und führen tief hinein in die reiche Historie der Waale im Vinschgau.</desc>
+  </programme>
+  <programme start="20261012200000 +0200" stop="20261012202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261012202000 +0200" stop="20261012211128 +0200" channel="Rai Südtirol">
+    <title>Mein Bruder, ein Mörder?</title>
+    <sub-title>Der Fall Florian Egger, Rambo von Laurein</sub-title>
+    <desc>Meran am 12. Juni 1997: Florian Egger aus Laurein stürmt in die Sparkasse in der Gampenstraße. Er springt auf den Tresen der Bank und feuert einen Schuss ab. Mit einer Beute von 10 Millionen Lire - rund 5000 Euro - gelingt ihm die Flucht. 
+Dabei erschießt er Candeloro Zamperini, einen Kunden der Bank, der ihn aufhalten will. 
+
+Das Opfer des Raubüberfalls ist ein zweifacher Familienvater. Er stammte aus Süditalien und arbeitete als Gefreiter bei den Carabinieri in Schlanders. Deshalb übernehmen die Carabinieri die Ermittlungen. Für sie ist es eine Ehrensache, den Täter hinter Gitter zu bringen. Sie fahnden unter Einsatz aller Ressourcen - mit Straßensperren, Hubschraubern und Spürhunden. Wochenlang gelingt es dem 27-jährigen Bankräuber den Einsatzkräften zu entwischen. Ganz Südtirol verfolgt seine außergewöhnliche Flucht. Zum ersten Mal spricht Bernhard Egger, der Bruder des Täters öffentlich darüber, wie seine Familie in Laurein diese Zeit erlebt hat und welche Folgen der Fall für ihn bis heute hat.</desc>
+  </programme>
+  <programme start="20261012211100 +0200" stop="20261012215932 +0200" channel="Rai Südtirol">
+    <title>Regen, Sturm und Schnee</title>
+    <sub-title>Die große Bedeutung der Wettervorhersage</sub-title>
+    <desc>Das Wetter in all seinen unterschiedlichen Ausprägungen ist untrennbar mit dem Alltag eines jeden Menschen verbunden, bestimmt oftmals sogar das Wohl- oder Unwohlbefinden. Da das Wetter enorm viele Lebens- und Arbeitsbereiche betrifft, sind möglichst genaue Vorhersagen von großer Bedeutung. Und auch in puncto Klimawandel werden sie immer wichtiger, denn es lässt sich eine Zunahme von Extremwetterereignissen feststellen. Die Filmemacher Claudia Bosch und Hans Peter Karbon begleiten in ihrer Dokumentation nicht nur Meteorolog:innen bei ihrer Tätigkeit, sondern auch Personen, die auf verschiedenste Art und Weise mit dem Thema Wetter zu tun haben: vom Hüttenwirt über die Berufsfeuerwehr bis zum Weinbauern.</desc>
+  </programme>
+  <programme start="20261012221000 +0200" stop="20261012223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261013200000 +0200" stop="20261013202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261013202000 +0200" stop="20261013203500 +0200" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261013203500 +0200" stop="20261013204930 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die SportZeit berichtet diesmal unter anderem vom großen Finale der VSS Dorfläufe in Niederdorf. Die derzeit populärste Laufserie Südtirols schließt mit Hunderten von Laufsportlern eine erfolgreiche Saison ab. Dazu noch Kompaktnews und Sporttermine für die kommende Woche.</desc>
+  </programme>
+  <programme start="20261013221000 +0200" stop="20261013223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261014200000 +0200" stop="20261014202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261014202000 +0200" stop="20261014204930 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Arbeiten, obwohl man längst in Rente ist? Für immer mehr Menschen ist das eine bewusste Entscheidung: Manche wollen ihr Einkommen aufbessern, andere weiterhin gebraucht werden und am Berufsleben teilhaben. 
+
+Gleichzeitig setzen Betriebe zunehmend auf die Erfahrung älterer Mitarbeiterinnen und Mitarbeiter. &quot;Pluspunkt&quot; fragt nach den Beweggründen und zeigt, was arbeitende Rentner steuerlich beachten sollten und welche Möglichkeiten es gibt, Steuern zu sparen. 
+Außerdem nimmt &quot;Pluspunkt&quot; die Preise an Südtirols Tankstellen unter die Lupe. Warum sind Benzin und Diesel so teuer und weshalb unterscheiden sich die Preise manchmal sogar von Tankstelle zu Tankstelle? Der Beitrag erklärt, wie sich der Spritpreis zusammensetzt und mit welchen einfachen Maßnahmen Autofahrerinnen und Autofahrer beim Tanken und unterwegs Geld sparen können.</desc>
+  </programme>
+  <programme start="20261014221000 +0200" stop="20261014223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261015200000 +0200" stop="20261015202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261015202000 +0200" stop="20261015204930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Alte Sorten</sub-title>
+    <desc>Kulinarisches Erbe: Wie Südtirols alte Sorten vor dem Aussterben gerettet werden. 
+
+Südtirols alte Obst- Gemüse- und Getreidesorten erleben dank engagierter Bauern ein Comeback. Raritäten wie die Palabirne, die Pustrer Bohn oder das Reggelberger Korn sichern die regionale Biodiversität. Zu Gast ist der Landwirt und Koch Fabian Reissner vom Eggerhof bei Marling, der schottische Hochlandrinder hält, die älteste Zuchtrinderrasse Europas.   
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Das System Milch&quot; von Andreas Pichler und in &quot;Unser Gedächtnis&quot; einen Schatz aus dem Amt für Film und Medien über Forellen und das Fischen. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261015221000 +0200" stop="20261015223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261016180000 +0200" stop="20261016182930 +0200" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Alte Sorten</sub-title>
+    <desc>Kulinarisches Erbe: Wie Südtirols alte Sorten vor dem Aussterben gerettet werden. 
+Südtirols alte Obst- Gemüse- und Getreidesorten erleben dank engagierter Bauern ein Comeback. Raritäten wie die Palabirne, die Pustrer Bohn oder das Reggelberger Korn sichern die regionale Biodiversität. Zu Gast ist der Landwirt und Koch Fabian Reissner vom Eggerhof bei Marling, der schottische Hochlandrinder hält, die älteste Zuchtrinderrasse Europas.   
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Das System Milch&quot; von Andreas Pichler und in &quot;Unser Gedächtnis&quot; einen Schatz aus dem Amt für Film und Medien über Forellen und das Fischen. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261016182900 +0200" stop="20261016184330 +0200" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die SportZeit berichtet diesmal unter anderem vom großen Finale der VSS Dorfläufe in Niederdorf. Die derzeit populärste Laufserie Südtirols schließt mit Hunderten von Laufsportlern eine erfolgreiche Saison ab. Dazu noch Kompaktnews und Sporttermine für die kommende Woche.</desc>
+  </programme>
+  <programme start="20261016184400 +0200" stop="20261016185818 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Der Fennberger Klettersteig</sub-title>
+    <desc>Von Margreid hinauf auf den Fennberg entstand 1976 der erste und einzige talnahe Klettersteig im Unterland. Damals organisiert von der AVS-Ortsstelle Margreid, wo viele Mitglieder ehrenamtlich mitangepackt hatten. Vor einem Jahr musste der Fennerberger Klettersteig saniert werden - mit einer Ausschreibung, einem Bauplan und einem genauen Sicherheitskonzept. Die Erbauer von damals ziehen Vergleiche zwischen früher und heute.</desc>
+  </programme>
+  <programme start="20261016200000 +0200" stop="20261016202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261016202000 +0200" stop="20261016204930 +0200" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Michael Pichler</sub-title>
+    <desc>Vom Kapellmeister in Lüsen auf die internationalen Opernbühnen: Der Südtiroler Dirigent Michael Pichler ist zu Gast bei &quot;privat mit Markus Frings&quot;. 
+
+Michael Pichler wurde in Brixen geboren und wuchs in Lüsen auf. Schon früh entdeckte er seine Leidenschaft für die Musik und insbesondere für das Dirigieren. Bereits mit 18 Jahren übernahm er als Kapellmeister die musikalische Leitung der Musikkapelle Lüsen. Von Südtirol aus führte ihn sein weiterer Weg schließlich auf internationale Bühnen und in renommierte Opernhäuser. Heute gilt Michael Pichler als einer der erfolgreichsten Dirigenten Südtirols. Er ist Mitgründer und künstlerischer Leiter der Südtirol Filarmonica.</desc>
+  </programme>
+  <programme start="20261016205000 +0200" stop="20261016213624 +0200" channel="Rai Südtirol">
+    <title>Das Schnalstal, eine raue Schönheit</title>
+    <sub-title/>
+    <desc>Die Dokumentation zeigt die eindrucksvolle Bergwelt im Westen Südtirols und erzählt zugleich die persönliche Geschichte von Simon Messner, Bergsteiger, Biologe und Bergbauer. Am Eingang des Tals, unter Castel Juval, hat er das Weingut Unterortl und die Landwirtschaft Oberortl übernommen. Hier entdeckt er eine neue Verbindung zu seiner Heimat - zwischen Verantwortung, Tradition und moderner Landwirtschaft. Im Austausch mit der jungen Landwirtin Eva Götsch spricht er über die Herausforderungen des heutigen Bergbauerndaseins und den Wert der Gemeinschaft. Parallel begleitet der Film Simon auf seinen alpinistischen Wegen - etwa bei seiner Solo-Tour auf die Hintere Schwärze, wo der sichtbare Gletscherrückgang zum Sinnbild des Klimawandels wird. Begegnungen mit dem Glaziologen Georg Kaser und dem Hüttenwirt Josef Grüner verdeutlichen, wie sich die Hochgebirgslandschaft verändert. Einen besonderen emotionalen Moment erlebt Simon bei der traditionellen Transhumanz, dem jahrtausendealten Schafübertrieb über den Alpenhauptkamm, an dem er erstmals mit seinen eigenen Tieren teilnimmt.</desc>
+  </programme>
+  <programme start="20261016213600 +0200" stop="20261016215230 +0200" channel="Rai Südtirol">
+    <title>Bergwelt Spuren</title>
+    <sub-title>Die Rittnerbahn</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261016215200 +0200" stop="20261016215814 +0200" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Zwei wuchtige Pfeiler am Radweg</sub-title>
+    <desc>Rollt man mit dem Rad gemütlich entlang der Etsch in Richtung Schlanders, kommt man bei zwei merkwürdigen steinernen Pfeilern vorbei. Diese beiden massigen Gebilde erzählen die Geschichte eines dramatischen Unglücks und führen tief hinein in die reiche Historie der Waale im Vinschgau.</desc>
+  </programme>
+  <programme start="20261016221000 +0200" stop="20261016223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261017175800 +0200" stop="20261017182730 +0200" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Arbeiten, obwohl man längst in Rente ist? Für immer mehr Menschen ist das eine bewusste Entscheidung: Manche wollen ihr Einkommen aufbessern, andere weiterhin gebraucht werden und am Berufsleben teilhaben. Gleichzeitig setzen Betriebe zunehmend auf die Erfahrung älterer Mitarbeiterinnen und Mitarbeiter. &quot;Pluspunkt&quot; fragt nach den Beweggründen und zeigt, was arbeitende Rentner steuerlich beachten sollten und welche Möglichkeiten es gibt, Steuern zu sparen. 
+Außerdem nimmt &quot;Pluspunkt&quot; die Preise an Südtirols Tankstellen unter die Lupe. Warum sind Benzin und Diesel so teuer und weshalb unterscheiden sich die Preise manchmal sogar von Tankstelle zu Tankstelle? Der Beitrag erklärt, wie sich der Spritpreis zusammensetzt und mit welchen einfachen Maßnahmen Autofahrerinnen und Autofahrer beim Tanken und unterwegs Geld sparen können.</desc>
+  </programme>
+  <programme start="20261017182700 +0200" stop="20261017185800 +0200" channel="Rai Südtirol">
+    <title>Die Zeltbauer</title>
+    <sub-title/>
+    <desc>Von einer leeren Wiese zu einem riesigen Festzelt: Hinter dem berühmten Kastelruther Spatzenfest steckt ein Kraftakt, den kaum jemand zu Gesicht bekommt. Meterhohe Stahlkonstruktionen, tonnenschwere Planen und wochenlange harte Arbeit - getragen von einem perfekt eingespielten Team, das dem Wind, dem Wetter und der Zeit trotzt. Für die Zeltbauer ist es mehr als nur ein Job: Es ist Leidenschaft, Handwerk und Herzblut. Sie schaffen nicht nur Zelte, sondern Erinnerungen - und machen so eines der größten Feste Südtirols erst möglich.</desc>
+  </programme>
+  <programme start="20261017200000 +0200" stop="20261017202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261017202000 +0200" stop="20261017202400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261017202400 +0200" stop="20261017205330 +0200" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Gesunder Rücken - stark fürs Leben</sub-title>
+    <desc>Rückenschmerzen gehören zu den häufigsten Gesundheitsproblemen und können unseren Alltag stark beeinträchtigen. Doch was können wir tun, damit unser Rücken gesund bleibt? 
+
+In der Reportage Gesundheit zeigt Physiotherapeut und Osteopath Matthias Mair wie Bewegung, Prävention und ergonomisches Arbeiten helfen können. Außerdem begleiten wir Orthopädin und Wirbelsäulenchirurgin Ines Unterfrauner bei ihrer Arbeit und treffen Patienten mit unterschiedlichen Rückenbeschwerden. Außerdem fragen wir nach, wie die Menschen ihre Rückengesundheit im Alltag fördern. Denn mit gezielter Bewegung und bewussten Gewohnheiten können wir selbst viel für unseren Rücken tun.</desc>
+  </programme>
+  <programme start="20261017221000 +0200" stop="20261017223000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261018200000 +0200" stop="20261018202000 +0200" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261018202000 +0200" stop="20261018204930 +0200" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Rodeneck</sub-title>
+    <desc>&quot;Land und Leute&quot; ist diesmal in Rodeneck unterwegs. Im Dorfportrait zeigen wir Landwirtschaft und das Almleben. 
+
+Vorgestellt werden auch Menschen, die alte Traditionen weiterführen und zugleich neue Wege gehen, wie z.B. in der Landwirtschaft, im Weinbau. Auf Schloss Rodenegg geben Julia Gräfin Thurn und Taxis und Oswald Graf Wolkenstein Einblick in die Geschichte der Burg und in die Aufgabe, dieses historische Erbe für kommende Generationen zu bewahren. Den Abschluss bildet - passend zur Jahreszeit - der Almabtrieb, bei dem sichtbar wird, wie eng bäuerliche Arbeit, Handwerk und altbewährte Traditionen in Rodeneck miteinander verbunden sind.</desc>
+  </programme>
+  <programme start="20261018205000 +0200" stop="20261018205400 +0200" channel="Rai Südtirol">
+    <title>Nachgedacht mit Alfred E. Mair</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261018221000 +0200" stop="20261018223000 +0200" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
