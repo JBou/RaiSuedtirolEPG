@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261010175900 +0200" stop="20261010182830 +0200" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Wo das Digitale und das Reale nahtlos ineinandergreifen und manchmal sogar verschmelzen.  Vor Jahrzehnten besuchten Unternehmer und Unternehmerinnen Messen wie die Fachmesse Hotel, um neue Produkte zu entdecken und diese am Stand sogar selbst auszuprobieren. Heute hingegen erleben Messebesucher die Präsentation innovativer Geschäftsmodelle und abstrakter Ideen, gepaart mit der Möglichkeit, Experten, die sie aus dem Internet kennen, persönlich kennenzulernen. Im Internet wiederum können sich Unternehmer und Konsumenten vor allem über technische Produkte umfassend informieren. Influencer und Tech-Blogger spielen dabei eine entscheidende Rolle. Trend beleuchtet anhand eines Südtiroler Beispiels, wie die Arbeit eines Tech-Bloggers aussieht und was es braucht, um weltweit Fans, Fachleute und Follower von einem Produkt zu begeistern und gleichzeitig seinen Lebensunterhalt aus diesem Geschäftsmodell zu bestreiten. Auch in traditionellen Gewerben wie im Bauhandwerk ist die digitale Präsenz unerlässlich. Lehm, ein Baustoff, der besonders nördlich der Alpen wieder an Bedeutung gewinnt, obwohl er sich nach wie vor um ein Nischenprodukt handelt, profitiert von digitalen Medien. Um Handwerkern und Handwerkerinnen die Verwendung neuer oder alter Baustoffe näher zu bringen, sind neben praktischen Erfahrungen in Workshops auch detaillierte Video-Anleitungen auf dem Smartphone unerlässlich.</desc>
-  </programme>
-  <programme start="20261010182800 +0200" stop="20261010185230 +0200" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Zu Besuch bei einer Schafhirtin, die am Rittnerhorn fast 500 Schafe betreut. Das Training von Hunden für die Wasserrettung. Fast 500 Schafe verbringen den Sommer auf den Weiden am Rittnerhorn, fern von der Hitze im Tal und unter der Obhut einer Hirtin. Sie folgt der Herde, ihren Bewegungen, beobachtet, lenkt, pflegt und beschützt die Tiere, um sie im Herbst gesund und gut ernährt ins Tal zu bringen. Das Potential von Hunden als Rettungsschwimmer haben wir bei einem Training der Wasserrettungshunde an einem Badetag am See verfolgt und uns über die Ausbildung zum Rettungsteam informiert. Weiters berichten wir über Wissenswertes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20261010185300 +0200" stop="20261010185827 +0200" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Die Künstlerin Clara Mayr</sub-title>
-    <desc>Auf das Tier gekommen. Die junge Rittnerin verwendet eigenwillige Materialien und Techniken und erholt sich gerne bei ihren Bienen.</desc>
-  </programme>
-  <programme start="20261010200000 +0200" stop="20261010202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261010202000 +0200" stop="20261010202300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261010202300 +0200" stop="20261010205230 +0200" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>einfach.ethisch.leben</sub-title>
-    <desc>Die Kraft des Lächelns, der Humor, das ganzheitliche Zuhören und Stricken und Häkeln sind Themen dieser Sendung. 
-
-Die Wissenschaft hat es schon längst bestätigt: wenn wir selbst gut für uns sorgen, inneren Frieden empfinden, so sorgen wir auch gut für das Außen, die Menschen in unserem Umfeld. Das Werkzeug für ein gutes Leben und Zusammenleben ist für den Meraner Leo Matzneller die Freundlichkeit. Mit der Freundlichkeit ist es wie mit der Liebe, je mehr wir davon teilen, desto mehr wird sie, desto mehr kommt zurück. Auch Humor verbindet: Nach 50 Jahren hat sich Maria Mayr Kußtatscher im vergangenen Jahr aus dem Landesausschuss des KVW verabschiedet. Die gebürtige Brunecknerin hat Theologie studiert und ist nach wie vor ehrenamtlich tätig. Humor - so sagt sie - ist eine Betrachtungsweise aus der Distanz, Humor hilft uns auch, Dinge sein zu lassen oder anzunehmen: Gebürtig ist sie aus Allitz, mit 19 ging sie nach Vorarlberg, lernte die ganzheitliche traditionelle chinesische Medizin, wurde Resilienztrainerin, Gesundheits- und Ernährungsberaterin, Meditationslehrerin, Achtsamkeitstrainerin. Jahrelang hat sie anderen zugehört, um sie in Heilungsprozessen zu unterstützen und dabei beinahe vergessen sich selbst &quot;zuzulosn&quot;. Nach 30 Jahren ist Sabine Stark nach Südtirol zurückgekehrt und wohnt derzeit auf einem Bergbauernhof am Schludernser Sonnenberg, um von hier aus neu zu beginnen. Sie ist diesmal Gast bei Claudia Schuler. Die Tage sind sichtlich kürzer, abends ist ein warmer Pullover wieder angenehm. Stricken ist wieder in Mode und nicht etwas Altmodisches für Omas - stricken ist auch bei jungen Menschen beliebt. Just zur kühleren Jahreszeit treffen sich wieder begeistere Menschen im Jukas zum Häkel- und Stricktreff, um gemeinsam Kreatives zu schaffen, sich zu unterstützen, zu inspirieren.</desc>
-  </programme>
-  <programme start="20261010221000 +0200" stop="20261010223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261011200000 +0200" stop="20261011202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
