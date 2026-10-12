@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261011200000 +0200" stop="20261011202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261011202000 +0200" stop="20261011204930 +0200" channel="Rai Südtirol">
-    <title>Klick</title>
-    <sub-title>Magazin für Jugend und Eltern</sub-title>
-    <desc>Tanzen, Singen oder mit Worten begeistern: Bei der Show &quot;brassMut&quot; im Bozner Waltherhaus zeigen junge Talente, was in ihnen steckt. 
-
-KLICK begleitet drei junge Frauen bei den Proben: Hip-Hopperin Mia, Poetry-Slammerin Helena und Sängerin Marie. Drei unterschiedliche Talente und Geschichten, die eines verbindet: der Mut, sich auf eine große Bühne zu wagen. Dabei erfahren wir, welche Herausforderungen sie meistern, wie sie von ihren Coaches unterstützt werden und wie sie über sich hinauswachsen. Dieses Jahr wird erstmals das &quot;Südtiroler Jugendwort des Jahres&quot; gekürt. Zu diesem Anlass haben wir uns umgehört: wie spricht die hiesige Jugend und was sagt die Sprache über sie aus? Wie sieht Schule aus, wenn Wirtschaft, Sprachen und internationale Zusammenhänge aufeinandertreffen? KLICK besucht die Wirtschaftsfachoberschule Franz Kafka in Meran und lernt die jüngste Fachrichtung &quot;Weltwirtschaft und Sprachen&quot; näher kennen. Wir begleiten Schülerinnen und Schüler im Unterricht und erfahren, welche Schwerpunkte die Ausbildung setzt und welche Möglichkeiten sie den Jugendlichen für ihre Zukunft eröffnet.</desc>
-  </programme>
-  <programme start="20261011205000 +0200" stop="20261011205300 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261011221000 +0200" stop="20261011223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261012180000 +0200" stop="20261012182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Wildkatzen</sub-title>
