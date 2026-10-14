@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261013200000 +0200" stop="20261013202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261013202000 +0200" stop="20261013203500 +0200" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261013203500 +0200" stop="20261013204930 +0200" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Die SportZeit berichtet diesmal unter anderem vom großen Finale der VSS Dorfläufe in Niederdorf. Die derzeit populärste Laufserie Südtirols schließt mit Hunderten von Laufsportlern eine erfolgreiche Saison ab. Dazu noch Kompaktnews und Sporttermine für die kommende Woche.</desc>
-  </programme>
-  <programme start="20261013221000 +0200" stop="20261013223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261014200000 +0200" stop="20261014202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
