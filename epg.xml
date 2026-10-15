@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261014200000 +0200" stop="20261014202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261014202000 +0200" stop="20261014204930 +0200" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Arbeiten, obwohl man längst in Rente ist? Für immer mehr Menschen ist das eine bewusste Entscheidung: Manche wollen ihr Einkommen aufbessern, andere weiterhin gebraucht werden und am Berufsleben teilhaben. 
-
-Gleichzeitig setzen Betriebe zunehmend auf die Erfahrung älterer Mitarbeiterinnen und Mitarbeiter. &quot;Pluspunkt&quot; fragt nach den Beweggründen und zeigt, was arbeitende Rentner steuerlich beachten sollten und welche Möglichkeiten es gibt, Steuern zu sparen. 
-Außerdem nimmt &quot;Pluspunkt&quot; die Preise an Südtirols Tankstellen unter die Lupe. Warum sind Benzin und Diesel so teuer und weshalb unterscheiden sich die Preise manchmal sogar von Tankstelle zu Tankstelle? Der Beitrag erklärt, wie sich der Spritpreis zusammensetzt und mit welchen einfachen Maßnahmen Autofahrerinnen und Autofahrer beim Tanken und unterwegs Geld sparen können.</desc>
-  </programme>
-  <programme start="20261014221000 +0200" stop="20261014223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261015200000 +0200" stop="20261015202000 +0200" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
