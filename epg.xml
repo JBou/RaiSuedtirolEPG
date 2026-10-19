@@ -4,28 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261018200000 +0200" stop="20261018202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261018202000 +0200" stop="20261018204930 +0200" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Rodeneck</sub-title>
-    <desc>&quot;Land und Leute&quot; ist diesmal in Rodeneck unterwegs. Im Dorfportrait zeigen wir Landwirtschaft und das Almleben. 
-
-Vorgestellt werden auch Menschen, die alte Traditionen weiterführen und zugleich neue Wege gehen, wie z.B. in der Landwirtschaft, im Weinbau. Auf Schloss Rodenegg geben Julia Gräfin Thurn und Taxis und Oswald Graf Wolkenstein Einblick in die Geschichte der Burg und in die Aufgabe, dieses historische Erbe für kommende Generationen zu bewahren. Den Abschluss bildet - passend zur Jahreszeit - der Almabtrieb, bei dem sichtbar wird, wie eng bäuerliche Arbeit, Handwerk und altbewährte Traditionen in Rodeneck miteinander verbunden sind.</desc>
-  </programme>
-  <programme start="20261018205000 +0200" stop="20261018205400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Alfred E. Mair</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261018221000 +0200" stop="20261018223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261019180000 +0200" stop="20261019182800 +0200" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Die Petersberger Nörggelen</sub-title>
