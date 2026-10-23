@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261022200000 +0200" stop="20261022202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261022202000 +0200" stop="20261022204930 +0200" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Jugendsprache</sub-title>
-    <desc>Wenn das eigene Kind plötzlich von &quot;Aura&quot; spricht und das Abendessen als &quot;Abfahrt&quot; bezeichnet, steht die häusliche Kommunikation vor einer echten Belastungsprobe. Moderation: Magdalena Oberstaller.     
-
-Sprachverfall oder kreativer Ausdruck? Die ewige Debatte um die Ausdrucksweise der Jugend erreicht durch die rasante Verbreitung digitaler Trends eine völlig neue Dynamik und Geschwindigkeit. Wir analysieren die Brücke zwischen Online-Hype und Schulhof-Alltag und zeigen, wie Popkultur den allgemeinen Sprachgebrauch nachhaltig verändert. Zu Gast ist die Leiterin der Sprachstelle im Südtiroler Kulturinstitut, Monika Obrist.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus der Doku &quot;Generation Z&quot; von Astrid Kofler und Helmut Lechthaler und unsere Kollegin Daniela Thaler nimmt uns mit auf ihrer einjährigen Reise durch Kanada.</desc>
-  </programme>
-  <programme start="20261022221000 +0200" stop="20261022223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261023175900 +0200" stop="20261023182830 +0200" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Jugendsprache</sub-title>
@@ -108,6 +90,174 @@ In Privat mit Markus Frings spricht Anna Unterberger über ihren Weg von Bozen a
     <desc/>
   </programme>
   <programme start="20261025221000 +0100" stop="20261025223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261026180000 +0100" stop="20261026182800 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Gletscher in Ulten</sub-title>
+    <desc>Karamela trifft in Ulten auf &quot;Klimaforscher-Kinder&quot;, die am Icewalk in Weißbrunn Gletscherlöcher, Rundhöcker und Blockgletscher erforschen. Ihre Untersuchungen werden allerdings von einigen Gletschergeistern gestört, die kurzerhand die Forschungsunterlagen der Kinder verschwinden lassen. Doch auch die Gletschergeister haben ihre Gründe: So wie die jungen Forscherinnen und Forscher mehr über die Gletscher erfahren möchten, wollen die Geister die Menschen besser verstehen, denn ihr eigener Lebensraum wird immer kleiner. Am Ende sind sich alle einig: Gemeinsam wollen sie besser auf die Natur aufpassen!</desc>
+  </programme>
+  <programme start="20261026182800 +0100" stop="20261026185730 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Erinnerung an den Sieg der Friesen über die Holländer, die Dialektologie-Tagung an der Uni Bozen, Sprachforscherin Barbara Henisch über ChatGPT und regionale Sprachen.   
+Am 26. September 1345 besiegten friesische Verbände in der legendären &quot;Schlacht bei Warns&quot; das Ritterheer des Grafen Wilhelm IV. von Holland und stoppten so dessen Invasion. Dieser Sieg gilt bis heute als Symbol für den Widerstand gegen den Feudalismus und die &quot;friesische Freiheit&quot; (Fryske Frijheid). Minet hat die diesjährige Gedenkfeier in Warns besucht.  
+An der Uni Bozen fand heuer die Bayerisch-Österreichische Dialektologie-Tagung mit dem Schwerpunktthema &quot;Dialekt und Mehrsprachigkeit&quot; statt. Dabei ging es vor allem um das Zusammenspiel verschiedener Sprachräume, Mehrsprachigkeitsformen und den sprachlichen Wandel. Passend dazu informiert im Minet-Gespräch die Sprachforscherin an der Eurac Barbara Heinisch, ob ChatGPT Südtirolerisch oder Österreichisch kann und wie KI mit regionalen sprachlichen Besonderheiten umgeht.  
+In der Reihe &quot;Tribal Voices&quot; erzählt die Hongana Manyawa Familie aus Indonesien über die Zerstörung des Regenwaldes von Halmahera.  
+Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20261026200000 +0100" stop="20261026202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261026202000 +0100" stop="20261026215930 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut: Wem gehört die Schwangerschaft? Abtreibung in Südtirol.</title>
+    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
+    <desc>Jetzt sprechen Frauen, die abgetrieben haben. In einer Doku der jungen Filmemacherin Veronica Neulichedl erzählen sie, warum sie sich gegen ein Kind entschieden haben, wie Schwangerschaftsabbruch in Südtirol erlebt wird, wie sie zu ihrer Entscheidung heute stehen. 
+
+In Italien ist Abtreibung seit 1978 gesetzlich geregelt. Aber akzeptiert? Gerade von rechts wird das Gesetz 194 zunehmend ausgehöhlt. Weil der Konflikt heißt: weibliche Selbstbestimmung versus Kinderwunsch von Politik und Kirche. Wir fragen: Wem gehört die Schwangerschaft - der Frau oder der Nation? Es diskutieren eine Frau aus dem Film, die Krankenpflegerin Monique Barger, der Moraltheologe Martin Lintner und Herbert Heidegger, Gynäkologe und Präsident des Landesethikkomitees. Im Interview Kristina Stoeckl, Professorin für Soziologie an der Luiss-Universität in Rom, über Frauenrechte als politisches Kampffeld. Gabriele Crepaz moderiert. Live aus dem Studio-Theater in Bozen.</desc>
+  </programme>
+  <programme start="20261026221000 +0100" stop="20261026223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261027200000 +0100" stop="20261027202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261027202000 +0100" stop="20261027203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261027203500 +0100" stop="20261027204930 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Bei der SportZeit in dieser Woche geht es vor allem um Treffsicherheit. Die besten 3D-Bogenschützen kommen aus Südtirol und müssen Tiere abschießen - aber keine lebenden. Und die Tischtennisspieler in Tramin treffen am besten immer nur die Tischkante um zu punkten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20261027221000 +0100" stop="20261027223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261028200000 +0100" stop="20261028202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261028202000 +0100" stop="20261028204930 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Zwischen Hitze, Hightech und Hoffnung: Was den Vinschger Apfelanbau heute bewegt. Beschauliches Almleben: Wie Hirtinnen-Arbeit im Rhythmus der Natur geht. 
+
+Im Vinschgau dreht sich jetzt alles um den Apfel und dessen bestmögliche Ernte, Lagerung und Vermarktung. Neue Sorten, moderne Technik und anspruchsvolle Märkte aber verändern den Apfelanbau. Welche Äpfel haben Zukunft und wie groß ist das Interesse der jungen Generation, den Anbau weiterzuführen? Land&amp;Leben trifft die Menschen hinter dem Vinschgauer Apfel und fragt, was ihnen wichtig ist und was sie sich für die Zukunft wünschen. Beschaulicher geht es bei Katharina Lunger zu. Sie ist ein Kind der Berge und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh und Kühe. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist.</desc>
+  </programme>
+  <programme start="20261028221000 +0100" stop="20261028223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261029200000 +0100" stop="20261029202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261029202000 +0100" stop="20261029204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Ressource Holz</sub-title>
+    <desc>Südtirols Wälder sind mehr als eine alpine Kulisse - sie bergen einen wichtigen Rohstoff.  
+
+Holz ist für Südtirol eine elementare Ressource - ob als nachhaltiger Baustoff für moderne Architektur oder als edles Resonanzholz im Instrumentenbau. Doch Stürme und der Vormarsch des Borkenkäfers bedrohen den Schutzwald der Region. Wie gehen Förster und Handwerker mit dem massiven Schadholz um, und wie lässt sich das Ökosystem für die Zukunft sichern? 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Dokumentarfilm &quot;Der Weg des Holzes&quot; und in der Rubrik &quot;Unser Gedächtnis&quot;, Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261029221000 +0100" stop="20261029223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261030180000 +0100" stop="20261030182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Ressource Holz</sub-title>
+    <desc>Südtirols Wälder sind mehr als eine alpine Kulisse - sie bergen einen wichtigen Rohstoff.  
+Holz ist für Südtirol eine elementare Ressource - ob als nachhaltiger Baustoff für moderne Architektur oder als edles Resonanzholz im Instrumentenbau. Doch Stürme und der Vormarsch des Borkenkäfers bedrohen den Schutzwald der Region. Wie gehen Förster und Handwerker mit dem massiven Schadholz um, und wie lässt sich das Ökosystem für die Zukunft sichern? 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Dokumentarfilm &quot;Der Weg des Holzes&quot; und in der Rubrik &quot;Unser Gedächtnis&quot;, Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261030182900 +0100" stop="20261030184330 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Bei der SportZeit in dieser Woche geht es vor allem um Treffsicherheit. Die besten 3D-Bogenschützen kommen aus Südtirol und müssen Tiere abschießen - aber keine lebenden. Und die Tischtennisspieler in Tramin treffen am besten immer nur die Tischkante um zu punkten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20261030184400 +0100" stop="20261030185110 +0100" channel="Rai Südtirol">
+    <title>Net amol gwisst</title>
+    <sub-title>Stop mit Historie</sub-title>
+    <desc>Am Radwanderweg entlang der Etsch, nicht weit weg vom Bahnhof Burgstall hat ein Geschichtsverein eine Raststation gebaut. Vor hundert Jahren brach dort bei einem Hochwasser der Bahndamm und in der Folge stürzte ein ganzer Zug in die reißenden Fluten. Der Lok-Führer und sein Heizer ertranken. Daran erinnern nun historische Fotografien an der neuen Raststation, die aus alten Gleisen gebaut wurde.</desc>
+  </programme>
+  <programme start="20261030185100 +0100" stop="20261030185908 +0100" channel="Rai Südtirol">
+    <title>Klick Mini</title>
+    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261030200000 +0100" stop="20261030202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261030202000 +0100" stop="20261030215930 +0100" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title/>
+    <desc>Sportliche Höchstleistungen, persönliche Geschichten und jede Menge Musik: In der neuen Ausgabe von &quot;Toms Kellershow&quot; begrüßt Moderator Thomas Vonmetz im Sudwerkkeller des Batzenhäusls in Bozen außergewöhnliche Gäste.  
+
+Andrea Vötter und Marion Oberhofer haben im Februar 2026 bei den Olympischen Winterspielen in Cortina Geschichte geschrieben: Als erstes Frauendoppel überhaupt gewannen sie olympisches Gold im Rennrodeln. In der Kellershow erzählen die beiden Südtirolerinnen von ihrem gemeinsamen Erfolgsweg, dem gegenseitigen Vertrauen und den Herausforderungen abseits der Eisbahn. Ihre Goldmedaillen haben sie natürlich mitgebracht. 
+Johann &quot;Hans&quot; Finatzer ist Musiker und Instrumentalpädagoge und beschäftigt sich seit vielen Jahren mit der musikalischen Bildung in Südtirol. Anlässlich des bevorstehenden 50-jährigen Jubiläums der Südtiroler Musikschulen im Jahr 2027 arbeitet er an einem Buch über deren Geschichte und Entwicklung. 
+David Kammerer ist erfolgreicher Parakletterer und Achtsamkeitstrainer. Der gebürtige Pusterer lebt seit seiner Geburt mit einer Fehlbildung des rechten Oberschenkels. Was ihn antreibt, wie er sportliche und persönliche Herausforderungen meistert und warum sein großes Ziel die Paralympischen Spiele 2028 in Los Angeles sind, darüber spricht er mit Thomas Vonmetz. 
+Für die musikalische Unterhaltung sorgen die Pamstiddn Kings mit ihrer energiegeladenen Blasmusik sowie der junge Singer-Songwriter bbenob (Benjamin Oberhofer) aus Meran. Gemeinsam mit der Kellerkapelle präsentiert er zwei seiner Songs. Und natürlich darf auch der traditionelle Kellershow-Rumpler nicht fehlen, bei dem die Gäste wieder ihr Geschick unter Beweis stellen müssen.</desc>
+  </programme>
+  <programme start="20261030221000 +0100" stop="20261030223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261031180000 +0100" stop="20261031182930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Anna Unterberger</sub-title>
+    <desc>Die Boznerin spielt in vielen deutschsprachigen Fernsehproduktionen mit - außerdem bei &quot;Joe der Film 2&quot;. Im Gespräch mit Moderator Markus Frings gibt sie Einblick in ihre Schauspielkarriere. Schon als Kind kam Anna Unterberger mit der Welt des Theaters in Berührung. Ihre Mutter arbeitete mit Menschen mit Behinderung und setzte Theater als pädagogisches Mittel ein - Anna war bei den Proben häufig mit dabei. Nach der Matura stand für die gebürtige Boznerin schließlich fest: Sie wollte Schauspielerin werden. 
+Heute ist Anna Unterberger regelmäßig in deutschen und österreichischen Fernsehproduktionen zu sehen. Sie spielte unter anderem in &quot;Tatort&quot;, &quot;Polizeiruf 110&quot;, &quot;SOKO Wien&quot; und &quot;Sarah Kohr&quot; und war über viele Jahre als Anni Sulmtaler in der erfolgreichen österreichischen &quot;Steirerkrimi&quot;-Reihe zu sehen. Ihren Lebensmittelpunkt hat die Südtirolerin inzwischen in Berlin. 
+In Privat mit Markus Frings spricht Anna Unterberger über ihren Weg von Bozen auf die Schauspielbühnen und vor die Fernsehkameras, über prägende Stationen ihrer Karriere und ihr Leben als Schauspielerin. Außerdem erzählt sie von den Dreharbeiten zu &quot;Joe der Film 2&quot;, für die sie wieder einmal nach Südtirol zurückgekehrt ist.</desc>
+  </programme>
+  <programme start="20261031182900 +0100" stop="20261031185252 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Gesunder Rücken - stark fürs Leben</sub-title>
+    <desc>Rückenschmerzen gehören zu den häufigsten Gesundheitsproblemen und können unseren Alltag stark beeinträchtigen. Doch was können wir tun, damit unser Rücken gesund bleibt? In der Reportage Gesundheit zeigt Physiotherapeut und Osteopath Matthias Mair wie Bewegung, Prävention und ergonomisches Arbeiten helfen können. Außerdem begleiten wir Orthopädin und Wirbelsäulenchirurgin Ines Unterfrauner bei ihrer Arbeit und treffen Patienten mit unterschiedlichen Rückenbeschwerden. Außerdem fragen wir nach, wie die Menschen ihre Rückengesundheit im Alltag fördern. Denn mit gezielter Bewegung und bewussten Gewohnheiten können wir selbst viel für unseren Rücken tun.</desc>
+  </programme>
+  <programme start="20261031185300 +0100" stop="20261031185836 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Andreas Zingerle</sub-title>
+    <desc>Der Künstler Andreas Zingerle aus Percha. Als Bildhauer arbeitet er mit Beton. Als Maler nutzt er die Porträtmalerei in ihrem ursprünglichen Sinn.</desc>
+  </programme>
+  <programme start="20261031200000 +0100" stop="20261031202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261031202000 +0100" stop="20261031202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Timm Harder</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261031202400 +0100" stop="20261031205330 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Seit 15 Jahren bringt das Projekt Regiokorn wieder mehr heimisches Getreide auf Südtirols Felder und stärkt damit regionale Kreisläufe. Der Beitrag zeigt, wie Bauern, Bäckereien, Gastronomie und Hotellerie davon profitieren und warum Herkunft und Qualität für Gäste wichtig sind. 
+
+Der Gadertaler Fotograf Gustav Willeit wurde zum HGV-Künstler des Jahres 2026 ausgezeichnet. Wir haben ihn in seiner Heimat besucht und Einblick in seine Arbeit und seinen besonderen Blick auf Landschaft, Veränderung und Heimat. 
+Welche Restaurants und Gasthäuser gehören zu den beliebtesten in Südtirol? Bei &quot;First20 - die beliebtesten Restaurants und Gasthäuser Südtirols 2026&quot; entscheiden Einheimische und Gäste selbst, welche Betriebe sie besonders schätzen. Im Gustelier in Bozen wurden nun die diesjährigen Gewinner ausgezeichnet. Wir waren bei der Prämierung dabei und haben anschließend zwei der ausgezeichneten Betriebe besucht.</desc>
+  </programme>
+  <programme start="20261031221000 +0100" stop="20261031223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
