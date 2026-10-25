@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261024175900 +0200" stop="20261024185830 +0200" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>&quot;Kompass&quot; im Oktober berichtet über die neue Saison der Stiftung Haydn, stellt den neuen Kulturraum lind.art in Truden vor, besucht das Theater in der Altstadt in Meran, zeigt ein Portrait der Künstlerin AliPaloma und entdeckt verborgene Schätze in Südtirols Museen.  
-Zu Gast sind Anastasia Kostner, Choreografin und neue Leiterin von AlpsMove und der künstlerische Leiter der Stiftung Haydn, Andrè Comploj.  
-Unter dem Leitthema &quot;Macht, Liebe und Frieden&quot; startet die Stiftung Haydn von Bozen und Trient in die neue Konzertsaison 2026/27. Das vielseitige Programm verbindet internationale Solistinnen und Meisterwerke der Klassik mit regionalem Nachwuchs und zeitgenössischen Erstaufführungen. Ein besonderer Schwerpunkt liegt dabei auf der Sichtbarkeit von Frauen im Musikschaffen sowie auf der engen musikalischen Vernetzung in der Region.  
-AliPaloma gilt als Shooting-Star in Südtirols Kunstszene. Ihre Klangskulptur mit Vogelstimmen war eines der Gewinnerprojekte bei den heurigen Bolzano Art Weeks. Die studierte Architektin lässt sich nicht eingrenzen, setzt sich mit Tabuthemen und Rollenbildern auseinander. Für die Gruppe Dekadenz entwarf sie vor kurzem ihr drittes Bühnenbild. 
-Mit der Eröffnung des neuen Kunstraums lind.art im historischen Wieserhof schafft Truden einen Ort der Begegnung für Kunst, Kultur und Gemeinschaft. Der Name verweist dabei symbolisch auf die Trudner Dorflinde als Sinnbild für tief verwurzelte Tradition und lebendigen Austausch. Die Auftaktausstellung widmet sich vier herausragenden Künstlern der Region und markiert den Beginn eines vielseitigen Kulturprogramms.  
-Das Theater in der Altstadt eröffnet die Theatersaison mit einer schwarzen Komödie über Königin Marie Antoinette und ihren Mann Ludwig XVI., die seit auf die angekündigte Hinrichtung warten. Doch damals wie heute die gleichen Probleme: Bürokratie, Intrigen und Machtkämpfe auf allen Ebenen. Marie-Antoinette oder: Kuchen für alle! ist eine bitterböse, feinhumorige Farce, die soziale Ungleichheit und politische Machtkämpfe thematisiert und Altbekanntes noch neu beleuchtet.  
-Hinter den Kulissen der Südtiroler Museen und Sammlungen entfaltet sich ein faszinierendes, sonst oft verborgenes Eigenleben. Abseits der großen Publikumsrenner bewahren passionierte Sammler und Fachleute unzählige stille Schätze, vergessene Alltagsobjekte und einzigartige Dokumente der Lokalgeschichte. In einer Reihe in Zusammenarbeit mit dem Amt für Museen und museale Forschung, richten wir das Scheinwerferlicht auf das verborgene Wirken, das Restaurieren und das leise Erzählen verstaubter Geschichten. Es moderiert Alexander Lechner.</desc>
-  </programme>
-  <programme start="20261024200000 +0200" stop="20261024202000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261024202000 +0200" stop="20261024202400 +0200" channel="Rai Südtirol">
-    <title>Nachgedacht mit Abt Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261024202400 +0200" stop="20261024213000 +0200" channel="Rai Südtirol">
-    <title>Der Gottfried, der Solderer</title>
-    <sub-title/>
-    <desc>Zum 5. Todestag von Gottfried Solderer zeichnet der Dokumentarfilm von Evi Oberkofler und Edith Eisenstecken das Leben einer Persönlichkeit nach, die sich in Südtirols kulturellem Diskurs unermüdlich engagiert und tief eingeschrieben hat: als Journalist, Verlagsgründer, Autor, Kulturvisionär, Familienmensch und Naturfreund. 
-
-Von seinen bescheidenen Anfängen als Bergbauernsohn bis zur Chefredaktion der &quot;FF&quot; - der ersten Südtiroler Fernsehprogrammzeitschrift und Illustrierten – folgt der Film seinem Weg. Solderes Lebensziel war eine vielfältige mediale Landschaft. Er wollte die Geschichte der Region bewusst machen, die regionale Literatur fördern und den kulturellen Standort Südtirol nachhaltig stärken. Der Film zeigt, wie Solderer beharrlich neue Medienformen prägte: Als &quot;Erfinder&quot; der FF, als Verleger der &quot;Edition Raetia&quot;, als Gründungsvater der Produktionsfirma &quot;Albolina Film&quot; und als engagierter Chronist der Südtiroler Kultur. Anhand von Interviews mit engsten Freunden, künstlerischen MitstreiterInnen, Arbeitskollegen und Familienangehörigen - verdichtet mit fotografischem Archivmaterial - entsteht die Geschichte eines reichen Lebens voll hart erkämpfter Erfolge, persönlicher Rückschläge und großer Menschlichkeit. Ein Südtiroler Porträt und eine Hommage an Gottfried Solderer.</desc>
-  </programme>
-  <programme start="20261024221000 +0200" stop="20261024223000 +0200" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261025200000 +0100" stop="20261025202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
