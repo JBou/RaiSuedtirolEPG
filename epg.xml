@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261025200000 +0100" stop="20261025202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261025202000 +0100" stop="20261025204930 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Anna Unterberger</sub-title>
-    <desc>Die Boznerin spielt in vielen deutschsprachigen Fernsehproduktionen mit - außerdem bei &quot;Joe der Film 2&quot;. Im Gespräch mit Moderator Markus Frings gibt sie Einblick in ihre Schauspielkarriere. 
-Schon als Kind kam Anna Unterberger mit der Welt des Theaters in Berührung. Ihre Mutter arbeitete mit Menschen mit Behinderung und setzte Theater als pädagogisches Mittel ein - Anna war bei den Proben häufig mit dabei. Nach der Matura stand für die gebürtige Boznerin schließlich fest: Sie wollte Schauspielerin werden. 
-Heute ist Anna Unterberger regelmäßig in deutschen und österreichischen Fernsehproduktionen zu sehen. Sie spielte unter anderem in &quot;Tatort&quot;, &quot;Polizeiruf 110&quot;, &quot;SOKO Wien&quot; und &quot;Sarah Kohr&quot; und war über viele Jahre als Anni Sulmtaler in der erfolgreichen österreichischen &quot;Steirerkrimi&quot;-Reihe zu sehen. Ihren Lebensmittelpunkt hat die Südtirolerin inzwischen in Berlin. 
-In Privat mit Markus Frings spricht Anna Unterberger über ihren Weg von Bozen auf die Schauspielbühnen und vor die Fernsehkameras, über prägende Stationen ihrer Karriere und ihr Leben als Schauspielerin. Außerdem erzählt sie von den Dreharbeiten zu &quot;Joe der Film 2&quot;, für die sie wieder einmal nach Südtirol zurückgekehrt ist.</desc>
-  </programme>
-  <programme start="20261025205000 +0100" stop="20261025205400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Abt Cyrill Greiter</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261025221000 +0100" stop="20261025223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261026180000 +0100" stop="20261026182800 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Gletscher in Ulten</sub-title>
