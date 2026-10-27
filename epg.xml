@@ -4,37 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261026180000 +0100" stop="20261026182800 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title>Gletscher in Ulten</sub-title>
-    <desc>Karamela trifft in Ulten auf &quot;Klimaforscher-Kinder&quot;, die am Icewalk in Weißbrunn Gletscherlöcher, Rundhöcker und Blockgletscher erforschen. Ihre Untersuchungen werden allerdings von einigen Gletschergeistern gestört, die kurzerhand die Forschungsunterlagen der Kinder verschwinden lassen. Doch auch die Gletschergeister haben ihre Gründe: So wie die jungen Forscherinnen und Forscher mehr über die Gletscher erfahren möchten, wollen die Geister die Menschen besser verstehen, denn ihr eigener Lebensraum wird immer kleiner. Am Ende sind sich alle einig: Gemeinsam wollen sie besser auf die Natur aufpassen!</desc>
-  </programme>
-  <programme start="20261026182800 +0100" stop="20261026185730 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Erinnerung an den Sieg der Friesen über die Holländer, die Dialektologie-Tagung an der Uni Bozen, Sprachforscherin Barbara Henisch über ChatGPT und regionale Sprachen.   
-Am 26. September 1345 besiegten friesische Verbände in der legendären &quot;Schlacht bei Warns&quot; das Ritterheer des Grafen Wilhelm IV. von Holland und stoppten so dessen Invasion. Dieser Sieg gilt bis heute als Symbol für den Widerstand gegen den Feudalismus und die &quot;friesische Freiheit&quot; (Fryske Frijheid). Minet hat die diesjährige Gedenkfeier in Warns besucht.  
-An der Uni Bozen fand heuer die Bayerisch-Österreichische Dialektologie-Tagung mit dem Schwerpunktthema &quot;Dialekt und Mehrsprachigkeit&quot; statt. Dabei ging es vor allem um das Zusammenspiel verschiedener Sprachräume, Mehrsprachigkeitsformen und den sprachlichen Wandel. Passend dazu informiert im Minet-Gespräch die Sprachforscherin an der Eurac Barbara Heinisch, ob ChatGPT Südtirolerisch oder Österreichisch kann und wie KI mit regionalen sprachlichen Besonderheiten umgeht.  
-In der Reihe &quot;Tribal Voices&quot; erzählt die Hongana Manyawa Familie aus Indonesien über die Zerstörung des Regenwaldes von Halmahera.  
-Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20261026200000 +0100" stop="20261026202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261026202000 +0100" stop="20261026215930 +0100" channel="Rai Südtirol">
-    <title>Nachgeschaut: Wem gehört die Schwangerschaft? Abtreibung in Südtirol.</title>
-    <sub-title>Der Dokuabend mit Film und Diskussion</sub-title>
-    <desc>Jetzt sprechen Frauen, die abgetrieben haben. In einer Doku der jungen Filmemacherin Veronica Neulichedl erzählen sie, warum sie sich gegen ein Kind entschieden haben, wie Schwangerschaftsabbruch in Südtirol erlebt wird, wie sie zu ihrer Entscheidung heute stehen. 
-
-In Italien ist Abtreibung seit 1978 gesetzlich geregelt. Aber akzeptiert? Gerade von rechts wird das Gesetz 194 zunehmend ausgehöhlt. Weil der Konflikt heißt: weibliche Selbstbestimmung versus Kinderwunsch von Politik und Kirche. Wir fragen: Wem gehört die Schwangerschaft - der Frau oder der Nation? Es diskutieren eine Frau aus dem Film, die Krankenpflegerin Monique Barger, der Moraltheologe Martin Lintner und Herbert Heidegger, Gynäkologe und Präsident des Landesethikkomitees. Im Interview Kristina Stoeckl, Professorin für Soziologie an der Luiss-Universität in Rom, über Frauenrechte als politisches Kampffeld. Gabriele Crepaz moderiert. Live aus dem Studio-Theater in Bozen.</desc>
-  </programme>
-  <programme start="20261026221000 +0100" stop="20261026223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261027200000 +0100" stop="20261027202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
