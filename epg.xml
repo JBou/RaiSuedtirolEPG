@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261027200000 +0100" stop="20261027202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261027202000 +0100" stop="20261027203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261027203500 +0100" stop="20261027204930 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Bei der SportZeit in dieser Woche geht es vor allem um Treffsicherheit. Die besten 3D-Bogenschützen kommen aus Südtirol und müssen Tiere abschießen - aber keine lebenden. Und die Tischtennisspieler in Tramin treffen am besten immer nur die Tischkante um zu punkten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20261027221000 +0100" stop="20261027223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261028200000 +0100" stop="20261028202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
