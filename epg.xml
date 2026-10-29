@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261028200000 +0100" stop="20261028202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261028202000 +0100" stop="20261028204930 +0100" channel="Rai Südtirol">
-    <title>Land&amp;Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Zwischen Hitze, Hightech und Hoffnung: Was den Vinschger Apfelanbau heute bewegt. Beschauliches Almleben: Wie Hirtinnen-Arbeit im Rhythmus der Natur geht. 
-
-Im Vinschgau dreht sich jetzt alles um den Apfel und dessen bestmögliche Ernte, Lagerung und Vermarktung. Neue Sorten, moderne Technik und anspruchsvolle Märkte aber verändern den Apfelanbau. Welche Äpfel haben Zukunft und wie groß ist das Interesse der jungen Generation, den Anbau weiterzuführen? Land&amp;Leben trifft die Menschen hinter dem Vinschgauer Apfel und fragt, was ihnen wichtig ist und was sie sich für die Zukunft wünschen. Beschaulicher geht es bei Katharina Lunger zu. Sie ist ein Kind der Berge und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh und Kühe. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist.</desc>
-  </programme>
-  <programme start="20261028221000 +0100" stop="20261028223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261029200000 +0100" stop="20261029202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
