@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261029200000 +0100" stop="20261029202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261029202000 +0100" stop="20261029204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ressource Holz</sub-title>
-    <desc>Südtirols Wälder sind mehr als eine alpine Kulisse - sie bergen einen wichtigen Rohstoff.  
-
-Holz ist für Südtirol eine elementare Ressource - ob als nachhaltiger Baustoff für moderne Architektur oder als edles Resonanzholz im Instrumentenbau. Doch Stürme und der Vormarsch des Borkenkäfers bedrohen den Schutzwald der Region. Wie gehen Förster und Handwerker mit dem massiven Schadholz um, und wie lässt sich das Ökosystem für die Zukunft sichern? 
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Dokumentarfilm &quot;Der Weg des Holzes&quot; und in der Rubrik &quot;Unser Gedächtnis&quot;, Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261029221000 +0100" stop="20261029223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261030180000 +0100" stop="20261030182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Ressource Holz</sub-title>
