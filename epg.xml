@@ -4,48 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261030180000 +0100" stop="20261030182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Ressource Holz</sub-title>
-    <desc>Südtirols Wälder sind mehr als eine alpine Kulisse - sie bergen einen wichtigen Rohstoff.  
-Holz ist für Südtirol eine elementare Ressource - ob als nachhaltiger Baustoff für moderne Architektur oder als edles Resonanzholz im Instrumentenbau. Doch Stürme und der Vormarsch des Borkenkäfers bedrohen den Schutzwald der Region. Wie gehen Förster und Handwerker mit dem massiven Schadholz um, und wie lässt sich das Ökosystem für die Zukunft sichern? 
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Dokumentarfilm &quot;Der Weg des Holzes&quot; und in der Rubrik &quot;Unser Gedächtnis&quot;, Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261030182900 +0100" stop="20261030184330 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Bei der SportZeit in dieser Woche geht es vor allem um Treffsicherheit. Die besten 3D-Bogenschützen kommen aus Südtirol und müssen Tiere abschießen - aber keine lebenden. Und die Tischtennisspieler in Tramin treffen am besten immer nur die Tischkante um zu punkten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20261030184400 +0100" stop="20261030185110 +0100" channel="Rai Südtirol">
-    <title>Net amol gwisst</title>
-    <sub-title>Stop mit Historie</sub-title>
-    <desc>Am Radwanderweg entlang der Etsch, nicht weit weg vom Bahnhof Burgstall hat ein Geschichtsverein eine Raststation gebaut. Vor hundert Jahren brach dort bei einem Hochwasser der Bahndamm und in der Folge stürzte ein ganzer Zug in die reißenden Fluten. Der Lok-Führer und sein Heizer ertranken. Daran erinnern nun historische Fotografien an der neuen Raststation, die aus alten Gleisen gebaut wurde.</desc>
-  </programme>
-  <programme start="20261030185100 +0100" stop="20261030185908 +0100" channel="Rai Südtirol">
-    <title>Klick Mini</title>
-    <sub-title>Unterwegs mit den jungen Naturpark-Rangern</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261030200000 +0100" stop="20261030202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261030202000 +0100" stop="20261030215930 +0100" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title/>
-    <desc>Sportliche Höchstleistungen, persönliche Geschichten und jede Menge Musik: In der neuen Ausgabe von &quot;Toms Kellershow&quot; begrüßt Moderator Thomas Vonmetz im Sudwerkkeller des Batzenhäusls in Bozen außergewöhnliche Gäste.  
-
-Andrea Vötter und Marion Oberhofer haben im Februar 2026 bei den Olympischen Winterspielen in Cortina Geschichte geschrieben: Als erstes Frauendoppel überhaupt gewannen sie olympisches Gold im Rennrodeln. In der Kellershow erzählen die beiden Südtirolerinnen von ihrem gemeinsamen Erfolgsweg, dem gegenseitigen Vertrauen und den Herausforderungen abseits der Eisbahn. Ihre Goldmedaillen haben sie natürlich mitgebracht. 
-Johann &quot;Hans&quot; Finatzer ist Musiker und Instrumentalpädagoge und beschäftigt sich seit vielen Jahren mit der musikalischen Bildung in Südtirol. Anlässlich des bevorstehenden 50-jährigen Jubiläums der Südtiroler Musikschulen im Jahr 2027 arbeitet er an einem Buch über deren Geschichte und Entwicklung. 
-David Kammerer ist erfolgreicher Parakletterer und Achtsamkeitstrainer. Der gebürtige Pusterer lebt seit seiner Geburt mit einer Fehlbildung des rechten Oberschenkels. Was ihn antreibt, wie er sportliche und persönliche Herausforderungen meistert und warum sein großes Ziel die Paralympischen Spiele 2028 in Los Angeles sind, darüber spricht er mit Thomas Vonmetz. 
-Für die musikalische Unterhaltung sorgen die Pamstiddn Kings mit ihrer energiegeladenen Blasmusik sowie der junge Singer-Songwriter bbenob (Benjamin Oberhofer) aus Meran. Gemeinsam mit der Kellerkapelle präsentiert er zwei seiner Songs. Und natürlich darf auch der traditionelle Kellershow-Rumpler nicht fehlen, bei dem die Gäste wieder ihr Geschick unter Beweis stellen müssen.</desc>
-  </programme>
-  <programme start="20261030221000 +0100" stop="20261030223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261031180000 +0100" stop="20261031182930 +0100" channel="Rai Südtirol">
     <title>Privat</title>
     <sub-title>Anna Unterberger</sub-title>
@@ -96,7 +54,7 @@ Welche Restaurants und Gasthäuser gehören zu den beliebtesten in Südtirol? Be
     <sub-title/>
     <desc>Mit Jagdaufsehern zur Wildbeobachtung in die Texelgruppe und neue Entwicklungen im Genre Bergfilm - das sind die beiden Thermen in dieser Ausgabe der Sendereihe Bergwelt.  
 
-Die Hirschbrunft in den steilen und unzugänglichen Hängen unterhalb der Vermoispitze und die Beobachtung Gams, Bartgeier und Steinwild im Pfossental sind im Herbst Alltag für die Vinschger Jagdaufseher Paul Gassebner und Josef Wieser. Auf ihren Pirschgängen geben sie Einblick in ihren Alltag und berichten vom einem komplexen ökologischen Gleichgewicht im Revier. In einem weiteren Schwerpunkt geht es um neue Entwicklungen im Bergfilm: Neben extremen Leistungen rückt mehr und mehr der Bergsteiger als Mensch in den Fokus - mit seinen Ängsten, Zweifeln und dem Ringen zwischen Verantwortung und Selbstverwirklichung.</desc>
+Die Hirschbrunft in den steilen und unzugänglichen Hängen unterhalb der Vermoispitze und die Beobachtung Gams, Bartgeier und Steinwild im Pfossental sind im Herbst Alltag für die Vinschger Jagdaufseher Paul Gassebner und Kaspar Götsch. Auf ihren Pirschgängen geben sie Einblick in ihren Alltag und berichten vom einem komplexen ökologischen Gleichgewicht im Revier. In einem weiteren Schwerpunkt geht es um neue Entwicklungen im Bergfilm: Neben extremen Leistungen rückt mehr und mehr der Bergsteiger als Mensch in den Fokus - mit seinen Ängsten, Zweifeln und dem Ringen zwischen Verantwortung und Selbstverwirklichung.</desc>
   </programme>
   <programme start="20261101205000 +0100" stop="20261101205400 +0100" channel="Rai Südtirol">
     <title>Nachgedacht mit Timm Harder</title>
@@ -104,6 +62,202 @@ Die Hirschbrunft in den steilen und unzugänglichen Hängen unterhalb der Vermoi
     <desc/>
   </programme>
   <programme start="20261101221000 +0100" stop="20261101223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261102175900 +0100" stop="20261102182700 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Von Kurzohrmäusen und feinster Schokolade</sub-title>
+    <desc>Pfote-Moderator Stefan dem vielleicht seltensten Säugetier der Welt: der Bayerischen Kurzohrmaus. Sie galt als ausgestorben, bis 2021 durch Zufall drei Tiere entdeckt wurden - die letzten ihrer Art. Im Alpenzoo Innsbruck wird nun versucht, die winzigen Mäuse zu vermehren. Bei seinem Besuch kann Stefan die kleinen Tiere allerdings nur mit Mühe in ihren Verstecken entdecken. Anschließend besucht er Fledermäuse, die in der Findlingsstation des Alpenzoos aufgepäppelt und später wieder in die Freiheit entlassen werden.  
+Die Kinderreporter Noe und Thomas kosten sich in der Chocolaterie Karuna im wahrsten Sinne des Wortes durch die Herstellung von Schokolade. Doch bis aus der Kakaobohne eine feine, süße Nascherei wird, gibt es für die Beiden einige &quot;bittere&quot; Überraschungen. Doch als die Kinderreporter ihre eigene rosa Himbeertafel gießen, verzieren und natürlich auch verkosten dürfen, sind sie happy! Denn Schokolade macht glücklich - und Schokolade feinster Qualität noch viel glücklicher.</desc>
+  </programme>
+  <programme start="20261102182700 +0100" stop="20261102185840 +0100" channel="Rai Südtirol">
+    <title>Land&amp;Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Zwischen Hitze, Hightech und Hoffnung: Was den Vinschger Apfelanbau heute bewegt. Beschauliches Almleben: Wie Hirtinnen-Arbeit im Rhythmus der Natur geht. Im Vinschgau dreht sich jetzt alles um den Apfel und dessen bestmögliche Ernte, Lagerung und Vermarktung. Neue Sorten, moderne Technik und anspruchsvolle Märkte aber verändern den Apfelanbau. Welche Äpfel haben Zukunft und wie groß ist das Interesse der jungen Generation, den Anbau weiterzuführen? Land&amp;Leben trifft die Menschen hinter dem Vinschgauer Apfel und fragt, was ihnen wichtig ist und was sie sich für die Zukunft wünschen. Beschaulicher geht es bei Katharina Lunger zu. Sie ist ein Kind der Berge und diese prägende Erfahrung lebt sie seit Jahren als Hirtin auf einer abgelegenen Alm in Buchenstein weiter. Dort, fernab der Zivilisation, kümmert sich die junge Frau mit großer Hingabe um Jungvieh und Kühe. So führt sie eine traditionsreiche Almwirtschaft fort, die vom Rhythmus der Natur geprägt ist.</desc>
+  </programme>
+  <programme start="20261102200000 +0100" stop="20261102202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261102202000 +0100" stop="20261102204753 +0100" channel="Rai Südtirol">
+    <title>Karl Erckert</title>
+    <sub-title>Der erste Landeshauptmann Südtirols</sub-title>
+    <desc>Wer war der Mann, der in einer der schwierigsten Phasen der Südtiroler Geschichte politische Verantwortung übernahm? Eine Dokumentation von Audrey Schwarz. 
+
+Die Dokumentation holt Karl Erckert aus dem Schatten der Vergangenheit. Sie erzählt die bewegte Lebensgeschichte des Meraner Rechtsanwalts, die eng mit den dramatischen Umbrüchen des 20. Jahrhunderts verbunden ist: vom Ersten Weltkrieg über Faschismus und Nationalsozialismus bis zum politischen Neubeginn nach dem Zweiten Weltkrieg. 1948 wird Erckert zum ersten Landeshauptmann Südtirols gewählt. Doch wer war der Mensch hinter dem Politiker? Was hat ihn geprägt, was hat ihn angetrieben? Historiker:innen sowie Erckerts Enkel Martin geben persönliche und historische Einblicke und zeichnen das Porträt eines Mannes, der Südtirols Geschichte nicht nur miterlebte, sondern entscheidend mitgestaltete.</desc>
+  </programme>
+  <programme start="20261102204900 +0100" stop="20261102212900 +0100" channel="Rai Südtirol">
+    <title>Schaugwo af Luchta</title>
+    <sub-title>Luttach im Wandel der Zeit</sub-title>
+    <desc>Luchta - so nennen die Bewohner ihr Dorf - gilt als typischer Südtiroler Ort, der in den vergangenen Jahrzehnten eine markante Entwicklung durchlaufen hat, aber dennoch viele seiner Wurzeln bewahrt hat. Zwölf &quot;Luchticha&quot; kommen zu Wort und geben Einblick in ihren vielfältigen Alltag: Es geht um Kirche und Glaube im Wandel, Tourismusentwicklung, Nutzung der Wasserkraft. Wir lernen auch alte Handwerksberufe wie Schuhmacher, Schnitzer und Tierpräparator kennen, die heute wieder mehr geschätzt werden. Ein Film von Hans Rieder und Manfred Feichter.</desc>
+  </programme>
+  <programme start="20261102212900 +0100" stop="20261102215920 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Michael Pichler</sub-title>
+    <desc>Vom Kapellmeister in Lüsen auf die internationalen Opernbühnen: Der Südtiroler Dirigent Michael Pichler ist zu Gast bei &quot;privat mit Markus Frings&quot;. Michael Pichler wurde in Brixen geboren und wuchs in Lüsen auf. Schon früh entdeckte er seine Leidenschaft für die Musik und insbesondere für das Dirigieren. Bereits mit 18 Jahren übernahm er als Kapellmeister die musikalische Leitung der Musikkapelle Lüsen. Von Südtirol aus führte ihn sein weiterer Weg schließlich auf internationale Bühnen und in renommierte Opernhäuser. Heute gilt Michael Pichler als einer der erfolgreichsten Dirigenten Südtirols. Er ist Mitgründer und künstlerischer Leiter der Südtirol Filarmonica.</desc>
+  </programme>
+  <programme start="20261102221000 +0100" stop="20261102223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261103200000 +0100" stop="20261103202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261103202000 +0100" stop="20261103203411 +0100" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Piz Ciavazes</sub-title>
+    <desc>Wanderleiterin Jasmin Widmann bezwingt die steile Südwand des Piz Ciavazes zusammen mit Bergführer Manni Stuffer und erzählt dabei über ihren Beruf inmitten der Natur. 
+
+Der Piz Ciavazes am Sellajoch gehört zu den beliebtesten Kletterbergen in den westlichen Dolomiten. Zusammen klettern sie entlang der sogenannten Kleinen Micheluzzi, einer alpinen Route im fünften Schwierigkeitsgrad.</desc>
+  </programme>
+  <programme start="20261103203400 +0100" stop="20261103204830 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>In dieser Ausgabe taucht die SportZeit in das derzeit höchste Fussballderby in Südtirol ein. und zwar im Serie-D-Schlager Virtus Bozen gegen Obermais. Anschließend gehen wir noch mit Südtirols Paragleitern in die Luft.  
+Kompakte Sportnews und die wichtigsten Termine der nächsten Woche runden das Programm ab.</desc>
+  </programme>
+  <programme start="20261103221000 +0100" stop="20261103223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261104200000 +0100" stop="20261104202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261104202000 +0100" stop="20261104204930 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Kimchi auf Südtirolerisch, die Softwareentwickler Reguest und Zeppelin an der Börse, die Schließung von Traditionsbetrieben und die Gründe dafür. Moderation: Christian Pfeifer 
+
+Beim Begriff Innovation muss es nicht immer um Digitales oder um Handy-Apps gehen. Innovativ ist es auch, wenn Traditionen oder fremde Kulturtechniken in unsere traditionelle Lebensmittelproduktion übernommen werden. Ein Beispiel dafür ist das ursprünglich aus Korea stammende Kimchi - eine sehr würzige Sauerkrautvariante. Eine Unternehmenskooperation zwischen der Rizzi Group und Lechner Kraut im Vinschgau hat die biologisch-alpenländischen Versionen von Kimchi auf den Markt gebracht. Eine koreanische Frau zeigt uns, wie originales Kimchi im Haushalt gemacht wird. 
+Die Südtiroler Softwareentwickler Reguest und Zeppelin mit Sitz in Meran gehören zu den wenigen Südtiroler Unternehmen, die den Gang an die Börse gewagt haben. Die Geschäftsführer erzählen über ihre Beweggründe und Erfahrungen damit. 
+In Südtirol gehört es mittlerweile auch zum Alltag, dass Traditionsbetriebe und kleine Handwerksunternehmen schließen. Die Ursachen für solche Entwicklungen sind vielfältig.  Der Juwelier Aster in der Sterzinger Altstadt berichtet über seine Entscheidungen und seine Sicht der Lage.</desc>
+  </programme>
+  <programme start="20261104221000 +0100" stop="20261104223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261105200000 +0100" stop="20261105202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261105202000 +0100" stop="20261105204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mentale Gesundheit</sub-title>
+    <desc>&quot;Mir geht's gut&quot; ist schnell gesagt - doch wie steht es wirklich um unsere mentale Gesundheit? Antworten darauf gibt Neurowissenschaftler Andreas Franzelin. Es moderiert Magdalena Oberstaller. Ständige Erreichbarkeit, Dauerstress und der Druck zu funktionieren: Die mentale Belastung in unserer Gesellschaft ist hoch. Wie finden Betroffene den Weg aus der Stille? Welche Alarmsignale dürfen wir nicht übersehen? Wir haben nachgefragt, wo die Ursachen für Krisen liegen - und welche Strategien zur mentalen Widerstandskraft helfen. Zu Gast ist der Neurowissenschaftler Andreas Franzelin.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Herausforderung Seelsorgeeinheit&quot; und zeigen in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
+  </programme>
+  <programme start="20261105221000 +0100" stop="20261105223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261106180000 +0100" stop="20261106182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Mentale Gesundheit</sub-title>
+    <desc>&quot;Mir geht's gut&quot; ist schnell gesagt - doch wie steht es wirklich um unsere mentale Gesundheit? Antworten darauf gibt Neurowissenschaftler Andreas Franzelin. Es moderiert Magdalena Oberstaller.      Ständige Erreichbarkeit, Dauerstress und der Druck zu funktionieren: Die mentale Belastung in unserer Gesellschaft ist hoch. Wie finden Betroffene den Weg aus der Stille? Welche Alarmsignale dürfen wir nicht übersehen? Wir haben nachgefragt, wo die Ursachen für Krisen liegen - und welche Strategien zur mentalen Widerstandskraft helfen. Zu Gast ist der Neurowissenschaftler Andreas Franzelin.  
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Herausforderung Seelsorgeeinheit&quot; und zeigen in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
+  </programme>
+  <programme start="20261106183000 +0100" stop="20261106184430 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>In dieser Ausgabe taucht die SportZeit in das derzeit höchste Fussballderby in Südtirol ein. und zwar im Serie-D-Schlager Virtus Bozen gegen Obermais. Anschließend gehen wir noch mit Südtirols Paragleitern in die Luft.  
+Kompakte Sportnews und die wichtigsten Termine der nächsten Woche runden das Programm ab.</desc>
+  </programme>
+  <programme start="20261106184400 +0100" stop="20261106185811 +0100" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Piz Ciavazes</sub-title>
+    <desc>Wanderleiterin Jasmin Widmann bezwingt die steile Südwand des Piz Ciavazes zusammen mit Bergführer Manni Stuffer und erzählt dabei über ihren Beruf inmitten der Natur. Der Piz Ciavazes am Sellajoch gehört zu den beliebtesten Kletterbergen in den westlichen Dolomiten. Zusammen klettern sie entlang der sogenannten Kleinen Micheluzzi, einer alpinen Route im fünften Schwierigkeitsgrad.</desc>
+  </programme>
+  <programme start="20261106200000 +0100" stop="20261106202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261106202000 +0100" stop="20261106212000 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine Törggelewanderung mit Theo Hendrich oberhalb Lana. Petra Tschenett besucht einige Südtiroler Backstuben und taucht ein in die süße Welt der Pâtisserie. 
+
+Drei leidenschaftliche Pâtissiers geben Einblicke in ihr Handwerk, ihren kreativen Alltag und die Kunst, aus feinsten Zutaten besondere Genussmomente zu schaffen. Lisa Saltuari, Christian Leitgeb und Nathalie Trafoier zeigen, wie viel Präzision, Kreativität und Leidenschaft hinter kunstvollen Torten, Desserts und süßen Kreationen stecken.  
+Davor unternimmt Theo Hendrich, gemeinsam mit dem erfahrenen Wanderführer Olav Lutz, eine Herbstwanderung an den Sonnenhängen des Burggrafenamtes. Vorbei an farbigen Weinbergen entdecken die beiden unterhalb der Leonburg Eislöcher, die einen interessanten Einblick in die frühere Nutzung der natürlichen Eisvorkommen geben, wandern an einer schwimmenden Insel vorbei und beenden den Herbsttag mit einer zünftigen Törggele-Marende.</desc>
+  </programme>
+  <programme start="20261106212000 +0100" stop="20261106214930 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>Sehen.entdecken.genießen</sub-title>
+    <desc>Seit 15 Jahren bringt das Projekt Regiokorn wieder mehr heimisches Getreide auf Südtirols Felder und stärkt damit regionale Kreisläufe. Der Beitrag zeigt, wie Bauern, Bäckereien, Gastronomie und Hotellerie davon profitieren und warum Herkunft und Qualität für Gäste wichtig sind. Der Gadertaler Fotograf Gustav Willeit wurde zum HGV-Künstler des Jahres 2026 ausgezeichnet. Wir haben ihn in seiner Heimat besucht und Einblick in seine Arbeit und seinen besonderen Blick auf Landschaft, Veränderung und Heimat. 
+Welche Restaurants und Gasthäuser gehören zu den beliebtesten in Südtirol? Bei &quot;First20 - die beliebtesten Restaurants und Gasthäuser Südtirols 2026&quot; entscheiden Einheimische und Gäste selbst, welche Betriebe sie besonders schätzen. Im Gustelier in Bozen wurden nun die diesjährigen Gewinner ausgezeichnet. Wir waren bei der Prämierung dabei und haben anschließend zwei der ausgezeichneten Betriebe besucht.</desc>
+  </programme>
+  <programme start="20261106215000 +0100" stop="20261106215749 +0100" channel="Rai Südtirol">
+    <title>Klick Mini</title>
+    <sub-title>Stefan Santifaller</sub-title>
+    <desc>Nach seiner Turmor-OP fährt Stefan 2024 mit dem Fahrrad von Portugal bis zum Nordkap.</desc>
+  </programme>
+  <programme start="20261106221000 +0100" stop="20261106223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261107175900 +0100" stop="20261107185900 +0100" channel="Rai Südtirol">
+    <title>Erlebnis Südtirol</title>
+    <sub-title>Unterwegs im Land</sub-title>
+    <desc>Eine Törggelewanderung mit Theo Hendrich oberhalb Lana. Petra Tschenett besucht einige Südtiroler Backstuben und taucht ein in die süße Welt der Pâtisserie. Drei leidenschaftliche Pâtissiers geben Einblicke in ihr Handwerk, ihren kreativen Alltag und die Kunst, aus feinsten Zutaten besondere Genussmomente zu schaffen. Lisa Saltuari, Christian Leitgeb und Nathalie Trafoier zeigen, wie viel Präzision, Kreativität und Leidenschaft hinter kunstvollen Torten, Desserts und süßen Kreationen stecken.  
+Davor unternimmt Theo Hendrich, gemeinsam mit dem erfahrenen Wanderführer Olav Lutz, eine Herbstwanderung an den Sonnenhängen des Burggrafenamtes. Vorbei an farbigen Weinbergen entdecken die beiden unterhalb der Leonburg Eislöcher, die einen interessanten Einblick in die frühere Nutzung der natürlichen Eisvorkommen geben, wandern an einer schwimmenden Insel vorbei und beenden den Herbsttag mit einer zünftigen Törggele-Marende.</desc>
+  </programme>
+  <programme start="20261107200000 +0100" stop="20261107202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261107202000 +0100" stop="20261107202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261107202400 +0100" stop="20261107204830 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Wie werden Südtiroler Alpakas gezüchtet? Wie sieht der Alltag in einem Tierheim aus und was ist ein sanitärer Hundezwinger?  
+
+Zwei Südtiroler gehen gemeinsam einer großen Leidenschaft nach: der Zucht von Alpakas. In Meransen halten sie über 70 Alpakas: Deckhengste, Zuchtstuten und Fohlen. Auf internationalen Veranstaltungen haben sich die Züchter bereits viele Auszeichnungen geholt. Am Hof in Südtirol bieten sie bei Alpakawanderungen die Möglichkeit, diese Tiere näher kennenzulernen. 
+Der Alltag im Tierheim: Neben der alltäglichen Routine wie Fütterung, Reinigung und Betreuung ist gerade auch die medizinische Versorgung der Tiere im Heim wichtig. Wir haben die Tierärztin im Tierheim Sill bei ihrer Arbeit begleitet. 
+Außerdem berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20261107221000 +0100" stop="20261107223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261108200000 +0100" stop="20261108202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261108202000 +0100" stop="20261108204930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Essstörungen nehmen zu. Sind Social Media sogar der Trigger dafür? Was sind Warnsignale? Außerdem Jungunternehmerin Bea Eccel im Porträt. Moderation: Martina Kreuzer. 
+
+Essstörungen unter jungen Frauen und Kindern nehmen rasant zu. 2026 sind die Neuerkrankungen bei Minderjährigen um 21% gestiegen. Auch 10-Jährige tauchen nun in der Statistik auf. Gleichzeitig beobachten Therapeutinnen, Ärztinnen und Social Media- Experten, wie auf TikTok, Instagram&amp;Co immer mehr Videos zum Thema Essen, Gesundheit, Dünnsein, Fitness erscheinen. In einer Gesellschaft der Selbstoptimierung wird der Körper zur ständigen Baustelle. Wir fragen: Und wie erkennt man, wann der Sog aus Sport und gesunder Ernährung bedrohlich wird? 
+Mit 28 Jahren die Nachfolge des Vaters antreten und heute ein Unternehmen mit bis zu 150 Beschäftigten führen: Wie wächst man in eine solche Verantwortung hinein? Darum geht es in unserem aktuellen dF-Porträt über Bea Eccel, Geschäftsführerin des Sarner Unternehmens Lavarent. Eine Frau, die auch abseits des Berufs gerne ihre Komfortzone verlässt. 
+Für dF Info waren wir bei der Tagung &quot;„Zukunft Familie 2026&quot; und beim Frauenmarsch, der in diesem Jahr noch politischer war als sonst.</desc>
+  </programme>
+  <programme start="20261108205000 +0100" stop="20261108205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261108221000 +0100" stop="20261108223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
