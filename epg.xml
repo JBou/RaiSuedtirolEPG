@@ -4,46 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261031180000 +0100" stop="20261031182930 +0100" channel="Rai Südtirol">
-    <title>Privat</title>
-    <sub-title>Anna Unterberger</sub-title>
-    <desc>Die Boznerin spielt in vielen deutschsprachigen Fernsehproduktionen mit - außerdem bei &quot;Joe der Film 2&quot;. Im Gespräch mit Moderator Markus Frings gibt sie Einblick in ihre Schauspielkarriere. Schon als Kind kam Anna Unterberger mit der Welt des Theaters in Berührung. Ihre Mutter arbeitete mit Menschen mit Behinderung und setzte Theater als pädagogisches Mittel ein - Anna war bei den Proben häufig mit dabei. Nach der Matura stand für die gebürtige Boznerin schließlich fest: Sie wollte Schauspielerin werden. 
-Heute ist Anna Unterberger regelmäßig in deutschen und österreichischen Fernsehproduktionen zu sehen. Sie spielte unter anderem in &quot;Tatort&quot;, &quot;Polizeiruf 110&quot;, &quot;SOKO Wien&quot; und &quot;Sarah Kohr&quot; und war über viele Jahre als Anni Sulmtaler in der erfolgreichen österreichischen &quot;Steirerkrimi&quot;-Reihe zu sehen. Ihren Lebensmittelpunkt hat die Südtirolerin inzwischen in Berlin. 
-In Privat mit Markus Frings spricht Anna Unterberger über ihren Weg von Bozen auf die Schauspielbühnen und vor die Fernsehkameras, über prägende Stationen ihrer Karriere und ihr Leben als Schauspielerin. Außerdem erzählt sie von den Dreharbeiten zu &quot;Joe der Film 2&quot;, für die sie wieder einmal nach Südtirol zurückgekehrt ist.</desc>
-  </programme>
-  <programme start="20261031182900 +0100" stop="20261031185252 +0100" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Gesunder Rücken - stark fürs Leben</sub-title>
-    <desc>Rückenschmerzen gehören zu den häufigsten Gesundheitsproblemen und können unseren Alltag stark beeinträchtigen. Doch was können wir tun, damit unser Rücken gesund bleibt? In der Reportage Gesundheit zeigt Physiotherapeut und Osteopath Matthias Mair wie Bewegung, Prävention und ergonomisches Arbeiten helfen können. Außerdem begleiten wir Orthopädin und Wirbelsäulenchirurgin Ines Unterfrauner bei ihrer Arbeit und treffen Patienten mit unterschiedlichen Rückenbeschwerden. Außerdem fragen wir nach, wie die Menschen ihre Rückengesundheit im Alltag fördern. Denn mit gezielter Bewegung und bewussten Gewohnheiten können wir selbst viel für unseren Rücken tun.</desc>
-  </programme>
-  <programme start="20261031185300 +0100" stop="20261031185836 +0100" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Andreas Zingerle</sub-title>
-    <desc>Der Künstler Andreas Zingerle aus Percha. Als Bildhauer arbeitet er mit Beton. Als Maler nutzt er die Porträtmalerei in ihrem ursprünglichen Sinn.</desc>
-  </programme>
-  <programme start="20261031200000 +0100" stop="20261031202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261031202000 +0100" stop="20261031202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Timm Harder</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261031202400 +0100" stop="20261031205330 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Seit 15 Jahren bringt das Projekt Regiokorn wieder mehr heimisches Getreide auf Südtirols Felder und stärkt damit regionale Kreisläufe. Der Beitrag zeigt, wie Bauern, Bäckereien, Gastronomie und Hotellerie davon profitieren und warum Herkunft und Qualität für Gäste wichtig sind. 
-
-Der Gadertaler Fotograf Gustav Willeit wurde zum HGV-Künstler des Jahres 2026 ausgezeichnet. Wir haben ihn in seiner Heimat besucht und Einblick in seine Arbeit und seinen besonderen Blick auf Landschaft, Veränderung und Heimat. 
-Welche Restaurants und Gasthäuser gehören zu den beliebtesten in Südtirol? Bei &quot;First20 - die beliebtesten Restaurants und Gasthäuser Südtirols 2026&quot; entscheiden Einheimische und Gäste selbst, welche Betriebe sie besonders schätzen. Im Gustelier in Bozen wurden nun die diesjährigen Gewinner ausgezeichnet. Wir waren bei der Prämierung dabei und haben anschließend zwei der ausgezeichneten Betriebe besucht.</desc>
-  </programme>
-  <programme start="20261031221000 +0100" stop="20261031223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261101200000 +0100" stop="20261101202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
