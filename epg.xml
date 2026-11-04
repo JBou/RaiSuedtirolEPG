@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261103200000 +0100" stop="20261103202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261103202000 +0100" stop="20261103203411 +0100" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Piz Ciavazes</sub-title>
-    <desc>Wanderleiterin Jasmin Widmann bezwingt die steile Südwand des Piz Ciavazes zusammen mit Bergführer Manni Stuffer und erzählt dabei über ihren Beruf inmitten der Natur. 
-
-Der Piz Ciavazes am Sellajoch gehört zu den beliebtesten Kletterbergen in den westlichen Dolomiten. Zusammen klettern sie entlang der sogenannten Kleinen Micheluzzi, einer alpinen Route im fünften Schwierigkeitsgrad.</desc>
-  </programme>
-  <programme start="20261103203400 +0100" stop="20261103204830 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>In dieser Ausgabe taucht die SportZeit in das derzeit höchste Fussballderby in Südtirol ein. und zwar im Serie-D-Schlager Virtus Bozen gegen Obermais. Anschließend gehen wir noch mit Südtirols Paragleitern in die Luft.  
-Kompakte Sportnews und die wichtigsten Termine der nächsten Woche runden das Programm ab.</desc>
-  </programme>
-  <programme start="20261103221000 +0100" stop="20261103223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261104200000 +0100" stop="20261104202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
