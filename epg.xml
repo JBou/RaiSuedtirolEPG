@@ -4,25 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261104200000 +0100" stop="20261104202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261104202000 +0100" stop="20261104204930 +0100" channel="Rai Südtirol">
-    <title>Trend</title>
-    <sub-title>Das Wirtschaftsmagazin</sub-title>
-    <desc>Kimchi auf Südtirolerisch, die Softwareentwickler Reguest und Zeppelin an der Börse, die Schließung von Traditionsbetrieben und die Gründe dafür. Moderation: Christian Pfeifer 
-
-Beim Begriff Innovation muss es nicht immer um Digitales oder um Handy-Apps gehen. Innovativ ist es auch, wenn Traditionen oder fremde Kulturtechniken in unsere traditionelle Lebensmittelproduktion übernommen werden. Ein Beispiel dafür ist das ursprünglich aus Korea stammende Kimchi - eine sehr würzige Sauerkrautvariante. Eine Unternehmenskooperation zwischen der Rizzi Group und Lechner Kraut im Vinschgau hat die biologisch-alpenländischen Versionen von Kimchi auf den Markt gebracht. Eine koreanische Frau zeigt uns, wie originales Kimchi im Haushalt gemacht wird. 
-Die Südtiroler Softwareentwickler Reguest und Zeppelin mit Sitz in Meran gehören zu den wenigen Südtiroler Unternehmen, die den Gang an die Börse gewagt haben. Die Geschäftsführer erzählen über ihre Beweggründe und Erfahrungen damit. 
-In Südtirol gehört es mittlerweile auch zum Alltag, dass Traditionsbetriebe und kleine Handwerksunternehmen schließen. Die Ursachen für solche Entwicklungen sind vielfältig.  Der Juwelier Aster in der Sterzinger Altstadt berichtet über seine Entscheidungen und seine Sicht der Lage.</desc>
-  </programme>
-  <programme start="20261104221000 +0100" stop="20261104223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261105200000 +0100" stop="20261105202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
