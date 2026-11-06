@@ -4,22 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261105200000 +0100" stop="20261105202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261105202000 +0100" stop="20261105204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Mentale Gesundheit</sub-title>
-    <desc>&quot;Mir geht's gut&quot; ist schnell gesagt - doch wie steht es wirklich um unsere mentale Gesundheit? Antworten darauf gibt Neurowissenschaftler Andreas Franzelin. Es moderiert Magdalena Oberstaller. Ständige Erreichbarkeit, Dauerstress und der Druck zu funktionieren: Die mentale Belastung in unserer Gesellschaft ist hoch. Wie finden Betroffene den Weg aus der Stille? Welche Alarmsignale dürfen wir nicht übersehen? Wir haben nachgefragt, wo die Ursachen für Krisen liegen - und welche Strategien zur mentalen Widerstandskraft helfen. Zu Gast ist der Neurowissenschaftler Andreas Franzelin.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Herausforderung Seelsorgeeinheit&quot; und zeigen in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
-  </programme>
-  <programme start="20261105221000 +0100" stop="20261105223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261106180000 +0100" stop="20261106182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Mentale Gesundheit</sub-title>
@@ -116,6 +100,184 @@ Für dF Info waren wir bei der Tagung &quot;„Zukunft Familie 2026&quot; und be
     <desc/>
   </programme>
   <programme start="20261108221000 +0100" stop="20261108223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261109180000 +0100" stop="20261109182800 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title/>
+    <desc>Handball ist ein richtig cooler Sport, denn man muss sehr schnell reagieren und laufen können. Dazu kommen Geschicklichkeit mit dem Ball und Wurfkraft. Das alles haben unsere Sportkids aus Brixen schon längst und ihr Können wird gleich unter Beweis gestellt, bei einem richtigen Turnier. 
+Außerdem: Vor kurzem wurde im Ragenhaus in Bruneck das Stück &quot;Ach du Schreck, Tubinos Hut ist weg&quot; welturaufgeführt. Mit dabei waren 90 Kinder des Kinderchores Ehrenburg und die drei Freunde Vokalina, Flutina und Tubino. Auf einer gemeinsamen Wanderung wird plötzlich Tubinos geliebter Hut von einem Windstoß weggetragen und es beginnt die spannende Suche. Die Kinder schlüpfen dabei in die Rollen von Waldfeen, Kobolden, Einhörnern, Schafen uvm.</desc>
+  </programme>
+  <programme start="20261109182800 +0100" stop="20261109185230 +0100" channel="Rai Südtirol">
+    <title>Pluto</title>
+    <sub-title>Das Tiermagazin</sub-title>
+    <desc>Wie werden Südtiroler Alpakas gezüchtet? Wie sieht der Alltag in einem Tierheim aus und was ist ein sanitärer Hundezwinger?  
+Zwei Südtiroler gehen gemeinsam einer großen Leidenschaft nach: der Zucht von Alpakas. In Meransen halten sie über 70 Alpakas: Deckhengste, Zuchtstuten und Fohlen. Auf internationalen Veranstaltungen haben sich die Züchter bereits viele Auszeichnungen geholt. Am Hof in Südtirol bieten sie bei Alpakawanderungen die Möglichkeit, diese Tiere näher kennenzulernen. 
+Der Alltag im Tierheim: Neben der alltäglichen Routine wie Fütterung, Reinigung und Betreuung ist gerade auch die medizinische Versorgung der Tiere im Heim wichtig. Wir haben die Tierärztin im Tierheim Sill bei ihrer Arbeit begleitet. 
+Außerdem berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
+  </programme>
+  <programme start="20261109185200 +0100" stop="20261109185703 +0100" channel="Rai Südtirol">
+    <title>Kulturzeit zeitlos</title>
+    <sub-title>Abenteuer Kunst</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261109200000 +0100" stop="20261109202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261109202000 +0100" stop="20261109212000 +0100" channel="Rai Südtirol">
+    <title>Am Runden Tisch</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
+  </programme>
+  <programme start="20261109212000 +0100" stop="20261109214930 +0100" channel="Rai Südtirol">
+    <title>dF</title>
+    <sub-title>Das Frauenmagazin</sub-title>
+    <desc>Essstörungen nehmen zu. Sind Social Media sogar der Trigger dafür? Was sind Warnsignale? Außerdem Jungunternehmerin Bea Eccel im Porträt. Moderation: Martina Kreuzer. 
+Essstörungen unter jungen Frauen und Kindern nehmen rasant zu. 2026 sind die Neuerkrankungen bei Minderjährigen um 21% gestiegen. Auch 10-Jährige tauchen nun in der Statistik auf. Gleichzeitig beobachten Therapeutinnen, Ärztinnen und Social Media- Experten, wie auf TikTok, Instagram&amp;Co immer mehr Videos zum Thema Essen, Gesundheit, Dünnsein, Fitness erscheinen. In einer Gesellschaft der Selbstoptimierung wird der Körper zur ständigen Baustelle. Wir fragen: Und wie erkennt man, wann der Sog aus Sport und gesunder Ernährung bedrohlich wird? 
+Mit 28 Jahren die Nachfolge des Vaters antreten und heute ein Unternehmen mit bis zu 150 Beschäftigten führen: Wie wächst man in eine solche Verantwortung hinein? Darum geht es in unserem aktuellen dF-Porträt über Bea Eccel, Geschäftsführerin des Sarner Unternehmens Lavarent. Eine Frau, die auch abseits des Berufs gerne ihre Komfortzone verlässt. 
+Für dF Info waren wir bei der Tagung &quot;„Zukunft Familie 2026&quot; und beim Frauenmarsch, der in diesem Jahr noch politischer war als sonst.</desc>
+  </programme>
+  <programme start="20261109215000 +0100" stop="20261109215750 +0100" channel="Rai Südtirol">
+    <title>Klick Mini</title>
+    <sub-title>Die Yoseikan Budo Sportler</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261109221000 +0100" stop="20261109223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261110200000 +0100" stop="20261110202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261110202000 +0100" stop="20261110203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title>Diskussionssendung</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261110203500 +0100" stop="20261110204930 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Das wöchentliche TV Magazin SportZeit erzählt die vielfältige Welt des Südtiroler Sports durch Reportagen, Ergebnisse, Hintergrundgeschichten und Sportlerportraits. Dazu aktuelle Kurznachrichten und anstehende Sporttermine. </desc>
+  </programme>
+  <programme start="20261110221000 +0100" stop="20261110223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261111200000 +0100" stop="20261111202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261111202000 +0100" stop="20261111204930 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Ein Strafmandat nach dem Einkauf im Supermarkt? Immer häufiger sorgen private Parkplatzbetreiber mit Zahlungsaufforderungen für Ärger bei Autofahrerinnen und Autofahrern.  
+
+&quot;Pluspunkt&quot; klärt mit der Verbraucherzentrale Südtirol, was erlaubt ist und wie Betroffene reagieren sollten. Passend zur bevorstehenden Weihnachtszeit gibt es außerdem Tipps rund um Gutscheine und worauf man beim Kauf und Einlösen achten sollte. 
+Originalersatzteil oder günstige Alternative? Auch bei Autoreparaturen lässt sich oft Geld sparen. Doch wie groß sind die Unterschiede bei Preis und Qualität? in Blick in eine freie Werkstatt zeigt, worauf es ankommt und welche Auswirkungen Ersatzteile von Drittanbietern auf Garantie und Versicherung haben können. Und für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; geht es diesmal nach Kastelbell im Vinschgau. Was macht die Gemeinde besonders lebenswert?</desc>
+  </programme>
+  <programme start="20261111221000 +0100" stop="20261111223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261112200000 +0100" stop="20261112202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261112202000 +0100" stop="20261112204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Wer schreibt noch Briefe?</sub-title>
+    <desc>Ist Briefe schreiben eine verstaubte Tradition oder gibt es sie noch, die Tinte und Papier für persönliche Nachrichten verwenden? 
+
+Wann hatten Sie den letzten handgeschriebenen Brief, die letzte Urlaubs-Postkarte im Briefkasten? Schreiben wir in Zeiten von WhatsApp überhaupt noch echte Briefe - oder ist die handgeschriebene Postkarte längst zum nostalgischen Trend geworden? Eine Spurensuche zwischen Papier-Liebe und digitalem Fortschritt. 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Posthäuser in Sand in Taufers&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261112221000 +0100" stop="20261112223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261113175900 +0100" stop="20261113182830 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Wer schreibt noch Briefe?</sub-title>
+    <desc>Ist Briefe schreiben eine verstaubte Tradition oder gibt es sie noch, die Tinte und Papier für persönliche Nachrichten verwenden? 
+Wann hatten Sie den letzten handgeschriebenen Brief, die letzte Urlaubs-Postkarte im Briefkasten? Schreiben wir in Zeiten von WhatsApp überhaupt noch echte Briefe - oder ist die handgeschriebene Postkarte längst zum nostalgischen Trend geworden? Eine Spurensuche zwischen Papier-Liebe und digitalem Fortschritt. 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Posthäuser in Sand in Taufers&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261113182900 +0100" stop="20261113184330 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261113184300 +0100" stop="20261113185800 +0100" channel="Rai Südtirol">
+    <title>Einladung ins Museum</title>
+    <sub-title>Museum Gherdëina</sub-title>
+    <desc>Das Museum Gherdëina in St. Ulrich erzählt die Geschichte, Kultur und Traditionen des Grödentals - eines Tales, das über Jahrhunderte hinweg seine besondere Identität und ein bedeutendes künstlerisches Erbe bewahrt hat. In diesem Film von Roberto Condotta gehen wir anhand der Sammlungen des Museums auf eine Reise durch die Geschichte des Tales: von der Archäologie und Geologie über die sakrale Kunst bis hin zur Holzschnitzkunst, einer der charakteristischsten Ausdrucksformen der Grödner Kultur. Skulpturen, Spielzeug, Alltagsgegenstände, archäologische Fundstücke und Fossilien erzählen nicht nur von der Geschichte des Tales, sondern auch von der tiefen Verbindung zwischen den Menschen und der Landschaft der Dolomiten. Eine Reise durch Kunst, Natur und Erinnerung - auf den Spuren der Identität des Grödentals, die im Museum Gherdëina bewahrt wird.</desc>
+  </programme>
+  <programme start="20261113200000 +0100" stop="20261113202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261113202000 +0100" stop="20261113213000 +0100" channel="Rai Südtirol">
+    <title>Kulturgut Wein</title>
+    <sub-title>Wine Festival Meran 2026</sub-title>
+    <desc>Das inzwischen international bekannte &quot;Meran Winefestival&quot; ging Anfang November (6. - 9.11.2026) in die 35. Auflage.  Wir von RAI-Südtirol waren vor Ort und liefern mit diesem Fernsehabend einen Einblick in diese genussvolle Veranstaltung mit dem Motto &quot;Schönheit &amp; Eleganz&quot;. Dabei geht es nicht nur um das Festival, sondern um die Weinszene Südtirols im Besonderen.  Moderator Theo Hendrich begleitet sie durch einen kurzweiligen und schmackhaften TV-Abend mit Gästen der Südtiroler und internationalen Weinwelt, jungen Winzer und Winzerinnen, kulinarischen Überraschungen, wie Mode und Wein harmonieren und anderen Themen mehr. Genießen sie den Abend und lassen sie sich einfach überraschen.</desc>
+  </programme>
+  <programme start="20261113213000 +0100" stop="20261113215900 +0100" channel="Rai Südtirol">
+    <title>Angeklopft</title>
+    <sub-title>Geigenbau</sub-title>
+    <desc>Bei &quot;Angeklopft&quot; erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen bei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
+  </programme>
+  <programme start="20261113221000 +0100" stop="20261113223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261114180000 +0100" stop="20261114182930 +0100" channel="Rai Südtirol">
+    <title>Bergwelt</title>
+    <sub-title/>
+    <desc>Mit Jagdaufsehern zur Wildbeobachtung in die Texelgruppe und neue Entwicklungen im Genre Bergfilm - das sind die beiden Thermen in dieser Ausgabe der Sendereihe Bergwelt.  
+Die Hirschbrunft in den steilen und unzugänglichen Hängen unterhalb der Vermoispitze und die Beobachtung Gams, Bartgeier und Steinwild im Pfossental sind im Herbst Alltag für die Vinschger Jagdaufseher Paul Gassebner und Kaspar Götsch. Auf ihren Pirschgängen geben sie Einblick in ihren Alltag und berichten vom einem komplexen ökologischen Gleichgewicht im Revier. In einem weiteren Schwerpunkt gehts um neue Entwicklungen im Bergfilm: Neben extremen Leistungen rückt mehr und mehr der Bergsteiger als Mensch in den Fokus - mit seinen Ängsten, Zweifeln und dem Ringen zwischen Verantwortung und Selbstverwirklichung.</desc>
+  </programme>
+  <programme start="20261114182900 +0100" stop="20261114185830 +0100" channel="Rai Südtirol">
+    <title>Pluspunkt</title>
+    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
+    <desc>Ein Strafmandat nach dem Einkauf im Supermarkt? Immer häufiger sorgen private Parkplatzbetreiber mit Zahlungsaufforderungen für Ärger bei Autofahrerinnen und Autofahrern.  
+&quot;Pluspunkt&quot; klärt mit der Verbraucherzentrale Südtirol, was erlaubt ist und wie Betroffene reagieren sollten. Passend zur bevorstehenden Weihnachtszeit gibt es außerdem Tipps rund um Gutscheine und worauf man beim Kauf und Einlösen achten sollte. 
+Originalersatzteil oder günstige Alternative? Auch bei Autoreparaturen lässt sich oft Geld sparen. Doch wie groß sind die Unterschiede bei Preis und Qualität? in Blick in eine freie Werkstatt zeigt, worauf es ankommt und welche Auswirkungen Ersatzteile von Drittanbietern auf Garantie und Versicherung haben können. Und für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; geht es diesmal nach Kastelbell im Vinschgau. Was macht die Gemeinde besonders lebenswert?</desc>
+  </programme>
+  <programme start="20261114200000 +0100" stop="20261114202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261114202000 +0100" stop="20261114202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261114202400 +0100" stop="20261114205330 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>Einfach.ethisch.leben</sub-title>
+    <desc>Trauer, Verlust und Wandel. Menschen stehen im Mittelpunkt dieser Sendung, die sich mit Themen des Abschiedes und Neubeginns beschäftigen. 
+
+Die ehemalige Arzthelferin Elisabeth Patzleiner ist aus Liebe zu den Bergen 1990 aus dem Saarland nach Südtirol gezogen, wurde Bäuerin am Lechnerhof in Prags und vieles mehr. In unterschiedlichsten Vereinen engagiert sie sich ehrenamtlich, hält Schule auf dem Bauernhof und spricht offen über Tabuthemen, das Sterben und auch ihre Krebserkrankung in diesem Jahr. 
+Oft stellt sich nicht nur die Frage, wie mit der eigenen Endlichkeit umgehen, wie wir gut trauern - aber auch, wie wir Menschen begegnen, die in Trauer sind. Der Theologin Renate Rottensteiner, Leiterin der Caritas-Hospizbewegung ist es ein Anliegen, den Menschen Mut zu machen, auf Trauernde zuzugehen.  
+Der Konfliktberater Hermann Barbieri war als Kind oft mit seiner Mutter und Großmutter am Soldatenfriedhof in St. Jakob. Für ihn, der sich zeitlebens dafür engagiert, dass Menschen sich verstehen, hat sich früh schon die Frage gestellt, warum von Kriegs-Tüchtigkeit gesprochen wird, nie von der Ermächtigung zum Frieden.  
+Für Frieden engagiert sich auch Anja Stecher aus Prad. Sie ist Gründerin des Vereins Asante, engagiert sich seit bald zehn Jahren ehrenamtlich in Tansania und bereist das Land mehrmals pro Jahr. Hierzulande arbeitet sie als Koordinatorin der Palliativstation der Stiftung St. Elisabeth in Martinsbrunn. Sie ist heute zu Gast bei Claudia Schuler und spricht unter anderem auch darüber, wie unterschiedlich die Menschen in Afrika und Europa dem Tod begegnen.</desc>
+  </programme>
+  <programme start="20261114221000 +0100" stop="20261114223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
