@@ -4,52 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261106180000 +0100" stop="20261106182930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Mentale Gesundheit</sub-title>
-    <desc>&quot;Mir geht's gut&quot; ist schnell gesagt - doch wie steht es wirklich um unsere mentale Gesundheit? Antworten darauf gibt Neurowissenschaftler Andreas Franzelin. Es moderiert Magdalena Oberstaller.      Ständige Erreichbarkeit, Dauerstress und der Druck zu funktionieren: Die mentale Belastung in unserer Gesellschaft ist hoch. Wie finden Betroffene den Weg aus der Stille? Welche Alarmsignale dürfen wir nicht übersehen? Wir haben nachgefragt, wo die Ursachen für Krisen liegen - und welche Strategien zur mentalen Widerstandskraft helfen. Zu Gast ist der Neurowissenschaftler Andreas Franzelin.  
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Herausforderung Seelsorgeeinheit&quot; und zeigen in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
-  </programme>
-  <programme start="20261106183000 +0100" stop="20261106184430 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>In dieser Ausgabe taucht die SportZeit in das derzeit höchste Fussballderby in Südtirol ein. und zwar im Serie-D-Schlager Virtus Bozen gegen Obermais. Anschließend gehen wir noch mit Südtirols Paragleitern in die Luft.  
-Kompakte Sportnews und die wichtigsten Termine der nächsten Woche runden das Programm ab.</desc>
-  </programme>
-  <programme start="20261106184400 +0100" stop="20261106185811 +0100" channel="Rai Südtirol">
-    <title>Gipfelerlebnisse</title>
-    <sub-title>Piz Ciavazes</sub-title>
-    <desc>Wanderleiterin Jasmin Widmann bezwingt die steile Südwand des Piz Ciavazes zusammen mit Bergführer Manni Stuffer und erzählt dabei über ihren Beruf inmitten der Natur. Der Piz Ciavazes am Sellajoch gehört zu den beliebtesten Kletterbergen in den westlichen Dolomiten. Zusammen klettern sie entlang der sogenannten Kleinen Micheluzzi, einer alpinen Route im fünften Schwierigkeitsgrad.</desc>
-  </programme>
-  <programme start="20261106200000 +0100" stop="20261106202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261106202000 +0100" stop="20261106212000 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine Törggelewanderung mit Theo Hendrich oberhalb Lana. Petra Tschenett besucht einige Südtiroler Backstuben und taucht ein in die süße Welt der Pâtisserie. 
-
-Drei leidenschaftliche Pâtissiers geben Einblicke in ihr Handwerk, ihren kreativen Alltag und die Kunst, aus feinsten Zutaten besondere Genussmomente zu schaffen. Lisa Saltuari, Christian Leitgeb und Nathalie Trafoier zeigen, wie viel Präzision, Kreativität und Leidenschaft hinter kunstvollen Torten, Desserts und süßen Kreationen stecken.  
-Davor unternimmt Theo Hendrich, gemeinsam mit dem erfahrenen Wanderführer Olav Lutz, eine Herbstwanderung an den Sonnenhängen des Burggrafenamtes. Vorbei an farbigen Weinbergen entdecken die beiden unterhalb der Leonburg Eislöcher, die einen interessanten Einblick in die frühere Nutzung der natürlichen Eisvorkommen geben, wandern an einer schwimmenden Insel vorbei und beenden den Herbsttag mit einer zünftigen Törggele-Marende.</desc>
-  </programme>
-  <programme start="20261106212000 +0100" stop="20261106214930 +0100" channel="Rai Südtirol">
-    <title>Willkommen</title>
-    <sub-title>Sehen.entdecken.genießen</sub-title>
-    <desc>Seit 15 Jahren bringt das Projekt Regiokorn wieder mehr heimisches Getreide auf Südtirols Felder und stärkt damit regionale Kreisläufe. Der Beitrag zeigt, wie Bauern, Bäckereien, Gastronomie und Hotellerie davon profitieren und warum Herkunft und Qualität für Gäste wichtig sind. Der Gadertaler Fotograf Gustav Willeit wurde zum HGV-Künstler des Jahres 2026 ausgezeichnet. Wir haben ihn in seiner Heimat besucht und Einblick in seine Arbeit und seinen besonderen Blick auf Landschaft, Veränderung und Heimat. 
-Welche Restaurants und Gasthäuser gehören zu den beliebtesten in Südtirol? Bei &quot;First20 - die beliebtesten Restaurants und Gasthäuser Südtirols 2026&quot; entscheiden Einheimische und Gäste selbst, welche Betriebe sie besonders schätzen. Im Gustelier in Bozen wurden nun die diesjährigen Gewinner ausgezeichnet. Wir waren bei der Prämierung dabei und haben anschließend zwei der ausgezeichneten Betriebe besucht.</desc>
-  </programme>
-  <programme start="20261106215000 +0100" stop="20261106215749 +0100" channel="Rai Südtirol">
-    <title>Klick Mini</title>
-    <sub-title>Stefan Santifaller</sub-title>
-    <desc>Nach seiner Turmor-OP fährt Stefan 2024 mit dem Fahrrad von Portugal bis zum Nordkap.</desc>
-  </programme>
-  <programme start="20261106221000 +0100" stop="20261106223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261107175900 +0100" stop="20261107185900 +0100" channel="Rai Südtirol">
     <title>Erlebnis Südtirol</title>
     <sub-title>Unterwegs im Land</sub-title>
@@ -278,6 +232,29 @@ Der Konfliktberater Hermann Barbieri war als Kind oft mit seiner Mutter und Gro�
 Für Frieden engagiert sich auch Anja Stecher aus Prad. Sie ist Gründerin des Vereins Asante, engagiert sich seit bald zehn Jahren ehrenamtlich in Tansania und bereist das Land mehrmals pro Jahr. Hierzulande arbeitet sie als Koordinatorin der Palliativstation der Stiftung St. Elisabeth in Martinsbrunn. Sie ist heute zu Gast bei Claudia Schuler und spricht unter anderem auch darüber, wie unterschiedlich die Menschen in Afrika und Europa dem Tod begegnen.</desc>
   </programme>
   <programme start="20261114221000 +0100" stop="20261114223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261115200000 +0100" stop="20261115202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261115202000 +0100" stop="20261115204430 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Junge Talente, große Bühne: Beim Festival Steinegg Live gehört das Rampenlicht dem Nachwuchs. KLICK begleitet die Cousinen Emma und Maja, die aus musikalischen Familien stammen, bei den Vorbereitungen ihres Auftrittes auf der Festivalbühne. Auch die 17-jährige Olivia Kaufmann steht im Mittelpunkt: Die frisch gekürte österreichische U20-Meisterin im Poetry Slam begeistert mit selbst geschriebenen Texten, die berühren und zum Nachdenken anregen. Zwischen Lampenfieber, Leidenschaft und Applaus erleben wir, wie junge Künstlerinnen ihren ganz eigenen Weg auf die Bühne finden. 
+
+Lernen einmal anders: Epochenunterricht, Klassenspiel und selbstständiges Arbeiten gehören zum Schulalltag an der Waldorf-Oberschule in Meran. KLICK besucht die noch junge Schule und erfährt, was ihren pädagogischen Ansatz von herkömmlichen Oberschulen unterscheidet. Schülerinnen, Schüler und Lehrpersonen geben Einblicke in den Unterricht und zeigen, wie eigenständiges Lernen, Kreativität und persönliche Entwicklung miteinander verbunden werden. 
+Traumjob Skilehrer? Den ganzen Tag auf der Piste stehen, gut Ski fahren und dabei Geld verdienen - so einfach ist es nicht. KLICK begleitet einen angehenden Skilehrer und wirft einen Blick hinter die Kulissen eines Berufs, der weit mehr verlangt als sportliches Können.</desc>
+  </programme>
+  <programme start="20261115204500 +0100" stop="20261115204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261115221000 +0100" stop="20261115223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
