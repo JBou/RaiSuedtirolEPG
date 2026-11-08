@@ -4,36 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261107175900 +0100" stop="20261107185900 +0100" channel="Rai Südtirol">
-    <title>Erlebnis Südtirol</title>
-    <sub-title>Unterwegs im Land</sub-title>
-    <desc>Eine Törggelewanderung mit Theo Hendrich oberhalb Lana. Petra Tschenett besucht einige Südtiroler Backstuben und taucht ein in die süße Welt der Pâtisserie. Drei leidenschaftliche Pâtissiers geben Einblicke in ihr Handwerk, ihren kreativen Alltag und die Kunst, aus feinsten Zutaten besondere Genussmomente zu schaffen. Lisa Saltuari, Christian Leitgeb und Nathalie Trafoier zeigen, wie viel Präzision, Kreativität und Leidenschaft hinter kunstvollen Torten, Desserts und süßen Kreationen stecken.  
-Davor unternimmt Theo Hendrich, gemeinsam mit dem erfahrenen Wanderführer Olav Lutz, eine Herbstwanderung an den Sonnenhängen des Burggrafenamtes. Vorbei an farbigen Weinbergen entdecken die beiden unterhalb der Leonburg Eislöcher, die einen interessanten Einblick in die frühere Nutzung der natürlichen Eisvorkommen geben, wandern an einer schwimmenden Insel vorbei und beenden den Herbsttag mit einer zünftigen Törggele-Marende.</desc>
-  </programme>
-  <programme start="20261107200000 +0100" stop="20261107202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261107202000 +0100" stop="20261107202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261107202400 +0100" stop="20261107204830 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Wie werden Südtiroler Alpakas gezüchtet? Wie sieht der Alltag in einem Tierheim aus und was ist ein sanitärer Hundezwinger?  
-
-Zwei Südtiroler gehen gemeinsam einer großen Leidenschaft nach: der Zucht von Alpakas. In Meransen halten sie über 70 Alpakas: Deckhengste, Zuchtstuten und Fohlen. Auf internationalen Veranstaltungen haben sich die Züchter bereits viele Auszeichnungen geholt. Am Hof in Südtirol bieten sie bei Alpakawanderungen die Möglichkeit, diese Tiere näher kennenzulernen. 
-Der Alltag im Tierheim: Neben der alltäglichen Routine wie Fütterung, Reinigung und Betreuung ist gerade auch die medizinische Versorgung der Tiere im Heim wichtig. Wir haben die Tierärztin im Tierheim Sill bei ihrer Arbeit begleitet. 
-Außerdem berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20261107221000 +0100" stop="20261107223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261108200000 +0100" stop="20261108202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
