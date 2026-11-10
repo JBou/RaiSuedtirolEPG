@@ -4,53 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261109180000 +0100" stop="20261109182800 +0100" channel="Rai Südtirol">
-    <title>Zipp TV-Kinderfernsehen</title>
-    <sub-title/>
-    <desc>Handball ist ein richtig cooler Sport, denn man muss sehr schnell reagieren und laufen können. Dazu kommen Geschicklichkeit mit dem Ball und Wurfkraft. Das alles haben unsere Sportkids aus Brixen schon längst und ihr Können wird gleich unter Beweis gestellt, bei einem richtigen Turnier. 
-Außerdem: Vor kurzem wurde im Ragenhaus in Bruneck das Stück &quot;Ach du Schreck, Tubinos Hut ist weg&quot; welturaufgeführt. Mit dabei waren 90 Kinder des Kinderchores Ehrenburg und die drei Freunde Vokalina, Flutina und Tubino. Auf einer gemeinsamen Wanderung wird plötzlich Tubinos geliebter Hut von einem Windstoß weggetragen und es beginnt die spannende Suche. Die Kinder schlüpfen dabei in die Rollen von Waldfeen, Kobolden, Einhörnern, Schafen uvm.</desc>
-  </programme>
-  <programme start="20261109182800 +0100" stop="20261109185230 +0100" channel="Rai Südtirol">
-    <title>Pluto</title>
-    <sub-title>Das Tiermagazin</sub-title>
-    <desc>Wie werden Südtiroler Alpakas gezüchtet? Wie sieht der Alltag in einem Tierheim aus und was ist ein sanitärer Hundezwinger?  
-Zwei Südtiroler gehen gemeinsam einer großen Leidenschaft nach: der Zucht von Alpakas. In Meransen halten sie über 70 Alpakas: Deckhengste, Zuchtstuten und Fohlen. Auf internationalen Veranstaltungen haben sich die Züchter bereits viele Auszeichnungen geholt. Am Hof in Südtirol bieten sie bei Alpakawanderungen die Möglichkeit, diese Tiere näher kennenzulernen. 
-Der Alltag im Tierheim: Neben der alltäglichen Routine wie Fütterung, Reinigung und Betreuung ist gerade auch die medizinische Versorgung der Tiere im Heim wichtig. Wir haben die Tierärztin im Tierheim Sill bei ihrer Arbeit begleitet. 
-Außerdem berichten wir über Wissenswertes und Interessantes aus dem Tierreich und stellen Vierbeiner vor, die ein Zuhause suchen.</desc>
-  </programme>
-  <programme start="20261109185200 +0100" stop="20261109185703 +0100" channel="Rai Südtirol">
-    <title>Kulturzeit zeitlos</title>
-    <sub-title>Abenteuer Kunst</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261109200000 +0100" stop="20261109202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261109202000 +0100" stop="20261109212000 +0100" channel="Rai Südtirol">
-    <title>Am Runden Tisch</title>
-    <sub-title>Diskussionssendung</sub-title>
-    <desc>Brisante Themen und spannende Fragen aus Politik, Wirtschaft und Kultur in der Diskussionssendung &quot;Am Runden Tisch&quot;. Ansichten, Kontroversen und Gespräche live im Fernsehen von Rai Südtirol. Moderation: Christian Bassani.</desc>
-  </programme>
-  <programme start="20261109212000 +0100" stop="20261109214930 +0100" channel="Rai Südtirol">
-    <title>dF</title>
-    <sub-title>Das Frauenmagazin</sub-title>
-    <desc>Essstörungen nehmen zu. Sind Social Media sogar der Trigger dafür? Was sind Warnsignale? Außerdem Jungunternehmerin Bea Eccel im Porträt. Moderation: Martina Kreuzer. 
-Essstörungen unter jungen Frauen und Kindern nehmen rasant zu. 2026 sind die Neuerkrankungen bei Minderjährigen um 21% gestiegen. Auch 10-Jährige tauchen nun in der Statistik auf. Gleichzeitig beobachten Therapeutinnen, Ärztinnen und Social Media- Experten, wie auf TikTok, Instagram&amp;Co immer mehr Videos zum Thema Essen, Gesundheit, Dünnsein, Fitness erscheinen. In einer Gesellschaft der Selbstoptimierung wird der Körper zur ständigen Baustelle. Wir fragen: Und wie erkennt man, wann der Sog aus Sport und gesunder Ernährung bedrohlich wird? 
-Mit 28 Jahren die Nachfolge des Vaters antreten und heute ein Unternehmen mit bis zu 150 Beschäftigten führen: Wie wächst man in eine solche Verantwortung hinein? Darum geht es in unserem aktuellen dF-Porträt über Bea Eccel, Geschäftsführerin des Sarner Unternehmens Lavarent. Eine Frau, die auch abseits des Berufs gerne ihre Komfortzone verlässt. 
-Für dF Info waren wir bei der Tagung &quot;„Zukunft Familie 2026&quot; und beim Frauenmarsch, der in diesem Jahr noch politischer war als sonst.</desc>
-  </programme>
-  <programme start="20261109215000 +0100" stop="20261109215750 +0100" channel="Rai Südtirol">
-    <title>Klick Mini</title>
-    <sub-title>Die Yoseikan Budo Sportler</sub-title>
-    <desc/>
-  </programme>
-  <programme start="20261109221000 +0100" stop="20261109223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261110200000 +0100" stop="20261110202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
