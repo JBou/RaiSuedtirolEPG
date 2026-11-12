@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261111200000 +0100" stop="20261111202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261111202000 +0100" stop="20261111204930 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Ein Strafmandat nach dem Einkauf im Supermarkt? Immer häufiger sorgen private Parkplatzbetreiber mit Zahlungsaufforderungen für Ärger bei Autofahrerinnen und Autofahrern.  
-
-&quot;Pluspunkt&quot; klärt mit der Verbraucherzentrale Südtirol, was erlaubt ist und wie Betroffene reagieren sollten. Passend zur bevorstehenden Weihnachtszeit gibt es außerdem Tipps rund um Gutscheine und worauf man beim Kauf und Einlösen achten sollte. 
-Originalersatzteil oder günstige Alternative? Auch bei Autoreparaturen lässt sich oft Geld sparen. Doch wie groß sind die Unterschiede bei Preis und Qualität? in Blick in eine freie Werkstatt zeigt, worauf es ankommt und welche Auswirkungen Ersatzteile von Drittanbietern auf Garantie und Versicherung haben können. Und für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; geht es diesmal nach Kastelbell im Vinschgau. Was macht die Gemeinde besonders lebenswert?</desc>
-  </programme>
-  <programme start="20261111221000 +0100" stop="20261111223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261112200000 +0100" stop="20261112202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
