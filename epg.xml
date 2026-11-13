@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261112200000 +0100" stop="20261112202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261112202000 +0100" stop="20261112204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Wer schreibt noch Briefe?</sub-title>
-    <desc>Ist Briefe schreiben eine verstaubte Tradition oder gibt es sie noch, die Tinte und Papier für persönliche Nachrichten verwenden? 
-
-Wann hatten Sie den letzten handgeschriebenen Brief, die letzte Urlaubs-Postkarte im Briefkasten? Schreiben wir in Zeiten von WhatsApp überhaupt noch echte Briefe - oder ist die handgeschriebene Postkarte längst zum nostalgischen Trend geworden? Eine Spurensuche zwischen Papier-Liebe und digitalem Fortschritt. 
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Posthäuser in Sand in Taufers&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261112221000 +0100" stop="20261112223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261113175900 +0100" stop="20261113182830 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Wer schreibt noch Briefe?</sub-title>
@@ -116,6 +98,194 @@ Traumjob Skilehrer? Den ganzen Tag auf der Piste stehen, gut Ski fahren und dabe
     <desc/>
   </programme>
   <programme start="20261115221000 +0100" stop="20261115223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261116175900 +0100" stop="20261116182700 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Yoseikan Budo</sub-title>
+    <desc>Die Sportkids aus Lana trainieren eine besondere japanische Kampfsportart: Yoseikan Budo. Dabei werden verschiedene Techniken aus Karate, Judo und Aikido miteinander kombiniert. Die Kinder unterschiedlichen Alters üben gemeinsam mit ihrem Trainer Patrick Schlag- und Tritttechniken, Würfe und Selbstverteidigung. Die Sportkids zeigen, was sie beim Training alles lernen und warum ihnen dieser Sport so viel Spaß macht.  
+Anschließend bei Kochen kreativ werden Blumenkohlmuffins gebacken.</desc>
+  </programme>
+  <programme start="20261116182700 +0100" stop="20261116185130 +0100" channel="Rai Südtirol">
+    <title>Klick</title>
+    <sub-title>Magazin für Jugend und Eltern</sub-title>
+    <desc>Junge Talente, große Bühne: Beim Festival Steinegg Live gehört das Rampenlicht dem Nachwuchs. KLICK begleitet die Cousinen Emma und Maja, die aus musikalischen Familien stammen, bei den Vorbereitungen ihres Auftrittes auf der Festivalbühne. Auch die 17-jährige Olivia Kaufmann steht im Mittelpunkt: Die frisch gekürte österreichische U20-Meisterin im Poetry Slam begeistert mit selbst geschriebenen Texten, die berühren und zum Nachdenken anregen. Zwischen Lampenfieber, Leidenschaft und Applaus erleben wir, wie junge Künstlerinnen ihren ganz eigenen Weg auf die Bühne finden. Lernen einmal anders: Epochenunterricht, Klassenspiel und selbstständiges Arbeiten gehören zum Schulalltag an der Waldorf-Oberschule in Meran. KLICK besucht die noch junge Schule und erfährt, was ihren pädagogischen Ansatz von herkömmlichen Oberschulen unterscheidet. Schülerinnen, Schüler und Lehrpersonen geben Einblicke in den Unterricht und zeigen, wie eigenständiges Lernen, Kreativität und persönliche Entwicklung miteinander verbunden werden. 
+Traumjob Skilehrer? Den ganzen Tag auf der Piste stehen, gut Ski fahren und dabei Geld verdienen - so einfach ist es nicht. KLICK begleitet einen angehenden Skilehrer und wirft einen Blick hinter die Kulissen eines Berufs, der weit mehr verlangt als sportliches Können.</desc>
+  </programme>
+  <programme start="20261116185100 +0100" stop="20261116185811 +0100" channel="Rai Südtirol">
+    <title>dF-Frauenbilder</title>
+    <sub-title>Martine de Biasi, Filmemacherin und Aktivistin</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261116200000 +0100" stop="20261116202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261116202000 +0100" stop="20261116211900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der Science-Slam, ein Probenbericht zum Theaterstück Vanya, die Musikerin Maria Craffonara, Mahlers Enkelin Marina, der &quot;Niederstätter surPrize 2026&quot;. Es moderiert Alexander Lechner. 
+
+Zu Gast sind Kuno Prey, Professor an der Fakultät für Design und Künste an der Uni Bozen und Stand-up-Comedian Alex Giovanelli.  
+Marina Mahler, Enkelin von Gustav und Alma Mahler, bewahrt und pflegt das bedeutende musikalische sowie kulturelle Erbe ihrer Familie. Darüber hinaus engagiert sie sich aktiv in internationalen Kulturprojekten und fördert gezielt junge Musiker:innen. Wir haben sie in Toblach im Rahmen der Gustav Mahler Musikwochen getroffen.  
+Simon Stephens' Stück Vanya ist eine radikale Ein-Personen-Adaption des Klassikers Onkel Wanja von Anton Tschechow, in dem ein einziger Schauspieler sämtliche Rollen verkörpert. 
+Der Science Slam vereint Wissenschaft und Unterhaltung auf der Bühne, um komplexe Forschungsthemen einem breiten Publikum zugänglich zu machen. Organisiert von Eurac Research, der Freien Universität Bozen und dem NOI Techpark präsentieren Forscher:innen ihre Projekte in kurzen Vorträgen.  
+Beim diesjährigen 24. Europäischen Kleinkunstwettbewerb &quot;Niederstätter surPrize 2026&quot; bewegten sich die Künstler in Zwischenräumen, die Perspektiven und Übergänge in andere Welten bieten: von der Realität zur Fantasie, von der Vergangenheit in die Zukunft, vom Innen ins außen und umgekehrt. 
+Die Musikerin Maria Craffonara feierte vor kurzem mit ihrem Trio eine Uraufführung, in der sich Texte und Songs mit der Schönheit der Welt beschäftigen: Das Stück nennt sich: &quot;Blauer Punkt im All&quot;.</desc>
+  </programme>
+  <programme start="20261116212000 +0100" stop="20261116214930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Erinnerung an den Sieg der Friesen über die Holländer, die Dialektologie-Tagung an der Uni Bozen, Sprachforscherin Barbara Henisch über ChatGPT und regionale Sprachen.   Am 26. September 1345 besiegten friesische Verbände in der legendären &quot;Schlacht bei Warns&quot; das Ritterheer des Grafen Wilhelm IV. von Holland und stoppten so dessen Invasion. Dieser Sieg gilt bis heute als Symbol für den Widerstand gegen den Feudalismus und die &quot;friesische Freiheit&quot; (Fryske Frijheid). Minet hat die diesjährige Gedenkfeier in Warns besucht.  
+An der Uni Bozen fand heuer die Bayerisch-Österreichische Dialektologie-Tagung mit dem Schwerpunktthema &quot;Dialekt und Mehrsprachigkeit&quot; statt. Dabei ging es vor allem um das Zusammenspiel verschiedener Sprachräume, Mehrsprachigkeitsformen und den sprachlichen Wandel. Passend dazu informiert im Minet-Gespräch die Sprachforscherin an der Eurac Barbara Heinisch, ob ChatGPT Südtirolerisch oder Österreichisch kann und wie KI mit regionalen sprachlichen Besonderheiten umgeht.  
+In der Reihe &quot;Tribal Voices&quot; erzählt die Hongana Manyawa Familie aus Indonesien über die Zerstörung des Regenwaldes von Halmahera.  
+Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20261116214900 +0100" stop="20261116215854 +0100" channel="Rai Südtirol">
+    <title>Klick mini</title>
+    <sub-title>Tabula rasa</sub-title>
+    <desc>Eine Bozner Plattform, um eigene junge Ideen zu realisieren: z.B. einen kleinen Spieltisch im Freien.</desc>
+  </programme>
+  <programme start="20261116221000 +0100" stop="20261116223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261117200000 +0100" stop="20261117202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261117202000 +0100" stop="20261117203500 +0100" channel="Rai Südtirol">
+    <title>Im Fokus</title>
+    <sub-title>Talksendung mit Hannes Senfter</sub-title>
+    <desc>Ein Gast steht im Mittelpunkt des neuen Sendeformats. Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Dann steht der jeweilige Gast sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
+  </programme>
+  <programme start="20261117203500 +0100" stop="20261117204930 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die SportZeit in dieser Woche berichtet über die Trophäe der Stadt Bozen im Rad-Querfeldein, auch als Ciclocross bekannt und über die Vorstellung des neuen Rennkalenders der FISI im Felsenkeller in Pfatten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20261117221000 +0100" stop="20261117223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261118200000 +0100" stop="20261118202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261118202000 +0100" stop="20261118204930 +0100" channel="Rai Südtirol">
+    <title>Minet</title>
+    <sub-title>Das Minderheitenmagazin</sub-title>
+    <desc>Kasachstan, die Wiege des Ur-Apfels. Das Saterfriesische, die kleinste Minderheitensprache in Deutschland. Die Neuauflage der &quot;Triester Zeitung&quot;. 
+
+In den Gebirgsregionen Kasachstans liegt der genetische Ursprung aller modernen Kulturäpfel. Der wilde Ur-Apfel Malus sieversii überdauerte dort über Jahrtausende in seinen natürlichen Beständen. Bis heute gilt das Land für die internationale Botanik und Agrarwissenschaft als unersetzliches Genreservoir. 
+Im saterfriesischen Ramsloh berieten die Vertretungen der vier autochthonen nationalen Minderheiten Deutschlands über zukunftsweisende Projekte: der Schutz der kulturellen und sprachlichen Vielfalt sowie die Weiterentwicklung der gemeinsamen Jugendarbeit. Das Treffen unterstrich die Bedeutung des interkulturellen Dialogs für den Erhalt des regionalen Erbes. 
+Mit der Neuauflage der historischen Triester Zeitung lebt die deutschsprachige Publizistik in der Adriatischen Hafenstadt wieder auf. Ein sichtbares Zeichen für den grenzüberschreitenden kulturellen Austausch in der Region. 
+In der Reihe &quot;Tribal Voices&quot; erzählt Tilak der Jenu Kuruba aus Indien über die Rückkehr seiner Familie in den Nagarhole Urwald nach der Vertreibung vor 40 Jahren. Es moderiert Christina Khuen.</desc>
+  </programme>
+  <programme start="20261118221000 +0100" stop="20261118223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261119200000 +0100" stop="20261119202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261119202000 +0100" stop="20261119204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Unser Wald</sub-title>
+    <desc>Südtirols Wälder sind im Stress, denn der Schutzwall der Alpen gerät ins Wanken. Was wird dagegen unternommen? Moderatorin Karin Gschnitzer fragt nach. 
+
+Steile Hänge, dichte Fichten und der duftende Schutz der Zirben – Südtirols Wälder sind weit mehr als eine idyllische Postkartenkulisse. Sie sichern Talschaften vor Murenabgängen, fangen Lawinen ab und prägen das alpine Ökosystem. Doch Dürreperioden, der Borkenkäfer und Extremwetter setzen dem grünen Schutzschild der Region zunehmend zu. 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Föhre&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
+  </programme>
+  <programme start="20261119221000 +0100" stop="20261119223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261120180000 +0100" stop="20261120182930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Unser Wald</sub-title>
+    <desc>Südtirols Wälder sind im Stress, denn der Schutzwall der Alpen gerät ins Wanken. Was wird dagegen unternommen? Moderatorin Karin Gschnitzer fragt nach. Steile Hänge, dichte Fichten und der duftende Schutz der Zirben – Südtirols Wälder sind weit mehr als eine idyllische Postkartenkulisse. Sie sichern Talschaften vor Murenabgängen, fangen Lawinen ab und prägen das alpine Ökosystem. Doch Dürreperioden, der Borkenkäfer und Extremwetter setzen dem grünen Schutzschild der Region zunehmend zu. 
+In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Föhre&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
+  </programme>
+  <programme start="20261120183000 +0100" stop="20261120184430 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Die SportZeit in dieser Woche berichtet über die Trophäe der Stadt Bozen im Rad-Querfeldein, auch als Ciclocross bekannt und über die Vorstellung des neuen Rennkalenders der FISI im Felsenkeller in Pfatten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
+  </programme>
+  <programme start="20261120184400 +0100" stop="20261120185700 +0100" channel="Rai Südtirol">
+    <title>Gipfelerlebnisse</title>
+    <sub-title>Der Zweite Sellaturm</sub-title>
+    <desc>Hüttenwirt David Piazza und die ehemalige Skispringerin Barbara Stuffer klettern zusammen mit Bergführer Manni Stuffer auf den Zweiten Sellaturm. Der Zweite Sellaturm ist mit seinen knapp 2600 Metern Höhe nur ein Zwerg neben den Giganten der Dolomiten. Wie schön es da oben trotzdem sein kann, erzählen der Wirt der Raschötzhütte David Piazza und die ehemalige Skispringerin Barbara Stuffer, beide aus Grödner. Geführt vom Bergführer Manfred Stuffer, klettern sie zusammen über den Normalweg bis zum Gipfel, wo der Hüttenwirt mit seinem Alphorn für eine ganz besondere Stimmung sorgt. Gipfelerlebnisse ist ein TV-Reihe von Hans Peter Karbon und Manfred Stuffer.</desc>
+  </programme>
+  <programme start="20261120200000 +0100" stop="20261120202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261120202000 +0100" stop="20261120205022 +0100" channel="Rai Südtirol">
+    <title>Schach Max</title>
+    <sub-title>...als Pilot</sub-title>
+    <desc>Über den Wolken mag die Challenge wohl grenzenlos sein... In der neuesten Folge hebt Host Max von Milland ordentlich ab: Er muss sich als Pilot beweisen! 
+
+Dabei wagt Max den Blick hinter die Kulissen der Fliegerei, lernt das Flugzeug bis ins kleinste Detail kennen und kommt dem Flugpersonal ganz nah. Neben spannenden Einblicken in die Luftfahrt erfährt er auch, warum ausgerechnet Handschellen an Bord eines Flugzeugs keinesfalls fehlen dürfen... 
+Ob Max von Milland die steile Challenge im Cockpit meistert oder am Ende eine völlig neue Art der Flugangst entwickelt? Sie erfahren es in der nächsten Folge von Schach Max.</desc>
+  </programme>
+  <programme start="20261120205000 +0100" stop="20261120215609 +0100" channel="Rai Südtirol">
+    <title>Der Gottfried, der Solderer</title>
+    <sub-title/>
+    <desc>Zum 5. Todestag von Gottfried Solderer zeichnet der Dokumentarfilm von Evi Oberkofler und Edith Eisenstecken das Leben einer Persönlichkeit nach, die sich in Südtirols kulturellem Diskurs unermüdlich engagiert und tief eingeschrieben hat: als Journalist, Verlagsgründer, Autor, Kulturvisionär, Familienmensch und Naturfreund. 
+Von seinen bescheidenen Anfängen als Bergbauernsohn bis zur Chefredaktion der &quot;FF&quot; - der ersten Südtiroler Fernsehprogrammzeitschrift und Illustrierten – folgt der Film seinem Weg. Solderes Lebensziel war eine vielfältige mediale Landschaft. Er wollte die Geschichte der Region bewusst machen, die regionale Literatur fördern und den kulturellen Standort Südtirol nachhaltig stärken. Der Film zeigt, wie Solderer beharrlich neue Medienformen prägte: Als &quot;Erfinder&quot; der FF, als Verleger der &quot;Edition Raetia&quot;, als Gründungsvater der Produktionsfirma &quot;Albolina Film&quot; und als engagierter Chronist der Südtiroler Kultur. Anhand von Interviews mit engsten Freunden, künstlerischen MitstreiterInnen, Arbeitskollegen und Familienangehörigen - verdichtet mit fotografischem Archivmaterial - entsteht die Geschichte eines reichen Lebens voll hart erkämpfter Erfolge, persönlicher Rückschläge und großer Menschlichkeit. Ein Südtiroler Porträt und eine Hommage an Gottfried Solderer.</desc>
+  </programme>
+  <programme start="20261120215700 +0100" stop="20261120215929 +0100" channel="Rai Südtirol">
+    <title>Südtiroler Museen</title>
+    <sub-title>Reisen und Rasten</sub-title>
+    <desc/>
+  </programme>
+  <programme start="20261120221000 +0100" stop="20261120223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261121180000 +0100" stop="20261121185900 +0100" channel="Rai Südtirol">
+    <title>Kompass</title>
+    <sub-title>Szenen der Kultur</sub-title>
+    <desc>Der Science-Slam, ein Probenbericht zum Theaterstück Vanya, die Musikerin Maria Craffonara, Mahlers Enkelin Marina, der &quot;Niederstätter surPrize 2026&quot;. Es moderiert Alexander Lechner. 
+Zu Gast sind Kuno Prey, Professor an der Fakultät für Design und Künste an der Uni Bozen und Stand-up-Comedian Alex Giovanelli.  
+Marina Mahler, Enkelin von Gustav und Alma Mahler, bewahrt und pflegt das bedeutende musikalische sowie kulturelle Erbe ihrer Familie. Darüber hinaus engagiert sie sich aktiv in internationalen Kulturprojekten und fördert gezielt junge Musiker:innen. Wir haben sie in Toblach im Rahmen der Gustav Mahler Musikwochen getroffen.  
+Simon Stephens' Stück Vanya ist eine radikale Ein-Personen-Adaption des Klassikers Onkel Wanja von Anton Tschechow, in dem ein einziger Schauspieler sämtliche Rollen verkörpert. 
+Der Science Slam vereint Wissenschaft und Unterhaltung auf der Bühne, um komplexe Forschungsthemen einem breiten Publikum zugänglich zu machen. Organisiert von Eurac Research, der Freien Universität Bozen und dem NOI Techpark präsentieren Forscher:innen ihre Projekte in kurzen Vorträgen.  
+Beim diesjährigen 24. Europäischen Kleinkunstwettbewerb &quot;Niederstätter surPrize 2026&quot; bewegten sich die Künstler in Zwischenräumen, die Perspektiven und Übergänge in andere Welten bieten: von der Realität zur Fantasie, von der Vergangenheit in die Zukunft, vom Innen ins außen und umgekehrt. 
+Die Musikerin Maria Craffonara feierte vor kurzem mit ihrem Trio eine Uraufführung, in der sich Texte und Songs mit der Schönheit der Welt beschäftigen: Das Stück nennt sich: &quot;Blauer Punkt im All&quot;.</desc>
+  </programme>
+  <programme start="20261121200000 +0100" stop="20261121202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261121202000 +0100" stop="20261121202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261121202400 +0100" stop="20261121205330 +0100" channel="Rai Südtirol">
+    <title>Reportage Gesundheit</title>
+    <sub-title>Fibromyalgie - Leben mit ständigen Schmerzen</sub-title>
+    <desc>Als Christine Peterlini im Alter von 27 Jahren beim kleinsten Handgriff am ganzen Körper Schmerzen hatte, wurde sie belächelt. Alle Diagnoseverfahren in den verschiedenen Abteilungen waren zum gleichen Ergebnis gekommen: es ist alles in bester Ordnung. 
+
+Heute nach 47 Jahren haben die Schmerzen von damals einen Namen: Fibromyalgie, übersetzt Faser-Muskel-Schmerz. Allerdings: Noch immer gibt es wenige handfeste Beweise, weder im Blut noch durch Röntgenaufnahmen für die Erkrankung. Die Ärzte der Rheumaambulanz in Bozen wissen aber, dass es sich um eine Überaktivierung des Schmerzsystems handelt. In Reportage Gesundheit zeigen wir, welche Schmerztherapien Patienten wie Christine Peterlini machen und worauf sie noch zu achten gelernt haben, um mit der Erkrankung zurecht zu kommen.</desc>
+  </programme>
+  <programme start="20261121221000 +0100" stop="20261121223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
