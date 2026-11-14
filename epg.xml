@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261113175900 +0100" stop="20261113182830 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Wer schreibt noch Briefe?</sub-title>
-    <desc>Ist Briefe schreiben eine verstaubte Tradition oder gibt es sie noch, die Tinte und Papier für persönliche Nachrichten verwenden? 
-Wann hatten Sie den letzten handgeschriebenen Brief, die letzte Urlaubs-Postkarte im Briefkasten? Schreiben wir in Zeiten von WhatsApp überhaupt noch echte Briefe - oder ist die handgeschriebene Postkarte längst zum nostalgischen Trend geworden? Eine Spurensuche zwischen Papier-Liebe und digitalem Fortschritt. 
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Posthäuser in Sand in Taufers&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau-Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261113182900 +0100" stop="20261113184330 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261113184300 +0100" stop="20261113185800 +0100" channel="Rai Südtirol">
-    <title>Einladung ins Museum</title>
-    <sub-title>Museum Gherdëina</sub-title>
-    <desc>Das Museum Gherdëina in St. Ulrich erzählt die Geschichte, Kultur und Traditionen des Grödentals - eines Tales, das über Jahrhunderte hinweg seine besondere Identität und ein bedeutendes künstlerisches Erbe bewahrt hat. In diesem Film von Roberto Condotta gehen wir anhand der Sammlungen des Museums auf eine Reise durch die Geschichte des Tales: von der Archäologie und Geologie über die sakrale Kunst bis hin zur Holzschnitzkunst, einer der charakteristischsten Ausdrucksformen der Grödner Kultur. Skulpturen, Spielzeug, Alltagsgegenstände, archäologische Fundstücke und Fossilien erzählen nicht nur von der Geschichte des Tales, sondern auch von der tiefen Verbindung zwischen den Menschen und der Landschaft der Dolomiten. Eine Reise durch Kunst, Natur und Erinnerung - auf den Spuren der Identität des Grödentals, die im Museum Gherdëina bewahrt wird.</desc>
-  </programme>
-  <programme start="20261113200000 +0100" stop="20261113202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261113202000 +0100" stop="20261113213000 +0100" channel="Rai Südtirol">
-    <title>Kulturgut Wein</title>
-    <sub-title>Wine Festival Meran 2026</sub-title>
-    <desc>Das inzwischen international bekannte &quot;Meran Winefestival&quot; ging Anfang November (6. - 9.11.2026) in die 35. Auflage.  Wir von RAI-Südtirol waren vor Ort und liefern mit diesem Fernsehabend einen Einblick in diese genussvolle Veranstaltung mit dem Motto &quot;Schönheit &amp; Eleganz&quot;. Dabei geht es nicht nur um das Festival, sondern um die Weinszene Südtirols im Besonderen.  Moderator Theo Hendrich begleitet sie durch einen kurzweiligen und schmackhaften TV-Abend mit Gästen der Südtiroler und internationalen Weinwelt, jungen Winzer und Winzerinnen, kulinarischen Überraschungen, wie Mode und Wein harmonieren und anderen Themen mehr. Genießen sie den Abend und lassen sie sich einfach überraschen.</desc>
-  </programme>
-  <programme start="20261113213000 +0100" stop="20261113215900 +0100" channel="Rai Südtirol">
-    <title>Angeklopft</title>
-    <sub-title>Geigenbau</sub-title>
-    <desc>Bei &quot;Angeklopft&quot; erlebt Magdalena Oberstaller, wie eine Geige entsteht, beginnen bei der Auswahl des Baumes, über die jahrelange Lagerung des Holzes bis hin zum fertigen Meisterinstrument in der Werkstatt des Geigenbauers.</desc>
-  </programme>
-  <programme start="20261113221000 +0100" stop="20261113223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261114180000 +0100" stop="20261114182930 +0100" channel="Rai Südtirol">
     <title>Bergwelt</title>
     <sub-title/>
@@ -136,13 +99,12 @@ Der Science Slam vereint Wissenschaft und Unterhaltung auf der Bühne, um komple
 Beim diesjährigen 24. Europäischen Kleinkunstwettbewerb &quot;Niederstätter surPrize 2026&quot; bewegten sich die Künstler in Zwischenräumen, die Perspektiven und Übergänge in andere Welten bieten: von der Realität zur Fantasie, von der Vergangenheit in die Zukunft, vom Innen ins außen und umgekehrt. 
 Die Musikerin Maria Craffonara feierte vor kurzem mit ihrem Trio eine Uraufführung, in der sich Texte und Songs mit der Schönheit der Welt beschäftigen: Das Stück nennt sich: &quot;Blauer Punkt im All&quot;.</desc>
   </programme>
-  <programme start="20261116212000 +0100" stop="20261116214930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Erinnerung an den Sieg der Friesen über die Holländer, die Dialektologie-Tagung an der Uni Bozen, Sprachforscherin Barbara Henisch über ChatGPT und regionale Sprachen.   Am 26. September 1345 besiegten friesische Verbände in der legendären &quot;Schlacht bei Warns&quot; das Ritterheer des Grafen Wilhelm IV. von Holland und stoppten so dessen Invasion. Dieser Sieg gilt bis heute als Symbol für den Widerstand gegen den Feudalismus und die &quot;friesische Freiheit&quot; (Fryske Frijheid). Minet hat die diesjährige Gedenkfeier in Warns besucht.  
-An der Uni Bozen fand heuer die Bayerisch-Österreichische Dialektologie-Tagung mit dem Schwerpunktthema &quot;Dialekt und Mehrsprachigkeit&quot; statt. Dabei ging es vor allem um das Zusammenspiel verschiedener Sprachräume, Mehrsprachigkeitsformen und den sprachlichen Wandel. Passend dazu informiert im Minet-Gespräch die Sprachforscherin an der Eurac Barbara Heinisch, ob ChatGPT Südtirolerisch oder Österreichisch kann und wie KI mit regionalen sprachlichen Besonderheiten umgeht.  
-In der Reihe &quot;Tribal Voices&quot; erzählt die Hongana Manyawa Familie aus Indonesien über die Zerstörung des Regenwaldes von Halmahera.  
-Es moderiert Christina Khuen.</desc>
+  <programme start="20261116212000 +0100" stop="20261116214944 +0100" channel="Rai Südtirol">
+    <title>60 Jahre Rai Südtirol</title>
+    <sub-title/>
+    <desc>Seit 1960 erzählt RAI Südtirol die Geschichte einer Minderheit, begleitet politische Umbrüche und prägt ein kulturelles Selbstverständnis. Eine Dokumentation von Gottfried Deghenghi. 
+Die Dokumentation zeichnet die Entstehung, Entwicklung und Zukunft des deutschsprachigen Fernsehens in Italien nach - als Spiegel einer ganzen Region. 
+Wie hat sich RAI Südtirol vom anfänglich provisorischen Minderheitenprojekt zu einer zentralen Medieninstitution entwickelt. Der Film verbindet Historie, Archivschätze, journalistische Schlüsselereignisse und persönliche Erinnerungen von Mitarbeiter:innen und Zuschauer:innen.</desc>
   </programme>
   <programme start="20261116214900 +0100" stop="20261116215854 +0100" channel="Rai Südtirol">
     <title>Klick mini</title>
@@ -286,6 +248,29 @@ Die Musikerin Maria Craffonara feierte vor kurzem mit ihrem Trio eine Uraufführ
 Heute nach 47 Jahren haben die Schmerzen von damals einen Namen: Fibromyalgie, übersetzt Faser-Muskel-Schmerz. Allerdings: Noch immer gibt es wenige handfeste Beweise, weder im Blut noch durch Röntgenaufnahmen für die Erkrankung. Die Ärzte der Rheumaambulanz in Bozen wissen aber, dass es sich um eine Überaktivierung des Schmerzsystems handelt. In Reportage Gesundheit zeigen wir, welche Schmerztherapien Patienten wie Christine Peterlini machen und worauf sie noch zu achten gelernt haben, um mit der Erkrankung zurecht zu kommen.</desc>
   </programme>
   <programme start="20261121221000 +0100" stop="20261121223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261122200000 +0100" stop="20261122202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261122202000 +0100" stop="20261122204430 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Labers und Freiberg bei Meran</sub-title>
+    <desc>Oberhalb von Meran liegt Labers/Freiberg, ein Ortsteil, der mit seiner besonderen Geschichte, eindrucksvollen Landschaft und einem starken Zusammenhalt überrascht.  
+
+Die Freiwillige Feuerwehr Freiberg ist seit Generationen ein wichtiger Bestandteil des Gemeinschaftslebens. Hoch über dem Tal erzählt die Fragsburg von vergangenen Jahrhunderten und einer Hoteliersfamilie, die hier ihre Wurzeln hat. Ganz in der Nähe stürzt der Fragsburger Wasserfall in die Tiefe. Die Künstlerin Margit Klammer findet in der Natur Inspiration für ihre außergewöhnlichen Werke.  
+Auch Schloss Labers blickt auf eine bewegte Vergangenheit zurück. Heute bemühen sich die Besitzer darum, den historischen Charakter des Schlosses zu bewahren.</desc>
+  </programme>
+  <programme start="20261122204500 +0100" stop="20261122204900 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Florian Kronbichler</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261122221000 +0100" stop="20261122223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
