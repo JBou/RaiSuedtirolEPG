@@ -4,44 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261114180000 +0100" stop="20261114182930 +0100" channel="Rai Südtirol">
-    <title>Bergwelt</title>
-    <sub-title/>
-    <desc>Mit Jagdaufsehern zur Wildbeobachtung in die Texelgruppe und neue Entwicklungen im Genre Bergfilm - das sind die beiden Thermen in dieser Ausgabe der Sendereihe Bergwelt.  
-Die Hirschbrunft in den steilen und unzugänglichen Hängen unterhalb der Vermoispitze und die Beobachtung Gams, Bartgeier und Steinwild im Pfossental sind im Herbst Alltag für die Vinschger Jagdaufseher Paul Gassebner und Kaspar Götsch. Auf ihren Pirschgängen geben sie Einblick in ihren Alltag und berichten vom einem komplexen ökologischen Gleichgewicht im Revier. In einem weiteren Schwerpunkt gehts um neue Entwicklungen im Bergfilm: Neben extremen Leistungen rückt mehr und mehr der Bergsteiger als Mensch in den Fokus - mit seinen Ängsten, Zweifeln und dem Ringen zwischen Verantwortung und Selbstverwirklichung.</desc>
-  </programme>
-  <programme start="20261114182900 +0100" stop="20261114185830 +0100" channel="Rai Südtirol">
-    <title>Pluspunkt</title>
-    <sub-title>Magazin für Verbraucherthemen, Wirtschaft und Soziales</sub-title>
-    <desc>Ein Strafmandat nach dem Einkauf im Supermarkt? Immer häufiger sorgen private Parkplatzbetreiber mit Zahlungsaufforderungen für Ärger bei Autofahrerinnen und Autofahrern.  
-&quot;Pluspunkt&quot; klärt mit der Verbraucherzentrale Südtirol, was erlaubt ist und wie Betroffene reagieren sollten. Passend zur bevorstehenden Weihnachtszeit gibt es außerdem Tipps rund um Gutscheine und worauf man beim Kauf und Einlösen achten sollte. 
-Originalersatzteil oder günstige Alternative? Auch bei Autoreparaturen lässt sich oft Geld sparen. Doch wie groß sind die Unterschiede bei Preis und Qualität? in Blick in eine freie Werkstatt zeigt, worauf es ankommt und welche Auswirkungen Ersatzteile von Drittanbietern auf Garantie und Versicherung haben können. Und für die Reihe &quot;Lebenswerte Orte in Südtirol&quot; geht es diesmal nach Kastelbell im Vinschgau. Was macht die Gemeinde besonders lebenswert?</desc>
-  </programme>
-  <programme start="20261114200000 +0100" stop="20261114202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261114202000 +0100" stop="20261114202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Jakob Declara</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261114202400 +0100" stop="20261114205330 +0100" channel="Rai Südtirol">
-    <title>Beziehungsweise</title>
-    <sub-title>Einfach.ethisch.leben</sub-title>
-    <desc>Trauer, Verlust und Wandel. Menschen stehen im Mittelpunkt dieser Sendung, die sich mit Themen des Abschiedes und Neubeginns beschäftigen. 
-
-Die ehemalige Arzthelferin Elisabeth Patzleiner ist aus Liebe zu den Bergen 1990 aus dem Saarland nach Südtirol gezogen, wurde Bäuerin am Lechnerhof in Prags und vieles mehr. In unterschiedlichsten Vereinen engagiert sie sich ehrenamtlich, hält Schule auf dem Bauernhof und spricht offen über Tabuthemen, das Sterben und auch ihre Krebserkrankung in diesem Jahr. 
-Oft stellt sich nicht nur die Frage, wie mit der eigenen Endlichkeit umgehen, wie wir gut trauern - aber auch, wie wir Menschen begegnen, die in Trauer sind. Der Theologin Renate Rottensteiner, Leiterin der Caritas-Hospizbewegung ist es ein Anliegen, den Menschen Mut zu machen, auf Trauernde zuzugehen.  
-Der Konfliktberater Hermann Barbieri war als Kind oft mit seiner Mutter und Großmutter am Soldatenfriedhof in St. Jakob. Für ihn, der sich zeitlebens dafür engagiert, dass Menschen sich verstehen, hat sich früh schon die Frage gestellt, warum von Kriegs-Tüchtigkeit gesprochen wird, nie von der Ermächtigung zum Frieden.  
-Für Frieden engagiert sich auch Anja Stecher aus Prad. Sie ist Gründerin des Vereins Asante, engagiert sich seit bald zehn Jahren ehrenamtlich in Tansania und bereist das Land mehrmals pro Jahr. Hierzulande arbeitet sie als Koordinatorin der Palliativstation der Stiftung St. Elisabeth in Martinsbrunn. Sie ist heute zu Gast bei Claudia Schuler und spricht unter anderem auch darüber, wie unterschiedlich die Menschen in Afrika und Europa dem Tod begegnen.</desc>
-  </programme>
-  <programme start="20261114221000 +0100" stop="20261114223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261115200000 +0100" stop="20261115202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
