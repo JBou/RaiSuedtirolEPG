@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261117200000 +0100" stop="20261117202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261117202000 +0100" stop="20261117203500 +0100" channel="Rai Südtirol">
-    <title>Im Fokus</title>
-    <sub-title>Talksendung mit Hannes Senfter</sub-title>
-    <desc>Ein Gast steht im Mittelpunkt des neuen Sendeformats. Einmal monatlich geht es um aktuell brisante Themen aus Politik und Gesellschaft, denen sich der jeweilige Studiogast in einem Gespräch stellen muss. Dann steht der jeweilige Gast sprichwörtlich im Fokus der Scheinwerfer von Rai Südtirol.  Moderiert wird die Talksendung von Hannes Senfter.</desc>
-  </programme>
-  <programme start="20261117203500 +0100" stop="20261117204930 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Die SportZeit in dieser Woche berichtet über die Trophäe der Stadt Bozen im Rad-Querfeldein, auch als Ciclocross bekannt und über die Vorstellung des neuen Rennkalenders der FISI im Felsenkeller in Pfatten. Die kompakten Sportnachrichten gehören wie immer zur Sendung dazu, genauso wie die Sporttermine der kommenden Woche.</desc>
-  </programme>
-  <programme start="20261117221000 +0100" stop="20261117223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261118200000 +0100" stop="20261118202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
