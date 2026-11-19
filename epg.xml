@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261118200000 +0100" stop="20261118202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261118202000 +0100" stop="20261118204930 +0100" channel="Rai Südtirol">
-    <title>Minet</title>
-    <sub-title>Das Minderheitenmagazin</sub-title>
-    <desc>Kasachstan, die Wiege des Ur-Apfels. Das Saterfriesische, die kleinste Minderheitensprache in Deutschland. Die Neuauflage der &quot;Triester Zeitung&quot;. 
-
-In den Gebirgsregionen Kasachstans liegt der genetische Ursprung aller modernen Kulturäpfel. Der wilde Ur-Apfel Malus sieversii überdauerte dort über Jahrtausende in seinen natürlichen Beständen. Bis heute gilt das Land für die internationale Botanik und Agrarwissenschaft als unersetzliches Genreservoir. 
-Im saterfriesischen Ramsloh berieten die Vertretungen der vier autochthonen nationalen Minderheiten Deutschlands über zukunftsweisende Projekte: der Schutz der kulturellen und sprachlichen Vielfalt sowie die Weiterentwicklung der gemeinsamen Jugendarbeit. Das Treffen unterstrich die Bedeutung des interkulturellen Dialogs für den Erhalt des regionalen Erbes. 
-Mit der Neuauflage der historischen Triester Zeitung lebt die deutschsprachige Publizistik in der Adriatischen Hafenstadt wieder auf. Ein sichtbares Zeichen für den grenzüberschreitenden kulturellen Austausch in der Region. 
-In der Reihe &quot;Tribal Voices&quot; erzählt Tilak der Jenu Kuruba aus Indien über die Rückkehr seiner Familie in den Nagarhole Urwald nach der Vertreibung vor 40 Jahren. Es moderiert Christina Khuen.</desc>
-  </programme>
-  <programme start="20261118221000 +0100" stop="20261118223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261119200000 +0100" stop="20261119202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
