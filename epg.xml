@@ -4,24 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261119200000 +0100" stop="20261119202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261119202000 +0100" stop="20261119204930 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Unser Wald</sub-title>
-    <desc>Südtirols Wälder sind im Stress, denn der Schutzwall der Alpen gerät ins Wanken. Was wird dagegen unternommen? Moderatorin Karin Gschnitzer fragt nach. 
-
-Steile Hänge, dichte Fichten und der duftende Schutz der Zirben – Südtirols Wälder sind weit mehr als eine idyllische Postkartenkulisse. Sie sichern Talschaften vor Murenabgängen, fangen Lawinen ab und prägen das alpine Ökosystem. Doch Dürreperioden, der Borkenkäfer und Extremwetter setzen dem grünen Schutzschild der Region zunehmend zu. 
-In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Die Föhre&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976.</desc>
-  </programme>
-  <programme start="20261119221000 +0100" stop="20261119223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261120180000 +0100" stop="20261120182930 +0100" channel="Rai Südtirol">
     <title>Südtirol Magazin</title>
     <sub-title>Unser Wald</sub-title>
@@ -119,6 +101,162 @@ Auch Schloss Labers blickt auf eine bewegte Vergangenheit zurück. Heute bemühe
     <desc/>
   </programme>
   <programme start="20261122221000 +0100" stop="20261122223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261123180000 +0100" stop="20261123182800 +0100" channel="Rai Südtirol">
+    <title>Zipp TV-Kinderfernsehen</title>
+    <sub-title>Karamela im Fernheizwerk</sub-title>
+    <desc>Clownfrau Karamela friert - ihre Heizung ist ausgefallen, und draußen schneit es unaufhörlich. Zum Glück trifft sie auf eine Gruppe Kinder, die dem Fernheizwerk in Bozen einen Besuch abstatten. &quot;Wenigstens ist es dort schön warm!&quot;, denkt sich Karamela und folgt ihnen neugierig durch die große Anlage. Vom der nahegelegenen Müllverwertungsanlage gelangt heißer Dampf ins Fernheizwerk. Dort wird die Wärme weiterverteilt und durch unterirdische Rohre in viele Häuser der Stadt geschickt. So wird aus Restmüll wohlige Wärme - und Karamela ist nicht nur begeistert, sondern endlich auch wieder richtig warm.</desc>
+  </programme>
+  <programme start="20261123182800 +0100" stop="20261123185230 +0100" channel="Rai Südtirol">
+    <title>Land und Leute</title>
+    <sub-title>Labers und Freiberg bei Meran</sub-title>
+    <desc>Oberhalb von Meran liegt Labers/Freiberg, ein Ortsteil, der mit seiner besonderen Geschichte, eindrucksvollen Landschaft und einem starken Zusammenhalt überrascht. Die Freiwillige Feuerwehr Freiberg ist seit Generationen ein wichtiger Bestandteil des Gemeinschaftslebens. Hoch über dem Tal erzählt die Fragsburg von vergangenen Jahrhunderten und einer Hoteliersfamilie, die hier ihre Wurzeln hat. Ganz in der Nähe stürzt der Fragsburger Wasserfall in die Tiefe. Die Künstlerin Margit Klammer findet in der Natur Inspiration für ihre außergewöhnlichen Werke. Auch Schloss Labers blickt auf eine bewegte Vergangenheit zurück. Heute bemühen sich die Besitzer darum, den historischen Charakter des Schlosses zu bewahren.</desc>
+  </programme>
+  <programme start="20261123185200 +0100" stop="20261123185750 +0100" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title>Robotik</sub-title>
+    <desc>Robotik soll den Menschen nicht ersetzen, sondern ihn dort unterstützen, wo der eigene Körper an seine Grenzen stößt. Beim Forum &quot;Robotics in Practice&quot; im NOI Techpark zeigten Forschende und Unternehmen, wie neue Technologien bereits heute in Rehabilitation, Pflege und Alltag eingesetzt werden.</desc>
+  </programme>
+  <programme start="20261123200000 +0100" stop="20261123202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261123202000 +0100" stop="20261123215930 +0100" channel="Rai Südtirol">
+    <title>Nachgeschaut</title>
+    <sub-title>Glauben ohne Kirche - geht das?</sub-title>
+    <desc>Die Kirchen werden immer leerer. Nur noch jedes vierte Paar heiratet kirchlich. Die Taufen sind rückläufig. Die Bindung an die Kirche lässt nach. Besonders für viele junge Menschen spielt sie kaum noch eine Rolle. Aber was ist mit dem Glauben? Wo finden Menschen heute Halt, Sinn und Orientierung? Und braucht es dafür überhaupt die Kirche? 
+
+Wolfgang Moser geht diesen Fragen in seiner Dokumentation nach. Anschließend diskutieren der freie Theologe und Ritualgestalter Rudi Sampt, die Religionspädagogin Dorothea Rechenmacher, die Bahá'í-Anhängerin Martina De Zordo und der agnostische Atheist David Gruber.  Im Interview: Simon Klotzner, Landesleiter von Südtirols Katholischer Jugend und P. Shenoy Varghese, Pfarrer von St. Gertraud/Haslach, live aus dem Pfarrzentrum St. Gertraud in Bozen-Haslach. Moderation: Judith Bertagnolli.</desc>
+  </programme>
+  <programme start="20261123221000 +0100" stop="20261123223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261124200000 +0100" stop="20261124202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261124202000 +0100" stop="20261124203500 +0100" channel="Rai Südtirol">
+    <title>Pro &amp; Contra</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261124203500 +0100" stop="20261124204930 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Sein absolutes Ziel: die Paralympics 2028 in Los Angeles. David Kammerer ist Para-Sportkletterer und derzeit recht gut im Weltcup unterwegs. Training, Wettkampf und sein ganzes Leben ist derzeit auf das eine, große Event fokussiert. Doch, dort hin zu dürfen wird kein Leichtes, denn nur 40 Athleten qualifizieren sich. Da heißt es beißen und alles Potential mobilisieren - punktgenau. Diese Sportgeschichte gibt es unter anderem bei der SportZeit am Dienstag auf Rai Südtirol. Dazu noch kompakte Sportnews aus Südtirol und den Terminkalender für die kommende Woche.</desc>
+  </programme>
+  <programme start="20261124221000 +0100" stop="20261124223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261125200000 +0100" stop="20261125202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261125202000 +0100" stop="20261125204930 +0100" channel="Rai Südtirol">
+    <title>Land &amp; Leben</title>
+    <sub-title>Magazin für Landwirtschaft</sub-title>
+    <desc>Weinfässer mit Geschichte: Wie drei Brüder ein traditionelles Handwerk in die Zukunft führen Gin aus den Dolomiten: Wie aus Erfahrung und Natur besondere Destillate entstehen Zwischen Regionalität und Weltmarkt: Wie Südtirols Gastronomie mit Lebensmitteln versorgt wird.
+
+In Sigmundskron bei Bozen fertigt die Fassbinderei Mittelberger seit über 60 Jahren hochwertige Holzfässer für den internationalen Markt. Traditionelles Handwerk trifft dabei auf neue Ideen und spezielle Kundenwünsche. Seit 1999 entsteht in der Manufaktur Zu Plun in Kastelruth ein besonderer Gin mit viel Liebe zum Handwerk. Was einst als Leidenschaft von Florian Rabanser Senior begann, wird heute von seinen Söhnen Florian und Paul weitergeführt, mit Gespür für besondere Zutaten, Qualität und außergewöhnliche Aromen. Knapp 40 Millionen Nächtigungen jährlich bedeuten einen enormen Bedarf an Lebensmitteln und davon stammt ein guter Teil aus dem Ausland. Doch wie viel Regionalität lässt sich in der Gastronomie tatsächlich auf den Teller bringen? Land&amp;Leben schaut hinter die Kulissen einer Brennerei, einer Fassbinderei und eines Gastronomie-Großhändlers.</desc>
+  </programme>
+  <programme start="20261125221000 +0100" stop="20261125223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261126200000 +0100" stop="20261126202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261126202000 +0100" stop="20261126204930 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Massentourismus</sub-title>
+    <desc>Südtirol am Limit: Wie der Ansturm auf die Alpen die Heimat zur Zerreißprobe macht.
+
+Der Hype um Hotspots wie den Pragser Wildsee oder die Seceda bringt Natur und Einheimische zunehmend an ihre Grenzen. Bettenstopp, Fahrverbote und Besucherlenkung - die Region kämpft um die Notbremse gegen den Overtourism. Über den Konflikt zwischen wirtschaftlichem Erfolg und dem Verlust der eigenen Heimat. Zu Gast ist Sylvia Rier mit ihrem Buch &quot;Ein Knigge für die Berge&quot;. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Tourismus im Hochpustertal&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261126221000 +0100" stop="20261126223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261127175900 +0100" stop="20261127182830 +0100" channel="Rai Südtirol">
+    <title>Südtirol Magazin</title>
+    <sub-title>Massentourismus</sub-title>
+    <desc>Südtirol am Limit: Wie der Ansturm auf die Alpen die Heimat zur Zerreißprobe macht. Der Hype um Hotspots wie den Pragser Wildsee oder die Seceda bringt Natur und Einheimische zunehmend an ihre Grenzen. Bettenstopp, Fahrverbote und Besucherlenkung - die Region kämpft um die Notbremse gegen den Overtourism. Über den Konflikt zwischen wirtschaftlichem Erfolg und dem Verlust der eigenen Heimat. Zu Gast ist Sylvia Rier mit ihrem Buch &quot;Ein Knigge für die Berge&quot;. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Tourismus im Hochpustertal&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
+  </programme>
+  <programme start="20261127182900 +0100" stop="20261127184330 +0100" channel="Rai Südtirol">
+    <title>SportZeit</title>
+    <sub-title/>
+    <desc>Sein absolutes Ziel: die Paralympics 2028 in Los Angeles. David Kammerer ist Para-Sportkletterer und derzeit recht gut im Weltcup unterwegs. Training, Wettkampf und sein ganzes Leben ist derzeit auf das eine, große Event fokussiert. Doch, dort hin zu dürfen wird kein Leichtes, denn nur 40 Athleten qualifizieren sich. Da heißt es beißen und alles Potential mobilisieren - punktgenau. Diese Sportgeschichte gibt es unter anderem bei der SportZeit am Dienstag auf Rai Südtirol. Dazu noch kompakte Sportnews aus Südtirol und den Terminkalender für die kommende Woche.</desc>
+  </programme>
+  <programme start="20261127184300 +0100" stop="20261127184850 +0100" channel="Rai Südtirol">
+    <title>Südtirol Digital</title>
+    <sub-title>Digitale Verwaltung</sub-title>
+    <desc>Die Baubranche verändert sich: Arbeitsabläufe werden vernetzter, Informationen schneller verfügbar und Gebäude zunehmend am Computer geplant. Südtirol Digital zeigt, wie BIM diese Entwicklung vorantreibt und wo noch Herausforderungen liegen.</desc>
+  </programme>
+  <programme start="20261127184900 +0100" stop="20261127185852 +0100" channel="Rai Südtirol">
+    <title>Drehmomente</title>
+    <sub-title>Die Weberei und Spinnerei Salutt in Mals</sub-title>
+    <desc>Mitten im Ortskern von Mals wurde von 1940 bis 2009 Wolle versponnen und verwebt. Die Maschinen stehen jetzt still, sollen jetzt aber dem Publikum zugänglich gemacht werden. Die Weberei und Spinnerei Salutt war bekannt für die Verarbeitung einheimischer Schafwolle. Schafwolle wurde zu Strickwolle verarbeitet, Fleckenteppiche wurden gewoben, Loden- und Walkstoffe hergestellt. Sieben Jahrzehnte lang ratterten die Maschinen - bis Ende 2009. Der Maschinenpark ist noch immer gut erhalten. Er soll nun dem Publikum zugänglich gemacht werden. So wurde bereits 2021 die ehemalige Verkaufsfläche der Spinnerei zu einem geteilten Arbeitsraum (co working space) umgebaut. Dazu besteht der Plan, die Maschinen einmal im Jahr wieder in Betrieb zu nehmen. Sie sind noch funktionstüchtig und auch das notwendige Know-how ist vorhanden.</desc>
+  </programme>
+  <programme start="20261127200000 +0100" stop="20261127202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261127202000 +0100" stop="20261127215900 +0100" channel="Rai Südtirol">
+    <title>Toms Kellershow</title>
+    <sub-title>Zwischen Politik, Spitzensport, Poesie und Musik</sub-title>
+    <desc>Karl Zeller, langjähriger Südtiroler Parlamentarier und Rechtsanwalt, blickt auf seine politische Laufbahn zurück. Mehr als zwei Jahrzehnte hat er die Südtiroler Autonomiepolitik in Rom mitgestaltet. In der Kellershow erzählt er von politischen Herausforderungen, persönlichen Begegnungen und davon, was hinter den Kulissen der Politik passiert. 
+
+Franz Hofer hat über zwei Jahrzehnte als Mountainbike-Profi internationale Erfolge gefeiert. Heute ist er als MTB-Guide tätig und kennt die Südtiroler Bergwelt wie kaum ein anderer. Er spricht über seine sportliche Karriere, die Faszination des Mountainbikens und den verantwortungsvollen Umgang mit der Natur. Brigitte Knapp ist Schauspielerin, Autorin und Musikerin. Mit ihrem neuen Buch &quot;SchmetterDinge - Sinn &amp; Sinne&quot; und ihrem musikalischen Projekt &quot;zomm(k)lebm&quot; zeigt sie ihre vielseitige künstlerische Seite. Gemeinsam mit der Kellerkapelle sorgt sie auch für die musikalischen Höhepunkte der Sendung. Für poetische und nachdenkliche Momente sorgt der junge Felix Oberhollenzer aus Ahornach. Der erfolgreiche Nachwuchs-Poetry-Slammer präsentiert zwei seiner Texte und beweist, wie viel junge Menschen mit Sprache bewegen können. Ein besonderer Höhepunkt des Abends ist die Prämierung des Jahressiegers beim Kellershow-Rumpler. Wer sich im Laufe des Jahres am geschicktesten angestellt hat, wird nun mit dem begehrten Titel ausgezeichnet.</desc>
+  </programme>
+  <programme start="20261127221000 +0100" stop="20261127223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261128180000 +0100" stop="20261128182939 +0100" channel="Rai Südtirol">
+    <title>Beziehungsweise</title>
+    <sub-title>einfach.ethisch.leben</sub-title>
+    <desc>Trauer, Verlust und Wandel. Menschen stehen im Mittelpunkt dieser Sendung, die sich mit Themen des Abschiedes und Neubeginns beschäftigen. Die ehemalige Arzthelferin Elisabeth Patzleiner ist aus Liebe zu den Bergen 1990 aus dem Saarland nach Südtirol gezogen, wurde Bäuerin am Lechnerhof in Prags und vieles mehr. In unterschiedlichsten Vereinen engagiert sie sich ehrenamtlich, hält Schule auf dem Bauernhof und spricht offen über Tabuthemen, das Sterben und auch ihre Krebserkrankung in diesem Jahr. Oft stellt sich nicht nur die Frage, wie mit der eigenen Endlichkeit umgehen, wie wir gut trauern - aber auch, wie wir Menschen begegnen, die in Trauer sind. Der Theologin Renate Rottensteiner, Leiterin der Caritas-Hospizbewegung ist es ein Anliegen, den Menschen Mut zu machen, auf Trauernde zuzugehen. Der Konfliktberater Hermann Barbieri war als Kind oft mit seiner Mutter und Großmutter am Soldatenfriedhof in St. Jakob. Für ihn, der sich zeitlebens dafür engagiert, dass Menschen sich verstehen, hat sich früh schon die Frage gestellt, warum von Kriegs-Tüchtigkeit gesprochen wird, nie von der Ermächtigung zum Frieden. Für Frieden engagiert sich auch Anja Stecher aus Prad. Sie ist Gründerin des Vereins Asante, engagiert sich seit bald zehn Jahren ehrenamtlich in Tansania und bereist das Land mehrmals pro Jahr. Hierzulande arbeitet sie als Koordinatorin der Palliativstation der Stiftung St. Elisabeth in Martinsbrunn. Sie ist heute zu Gast bei Claudia Schuler und spricht unter anderem auch darüber, wie unterschiedlich die Menschen in Afrika und Europa dem Tod begegnen.</desc>
+  </programme>
+  <programme start="20261128182900 +0100" stop="20261128185805 +0100" channel="Rai Südtirol">
+    <title>Trend</title>
+    <sub-title>Das Wirtschaftsmagazin</sub-title>
+    <desc>Kimchi auf Südtirolerisch, die Softwareentwickler Reguest und Zeppelin an der Börse, die Schließung von Traditionsbetrieben und die Gründe dafür. Moderation: Christian Pfeifer.
+Beim Begriff Innovation muss es nicht immer um Digitales oder um Handy-Apps gehen. Innovativ ist es auch, wenn Traditionen oder fremde Kulturtechniken in unsere traditionelle Lebensmittelproduktion übernommen werden. Ein Beispiel dafür ist das ursprünglich aus Korea stammende Kimchi - eine sehr würzige Sauerkrautvariante. Eine Unternehmenskooperation zwischen der Rizzi Group und Lechner Kraut im Vinschgau hat die biologisch-alpenländischen Versionen von Kimchi auf den Markt gebracht. Eine koreanische Frau zeigt uns, wie originales Kimchi im Haushalt gemacht wird.Die Südtiroler Softwareentwickler Reguest und Zeppelin mit Sitz in Meran gehören zu den wenigen Südtiroler Unternehmen, die den Gang an die Börse gewagt haben. Die Geschäftsführer erzählen über ihre Beweggründe und Erfahrungen damit. In Südtirol gehört es mittlerweile auch zum Alltag, dass Traditionsbetriebe und kleine Handwerksunternehmen schließen. Die Ursachen für solche Entwicklungen sind vielfältig.  Der Juwelier Aster in der Sterzinger Altstadt berichtet über seine Entscheidungen und seine Sicht der Lage.</desc>
+  </programme>
+  <programme start="20261128200000 +0100" stop="20261128202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261128202000 +0100" stop="20261128202400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Jakob Declara</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261128202400 +0100" stop="20261128205330 +0100" channel="Rai Südtirol">
+    <title>Willkommen</title>
+    <sub-title>sehen.entdecken.genießen</sub-title>
+    <desc>Touristische Synergien, Zusammenarbeit und Mehrwert 
+
+Nicht jedes Hotel braucht eine eigne Wellnessanlage. In und um Meran setzen zahlreiche Hotels, Pensionen und auch Urlaub-auf-dem-Bauerhof-Betriebe auf die Zusammenarbeit mit der Therme Meran. So können auch kleinere Beherbergungsbetriebe ihren Gästen ein vielfältiges Wellnessangebot ermöglichen, ohne selbst große Anlagen betreiben zu müssen. Gleichzeitig profitiert die Therme Meran von den Urlaubsgästen der Partnerbetriebe. Ein Beispiel dafür, wie sich touristische Strukturen gegenseitig stärken. So entsteht ein gemeinsamer Mehrwert für die gesamte Ferienregion, von dem auch Einheimische ihren Nutzen ziehen. Ein weiteres Thema im Willkommen Magazin betrifft die HGV-Ehrung der 340 Wirtinnen und Wirte aus ganz Südtirol für ihre über 50jährige Tätigkeit im Gastgewerbe. Menschen, die den Tourismus in Südtirol aufgebaut haben und teilweise heute noch in ihren Betrieben mitarbeiten, wie zum Beispiel im Restaurant Finsterwirt in Brixen oder im Hotel Erika in Dorf Tirol. Wir haben die Gastgeber-Ehepaare in ihrem Alltag begleitet. In unserem letzten Beitrag dreht sich alles um Respekt und darum, warum man ihn sogar schmecken kann. Woher kommen unsere Lebensmittel, wer produziert sie und wie bewusst gehen wir mit ihnen um? Bei der diesjährigen Fachmesse &quot;Gustoso&quot; steht eine Gastronomie im Mittelpunkt, die Regionalität, Saisonalität und Wertschätzung zusammendenkt. &quot;Willkommen&quot; zeigt, wie diese Haltung in Südtirol auf den Teller kommt.</desc>
+  </programme>
+  <programme start="20261128221000 +0100" stop="20261128223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
