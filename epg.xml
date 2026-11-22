@@ -4,39 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261121180000 +0100" stop="20261121185900 +0100" channel="Rai Südtirol">
-    <title>Kompass</title>
-    <sub-title>Szenen der Kultur</sub-title>
-    <desc>Der Science-Slam, ein Probenbericht zum Theaterstück Vanya, die Musikerin Maria Craffonara, Mahlers Enkelin Marina, der &quot;Niederstätter surPrize 2026&quot;. Es moderiert Alexander Lechner. 
-Zu Gast sind Kuno Prey, Professor an der Fakultät für Design und Künste an der Uni Bozen und Stand-up-Comedian Alex Giovanelli.  
-Marina Mahler, Enkelin von Gustav und Alma Mahler, bewahrt und pflegt das bedeutende musikalische sowie kulturelle Erbe ihrer Familie. Darüber hinaus engagiert sie sich aktiv in internationalen Kulturprojekten und fördert gezielt junge Musiker:innen. Wir haben sie in Toblach im Rahmen der Gustav Mahler Musikwochen getroffen.  
-Simon Stephens' Stück Vanya ist eine radikale Ein-Personen-Adaption des Klassikers Onkel Wanja von Anton Tschechow, in dem ein einziger Schauspieler sämtliche Rollen verkörpert. 
-Der Science Slam vereint Wissenschaft und Unterhaltung auf der Bühne, um komplexe Forschungsthemen einem breiten Publikum zugänglich zu machen. Organisiert von Eurac Research, der Freien Universität Bozen und dem NOI Techpark präsentieren Forscher:innen ihre Projekte in kurzen Vorträgen.  
-Beim diesjährigen 24. Europäischen Kleinkunstwettbewerb &quot;Niederstätter surPrize 2026&quot; bewegten sich die Künstler in Zwischenräumen, die Perspektiven und Übergänge in andere Welten bieten: von der Realität zur Fantasie, von der Vergangenheit in die Zukunft, vom Innen ins außen und umgekehrt. 
-Die Musikerin Maria Craffonara feierte vor kurzem mit ihrem Trio eine Uraufführung, in der sich Texte und Songs mit der Schönheit der Welt beschäftigen: Das Stück nennt sich: &quot;Blauer Punkt im All&quot;.</desc>
-  </programme>
-  <programme start="20261121200000 +0100" stop="20261121202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261121202000 +0100" stop="20261121202400 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261121202400 +0100" stop="20261121205330 +0100" channel="Rai Südtirol">
-    <title>Reportage Gesundheit</title>
-    <sub-title>Fibromyalgie - Leben mit ständigen Schmerzen</sub-title>
-    <desc>Als Christine Peterlini im Alter von 27 Jahren beim kleinsten Handgriff am ganzen Körper Schmerzen hatte, wurde sie belächelt. Alle Diagnoseverfahren in den verschiedenen Abteilungen waren zum gleichen Ergebnis gekommen: es ist alles in bester Ordnung. 
-
-Heute nach 47 Jahren haben die Schmerzen von damals einen Namen: Fibromyalgie, übersetzt Faser-Muskel-Schmerz. Allerdings: Noch immer gibt es wenige handfeste Beweise, weder im Blut noch durch Röntgenaufnahmen für die Erkrankung. Die Ärzte der Rheumaambulanz in Bozen wissen aber, dass es sich um eine Überaktivierung des Schmerzsystems handelt. In Reportage Gesundheit zeigen wir, welche Schmerztherapien Patienten wie Christine Peterlini machen und worauf sie noch zu achten gelernt haben, um mit der Erkrankung zurecht zu kommen.</desc>
-  </programme>
-  <programme start="20261121221000 +0100" stop="20261121223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261122200000 +0100" stop="20261122202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau mit Sport</title>
     <sub-title/>
