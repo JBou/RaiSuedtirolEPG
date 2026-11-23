@@ -4,29 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261122200000 +0100" stop="20261122202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau mit Sport</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261122202000 +0100" stop="20261122204430 +0100" channel="Rai Südtirol">
-    <title>Land und Leute</title>
-    <sub-title>Labers und Freiberg bei Meran</sub-title>
-    <desc>Oberhalb von Meran liegt Labers/Freiberg, ein Ortsteil, der mit seiner besonderen Geschichte, eindrucksvollen Landschaft und einem starken Zusammenhalt überrascht.  
-
-Die Freiwillige Feuerwehr Freiberg ist seit Generationen ein wichtiger Bestandteil des Gemeinschaftslebens. Hoch über dem Tal erzählt die Fragsburg von vergangenen Jahrhunderten und einer Hoteliersfamilie, die hier ihre Wurzeln hat. Ganz in der Nähe stürzt der Fragsburger Wasserfall in die Tiefe. Die Künstlerin Margit Klammer findet in der Natur Inspiration für ihre außergewöhnlichen Werke.  
-Auch Schloss Labers blickt auf eine bewegte Vergangenheit zurück. Heute bemühen sich die Besitzer darum, den historischen Charakter des Schlosses zu bewahren.</desc>
-  </programme>
-  <programme start="20261122204500 +0100" stop="20261122204900 +0100" channel="Rai Südtirol">
-    <title>Nachgedacht mit Florian Kronbichler</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261122221000 +0100" stop="20261122223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261123180000 +0100" stop="20261123182800 +0100" channel="Rai Südtirol">
     <title>Zipp TV-Kinderfernsehen</title>
     <sub-title>Karamela im Fernheizwerk</sub-title>
