@@ -4,26 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261124200000 +0100" stop="20261124202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261124202000 +0100" stop="20261124203500 +0100" channel="Rai Südtirol">
-    <title>Pro &amp; Contra</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261124203500 +0100" stop="20261124204930 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Sein absolutes Ziel: die Paralympics 2028 in Los Angeles. David Kammerer ist Para-Sportkletterer und derzeit recht gut im Weltcup unterwegs. Training, Wettkampf und sein ganzes Leben ist derzeit auf das eine, große Event fokussiert. Doch, dort hin zu dürfen wird kein Leichtes, denn nur 40 Athleten qualifizieren sich. Da heißt es beißen und alles Potential mobilisieren - punktgenau. Diese Sportgeschichte gibt es unter anderem bei der SportZeit am Dienstag auf Rai Südtirol. Dazu noch kompakte Sportnews aus Südtirol und den Terminkalender für die kommende Woche.</desc>
-  </programme>
-  <programme start="20261124221000 +0100" stop="20261124223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261125200000 +0100" stop="20261125202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
