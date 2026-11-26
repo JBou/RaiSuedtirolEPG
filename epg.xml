@@ -4,23 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261125200000 +0100" stop="20261125202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261125202000 +0100" stop="20261125204930 +0100" channel="Rai Südtirol">
-    <title>Land &amp; Leben</title>
-    <sub-title>Magazin für Landwirtschaft</sub-title>
-    <desc>Weinfässer mit Geschichte: Wie drei Brüder ein traditionelles Handwerk in die Zukunft führen Gin aus den Dolomiten: Wie aus Erfahrung und Natur besondere Destillate entstehen Zwischen Regionalität und Weltmarkt: Wie Südtirols Gastronomie mit Lebensmitteln versorgt wird.
-
-In Sigmundskron bei Bozen fertigt die Fassbinderei Mittelberger seit über 60 Jahren hochwertige Holzfässer für den internationalen Markt. Traditionelles Handwerk trifft dabei auf neue Ideen und spezielle Kundenwünsche. Seit 1999 entsteht in der Manufaktur Zu Plun in Kastelruth ein besonderer Gin mit viel Liebe zum Handwerk. Was einst als Leidenschaft von Florian Rabanser Senior begann, wird heute von seinen Söhnen Florian und Paul weitergeführt, mit Gespür für besondere Zutaten, Qualität und außergewöhnliche Aromen. Knapp 40 Millionen Nächtigungen jährlich bedeuten einen enormen Bedarf an Lebensmitteln und davon stammt ein guter Teil aus dem Ausland. Doch wie viel Regionalität lässt sich in der Gastronomie tatsächlich auf den Teller bringen? Land&amp;Leben schaut hinter die Kulissen einer Brennerei, einer Fassbinderei und eines Gastronomie-Großhändlers.</desc>
-  </programme>
-  <programme start="20261125221000 +0100" stop="20261125223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261126200000 +0100" stop="20261126202000 +0100" channel="Rai Südtirol">
     <title>Tagesschau</title>
     <sub-title/>
