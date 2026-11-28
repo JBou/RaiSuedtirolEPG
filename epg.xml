@@ -4,43 +4,6 @@
     <display-name lang="de">Rai Südtirol</display-name>
     <icon src="https://i.imgur.com/GSsMRxE.png"/>
   </channel>
-  <programme start="20261127175900 +0100" stop="20261127182830 +0100" channel="Rai Südtirol">
-    <title>Südtirol Magazin</title>
-    <sub-title>Massentourismus</sub-title>
-    <desc>Südtirol am Limit: Wie der Ansturm auf die Alpen die Heimat zur Zerreißprobe macht. Der Hype um Hotspots wie den Pragser Wildsee oder die Seceda bringt Natur und Einheimische zunehmend an ihre Grenzen. Bettenstopp, Fahrverbote und Besucherlenkung - die Region kämpft um die Notbremse gegen den Overtourism. Über den Konflikt zwischen wirtschaftlichem Erfolg und dem Verlust der eigenen Heimat. Zu Gast ist Sylvia Rier mit ihrem Buch &quot;Ein Knigge für die Berge&quot;. In der Reihe &quot;Wiedersehen&quot; zeigen wir einen Ausschnitt aus dem Film &quot;Tourismus im Hochpustertal&quot; und in der Rubrik &quot;Unser Gedächtnis&quot; Bilder aus dem Tagesschau Archiv von Rai Südtirol aus dem Jahr 1976. Es moderiert Magdalena Oberstaller.</desc>
-  </programme>
-  <programme start="20261127182900 +0100" stop="20261127184330 +0100" channel="Rai Südtirol">
-    <title>SportZeit</title>
-    <sub-title/>
-    <desc>Sein absolutes Ziel: die Paralympics 2028 in Los Angeles. David Kammerer ist Para-Sportkletterer und derzeit recht gut im Weltcup unterwegs. Training, Wettkampf und sein ganzes Leben ist derzeit auf das eine, große Event fokussiert. Doch, dort hin zu dürfen wird kein Leichtes, denn nur 40 Athleten qualifizieren sich. Da heißt es beißen und alles Potential mobilisieren - punktgenau. Diese Sportgeschichte gibt es unter anderem bei der SportZeit am Dienstag auf Rai Südtirol. Dazu noch kompakte Sportnews aus Südtirol und den Terminkalender für die kommende Woche.</desc>
-  </programme>
-  <programme start="20261127184300 +0100" stop="20261127184850 +0100" channel="Rai Südtirol">
-    <title>Südtirol Digital</title>
-    <sub-title>Digitale Verwaltung</sub-title>
-    <desc>Die Baubranche verändert sich: Arbeitsabläufe werden vernetzter, Informationen schneller verfügbar und Gebäude zunehmend am Computer geplant. Südtirol Digital zeigt, wie BIM diese Entwicklung vorantreibt und wo noch Herausforderungen liegen.</desc>
-  </programme>
-  <programme start="20261127184900 +0100" stop="20261127185852 +0100" channel="Rai Südtirol">
-    <title>Drehmomente</title>
-    <sub-title>Die Weberei und Spinnerei Salutt in Mals</sub-title>
-    <desc>Mitten im Ortskern von Mals wurde von 1940 bis 2009 Wolle versponnen und verwebt. Die Maschinen stehen jetzt still, sollen jetzt aber dem Publikum zugänglich gemacht werden. Die Weberei und Spinnerei Salutt war bekannt für die Verarbeitung einheimischer Schafwolle. Schafwolle wurde zu Strickwolle verarbeitet, Fleckenteppiche wurden gewoben, Loden- und Walkstoffe hergestellt. Sieben Jahrzehnte lang ratterten die Maschinen - bis Ende 2009. Der Maschinenpark ist noch immer gut erhalten. Er soll nun dem Publikum zugänglich gemacht werden. So wurde bereits 2021 die ehemalige Verkaufsfläche der Spinnerei zu einem geteilten Arbeitsraum (co working space) umgebaut. Dazu besteht der Plan, die Maschinen einmal im Jahr wieder in Betrieb zu nehmen. Sie sind noch funktionstüchtig und auch das notwendige Know-how ist vorhanden.</desc>
-  </programme>
-  <programme start="20261127200000 +0100" stop="20261127202000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau</title>
-    <sub-title/>
-    <desc/>
-  </programme>
-  <programme start="20261127202000 +0100" stop="20261127215900 +0100" channel="Rai Südtirol">
-    <title>Toms Kellershow</title>
-    <sub-title>Zwischen Politik, Spitzensport, Poesie und Musik</sub-title>
-    <desc>Karl Zeller, langjähriger Südtiroler Parlamentarier und Rechtsanwalt, blickt auf seine politische Laufbahn zurück. Mehr als zwei Jahrzehnte hat er die Südtiroler Autonomiepolitik in Rom mitgestaltet. In der Kellershow erzählt er von politischen Herausforderungen, persönlichen Begegnungen und davon, was hinter den Kulissen der Politik passiert. 
-
-Franz Hofer hat über zwei Jahrzehnte als Mountainbike-Profi internationale Erfolge gefeiert. Heute ist er als MTB-Guide tätig und kennt die Südtiroler Bergwelt wie kaum ein anderer. Er spricht über seine sportliche Karriere, die Faszination des Mountainbikens und den verantwortungsvollen Umgang mit der Natur. Brigitte Knapp ist Schauspielerin, Autorin und Musikerin. Mit ihrem neuen Buch &quot;SchmetterDinge - Sinn &amp; Sinne&quot; und ihrem musikalischen Projekt &quot;zomm(k)lebm&quot; zeigt sie ihre vielseitige künstlerische Seite. Gemeinsam mit der Kellerkapelle sorgt sie auch für die musikalischen Höhepunkte der Sendung. Für poetische und nachdenkliche Momente sorgt der junge Felix Oberhollenzer aus Ahornach. Der erfolgreiche Nachwuchs-Poetry-Slammer präsentiert zwei seiner Texte und beweist, wie viel junge Menschen mit Sprache bewegen können. Ein besonderer Höhepunkt des Abends ist die Prämierung des Jahressiegers beim Kellershow-Rumpler. Wer sich im Laufe des Jahres am geschicktesten angestellt hat, wird nun mit dem begehrten Titel ausgezeichnet.</desc>
-  </programme>
-  <programme start="20261127221000 +0100" stop="20261127223000 +0100" channel="Rai Südtirol">
-    <title>Tagesschau 10 nach 10</title>
-    <sub-title/>
-    <desc/>
-  </programme>
   <programme start="20261128180000 +0100" stop="20261128182939 +0100" channel="Rai Südtirol">
     <title>Beziehungsweise</title>
     <sub-title>einfach.ethisch.leben</sub-title>
@@ -270,6 +233,28 @@ Als Kind wurde ihm gesagt, dass er seinen 18. Geburtstag möglicherweise nicht e
 In der neuen Folge der Dokumentarreihe &quot;Momentum&quot; begleitet Thomas Vonmetz einen Mann, der trotz aller Rückschläge nie aufgegeben hat und heute sagt: &quot;Aufgeben tut nur die Post.&quot;</desc>
   </programme>
   <programme start="20261205221000 +0100" stop="20261205223000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau 10 nach 10</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261206200000 +0100" stop="20261206202000 +0100" channel="Rai Südtirol">
+    <title>Tagesschau mit Sport</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261206202000 +0100" stop="20261206204930 +0100" channel="Rai Südtirol">
+    <title>Privat</title>
+    <sub-title>Sax Martl</sub-title>
+    <desc>Martin Resch alias Sax Martl ist seit Jahrzehnten auf den Bühnen unterwegs und begeistert sein Publikum als Entertainer. Doch wie sieht sein Leben abseits der Bühne aus? 
+
+Der musikalische Tausendsassa stand über sieben Jahre mit den Alpen Yuppies auf der Bühne, einer international erfolgreichen Unterhaltungsband. Zu seinen besonderen Auftritten zählt auch ein musikalisches Engagement bei einer Geburtstagsfeier von Fürst Albert von Monaco. Gemeinsam mit Herbert Pixner und dessen Italo Connection sowie zahlreichen weiteren Bands sorgte er im gesamten Alpenraum für Stimmung. Doch wer ist der Mann hinter dem Partytiger? Was treibt ihn an? Der Vollblutmusiker ist verheiratet und Vater von zwei Kindern.</desc>
+  </programme>
+  <programme start="20261206205000 +0100" stop="20261206205400 +0100" channel="Rai Südtirol">
+    <title>Nachgedacht mit Manuela Unterthiner</title>
+    <sub-title/>
+    <desc/>
+  </programme>
+  <programme start="20261206221000 +0100" stop="20261206223000 +0100" channel="Rai Südtirol">
     <title>Tagesschau 10 nach 10</title>
     <sub-title/>
     <desc/>
